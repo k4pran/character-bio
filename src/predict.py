@@ -98,7 +98,7 @@ def predict(text: str, model_dir: Path, max_length: int = 128):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--model_dir", default="models/emu-character-ner")
+    parser.add_argument("--model_dir", default="models/character-ner")
     parser.add_argument("--text", required=True)
     parser.add_argument("--max_length", type=int, default=128)
     args = parser.parse_args()

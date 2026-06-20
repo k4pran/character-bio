@@ -1,4 +1,4 @@
-# Emu Character BIO Test Dataset
+# Character BIO Test Dataset
 
 Synthetic dataset for testing a token-classification / NER training pipeline.
 

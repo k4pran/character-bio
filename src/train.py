@@ -166,7 +166,7 @@ def make_compute_metrics(id2label):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--data_dir", default="data")
-    parser.add_argument("--output_dir", default="models/emu-character-ner")
+    parser.add_argument("--output_dir", default="models/character-ner")
     parser.add_argument("--model_name", default="distilbert-base-uncased")
     parser.add_argument("--max_length", type=int, default=128)
     parser.add_argument("--epochs", type=float, default=5)
