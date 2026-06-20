@@ -1,0 +1,337 @@
+# id = litbank-0118
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = i might not have heard of the eruption at all had i not met ogilvy , the well-known astronomer , at ottershaw .
+i	O
+might	O
+not	O
+have	O
+heard	O
+of	O
+the	O
+eruption	O
+at	O
+all	O
+had	O
+i	O
+not	O
+met	O
+ogilvy	B-CHARACTER
+,	O
+the	O
+well-known	O
+astronomer	O
+,	O
+at	O
+ottershaw	O
+.	O
+
+# id = litbank-0119
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = ogilvy moved about , invisible but audible .
+ogilvy	B-CHARACTER
+moved	O
+about	O
+,	O
+invisible	O
+but	O
+audible	O
+.	O
+
+# id = litbank-0120
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = a reddish flash at the edge , the slightest projection of the outline just as the chronometer struck midnight ; and at that i told ogilvy and he took my place .
+a	O
+reddish	O
+flash	O
+at	O
+the	O
+edge	O
+,	O
+the	O
+slightest	O
+projection	O
+of	O
+the	O
+outline	O
+just	O
+as	O
+the	O
+chronometer	O
+struck	O
+midnight	O
+;	O
+and	O
+at	O
+that	O
+i	O
+told	O
+ogilvy	B-CHARACTER
+and	O
+he	O
+took	O
+my	O
+place	O
+.	O
+
+# id = litbank-0121
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = the night was warm and i was thirsty , and i went stretching my legs clumsily and feeling my way in the darkness , to the little table where the siphon stood , while ogilvy exclaimed at the streamer of gas that came out towards us .
+the	O
+night	O
+was	O
+warm	O
+and	O
+i	O
+was	O
+thirsty	O
+,	O
+and	O
+i	O
+went	O
+stretching	O
+my	O
+legs	O
+clumsily	O
+and	O
+feeling	O
+my	O
+way	O
+in	O
+the	O
+darkness	O
+,	O
+to	O
+the	O
+little	O
+table	O
+where	O
+the	O
+siphon	O
+stood	O
+,	O
+while	O
+ogilvy	B-CHARACTER
+exclaimed	O
+at	O
+the	O
+streamer	O
+of	O
+gas	O
+that	O
+came	O
+out	O
+towards	O
+us	O
+.	O
+
+# id = litbank-0122
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = ogilvy watched till one , and then gave it up ; and we lit the lantern and walked over to his house .
+ogilvy	B-CHARACTER
+watched	O
+till	O
+one	O
+,	O
+and	O
+then	O
+gave	O
+it	O
+up	O
+;	O
+and	O
+we	O
+lit	O
+the	O
+lantern	O
+and	O
+walked	O
+over	O
+to	O
+his	O
+house	O
+.	O
+
+# id = litbank-0113
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = with infinite complacency men went to and fro over this globe about their little affairs , serene in their assurance of their empire over matter .
+with	O
+infinite	O
+complacency	O
+men	O
+went	O
+to	O
+and	O
+fro	O
+over	O
+this	O
+globe	O
+about	O
+their	O
+little	O
+affairs	O
+,	O
+serene	O
+in	O
+their	O
+assurance	O
+of	O
+their	O
+empire	O
+over	O
+matter	O
+.	O
+
+# id = litbank-0114
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = it is possible that the infusoria under the microscope do the same .
+it	O
+is	O
+possible	O
+that	O
+the	O
+infusoria	O
+under	O
+the	O
+microscope	O
+do	O
+the	O
+same	O
+.	O
+
+# id = litbank-0115
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = no one gave a thought to the older worlds of space as sources of human danger , or thought of them only to dismiss the idea of life upon them as impossible or improbable .
+no	O
+one	O
+gave	O
+a	O
+thought	O
+to	O
+the	O
+older	O
+worlds	O
+of	O
+space	O
+as	O
+sources	O
+of	O
+human	O
+danger	O
+,	O
+or	O
+thought	O
+of	O
+them	O
+only	O
+to	O
+dismiss	O
+the	O
+idea	O
+of	O
+life	O
+upon	O
+them	O
+as	O
+impossible	O
+or	O
+improbable	O
+.	O
+
+# id = litbank-0116
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = it is curious to recall some of the mental habits of those departed days .
+it	O
+is	O
+curious	O
+to	O
+recall	O
+some	O
+of	O
+the	O
+mental	O
+habits	O
+of	O
+those	O
+departed	O
+days	O
+.	O
+
+# id = litbank-0117
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = at most terrestrial men fancied there might be other men upon mars , perhaps inferior to themselves and ready to welcome a missionary enterprise .
+at	O
+most	O
+terrestrial	O
+men	O
+fancied	O
+there	O
+might	O
+be	O
+other	O
+men	O
+upon	O
+mars	O
+,	O
+perhaps	O
+inferior	O
+to	O
+themselves	O
+and	O
+ready	O
+to	O
+welcome	O
+a	O
+missionary	O
+enterprise	O
+.	O
+

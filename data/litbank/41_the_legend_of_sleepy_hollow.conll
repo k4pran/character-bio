@@ -1,0 +1,494 @@
+# id = litbank-0123
+# source = LitBank
+# book = The Legend of Sleepy Hollow
+# book_id = 41_the_legend_of_sleepy_hollow
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41_the_legend_of_sleepy_hollow_brat.tsv
+# text = found among the papers of the late diedrich knickerbocker .
+found	O
+among	O
+the	O
+papers	O
+of	O
+the	O
+late	O
+diedrich	B-CHARACTER
+knickerbocker	I-CHARACTER
+.	O
+
+# id = litbank-0129
+# source = LitBank
+# book = The Legend of Sleepy Hollow
+# book_id = 41_the_legend_of_sleepy_hollow
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41_the_legend_of_sleepy_hollow_brat.tsv
+# text = such is the general purport of this legendary superstition , which has furnished materials for many a wild story in that region of shadows ; and the spectre is known at all the country firesides , by the name of the headless horseman of sleepy hollow .
+such	O
+is	O
+the	O
+general	O
+purport	O
+of	O
+this	O
+legendary	O
+superstition	O
+,	O
+which	O
+has	O
+furnished	O
+materials	O
+for	O
+many	O
+a	O
+wild	O
+story	O
+in	O
+that	O
+region	O
+of	O
+shadows	O
+;	O
+and	O
+the	O
+spectre	O
+is	O
+known	O
+at	O
+all	O
+the	O
+country	O
+firesides	O
+,	O
+by	O
+the	O
+name	O
+of	O
+the	O
+headless	B-CHARACTER
+horseman	I-CHARACTER
+of	I-CHARACTER
+sleepy	I-CHARACTER
+hollow	I-CHARACTER
+.	O
+
+# id = litbank-0130
+# source = LitBank
+# book = The Legend of Sleepy Hollow
+# book_id = 41_the_legend_of_sleepy_hollow
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41_the_legend_of_sleepy_hollow_brat.tsv
+# text = in this by-place of nature there abode , in a remote period of american history , that is to say , some thirty years since , a worthy wight of the name of ichabod crane , who sojourned , or , as he expressed it , “ tarried , ” in sleepy hollow , for the purpose of instructing the children of the vicinity .
+in	O
+this	O
+by-place	O
+of	O
+nature	O
+there	O
+abode	O
+,	O
+in	O
+a	O
+remote	O
+period	O
+of	O
+american	O
+history	O
+,	O
+that	O
+is	O
+to	O
+say	O
+,	O
+some	O
+thirty	O
+years	O
+since	O
+,	O
+a	O
+worthy	O
+wight	O
+of	O
+the	O
+name	O
+of	O
+ichabod	B-CHARACTER
+crane	I-CHARACTER
+,	O
+who	O
+sojourned	O
+,	O
+or	O
+,	O
+as	O
+he	O
+expressed	O
+it	O
+,	O
+“	O
+tarried	O
+,	O
+”	O
+in	O
+sleepy	O
+hollow	O
+,	O
+for	O
+the	O
+purpose	O
+of	O
+instructing	O
+the	O
+children	O
+of	O
+the	O
+vicinity	O
+.	O
+
+# id = litbank-0131
+# source = LitBank
+# book = The Legend of Sleepy Hollow
+# book_id = 41_the_legend_of_sleepy_hollow
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41_the_legend_of_sleepy_hollow_brat.tsv
+# text = the cognomen of crane was not inapplicable to his person .
+the	O
+cognomen	O
+of	O
+crane	B-CHARACTER
+was	O
+not	O
+inapplicable	O
+to	O
+his	O
+person	O
+.	O
+
+# id = litbank-0132
+# source = LitBank
+# book = The Legend of Sleepy Hollow
+# book_id = 41_the_legend_of_sleepy_hollow
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41_the_legend_of_sleepy_hollow_brat.tsv
+# text = it was most ingeniously secured at vacant hours , by a withe twisted in the handle of the door , and stakes set against the window shutters ; so that though a thief might get in with perfect ease , he would find some embarrassment in getting out , -- an idea most probably borrowed by the architect , yost van houten , from the mystery of an eelpot .
+it	O
+was	O
+most	O
+ingeniously	O
+secured	O
+at	O
+vacant	O
+hours	O
+,	O
+by	O
+a	O
+withe	O
+twisted	O
+in	O
+the	O
+handle	O
+of	O
+the	O
+door	O
+,	O
+and	O
+stakes	O
+set	O
+against	O
+the	O
+window	O
+shutters	O
+;	O
+so	O
+that	O
+though	O
+a	O
+thief	O
+might	O
+get	O
+in	O
+with	O
+perfect	O
+ease	O
+,	O
+he	O
+would	O
+find	O
+some	O
+embarrassment	O
+in	O
+getting	O
+out	O
+,	O
+--	O
+an	O
+idea	O
+most	O
+probably	O
+borrowed	O
+by	O
+the	O
+architect	O
+,	O
+yost	B-CHARACTER
+van	I-CHARACTER
+houten	I-CHARACTER
+,	O
+from	O
+the	O
+mystery	O
+of	O
+an	O
+eelpot	O
+.	O
+
+# id = litbank-0133
+# source = LitBank
+# book = The Legend of Sleepy Hollow
+# book_id = 41_the_legend_of_sleepy_hollow
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41_the_legend_of_sleepy_hollow_brat.tsv
+# text = ichabod crane ’s scholars certainly were not spoiled .
+ichabod	B-CHARACTER
+crane	I-CHARACTER
+’s	O
+scholars	O
+certainly	O
+were	O
+not	O
+spoiled	O
+.	O
+
+# id = litbank-0124
+# source = LitBank
+# book = The Legend of Sleepy Hollow
+# book_id = 41_the_legend_of_sleepy_hollow
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/41_the_legend_of_sleepy_hollow_brat.tsv
+# text = a pleasing land of drowsy head it was , of dreams that wave before the half-shut eye ; and of gay castles in the clouds that pass , forever flushing round a summer sky .
+a	O
+pleasing	O
+land	O
+of	O
+drowsy	O
+head	O
+it	O
+was	O
+,	O
+of	O
+dreams	O
+that	O
+wave	O
+before	O
+the	O
+half-shut	O
+eye	O
+;	O
+and	O
+of	O
+gay	O
+castles	O
+in	O
+the	O
+clouds	O
+that	O
+pass	O
+,	O
+forever	O
+flushing	O
+round	O
+a	O
+summer	O
+sky	O
+.	O
+
+# id = litbank-0125
+# source = LitBank
+# book = The Legend of Sleepy Hollow
+# book_id = 41_the_legend_of_sleepy_hollow
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/41_the_legend_of_sleepy_hollow_brat.tsv
+# text = this name was given , we are told , in former days , by the good housewives of the adjacent country , from the inveterate propensity of their husbands to linger about the village tavern on market days .
+this	O
+name	O
+was	O
+given	O
+,	O
+we	O
+are	O
+told	O
+,	O
+in	O
+former	O
+days	O
+,	O
+by	O
+the	O
+good	O
+housewives	O
+of	O
+the	O
+adjacent	O
+country	O
+,	O
+from	O
+the	O
+inveterate	O
+propensity	O
+of	O
+their	O
+husbands	O
+to	O
+linger	O
+about	O
+the	O
+village	O
+tavern	O
+on	O
+market	O
+days	O
+.	O
+
+# id = litbank-0126
+# source = LitBank
+# book = The Legend of Sleepy Hollow
+# book_id = 41_the_legend_of_sleepy_hollow
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/41_the_legend_of_sleepy_hollow_brat.tsv
+# text = be that as it may , i do not vouch for the fact , but merely advert to it , for the sake of being precise and authentic .
+be	O
+that	O
+as	O
+it	O
+may	O
+,	O
+i	O
+do	O
+not	O
+vouch	O
+for	O
+the	O
+fact	O
+,	O
+but	O
+merely	O
+advert	O
+to	O
+it	O
+,	O
+for	O
+the	O
+sake	O
+of	O
+being	O
+precise	O
+and	O
+authentic	O
+.	O
+
+# id = litbank-0127
+# source = LitBank
+# book = The Legend of Sleepy Hollow
+# book_id = 41_the_legend_of_sleepy_hollow
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/41_the_legend_of_sleepy_hollow_brat.tsv
+# text = not far from this village , perhaps about two miles , there is a little valley or rather lap of land among high hills , which is one of the quietest places in the whole world .
+not	O
+far	O
+from	O
+this	O
+village	O
+,	O
+perhaps	O
+about	O
+two	O
+miles	O
+,	O
+there	O
+is	O
+a	O
+little	O
+valley	O
+or	O
+rather	O
+lap	O
+of	O
+land	O
+among	O
+high	O
+hills	O
+,	O
+which	O
+is	O
+one	O
+of	O
+the	O
+quietest	O
+places	O
+in	O
+the	O
+whole	O
+world	O
+.	O
+
+# id = litbank-0128
+# source = LitBank
+# book = The Legend of Sleepy Hollow
+# book_id = 41_the_legend_of_sleepy_hollow
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/41_the_legend_of_sleepy_hollow_brat.tsv
+# text = a small brook glides through it , with just murmur enough to lull one to repose ; and the occasional whistle of a quail or tapping of a woodpecker is almost the only sound that ever breaks in upon the uniform tranquillity .
+a	O
+small	O
+brook	O
+glides	O
+through	O
+it	O
+,	O
+with	O
+just	O
+murmur	O
+enough	O
+to	O
+lull	O
+one	O
+to	O
+repose	O
+;	O
+and	O
+the	O
+occasional	O
+whistle	O
+of	O
+a	O
+quail	O
+or	O
+tapping	O
+of	O
+a	O
+woodpecker	O
+is	O
+almost	O
+the	O
+only	O
+sound	O
+that	O
+ever	O
+breaks	O
+in	O
+upon	O
+the	O
+uniform	O
+tranquillity	O
+.	O
+

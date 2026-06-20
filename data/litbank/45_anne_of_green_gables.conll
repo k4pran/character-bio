@@ -1,0 +1,1956 @@
+# id = litbank-0165
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = chapter i. mrs. rachel lynde is surprised | mrs. rachel lynde lived just where the avonlea main road dipped down into a little hollow , fringed with alders and ladies ’ eardrops and traversed by a brook that had its source away back in the woods of the old cuthbert place ; it was reputed to be an intricate , headlong brook in its earlier course through those woods , with dark secrets of pool and cascade ; but by the time it reached lynde ’s hollow it was a quiet , well-conducted little stream , for not even a brook could run past mrs. rachel lynde ’s door without due regard for decency and decorum ; it probably was conscious that mrs. rachel was sitting at her window , keeping a sharp eye on everything that passed , from brooks and children up , and that if she noticed anything odd or out of place she would never rest until she had ferreted out the whys and wherefores thereof .
+chapter	O
+i.	O
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+lynde	I-CHARACTER
+is	O
+surprised	O
+|	O
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+lynde	I-CHARACTER
+lived	O
+just	O
+where	O
+the	O
+avonlea	O
+main	O
+road	O
+dipped	O
+down	O
+into	O
+a	O
+little	O
+hollow	O
+,	O
+fringed	O
+with	O
+alders	O
+and	O
+ladies	O
+’	O
+eardrops	O
+and	O
+traversed	O
+by	O
+a	O
+brook	O
+that	O
+had	O
+its	O
+source	O
+away	O
+back	O
+in	O
+the	O
+woods	O
+of	O
+the	O
+old	O
+cuthbert	O
+place	O
+;	O
+it	O
+was	O
+reputed	O
+to	O
+be	O
+an	O
+intricate	O
+,	O
+headlong	O
+brook	O
+in	O
+its	O
+earlier	O
+course	O
+through	O
+those	O
+woods	O
+,	O
+with	O
+dark	O
+secrets	O
+of	O
+pool	O
+and	O
+cascade	O
+;	O
+but	O
+by	O
+the	O
+time	O
+it	O
+reached	O
+lynde	O
+’s	O
+hollow	O
+it	O
+was	O
+a	O
+quiet	O
+,	O
+well-conducted	O
+little	O
+stream	O
+,	O
+for	O
+not	O
+even	O
+a	O
+brook	O
+could	O
+run	O
+past	O
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+lynde	I-CHARACTER
+’s	O
+door	O
+without	O
+due	O
+regard	O
+for	O
+decency	O
+and	O
+decorum	O
+;	O
+it	O
+probably	O
+was	O
+conscious	O
+that	O
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+was	O
+sitting	O
+at	O
+her	O
+window	O
+,	O
+keeping	O
+a	O
+sharp	O
+eye	O
+on	O
+everything	O
+that	O
+passed	O
+,	O
+from	O
+brooks	O
+and	O
+children	O
+up	O
+,	O
+and	O
+that	O
+if	O
+she	O
+noticed	O
+anything	O
+odd	O
+or	O
+out	O
+of	O
+place	O
+she	O
+would	O
+never	O
+rest	O
+until	O
+she	O
+had	O
+ferreted	O
+out	O
+the	O
+whys	O
+and	O
+wherefores	O
+thereof	O
+.	O
+
+# id = litbank-0166
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = there are plenty of people in avonlea and out of it , who can attend closely to their neighbor ’s business by dint of neglecting their own ; but mrs. rachel lynde was one of those capable creatures who can manage their own concerns and those of other folks into the bargain .
+there	O
+are	O
+plenty	O
+of	O
+people	O
+in	O
+avonlea	O
+and	O
+out	O
+of	O
+it	O
+,	O
+who	O
+can	O
+attend	O
+closely	O
+to	O
+their	O
+neighbor	O
+’s	O
+business	O
+by	O
+dint	O
+of	O
+neglecting	O
+their	O
+own	O
+;	O
+but	O
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+lynde	I-CHARACTER
+was	O
+one	O
+of	O
+those	O
+capable	O
+creatures	O
+who	O
+can	O
+manage	O
+their	O
+own	O
+concerns	O
+and	O
+those	O
+of	O
+other	O
+folks	O
+into	O
+the	O
+bargain	O
+.	O
+
+# id = litbank-0168
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = yet with all this mrs. rachel found abundant time to sit for hours at her kitchen window , knitting “ cotton warp ” quilts -- she had knitted sixteen of them , as avonlea housekeepers were wont to tell in awed voices -- and keeping a sharp eye on the main road that crossed the hollow and wound up the steep red hill beyond .
+yet	O
+with	O
+all	O
+this	O
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+found	O
+abundant	O
+time	O
+to	O
+sit	O
+for	O
+hours	O
+at	O
+her	O
+kitchen	O
+window	O
+,	O
+knitting	O
+“	O
+cotton	O
+warp	O
+”	O
+quilts	O
+--	O
+she	O
+had	O
+knitted	O
+sixteen	O
+of	O
+them	O
+,	O
+as	O
+avonlea	O
+housekeepers	O
+were	O
+wont	O
+to	O
+tell	O
+in	O
+awed	O
+voices	O
+--	O
+and	O
+keeping	O
+a	O
+sharp	O
+eye	O
+on	O
+the	O
+main	O
+road	O
+that	O
+crossed	O
+the	O
+hollow	O
+and	O
+wound	O
+up	O
+the	O
+steep	O
+red	O
+hill	O
+beyond	O
+.	O
+
+# id = litbank-0169
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = since avonlea occupied a little triangular peninsula jutting out into the gulf of st. lawrence with water on two sides of it , anybody who went out of it or into it had to pass over that hill road and so run the unseen gauntlet of mrs. rachel ’s all-seeing eye .
+since	O
+avonlea	O
+occupied	O
+a	O
+little	O
+triangular	O
+peninsula	O
+jutting	O
+out	O
+into	O
+the	O
+gulf	O
+of	O
+st.	O
+lawrence	O
+with	O
+water	O
+on	O
+two	O
+sides	O
+of	O
+it	O
+,	O
+anybody	O
+who	O
+went	O
+out	O
+of	O
+it	O
+or	O
+into	O
+it	O
+had	O
+to	O
+pass	O
+over	O
+that	O
+hill	O
+road	O
+and	O
+so	O
+run	O
+the	O
+unseen	O
+gauntlet	O
+of	O
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+’s	O
+all-seeing	O
+eye	O
+.	O
+
+# id = litbank-0172
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = thomas lynde -- a meek little man whom avonlea people called “ rachel lynde ’s husband ” -- was sowing his late turnip seed on the hill field beyond the barn ; and matthew cuthbert ought to have been sowing his on the big red brook field away over by green gables .
+thomas	B-CHARACTER
+lynde	I-CHARACTER
+--	O
+a	O
+meek	O
+little	O
+man	O
+whom	O
+avonlea	O
+people	O
+called	O
+“	O
+rachel	B-CHARACTER
+lynde	I-CHARACTER
+’s	O
+husband	O
+”	O
+--	O
+was	O
+sowing	O
+his	O
+late	O
+turnip	O
+seed	O
+on	O
+the	O
+hill	O
+field	O
+beyond	O
+the	O
+barn	O
+;	O
+and	O
+matthew	B-CHARACTER
+cuthbert	I-CHARACTER
+ought	O
+to	O
+have	O
+been	O
+sowing	O
+his	O
+on	O
+the	O
+big	O
+red	O
+brook	O
+field	O
+away	O
+over	O
+by	O
+green	O
+gables	O
+.	O
+
+# id = litbank-0173
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = mrs. rachel knew that he ought because she had heard him tell peter morrison the evening before in william j. blair ’s store over at carmody that he meant to sow his turnip seed the next afternoon .
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+knew	O
+that	O
+he	O
+ought	O
+because	O
+she	O
+had	O
+heard	O
+him	O
+tell	O
+peter	B-CHARACTER
+morrison	I-CHARACTER
+the	O
+evening	O
+before	O
+in	O
+william	B-CHARACTER
+j.	I-CHARACTER
+blair	I-CHARACTER
+’s	O
+store	O
+over	O
+at	O
+carmody	O
+that	O
+he	O
+meant	O
+to	O
+sow	O
+his	O
+turnip	O
+seed	O
+the	O
+next	O
+afternoon	O
+.	O
+
+# id = litbank-0174
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = peter had asked him , of course , for matthew cuthbert had never been known to volunteer information about anything in his whole life .
+peter	B-CHARACTER
+had	O
+asked	O
+him	O
+,	O
+of	O
+course	O
+,	O
+for	O
+matthew	B-CHARACTER
+cuthbert	I-CHARACTER
+had	O
+never	O
+been	O
+known	O
+to	O
+volunteer	O
+information	O
+about	O
+anything	O
+in	O
+his	O
+whole	O
+life	O
+.	O
+
+# id = litbank-0175
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = and yet here was matthew cuthbert , at half-past three on the afternoon of a busy day , placidly driving over the hollow and up the hill ; moreover , he wore a white collar and his best suit of clothes , which was plain proof that he was going out of avonlea ; and he had the buggy and the sorrel mare , which betokened that he was going a considerable distance .
+and	O
+yet	O
+here	O
+was	O
+matthew	B-CHARACTER
+cuthbert	I-CHARACTER
+,	O
+at	O
+half-past	O
+three	O
+on	O
+the	O
+afternoon	O
+of	O
+a	O
+busy	O
+day	O
+,	O
+placidly	O
+driving	O
+over	O
+the	O
+hollow	O
+and	O
+up	O
+the	O
+hill	O
+;	O
+moreover	O
+,	O
+he	O
+wore	O
+a	O
+white	O
+collar	O
+and	O
+his	O
+best	O
+suit	O
+of	O
+clothes	O
+,	O
+which	O
+was	O
+plain	O
+proof	O
+that	O
+he	O
+was	O
+going	O
+out	O
+of	O
+avonlea	O
+;	O
+and	O
+he	O
+had	O
+the	O
+buggy	O
+and	O
+the	O
+sorrel	O
+mare	O
+,	O
+which	O
+betokened	O
+that	O
+he	O
+was	O
+going	O
+a	O
+considerable	O
+distance	O
+.	O
+
+# id = litbank-0176
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = now , where was matthew cuthbert going and why was he going there ?
+now	O
+,	O
+where	O
+was	O
+matthew	B-CHARACTER
+cuthbert	I-CHARACTER
+going	O
+and	O
+why	O
+was	O
+he	O
+going	O
+there	O
+?	O
+
+# id = litbank-0177
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = had it been any other man in avonlea , mrs. rachel , deftly putting this and that together , might have given a pretty good guess as to both questions .
+had	O
+it	O
+been	O
+any	O
+other	O
+man	O
+in	O
+avonlea	O
+,	O
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+,	O
+deftly	O
+putting	O
+this	O
+and	O
+that	O
+together	O
+,	O
+might	O
+have	O
+given	O
+a	O
+pretty	O
+good	O
+guess	O
+as	O
+to	O
+both	O
+questions	O
+.	O
+
+# id = litbank-0178
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = but matthew so rarely went from home that it must be something pressing and unusual which was taking him ; he was the shyest man alive and hated to have to go among strangers or to any place where he might have to talk .
+but	O
+matthew	B-CHARACTER
+so	O
+rarely	O
+went	O
+from	O
+home	O
+that	O
+it	O
+must	O
+be	O
+something	O
+pressing	O
+and	O
+unusual	O
+which	O
+was	O
+taking	O
+him	O
+;	O
+he	O
+was	O
+the	O
+shyest	O
+man	O
+alive	O
+and	O
+hated	O
+to	O
+have	O
+to	O
+go	O
+among	O
+strangers	O
+or	O
+to	O
+any	O
+place	O
+where	O
+he	O
+might	O
+have	O
+to	O
+talk	O
+.	O
+
+# id = litbank-0179
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = matthew , dressed up with a white collar and driving in a buggy , was something that did n’t happen often .
+matthew	B-CHARACTER
+,	O
+dressed	O
+up	O
+with	O
+a	O
+white	O
+collar	O
+and	O
+driving	O
+in	O
+a	O
+buggy	O
+,	O
+was	O
+something	O
+that	O
+did	O
+n’t	O
+happen	O
+often	O
+.	O
+
+# id = litbank-0180
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = mrs. rachel , ponder as she might , could make nothing of it and her afternoon ’s enjoyment was spoiled .
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+,	O
+ponder	O
+as	O
+she	O
+might	O
+,	O
+could	O
+make	O
+nothing	O
+of	O
+it	O
+and	O
+her	O
+afternoon	O
+’s	O
+enjoyment	O
+was	O
+spoiled	O
+.	O
+
+# id = litbank-0181
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = “ i ’ll just step over to green gables after tea and find out from marilla where he ’s gone and why , ” the worthy woman finally concluded .
+“	O
+i	O
+’ll	O
+just	O
+step	O
+over	O
+to	O
+green	O
+gables	O
+after	O
+tea	O
+and	O
+find	O
+out	O
+from	O
+marilla	B-CHARACTER
+where	O
+he	O
+’s	O
+gone	O
+and	O
+why	O
+,	O
+”	O
+the	O
+worthy	O
+woman	O
+finally	O
+concluded	O
+.	O
+
+# id = litbank-0184
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = i ’m clean puzzled , that ’s what , and i wo n’t know a minute ’s peace of mind or conscience until i know what has taken matthew cuthbert out of avonlea today . ”
+i	O
+’m	O
+clean	O
+puzzled	O
+,	O
+that	O
+’s	O
+what	O
+,	O
+and	O
+i	O
+wo	O
+n’t	O
+know	O
+a	O
+minute	O
+’s	O
+peace	O
+of	O
+mind	O
+or	O
+conscience	O
+until	O
+i	O
+know	O
+what	O
+has	O
+taken	O
+matthew	B-CHARACTER
+cuthbert	I-CHARACTER
+out	O
+of	O
+avonlea	O
+today	O
+.	O
+”	O
+
+# id = litbank-0185
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = accordingly after tea mrs. rachel set out ; she had not far to go ; the big , rambling , orchard-embowered house where the cuthberts lived was a scant quarter of a mile up the road from lynde ’s hollow .
+accordingly	O
+after	O
+tea	O
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+set	O
+out	O
+;	O
+she	O
+had	O
+not	O
+far	O
+to	O
+go	O
+;	O
+the	O
+big	O
+,	O
+rambling	O
+,	O
+orchard-embowered	O
+house	O
+where	O
+the	O
+cuthberts	O
+lived	O
+was	O
+a	O
+scant	O
+quarter	O
+of	O
+a	O
+mile	O
+up	O
+the	O
+road	O
+from	O
+lynde	O
+’s	O
+hollow	O
+.	O
+
+# id = litbank-0186
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = matthew cuthbert ’s father , as shy and silent as his son after him , had got as far away as he possibly could from his fellow men without actually retreating into the woods when he founded his homestead .
+matthew	B-CHARACTER
+cuthbert	I-CHARACTER
+’s	O
+father	O
+,	O
+as	O
+shy	O
+and	O
+silent	O
+as	O
+his	O
+son	O
+after	O
+him	O
+,	O
+had	O
+got	O
+as	O
+far	O
+away	O
+as	O
+he	O
+possibly	O
+could	O
+from	O
+his	O
+fellow	O
+men	O
+without	O
+actually	O
+retreating	O
+into	O
+the	O
+woods	O
+when	O
+he	O
+founded	O
+his	O
+homestead	O
+.	O
+
+# id = litbank-0187
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = mrs. rachel lynde did not call living in such a place _ living _ at all .
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+lynde	I-CHARACTER
+did	O
+not	O
+call	O
+living	O
+in	O
+such	O
+a	O
+place	O
+_	O
+living	O
+_	O
+at	O
+all	O
+.	O
+
+# id = litbank-0188
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = “ it ’s no wonder matthew and marilla are both a little odd , living away back here by themselves .
+“	O
+it	O
+’s	O
+no	O
+wonder	O
+matthew	B-CHARACTER
+and	O
+marilla	B-CHARACTER
+are	O
+both	O
+a	O
+little	O
+odd	O
+,	O
+living	O
+away	O
+back	O
+here	O
+by	O
+themselves	O
+.	O
+
+# id = litbank-0189
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = with this mrs. rachel stepped out of the lane into the backyard of green gables .
+with	O
+this	O
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+stepped	O
+out	O
+of	O
+the	O
+lane	O
+into	O
+the	O
+backyard	O
+of	O
+green	O
+gables	O
+.	O
+
+# id = litbank-0190
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = not a stray stick nor stone was to be seen , for mrs. rachel would have seen it if there had been .
+not	O
+a	O
+stray	O
+stick	O
+nor	O
+stone	O
+was	O
+to	O
+be	O
+seen	O
+,	O
+for	O
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+would	O
+have	O
+seen	O
+it	O
+if	O
+there	O
+had	O
+been	O
+.	O
+
+# id = litbank-0191
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = privately she was of the opinion that marilla cuthbert swept that yard over as often as she swept her house .
+privately	O
+she	O
+was	O
+of	O
+the	O
+opinion	O
+that	O
+marilla	B-CHARACTER
+cuthbert	I-CHARACTER
+swept	O
+that	O
+yard	O
+over	O
+as	O
+often	O
+as	O
+she	O
+swept	O
+her	O
+house	O
+.	O
+
+# id = litbank-0192
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = mrs. rachel rapped smartly at the kitchen door and stepped in when bidden to do so .
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+rapped	O
+smartly	O
+at	O
+the	O
+kitchen	O
+door	O
+and	O
+stepped	O
+in	O
+when	O
+bidden	O
+to	O
+do	O
+so	O
+.	O
+
+# id = litbank-0193
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = here sat marilla cuthbert , when she sat at all , always slightly distrustful of sunshine , which seemed to her too dancing and irresponsible a thing for a world which was meant to be taken seriously ; and here she sat now , knitting , and the table behind her was laid for supper .
+here	O
+sat	O
+marilla	B-CHARACTER
+cuthbert	I-CHARACTER
+,	O
+when	O
+she	O
+sat	O
+at	O
+all	O
+,	O
+always	O
+slightly	O
+distrustful	O
+of	O
+sunshine	O
+,	O
+which	O
+seemed	O
+to	O
+her	O
+too	O
+dancing	O
+and	O
+irresponsible	O
+a	O
+thing	O
+for	O
+a	O
+world	O
+which	O
+was	O
+meant	O
+to	O
+be	O
+taken	O
+seriously	O
+;	O
+and	O
+here	O
+she	O
+sat	O
+now	O
+,	O
+knitting	O
+,	O
+and	O
+the	O
+table	O
+behind	O
+her	O
+was	O
+laid	O
+for	O
+supper	O
+.	O
+
+# id = litbank-0194
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = mrs. rachel , before she had fairly closed the door , had taken a mental note of everything that was on that table .
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+,	O
+before	O
+she	O
+had	O
+fairly	O
+closed	O
+the	O
+door	O
+,	O
+had	O
+taken	O
+a	O
+mental	O
+note	O
+of	O
+everything	O
+that	O
+was	O
+on	O
+that	O
+table	O
+.	O
+
+# id = litbank-0195
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = there were three plates laid , so that marilla must be expecting some one home with matthew to tea ; but the dishes were everyday dishes and there was only crab-apple preserves and one kind of cake , so that the expected company could not be any particular company .
+there	O
+were	O
+three	O
+plates	O
+laid	O
+,	O
+so	O
+that	O
+marilla	B-CHARACTER
+must	O
+be	O
+expecting	O
+some	O
+one	O
+home	O
+with	O
+matthew	B-CHARACTER
+to	O
+tea	O
+;	O
+but	O
+the	O
+dishes	O
+were	O
+everyday	O
+dishes	O
+and	O
+there	O
+was	O
+only	O
+crab-apple	O
+preserves	O
+and	O
+one	O
+kind	O
+of	O
+cake	O
+,	O
+so	O
+that	O
+the	O
+expected	O
+company	O
+could	O
+not	O
+be	O
+any	O
+particular	O
+company	O
+.	O
+
+# id = litbank-0196
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = yet what of matthew ’s white collar and the sorrel mare ?
+yet	O
+what	O
+of	O
+matthew	B-CHARACTER
+’s	O
+white	O
+collar	O
+and	O
+the	O
+sorrel	O
+mare	O
+?	O
+
+# id = litbank-0197
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = mrs. rachel was getting fairly dizzy with this unusual mystery about quiet , unmysterious green gables .
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+was	O
+getting	O
+fairly	O
+dizzy	O
+with	O
+this	O
+unusual	O
+mystery	O
+about	O
+quiet	O
+,	O
+unmysterious	O
+green	O
+gables	O
+.	O
+
+# id = litbank-0198
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = “ good evening , rachel , ” marilla said briskly .
+“	O
+good	O
+evening	O
+,	O
+rachel	B-CHARACTER
+,	O
+”	O
+marilla	B-CHARACTER
+said	O
+briskly	O
+.	O
+
+# id = litbank-0199
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = something that for lack of any other name might be called friendship existed and always had existed between marilla cuthbert and mrs. rachel , in spite of -- or perhaps because of -- their dissimilarity .
+something	O
+that	O
+for	O
+lack	O
+of	O
+any	O
+other	O
+name	O
+might	O
+be	O
+called	O
+friendship	O
+existed	O
+and	O
+always	O
+had	O
+existed	O
+between	O
+marilla	B-CHARACTER
+cuthbert	I-CHARACTER
+and	O
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+,	O
+in	O
+spite	O
+of	O
+--	O
+or	O
+perhaps	O
+because	O
+of	O
+--	O
+their	O
+dissimilarity	O
+.	O
+
+# id = litbank-0200
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = marilla was a tall , thin woman , with angles and without curves ; her dark hair showed some gray streaks and was always twisted up in a hard little knot behind with two wire hairpins stuck aggressively through it .
+marilla	B-CHARACTER
+was	O
+a	O
+tall	O
+,	O
+thin	O
+woman	O
+,	O
+with	O
+angles	O
+and	O
+without	O
+curves	O
+;	O
+her	O
+dark	O
+hair	O
+showed	O
+some	O
+gray	O
+streaks	O
+and	O
+was	O
+always	O
+twisted	O
+up	O
+in	O
+a	O
+hard	O
+little	O
+knot	O
+behind	O
+with	O
+two	O
+wire	O
+hairpins	O
+stuck	O
+aggressively	O
+through	O
+it	O
+.	O
+
+# id = litbank-0201
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = “ we ’re all pretty well , ” said mrs. rachel .
+“	O
+we	O
+’re	O
+all	O
+pretty	O
+well	O
+,	O
+”	O
+said	O
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+.	O
+
+# id = litbank-0202
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = “ i was kind of afraid _ you _ were n’t , though , when i saw matthew starting off today .
+“	O
+i	O
+was	O
+kind	O
+of	O
+afraid	O
+_	O
+you	O
+_	O
+were	O
+n’t	O
+,	O
+though	O
+,	O
+when	O
+i	O
+saw	O
+matthew	B-CHARACTER
+starting	O
+off	O
+today	O
+.	O
+
+# id = litbank-0203
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = marilla ’s lips twitched understandingly .
+marilla	B-CHARACTER
+’s	O
+lips	O
+twitched	O
+understandingly	O
+.	O
+
+# id = litbank-0204
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = she had expected mrs. rachel up ; she had known that the sight of matthew jaunting off so unaccountably would be too much for her neighbor ’s curiosity .
+she	O
+had	O
+expected	O
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+up	O
+;	O
+she	O
+had	O
+known	O
+that	O
+the	O
+sight	O
+of	O
+matthew	B-CHARACTER
+jaunting	O
+off	O
+so	O
+unaccountably	O
+would	O
+be	O
+too	O
+much	O
+for	O
+her	O
+neighbor	O
+’s	O
+curiosity	O
+.	O
+
+# id = litbank-0205
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = “ matthew went to bright river .
+“	O
+matthew	B-CHARACTER
+went	O
+to	O
+bright	O
+river	O
+.	O
+
+# id = litbank-0206
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = if marilla had said that matthew had gone to bright river to meet a kangaroo from australia mrs. rachel could not have been more astonished .
+if	O
+marilla	B-CHARACTER
+had	O
+said	O
+that	O
+matthew	B-CHARACTER
+had	O
+gone	O
+to	O
+bright	O
+river	O
+to	O
+meet	O
+a	O
+kangaroo	O
+from	O
+australia	O
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+could	O
+not	O
+have	O
+been	O
+more	O
+astonished	O
+.	O
+
+# id = litbank-0207
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = it was unsupposable that marilla was making fun of her , but mrs. rachel was almost forced to suppose it .
+it	O
+was	O
+unsupposable	O
+that	O
+marilla	B-CHARACTER
+was	O
+making	O
+fun	O
+of	O
+her	O
+,	O
+but	O
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+was	O
+almost	O
+forced	O
+to	O
+suppose	O
+it	O
+.	O
+
+# id = litbank-0208
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = “ are you in earnest , marilla ? ” she demanded when voice returned to her .
+“	O
+are	O
+you	O
+in	O
+earnest	O
+,	O
+marilla	B-CHARACTER
+?	O
+”	O
+she	O
+demanded	O
+when	O
+voice	O
+returned	O
+to	O
+her	O
+.	O
+
+# id = litbank-0209
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = “ yes , of course , ” said marilla , as if getting boys from orphan asylums in nova scotia were part of the usual spring work on any well-regulated avonlea farm instead of being an unheard of innovation .
+“	O
+yes	O
+,	O
+of	O
+course	O
+,	O
+”	O
+said	O
+marilla	B-CHARACTER
+,	O
+as	O
+if	O
+getting	O
+boys	O
+from	O
+orphan	O
+asylums	O
+in	O
+nova	O
+scotia	O
+were	O
+part	O
+of	O
+the	O
+usual	O
+spring	O
+work	O
+on	O
+any	O
+well-regulated	O
+avonlea	O
+farm	O
+instead	O
+of	O
+being	O
+an	O
+unheard	O
+of	O
+innovation	O
+.	O
+
+# id = litbank-0210
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = mrs. rachel felt that she had received a severe mental jolt .
+mrs.	B-CHARACTER
+rachel	I-CHARACTER
+felt	O
+that	O
+she	O
+had	O
+received	O
+a	O
+severe	O
+mental	O
+jolt	O
+.	O
+
+# id = litbank-0211
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = marilla and matthew cuthbert of all people adopting a boy !
+marilla	B-CHARACTER
+and	O
+matthew	B-CHARACTER
+cuthbert	I-CHARACTER
+of	O
+all	O
+people	O
+adopting	O
+a	O
+boy	O
+!	O
+
+# id = litbank-0167
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = she was a notable housewife ; her work was always done and well done ; she “ ran ” the sewing circle , helped run the sunday-school , and was the strongest prop of the church aid society and foreign missions auxiliary .
+she	O
+was	O
+a	O
+notable	O
+housewife	O
+;	O
+her	O
+work	O
+was	O
+always	O
+done	O
+and	O
+well	O
+done	O
+;	O
+she	O
+“	O
+ran	O
+”	O
+the	O
+sewing	O
+circle	O
+,	O
+helped	O
+run	O
+the	O
+sunday-school	O
+,	O
+and	O
+was	O
+the	O
+strongest	O
+prop	O
+of	O
+the	O
+church	O
+aid	O
+society	O
+and	O
+foreign	O
+missions	O
+auxiliary	O
+.	O
+
+# id = litbank-0170
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = she was sitting there one afternoon in early june .
+she	O
+was	O
+sitting	O
+there	O
+one	O
+afternoon	O
+in	O
+early	O
+june	O
+.	O
+
+# id = litbank-0171
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = the sun was coming in at the window warm and bright ; the orchard on the slope below the house was in a bridal flush of pinky-white bloom , hummed over by a myriad of bees .
+the	O
+sun	O
+was	O
+coming	O
+in	O
+at	O
+the	O
+window	O
+warm	O
+and	O
+bright	O
+;	O
+the	O
+orchard	O
+on	O
+the	O
+slope	O
+below	O
+the	O
+house	O
+was	O
+in	O
+a	O
+bridal	O
+flush	O
+of	O
+pinky-white	O
+bloom	O
+,	O
+hummed	O
+over	O
+by	O
+a	O
+myriad	O
+of	O
+bees	O
+.	O
+
+# id = litbank-0182
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = “ he does n’t generally go to town this time of year and he _ never _ visits ; if he ’d run out of turnip seed he would n’t dress up and take the buggy to go for more ; he was n’t driving fast enough to be going for a doctor .
+“	O
+he	O
+does	O
+n’t	O
+generally	O
+go	O
+to	O
+town	O
+this	O
+time	O
+of	O
+year	O
+and	O
+he	O
+_	O
+never	O
+_	O
+visits	O
+;	O
+if	O
+he	O
+’d	O
+run	O
+out	O
+of	O
+turnip	O
+seed	O
+he	O
+would	O
+n’t	O
+dress	O
+up	O
+and	O
+take	O
+the	O
+buggy	O
+to	O
+go	O
+for	O
+more	O
+;	O
+he	O
+was	O
+n’t	O
+driving	O
+fast	O
+enough	O
+to	O
+be	O
+going	O
+for	O
+a	O
+doctor	O
+.	O
+
+# id = litbank-0183
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = yet something must have happened since last night to start him off .
+yet	O
+something	O
+must	O
+have	O
+happened	O
+since	O
+last	O
+night	O
+to	O
+start	O
+him	O
+off	O
+.	O
+

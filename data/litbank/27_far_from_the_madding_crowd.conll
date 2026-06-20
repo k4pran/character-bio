@@ -1,0 +1,1212 @@
+# id = litbank-0055
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = chapter i description of farmer oak -- an incident when farmer oak smiled , the corners of his mouth spread till they were within an unimportant distance of his ears , his eyes were reduced to chinks , and diverging wrinkles appeared round them , extending upon his countenance like the rays in a rudimentary sketch of the rising sun .
+chapter	O
+i	O
+description	O
+of	O
+farmer	B-CHARACTER
+oak	I-CHARACTER
+--	O
+an	O
+incident	O
+when	O
+farmer	B-CHARACTER
+oak	I-CHARACTER
+smiled	O
+,	O
+the	O
+corners	O
+of	O
+his	O
+mouth	O
+spread	O
+till	O
+they	O
+were	O
+within	O
+an	O
+unimportant	O
+distance	O
+of	O
+his	O
+ears	O
+,	O
+his	O
+eyes	O
+were	O
+reduced	O
+to	O
+chinks	O
+,	O
+and	O
+diverging	O
+wrinkles	O
+appeared	O
+round	O
+them	O
+,	O
+extending	O
+upon	O
+his	O
+countenance	O
+like	O
+the	O
+rays	O
+in	O
+a	O
+rudimentary	O
+sketch	O
+of	O
+the	O
+rising	O
+sun	O
+.	O
+
+# id = litbank-0056
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = his christian name was gabriel , and on working days he was a young man of sound judgment , easy motions , proper dress , and general good character .
+his	O
+christian	O
+name	O
+was	O
+gabriel	B-CHARACTER
+,	O
+and	O
+on	O
+working	O
+days	O
+he	O
+was	O
+a	O
+young	O
+man	O
+of	O
+sound	O
+judgment	O
+,	O
+easy	O
+motions	O
+,	O
+proper	O
+dress	O
+,	O
+and	O
+general	O
+good	O
+character	O
+.	O
+
+# id = litbank-0058
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = since he lived six times as many working-days as sundays , oak 's appearance in his old clothes was most peculiarly his own -- the mental picture formed by his neighbours in imagining him being always dressed in that way .
+since	O
+he	O
+lived	O
+six	O
+times	O
+as	O
+many	O
+working-days	O
+as	O
+sundays	O
+,	O
+oak	B-CHARACTER
+'s	O
+appearance	O
+in	O
+his	O
+old	O
+clothes	O
+was	O
+most	O
+peculiarly	O
+his	O
+own	O
+--	O
+the	O
+mental	O
+picture	O
+formed	O
+by	O
+his	O
+neighbours	O
+in	O
+imagining	O
+him	O
+being	O
+always	O
+dressed	O
+in	O
+that	O
+way	O
+.	O
+
+# id = litbank-0059
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = mr. oak carried about him , by way of watch , - what may be called a small silver clock ; in other words , it was a watch as to shape and intention , and a small clock as to size .
+mr.	B-CHARACTER
+oak	I-CHARACTER
+carried	O
+about	O
+him	O
+,	O
+by	O
+way	O
+of	O
+watch	O
+,	O
+-	O
+what	O
+may	O
+be	O
+called	O
+a	O
+small	O
+silver	O
+clock	O
+;	O
+in	O
+other	O
+words	O
+,	O
+it	O
+was	O
+a	O
+watch	O
+as	O
+to	O
+shape	O
+and	O
+intention	O
+,	O
+and	O
+a	O
+small	O
+clock	O
+as	O
+to	O
+size	O
+.	O
+
+# id = litbank-0060
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = this instrument being several years older than oak 's grandfather , had the peculiarity of going either too fast or not at all .
+this	O
+instrument	O
+being	O
+several	O
+years	O
+older	O
+than	O
+oak	B-CHARACTER
+'s	O
+grandfather	O
+,	O
+had	O
+the	O
+peculiarity	O
+of	O
+going	O
+either	O
+too	O
+fast	O
+or	O
+not	O
+at	O
+all	O
+.	O
+
+# id = litbank-0062
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = the stopping peculiarity of his watch oak remedied by thumps and shakes , and he escaped any evil consequences from the other two defects by constant comparisons with and observations of the sun and stars , and by pressing his face close to the glass of his neighbours ' windows , till he could discern the hour marked by the green-faced timekeepers within .
+the	O
+stopping	O
+peculiarity	O
+of	O
+his	O
+watch	O
+oak	B-CHARACTER
+remedied	O
+by	O
+thumps	O
+and	O
+shakes	O
+,	O
+and	O
+he	O
+escaped	O
+any	O
+evil	O
+consequences	O
+from	O
+the	O
+other	O
+two	O
+defects	O
+by	O
+constant	O
+comparisons	O
+with	O
+and	O
+observations	O
+of	O
+the	O
+sun	O
+and	O
+stars	O
+,	O
+and	O
+by	O
+pressing	O
+his	O
+face	O
+close	O
+to	O
+the	O
+glass	O
+of	O
+his	O
+neighbours	O
+'	O
+windows	O
+,	O
+till	O
+he	O
+could	O
+discern	O
+the	O
+hour	O
+marked	O
+by	O
+the	O
+green-faced	O
+timekeepers	O
+within	O
+.	O
+
+# id = litbank-0063
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = it may be mentioned that oak 's fob being difficult of access , by reason of its somewhat high situation in the waistband of his trousers ( which also lay at a remote height under his waistcoat ) , the watch was as a necessity pulled out by throwing the body to one side , compressing the mouth and face to a mere mass of ruddy flesh on account of the exertion , and drawing up the watch by its chain , like a bucket from a well .
+it	O
+may	O
+be	O
+mentioned	O
+that	O
+oak	B-CHARACTER
+'s	O
+fob	O
+being	O
+difficult	O
+of	O
+access	O
+,	O
+by	O
+reason	O
+of	O
+its	O
+somewhat	O
+high	O
+situation	O
+in	O
+the	O
+waistband	O
+of	O
+his	O
+trousers	O
+(	O
+which	O
+also	O
+lay	O
+at	O
+a	O
+remote	O
+height	O
+under	O
+his	O
+waistcoat	O
+)	O
+,	O
+the	O
+watch	O
+was	O
+as	O
+a	O
+necessity	O
+pulled	O
+out	O
+by	O
+throwing	O
+the	O
+body	O
+to	O
+one	O
+side	O
+,	O
+compressing	O
+the	O
+mouth	O
+and	O
+face	O
+to	O
+a	O
+mere	O
+mass	O
+of	O
+ruddy	O
+flesh	O
+on	O
+account	O
+of	O
+the	O
+exertion	O
+,	O
+and	O
+drawing	O
+up	O
+the	O
+watch	O
+by	O
+its	O
+chain	O
+,	O
+like	O
+a	O
+bucket	O
+from	O
+a	O
+well	O
+.	O
+
+# id = litbank-0064
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = but some thoughtfull persons , who had seen him walking across one of his fields on a certain december morning -- sunny and exceedingly mild -- might have regarded gabriel oak in other aspects than these .
+but	O
+some	O
+thoughtfull	O
+persons	O
+,	O
+who	O
+had	O
+seen	O
+him	O
+walking	O
+across	O
+one	O
+of	O
+his	O
+fields	O
+on	O
+a	O
+certain	O
+december	O
+morning	O
+--	O
+sunny	O
+and	O
+exceedingly	O
+mild	O
+--	O
+might	O
+have	O
+regarded	O
+gabriel	B-CHARACTER
+oak	I-CHARACTER
+in	O
+other	O
+aspects	O
+than	O
+these	O
+.	O
+
+# id = litbank-0068
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = and from a quiet modesty that would have become a vestal which seemed continually to impress upon him that he had no great claim on the world 's room , oak walked unassumingly and with a faintly perceptible bend , yet distinct from a bowing of the shoulders .
+and	O
+from	O
+a	O
+quiet	O
+modesty	O
+that	O
+would	O
+have	O
+become	O
+a	O
+vestal	O
+which	O
+seemed	O
+continually	O
+to	O
+impress	O
+upon	O
+him	O
+that	O
+he	O
+had	O
+no	O
+great	O
+claim	O
+on	O
+the	O
+world	O
+'s	O
+room	O
+,	O
+oak	B-CHARACTER
+walked	O
+unassumingly	O
+and	O
+with	O
+a	O
+faintly	O
+perceptible	O
+bend	O
+,	O
+yet	O
+distinct	O
+from	O
+a	O
+bowing	O
+of	O
+the	O
+shoulders	O
+.	O
+
+# id = litbank-0069
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = this may be said to be a defect in an individual if he depends for his valuation more upon his appearance than upon his capacity to wear well , which oak did not .
+this	O
+may	O
+be	O
+said	O
+to	O
+be	O
+a	O
+defect	O
+in	O
+an	O
+individual	O
+if	O
+he	O
+depends	O
+for	O
+his	O
+valuation	O
+more	O
+upon	O
+his	O
+appearance	O
+than	O
+upon	O
+his	O
+capacity	O
+to	O
+wear	O
+well	O
+,	O
+which	O
+oak	B-CHARACTER
+did	O
+not	O
+.	O
+
+# id = litbank-0070
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = casually glancing over the hedge , oak saw coming down the incline before him an ornamental spring waggon , painted yellow and gaily marked , drawn by two horses , a waggoner walking alongside bearing a whip perpendicularly .
+casually	O
+glancing	O
+over	O
+the	O
+hedge	O
+,	O
+oak	B-CHARACTER
+saw	O
+coming	O
+down	O
+the	O
+incline	O
+before	O
+him	O
+an	O
+ornamental	O
+spring	O
+waggon	O
+,	O
+painted	O
+yellow	O
+and	O
+gaily	O
+marked	O
+,	O
+drawn	O
+by	O
+two	O
+horses	O
+,	O
+a	O
+waggoner	O
+walking	O
+alongside	O
+bearing	O
+a	O
+whip	O
+perpendicularly	O
+.	O
+
+# id = litbank-0071
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = gabriel had not beheld the sight for more than half a minute , when the vehicle was brought to a standstill just beneath his eyes .
+gabriel	B-CHARACTER
+had	O
+not	O
+beheld	O
+the	O
+sight	O
+for	O
+more	O
+than	O
+half	O
+a	O
+minute	O
+,	O
+when	O
+the	O
+vehicle	O
+was	O
+brought	O
+to	O
+a	O
+standstill	O
+just	O
+beneath	O
+his	O
+eyes	O
+.	O
+
+# id = litbank-0072
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = a cynical inference was irresistible by gabriel oak as he regarded the scene , generous though he fain would have been .
+a	O
+cynical	O
+inference	O
+was	O
+irresistible	O
+by	O
+gabriel	B-CHARACTER
+oak	I-CHARACTER
+as	O
+he	O
+regarded	O
+the	O
+scene	O
+,	O
+generous	O
+though	O
+he	O
+fain	O
+would	O
+have	O
+been	O
+.	O
+
+# id = litbank-0073
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = when the waggon had passed on , gabriel withdrew from his point of espial , and descending into the road , followed the vehicle to the turnpike-gate some way beyond the bottom of the hill , where the object of his contemplation now halted for the payment of toll .
+when	O
+the	O
+waggon	O
+had	O
+passed	O
+on	O
+,	O
+gabriel	B-CHARACTER
+withdrew	O
+from	O
+his	O
+point	O
+of	O
+espial	O
+,	O
+and	O
+descending	O
+into	O
+the	O
+road	O
+,	O
+followed	O
+the	O
+vehicle	O
+to	O
+the	O
+turnpike-gate	O
+some	O
+way	O
+beyond	O
+the	O
+bottom	O
+of	O
+the	O
+hill	O
+,	O
+where	O
+the	O
+object	O
+of	O
+his	O
+contemplation	O
+now	O
+halted	O
+for	O
+the	O
+payment	O
+of	O
+toll	O
+.	O
+
+# id = litbank-0074
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = oak looked from one to the other of the disputants , and fell into a reverie .
+oak	B-CHARACTER
+looked	O
+from	O
+one	O
+to	O
+the	O
+other	O
+of	O
+the	O
+disputants	O
+,	O
+and	O
+fell	O
+into	O
+a	O
+reverie	O
+.	O
+
+# id = litbank-0075
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = gabriel 's features adhered throughout their form so exactly to the middle line between the beauty of st. john and the ugliness of judas iscariot , as represented in a window of the church he attended , that not a single lineament could be selected and called worthy either of distinction or notoriety .
+gabriel	B-CHARACTER
+'s	O
+features	O
+adhered	O
+throughout	O
+their	O
+form	O
+so	O
+exactly	O
+to	O
+the	O
+middle	O
+line	O
+between	O
+the	O
+beauty	O
+of	O
+st.	O
+john	O
+and	O
+the	O
+ugliness	O
+of	O
+judas	O
+iscariot	O
+,	O
+as	O
+represented	O
+in	O
+a	O
+window	O
+of	O
+the	O
+church	O
+he	O
+attended	O
+,	O
+that	O
+not	O
+a	O
+single	O
+lineament	O
+could	O
+be	O
+selected	O
+and	O
+called	O
+worthy	O
+either	O
+of	O
+distinction	O
+or	O
+notoriety	O
+.	O
+
+# id = litbank-0076
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = she might have looked her thanks to gabriel on a minute scale , but she did not speak them ; more probably she felt none , for in gaining her a passage he had lost her her point , and we know how women take a favour of that kind .
+she	O
+might	O
+have	O
+looked	O
+her	O
+thanks	O
+to	O
+gabriel	B-CHARACTER
+on	O
+a	O
+minute	O
+scale	O
+,	O
+but	O
+she	O
+did	O
+not	O
+speak	O
+them	O
+;	O
+more	O
+probably	O
+she	O
+felt	O
+none	O
+,	O
+for	O
+in	O
+gaining	O
+her	O
+a	O
+passage	O
+he	O
+had	O
+lost	O
+her	O
+her	O
+point	O
+,	O
+and	O
+we	O
+know	O
+how	O
+women	O
+take	O
+a	O
+favour	O
+of	O
+that	O
+kind	O
+.	O
+
+# id = litbank-0077
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = " that 's a handsome maid " he said to oak " but she has her faults . "
+"	O
+that	O
+'s	O
+a	O
+handsome	O
+maid	O
+"	O
+he	O
+said	O
+to	O
+oak	B-CHARACTER
+"	O
+but	O
+she	O
+has	O
+her	O
+faults	O
+.	O
+"	O
+
+# id = litbank-0078
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = said gabriel .
+said	O
+gabriel	B-CHARACTER
+.	O
+
+# id = litbank-0079
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = gabriel , perhaps a little piqued by the comely traveller 's indifference , glanced back to where he had witnessed her performance over the hedge , and said , " vanity . "
+gabriel	B-CHARACTER
+,	O
+perhaps	O
+a	O
+little	O
+piqued	O
+by	O
+the	O
+comely	O
+traveller	O
+'s	O
+indifference	O
+,	O
+glanced	O
+back	O
+to	O
+where	O
+he	O
+had	O
+witnessed	O
+her	O
+performance	O
+over	O
+the	O
+hedge	O
+,	O
+and	O
+said	O
+,	O
+"	O
+vanity	O
+.	O
+"	O
+
+# id = litbank-0057
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = or , to state his character as it stood in the scale of public opinion , when his friends and critics were in tantrums , he was considered rather a bad man ; when they were pleased , he was rather a good man ; when they were neither , he was a man whose moral colour was a kind of pepper-and-salt mixture .
+or	O
+,	O
+to	O
+state	O
+his	O
+character	O
+as	O
+it	O
+stood	O
+in	O
+the	O
+scale	O
+of	O
+public	O
+opinion	O
+,	O
+when	O
+his	O
+friends	O
+and	O
+critics	O
+were	O
+in	O
+tantrums	O
+,	O
+he	O
+was	O
+considered	O
+rather	O
+a	O
+bad	O
+man	O
+;	O
+when	O
+they	O
+were	O
+pleased	O
+,	O
+he	O
+was	O
+rather	O
+a	O
+good	O
+man	O
+;	O
+when	O
+they	O
+were	O
+neither	O
+,	O
+he	O
+was	O
+a	O
+man	O
+whose	O
+moral	O
+colour	O
+was	O
+a	O
+kind	O
+of	O
+pepper-and-salt	O
+mixture	O
+.	O
+
+# id = litbank-0061
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = the smaller of its hands , too , occasionally slipped round on the pivot , and thus , though the minutes were told with precision , nobody could be quite certain of the hour they belonged to .
+the	O
+smaller	O
+of	O
+its	O
+hands	O
+,	O
+too	O
+,	O
+occasionally	O
+slipped	O
+round	O
+on	O
+the	O
+pivot	O
+,	O
+and	O
+thus	O
+,	O
+though	O
+the	O
+minutes	O
+were	O
+told	O
+with	O
+precision	O
+,	O
+nobody	O
+could	O
+be	O
+quite	O
+certain	O
+of	O
+the	O
+hour	O
+they	O
+belonged	O
+to	O
+.	O
+
+# id = litbank-0065
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = in his face one might notice that many of the hues and curves of youth had tarried on to manhood : there even remained in his remoter crannies some relics of the boy .
+in	O
+his	O
+face	O
+one	O
+might	O
+notice	O
+that	O
+many	O
+of	O
+the	O
+hues	O
+and	O
+curves	O
+of	O
+youth	O
+had	O
+tarried	O
+on	O
+to	O
+manhood	O
+:	O
+there	O
+even	O
+remained	O
+in	O
+his	O
+remoter	O
+crannies	O
+some	O
+relics	O
+of	O
+the	O
+boy	O
+.	O
+
+# id = litbank-0066
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = his height and breadth would have been sufficient to make his presence imposing , had they been exhibited with due consideration .
+his	O
+height	O
+and	O
+breadth	O
+would	O
+have	O
+been	O
+sufficient	O
+to	O
+make	O
+his	O
+presence	O
+imposing	O
+,	O
+had	O
+they	O
+been	O
+exhibited	O
+with	O
+due	O
+consideration	O
+.	O
+
+# id = litbank-0067
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = but there is a way some men have , rural and urban alike , for which the mind is more responsible than flesh and sinew : it is a way of curtail - ing their dimensions by their manner of showing them .
+but	O
+there	O
+is	O
+a	O
+way	O
+some	O
+men	O
+have	O
+,	O
+rural	O
+and	O
+urban	O
+alike	O
+,	O
+for	O
+which	O
+the	O
+mind	O
+is	O
+more	O
+responsible	O
+than	O
+flesh	O
+and	O
+sinew	O
+:	O
+it	O
+is	O
+a	O
+way	O
+of	O
+curtail	O
+-	O
+ing	O
+their	O
+dimensions	O
+by	O
+their	O
+manner	O
+of	O
+showing	O
+them	O
+.	O
+

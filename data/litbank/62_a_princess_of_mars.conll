@@ -1,0 +1,1105 @@
+# id = litbank-0248
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = my name is john carter ; i am better known as captain jack carter of virginia .
+my	O
+name	O
+is	O
+john	B-CHARACTER
+carter	I-CHARACTER
+;	O
+i	O
+am	O
+better	O
+known	O
+as	O
+captain	B-CHARACTER
+jack	I-CHARACTER
+carter	I-CHARACTER
+of	O
+virginia	O
+.	O
+
+# id = litbank-0249
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = i spent nearly a year prospecting in company with another confederate officer , captain james k. powell of richmond .
+i	O
+spent	O
+nearly	O
+a	O
+year	O
+prospecting	O
+in	O
+company	O
+with	O
+another	O
+confederate	O
+officer	O
+,	O
+captain	B-CHARACTER
+james	I-CHARACTER
+k.	I-CHARACTER
+powell	I-CHARACTER
+of	O
+richmond	O
+.	O
+
+# id = litbank-0250
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = powell , who was a mining engineer by education , stated that we had uncovered over a million dollars worth of ore in a trifle over three months .
+powell	B-CHARACTER
+,	O
+who	O
+was	O
+a	O
+mining	O
+engineer	O
+by	O
+education	O
+,	O
+stated	O
+that	O
+we	O
+had	O
+uncovered	O
+over	O
+a	O
+million	O
+dollars	O
+worth	O
+of	O
+ore	O
+in	O
+a	O
+trifle	O
+over	O
+three	O
+months	O
+.	O
+
+# id = litbank-0251
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = as powell was familiar with the country , as well as with the mechanical requirements of mining we determined that it would be best for him to make the trip .
+as	O
+powell	B-CHARACTER
+was	O
+familiar	O
+with	O
+the	O
+country	O
+,	O
+as	O
+well	O
+as	O
+with	O
+the	O
+mechanical	O
+requirements	O
+of	O
+mining	O
+we	O
+determined	O
+that	O
+it	O
+would	O
+be	O
+best	O
+for	O
+him	O
+to	O
+make	O
+the	O
+trip	O
+.	O
+
+# id = litbank-0252
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = on march 3 , 1866 , powell and i packed his provisions on two of our burros , and bidding me good-bye he mounted his horse , and started down the mountainside toward the valley , across which led the first stage of his journey .
+on	O
+march	O
+3	O
+,	O
+1866	O
+,	O
+powell	B-CHARACTER
+and	O
+i	O
+packed	O
+his	O
+provisions	O
+on	O
+two	O
+of	O
+our	O
+burros	O
+,	O
+and	O
+bidding	O
+me	O
+good-bye	O
+he	O
+mounted	O
+his	O
+horse	O
+,	O
+and	O
+started	O
+down	O
+the	O
+mountainside	O
+toward	O
+the	O
+valley	O
+,	O
+across	O
+which	O
+led	O
+the	O
+first	O
+stage	O
+of	O
+his	O
+journey	O
+.	O
+
+# id = litbank-0253
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = the morning of powell 's departure was , like nearly all arizona mornings , clear and beautiful ; i could see him and his little pack animals picking their way down the mountainside toward the valley , and all during the morning i would catch occasional glimpses of them as they topped a hog back or came out upon a level plateau .
+the	O
+morning	O
+of	O
+powell	B-CHARACTER
+'s	O
+departure	O
+was	O
+,	O
+like	O
+nearly	O
+all	O
+arizona	O
+mornings	O
+,	O
+clear	O
+and	O
+beautiful	O
+;	O
+i	O
+could	O
+see	O
+him	O
+and	O
+his	O
+little	O
+pack	O
+animals	O
+picking	O
+their	O
+way	O
+down	O
+the	O
+mountainside	O
+toward	O
+the	O
+valley	O
+,	O
+and	O
+all	O
+during	O
+the	O
+morning	O
+i	O
+would	O
+catch	O
+occasional	O
+glimpses	O
+of	O
+them	O
+as	O
+they	O
+topped	O
+a	O
+hog	O
+back	O
+or	O
+came	O
+out	O
+upon	O
+a	O
+level	O
+plateau	O
+.	O
+
+# id = litbank-0254
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = my last sight of powell was about three in the afternoon as he entered the shadows of the range on the opposite side of the valley .
+my	O
+last	O
+sight	O
+of	O
+powell	B-CHARACTER
+was	O
+about	O
+three	O
+in	O
+the	O
+afternoon	O
+as	O
+he	O
+entered	O
+the	O
+shadows	O
+of	O
+the	O
+range	O
+on	O
+the	O
+opposite	O
+side	O
+of	O
+the	O
+valley	O
+.	O
+
+# id = litbank-0255
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = i am not given to needless worrying , but the more i tried to convince myself that all was well with powell , and that the dots i had seen on his trail were antelope or wild horses , the less i was able to assure myself .
+i	O
+am	O
+not	O
+given	O
+to	O
+needless	O
+worrying	O
+,	O
+but	O
+the	O
+more	O
+i	O
+tried	O
+to	O
+convince	O
+myself	O
+that	O
+all	O
+was	O
+well	O
+with	O
+powell	B-CHARACTER
+,	O
+and	O
+that	O
+the	O
+dots	O
+i	O
+had	O
+seen	O
+on	O
+his	O
+trail	O
+were	O
+antelope	O
+or	O
+wild	O
+horses	O
+,	O
+the	O
+less	O
+i	O
+was	O
+able	O
+to	O
+assure	O
+myself	O
+.	O
+
+# id = litbank-0256
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = powell , i knew , was well armed and , further , an experienced indian fighter ; but i too had lived and fought for years among the sioux in the north , and i knew that his chances were small against a party of cunning trailing apaches .
+powell	B-CHARACTER
+,	O
+i	O
+knew	O
+,	O
+was	O
+well	O
+armed	O
+and	O
+,	O
+further	O
+,	O
+an	O
+experienced	O
+indian	O
+fighter	O
+;	O
+but	O
+i	O
+too	O
+had	O
+lived	O
+and	O
+fought	O
+for	O
+years	O
+among	O
+the	O
+sioux	O
+in	O
+the	O
+north	O
+,	O
+and	O
+i	O
+knew	O
+that	O
+his	O
+chances	O
+were	O
+small	O
+against	O
+a	O
+party	O
+of	O
+cunning	O
+trailing	O
+apaches	O
+.	O
+
+# id = litbank-0257
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = finally i could endure the suspense no longer , and , arming myself with my two colt revolvers and a carbine , i strapped two belts of cartridges about me and catching my saddle horse , started down the trail taken by powell in the morning .
+finally	O
+i	O
+could	O
+endure	O
+the	O
+suspense	O
+no	O
+longer	O
+,	O
+and	O
+,	O
+arming	O
+myself	O
+with	O
+my	O
+two	O
+colt	O
+revolvers	O
+and	O
+a	O
+carbine	O
+,	O
+i	O
+strapped	O
+two	O
+belts	O
+of	O
+cartridges	O
+about	O
+me	O
+and	O
+catching	O
+my	O
+saddle	O
+horse	O
+,	O
+started	O
+down	O
+the	O
+trail	O
+taken	O
+by	O
+powell	B-CHARACTER
+in	O
+the	O
+morning	O
+.	O
+
+# id = litbank-0258
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = as soon as i reached comparatively level ground i urged my mount into a canter and continued this , where the going permitted , until , close upon dusk , i discovered the point where other tracks joined those of powell .
+as	O
+soon	O
+as	O
+i	O
+reached	O
+comparatively	O
+level	O
+ground	O
+i	O
+urged	O
+my	O
+mount	O
+into	O
+a	O
+canter	O
+and	O
+continued	O
+this	O
+,	O
+where	O
+the	O
+going	O
+permitted	O
+,	O
+until	O
+,	O
+close	O
+upon	O
+dusk	O
+,	O
+i	O
+discovered	O
+the	O
+point	O
+where	O
+other	O
+tracks	O
+joined	O
+those	O
+of	O
+powell	B-CHARACTER
+.	O
+
+# id = litbank-0259
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = possibly i had conjured up impossible dangers , like some nervous old housewife , and when i should catch up with powell would get a good laugh for my pains .
+possibly	O
+i	O
+had	O
+conjured	O
+up	O
+impossible	O
+dangers	O
+,	O
+like	O
+some	O
+nervous	O
+old	O
+housewife	O
+,	O
+and	O
+when	O
+i	O
+should	O
+catch	O
+up	O
+with	O
+powell	B-CHARACTER
+would	O
+get	O
+a	O
+good	O
+laugh	O
+for	O
+my	O
+pains	O
+.	O
+
+# id = litbank-0260
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = about nine o'clock the moon was sufficiently bright for me to proceed on my way and i had no difficulty in following the trail at a fast walk , and in some places at a brisk trot until , about midnight , i reached the water hole where powell had expected to camp .
+about	O
+nine	O
+o'clock	O
+the	O
+moon	O
+was	O
+sufficiently	O
+bright	O
+for	O
+me	O
+to	O
+proceed	O
+on	O
+my	O
+way	O
+and	O
+i	O
+had	O
+no	O
+difficulty	O
+in	O
+following	O
+the	O
+trail	O
+at	O
+a	O
+fast	O
+walk	O
+,	O
+and	O
+in	O
+some	O
+places	O
+at	O
+a	O
+brisk	O
+trot	O
+until	O
+,	O
+about	O
+midnight	O
+,	O
+i	O
+reached	O
+the	O
+water	O
+hole	O
+where	O
+powell	B-CHARACTER
+had	O
+expected	O
+to	O
+camp	O
+.	O
+
+# id = litbank-0261
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = i was interested to note that the tracks of the pursuing horsemen , for such i was now convinced they must be , continued after powell with only a brief stop at the hole for water ; and always at the same rate of speed as his .
+i	O
+was	O
+interested	O
+to	O
+note	O
+that	O
+the	O
+tracks	O
+of	O
+the	O
+pursuing	O
+horsemen	O
+,	O
+for	O
+such	O
+i	O
+was	O
+now	O
+convinced	O
+they	O
+must	O
+be	O
+,	O
+continued	O
+after	O
+powell	B-CHARACTER
+with	O
+only	O
+a	O
+brief	O
+stop	O
+at	O
+the	O
+hole	O
+for	O
+water	O
+;	O
+and	O
+always	O
+at	O
+the	O
+same	O
+rate	O
+of	O
+speed	O
+as	O
+his	O
+.	O
+
+# id = litbank-0262
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = i was positive now that the trailers were apaches and that they wished to capture powell alive for the fiendish pleasure of the torture , so i urged my horse onward at a most dangerous pace , hoping against hope that i would catch up with the red rascals before they attacked him .
+i	O
+was	O
+positive	O
+now	O
+that	O
+the	O
+trailers	O
+were	O
+apaches	O
+and	O
+that	O
+they	O
+wished	O
+to	O
+capture	O
+powell	B-CHARACTER
+alive	O
+for	O
+the	O
+fiendish	O
+pleasure	O
+of	O
+the	O
+torture	O
+,	O
+so	O
+i	O
+urged	O
+my	O
+horse	O
+onward	O
+at	O
+a	O
+most	O
+dangerous	O
+pace	O
+,	O
+hoping	O
+against	O
+hope	O
+that	O
+i	O
+would	O
+catch	O
+up	O
+with	O
+the	O
+red	O
+rascals	O
+before	O
+they	O
+attacked	O
+him	O
+.	O
+
+# id = litbank-0263
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = i knew that powell would need me now if ever , and i instantly urged my horse to his topmost speed up the narrow and difficult mountain trail .
+i	O
+knew	O
+that	O
+powell	B-CHARACTER
+would	O
+need	O
+me	O
+now	O
+if	O
+ever	O
+,	O
+and	O
+i	O
+instantly	O
+urged	O
+my	O
+horse	O
+to	O
+his	O
+topmost	O
+speed	O
+up	O
+the	O
+narrow	O
+and	O
+difficult	O
+mountain	O
+trail	O
+.	O
+
+# id = litbank-0264
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = in this instance i was , of course , positive that powell was the center of attraction , but whether i thought or acted first i do not know , but within an instant from the moment the scene broke upon my view i had whipped out my revolvers and was charging down upon the entire army of warriors , shooting rapidly , and whooping at the top of my lungs .
+in	O
+this	O
+instance	O
+i	O
+was	O
+,	O
+of	O
+course	O
+,	O
+positive	O
+that	O
+powell	B-CHARACTER
+was	O
+the	O
+center	O
+of	O
+attraction	O
+,	O
+but	O
+whether	O
+i	O
+thought	O
+or	O
+acted	O
+first	O
+i	O
+do	O
+not	O
+know	O
+,	O
+but	O
+within	O
+an	O
+instant	O
+from	O
+the	O
+moment	O
+the	O
+scene	O
+broke	O
+upon	O
+my	O
+view	O
+i	O
+had	O
+whipped	O
+out	O
+my	O
+revolvers	O
+and	O
+was	O
+charging	O
+down	O
+upon	O
+the	O
+entire	O
+army	O
+of	O
+warriors	O
+,	O
+shooting	O
+rapidly	O
+,	O
+and	O
+whooping	O
+at	O
+the	O
+top	O
+of	O
+my	O
+lungs	O
+.	O
+
+# id = litbank-0265
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = under the clear rays of the arizona moon lay powell , his body fairly bristling with the hostile arrows of the braves .
+under	O
+the	O
+clear	O
+rays	O
+of	O
+the	O
+arizona	O
+moon	O
+lay	O
+powell	B-CHARACTER
+,	O
+his	O
+body	O
+fairly	O
+bristling	O
+with	O
+the	O
+hostile	O
+arrows	O
+of	O
+the	O
+braves	O
+.	O
+
+# id = litbank-0243
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = chapter i on the arizona hills i am a very old man ; how old i do not know .
+chapter	O
+i	O
+on	O
+the	O
+arizona	O
+hills	O
+i	O
+am	O
+a	O
+very	O
+old	O
+man	O
+;	O
+how	O
+old	O
+i	O
+do	O
+not	O
+know	O
+.	O
+
+# id = litbank-0244
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = possibly i am a hundred , possibly more ; but i can not tell because i have never aged as other men , nor do i remember any childhood .
+possibly	O
+i	O
+am	O
+a	O
+hundred	O
+,	O
+possibly	O
+more	O
+;	O
+but	O
+i	O
+can	O
+not	O
+tell	O
+because	O
+i	O
+have	O
+never	O
+aged	O
+as	O
+other	O
+men	O
+,	O
+nor	O
+do	O
+i	O
+remember	O
+any	O
+childhood	O
+.	O
+
+# id = litbank-0245
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = so far as i can recollect i have always been a man , a man of about thirty .
+so	O
+far	O
+as	O
+i	O
+can	O
+recollect	O
+i	O
+have	O
+always	O
+been	O
+a	O
+man	O
+,	O
+a	O
+man	O
+of	O
+about	O
+thirty	O
+.	O
+
+# id = litbank-0246
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = i appear today as i did forty years and more ago , and yet i feel that i can not go on living forever ; that some day i shall die the real death from which there is no resurrection .
+i	O
+appear	O
+today	O
+as	O
+i	O
+did	O
+forty	O
+years	O
+and	O
+more	O
+ago	O
+,	O
+and	O
+yet	O
+i	O
+feel	O
+that	O
+i	O
+can	O
+not	O
+go	O
+on	O
+living	O
+forever	O
+;	O
+that	O
+some	O
+day	O
+i	O
+shall	O
+die	O
+the	O
+real	O
+death	O
+from	O
+which	O
+there	O
+is	O
+no	O
+resurrection	O
+.	O
+
+# id = litbank-0247
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = i do not know why i should fear death , i who have died twice and am still alive ; but yet i have the same horror of it as you who have never died , and it is because of this terror of death , i believe , that i am so convinced of my mortality .
+i	O
+do	O
+not	O
+know	O
+why	O
+i	O
+should	O
+fear	O
+death	O
+,	O
+i	O
+who	O
+have	O
+died	O
+twice	O
+and	O
+am	O
+still	O
+alive	O
+;	O
+but	O
+yet	O
+i	O
+have	O
+the	O
+same	O
+horror	O
+of	O
+it	O
+as	O
+you	O
+who	O
+have	O
+never	O
+died	O
+,	O
+and	O
+it	O
+is	O
+because	O
+of	O
+this	O
+terror	O
+of	O
+death	O
+,	O
+i	O
+believe	O
+,	O
+that	O
+i	O
+am	O
+so	O
+convinced	O
+of	O
+my	O
+mortality	O
+.	O
+

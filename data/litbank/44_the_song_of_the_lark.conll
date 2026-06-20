@@ -1,0 +1,885 @@
+# id = litbank-0134
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = part i. friends of childhood i dr. howard archie had just come up from a game of pool with the jewish clothier and two traveling men who happened to be staying overnight in moonstone .
+part	O
+i.	O
+friends	O
+of	O
+childhood	O
+i	O
+dr.	B-CHARACTER
+howard	I-CHARACTER
+archie	I-CHARACTER
+had	O
+just	O
+come	O
+up	O
+from	O
+a	O
+game	O
+of	O
+pool	O
+with	O
+the	O
+jewish	O
+clothier	O
+and	O
+two	O
+traveling	O
+men	O
+who	O
+happened	O
+to	O
+be	O
+staying	O
+overnight	O
+in	O
+moonstone	O
+.	O
+
+# id = litbank-0136
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = larry , the doctor 's man , had lit the overhead light in the waiting-room and the double student 's lamp on the desk in the study .
+larry	B-CHARACTER
+,	O
+the	O
+doctor	O
+'s	O
+man	O
+,	O
+had	O
+lit	O
+the	O
+overhead	O
+light	O
+in	O
+the	O
+waiting-room	O
+and	O
+the	O
+double	O
+student	O
+'s	O
+lamp	O
+on	O
+the	O
+desk	O
+in	O
+the	O
+study	O
+.	O
+
+# id = litbank-0141
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = as the doctor in new england villages is proverbially old , so the doctor in small colorado towns twenty-five years ago was generally young .
+as	O
+the	O
+doctor	O
+in	O
+new	B-CHARACTER
+england	O
+villages	O
+is	O
+proverbially	O
+old	O
+,	O
+so	O
+the	O
+doctor	O
+in	O
+small	O
+colorado	O
+towns	O
+twenty-five	O
+years	O
+ago	O
+was	O
+generally	O
+young	O
+.	O
+
+# id = litbank-0142
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = dr. archie was barely thirty .
+dr.	B-CHARACTER
+archie	I-CHARACTER
+was	O
+barely	O
+thirty	O
+.	O
+
+# id = litbank-0143
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = dr. archie turned up the student 's lamp and sat down in the swivel chair before his desk .
+dr.	B-CHARACTER
+archie	I-CHARACTER
+turned	O
+up	O
+the	O
+student	O
+'s	O
+lamp	O
+and	O
+sat	O
+down	O
+in	O
+the	O
+swivel	O
+chair	O
+before	O
+his	O
+desk	O
+.	O
+
+# id = litbank-0144
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = “ good-evening , mr. kronborg , ” said the doctor carelessly .
+“	O
+good-evening	O
+,	O
+mr.	B-CHARACTER
+kronborg	I-CHARACTER
+,	O
+”	O
+said	O
+the	O
+doctor	O
+carelessly	O
+.	O
+
+# id = litbank-0145
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = i think mrs. kronborg will need you this evening . ”
+i	O
+think	O
+mrs.	B-CHARACTER
+kronborg	I-CHARACTER
+will	O
+need	O
+you	O
+this	O
+evening	O
+.	O
+”	O
+
+# id = litbank-0146
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = mr. kronborg coughed behind his hand , and contracted his brows .
+mr.	B-CHARACTER
+kronborg	I-CHARACTER
+coughed	O
+behind	O
+his	O
+hand	O
+,	O
+and	O
+contracted	O
+his	O
+brows	O
+.	O
+
+# id = litbank-0147
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = mrs. kronborg will be more comfortable if you are there .
+mrs.	B-CHARACTER
+kronborg	I-CHARACTER
+will	O
+be	O
+more	O
+comfortable	O
+if	O
+you	O
+are	O
+there	O
+.	O
+
+# id = litbank-0148
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = mr. kronborg rose and they tramped through the empty hall and down the stairway to the street .
+mr.	B-CHARACTER
+kronborg	I-CHARACTER
+rose	O
+and	O
+they	O
+tramped	O
+through	O
+the	O
+empty	O
+hall	O
+and	O
+down	O
+the	O
+stairway	O
+to	O
+the	O
+street	O
+.	O
+
+# id = litbank-0149
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = following the reverend mr. kronborg along the narrow walk , past the little dark , sleeping houses , the doctor looked up at the flashing night and whistled softly .
+following	O
+the	O
+reverend	O
+mr.	B-CHARACTER
+kronborg	I-CHARACTER
+along	O
+the	O
+narrow	O
+walk	O
+,	O
+past	O
+the	O
+little	O
+dark	O
+,	O
+sleeping	O
+houses	O
+,	O
+the	O
+doctor	O
+looked	O
+up	O
+at	O
+the	O
+flashing	O
+night	O
+and	O
+whistled	O
+softly	O
+.	O
+
+# id = litbank-0150
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = it did seem that people were stupider than they need be ; as if on a night like this there ought to be something better to do than to sleep nine hours , or to assist mrs. kronborg in functions which she could have performed so admirably unaided .
+it	O
+did	O
+seem	O
+that	O
+people	O
+were	O
+stupider	O
+than	O
+they	O
+need	O
+be	O
+;	O
+as	O
+if	O
+on	O
+a	O
+night	O
+like	O
+this	O
+there	O
+ought	O
+to	O
+be	O
+something	O
+better	O
+to	O
+do	O
+than	O
+to	O
+sleep	O
+nine	O
+hours	O
+,	O
+or	O
+to	O
+assist	O
+mrs.	B-CHARACTER
+kronborg	I-CHARACTER
+in	O
+functions	O
+which	O
+she	O
+could	O
+have	O
+performed	O
+so	O
+admirably	O
+unaided	O
+.	O
+
+# id = litbank-0151
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = as they approached the gate , peter kronborg 's pace grew brisker .
+as	O
+they	O
+approached	O
+the	O
+gate	O
+,	O
+peter	B-CHARACTER
+kronborg	I-CHARACTER
+'s	O
+pace	O
+grew	O
+brisker	O
+.	O
+
+# id = litbank-0152
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = “ have a troche , kronborg , ” he said , producing some .
+“	O
+have	O
+a	O
+troche	O
+,	O
+kronborg	B-CHARACTER
+,	O
+”	O
+he	O
+said	O
+,	O
+producing	O
+some	O
+.	O
+
+# id = litbank-0153
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = kronborg opened his front door -- seemed delighted to be at home again .
+kronborg	B-CHARACTER
+opened	O
+his	O
+front	O
+door	O
+--	O
+seemed	O
+delighted	O
+to	O
+be	O
+at	O
+home	O
+again	O
+.	O
+
+# id = litbank-0154
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = while the doctor hung up his coat and hat , peter kronborg opened the door into the living-room .
+while	O
+the	O
+doctor	O
+hung	O
+up	O
+his	O
+coat	O
+and	O
+hat	O
+,	O
+peter	B-CHARACTER
+kronborg	I-CHARACTER
+opened	O
+the	O
+door	O
+into	O
+the	O
+living-room	O
+.	O
+
+# id = litbank-0155
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = at three o'clock in the morning dr. archie was in the parlor putting on his cuffs and coat -- there was no spare bedroom in that house .
+at	O
+three	O
+o'clock	O
+in	O
+the	O
+morning	O
+dr.	B-CHARACTER
+archie	I-CHARACTER
+was	O
+in	O
+the	O
+parlor	O
+putting	O
+on	O
+his	O
+cuffs	O
+and	O
+coat	O
+--	O
+there	O
+was	O
+no	O
+spare	O
+bedroom	O
+in	O
+that	O
+house	O
+.	O
+
+# id = litbank-0156
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = peter kronborg 's seventh child , a boy , was being soothed and cosseted by his aunt , mrs. kronborg was asleep , and the doctor was going home .
+peter	B-CHARACTER
+kronborg	I-CHARACTER
+'s	O
+seventh	O
+child	O
+,	O
+a	O
+boy	O
+,	O
+was	O
+being	O
+soothed	O
+and	O
+cosseted	O
+by	O
+his	O
+aunt	O
+,	O
+mrs.	B-CHARACTER
+kronborg	I-CHARACTER
+was	O
+asleep	O
+,	O
+and	O
+the	O
+doctor	O
+was	O
+going	O
+home	O
+.	O
+
+# id = litbank-0157
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = but he wanted first to speak to kronborg , who , coatless and fluttery , was pouring coal into the kitchen stove .
+but	O
+he	O
+wanted	O
+first	O
+to	O
+speak	O
+to	O
+kronborg	B-CHARACTER
+,	O
+who	O
+,	O
+coatless	O
+and	O
+fluttery	O
+,	O
+was	O
+pouring	O
+coal	O
+into	O
+the	O
+kitchen	O
+stove	O
+.	O
+
+# id = litbank-0158
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = kronborg hung up the stove-lifter and dusted his fingers .
+kronborg	B-CHARACTER
+hung	O
+up	O
+the	O
+stove-lifter	O
+and	O
+dusted	O
+his	O
+fingers	O
+.	O
+
+# id = litbank-0159
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = “ it must be thea .
+“	O
+it	O
+must	O
+be	O
+thea	B-CHARACTER
+.	O
+
+# id = litbank-0160
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = but in my excitement -- mrs. kronborg is doing finely , eh , doctor ?
+but	O
+in	O
+my	O
+excitement	O
+--	O
+mrs.	B-CHARACTER
+kronborg	I-CHARACTER
+is	O
+doing	O
+finely	O
+,	O
+eh	O
+,	O
+doctor	O
+?	O
+
+# id = litbank-0161
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = “ feel pretty sick , thea ? ” he asked as he took out his thermometer .
+“	O
+feel	O
+pretty	O
+sick	O
+,	O
+thea	B-CHARACTER
+?	O
+”	O
+he	O
+asked	O
+as	O
+he	O
+took	O
+out	O
+his	O
+thermometer	O
+.	O
+
+# id = litbank-0162
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = dr. archie reached for her hand and took out his watch .
+dr.	B-CHARACTER
+archie	I-CHARACTER
+reached	O
+for	O
+her	O
+hand	O
+and	O
+took	O
+out	O
+his	O
+watch	O
+.	O
+
+# id = litbank-0163
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = peter kronborg was sitting in his wife 's room , holding the bundle which contained his son .
+peter	B-CHARACTER
+kronborg	I-CHARACTER
+was	O
+sitting	O
+in	O
+his	O
+wife	O
+'s	O
+room	O
+,	O
+holding	O
+the	O
+bundle	O
+which	O
+contained	O
+his	O
+son	O
+.	O
+
+# id = litbank-0164
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = he beckoned kronborg into the living-room and said sternly : -- “ you 've got a very sick child in there .
+he	O
+beckoned	O
+kronborg	B-CHARACTER
+into	O
+the	O
+living-room	O
+and	O
+said	O
+sternly	O
+:	O
+--	O
+“	O
+you	O
+'ve	O
+got	O
+a	O
+very	O
+sick	O
+child	O
+in	O
+there	O
+.	O
+
+# id = litbank-0135
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = his offices were in the duke block , over the drug store .
+his	O
+offices	O
+were	O
+in	O
+the	O
+duke	O
+block	O
+,	O
+over	O
+the	O
+drug	O
+store	O
+.	O
+
+# id = litbank-0137
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = the isinglass sides of the hard-coal burner were aglow , and the air in the study was so hot that as he came in the doctor opened the door into his little operating-room , where there was no stove .
+the	O
+isinglass	O
+sides	O
+of	O
+the	O
+hard-coal	O
+burner	O
+were	O
+aglow	O
+,	O
+and	O
+the	O
+air	O
+in	O
+the	O
+study	O
+was	O
+so	O
+hot	O
+that	O
+as	O
+he	O
+came	O
+in	O
+the	O
+doctor	O
+opened	O
+the	O
+door	O
+into	O
+his	O
+little	O
+operating-room	O
+,	O
+where	O
+there	O
+was	O
+no	O
+stove	O
+.	O
+
+# id = litbank-0138
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = the waiting room was carpeted and stiffly furnished , something like a country parlor .
+the	O
+waiting	O
+room	O
+was	O
+carpeted	O
+and	O
+stiffly	O
+furnished	O
+,	O
+something	O
+like	O
+a	O
+country	O
+parlor	O
+.	O
+
+# id = litbank-0139
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = the study had worn , unpainted floors , but there was a look of winter comfort about it .
+the	O
+study	O
+had	O
+worn	O
+,	O
+unpainted	O
+floors	O
+,	O
+but	O
+there	O
+was	O
+a	O
+look	O
+of	O
+winter	O
+comfort	O
+about	O
+it	O
+.	O
+
+# id = litbank-0140
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = the doctor 's flat-top desk was large and well made ; the papers were in orderly piles , under glass weights .
+the	O
+doctor	O
+'s	O
+flat-top	O
+desk	O
+was	O
+large	O
+and	O
+well	O
+made	O
+;	O
+the	O
+papers	O
+were	O
+in	O
+orderly	O
+piles	O
+,	O
+under	O
+glass	O
+weights	O
+.	O
+

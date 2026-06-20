@@ -4,7 +4,8 @@ from pathlib import Path
 from typing import List, Tuple, Set
 
 import numpy as np
-from datasets import load_dataset
+import torch
+from datasets import Dataset, DatasetDict
 from transformers import (
     AutoModelForTokenClassification,
     AutoTokenizer,
@@ -12,6 +13,14 @@ from transformers import (
     Trainer,
     TrainingArguments,
 )
+
+print("torch version:", torch.__version__)
+print("cuda available:", torch.cuda.is_available())
+
+if torch.cuda.is_available():
+    print("device:", torch.cuda.get_device_name(0))
+else:
+    print("device: CPU")
 
 
 def load_label_maps(data_dir: Path):
@@ -24,6 +33,252 @@ def load_label_maps(data_dir: Path):
 
     return label2id, id2label
 
+def labels_to_ids(labels: List[str], label2id: dict, source: str = "") -> List[int]:
+    ids = []
+
+    for label in labels:
+        if label not in label2id:
+            raise ValueError(
+                f"Unknown label '{label}' in {source}. "
+                f"Known labels: {sorted(label2id.keys())}"
+            )
+
+        ids.append(label2id[label])
+
+    return ids
+
+
+def load_jsonl_file(path: Path, label2id: dict) -> List[dict]:
+    rows = []
+
+    if not path.exists():
+        return rows
+
+    with path.open("r", encoding="utf-8") as f:
+        for line_number, line in enumerate(f, start=1):
+            line = line.strip()
+
+            if not line:
+                continue
+
+            row = json.loads(line)
+
+            if "tokens" not in row:
+                raise ValueError(f"{path}:{line_number} missing 'tokens'")
+
+            if "ner_tags" not in row:
+                if "labels" not in row:
+                    raise ValueError(
+                        f"{path}:{line_number} missing both 'labels' and 'ner_tags'"
+                    )
+
+                row["ner_tags"] = labels_to_ids(
+                    row["labels"],
+                    label2id,
+                    source=f"{path}:{line_number}"
+                )
+
+            if "labels" not in row:
+                id2label = {idx: label for label, idx in label2id.items()}
+                row["labels"] = [id2label[int(tag)] for tag in row["ner_tags"]]
+
+            if len(row["tokens"]) != len(row["ner_tags"]):
+                raise ValueError(
+                    f"{path}:{line_number} token/tag length mismatch: "
+                    f"{len(row['tokens'])} tokens vs {len(row['ner_tags'])} tags"
+                )
+
+            row.setdefault("meta_json", "{}")
+            rows.append(row)
+
+    return rows
+
+
+def load_conll_file(path: Path, label2id: dict) -> List[dict]:
+    """
+    Reads a CoNLL-style file:
+
+        # id = example-001
+        token<TAB>label
+        token<TAB>label
+
+        # id = example-002
+        token<TAB>label
+
+    Blank line separates examples.
+    Comment lines beginning with # are stored as metadata.
+    """
+    rows = []
+
+    tokens: List[str] = []
+    labels: List[str] = []
+    metadata = {}
+
+    def flush_example():
+        nonlocal tokens, labels, metadata
+
+        if not tokens:
+            metadata = {}
+            return
+
+        if len(tokens) != len(labels):
+            raise ValueError(
+                f"{path} token/label length mismatch: "
+                f"{len(tokens)} tokens vs {len(labels)} labels"
+            )
+
+        row = {
+            "tokens": tokens,
+            "labels": labels,
+            "ner_tags": labels_to_ids(labels, label2id, source=str(path)),
+            "meta_json": json.dumps(
+                {
+                    **metadata,
+                    "source_file": str(path),
+                },
+                ensure_ascii=False,
+            ),
+        }
+
+        rows.append(row)
+
+        tokens = []
+        labels = []
+        metadata = {}
+
+    with path.open("r", encoding="utf-8") as f:
+        for line_number, raw_line in enumerate(f, start=1):
+            line = raw_line.strip()
+
+            if not line:
+                flush_example()
+                continue
+
+            if line.startswith("#"):
+                comment = line[1:].strip()
+
+                if "=" in comment:
+                    key, value = comment.split("=", 1)
+                    metadata[key.strip()] = value.strip()
+                else:
+                    metadata.setdefault("comments", [])
+                    metadata["comments"].append(comment)
+
+                continue
+
+            parts = line.split()
+
+            if len(parts) < 2:
+                raise ValueError(
+                    f"{path}:{line_number} expected at least token and label, got: {line}"
+                )
+
+            token = parts[0]
+            label = parts[-1]
+
+            if label not in label2id:
+                raise ValueError(
+                    f"{path}:{line_number} unknown label '{label}'. "
+                    f"Known labels: {sorted(label2id.keys())}"
+                )
+
+            tokens.append(token)
+            labels.append(label)
+
+    flush_example()
+
+    return rows
+
+
+def find_conll_files(data_dir: Path, filename: str) -> List[Path]:
+    return sorted(
+        path for path in data_dir.rglob(filename)
+        if path.is_file()
+    )
+
+
+def load_split_rows(data_dir: Path, split_name: str, label2id: dict) -> List[dict]:
+    """
+    Load a split in this order:
+
+    1. For train: recursively load every **/train.conll
+    2. For validation/test: recursively load every **/validation.conll or **/test.conll
+    3. If no conll files found, fallback to data_dir/<split>.jsonl
+    """
+    conll_files = find_conll_files(data_dir, f"{split_name}.conll")
+
+    if conll_files:
+        print(f"\nFound {len(conll_files)} {split_name}.conll file(s):")
+        for file in conll_files:
+            print(f"  - {file}")
+
+        rows = []
+        for file in conll_files:
+            rows.extend(load_conll_file(file, label2id))
+
+        return rows
+
+    jsonl_path = data_dir / f"{split_name}.jsonl"
+
+    if jsonl_path.exists():
+        print(f"\nUsing {jsonl_path}")
+        return load_jsonl_file(jsonl_path, label2id)
+
+    return []
+
+
+def build_dataset_dict(data_dir: Path, label2id: dict, seed: int = 42) -> DatasetDict:
+    train_rows = load_split_rows(data_dir, "train", label2id)
+    validation_rows = load_split_rows(data_dir, "validation", label2id)
+    test_rows = load_split_rows(data_dir, "test", label2id)
+
+    if not train_rows:
+        raise ValueError(
+            f"No training data found. Expected at least one train.conll under {data_dir} "
+            f"or {data_dir / 'train.jsonl'}"
+        )
+
+    print(f"\nLoaded train rows: {len(train_rows)}")
+    print(f"Loaded validation rows: {len(validation_rows)}")
+    print(f"Loaded test rows: {len(test_rows)}")
+
+    # If validation and test exist, use them directly.
+    if validation_rows and test_rows:
+        return DatasetDict(
+            {
+                "train": Dataset.from_list(train_rows),
+                "validation": Dataset.from_list(validation_rows),
+                "test": Dataset.from_list(test_rows),
+            }
+        )
+
+    # Otherwise, auto-split the merged train data.
+    print(
+        "\nNo complete validation/test split found. "
+        "Auto-splitting merged train data into 80% train, 10% validation, 10% test."
+    )
+
+    full = Dataset.from_list(train_rows)
+
+    train_temp = full.train_test_split(
+        test_size=0.2,
+        seed=seed,
+        shuffle=True,
+    )
+
+    validation_test = train_temp["test"].train_test_split(
+        test_size=0.5,
+        seed=seed,
+        shuffle=True,
+    )
+
+    return DatasetDict(
+        {
+            "train": train_temp["train"],
+            "validation": validation_test["train"],
+            "test": validation_test["test"],
+        }
+    )
 
 def tokenize_and_align_labels(examples, tokenizer, max_length: int):
     """
@@ -180,13 +435,10 @@ def main():
 
     label2id, id2label = load_label_maps(data_dir)
 
-    dataset = load_dataset(
-        "json",
-        data_files={
-            "train": str(data_dir / "train.jsonl"),
-            "validation": str(data_dir / "validation.jsonl"),
-            "test": str(data_dir / "test.jsonl"),
-        },
+    dataset = build_dataset_dict(
+        data_dir=data_dir,
+        label2id=label2id,
+        seed=42,
     )
 
     tokenizer = AutoTokenizer.from_pretrained(args.model_name)

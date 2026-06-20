@@ -1,0 +1,1288 @@
+# id = litbank-0217
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = but they were nearly always caught at the barricades , sergeant bibot especially at the west gate had a wonderful nose for scenting an aristo in the most perfect disguise .
+but	O
+they	O
+were	O
+nearly	O
+always	O
+caught	O
+at	O
+the	O
+barricades	O
+,	O
+sergeant	B-CHARACTER
+bibot	I-CHARACTER
+especially	O
+at	O
+the	O
+west	O
+gate	O
+had	O
+a	O
+wonderful	O
+nose	O
+for	O
+scenting	O
+an	O
+aristo	O
+in	O
+the	O
+most	O
+perfect	O
+disguise	O
+.	O
+
+# id = litbank-0218
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = bibot would look at his prey as a cat looks upon the mouse , play with him , sometimes for quite a quarter of an hour , pretend to be hoodwinked by the disguise , by the wigs and other bits of theatrical make-up which hid the identity of a ci-devant noble marquise or count .
+bibot	B-CHARACTER
+would	O
+look	O
+at	O
+his	O
+prey	O
+as	O
+a	O
+cat	O
+looks	O
+upon	O
+the	O
+mouse	O
+,	O
+play	O
+with	O
+him	O
+,	O
+sometimes	O
+for	O
+quite	O
+a	O
+quarter	O
+of	O
+an	O
+hour	O
+,	O
+pretend	O
+to	O
+be	O
+hoodwinked	O
+by	O
+the	O
+disguise	O
+,	O
+by	O
+the	O
+wigs	O
+and	O
+other	O
+bits	O
+of	O
+theatrical	O
+make-up	O
+which	O
+hid	O
+the	O
+identity	O
+of	O
+a	O
+ci-devant	O
+noble	O
+marquise	O
+or	O
+count	O
+.	O
+
+# id = litbank-0219
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = bibot had a keen sense of humour , and it was well worth hanging round that west barricade , in order to see him catch an aristo in the very act of trying to flee from the vengeance of the people .
+bibot	B-CHARACTER
+had	O
+a	O
+keen	O
+sense	O
+of	O
+humour	O
+,	O
+and	O
+it	O
+was	O
+well	O
+worth	O
+hanging	O
+round	O
+that	O
+west	O
+barricade	O
+,	O
+in	O
+order	O
+to	O
+see	O
+him	O
+catch	O
+an	O
+aristo	O
+in	O
+the	O
+very	O
+act	O
+of	O
+trying	O
+to	O
+flee	O
+from	O
+the	O
+vengeance	O
+of	O
+the	O
+people	O
+.	O
+
+# id = litbank-0220
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = sometimes bibot would let his prey actually out by the gates , allowing him to think for the space of two minutes at least that he really had escaped out of paris , and might even manage to reach the coast of england in safety , but bibot would let the unfortunate wretch walk about ten metres towards the open country , then he would send two men after him and bring him back , stripped of his disguise .
+sometimes	O
+bibot	B-CHARACTER
+would	O
+let	O
+his	O
+prey	O
+actually	O
+out	O
+by	O
+the	O
+gates	O
+,	O
+allowing	O
+him	O
+to	O
+think	O
+for	O
+the	O
+space	O
+of	O
+two	O
+minutes	O
+at	O
+least	O
+that	O
+he	O
+really	O
+had	O
+escaped	O
+out	O
+of	O
+paris	O
+,	O
+and	O
+might	O
+even	O
+manage	O
+to	O
+reach	O
+the	O
+coast	O
+of	O
+england	O
+in	O
+safety	O
+,	O
+but	O
+bibot	B-CHARACTER
+would	O
+let	O
+the	O
+unfortunate	O
+wretch	O
+walk	O
+about	O
+ten	O
+metres	O
+towards	O
+the	O
+open	O
+country	O
+,	O
+then	O
+he	O
+would	O
+send	O
+two	O
+men	O
+after	O
+him	O
+and	O
+bring	O
+him	O
+back	O
+,	O
+stripped	O
+of	O
+his	O
+disguise	O
+.	O
+
+# id = litbank-0221
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = that was extremely funny , for as often as not the fugitive would prove to be a woman , some proud marchioness , who looked terribly comical when she found herself in bibot 's clutches after all , and knew that a summary trial would await her the next day and after that , the fond embrace of madame la guillotine .
+that	O
+was	O
+extremely	O
+funny	O
+,	O
+for	O
+as	O
+often	O
+as	O
+not	O
+the	O
+fugitive	O
+would	O
+prove	O
+to	O
+be	O
+a	O
+woman	O
+,	O
+some	O
+proud	O
+marchioness	O
+,	O
+who	O
+looked	O
+terribly	O
+comical	O
+when	O
+she	O
+found	O
+herself	O
+in	O
+bibot	B-CHARACTER
+'s	O
+clutches	O
+after	O
+all	O
+,	O
+and	O
+knew	O
+that	O
+a	O
+summary	O
+trial	O
+would	O
+await	O
+her	O
+the	O
+next	O
+day	O
+and	O
+after	O
+that	O
+,	O
+the	O
+fond	O
+embrace	O
+of	O
+madame	O
+la	O
+guillotine	O
+.	O
+
+# id = litbank-0222
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = no wonder that on this fine afternoon in september the crowd round bibot 's gate was eager and excited .
+no	O
+wonder	O
+that	O
+on	O
+this	O
+fine	O
+afternoon	O
+in	O
+september	O
+the	O
+crowd	O
+round	O
+bibot	B-CHARACTER
+'s	O
+gate	O
+was	O
+eager	O
+and	O
+excited	O
+.	O
+
+# id = litbank-0223
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = bibot was sitting on an overturned and empty cask close by the gate of the barricade ; a small detachment of citoyen soldiers was under his command .
+bibot	B-CHARACTER
+was	O
+sitting	O
+on	O
+an	O
+overturned	O
+and	O
+empty	O
+cask	O
+close	O
+by	O
+the	O
+gate	O
+of	O
+the	O
+barricade	O
+;	O
+a	O
+small	O
+detachment	O
+of	O
+citoyen	O
+soldiers	O
+was	O
+under	O
+his	O
+command	O
+.	O
+
+# id = litbank-0224
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = every day bibot had had the satisfaction of unmasking some fugitive royalists and sending them back to be tried by the committee of public safety , presided over by that good patriot , citoyen foucquier-tinville .
+every	O
+day	O
+bibot	B-CHARACTER
+had	O
+had	O
+the	O
+satisfaction	O
+of	O
+unmasking	O
+some	O
+fugitive	O
+royalists	O
+and	O
+sending	O
+them	O
+back	O
+to	O
+be	O
+tried	O
+by	O
+the	O
+committee	O
+of	O
+public	O
+safety	O
+,	O
+presided	O
+over	O
+by	O
+that	O
+good	O
+patriot	O
+,	O
+citoyen	B-CHARACTER
+foucquier-tinville	I-CHARACTER
+.	O
+
+# id = litbank-0225
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = robespierre and danton both had commended bibot for his zeal and bibot was proud of the fact that he on his own initiative had sent at least fifty aristos to the guillotine .
+robespierre	O
+and	O
+danton	O
+both	O
+had	O
+commended	O
+bibot	B-CHARACTER
+for	O
+his	O
+zeal	O
+and	O
+bibot	B-CHARACTER
+was	O
+proud	O
+of	O
+the	O
+fact	O
+that	O
+he	O
+on	O
+his	O
+own	O
+initiative	O
+had	O
+sent	O
+at	O
+least	O
+fifty	O
+aristos	O
+to	O
+the	O
+guillotine	O
+.	O
+
+# id = litbank-0226
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = sergeant grospierre had been sent to the guillotine for allowing a whole family of aristos to slip out of the north gate under his very nose .
+sergeant	B-CHARACTER
+grospierre	I-CHARACTER
+had	O
+been	O
+sent	O
+to	O
+the	O
+guillotine	O
+for	O
+allowing	O
+a	O
+whole	O
+family	O
+of	O
+aristos	O
+to	O
+slip	O
+out	O
+of	O
+the	O
+north	O
+gate	O
+under	O
+his	O
+very	O
+nose	O
+.	O
+
+# id = litbank-0227
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = citoyen foucquier-tinville would in the course of the day receive a scrap of paper from some mysterious source ; sometimes he would find it in the pocket of his coat , at others it would be handed to him by someone in the crowd , whilst he was on his way to the sitting of the committee of public safety .
+citoyen	B-CHARACTER
+foucquier-tinville	I-CHARACTER
+would	O
+in	O
+the	O
+course	O
+of	O
+the	O
+day	O
+receive	O
+a	O
+scrap	O
+of	O
+paper	O
+from	O
+some	O
+mysterious	O
+source	O
+;	O
+sometimes	O
+he	O
+would	O
+find	O
+it	O
+in	O
+the	O
+pocket	O
+of	O
+his	O
+coat	O
+,	O
+at	O
+others	O
+it	O
+would	O
+be	O
+handed	O
+to	O
+him	O
+by	O
+someone	O
+in	O
+the	O
+crowd	O
+,	O
+whilst	O
+he	O
+was	O
+on	O
+his	O
+way	O
+to	O
+the	O
+sitting	O
+of	O
+the	O
+committee	O
+of	O
+public	O
+safety	O
+.	O
+
+# id = litbank-0228
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = there was a sum of five thousand francs promised to the man who laid hands on the mysterious and elusive scarlet pimpernel .
+there	O
+was	O
+a	O
+sum	O
+of	O
+five	O
+thousand	O
+francs	O
+promised	O
+to	O
+the	O
+man	O
+who	O
+laid	O
+hands	O
+on	O
+the	O
+mysterious	O
+and	O
+elusive	O
+scarlet	B-CHARACTER
+pimpernel	I-CHARACTER
+.	O
+
+# id = litbank-0229
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = everyone felt that bibot would be that man , and bibot allowed that belief to take firm root in everybody 's mind ; and so , day after day , people came to watch him at the west gate , so as to be present when he laid hands on any fugitive aristo who perhaps might be accompanied by that mysterious englishman .
+everyone	O
+felt	O
+that	O
+bibot	B-CHARACTER
+would	O
+be	O
+that	O
+man	O
+,	O
+and	O
+bibot	B-CHARACTER
+allowed	O
+that	O
+belief	O
+to	O
+take	O
+firm	O
+root	O
+in	O
+everybody	O
+'s	O
+mind	O
+;	O
+and	O
+so	O
+,	O
+day	O
+after	O
+day	O
+,	O
+people	O
+came	O
+to	O
+watch	O
+him	O
+at	O
+the	O
+west	O
+gate	O
+,	O
+so	O
+as	O
+to	O
+be	O
+present	O
+when	O
+he	O
+laid	O
+hands	O
+on	O
+any	O
+fugitive	O
+aristo	O
+who	O
+perhaps	O
+might	O
+be	O
+accompanied	O
+by	O
+that	O
+mysterious	O
+englishman	O
+.	O
+
+# id = litbank-0230
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = “ bah ! ” he said to his trusted corporal , “ citoyen grospierre was a fool !
+“	O
+bah	O
+!	O
+”	O
+he	O
+said	O
+to	O
+his	O
+trusted	O
+corporal	O
+,	O
+“	O
+citoyen	B-CHARACTER
+grospierre	I-CHARACTER
+was	O
+a	O
+fool	O
+!	O
+
+# id = litbank-0231
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = had it been me now , at that north gate last week . . . ” citoyen bibot spat on the ground to express his contempt for his comrade 's stupidity .
+had	O
+it	O
+been	O
+me	O
+now	O
+,	O
+at	O
+that	O
+north	O
+gate	O
+last	O
+week	O
+.	O
+.	O
+.	O
+”	O
+citoyen	B-CHARACTER
+bibot	I-CHARACTER
+spat	O
+on	O
+the	O
+ground	O
+to	O
+express	O
+his	O
+contempt	O
+for	O
+his	O
+comrade	O
+'s	O
+stupidity	O
+.	O
+
+# id = litbank-0232
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = “ grospierre was at the gate , keeping good watch , ” began bibot , pompously , as the crowd closed in round him , listening eagerly to his narrative .
+“	O
+grospierre	B-CHARACTER
+was	O
+at	O
+the	O
+gate	O
+,	O
+keeping	O
+good	O
+watch	O
+,	O
+”	O
+began	O
+bibot	B-CHARACTER
+,	O
+pompously	O
+,	O
+as	O
+the	O
+crowd	O
+closed	O
+in	O
+round	O
+him	O
+,	O
+listening	O
+eagerly	O
+to	O
+his	O
+narrative	O
+.	O
+
+# id = litbank-0233
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = “ we 've all heard of this meddlesome englishman , this accursed scarlet pimpernel .
+“	O
+we	O
+'ve	O
+all	O
+heard	O
+of	O
+this	O
+meddlesome	O
+englishman	O
+,	O
+this	O
+accursed	O
+scarlet	B-CHARACTER
+pimpernel	I-CHARACTER
+.	O
+
+# id = litbank-0234
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = but grospierre was a fool .
+but	O
+grospierre	B-CHARACTER
+was	O
+a	O
+fool	O
+.	O
+
+# id = litbank-0235
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = grospierre was a bit drunk , but he thought himself very clever ; he looked into the casks -- most of them , at least -- and saw they were empty , and let the cart go through . ”
+grospierre	B-CHARACTER
+was	O
+a	O
+bit	O
+drunk	O
+,	O
+but	O
+he	O
+thought	O
+himself	O
+very	O
+clever	O
+;	O
+he	O
+looked	O
+into	O
+the	O
+casks	O
+--	O
+most	O
+of	O
+them	O
+,	O
+at	O
+least	O
+--	O
+and	O
+saw	O
+they	O
+were	O
+empty	O
+,	O
+and	O
+let	O
+the	O
+cart	O
+go	O
+through	O
+.	O
+”	O
+
+# id = litbank-0236
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = a murmur of wrath and contempt went round the group of ill-clad wretches , who crowded round citoyen bibot .
+a	O
+murmur	O
+of	O
+wrath	O
+and	O
+contempt	O
+went	O
+round	O
+the	O
+group	O
+of	O
+ill-clad	O
+wretches	O
+,	O
+who	O
+crowded	O
+round	O
+citoyen	B-CHARACTER
+bibot	I-CHARACTER
+.	O
+
+# id = litbank-0237
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = he asks of grospierre , breathlessly .
+he	O
+asks	O
+of	O
+grospierre	B-CHARACTER
+,	O
+breathlessly	O
+.	O
+
+# id = litbank-0238
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = ' yes , ' says grospierre , ' not half an hour ago . '
+'	O
+yes	O
+,	O
+'	O
+says	O
+grospierre	B-CHARACTER
+,	O
+'	O
+not	O
+half	O
+an	O
+hour	O
+ago	O
+.	O
+'	O
+
+# id = litbank-0239
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = that cart held concealed the ci-devant duc de chalis and all his family ! '
+that	O
+cart	O
+held	O
+concealed	O
+the	O
+ci-devant	O
+duc	B-CHARACTER
+de	I-CHARACTER
+chalis	I-CHARACTER
+and	O
+all	O
+his	O
+family	O
+!	O
+'	O
+
+# id = litbank-0240
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = thunders grospierre , aghast .
+thunders	O
+grospierre	B-CHARACTER
+,	O
+aghast	O
+.	O
+
+# id = litbank-0241
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = and the driver was none other than that cursed englishman , the scarlet pimpernel . ' ”
+and	O
+the	O
+driver	O
+was	O
+none	O
+other	O
+than	O
+that	O
+cursed	O
+englishman	O
+,	O
+the	O
+scarlet	B-CHARACTER
+pimpernel	I-CHARACTER
+.	O
+'	O
+”	O
+
+# id = litbank-0242
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = citoyen grospierre had paid for his blunder on the guillotine , but what a fool !
+citoyen	B-CHARACTER
+grospierre	I-CHARACTER
+had	O
+paid	O
+for	O
+his	O
+blunder	O
+on	O
+the	O
+guillotine	O
+,	O
+but	O
+what	O
+a	O
+fool	O
+!	O
+
+# id = litbank-0212
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = chapter i paris : september , 1792 a surging , seething , murmuring crowd of beings that are human only in name , for to the eye and ear they seem naught but savage creatures , animated by vile passions and by the lust of vengeance and of hate .
+chapter	O
+i	O
+paris	O
+:	O
+september	O
+,	O
+1792	O
+a	O
+surging	O
+,	O
+seething	O
+,	O
+murmuring	O
+crowd	O
+of	O
+beings	O
+that	O
+are	O
+human	O
+only	O
+in	O
+name	O
+,	O
+for	O
+to	O
+the	O
+eye	O
+and	O
+ear	O
+they	O
+seem	O
+naught	O
+but	O
+savage	O
+creatures	O
+,	O
+animated	O
+by	O
+vile	O
+passions	O
+and	O
+by	O
+the	O
+lust	O
+of	O
+vengeance	O
+and	O
+of	O
+hate	O
+.	O
+
+# id = litbank-0213
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = the hour , some little time before sunset , and the place , the west barricade , at the very spot where , a decade later , a proud tyrant raised an undying monument to the nation 's glory and his own vanity .
+the	O
+hour	O
+,	O
+some	O
+little	O
+time	O
+before	O
+sunset	O
+,	O
+and	O
+the	O
+place	O
+,	O
+the	O
+west	O
+barricade	O
+,	O
+at	O
+the	O
+very	O
+spot	O
+where	O
+,	O
+a	O
+decade	O
+later	O
+,	O
+a	O
+proud	O
+tyrant	O
+raised	O
+an	O
+undying	O
+monument	O
+to	O
+the	O
+nation	O
+'s	O
+glory	O
+and	O
+his	O
+own	O
+vanity	O
+.	O
+
+# id = litbank-0214
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = during the greater part of the day the guillotine had been kept busy at its ghastly work : all that france had boasted of in the past centuries , of ancient names , and blue blood , had paid toll to her desire for liberty and for fraternity .
+during	O
+the	O
+greater	O
+part	O
+of	O
+the	O
+day	O
+the	O
+guillotine	O
+had	O
+been	O
+kept	O
+busy	O
+at	O
+its	O
+ghastly	O
+work	O
+:	O
+all	O
+that	O
+france	O
+had	O
+boasted	O
+of	O
+in	O
+the	O
+past	O
+centuries	O
+,	O
+of	O
+ancient	O
+names	O
+,	O
+and	O
+blue	O
+blood	O
+,	O
+had	O
+paid	O
+toll	O
+to	O
+her	O
+desire	O
+for	O
+liberty	O
+and	O
+for	O
+fraternity	O
+.	O
+
+# id = litbank-0215
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = the carnage had only ceased at this late hour of the day because there were other more interesting sights for the people to witness , a little while before the final closing of the barricades for the night .
+the	O
+carnage	O
+had	O
+only	O
+ceased	O
+at	O
+this	O
+late	O
+hour	O
+of	O
+the	O
+day	O
+because	O
+there	O
+were	O
+other	O
+more	O
+interesting	O
+sights	O
+for	O
+the	O
+people	O
+to	O
+witness	O
+,	O
+a	O
+little	O
+while	O
+before	O
+the	O
+final	O
+closing	O
+of	O
+the	O
+barricades	O
+for	O
+the	O
+night	O
+.	O
+
+# id = litbank-0216
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = and so the crowd rushed away from the place de la greve and made for the various barricades in order to watch this interesting and amusing sight .
+and	O
+so	O
+the	O
+crowd	O
+rushed	O
+away	O
+from	O
+the	O
+place	O
+de	O
+la	O
+greve	O
+and	O
+made	O
+for	O
+the	O
+various	O
+barricades	O
+in	O
+order	O
+to	O
+watch	O
+this	O
+interesting	O
+and	O
+amusing	O
+sight	O
+.	O
+

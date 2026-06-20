@@ -1,0 +1,735 @@
+# id = litbank-0035
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = “ why , emil !
+“	O
+why	O
+,	O
+emil	B-CHARACTER
+!	O
+
+# id = litbank-0036
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = “ oh , emil !
+“	O
+oh	O
+,	O
+emil	B-CHARACTER
+!	O
+
+# id = litbank-0037
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = alexandra turned away decidedly .
+alexandra	B-CHARACTER
+turned	O
+away	O
+decidedly	O
+.	O
+
+# id = litbank-0038
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = i 'll go and see if i can find carl .
+i	O
+'ll	O
+go	O
+and	O
+see	O
+if	O
+i	O
+can	O
+find	O
+carl	B-CHARACTER
+.	O
+
+# id = litbank-0039
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = while the little drummer was drinking to recover his nerve , alexandra hurried to the drug store as the most likely place to find carl linstrum .
+while	O
+the	O
+little	O
+drummer	O
+was	O
+drinking	O
+to	O
+recover	O
+his	O
+nerve	O
+,	O
+alexandra	B-CHARACTER
+hurried	O
+to	O
+the	O
+drug	O
+store	O
+as	O
+the	O
+most	O
+likely	O
+place	O
+to	O
+find	O
+carl	B-CHARACTER
+linstrum	I-CHARACTER
+.	O
+
+# id = litbank-0040
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = alexandra explained her predicament , and the boy followed her to the corner , where emil still sat by the pole .
+alexandra	B-CHARACTER
+explained	O
+her	O
+predicament	O
+,	O
+and	O
+the	O
+boy	O
+followed	O
+her	O
+to	O
+the	O
+corner	O
+,	O
+where	O
+emil	B-CHARACTER
+still	O
+sat	O
+by	O
+the	O
+pole	O
+.	O
+
+# id = litbank-0041
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = “ i 'll have to go up after her , alexandra .
+“	O
+i	O
+'ll	O
+have	O
+to	O
+go	O
+up	O
+after	O
+her	O
+,	O
+alexandra	B-CHARACTER
+.	O
+
+# id = litbank-0042
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = carl thrust his hands into his pockets , lowered his head , and darted up the street against the north wind .
+carl	B-CHARACTER
+thrust	O
+his	O
+hands	O
+into	O
+his	O
+pockets	O
+,	O
+lowered	O
+his	O
+head	O
+,	O
+and	O
+darted	O
+up	O
+the	O
+street	O
+against	O
+the	O
+north	O
+wind	O
+.	O
+
+# id = litbank-0043
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = when he came back with the spikes , alexandra asked him what he had done with his overcoat .
+when	O
+he	O
+came	O
+back	O
+with	O
+the	O
+spikes	O
+,	O
+alexandra	B-CHARACTER
+asked	O
+him	O
+what	O
+he	O
+had	O
+done	O
+with	O
+his	O
+overcoat	O
+.	O
+
+# id = litbank-0044
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = catch me if i fall , emil , ” he called back as he began his ascent .
+catch	O
+me	O
+if	O
+i	O
+fall	O
+,	O
+emil	B-CHARACTER
+,	O
+”	O
+he	O
+called	O
+back	O
+as	O
+he	O
+began	O
+his	O
+ascent	O
+.	O
+
+# id = litbank-0045
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = alexandra watched him anxiously ; the cold was bitter enough on the ground .
+alexandra	B-CHARACTER
+watched	O
+him	O
+anxiously	O
+;	O
+the	O
+cold	O
+was	O
+bitter	O
+enough	O
+on	O
+the	O
+ground	O
+.	O
+
+# id = litbank-0046
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = carl had to go to the very top of the pole , and then had some difficulty in tearing her from her hold .
+carl	B-CHARACTER
+had	O
+to	O
+go	O
+to	O
+the	O
+very	O
+top	O
+of	O
+the	O
+pole	O
+,	O
+and	O
+then	O
+had	O
+some	O
+difficulty	O
+in	O
+tearing	O
+her	O
+from	O
+her	O
+hold	O
+.	O
+
+# id = litbank-0047
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = “ now go into the store with her , emil , and get warm . ”
+“	O
+now	O
+go	O
+into	O
+the	O
+store	O
+with	O
+her	O
+,	O
+emil	B-CHARACTER
+,	O
+and	O
+get	O
+warm	O
+.	O
+”	O
+
+# id = litbank-0048
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = “ wait a minute , alexandra .
+“	O
+wait	O
+a	O
+minute	O
+,	O
+alexandra	B-CHARACTER
+.	O
+
+# id = litbank-0049
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = carl did not say anything , but she felt his sympathy .
+carl	B-CHARACTER
+did	O
+not	O
+say	O
+anything	O
+,	O
+but	O
+she	O
+felt	O
+his	O
+sympathy	O
+.	O
+
+# id = litbank-0050
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = when carl turned away he said , “ i 'll see to your team . ”
+when	O
+carl	B-CHARACTER
+turned	O
+away	O
+he	O
+said	O
+,	O
+“	O
+i	O
+'ll	O
+see	O
+to	O
+your	O
+team	O
+.	O
+”	O
+
+# id = litbank-0051
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = alexandra went into the store to have her purchases packed in the egg-boxes , and to get warm before she set out on her long cold drive .
+alexandra	B-CHARACTER
+went	O
+into	O
+the	O
+store	O
+to	O
+have	O
+her	O
+purchases	O
+packed	O
+in	O
+the	O
+egg-boxes	O
+,	O
+and	O
+to	O
+get	O
+warm	O
+before	O
+she	O
+set	O
+out	O
+on	O
+her	O
+long	O
+cold	O
+drive	O
+.	O
+
+# id = litbank-0052
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = when she looked for emil , she found him sitting on a step of the staircase that led up to the clothing and carpet department .
+when	O
+she	O
+looked	O
+for	O
+emil	B-CHARACTER
+,	O
+she	O
+found	O
+him	O
+sitting	O
+on	O
+a	O
+step	O
+of	O
+the	O
+staircase	O
+that	O
+led	O
+up	O
+to	O
+the	O
+clothing	O
+and	O
+carpet	O
+department	O
+.	O
+
+# id = litbank-0053
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = he was playing with a little bohemian girl , marie tovesky , who was tying her handkerchief over the kitten 's head for a bonnet .
+he	O
+was	O
+playing	O
+with	O
+a	O
+little	O
+bohemian	O
+girl	O
+,	O
+marie	B-CHARACTER
+tovesky	I-CHARACTER
+,	O
+who	O
+was	O
+tying	O
+her	O
+handkerchief	O
+over	O
+the	O
+kitten	O
+'s	O
+head	O
+for	O
+a	O
+bonnet	O
+.	O
+
+# id = litbank-0054
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = marie was a stranger in the country , having come from omaha with her mother to visit her uncle , joe tovesky .
+marie	B-CHARACTER
+was	O
+a	O
+stranger	O
+in	O
+the	O
+country	O
+,	O
+having	O
+come	O
+from	O
+omaha	O
+with	O
+her	O
+mother	O
+to	O
+visit	O
+her	O
+uncle	O
+,	O
+joe	B-CHARACTER
+tovesky	I-CHARACTER
+.	O
+
+# id = litbank-0030
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = the wild land i one january day , thirty years ago , the little town of hanover , anchored on a windy nebraska tableland , was trying not to be blown away .
+the	O
+wild	O
+land	O
+i	O
+one	O
+january	O
+day	O
+,	O
+thirty	O
+years	O
+ago	O
+,	O
+the	O
+little	O
+town	O
+of	O
+hanover	O
+,	O
+anchored	O
+on	O
+a	O
+windy	O
+nebraska	O
+tableland	O
+,	O
+was	O
+trying	O
+not	O
+to	O
+be	O
+blown	O
+away	O
+.	O
+
+# id = litbank-0031
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = a mist of fine snowflakes was curling and eddying about the cluster of low drab buildings huddled on the gray prairie , under a gray sky .
+a	O
+mist	O
+of	O
+fine	O
+snowflakes	O
+was	O
+curling	O
+and	O
+eddying	O
+about	O
+the	O
+cluster	O
+of	O
+low	O
+drab	O
+buildings	O
+huddled	O
+on	O
+the	O
+gray	O
+prairie	O
+,	O
+under	O
+a	O
+gray	O
+sky	O
+.	O
+
+# id = litbank-0032
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = the dwelling-houses were set about haphazard on the tough prairie sod ; some of them looked as if they had been moved in overnight , and others as if they were straying off by themselves , headed straight for the open plain .
+the	O
+dwelling-houses	O
+were	O
+set	O
+about	O
+haphazard	O
+on	O
+the	O
+tough	O
+prairie	O
+sod	O
+;	O
+some	O
+of	O
+them	O
+looked	O
+as	O
+if	O
+they	O
+had	O
+been	O
+moved	O
+in	O
+overnight	O
+,	O
+and	O
+others	O
+as	O
+if	O
+they	O
+were	O
+straying	O
+off	O
+by	O
+themselves	O
+,	O
+headed	O
+straight	O
+for	O
+the	O
+open	O
+plain	O
+.	O
+
+# id = litbank-0033
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = none of them had any appearance of permanence , and the howling wind blew under them as well as over them .
+none	O
+of	O
+them	O
+had	O
+any	O
+appearance	O
+of	O
+permanence	O
+,	O
+and	O
+the	O
+howling	O
+wind	O
+blew	O
+under	O
+them	O
+as	O
+well	O
+as	O
+over	O
+them	O
+.	O
+
+# id = litbank-0034
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = the main street was a deeply rutted road , now frozen hard , which ran from the squat red railway station and the grain “ elevator ” at the north end of the town to the lumber yard and the horse pond at the south end .
+the	O
+main	O
+street	O
+was	O
+a	O
+deeply	O
+rutted	O
+road	O
+,	O
+now	O
+frozen	O
+hard	O
+,	O
+which	O
+ran	O
+from	O
+the	O
+squat	O
+red	O
+railway	O
+station	O
+and	O
+the	O
+grain	O
+“	O
+elevator	O
+”	O
+at	O
+the	O
+north	O
+end	O
+of	O
+the	O
+town	O
+to	O
+the	O
+lumber	O
+yard	O
+and	O
+the	O
+horse	O
+pond	O
+at	O
+the	O
+south	O
+end	O
+.	O
+

@@ -1,0 +1,492 @@
+# id = litbank-0107
+# source = LitBank
+# book = The Scarlet Letter
+# book_id = 33_the_scarlet_letter
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/33_the_scarlet_letter_brat.tsv
+# text = it might be , too , that a witch , like old mistress hibbins , the bitter-tempered widow of the magistrate , was to die upon the gallows .
+it	O
+might	O
+be	O
+,	O
+too	O
+,	O
+that	O
+a	O
+witch	O
+,	O
+like	O
+old	O
+mistress	B-CHARACTER
+hibbins	I-CHARACTER
+,	O
+the	O
+bitter-tempered	O
+widow	O
+of	O
+the	O
+magistrate	O
+,	O
+was	O
+to	O
+die	O
+upon	O
+the	O
+gallows	O
+.	O
+
+# id = litbank-0108
+# source = LitBank
+# book = The Scarlet Letter
+# book_id = 33_the_scarlet_letter
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/33_the_scarlet_letter_brat.tsv
+# text = it would be greatly for the public behoof if we women , being of mature age and church-members in good repute , should have the handling of such malefactresses as this hester prynne .
+it	O
+would	O
+be	O
+greatly	O
+for	O
+the	O
+public	O
+behoof	O
+if	O
+we	O
+women	O
+,	O
+being	O
+of	O
+mature	O
+age	O
+and	O
+church-members	O
+in	O
+good	O
+repute	O
+,	O
+should	O
+have	O
+the	O
+handling	O
+of	O
+such	O
+malefactresses	O
+as	O
+this	O
+hester	B-CHARACTER
+prynne	I-CHARACTER
+.	O
+
+# id = litbank-0109
+# source = LitBank
+# book = The Scarlet Letter
+# book_id = 33_the_scarlet_letter
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/33_the_scarlet_letter_brat.tsv
+# text = " people say , " said another , " that the reverend master dimmesdale , her godly pastor , takes it very grievously to heart that such a scandal should have come upon his congregation . "
+"	O
+people	O
+say	O
+,	O
+"	O
+said	O
+another	O
+,	O
+"	O
+that	O
+the	O
+reverend	O
+master	B-CHARACTER
+dimmesdale	I-CHARACTER
+,	O
+her	O
+godly	O
+pastor	O
+,	O
+takes	O
+it	O
+very	O
+grievously	O
+to	O
+heart	O
+that	O
+such	O
+a	O
+scandal	O
+should	O
+have	O
+come	O
+upon	O
+his	O
+congregation	O
+.	O
+"	O
+
+# id = litbank-0110
+# source = LitBank
+# book = The Scarlet Letter
+# book_id = 33_the_scarlet_letter
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/33_the_scarlet_letter_brat.tsv
+# text = " at the very least , they should have put the brand of a hot iron on hester prynne 's forehead .
+"	O
+at	O
+the	O
+very	O
+least	O
+,	O
+they	O
+should	O
+have	O
+put	O
+the	O
+brand	O
+of	O
+a	O
+hot	O
+iron	O
+on	O
+hester	B-CHARACTER
+prynne	I-CHARACTER
+'s	O
+forehead	O
+.	O
+
+# id = litbank-0111
+# source = LitBank
+# book = The Scarlet Letter
+# book_id = 33_the_scarlet_letter
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/33_the_scarlet_letter_brat.tsv
+# text = madame hester would have winced at that , i warrant me .
+madame	B-CHARACTER
+hester	I-CHARACTER
+would	O
+have	O
+winced	O
+at	O
+that	O
+,	O
+i	O
+warrant	O
+me	O
+.	O
+
+# id = litbank-0112
+# source = LitBank
+# book = The Scarlet Letter
+# book_id = 33_the_scarlet_letter
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/33_the_scarlet_letter_brat.tsv
+# text = hush now , gossips for the lock is turning in the prison-door , and here comes mistress prynne herself . "
+hush	O
+now	O
+,	O
+gossips	O
+for	O
+the	O
+lock	O
+is	O
+turning	O
+in	O
+the	O
+prison-door	O
+,	O
+and	O
+here	O
+comes	O
+mistress	B-CHARACTER
+prynne	I-CHARACTER
+herself	O
+.	O
+"	O
+
+# id = litbank-0102
+# source = LitBank
+# book = The Scarlet Letter
+# book_id = 33_the_scarlet_letter
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/33_the_scarlet_letter_brat.tsv
+# text = the prison door a throng of bearded men , in sad-coloured garments and grey steeple-crowned hats , inter-mixed with women , some wearing hoods , and others bareheaded , was assembled in front of a wooden edifice , the door of which was heavily timbered with oak , and studded with iron spikes .
+the	O
+prison	O
+door	O
+a	O
+throng	O
+of	O
+bearded	O
+men	O
+,	O
+in	O
+sad-coloured	O
+garments	O
+and	O
+grey	O
+steeple-crowned	O
+hats	O
+,	O
+inter-mixed	O
+with	O
+women	O
+,	O
+some	O
+wearing	O
+hoods	O
+,	O
+and	O
+others	O
+bareheaded	O
+,	O
+was	O
+assembled	O
+in	O
+front	O
+of	O
+a	O
+wooden	O
+edifice	O
+,	O
+the	O
+door	O
+of	O
+which	O
+was	O
+heavily	O
+timbered	O
+with	O
+oak	O
+,	O
+and	O
+studded	O
+with	O
+iron	O
+spikes	O
+.	O
+
+# id = litbank-0103
+# source = LitBank
+# book = The Scarlet Letter
+# book_id = 33_the_scarlet_letter
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/33_the_scarlet_letter_brat.tsv
+# text = the founders of a new colony , whatever utopia of human virtue and happiness they might originally project , have invariably recognised it among their earliest practical necessities to allot a portion of the virgin soil as a cemetery , and another portion as the site of a prison .
+the	O
+founders	O
+of	O
+a	O
+new	O
+colony	O
+,	O
+whatever	O
+utopia	O
+of	O
+human	O
+virtue	O
+and	O
+happiness	O
+they	O
+might	O
+originally	O
+project	O
+,	O
+have	O
+invariably	O
+recognised	O
+it	O
+among	O
+their	O
+earliest	O
+practical	O
+necessities	O
+to	O
+allot	O
+a	O
+portion	O
+of	O
+the	O
+virgin	O
+soil	O
+as	O
+a	O
+cemetery	O
+,	O
+and	O
+another	O
+portion	O
+as	O
+the	O
+site	O
+of	O
+a	O
+prison	O
+.	O
+
+# id = litbank-0104
+# source = LitBank
+# book = The Scarlet Letter
+# book_id = 33_the_scarlet_letter
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/33_the_scarlet_letter_brat.tsv
+# text = in accordance with this rule it may safely be assumed that the forefathers of boston had built the first prison-house somewhere in the vicinity of cornhill , almost as seasonably as they marked out the first burial-ground , on isaac johnson 's lot , and round about his grave , which subsequently became the nucleus of all the congregated sepulchres in the old churchyard of king 's chapel .
+in	O
+accordance	O
+with	O
+this	O
+rule	O
+it	O
+may	O
+safely	O
+be	O
+assumed	O
+that	O
+the	O
+forefathers	O
+of	O
+boston	O
+had	O
+built	O
+the	O
+first	O
+prison-house	O
+somewhere	O
+in	O
+the	O
+vicinity	O
+of	O
+cornhill	O
+,	O
+almost	O
+as	O
+seasonably	O
+as	O
+they	O
+marked	O
+out	O
+the	O
+first	O
+burial-ground	O
+,	O
+on	O
+isaac	O
+johnson	O
+'s	O
+lot	O
+,	O
+and	O
+round	O
+about	O
+his	O
+grave	O
+,	O
+which	O
+subsequently	O
+became	O
+the	O
+nucleus	O
+of	O
+all	O
+the	O
+congregated	O
+sepulchres	O
+in	O
+the	O
+old	O
+churchyard	O
+of	O
+king	O
+'s	O
+chapel	O
+.	O
+
+# id = litbank-0105
+# source = LitBank
+# book = The Scarlet Letter
+# book_id = 33_the_scarlet_letter
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/33_the_scarlet_letter_brat.tsv
+# text = certain it is that , some fifteen or twenty years after the settlement of the town , the wooden jail was already marked with weather-stains and other indications of age , which gave a yet darker aspect to its beetle-browed and gloomy front .
+certain	O
+it	O
+is	O
+that	O
+,	O
+some	O
+fifteen	O
+or	O
+twenty	O
+years	O
+after	O
+the	O
+settlement	O
+of	O
+the	O
+town	O
+,	O
+the	O
+wooden	O
+jail	O
+was	O
+already	O
+marked	O
+with	O
+weather-stains	O
+and	O
+other	O
+indications	O
+of	O
+age	O
+,	O
+which	O
+gave	O
+a	O
+yet	O
+darker	O
+aspect	O
+to	O
+its	O
+beetle-browed	O
+and	O
+gloomy	O
+front	O
+.	O
+
+# id = litbank-0106
+# source = LitBank
+# book = The Scarlet Letter
+# book_id = 33_the_scarlet_letter
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/33_the_scarlet_letter_brat.tsv
+# text = the rust on the ponderous iron-work of its oaken door looked more antique than anything else in the new world .
+the	O
+rust	O
+on	O
+the	O
+ponderous	O
+iron-work	O
+of	O
+its	O
+oaken	O
+door	O
+looked	O
+more	O
+antique	O
+than	O
+anything	O
+else	O
+in	O
+the	O
+new	O
+world	O
+.	O
+

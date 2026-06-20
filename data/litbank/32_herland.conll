@@ -1,0 +1,609 @@
+# id = litbank-0085
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = there were three of us , classmates and friends -- terry o. nicholson ( we used to call him the old nick , with good reason ) , jeff margrave , and i , vandyck jennings .
+there	O
+were	O
+three	O
+of	O
+us	O
+,	O
+classmates	O
+and	O
+friends	O
+--	O
+terry	B-CHARACTER
+o.	I-CHARACTER
+nicholson	I-CHARACTER
+(	O
+we	O
+used	O
+to	O
+call	O
+him	O
+the	O
+old	O
+nick	B-CHARACTER
+,	O
+with	O
+good	O
+reason	O
+)	O
+,	O
+jeff	B-CHARACTER
+margrave	I-CHARACTER
+,	O
+and	O
+i	O
+,	O
+vandyck	B-CHARACTER
+jennings	I-CHARACTER
+.	O
+
+# id = litbank-0086
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = terry was rich enough to do as he pleased .
+terry	B-CHARACTER
+was	O
+rich	O
+enough	O
+to	O
+do	O
+as	O
+he	O
+pleased	O
+.	O
+
+# id = litbank-0087
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = we never could have done the thing at all without terry .
+we	O
+never	O
+could	O
+have	O
+done	O
+the	O
+thing	O
+at	O
+all	O
+without	O
+terry	B-CHARACTER
+.	O
+
+# id = litbank-0088
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = jeff margrave was born to be a poet , a botanist -- or both -- but his folks persuaded him to be a doctor instead .
+jeff	B-CHARACTER
+margrave	I-CHARACTER
+was	O
+born	O
+to	O
+be	O
+a	O
+poet	O
+,	O
+a	O
+botanist	O
+--	O
+or	O
+both	O
+--	O
+but	O
+his	O
+folks	O
+persuaded	O
+him	O
+to	O
+be	O
+a	O
+doctor	O
+instead	O
+.	O
+
+# id = litbank-0089
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = terry was strong on facts -- geography and meteorology and those ; jeff could beat him any time on biology , and i did n’t care what it was they talked about , so long as it connected with human life , somehow .
+terry	B-CHARACTER
+was	O
+strong	O
+on	O
+facts	O
+--	O
+geography	O
+and	O
+meteorology	O
+and	O
+those	O
+;	O
+jeff	B-CHARACTER
+could	O
+beat	O
+him	O
+any	O
+time	O
+on	O
+biology	O
+,	O
+and	O
+i	O
+did	O
+n’t	O
+care	O
+what	O
+it	O
+was	O
+they	O
+talked	O
+about	O
+,	O
+so	O
+long	O
+as	O
+it	O
+connected	O
+with	O
+human	O
+life	O
+,	O
+somehow	O
+.	O
+
+# id = litbank-0090
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = they needed a doctor , and that gave jeff an excuse for dropping his just opening practice ; they needed terry ’s experience , his machine , and his money ; and as for me , i got in through terry ’s influence .
+they	O
+needed	O
+a	O
+doctor	O
+,	O
+and	O
+that	O
+gave	O
+jeff	B-CHARACTER
+an	O
+excuse	O
+for	O
+dropping	O
+his	O
+just	O
+opening	O
+practice	O
+;	O
+they	O
+needed	O
+terry	B-CHARACTER
+’s	O
+experience	O
+,	O
+his	O
+machine	O
+,	O
+and	O
+his	O
+money	O
+;	O
+and	O
+as	O
+for	O
+me	O
+,	O
+i	O
+got	O
+in	O
+through	O
+terry	B-CHARACTER
+’s	O
+influence	O
+.	O
+
+# id = litbank-0091
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = terry was close by and interested in the fellow ’s pointing .
+terry	B-CHARACTER
+was	O
+close	O
+by	O
+and	O
+interested	O
+in	O
+the	O
+fellow	O
+’s	O
+pointing	O
+.	O
+
+# id = litbank-0092
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = “ what does he say , van ? ”
+“	O
+what	O
+does	O
+he	O
+say	O
+,	O
+van	B-CHARACTER
+?	O
+”	O
+
+# id = litbank-0093
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = terry blazed up at once .
+terry	B-CHARACTER
+blazed	O
+up	O
+at	O
+once	O
+.	O
+
+# id = litbank-0094
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = “ let ’s go , ” urged terry .
+“	O
+let	O
+’s	O
+go	O
+,	O
+”	O
+urged	O
+terry	B-CHARACTER
+.	O
+
+# id = litbank-0095
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = “ may be indigo , ” jeff suggested , with his lazy smile .
+“	O
+may	O
+be	O
+indigo	O
+,	O
+”	O
+jeff	B-CHARACTER
+suggested	O
+,	O
+with	O
+his	O
+lazy	O
+smile	O
+.	O
+
+# id = litbank-0096
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = but there was one , and i could see terry , with compass and notebook , marking directions and trying to place landmarks .
+but	O
+there	O
+was	O
+one	O
+,	O
+and	O
+i	O
+could	O
+see	O
+terry	B-CHARACTER
+,	O
+with	O
+compass	O
+and	O
+notebook	O
+,	O
+marking	O
+directions	O
+and	O
+trying	O
+to	O
+place	O
+landmarks	O
+.	O
+
+# id = litbank-0097
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = “ one of those long easterly spurs , ” terry said appraisingly .
+“	O
+one	O
+of	O
+those	O
+long	O
+easterly	O
+spurs	O
+,	O
+”	O
+terry	B-CHARACTER
+said	O
+appraisingly	O
+.	O
+
+# id = litbank-0098
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = “ that ’s snow water , ” terry announced .
+“	O
+that	O
+’s	O
+snow	O
+water	O
+,	O
+”	O
+terry	B-CHARACTER
+announced	O
+.	O
+
+# id = litbank-0099
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = terry got out his magnifying glass and squatted down to investigate .
+terry	B-CHARACTER
+got	O
+out	O
+his	O
+magnifying	O
+glass	O
+and	O
+squatted	O
+down	O
+to	O
+investigate	O
+.	O
+
+# id = litbank-0100
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = i could see terry ’s jaw set at that .
+i	O
+could	O
+see	O
+terry	B-CHARACTER
+’s	O
+jaw	O
+set	O
+at	O
+that	O
+.	O
+
+# id = litbank-0101
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = but terry stopped in his tracks .
+but	O
+terry	B-CHARACTER
+stopped	O
+in	O
+his	O
+tracks	O
+.	O
+
+# id = litbank-0080
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = a not unnatural enterprise this is written from memory , unfortunately .
+a	O
+not	O
+unnatural	O
+enterprise	O
+this	O
+is	O
+written	O
+from	O
+memory	O
+,	O
+unfortunately	O
+.	O
+
+# id = litbank-0081
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = if i could have brought with me the material i so carefully prepared , this would be a very different story .
+if	O
+i	O
+could	O
+have	O
+brought	O
+with	O
+me	O
+the	O
+material	O
+i	O
+so	O
+carefully	O
+prepared	O
+,	O
+this	O
+would	O
+be	O
+a	O
+very	O
+different	O
+story	O
+.	O
+
+# id = litbank-0082
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = whole books full of notes , carefully copied records , firsthand descriptions , and the pictures -- that ’s the worst loss .
+whole	O
+books	O
+full	O
+of	O
+notes	O
+,	O
+carefully	O
+copied	O
+records	O
+,	O
+firsthand	O
+descriptions	O
+,	O
+and	O
+the	O
+pictures	O
+--	O
+that	O
+’s	O
+the	O
+worst	O
+loss	O
+.	O
+
+# id = litbank-0083
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = we had some bird ’s - eyes of the cities and parks ; a lot of lovely views of streets , of buildings , outside and in , and some of those gorgeous gardens , and , most important of all , of the women themselves .
+we	O
+had	O
+some	O
+bird	O
+’s	O
+-	O
+eyes	O
+of	O
+the	O
+cities	O
+and	O
+parks	O
+;	O
+a	O
+lot	O
+of	O
+lovely	O
+views	O
+of	O
+streets	O
+,	O
+of	O
+buildings	O
+,	O
+outside	O
+and	O
+in	O
+,	O
+and	O
+some	O
+of	O
+those	O
+gorgeous	O
+gardens	O
+,	O
+and	O
+,	O
+most	O
+important	O
+of	O
+all	O
+,	O
+of	O
+the	O
+women	O
+themselves	O
+.	O
+
+# id = litbank-0084
+# source = LitBank
+# book = Herland
+# book_id = 32_herland
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/32_herland_brat.tsv
+# text = nobody will ever believe how they looked .
+nobody	O
+will	O
+ever	O
+believe	O
+how	O
+they	O
+looked	O
+.	O
+

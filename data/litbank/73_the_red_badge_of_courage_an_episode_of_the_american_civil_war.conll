@@ -1,0 +1,452 @@
+# id = litbank-0271
+# source = LitBank
+# book = The Red Badge of Courage
+# book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/73_the_red_badge_of_courage_an_episode_of_the_american_civil_war_brat.tsv
+# text = " what 's up , jim ? "
+"	O
+what	O
+'s	O
+up	O
+,	O
+jim	B-CHARACTER
+?	O
+"	O
+
+# id = litbank-0272
+# source = LitBank
+# book = The Red Badge of Courage
+# book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/73_the_red_badge_of_courage_an_episode_of_the_american_civil_war_brat.tsv
+# text = " henry , do n't you be a fool , " his mother had replied .
+"	O
+henry	B-CHARACTER
+,	O
+do	O
+n't	O
+you	O
+be	O
+a	O
+fool	O
+,	O
+"	O
+his	O
+mother	O
+had	O
+replied	O
+.	O
+
+# id = litbank-0273
+# source = LitBank
+# book = The Red Badge of Courage
+# book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/73_the_red_badge_of_courage_an_episode_of_the_american_civil_war_brat.tsv
+# text = " the lord 's will be done , henry , " she had finally replied , and had then continued to milk the brindle cow .
+"	O
+the	O
+lord	O
+'s	O
+will	O
+be	O
+done	O
+,	O
+henry	B-CHARACTER
+,	O
+"	O
+she	O
+had	O
+finally	O
+replied	O
+,	O
+and	O
+had	O
+then	O
+continued	O
+to	O
+milk	O
+the	O
+brindle	O
+cow	O
+.	O
+
+# id = litbank-0274
+# source = LitBank
+# book = The Red Badge of Courage
+# book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/73_the_red_badge_of_courage_an_episode_of_the_american_civil_war_brat.tsv
+# text = she had doggedly peeled potatoes and addressed him as follows : " you watch out , henry , an ' take good care of yerself in this here fighting business -- you watch , an ' take good care of yerself .
+she	O
+had	O
+doggedly	O
+peeled	O
+potatoes	O
+and	O
+addressed	O
+him	O
+as	O
+follows	O
+:	O
+"	O
+you	O
+watch	O
+out	O
+,	O
+henry	B-CHARACTER
+,	O
+an	O
+'	O
+take	O
+good	O
+care	O
+of	O
+yerself	O
+in	O
+this	O
+here	O
+fighting	O
+business	O
+--	O
+you	O
+watch	O
+,	O
+an	O
+'	O
+take	O
+good	O
+care	O
+of	O
+yerself	O
+.	O
+
+# id = litbank-0275
+# source = LitBank
+# book = The Red Badge of Courage
+# book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/73_the_red_badge_of_courage_an_episode_of_the_american_civil_war_brat.tsv
+# text = i know how you are , henry .
+i	O
+know	O
+how	O
+you	O
+are	O
+,	O
+henry	B-CHARACTER
+.	O
+
+# id = litbank-0276
+# source = LitBank
+# book = The Red Badge of Courage
+# book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/73_the_red_badge_of_courage_an_episode_of_the_american_civil_war_brat.tsv
+# text = " i 've knet yeh eight pair of socks , henry , and i 've put in all yer best shirts , because i want my boy to be jest as warm and comf ' able as anybody in the army .
+"	O
+i	O
+'ve	O
+knet	O
+yeh	O
+eight	O
+pair	O
+of	O
+socks	O
+,	O
+henry	B-CHARACTER
+,	O
+and	O
+i	O
+'ve	O
+put	O
+in	O
+all	O
+yer	O
+best	O
+shirts	O
+,	O
+because	O
+i	O
+want	O
+my	O
+boy	O
+to	O
+be	O
+jest	O
+as	O
+warm	O
+and	O
+comf	O
+'	O
+able	O
+as	O
+anybody	O
+in	O
+the	O
+army	O
+.	O
+
+# id = litbank-0277
+# source = LitBank
+# book = The Red Badge of Courage
+# book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/73_the_red_badge_of_courage_an_episode_of_the_american_civil_war_brat.tsv
+# text = there 's lots of bad men in the army , henry .
+there	O
+'s	O
+lots	O
+of	O
+bad	O
+men	O
+in	O
+the	O
+army	O
+,	O
+henry	B-CHARACTER
+.	O
+
+# id = litbank-0278
+# source = LitBank
+# book = The Red Badge of Courage
+# book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/73_the_red_badge_of_courage_an_episode_of_the_american_civil_war_brat.tsv
+# text = keep clear of them folks , henry .
+keep	O
+clear	O
+of	O
+them	O
+folks	O
+,	O
+henry	B-CHARACTER
+.	O
+
+# id = litbank-0279
+# source = LitBank
+# book = The Red Badge of Courage
+# book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/73_the_red_badge_of_courage_an_episode_of_the_american_civil_war_brat.tsv
+# text = i do n't want yeh to ever do anything , henry , that yeh would be ' shamed to let me know about .
+i	O
+do	O
+n't	O
+want	O
+yeh	O
+to	O
+ever	O
+do	O
+anything	O
+,	O
+henry	B-CHARACTER
+,	O
+that	O
+yeh	O
+would	O
+be	O
+'	O
+shamed	O
+to	O
+let	O
+me	O
+know	O
+about	O
+.	O
+
+# id = litbank-0266
+# source = LitBank
+# book = The Red Badge of Courage
+# book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/73_the_red_badge_of_courage_an_episode_of_the_american_civil_war_brat.tsv
+# text = chapter 1 the cold passed reluctantly from the earth , and the retiring fogs revealed an army stretched out on the hills , resting .
+chapter	O
+1	O
+the	O
+cold	O
+passed	O
+reluctantly	O
+from	O
+the	O
+earth	O
+,	O
+and	O
+the	O
+retiring	O
+fogs	O
+revealed	O
+an	O
+army	O
+stretched	O
+out	O
+on	O
+the	O
+hills	O
+,	O
+resting	O
+.	O
+
+# id = litbank-0267
+# source = LitBank
+# book = The Red Badge of Courage
+# book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/73_the_red_badge_of_courage_an_episode_of_the_american_civil_war_brat.tsv
+# text = as the landscape changed from brown to green , the army awakened , and began to tremble with eagerness at the noise of rumors .
+as	O
+the	O
+landscape	O
+changed	O
+from	O
+brown	O
+to	O
+green	O
+,	O
+the	O
+army	O
+awakened	O
+,	O
+and	O
+began	O
+to	O
+tremble	O
+with	O
+eagerness	O
+at	O
+the	O
+noise	O
+of	O
+rumors	O
+.	O
+
+# id = litbank-0268
+# source = LitBank
+# book = The Red Badge of Courage
+# book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/73_the_red_badge_of_courage_an_episode_of_the_american_civil_war_brat.tsv
+# text = it cast its eyes upon the roads , which were growing from long troughs of liquid mud to proper thoroughfares .
+it	O
+cast	O
+its	O
+eyes	O
+upon	O
+the	O
+roads	O
+,	O
+which	O
+were	O
+growing	O
+from	O
+long	O
+troughs	O
+of	O
+liquid	O
+mud	O
+to	O
+proper	O
+thoroughfares	O
+.	O
+
+# id = litbank-0269
+# source = LitBank
+# book = The Red Badge of Courage
+# book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/73_the_red_badge_of_courage_an_episode_of_the_american_civil_war_brat.tsv
+# text = a river , amber-tinted in the shadow of its banks , purled at the army 's feet ; and at night , when the stream had become of a sorrowful blackness , one could see across it the red , eyelike gleam of hostile camp-fires set in the low brows of distant hills .
+a	O
+river	O
+,	O
+amber-tinted	O
+in	O
+the	O
+shadow	O
+of	O
+its	O
+banks	O
+,	O
+purled	O
+at	O
+the	O
+army	O
+'s	O
+feet	O
+;	O
+and	O
+at	O
+night	O
+,	O
+when	O
+the	O
+stream	O
+had	O
+become	O
+of	O
+a	O
+sorrowful	O
+blackness	O
+,	O
+one	O
+could	O
+see	O
+across	O
+it	O
+the	O
+red	O
+,	O
+eyelike	O
+gleam	O
+of	O
+hostile	O
+camp-fires	O
+set	O
+in	O
+the	O
+low	O
+brows	O
+of	O
+distant	O
+hills	O
+.	O
+
+# id = litbank-0270
+# source = LitBank
+# book = The Red Badge of Courage
+# book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/73_the_red_badge_of_courage_an_episode_of_the_american_civil_war_brat.tsv
+# text = once a certain tall soldier developed virtues and went resolutely to wash a shirt .
+once	O
+a	O
+certain	O
+tall	O
+soldier	O
+developed	O
+virtues	O
+and	O
+went	O
+resolutely	O
+to	O
+wash	O
+a	O
+shirt	O
+.	O
+
