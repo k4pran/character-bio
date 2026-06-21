@@ -1,0 +1,212 @@
+# id = litbank-2382
+# source = LitBank
+# book = The Quest of the Silver Fleece
+# book_id = 15265_the_quest_of_the_silver_fleece_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/15265_the_quest_of_the_silver_fleece_a_novel_brat.tsv
+# text = and the cat and old billy -- ah , but the world was a lonely thing , so wide and tall and empty !
+and	O
+the	O
+cat	O
+and	O
+old	O
+billy	B-CHARACTER
+--	O
+ah	O
+,	O
+but	O
+the	O
+world	O
+was	O
+a	O
+lonely	O
+thing	O
+,	O
+so	O
+wide	O
+and	O
+tall	O
+and	O
+empty	O
+!	O
+
+# id = litbank-2383
+# source = LitBank
+# book = The Quest of the Silver Fleece
+# book_id = 15265_the_quest_of_the_silver_fleece_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/15265_the_quest_of_the_silver_fleece_a_novel_brat.tsv
+# text = " cresswell 's big house . "
+"	O
+cresswell	B-CHARACTER
+'s	O
+big	O
+house	O
+.	O
+"	O
+
+# id = litbank-2384
+# source = LitBank
+# book = The Quest of the Silver Fleece
+# book_id = 15265_the_quest_of_the_silver_fleece_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/15265_the_quest_of_the_silver_fleece_a_novel_brat.tsv
+# text = " miss smith 's school ? "
+"	O
+miss	B-CHARACTER
+smith	I-CHARACTER
+'s	O
+school	O
+?	O
+"	O
+
+# id = litbank-2377
+# source = LitBank
+# book = The Quest of the Silver Fleece
+# book_id = 15265_the_quest_of_the_silver_fleece_a_novel
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/15265_the_quest_of_the_silver_fleece_a_novel_brat.tsv
+# text = the red waters of the swamp grew sinister and sullen .
+the	O
+red	O
+waters	O
+of	O
+the	O
+swamp	O
+grew	O
+sinister	O
+and	O
+sullen	O
+.	O
+
+# id = litbank-2378
+# source = LitBank
+# book = The Quest of the Silver Fleece
+# book_id = 15265_the_quest_of_the_silver_fleece_a_novel
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/15265_the_quest_of_the_silver_fleece_a_novel_brat.tsv
+# text = the tall pines lost their slimness and stood in wide blurred blotches all across the way , and a great shadowy bird arose , wheeled and melted , murmuring , into the black-green sky .
+the	O
+tall	O
+pines	O
+lost	O
+their	O
+slimness	O
+and	O
+stood	O
+in	O
+wide	O
+blurred	O
+blotches	O
+all	O
+across	O
+the	O
+way	O
+,	O
+and	O
+a	O
+great	O
+shadowy	O
+bird	O
+arose	O
+,	O
+wheeled	O
+and	O
+melted	O
+,	O
+murmuring	O
+,	O
+into	O
+the	O
+black-green	O
+sky	O
+.	O
+
+# id = litbank-2379
+# source = LitBank
+# book = The Quest of the Silver Fleece
+# book_id = 15265_the_quest_of_the_silver_fleece_a_novel
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/15265_the_quest_of_the_silver_fleece_a_novel_brat.tsv
+# text = the boy wearily dropped his heavy bundle and stood still , listening as the voice of crickets split the shadows and made the silence audible .
+the	O
+boy	O
+wearily	O
+dropped	O
+his	O
+heavy	O
+bundle	O
+and	O
+stood	O
+still	O
+,	O
+listening	O
+as	O
+the	O
+voice	O
+of	O
+crickets	O
+split	O
+the	O
+shadows	O
+and	O
+made	O
+the	O
+silence	O
+audible	O
+.	O
+
+# id = litbank-2380
+# source = LitBank
+# book = The Quest of the Silver Fleece
+# book_id = 15265_the_quest_of_the_silver_fleece_a_novel
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/15265_the_quest_of_the_silver_fleece_a_novel_brat.tsv
+# text = a tear wandered down his brown cheek .
+a	O
+tear	O
+wandered	O
+down	O
+his	O
+brown	O
+cheek	O
+.	O
+
+# id = litbank-2381
+# source = LitBank
+# book = The Quest of the Silver Fleece
+# book_id = 15265_the_quest_of_the_silver_fleece_a_novel
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/15265_the_quest_of_the_silver_fleece_a_novel_brat.tsv
+# text = they were at supper now , he whispered -- the father and old mother , away back yonder beyond the night .
+they	O
+were	O
+at	O
+supper	O
+now	O
+,	O
+he	O
+whispered	O
+--	O
+the	O
+father	O
+and	O
+old	O
+mother	O
+,	O
+away	O
+back	O
+yonder	O
+beyond	O
+the	O
+night	O
+.	O
+

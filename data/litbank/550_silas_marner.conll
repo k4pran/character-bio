@@ -1,0 +1,1120 @@
+# id = litbank-1134
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = in the early years of this century , such a linen-weaver , named silas marner , worked at his vocation in a stone cottage that stood among the nutty hedgerows near the village of raveloe , and not far from the edge of a deserted stone-pit .
+in	O
+the	O
+early	O
+years	O
+of	O
+this	O
+century	O
+,	O
+such	O
+a	O
+linen-weaver	O
+,	O
+named	O
+silas	B-CHARACTER
+marner	I-CHARACTER
+,	O
+worked	O
+at	O
+his	O
+vocation	O
+in	O
+a	O
+stone	O
+cottage	O
+that	O
+stood	O
+among	O
+the	O
+nutty	O
+hedgerows	O
+near	O
+the	O
+village	O
+of	O
+raveloe	O
+,	O
+and	O
+not	O
+far	O
+from	O
+the	O
+edge	O
+of	O
+a	O
+deserted	O
+stone-pit	O
+.	O
+
+# id = litbank-1135
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = the questionable sound of silas 's loom , so unlike the natural cheerful trotting of the winnowing-machine , or the simpler rhythm of the flail , had a half-fearful fascination for the raveloe boys , who would often leave off their nutting or birds ' - nesting to peep in at the window of the stone cottage , counterbalancing a certain awe at the mysterious action of the loom , by a pleasant sense of scornful superiority , drawn from the mockery of its alternating noises , along with the bent , tread-mill attitude of the weaver .
+the	O
+questionable	O
+sound	O
+of	O
+silas	B-CHARACTER
+'s	O
+loom	O
+,	O
+so	O
+unlike	O
+the	O
+natural	O
+cheerful	O
+trotting	O
+of	O
+the	O
+winnowing-machine	O
+,	O
+or	O
+the	O
+simpler	O
+rhythm	O
+of	O
+the	O
+flail	O
+,	O
+had	O
+a	O
+half-fearful	O
+fascination	O
+for	O
+the	O
+raveloe	O
+boys	O
+,	O
+who	O
+would	O
+often	O
+leave	O
+off	O
+their	O
+nutting	O
+or	O
+birds	O
+'	O
+-	O
+nesting	O
+to	O
+peep	O
+in	O
+at	O
+the	O
+window	O
+of	O
+the	O
+stone	O
+cottage	O
+,	O
+counterbalancing	O
+a	O
+certain	O
+awe	O
+at	O
+the	O
+mysterious	O
+action	O
+of	O
+the	O
+loom	O
+,	O
+by	O
+a	O
+pleasant	O
+sense	O
+of	O
+scornful	O
+superiority	O
+,	O
+drawn	O
+from	O
+the	O
+mockery	O
+of	O
+its	O
+alternating	O
+noises	O
+,	O
+along	O
+with	O
+the	O
+bent	O
+,	O
+tread-mill	O
+attitude	O
+of	O
+the	O
+weaver	O
+.	O
+
+# id = litbank-1136
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = but sometimes it happened that marner , pausing to adjust an irregularity in his thread , became aware of the small scoundrels , and , though chary of his time , he liked their intrusion so ill that he would descend from his loom , and , opening the door , would fix on them a gaze that was always enough to make them take to their legs in terror .
+but	O
+sometimes	O
+it	O
+happened	O
+that	O
+marner	B-CHARACTER
+,	O
+pausing	O
+to	O
+adjust	O
+an	O
+irregularity	O
+in	O
+his	O
+thread	O
+,	O
+became	O
+aware	O
+of	O
+the	O
+small	O
+scoundrels	O
+,	O
+and	O
+,	O
+though	O
+chary	O
+of	O
+his	O
+time	O
+,	O
+he	O
+liked	O
+their	O
+intrusion	O
+so	O
+ill	O
+that	O
+he	O
+would	O
+descend	O
+from	O
+his	O
+loom	O
+,	O
+and	O
+,	O
+opening	O
+the	O
+door	O
+,	O
+would	O
+fix	O
+on	O
+them	O
+a	O
+gaze	O
+that	O
+was	O
+always	O
+enough	O
+to	O
+make	O
+them	O
+take	O
+to	O
+their	O
+legs	O
+in	O
+terror	O
+.	O
+
+# id = litbank-1137
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = for how was it possible to believe that those large brown protuberant eyes in silas marner 's pale face really saw nothing very distinctly that was not close to them , and not rather that their dreadful stare could dart cramp , or rickets , or a wry mouth at any boy who happened to be in the rear ?
+for	O
+how	O
+was	O
+it	O
+possible	O
+to	O
+believe	O
+that	O
+those	O
+large	O
+brown	O
+protuberant	O
+eyes	O
+in	O
+silas	B-CHARACTER
+marner	I-CHARACTER
+'s	O
+pale	O
+face	O
+really	O
+saw	O
+nothing	O
+very	O
+distinctly	O
+that	O
+was	O
+not	O
+close	O
+to	O
+them	O
+,	O
+and	O
+not	O
+rather	O
+that	O
+their	O
+dreadful	O
+stare	O
+could	O
+dart	O
+cramp	O
+,	O
+or	O
+rickets	O
+,	O
+or	O
+a	O
+wry	O
+mouth	O
+at	O
+any	O
+boy	O
+who	O
+happened	O
+to	O
+be	O
+in	O
+the	O
+rear	O
+?	O
+
+# id = litbank-1138
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = they had , perhaps , heard their fathers and mothers hint that silas marner could cure folks ' rheumatism if he had a mind , and add , still more darkly , that if you could only speak the devil fair enough , he might save you the cost of the doctor .
+they	O
+had	O
+,	O
+perhaps	O
+,	O
+heard	O
+their	O
+fathers	O
+and	O
+mothers	O
+hint	O
+that	O
+silas	B-CHARACTER
+marner	I-CHARACTER
+could	O
+cure	O
+folks	O
+'	O
+rheumatism	O
+if	O
+he	O
+had	O
+a	O
+mind	O
+,	O
+and	O
+add	O
+,	O
+still	O
+more	O
+darkly	O
+,	O
+that	O
+if	O
+you	O
+could	O
+only	O
+speak	O
+the	O
+devil	O
+fair	O
+enough	O
+,	O
+he	O
+might	O
+save	O
+you	O
+the	O
+cost	O
+of	O
+the	O
+doctor	O
+.	O
+
+# id = litbank-1139
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = it was fifteen years since silas marner had first come to raveloe ; he was then simply a pallid young man , with prominent short-sighted brown eyes , whose appearance would have had nothing strange for people of average culture and experience , but for the villagers near whom he had come to settle it had mysterious peculiarities which corresponded with the exceptional nature of his occupation , and his advent from an unknown region called " north ' ard " .
+it	O
+was	O
+fifteen	O
+years	O
+since	O
+silas	B-CHARACTER
+marner	I-CHARACTER
+had	O
+first	O
+come	O
+to	O
+raveloe	O
+;	O
+he	O
+was	O
+then	O
+simply	O
+a	O
+pallid	O
+young	O
+man	O
+,	O
+with	O
+prominent	O
+short-sighted	O
+brown	O
+eyes	O
+,	O
+whose	O
+appearance	O
+would	O
+have	O
+had	O
+nothing	O
+strange	O
+for	O
+people	O
+of	O
+average	O
+culture	O
+and	O
+experience	O
+,	O
+but	O
+for	O
+the	O
+villagers	O
+near	O
+whom	O
+he	O
+had	O
+come	O
+to	O
+settle	O
+it	O
+had	O
+mysterious	O
+peculiarities	O
+which	O
+corresponded	O
+with	O
+the	O
+exceptional	O
+nature	O
+of	O
+his	O
+occupation	O
+,	O
+and	O
+his	O
+advent	O
+from	O
+an	O
+unknown	O
+region	O
+called	O
+"	O
+north	O
+'	O
+ard	O
+"	O
+.	O
+
+# id = litbank-1140
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = this view of marner 's personality was not without another ground than his pale face and unexampled eyes ; for jem rodney , the mole-catcher , averred that one evening as he was returning homeward , he saw silas marner leaning against a stile with a heavy bag on his back , instead of resting the bag on the stile as a man in his senses would have done ; and that , on coming up to him , he saw that marner 's eyes were set like a dead man 's , and he spoke to him , and shook him , and his limbs were stiff , and his hands clutched the bag as if they 'd been made of iron ; but just as he had made up his mind that the weaver was dead , he came all right again , like , as you might say , in the winking of an eye , and said " good-night " , and walked off .
+this	O
+view	O
+of	O
+marner	B-CHARACTER
+'s	O
+personality	O
+was	O
+not	O
+without	O
+another	O
+ground	O
+than	O
+his	O
+pale	O
+face	O
+and	O
+unexampled	O
+eyes	O
+;	O
+for	O
+jem	B-CHARACTER
+rodney	I-CHARACTER
+,	O
+the	O
+mole-catcher	O
+,	O
+averred	O
+that	O
+one	O
+evening	O
+as	O
+he	O
+was	O
+returning	O
+homeward	O
+,	O
+he	O
+saw	O
+silas	B-CHARACTER
+marner	I-CHARACTER
+leaning	O
+against	O
+a	O
+stile	O
+with	O
+a	O
+heavy	O
+bag	O
+on	O
+his	O
+back	O
+,	O
+instead	O
+of	O
+resting	O
+the	O
+bag	O
+on	O
+the	O
+stile	O
+as	O
+a	O
+man	O
+in	O
+his	O
+senses	O
+would	O
+have	O
+done	O
+;	O
+and	O
+that	O
+,	O
+on	O
+coming	O
+up	O
+to	O
+him	O
+,	O
+he	O
+saw	O
+that	O
+marner	B-CHARACTER
+'s	O
+eyes	O
+were	O
+set	O
+like	O
+a	O
+dead	O
+man	O
+'s	O
+,	O
+and	O
+he	O
+spoke	O
+to	O
+him	O
+,	O
+and	O
+shook	O
+him	O
+,	O
+and	O
+his	O
+limbs	O
+were	O
+stiff	O
+,	O
+and	O
+his	O
+hands	O
+clutched	O
+the	O
+bag	O
+as	O
+if	O
+they	O
+'d	O
+been	O
+made	O
+of	O
+iron	O
+;	O
+but	O
+just	O
+as	O
+he	O
+had	O
+made	O
+up	O
+his	O
+mind	O
+that	O
+the	O
+weaver	O
+was	O
+dead	O
+,	O
+he	O
+came	O
+all	O
+right	O
+again	O
+,	O
+like	O
+,	O
+as	O
+you	O
+might	O
+say	O
+,	O
+in	O
+the	O
+winking	O
+of	O
+an	O
+eye	O
+,	O
+and	O
+said	O
+"	O
+good-night	O
+"	O
+,	O
+and	O
+walked	O
+off	O
+.	O
+
+# id = litbank-1141
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = all this jem swore he had seen , more by token that it was the very day he had been mole-catching on squire cass 's land , down by the old saw-pit .
+all	O
+this	O
+jem	B-CHARACTER
+swore	O
+he	O
+had	O
+seen	O
+,	O
+more	O
+by	O
+token	O
+that	O
+it	O
+was	O
+the	O
+very	O
+day	O
+he	O
+had	O
+been	O
+mole-catching	O
+on	O
+squire	B-CHARACTER
+cass	I-CHARACTER
+'s	O
+land	O
+,	O
+down	O
+by	O
+the	O
+old	O
+saw-pit	O
+.	O
+
+# id = litbank-1142
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = some said marner must have been in a " fit " , a word which seemed to explain things otherwise incredible ; but the argumentative mr. macey , clerk of the parish , shook his head , and asked if anybody was ever known to go off in a fit and not fall down .
+some	O
+said	O
+marner	B-CHARACTER
+must	O
+have	O
+been	O
+in	O
+a	O
+"	O
+fit	O
+"	O
+,	O
+a	O
+word	O
+which	O
+seemed	O
+to	O
+explain	O
+things	O
+otherwise	O
+incredible	O
+;	O
+but	O
+the	O
+argumentative	O
+mr.	B-CHARACTER
+macey	I-CHARACTER
+,	O
+clerk	O
+of	O
+the	O
+parish	O
+,	O
+shook	O
+his	O
+head	O
+,	O
+and	O
+asked	O
+if	O
+anybody	O
+was	O
+ever	O
+known	O
+to	O
+go	O
+off	O
+in	O
+a	O
+fit	O
+and	O
+not	O
+fall	O
+down	O
+.	O
+
+# id = litbank-1143
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = and where did master marner get his knowledge of herbs from -- and charms too , if he liked to give them away ?
+and	O
+where	O
+did	O
+master	B-CHARACTER
+marner	I-CHARACTER
+get	O
+his	O
+knowledge	O
+of	O
+herbs	O
+from	O
+--	O
+and	O
+charms	O
+too	O
+,	O
+if	O
+he	O
+liked	O
+to	O
+give	O
+them	O
+away	O
+?	O
+
+# id = litbank-1144
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = jem rodney 's story was no more than what might have been expected by anybody who had seen how marner had cured sally oates , and made her sleep like a baby , when her heart had been beating enough to burst her body , for two months and more , while she had been under the doctor 's care .
+jem	B-CHARACTER
+rodney	I-CHARACTER
+'s	O
+story	O
+was	O
+no	O
+more	O
+than	O
+what	O
+might	O
+have	O
+been	O
+expected	O
+by	O
+anybody	O
+who	O
+had	O
+seen	O
+how	O
+marner	B-CHARACTER
+had	O
+cured	O
+sally	B-CHARACTER
+oates	I-CHARACTER
+,	O
+and	O
+made	O
+her	O
+sleep	O
+like	O
+a	O
+baby	O
+,	O
+when	O
+her	O
+heart	O
+had	O
+been	O
+beating	O
+enough	O
+to	O
+burst	O
+her	O
+body	O
+,	O
+for	O
+two	O
+months	O
+and	O
+more	O
+,	O
+while	O
+she	O
+had	O
+been	O
+under	O
+the	O
+doctor	O
+'s	O
+care	O
+.	O
+
+# id = litbank-1129
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = chapter i in the days when the spinning-wheels hummed busily in the farmhouses -- and even great ladies , clothed in silk and thread-lace , had their toy spinning-wheels of polished oak -- there might be seen in districts far away among the lanes , or deep in the bosom of the hills , certain pallid undersized men , who , by the side of the brawny country-folk , looked like the remnants of a disinherited race .
+chapter	O
+i	O
+in	O
+the	O
+days	O
+when	O
+the	O
+spinning-wheels	O
+hummed	O
+busily	O
+in	O
+the	O
+farmhouses	O
+--	O
+and	O
+even	O
+great	O
+ladies	O
+,	O
+clothed	O
+in	O
+silk	O
+and	O
+thread-lace	O
+,	O
+had	O
+their	O
+toy	O
+spinning-wheels	O
+of	O
+polished	O
+oak	O
+--	O
+there	O
+might	O
+be	O
+seen	O
+in	O
+districts	O
+far	O
+away	O
+among	O
+the	O
+lanes	O
+,	O
+or	O
+deep	O
+in	O
+the	O
+bosom	O
+of	O
+the	O
+hills	O
+,	O
+certain	O
+pallid	O
+undersized	O
+men	O
+,	O
+who	O
+,	O
+by	O
+the	O
+side	O
+of	O
+the	O
+brawny	O
+country-folk	O
+,	O
+looked	O
+like	O
+the	O
+remnants	O
+of	O
+a	O
+disinherited	O
+race	O
+.	O
+
+# id = litbank-1130
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = the shepherd 's dog barked fiercely when one of these alien-looking men appeared on the upland , dark against the early winter sunset ; for what dog likes a figure bent under a heavy bag ?
+the	O
+shepherd	O
+'s	O
+dog	O
+barked	O
+fiercely	O
+when	O
+one	O
+of	O
+these	O
+alien-looking	O
+men	O
+appeared	O
+on	O
+the	O
+upland	O
+,	O
+dark	O
+against	O
+the	O
+early	O
+winter	O
+sunset	O
+;	O
+for	O
+what	O
+dog	O
+likes	O
+a	O
+figure	O
+bent	O
+under	O
+a	O
+heavy	O
+bag	O
+?	O
+
+# id = litbank-1131
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = -- and these pale men rarely stirred abroad without that mysterious burden .
+--	O
+and	O
+these	O
+pale	O
+men	O
+rarely	O
+stirred	O
+abroad	O
+without	O
+that	O
+mysterious	O
+burden	O
+.	O
+
+# id = litbank-1132
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = the shepherd himself , though he had good reason to believe that the bag held nothing but flaxen thread , or else the long rolls of strong linen spun from that thread , was not quite sure that this trade of weaving , indispensable though it was , could be carried on entirely without the help of the evil one .
+the	O
+shepherd	O
+himself	O
+,	O
+though	O
+he	O
+had	O
+good	O
+reason	O
+to	O
+believe	O
+that	O
+the	O
+bag	O
+held	O
+nothing	O
+but	O
+flaxen	O
+thread	O
+,	O
+or	O
+else	O
+the	O
+long	O
+rolls	O
+of	O
+strong	O
+linen	O
+spun	O
+from	O
+that	O
+thread	O
+,	O
+was	O
+not	O
+quite	O
+sure	O
+that	O
+this	O
+trade	O
+of	O
+weaving	O
+,	O
+indispensable	O
+though	O
+it	O
+was	O
+,	O
+could	O
+be	O
+carried	O
+on	O
+entirely	O
+without	O
+the	O
+help	O
+of	O
+the	O
+evil	O
+one	O
+.	O
+
+# id = litbank-1133
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = in that far-off time superstition clung easily round every person or thing that was at all unwonted , or even intermittent and occasional merely , like the visits of the pedlar or the knife-grinder .
+in	O
+that	O
+far-off	O
+time	O
+superstition	O
+clung	O
+easily	O
+round	O
+every	O
+person	O
+or	O
+thing	O
+that	O
+was	O
+at	O
+all	O
+unwonted	O
+,	O
+or	O
+even	O
+intermittent	O
+and	O
+occasional	O
+merely	O
+,	O
+like	O
+the	O
+visits	O
+of	O
+the	O
+pedlar	O
+or	O
+the	O
+knife-grinder	O
+.	O
+

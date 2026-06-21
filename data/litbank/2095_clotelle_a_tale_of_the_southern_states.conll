@@ -1,0 +1,983 @@
+# id = litbank-1730
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = a few years ago , among the many slave-women in richmond , virginia , who hired their time of their masters , was agnes , a mulatto owned by john graves , esq. , and who might be heard boasting that she was the daughter of an american senator .
+a	O
+few	O
+years	O
+ago	O
+,	O
+among	O
+the	O
+many	O
+slave-women	O
+in	O
+richmond	O
+,	O
+virginia	O
+,	O
+who	O
+hired	O
+their	O
+time	O
+of	O
+their	O
+masters	O
+,	O
+was	O
+agnes	B-CHARACTER
+,	O
+a	O
+mulatto	O
+owned	O
+by	O
+john	B-CHARACTER
+graves	I-CHARACTER
+,	O
+esq.	O
+,	O
+and	O
+who	O
+might	O
+be	O
+heard	O
+boasting	O
+that	O
+she	O
+was	O
+the	O
+daughter	O
+of	O
+an	O
+american	O
+senator	O
+.	O
+
+# id = litbank-1731
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = although nearly forty years of age at the time of which we write , agnes was still exceedingly handsome .
+although	O
+nearly	O
+forty	O
+years	O
+of	O
+age	O
+at	O
+the	O
+time	O
+of	O
+which	O
+we	O
+write	O
+,	O
+agnes	B-CHARACTER
+was	O
+still	O
+exceedingly	O
+handsome	O
+.	O
+
+# id = litbank-1732
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = in her younger days , agnes had been a housekeeper for a young slaveholder , and in sustaining this relation had become the mother of two daughters .
+in	O
+her	O
+younger	O
+days	O
+,	O
+agnes	B-CHARACTER
+had	O
+been	O
+a	O
+housekeeper	O
+for	O
+a	O
+young	O
+slaveholder	O
+,	O
+and	O
+in	O
+sustaining	O
+this	O
+relation	O
+had	O
+become	O
+the	O
+mother	O
+of	O
+two	O
+daughters	O
+.	O
+
+# id = litbank-1733
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = isabella and marion , the two daughters of agnes , resided with their mother , and gave her what aid they could in her business .
+isabella	B-CHARACTER
+and	O
+marion	B-CHARACTER
+,	O
+the	O
+two	O
+daughters	O
+of	O
+agnes	B-CHARACTER
+,	O
+resided	O
+with	O
+their	O
+mother	O
+,	O
+and	O
+gave	O
+her	O
+what	O
+aid	O
+they	O
+could	O
+in	O
+her	O
+business	O
+.	O
+
+# id = litbank-1734
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = agnes early resolved to bring up her daughters as ladies , as she termed it .
+agnes	B-CHARACTER
+early	O
+resolved	O
+to	O
+bring	O
+up	O
+her	O
+daughters	O
+as	O
+ladies	O
+,	O
+as	O
+she	O
+termed	O
+it	O
+.	O
+
+# id = litbank-1735
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = it was at one of these parties that henry linwood , the son of a wealthy and retired gentleman of richmond , was first introduced to isabella , the oldest daughter of agnes .
+it	O
+was	O
+at	O
+one	O
+of	O
+these	O
+parties	O
+that	O
+henry	B-CHARACTER
+linwood	I-CHARACTER
+,	O
+the	O
+son	O
+of	O
+a	O
+wealthy	O
+and	O
+retired	O
+gentleman	O
+of	O
+richmond	O
+,	O
+was	O
+first	O
+introduced	O
+to	O
+isabella	B-CHARACTER
+,	O
+the	O
+oldest	O
+daughter	O
+of	O
+agnes	B-CHARACTER
+.	O
+
+# id = litbank-1736
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = isabella was in her eighteenth year , and was admitted by all who knew her to be the handsomest girl , colored or white , in the city .
+isabella	B-CHARACTER
+was	O
+in	O
+her	O
+eighteenth	O
+year	O
+,	O
+and	O
+was	O
+admitted	O
+by	O
+all	O
+who	O
+knew	O
+her	O
+to	O
+be	O
+the	O
+handsomest	O
+girl	O
+,	O
+colored	O
+or	O
+white	O
+,	O
+in	O
+the	O
+city	O
+.	O
+
+# id = litbank-1737
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = marion was scarcely less richly dressed than her sister .
+marion	B-CHARACTER
+was	O
+scarcely	O
+less	O
+richly	O
+dressed	O
+than	O
+her	O
+sister	O
+.	O
+
+# id = litbank-1738
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = henry linwood paid great attention to isabella which was looked upon with gratification by her mother , and became a matter of general conversation with all present .
+henry	B-CHARACTER
+linwood	I-CHARACTER
+paid	O
+great	O
+attention	O
+to	O
+isabella	B-CHARACTER
+which	O
+was	O
+looked	O
+upon	O
+with	O
+gratification	O
+by	O
+her	O
+mother	O
+,	O
+and	O
+became	O
+a	O
+matter	O
+of	O
+general	O
+conversation	O
+with	O
+all	O
+present	O
+.	O
+
+# id = litbank-1739
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = of course , the young man escorted the beautiful quadroon home that evening , and became the favorite visitor at the house of agnes .
+of	O
+course	O
+,	O
+the	O
+young	O
+man	O
+escorted	O
+the	O
+beautiful	O
+quadroon	O
+home	O
+that	O
+evening	O
+,	O
+and	O
+became	O
+the	O
+favorite	O
+visitor	O
+at	O
+the	O
+house	O
+of	O
+agnes	B-CHARACTER
+.	O
+
+# id = litbank-1740
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = it was on a beautiful moonlight night in the month of august when all who reside in tropical climates are eagerly grasping for a breath of fresh air , that henry linwood was in the garden which surrounded agnes ' cottage , with the young quadroon by his side .
+it	O
+was	O
+on	O
+a	O
+beautiful	O
+moonlight	O
+night	O
+in	O
+the	O
+month	O
+of	O
+august	O
+when	O
+all	O
+who	O
+reside	O
+in	O
+tropical	O
+climates	O
+are	O
+eagerly	O
+grasping	O
+for	O
+a	O
+breath	O
+of	O
+fresh	O
+air	O
+,	O
+that	O
+henry	B-CHARACTER
+linwood	I-CHARACTER
+was	O
+in	O
+the	O
+garden	O
+which	O
+surrounded	O
+agnes	B-CHARACTER
+'	O
+cottage	O
+,	O
+with	O
+the	O
+young	O
+quadroon	O
+by	O
+his	O
+side	O
+.	O
+
+# id = litbank-1741
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = -- seventy-nine negroes will be offered for sale on monday , september 10 , at 12 o'clock , being the entire stock of the late john graves in an excellent condition , and all warranted against the common vices .
+--	O
+seventy-nine	O
+negroes	O
+will	O
+be	O
+offered	O
+for	O
+sale	O
+on	O
+monday	O
+,	O
+september	O
+10	O
+,	O
+at	O
+12	O
+o'clock	O
+,	O
+being	O
+the	O
+entire	O
+stock	O
+of	O
+the	O
+late	O
+john	B-CHARACTER
+graves	I-CHARACTER
+in	O
+an	O
+excellent	O
+condition	O
+,	O
+and	O
+all	O
+warranted	O
+against	O
+the	O
+common	O
+vices	O
+.	O
+
+# id = litbank-1742
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = among the above slaves advertised for sale were agnes and her two daughters .
+among	O
+the	O
+above	O
+slaves	O
+advertised	O
+for	O
+sale	O
+were	O
+agnes	B-CHARACTER
+and	O
+her	O
+two	O
+daughters	O
+.	O
+
+# id = litbank-1743
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = ere young linwood left the quadroon that evening , he promised her that he would become her purchaser , and make her free and her own mistress .
+ere	O
+young	O
+linwood	B-CHARACTER
+left	O
+the	O
+quadroon	O
+that	O
+evening	O
+,	O
+he	O
+promised	O
+her	O
+that	O
+he	O
+would	O
+become	O
+her	O
+purchaser	O
+,	O
+and	O
+make	O
+her	O
+free	O
+and	O
+her	O
+own	O
+mistress	O
+.	O
+
+# id = litbank-1744
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = mr. graves had long been considered not only an excellent and upright citizen of the first standing among the whites , but even the slaves regarded him as one of the kindest of masters .
+mr.	B-CHARACTER
+graves	I-CHARACTER
+had	O
+long	O
+been	O
+considered	O
+not	O
+only	O
+an	O
+excellent	O
+and	O
+upright	O
+citizen	O
+of	O
+the	O
+first	O
+standing	O
+among	O
+the	O
+whites	O
+,	O
+but	O
+even	O
+the	O
+slaves	O
+regarded	O
+him	O
+as	O
+one	O
+of	O
+the	O
+kindest	O
+of	O
+masters	O
+.	O
+
+# id = litbank-1745
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = this was young linwood .
+this	O
+was	O
+young	O
+linwood	B-CHARACTER
+.	O
+
+# id = litbank-1746
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = it was indeed a heart-rending scene to witness the lamentations of these slaves , all of whom had grown up together on the old homestead of mr. graves , and who had been treated with great kindness by that gentleman , during his life .
+it	O
+was	O
+indeed	O
+a	O
+heart-rending	O
+scene	O
+to	O
+witness	O
+the	O
+lamentations	O
+of	O
+these	O
+slaves	O
+,	O
+all	O
+of	O
+whom	O
+had	O
+grown	O
+up	O
+together	O
+on	O
+the	O
+old	O
+homestead	O
+of	O
+mr.	B-CHARACTER
+graves	I-CHARACTER
+,	O
+and	O
+who	O
+had	O
+been	O
+treated	O
+with	O
+great	O
+kindness	O
+by	O
+that	O
+gentleman	O
+,	O
+during	O
+his	O
+life	O
+.	O
+
+# id = litbank-1747
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = it was late in the day , and when the greatest number of persons were thought to be present , when agnes and her daughters were brought out to the place of sale .
+it	O
+was	O
+late	O
+in	O
+the	O
+day	O
+,	O
+and	O
+when	O
+the	O
+greatest	O
+number	O
+of	O
+persons	O
+were	O
+thought	O
+to	O
+be	O
+present	O
+,	O
+when	O
+agnes	B-CHARACTER
+and	O
+her	O
+daughters	O
+were	O
+brought	O
+out	O
+to	O
+the	O
+place	O
+of	O
+sale	O
+.	O
+
+# id = litbank-1748
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = the mother was first put upon the auction-block , and sold to a noted negro trader named jennings .
+the	O
+mother	O
+was	O
+first	O
+put	O
+upon	O
+the	O
+auction-block	O
+,	O
+and	O
+sold	O
+to	O
+a	O
+noted	O
+negro	O
+trader	O
+named	O
+jennings	B-CHARACTER
+.	O
+
+# id = litbank-1749
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = marion was next ordered to ascend the stand , which she did with a trembling step , and was sold for $ 1200 .
+marion	B-CHARACTER
+was	O
+next	O
+ordered	O
+to	O
+ascend	O
+the	O
+stand	O
+,	O
+which	O
+she	O
+did	O
+with	O
+a	O
+trembling	O
+step	O
+,	O
+and	O
+was	O
+sold	O
+for	O
+$	O
+1200	O
+.	O
+
+# id = litbank-1750
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = all eyes were now turned on isabella , as she was led forward by the auctioneer .
+all	O
+eyes	O
+were	O
+now	O
+turned	O
+on	O
+isabella	B-CHARACTER
+,	O
+as	O
+she	O
+was	O
+led	O
+forward	O
+by	O
+the	O
+auctioneer	O
+.	O
+
+# id = litbank-1751
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = the auctioneer commenced by saying that miss isabella was fit to deck the drawing-room of the finest mansion in virginia .
+the	O
+auctioneer	O
+commenced	O
+by	O
+saying	O
+that	O
+miss	B-CHARACTER
+isabella	I-CHARACTER
+was	O
+fit	O
+to	O
+deck	O
+the	O
+drawing-room	O
+of	O
+the	O
+finest	O
+mansion	O
+in	O
+virginia	O
+.	O
+
+# id = litbank-1725
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = with the growing population in the southern states , the increase of mulattoes has been very great .
+with	O
+the	O
+growing	O
+population	O
+in	O
+the	O
+southern	O
+states	O
+,	O
+the	O
+increase	O
+of	O
+mulattoes	O
+has	O
+been	O
+very	O
+great	O
+.	O
+
+# id = litbank-1726
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = society does not frown upon the man who sits with his half-white child upon his knee whilst the mother stands , a slave , behind his chair .
+society	O
+does	O
+not	O
+frown	O
+upon	O
+the	O
+man	O
+who	O
+sits	O
+with	O
+his	O
+half-white	O
+child	O
+upon	O
+his	O
+knee	O
+whilst	O
+the	O
+mother	O
+stands	O
+,	O
+a	O
+slave	O
+,	O
+behind	O
+his	O
+chair	O
+.	O
+
+# id = litbank-1727
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = in nearly all the cities and towns of the slave states , the real negro , or clear black , does not amount to more than one in four of the slave population .
+in	O
+nearly	O
+all	O
+the	O
+cities	O
+and	O
+towns	O
+of	O
+the	O
+slave	O
+states	O
+,	O
+the	O
+real	O
+negro	O
+,	O
+or	O
+clear	O
+black	O
+,	O
+does	O
+not	O
+amount	O
+to	O
+more	O
+than	O
+one	O
+in	O
+four	O
+of	O
+the	O
+slave	O
+population	O
+.	O
+
+# id = litbank-1728
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = this fact is of itself the best evidence of the degraded and immoral condition of the relation of master and slave .
+this	O
+fact	O
+is	O
+of	O
+itself	O
+the	O
+best	O
+evidence	O
+of	O
+the	O
+degraded	O
+and	O
+immoral	O
+condition	O
+of	O
+the	O
+relation	O
+of	O
+master	O
+and	O
+slave	O
+.	O
+
+# id = litbank-1729
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = throughout the southern states , there is a class of slaves who , in most of the towns , are permitted to hire their time from their owners , and who are always expected to pay a high price .
+throughout	O
+the	O
+southern	O
+states	O
+,	O
+there	O
+is	O
+a	O
+class	O
+of	O
+slaves	O
+who	O
+,	O
+in	O
+most	O
+of	O
+the	O
+towns	O
+,	O
+are	O
+permitted	O
+to	O
+hire	O
+their	O
+time	O
+from	O
+their	O
+owners	O
+,	O
+and	O
+who	O
+are	O
+always	O
+expected	O
+to	O
+pay	O
+a	O
+high	O
+price	O
+.	O
+

@@ -1,0 +1,680 @@
+# id = litbank-1326
+# source = LitBank
+# book = The Fall of the House of Usher
+# book_id = 932_the_fall_of_the_house_of_usher
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/932_the_fall_of_the_house_of_usher_brat.tsv
+# text = during the whole of a dull , dark , and soundless day in the autumn of the year , when the clouds hung oppressively low in the heavens , i had been passing alone , on horseback , through a singularly dreary tract of country ; and at length found myself , as the shades of the evening drew on , within view of the melancholy house of usher .
+during	O
+the	O
+whole	O
+of	O
+a	O
+dull	O
+,	O
+dark	O
+,	O
+and	O
+soundless	O
+day	O
+in	O
+the	O
+autumn	O
+of	O
+the	O
+year	O
+,	O
+when	O
+the	O
+clouds	O
+hung	O
+oppressively	O
+low	O
+in	O
+the	O
+heavens	O
+,	O
+i	O
+had	O
+been	O
+passing	O
+alone	O
+,	O
+on	O
+horseback	O
+,	O
+through	O
+a	O
+singularly	O
+dreary	O
+tract	O
+of	O
+country	O
+;	O
+and	O
+at	O
+length	O
+found	O
+myself	O
+,	O
+as	O
+the	O
+shades	O
+of	O
+the	O
+evening	O
+drew	O
+on	O
+,	O
+within	O
+view	O
+of	O
+the	O
+melancholy	O
+house	O
+of	O
+usher	B-CHARACTER
+.	O
+
+# id = litbank-1330
+# source = LitBank
+# book = The Fall of the House of Usher
+# book_id = 932_the_fall_of_the_house_of_usher
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/932_the_fall_of_the_house_of_usher_brat.tsv
+# text = what was it -- i paused to think -- what was it that so unnerved me in the contemplation of the house of usher ?
+what	O
+was	O
+it	O
+--	O
+i	O
+paused	O
+to	O
+think	O
+--	O
+what	O
+was	O
+it	O
+that	O
+so	O
+unnerved	O
+me	O
+in	O
+the	O
+contemplation	O
+of	O
+the	O
+house	O
+of	O
+usher	B-CHARACTER
+?	O
+
+# id = litbank-1333
+# source = LitBank
+# book = The Fall of the House of Usher
+# book_id = 932_the_fall_of_the_house_of_usher
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/932_the_fall_of_the_house_of_usher_brat.tsv
+# text = its proprietor , roderick usher , had been one of my boon companions in boyhood ; but many years had elapsed since our last meeting .
+its	O
+proprietor	O
+,	O
+roderick	B-CHARACTER
+usher	I-CHARACTER
+,	O
+had	O
+been	O
+one	O
+of	O
+my	O
+boon	O
+companions	O
+in	O
+boyhood	O
+;	O
+but	O
+many	O
+years	O
+had	O
+elapsed	O
+since	O
+our	O
+last	O
+meeting	O
+.	O
+
+# id = litbank-1334
+# source = LitBank
+# book = The Fall of the House of Usher
+# book_id = 932_the_fall_of_the_house_of_usher
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/932_the_fall_of_the_house_of_usher_brat.tsv
+# text = i had learned , too , the very remarkable fact , that the stem of the usher race , all time-honoured as it was , had put forth , at no period , any enduring branch ; in other words , that the entire family lay in the direct line of descent , and had always , with very trifling and very temporary variation , so lain .
+i	O
+had	O
+learned	O
+,	O
+too	O
+,	O
+the	O
+very	O
+remarkable	O
+fact	O
+,	O
+that	O
+the	O
+stem	O
+of	O
+the	O
+usher	B-CHARACTER
+race	O
+,	O
+all	O
+time-honoured	O
+as	O
+it	O
+was	O
+,	O
+had	O
+put	O
+forth	O
+,	O
+at	O
+no	O
+period	O
+,	O
+any	O
+enduring	O
+branch	O
+;	O
+in	O
+other	O
+words	O
+,	O
+that	O
+the	O
+entire	O
+family	O
+lay	O
+in	O
+the	O
+direct	O
+line	O
+of	O
+descent	O
+,	O
+and	O
+had	O
+always	O
+,	O
+with	O
+very	O
+trifling	O
+and	O
+very	O
+temporary	O
+variation	O
+,	O
+so	O
+lain	O
+.	O
+
+# id = litbank-1335
+# source = LitBank
+# book = The Fall of the House of Usher
+# book_id = 932_the_fall_of_the_house_of_usher
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/932_the_fall_of_the_house_of_usher_brat.tsv
+# text = it was this deficiency , i considered , while running over in thought the perfect keeping of the character of the premises with the accredited character of the people , and while speculating upon the possible influence which the one , in the long lapse of centuries , might have exercised upon the other -- it was this deficiency , perhaps , of collateral issue , and the consequent undeviating transmission , from sire to son , of the patrimony with the name , which had , at length , so identified the two as to merge the original title of the estate in the quaint and equivocal appellation of the " house of usher " -- an appellation which seemed to include , in the minds of the peasantry who used it , both the family and the family mansion .
+it	O
+was	O
+this	O
+deficiency	O
+,	O
+i	O
+considered	O
+,	O
+while	O
+running	O
+over	O
+in	O
+thought	O
+the	O
+perfect	O
+keeping	O
+of	O
+the	O
+character	O
+of	O
+the	O
+premises	O
+with	O
+the	O
+accredited	O
+character	O
+of	O
+the	O
+people	O
+,	O
+and	O
+while	O
+speculating	O
+upon	O
+the	O
+possible	O
+influence	O
+which	O
+the	O
+one	O
+,	O
+in	O
+the	O
+long	O
+lapse	O
+of	O
+centuries	O
+,	O
+might	O
+have	O
+exercised	O
+upon	O
+the	O
+other	O
+--	O
+it	O
+was	O
+this	O
+deficiency	O
+,	O
+perhaps	O
+,	O
+of	O
+collateral	O
+issue	O
+,	O
+and	O
+the	O
+consequent	O
+undeviating	O
+transmission	O
+,	O
+from	O
+sire	O
+to	O
+son	O
+,	O
+of	O
+the	O
+patrimony	O
+with	O
+the	O
+name	O
+,	O
+which	O
+had	O
+,	O
+at	O
+length	O
+,	O
+so	O
+identified	O
+the	O
+two	O
+as	O
+to	O
+merge	O
+the	O
+original	O
+title	O
+of	O
+the	O
+estate	O
+in	O
+the	O
+quaint	O
+and	O
+equivocal	O
+appellation	O
+of	O
+the	O
+"	O
+house	O
+of	O
+usher	B-CHARACTER
+"	O
+--	O
+an	O
+appellation	O
+which	O
+seemed	O
+to	O
+include	O
+,	O
+in	O
+the	O
+minds	O
+of	O
+the	O
+peasantry	O
+who	O
+used	O
+it	O
+,	O
+both	O
+the	O
+family	O
+and	O
+the	O
+family	O
+mansion	O
+.	O
+
+# id = litbank-1336
+# source = LitBank
+# book = The Fall of the House of Usher
+# book_id = 932_the_fall_of_the_house_of_usher
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/932_the_fall_of_the_house_of_usher_brat.tsv
+# text = upon my entrance , usher rose from a sofa on which he had been lying at full length , and greeted me with a vivacious warmth which had much in it , i at first thought , of an overdone cordiality -- of the constrained effort of the ennuye man of the world .
+upon	O
+my	O
+entrance	O
+,	O
+usher	B-CHARACTER
+rose	O
+from	O
+a	O
+sofa	O
+on	O
+which	O
+he	O
+had	O
+been	O
+lying	O
+at	O
+full	O
+length	O
+,	O
+and	O
+greeted	O
+me	O
+with	O
+a	O
+vivacious	O
+warmth	O
+which	O
+had	O
+much	O
+in	O
+it	O
+,	O
+i	O
+at	O
+first	O
+thought	O
+,	O
+of	O
+an	O
+overdone	O
+cordiality	O
+--	O
+of	O
+the	O
+constrained	O
+effort	O
+of	O
+the	O
+ennuye	O
+man	O
+of	O
+the	O
+world	O
+.	O
+
+# id = litbank-1337
+# source = LitBank
+# book = The Fall of the House of Usher
+# book_id = 932_the_fall_of_the_house_of_usher
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/932_the_fall_of_the_house_of_usher_brat.tsv
+# text = surely , man had never before so terribly altered , in so brief a period , as had roderick usher !
+surely	O
+,	O
+man	O
+had	O
+never	O
+before	O
+so	O
+terribly	O
+altered	O
+,	O
+in	O
+so	O
+brief	O
+a	O
+period	O
+,	O
+as	O
+had	O
+roderick	B-CHARACTER
+usher	I-CHARACTER
+!	O
+
+# id = litbank-1327
+# source = LitBank
+# book = The Fall of the House of Usher
+# book_id = 932_the_fall_of_the_house_of_usher
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/932_the_fall_of_the_house_of_usher_brat.tsv
+# text = i know not how it was -- but , with the first glimpse of the building , a sense of insufferable gloom pervaded my spirit .
+i	O
+know	O
+not	O
+how	O
+it	O
+was	O
+--	O
+but	O
+,	O
+with	O
+the	O
+first	O
+glimpse	O
+of	O
+the	O
+building	O
+,	O
+a	O
+sense	O
+of	O
+insufferable	O
+gloom	O
+pervaded	O
+my	O
+spirit	O
+.	O
+
+# id = litbank-1328
+# source = LitBank
+# book = The Fall of the House of Usher
+# book_id = 932_the_fall_of_the_house_of_usher
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/932_the_fall_of_the_house_of_usher_brat.tsv
+# text = i say insufferable ; for the feeling was unrelieved by any of that half-pleasureable , because poetic , sentiment , with which the mind usually receives even the sternest natural images of the desolate or terrible .
+i	O
+say	O
+insufferable	O
+;	O
+for	O
+the	O
+feeling	O
+was	O
+unrelieved	O
+by	O
+any	O
+of	O
+that	O
+half-pleasureable	O
+,	O
+because	O
+poetic	O
+,	O
+sentiment	O
+,	O
+with	O
+which	O
+the	O
+mind	O
+usually	O
+receives	O
+even	O
+the	O
+sternest	O
+natural	O
+images	O
+of	O
+the	O
+desolate	O
+or	O
+terrible	O
+.	O
+
+# id = litbank-1329
+# source = LitBank
+# book = The Fall of the House of Usher
+# book_id = 932_the_fall_of_the_house_of_usher
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/932_the_fall_of_the_house_of_usher_brat.tsv
+# text = there was an iciness , a sinking , a sickening of the heart -- an unredeemed dreariness of thought which no goading of the imagination could torture into aught of the sublime .
+there	O
+was	O
+an	O
+iciness	O
+,	O
+a	O
+sinking	O
+,	O
+a	O
+sickening	O
+of	O
+the	O
+heart	O
+--	O
+an	O
+unredeemed	O
+dreariness	O
+of	O
+thought	O
+which	O
+no	O
+goading	O
+of	O
+the	O
+imagination	O
+could	O
+torture	O
+into	O
+aught	O
+of	O
+the	O
+sublime	O
+.	O
+
+# id = litbank-1331
+# source = LitBank
+# book = The Fall of the House of Usher
+# book_id = 932_the_fall_of_the_house_of_usher
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/932_the_fall_of_the_house_of_usher_brat.tsv
+# text = it was a mystery all insoluble ; nor could i grapple with the shadowy fancies that crowded upon me as i pondered .
+it	O
+was	O
+a	O
+mystery	O
+all	O
+insoluble	O
+;	O
+nor	O
+could	O
+i	O
+grapple	O
+with	O
+the	O
+shadowy	O
+fancies	O
+that	O
+crowded	O
+upon	O
+me	O
+as	O
+i	O
+pondered	O
+.	O
+
+# id = litbank-1332
+# source = LitBank
+# book = The Fall of the House of Usher
+# book_id = 932_the_fall_of_the_house_of_usher
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/932_the_fall_of_the_house_of_usher_brat.tsv
+# text = i was forced to fall back upon the unsatisfactory conclusion , that while , beyond doubt , there are combinations of very simple natural objects which have the power of thus affecting us , still the analysis of this power lies among considerations beyond our depth .
+i	O
+was	O
+forced	O
+to	O
+fall	O
+back	O
+upon	O
+the	O
+unsatisfactory	O
+conclusion	O
+,	O
+that	O
+while	O
+,	O
+beyond	O
+doubt	O
+,	O
+there	O
+are	O
+combinations	O
+of	O
+very	O
+simple	O
+natural	O
+objects	O
+which	O
+have	O
+the	O
+power	O
+of	O
+thus	O
+affecting	O
+us	O
+,	O
+still	O
+the	O
+analysis	O
+of	O
+this	O
+power	O
+lies	O
+among	O
+considerations	O
+beyond	O
+our	O
+depth	O
+.	O
+

@@ -1,0 +1,210 @@
+# id = litbank-1565
+# source = LitBank
+# book = Elizabeth and Her German Garden
+# book_id = 1327_elizabeth_and_her_german_garden
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1327_elizabeth_and_her_german_garden_brat.tsv
+# text = i am writing in it now in the late afternoon loveliness , much interrupted by the mosquitoes and the temptation to look at all the glories of the new green leaves washed half an hour ago in a cold shower .
+i	O
+am	O
+writing	O
+in	O
+it	O
+now	O
+in	O
+the	O
+late	O
+afternoon	O
+loveliness	O
+,	O
+much	O
+interrupted	O
+by	O
+the	O
+mosquitoes	O
+and	O
+the	O
+temptation	O
+to	O
+look	O
+at	O
+all	O
+the	O
+glories	O
+of	O
+the	O
+new	O
+green	O
+leaves	O
+washed	O
+half	O
+an	O
+hour	O
+ago	O
+in	O
+a	O
+cold	O
+shower	O
+.	O
+
+# id = litbank-1566
+# source = LitBank
+# book = Elizabeth and Her German Garden
+# book_id = 1327_elizabeth_and_her_german_garden
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1327_elizabeth_and_her_german_garden_brat.tsv
+# text = two owls are perched near me , and are carrying on a long conversation that i enjoy as much as any warbling of nightingales .
+two	O
+owls	O
+are	O
+perched	O
+near	O
+me	O
+,	O
+and	O
+are	O
+carrying	O
+on	O
+a	O
+long	O
+conversation	O
+that	O
+i	O
+enjoy	O
+as	O
+much	O
+as	O
+any	O
+warbling	O
+of	O
+nightingales	O
+.	O
+
+# id = litbank-1567
+# source = LitBank
+# book = Elizabeth and Her German Garden
+# book_id = 1327_elizabeth_and_her_german_garden
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1327_elizabeth_and_her_german_garden_brat.tsv
+# text = the gentleman owl says [ [ musical notes occur here in the printed text ] ] , and she answers from her tree a little way off , [ [ musical notes ] ] , beautifully assenting to and completing her lord ’s remark , as becomes a properly constructed german she-owl .
+the	O
+gentleman	O
+owl	O
+says	O
+[	O
+[	O
+musical	O
+notes	O
+occur	O
+here	O
+in	O
+the	O
+printed	O
+text	O
+]	O
+]	O
+,	O
+and	O
+she	O
+answers	O
+from	O
+her	O
+tree	O
+a	O
+little	O
+way	O
+off	O
+,	O
+[	O
+[	O
+musical	O
+notes	O
+]	O
+]	O
+,	O
+beautifully	O
+assenting	O
+to	O
+and	O
+completing	O
+her	O
+lord	O
+’s	O
+remark	O
+,	O
+as	O
+becomes	O
+a	O
+properly	O
+constructed	O
+german	O
+she-owl	O
+.	O
+
+# id = litbank-1568
+# source = LitBank
+# book = Elizabeth and Her German Garden
+# book_id = 1327_elizabeth_and_her_german_garden
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1327_elizabeth_and_her_german_garden_brat.tsv
+# text = they say the same thing over and over again so emphatically that i think it must be something nasty about me ; but i shall not let myself be frightened away by the sarcasm of owls .
+they	O
+say	O
+the	O
+same	O
+thing	O
+over	O
+and	O
+over	O
+again	O
+so	O
+emphatically	O
+that	O
+i	O
+think	O
+it	O
+must	O
+be	O
+something	O
+nasty	O
+about	O
+me	O
+;	O
+but	O
+i	O
+shall	O
+not	O
+let	O
+myself	O
+be	O
+frightened	O
+away	O
+by	O
+the	O
+sarcasm	O
+of	O
+owls	O
+.	O
+
+# id = litbank-1569
+# source = LitBank
+# book = Elizabeth and Her German Garden
+# book_id = 1327_elizabeth_and_her_german_garden
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1327_elizabeth_and_her_german_garden_brat.tsv
+# text = this is less a garden than a wilderness .
+this	O
+is	O
+less	O
+a	O
+garden	O
+than	O
+a	O
+wilderness	O
+.	O
+

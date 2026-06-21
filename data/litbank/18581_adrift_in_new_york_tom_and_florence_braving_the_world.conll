@@ -1,0 +1,1695 @@
+# id = litbank-2395
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " i 'm not well , florence .
+"	O
+i	O
+'m	O
+not	O
+well	O
+,	O
+florence	B-CHARACTER
+.	O
+
+# id = litbank-2398
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " i can not bear to hear you speak so , uncle , " said florence linden , in irrepressible agitation .
+"	O
+i	O
+can	O
+not	O
+bear	O
+to	O
+hear	O
+you	O
+speak	O
+so	O
+,	O
+uncle	O
+,	O
+"	O
+said	O
+florence	B-CHARACTER
+linden	I-CHARACTER
+,	O
+in	O
+irrepressible	O
+agitation	O
+.	O
+
+# id = litbank-2400
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " true , florence , but it is not years only that make a man old .
+"	O
+true	O
+,	O
+florence	B-CHARACTER
+,	O
+but	O
+it	O
+is	O
+not	O
+years	O
+only	O
+that	O
+make	O
+a	O
+man	O
+old	O
+.	O
+
+# id = litbank-2402
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = first , the death of my dearly beloved wife , and next , the loss of my boy , harvey . "
+first	O
+,	O
+the	O
+death	O
+of	O
+my	O
+dearly	O
+beloved	O
+wife	O
+,	O
+and	O
+next	O
+,	O
+the	O
+loss	O
+of	O
+my	O
+boy	O
+,	O
+harvey	B-CHARACTER
+.	O
+"	O
+
+# id = litbank-2403
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = john linden paused sadly , then resumed : " if he had died , i might , as you say , have become reconciled ; but he was abducted at the age of four by a revengeful servant whom i had discharged from my employment .
+john	B-CHARACTER
+linden	I-CHARACTER
+paused	O
+sadly	O
+,	O
+then	O
+resumed	O
+:	O
+"	O
+if	O
+he	O
+had	O
+died	O
+,	O
+i	O
+might	O
+,	O
+as	O
+you	O
+say	O
+,	O
+have	O
+become	O
+reconciled	O
+;	O
+but	O
+he	O
+was	O
+abducted	O
+at	O
+the	O
+age	O
+of	O
+four	O
+by	O
+a	O
+revengeful	O
+servant	O
+whom	O
+i	O
+had	O
+discharged	O
+from	O
+my	O
+employment	O
+.	O
+
+# id = litbank-2404
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = heaven knows whether he is living or dead , but it is impressed upon my mind that he still lives , it may be in misery , it may be as a criminal , while i , his unhappy father , live on in luxury which i can not enjoy , with no one to care for me ---- " florence linden sank impulsively on her knees beside her uncle 's chair .
+heaven	O
+knows	O
+whether	O
+he	O
+is	O
+living	O
+or	O
+dead	O
+,	O
+but	O
+it	O
+is	O
+impressed	O
+upon	O
+my	O
+mind	O
+that	O
+he	O
+still	O
+lives	O
+,	O
+it	O
+may	O
+be	O
+in	O
+misery	O
+,	O
+it	O
+may	O
+be	O
+as	O
+a	O
+criminal	O
+,	O
+while	O
+i	O
+,	O
+his	O
+unhappy	O
+father	O
+,	O
+live	O
+on	O
+in	O
+luxury	O
+which	O
+i	O
+can	O
+not	O
+enjoy	O
+,	O
+with	O
+no	O
+one	O
+to	O
+care	O
+for	O
+me	O
+----	O
+"	O
+florence	B-CHARACTER
+linden	I-CHARACTER
+sank	O
+impulsively	O
+on	O
+her	O
+knees	O
+beside	O
+her	O
+uncle	O
+'s	O
+chair	O
+.	O
+
+# id = litbank-2405
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " you know that i love you , uncle john . "
+"	O
+you	O
+know	O
+that	O
+i	O
+love	O
+you	O
+,	O
+uncle	B-CHARACTER
+john	I-CHARACTER
+.	O
+"	O
+
+# id = litbank-2406
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = there was a shade of jealousy in the voice of curtis waring as he entered the library through the open door , and approaching his uncle , pressed his hand .
+there	O
+was	O
+a	O
+shade	O
+of	O
+jealousy	O
+in	O
+the	O
+voice	O
+of	O
+curtis	B-CHARACTER
+waring	I-CHARACTER
+as	O
+he	O
+entered	O
+the	O
+library	O
+through	O
+the	O
+open	O
+door	O
+,	O
+and	O
+approaching	O
+his	O
+uncle	O
+,	O
+pressed	O
+his	O
+hand	O
+.	O
+
+# id = litbank-2407
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = he was the son of an elder sister of mr. linden , while florence was the daughter of a younger brother .
+he	O
+was	O
+the	O
+son	O
+of	O
+an	O
+elder	O
+sister	O
+of	O
+mr.	B-CHARACTER
+linden	I-CHARACTER
+,	O
+while	O
+florence	B-CHARACTER
+was	O
+the	O
+daughter	O
+of	O
+a	O
+younger	O
+brother	O
+.	O
+
+# id = litbank-2408
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = both were orphans , and both formed a part of mr. linden 's household , and owed everything to his bounty .
+both	O
+were	O
+orphans	O
+,	O
+and	O
+both	O
+formed	O
+a	O
+part	O
+of	O
+mr.	B-CHARACTER
+linden	I-CHARACTER
+'s	O
+household	O
+,	O
+and	O
+owed	O
+everything	O
+to	O
+his	O
+bounty	O
+.	O
+
+# id = litbank-2409
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = curtis was supposed to be in some business downtown ; but he received a liberal allowance from his uncle , and often drew upon him for outside assistance .
+curtis	B-CHARACTER
+was	O
+supposed	O
+to	O
+be	O
+in	O
+some	O
+business	O
+downtown	O
+;	O
+but	O
+he	O
+received	O
+a	O
+liberal	O
+allowance	O
+from	O
+his	O
+uncle	O
+,	O
+and	O
+often	O
+drew	O
+upon	O
+him	O
+for	O
+outside	O
+assistance	O
+.	O
+
+# id = litbank-2410
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = as he stood with his uncle 's hand in his , he was necessarily brought near florence , who instinctively drew a little away , with a slight shudder indicating repugnance .
+as	O
+he	O
+stood	O
+with	O
+his	O
+uncle	O
+'s	O
+hand	O
+in	O
+his	O
+,	O
+he	O
+was	O
+necessarily	O
+brought	O
+near	O
+florence	B-CHARACTER
+,	O
+who	O
+instinctively	O
+drew	O
+a	O
+little	O
+away	O
+,	O
+with	O
+a	O
+slight	O
+shudder	O
+indicating	O
+repugnance	O
+.	O
+
+# id = litbank-2411
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = slight as it was , curtis detected it , and his face darkened .
+slight	O
+as	O
+it	O
+was	O
+,	O
+curtis	B-CHARACTER
+detected	O
+it	O
+,	O
+and	O
+his	O
+face	O
+darkened	O
+.	O
+
+# id = litbank-2412
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = john linden looked from one to the other .
+john	B-CHARACTER
+linden	I-CHARACTER
+looked	O
+from	O
+one	O
+to	O
+the	O
+other	O
+.	O
+
+# id = litbank-2413
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " but it is so long ago , uncle , " said curtis .
+"	O
+but	O
+it	O
+is	O
+so	O
+long	O
+ago	O
+,	O
+uncle	O
+,	O
+"	O
+said	O
+curtis	B-CHARACTER
+.	O
+
+# id = litbank-2414
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " no , no ! " said john linden , vehemently .
+"	O
+no	O
+,	O
+no	O
+!	O
+"	O
+said	O
+john	B-CHARACTER
+linden	I-CHARACTER
+,	O
+vehemently	O
+.	O
+
+# id = litbank-2415
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " that is very improbable , uncle , " said curtis , in a tone of annoyance .
+"	O
+that	O
+is	O
+very	O
+improbable	O
+,	O
+uncle	O
+,	O
+"	O
+said	O
+curtis	B-CHARACTER
+,	O
+in	O
+a	O
+tone	O
+of	O
+annoyance	O
+.	O
+
+# id = litbank-2416
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = the drawn features of the old man showed that the words had a depressing effect upon his mind , but florence interrupted her cousin with an indignant protest .
+the	O
+drawn	O
+features	O
+of	O
+the	O
+old	O
+man	O
+showed	O
+that	O
+the	O
+words	O
+had	O
+a	O
+depressing	O
+effect	O
+upon	O
+his	O
+mind	O
+,	O
+but	O
+florence	B-CHARACTER
+interrupted	O
+her	O
+cousin	O
+with	O
+an	O
+indignant	O
+protest	O
+.	O
+
+# id = litbank-2417
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " how can you speak so , curtis ? " she exclaimed .
+"	O
+how	O
+can	O
+you	O
+speak	O
+so	O
+,	O
+curtis	B-CHARACTER
+?	O
+"	O
+she	O
+exclaimed	O
+.	O
+
+# id = litbank-2418
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " leave uncle john the hope that he has so long cherished .
+"	O
+leave	O
+uncle	B-CHARACTER
+john	I-CHARACTER
+the	O
+hope	O
+that	O
+he	O
+has	O
+so	O
+long	O
+cherished	O
+.	O
+
+# id = litbank-2419
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = i have a presentiment that harvey still lives . "
+i	O
+have	O
+a	O
+presentiment	O
+that	O
+harvey	B-CHARACTER
+still	O
+lives	O
+.	O
+"	O
+
+# id = litbank-2420
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = john linden 's face brightened up " you , too , believe it possible , florence ? " he said , eagerly .
+john	B-CHARACTER
+linden	I-CHARACTER
+'s	O
+face	O
+brightened	O
+up	O
+"	O
+you	O
+,	O
+too	O
+,	O
+believe	O
+it	O
+possible	O
+,	O
+florence	B-CHARACTER
+?	O
+"	O
+he	O
+said	O
+,	O
+eagerly	O
+.	O
+
+# id = litbank-2421
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = how old would harvey be if he still lived ? "
+how	O
+old	O
+would	O
+harvey	B-CHARACTER
+be	O
+if	O
+he	O
+still	O
+lived	O
+?	O
+"	O
+
+# id = litbank-2422
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " and i , too , florence .
+"	O
+and	O
+i	O
+,	O
+too	O
+,	O
+florence	B-CHARACTER
+.	O
+
+# id = litbank-2423
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " yet , if still living , " interrupted curtis , harshly , " he is a rough street boy , perchance serving his time at blackwell 's island , and , a hardened young ruffian , whom it would be bitter mortification to recognize as your son . "
+"	O
+yet	O
+,	O
+if	O
+still	O
+living	O
+,	O
+"	O
+interrupted	O
+curtis	B-CHARACTER
+,	O
+harshly	O
+,	O
+"	O
+he	O
+is	O
+a	O
+rough	O
+street	O
+boy	O
+,	O
+perchance	O
+serving	O
+his	O
+time	O
+at	O
+blackwell	O
+'s	O
+island	O
+,	O
+and	O
+,	O
+a	O
+hardened	O
+young	O
+ruffian	O
+,	O
+whom	O
+it	O
+would	O
+be	O
+bitter	O
+mortification	O
+to	O
+recognize	O
+as	O
+your	O
+son	O
+.	O
+"	O
+
+# id = litbank-2424
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " curtis waring , have you no heart ? " demanded florence , indignantly .
+"	O
+curtis	B-CHARACTER
+waring	I-CHARACTER
+,	O
+have	O
+you	O
+no	O
+heart	O
+?	O
+"	O
+demanded	O
+florence	B-CHARACTER
+,	O
+indignantly	O
+.	O
+
+# id = litbank-2425
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " indeed , florence , you ought to know , " said curtis , sinking his voice into softly modulated accents .
+"	O
+indeed	O
+,	O
+florence	B-CHARACTER
+,	O
+you	O
+ought	O
+to	O
+know	O
+,	O
+"	O
+said	O
+curtis	B-CHARACTER
+,	O
+sinking	O
+his	O
+voice	O
+into	O
+softly	O
+modulated	O
+accents	O
+.	O
+
+# id = litbank-2426
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " i know nothing of it , " said florence , coldly , rising from her recumbent position , and drawing aloof from curtis .
+"	O
+i	O
+know	O
+nothing	O
+of	O
+it	O
+,	O
+"	O
+said	O
+florence	B-CHARACTER
+,	O
+coldly	O
+,	O
+rising	O
+from	O
+her	O
+recumbent	O
+position	O
+,	O
+and	O
+drawing	O
+aloof	O
+from	O
+curtis	B-CHARACTER
+.	O
+
+# id = litbank-2427
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " yes , curtis ; you and florence are equally dear to me , and it is my hope that you may be united .
+"	O
+yes	O
+,	O
+curtis	B-CHARACTER
+;	O
+you	O
+and	O
+florence	B-CHARACTER
+are	O
+equally	O
+dear	O
+to	O
+me	O
+,	O
+and	O
+it	O
+is	O
+my	O
+hope	O
+that	O
+you	O
+may	O
+be	O
+united	O
+.	O
+
+# id = litbank-2428
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " believe me , sir , " said curtis , with faltering voice , feigning an emotion which he did not feel , " believe me , that i fully appreciate your goodness .
+"	O
+believe	O
+me	O
+,	O
+sir	O
+,	O
+"	O
+said	O
+curtis	B-CHARACTER
+,	O
+with	O
+faltering	O
+voice	O
+,	O
+feigning	O
+an	O
+emotion	O
+which	O
+he	O
+did	O
+not	O
+feel	O
+,	O
+"	O
+believe	O
+me	O
+,	O
+that	O
+i	O
+fully	O
+appreciate	O
+your	O
+goodness	O
+.	O
+
+# id = litbank-2429
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = i am sure florence joins with me ---- " " florence can speak for herself , " said his cousin , coldly .
+i	O
+am	O
+sure	O
+florence	B-CHARACTER
+joins	O
+with	O
+me	O
+----	O
+"	O
+"	O
+florence	B-CHARACTER
+can	O
+speak	O
+for	O
+herself	O
+,	O
+"	O
+said	O
+his	O
+cousin	O
+,	O
+coldly	O
+.	O
+
+# id = litbank-2430
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = john linden seemed absorbed in thought .
+john	B-CHARACTER
+linden	I-CHARACTER
+seemed	O
+absorbed	O
+in	O
+thought	O
+.	O
+
+# id = litbank-2431
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " but , sir , " protested curtis , " is not that likely to create unnecessary trouble ?
+"	O
+but	O
+,	O
+sir	O
+,	O
+"	O
+protested	O
+curtis	B-CHARACTER
+,	O
+"	O
+is	O
+not	O
+that	O
+likely	O
+to	O
+create	O
+unnecessary	O
+trouble	O
+?	O
+
+# id = litbank-2432
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = it can never be known , and meanwhile ---- " " you and florence will hold the property in trust . "
+it	O
+can	O
+never	O
+be	O
+known	O
+,	O
+and	O
+meanwhile	O
+----	O
+"	O
+"	O
+you	O
+and	O
+florence	B-CHARACTER
+will	O
+hold	O
+the	O
+property	O
+in	O
+trust	O
+.	O
+"	O
+
+# id = litbank-2433
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " have you so specified in your will ? " asked curtis .
+"	O
+have	O
+you	O
+so	O
+specified	O
+in	O
+your	O
+will	O
+?	O
+"	O
+asked	O
+curtis	B-CHARACTER
+.	O
+
+# id = litbank-2434
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = by the first the property is bequeathed to you and florence .
+by	O
+the	O
+first	O
+the	O
+property	O
+is	O
+bequeathed	O
+to	O
+you	O
+and	O
+florence	B-CHARACTER
+.	O
+
+# id = litbank-2435
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = of course , you and florence are not forgotten , but the bulk of the property goes to harvey . "
+of	O
+course	O
+,	O
+you	O
+and	O
+florence	B-CHARACTER
+are	O
+not	O
+forgotten	O
+,	O
+but	O
+the	O
+bulk	O
+of	O
+the	O
+property	O
+goes	O
+to	O
+harvey	B-CHARACTER
+.	O
+"	O
+
+# id = litbank-2436
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " i sincerely wish the boy might be restored to you , " said curtis ; but his tone belied his words .
+"	O
+i	O
+sincerely	O
+wish	O
+the	O
+boy	O
+might	O
+be	O
+restored	O
+to	O
+you	O
+,	O
+"	O
+said	O
+curtis	B-CHARACTER
+;	O
+but	O
+his	O
+tone	O
+belied	O
+his	O
+words	O
+.	O
+
+# id = litbank-2437
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " it may be as you say , curtis , " said his uncle , with a sigh .
+"	O
+it	O
+may	O
+be	O
+as	O
+you	O
+say	O
+,	O
+curtis	B-CHARACTER
+,	O
+"	O
+said	O
+his	O
+uncle	O
+,	O
+with	O
+a	O
+sigh	O
+.	O
+
+# id = litbank-2438
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " if i were thoroughly convinced of it , i would destroy the later will , and leave my property absolutely to you and florence . "
+"	O
+if	O
+i	O
+were	O
+thoroughly	O
+convinced	O
+of	O
+it	O
+,	O
+i	O
+would	O
+destroy	O
+the	O
+later	O
+will	O
+,	O
+and	O
+leave	O
+my	O
+property	O
+absolutely	O
+to	O
+you	O
+and	O
+florence	B-CHARACTER
+.	O
+"	O
+
+# id = litbank-2439
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " no , uncle , " said florence , impulsively , " make no change ; let the will stand . "
+"	O
+no	O
+,	O
+uncle	O
+,	O
+"	O
+said	O
+florence	B-CHARACTER
+,	O
+impulsively	O
+,	O
+"	O
+make	O
+no	O
+change	O
+;	O
+let	O
+the	O
+will	O
+stand	O
+.	O
+"	O
+
+# id = litbank-2440
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = curtis , screened from his uncle 's view , darted a glance of bitter indignation at florence .
+curtis	B-CHARACTER
+,	O
+screened	O
+from	O
+his	O
+uncle	O
+'s	O
+view	O
+,	O
+darted	O
+a	O
+glance	O
+of	O
+bitter	O
+indignation	O
+at	O
+florence	B-CHARACTER
+.	O
+
+# id = litbank-2441
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " let it be so for the present , then , " said mr. linden , wearily .
+"	O
+let	O
+it	O
+be	O
+so	O
+for	O
+the	O
+present	O
+,	O
+then	O
+,	O
+"	O
+said	O
+mr.	B-CHARACTER
+linden	I-CHARACTER
+,	O
+wearily	O
+.	O
+
+# id = litbank-2442
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " curtis , will you ring the bell ?
+"	O
+curtis	B-CHARACTER
+,	O
+will	O
+you	O
+ring	O
+the	O
+bell	O
+?	O
+
+# id = litbank-2443
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " let me help you , uncle john , " said florence , eagerly .
+"	O
+let	O
+me	O
+help	O
+you	O
+,	O
+uncle	B-CHARACTER
+john	I-CHARACTER
+,	O
+"	O
+said	O
+florence	B-CHARACTER
+,	O
+eagerly	O
+.	O
+
+# id = litbank-2444
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " i , too , can help , " said curtis .
+"	O
+i	O
+,	O
+too	O
+,	O
+can	O
+help	O
+,	O
+"	O
+said	O
+curtis	B-CHARACTER
+.	O
+
+# id = litbank-2445
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = john linden , supported on either side by his nephew and niece , left the room , and was assisted to his chamber .
+john	B-CHARACTER
+linden	I-CHARACTER
+,	O
+supported	O
+on	O
+either	O
+side	O
+by	O
+his	O
+nephew	O
+and	O
+niece	O
+,	O
+left	O
+the	O
+room	O
+,	O
+and	O
+was	O
+assisted	O
+to	O
+his	O
+chamber	O
+.	O
+
+# id = litbank-2446
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = curtis and florence returned to the library .
+curtis	B-CHARACTER
+and	O
+florence	B-CHARACTER
+returned	O
+to	O
+the	O
+library	O
+.	O
+
+# id = litbank-2447
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " florence , " said her cousin , " my uncle 's intentions , as expressed to-night , make it desirable that there should be an understanding between us .
+"	O
+florence	B-CHARACTER
+,	O
+"	O
+said	O
+her	O
+cousin	O
+,	O
+"	O
+my	O
+uncle	O
+'s	O
+intentions	O
+,	O
+as	O
+expressed	O
+to-night	O
+,	O
+make	O
+it	O
+desirable	O
+that	O
+there	O
+should	O
+be	O
+an	O
+understanding	O
+between	O
+us	O
+.	O
+
+# id = litbank-2448
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = with a gesture of repulsion florence declined the proffered seat , and remained standing .
+with	O
+a	O
+gesture	O
+of	O
+repulsion	O
+florence	B-CHARACTER
+declined	O
+the	O
+proffered	O
+seat	O
+,	O
+and	O
+remained	O
+standing	O
+.	O
+
+# id = litbank-2449
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = uncle john wishes to see us united . "
+uncle	B-CHARACTER
+john	I-CHARACTER
+wishes	O
+to	O
+see	O
+us	O
+united	O
+.	O
+"	O
+
+# id = litbank-2450
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " it can never be ! " said florence , decidedly .
+"	O
+it	O
+can	O
+never	O
+be	O
+!	O
+"	O
+said	O
+florence	B-CHARACTER
+,	O
+decidedly	O
+.	O
+
+# id = litbank-2451
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = curtis bit his lip in mortification , for her tone was cold and scornful .
+curtis	B-CHARACTER
+bit	O
+his	O
+lip	O
+in	O
+mortification	O
+,	O
+for	O
+her	O
+tone	O
+was	O
+cold	O
+and	O
+scornful	O
+.	O
+
+# id = litbank-2452
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " you profess to love uncle john , and yet you would disappoint his cherished hope ! " he returned .
+"	O
+you	O
+profess	O
+to	O
+love	O
+uncle	B-CHARACTER
+john	I-CHARACTER
+,	O
+and	O
+yet	O
+you	O
+would	O
+disappoint	O
+his	O
+cherished	O
+hope	O
+!	O
+"	O
+he	O
+returned	O
+.	O
+
+# id = litbank-2394
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " uncle , you are not looking well to-night . "
+"	O
+uncle	O
+,	O
+you	O
+are	O
+not	O
+looking	O
+well	O
+to-night	O
+.	O
+"	O
+
+# id = litbank-2396
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = i sometimes doubt if i shall ever be any better . "
+i	O
+sometimes	O
+doubt	O
+if	O
+i	O
+shall	O
+ever	O
+be	O
+any	O
+better	O
+.	O
+"	O
+
+# id = litbank-2397
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " surely , uncle , you can not mean ---- " " yes , my child , i have reason to believe that i am nearing the end . "
+"	O
+surely	O
+,	O
+uncle	O
+,	O
+you	O
+can	O
+not	O
+mean	O
+----	O
+"	O
+"	O
+yes	O
+,	O
+my	O
+child	O
+,	O
+i	O
+have	O
+reason	O
+to	O
+believe	O
+that	O
+i	O
+am	O
+nearing	O
+the	O
+end	O
+.	O
+"	O
+
+# id = litbank-2399
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = " you are not an old man .
+"	O
+you	O
+are	O
+not	O
+an	O
+old	O
+man	O
+.	O
+
+# id = litbank-2401
+# source = LitBank
+# book = Adrift in New York
+# book_id = 18581_adrift_in_new_york_tom_and_florence_braving_the_world
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat.tsv
+# text = two great sorrows have embittered my life .
+two	O
+great	O
+sorrows	O
+have	O
+embittered	O
+my	O
+life	O
+.	O
+

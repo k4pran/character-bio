@@ -1,0 +1,1039 @@
+# id = litbank-0365
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = from the records of the colonial office and from the dead man 's diary we learn that a certain young english nobleman , whom we shall call john clayton , lord greystoke , was commissioned to make a peculiarly delicate investigation of conditions in a british west coast african colony from whose simple native inhabitants another european power was known to be recruiting soldiers for its native army , which it used solely for the forcible collection of rubber and ivory from the savage tribes along the congo and the aruwimi .
+from	O
+the	O
+records	O
+of	O
+the	O
+colonial	O
+office	O
+and	O
+from	O
+the	O
+dead	O
+man	O
+'s	O
+diary	O
+we	O
+learn	O
+that	O
+a	O
+certain	O
+young	O
+english	O
+nobleman	O
+,	O
+whom	O
+we	O
+shall	O
+call	O
+john	B-CHARACTER
+clayton	I-CHARACTER
+,	O
+lord	B-CHARACTER
+greystoke	I-CHARACTER
+,	O
+was	O
+commissioned	O
+to	O
+make	O
+a	O
+peculiarly	O
+delicate	O
+investigation	O
+of	O
+conditions	O
+in	O
+a	O
+british	O
+west	O
+coast	O
+african	O
+colony	O
+from	O
+whose	O
+simple	O
+native	O
+inhabitants	O
+another	O
+european	O
+power	O
+was	O
+known	O
+to	O
+be	O
+recruiting	O
+soldiers	O
+for	O
+its	O
+native	O
+army	O
+,	O
+which	O
+it	O
+used	O
+solely	O
+for	O
+the	O
+forcible	O
+collection	O
+of	O
+rubber	O
+and	O
+ivory	O
+from	O
+the	O
+savage	O
+tribes	O
+along	O
+the	O
+congo	O
+and	O
+the	O
+aruwimi	O
+.	O
+
+# id = litbank-0366
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = and so the colonial office appointed john clayton to a new post in british west africa , but his confidential instructions centered on a thorough investigation of the unfair treatment of black british subjects by the officers of a friendly european power .
+and	O
+so	O
+the	O
+colonial	O
+office	O
+appointed	O
+john	B-CHARACTER
+clayton	I-CHARACTER
+to	O
+a	O
+new	O
+post	O
+in	O
+british	O
+west	O
+africa	O
+,	O
+but	O
+his	O
+confidential	O
+instructions	O
+centered	O
+on	O
+a	O
+thorough	O
+investigation	O
+of	O
+the	O
+unfair	O
+treatment	O
+of	O
+black	O
+british	O
+subjects	O
+by	O
+the	O
+officers	O
+of	O
+a	O
+friendly	O
+european	O
+power	O
+.	O
+
+# id = litbank-0367
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = clayton was the type of englishman that one likes best to associate with the noblest monuments of historic achievement upon a thousand victorious battlefields -- a strong , virile man -- mentally , morally , and physically .
+clayton	B-CHARACTER
+was	O
+the	O
+type	O
+of	O
+englishman	O
+that	O
+one	O
+likes	O
+best	O
+to	O
+associate	O
+with	O
+the	O
+noblest	O
+monuments	O
+of	O
+historic	O
+achievement	O
+upon	O
+a	O
+thousand	O
+victorious	O
+battlefields	O
+--	O
+a	O
+strong	O
+,	O
+virile	O
+man	O
+--	O
+mentally	O
+,	O
+morally	O
+,	O
+and	O
+physically	O
+.	O
+
+# id = litbank-0368
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = the preferment seemed to him in the nature of a well-merited reward for painstaking and intelligent service , and as a stepping stone to posts of greater importance and responsibility ; but , on the other hand , he had been married to the hon. alice rutherford for scarce a three months , and it was the thought of taking this fair young girl into the dangers and isolation of tropical africa that appalled him .
+the	O
+preferment	O
+seemed	O
+to	O
+him	O
+in	O
+the	O
+nature	O
+of	O
+a	O
+well-merited	O
+reward	O
+for	O
+painstaking	O
+and	O
+intelligent	O
+service	O
+,	O
+and	O
+as	O
+a	O
+stepping	O
+stone	O
+to	O
+posts	O
+of	O
+greater	O
+importance	O
+and	O
+responsibility	O
+;	O
+but	O
+,	O
+on	O
+the	O
+other	O
+hand	O
+,	O
+he	O
+had	O
+been	O
+married	O
+to	O
+the	O
+hon.	B-CHARACTER
+alice	I-CHARACTER
+rutherford	I-CHARACTER
+for	O
+scarce	O
+a	O
+three	O
+months	O
+,	O
+and	O
+it	O
+was	O
+the	O
+thought	O
+of	O
+taking	O
+this	O
+fair	O
+young	O
+girl	O
+into	O
+the	O
+dangers	O
+and	O
+isolation	O
+of	O
+tropical	O
+africa	O
+that	O
+appalled	O
+him	O
+.	O
+
+# id = litbank-0369
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = we know only that on a bright may morning in 1888 , john , lord greystoke , and lady alice sailed from dover on their way to africa .
+we	O
+know	O
+only	O
+that	O
+on	O
+a	O
+bright	O
+may	O
+morning	O
+in	O
+1888	O
+,	O
+john	B-CHARACTER
+,	O
+lord	B-CHARACTER
+greystoke	I-CHARACTER
+,	O
+and	O
+lady	B-CHARACTER
+alice	I-CHARACTER
+sailed	O
+from	O
+dover	O
+on	O
+their	O
+way	O
+to	O
+africa	O
+.	O
+
+# id = litbank-0370
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = and here john , lord greystoke , and lady alice , his wife , vanished from the eyes and from the knowledge of men .
+and	O
+here	O
+john	B-CHARACTER
+,	O
+lord	B-CHARACTER
+greystoke	I-CHARACTER
+,	O
+and	O
+lady	B-CHARACTER
+alice	I-CHARACTER
+,	O
+his	O
+wife	O
+,	O
+vanished	O
+from	O
+the	O
+eyes	O
+and	O
+from	O
+the	O
+knowledge	O
+of	O
+men	O
+.	O
+
+# id = litbank-0371
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = so it was that from the second day out from freetown john clayton and his young wife witnessed scenes upon the deck of the fuwalda such as they had believed were never enacted outside the covers of printed stories of the sea .
+so	O
+it	O
+was	O
+that	O
+from	O
+the	O
+second	O
+day	O
+out	O
+from	O
+freetown	O
+john	B-CHARACTER
+clayton	I-CHARACTER
+and	O
+his	O
+young	O
+wife	O
+witnessed	O
+scenes	O
+upon	O
+the	O
+deck	O
+of	O
+the	O
+fuwalda	O
+such	O
+as	O
+they	O
+had	O
+believed	O
+were	O
+never	O
+enacted	O
+outside	O
+the	O
+covers	O
+of	O
+printed	O
+stories	O
+of	O
+the	O
+sea	O
+.	O
+
+# id = litbank-0372
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = two sailors were washing down the decks of the fuwalda , the first mate was on duty , and the captain had stopped to speak with john clayton and lady alice .
+two	O
+sailors	O
+were	O
+washing	O
+down	O
+the	O
+decks	O
+of	O
+the	O
+fuwalda	O
+,	O
+the	O
+first	O
+mate	O
+was	O
+on	O
+duty	O
+,	O
+and	O
+the	O
+captain	O
+had	O
+stopped	O
+to	O
+speak	O
+with	O
+john	B-CHARACTER
+clayton	I-CHARACTER
+and	O
+lady	B-CHARACTER
+alice	I-CHARACTER
+.	O
+
+# id = litbank-0373
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = but just that instant the officer turned to leave lord and lady greystoke , and , as he did so , tripped against the sailor and sprawled headlong upon the deck , overturning the water-pail so that he was drenched in its dirty contents .
+but	O
+just	O
+that	O
+instant	O
+the	O
+officer	O
+turned	O
+to	O
+leave	O
+lord	O
+and	O
+lady	B-CHARACTER
+greystoke	I-CHARACTER
+,	O
+and	O
+,	O
+as	O
+he	O
+did	O
+so	O
+,	O
+tripped	O
+against	O
+the	O
+sailor	O
+and	O
+sprawled	O
+headlong	O
+upon	O
+the	O
+deck	O
+,	O
+overturning	O
+the	O
+water-pail	O
+so	O
+that	O
+he	O
+was	O
+drenched	O
+in	O
+its	O
+dirty	O
+contents	O
+.	O
+
+# id = litbank-0374
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = without waiting to rise he whipped a revolver from his pocket , firing point blank at the great mountain of muscle towering before him ; but , quick as he was , john clayton was almost as quick , so that the bullet which was intended for the sailor 's heart lodged in the sailor 's leg instead , for lord greystoke had struck down the captain 's arm as he had seen the weapon flash in the sun .
+without	O
+waiting	O
+to	O
+rise	O
+he	O
+whipped	O
+a	O
+revolver	O
+from	O
+his	O
+pocket	O
+,	O
+firing	O
+point	O
+blank	O
+at	O
+the	O
+great	O
+mountain	O
+of	O
+muscle	O
+towering	O
+before	O
+him	O
+;	O
+but	O
+,	O
+quick	O
+as	O
+he	O
+was	O
+,	O
+john	B-CHARACTER
+clayton	I-CHARACTER
+was	O
+almost	O
+as	O
+quick	O
+,	O
+so	O
+that	O
+the	O
+bullet	O
+which	O
+was	O
+intended	O
+for	O
+the	O
+sailor	O
+'s	O
+heart	O
+lodged	O
+in	O
+the	O
+sailor	O
+'s	O
+leg	O
+instead	O
+,	O
+for	O
+lord	B-CHARACTER
+greystoke	I-CHARACTER
+had	O
+struck	O
+down	O
+the	O
+captain	O
+'s	O
+arm	O
+as	O
+he	O
+had	O
+seen	O
+the	O
+weapon	O
+flash	O
+in	O
+the	O
+sun	O
+.	O
+
+# id = litbank-0375
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = words passed between clayton and the captain , the former making it plain that he was disgusted with the brutality displayed toward the crew , nor would he countenance anything further of the kind while he and lady greystoke remained passengers .
+words	O
+passed	O
+between	O
+clayton	B-CHARACTER
+and	O
+the	O
+captain	O
+,	O
+the	O
+former	O
+making	O
+it	O
+plain	O
+that	O
+he	O
+was	O
+disgusted	O
+with	O
+the	O
+brutality	O
+displayed	O
+toward	O
+the	O
+crew	O
+,	O
+nor	O
+would	O
+he	O
+countenance	O
+anything	O
+further	O
+of	O
+the	O
+kind	O
+while	O
+he	O
+and	O
+lady	B-CHARACTER
+greystoke	I-CHARACTER
+remained	O
+passengers	O
+.	O
+
+# id = litbank-0376
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = the big fellow , who was known among his mates as black michael , tried his leg gingerly , and , finding that it bore his weight , turned to clayton with a word of gruff thanks .
+the	O
+big	O
+fellow	O
+,	O
+who	O
+was	O
+known	O
+among	O
+his	O
+mates	O
+as	O
+black	B-CHARACTER
+michael	I-CHARACTER
+,	O
+tried	O
+his	O
+leg	O
+gingerly	O
+,	O
+and	O
+,	O
+finding	O
+that	O
+it	O
+bore	O
+his	O
+weight	O
+,	O
+turned	O
+to	O
+clayton	B-CHARACTER
+with	O
+a	O
+word	O
+of	O
+gruff	O
+thanks	O
+.	O
+
+# id = litbank-0377
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = on the second day after the wounding of black michael , clayton came on deck just in time to see the limp body of one of the crew being carried below by four of his fellows while the first mate , a heavy belaying pin in his hand , stood glowering at the little party of sullen sailors .
+on	O
+the	O
+second	O
+day	O
+after	O
+the	O
+wounding	O
+of	O
+black	B-CHARACTER
+michael	I-CHARACTER
+,	O
+clayton	B-CHARACTER
+came	O
+on	O
+deck	O
+just	O
+in	O
+time	O
+to	O
+see	O
+the	O
+limp	O
+body	O
+of	O
+one	O
+of	O
+the	O
+crew	O
+being	O
+carried	O
+below	O
+by	O
+four	O
+of	O
+his	O
+fellows	O
+while	O
+the	O
+first	O
+mate	O
+,	O
+a	O
+heavy	O
+belaying	O
+pin	O
+in	O
+his	O
+hand	O
+,	O
+stood	O
+glowering	O
+at	O
+the	O
+little	O
+party	O
+of	O
+sullen	O
+sailors	O
+.	O
+
+# id = litbank-0360
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = chapter i out to sea i had this story from one who had no business to tell it to me , or to any other .
+chapter	O
+i	O
+out	O
+to	O
+sea	O
+i	O
+had	O
+this	O
+story	O
+from	O
+one	O
+who	O
+had	O
+no	O
+business	O
+to	O
+tell	O
+it	O
+to	O
+me	O
+,	O
+or	O
+to	O
+any	O
+other	O
+.	O
+
+# id = litbank-0361
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = i may credit the seductive influence of an old vintage upon the narrator for the beginning of it , and my own skeptical incredulity during the days that followed for the balance of the strange tale .
+i	O
+may	O
+credit	O
+the	O
+seductive	O
+influence	O
+of	O
+an	O
+old	O
+vintage	O
+upon	O
+the	O
+narrator	O
+for	O
+the	O
+beginning	O
+of	O
+it	O
+,	O
+and	O
+my	O
+own	O
+skeptical	O
+incredulity	O
+during	O
+the	O
+days	O
+that	O
+followed	O
+for	O
+the	O
+balance	O
+of	O
+the	O
+strange	O
+tale	O
+.	O
+
+# id = litbank-0362
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = when my convivial host discovered that he had told me so much , and that i was prone to doubtfulness , his foolish pride assumed the task the old vintage had commenced , and so he unearthed written evidence in the form of musty manuscript , and dry official records of the british colonial office to support many of the salient features of his remarkable narrative .
+when	O
+my	O
+convivial	O
+host	O
+discovered	O
+that	O
+he	O
+had	O
+told	O
+me	O
+so	O
+much	O
+,	O
+and	O
+that	O
+i	O
+was	O
+prone	O
+to	O
+doubtfulness	O
+,	O
+his	O
+foolish	O
+pride	O
+assumed	O
+the	O
+task	O
+the	O
+old	O
+vintage	O
+had	O
+commenced	O
+,	O
+and	O
+so	O
+he	O
+unearthed	O
+written	O
+evidence	O
+in	O
+the	O
+form	O
+of	O
+musty	O
+manuscript	O
+,	O
+and	O
+dry	O
+official	O
+records	O
+of	O
+the	O
+british	O
+colonial	O
+office	O
+to	O
+support	O
+many	O
+of	O
+the	O
+salient	O
+features	O
+of	O
+his	O
+remarkable	O
+narrative	O
+.	O
+
+# id = litbank-0363
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = i do not say the story is true , for i did not witness the happenings which it portrays , but the fact that in the telling of it to you i have taken fictitious names for the principal characters quite sufficiently evidences the sincerity of my own belief that it may be true .
+i	O
+do	O
+not	O
+say	O
+the	O
+story	O
+is	O
+true	O
+,	O
+for	O
+i	O
+did	O
+not	O
+witness	O
+the	O
+happenings	O
+which	O
+it	O
+portrays	O
+,	O
+but	O
+the	O
+fact	O
+that	O
+in	O
+the	O
+telling	O
+of	O
+it	O
+to	O
+you	O
+i	O
+have	O
+taken	O
+fictitious	O
+names	O
+for	O
+the	O
+principal	O
+characters	O
+quite	O
+sufficiently	O
+evidences	O
+the	O
+sincerity	O
+of	O
+my	O
+own	O
+belief	O
+that	O
+it	O
+may	O
+be	O
+true	O
+.	O
+
+# id = litbank-0364
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = the yellow , mildewed pages of the diary of a man long dead , and the records of the colonial office dovetail perfectly with the narrative of my convivial host , and so i give you the story as i painstakingly pieced it out from these several various agencies .
+the	O
+yellow	O
+,	O
+mildewed	O
+pages	O
+of	O
+the	O
+diary	O
+of	O
+a	O
+man	O
+long	O
+dead	O
+,	O
+and	O
+the	O
+records	O
+of	O
+the	O
+colonial	O
+office	O
+dovetail	O
+perfectly	O
+with	O
+the	O
+narrative	O
+of	O
+my	O
+convivial	O
+host	O
+,	O
+and	O
+so	O
+i	O
+give	O
+you	O
+the	O
+story	O
+as	O
+i	O
+painstakingly	O
+pieced	O
+it	O
+out	O
+from	O
+these	O
+several	O
+various	O
+agencies	O
+.	O
+

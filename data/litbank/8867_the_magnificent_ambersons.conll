@@ -1,0 +1,315 @@
+# id = litbank-2296
+# source = LitBank
+# book = The Magnificent Ambersons
+# book_id = 8867_the_magnificent_ambersons
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/8867_the_magnificent_ambersons_brat.tsv
+# text = chapter i major amberson had “ made a fortune ” in 1873 , when other people were losing fortunes , and the magnificence of the ambersons began then .
+chapter	O
+i	O
+major	B-CHARACTER
+amberson	I-CHARACTER
+had	O
+“	O
+made	O
+a	O
+fortune	O
+”	O
+in	O
+1873	O
+,	O
+when	O
+other	O
+people	O
+were	O
+losing	O
+fortunes	O
+,	O
+and	O
+the	O
+magnificence	O
+of	O
+the	O
+ambersons	O
+began	O
+then	O
+.	O
+
+# id = litbank-2297
+# source = LitBank
+# book = The Magnificent Ambersons
+# book_id = 8867_the_magnificent_ambersons
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/8867_the_magnificent_ambersons_brat.tsv
+# text = magnificence , like the size of a fortune , is always comparative , as even magnificent lorenzo may now perceive , if he has happened to haunt new york in 1916 ; and the ambersons were magnificent in their day and place .
+magnificence	O
+,	O
+like	O
+the	O
+size	O
+of	O
+a	O
+fortune	O
+,	O
+is	O
+always	O
+comparative	O
+,	O
+as	O
+even	O
+magnificent	O
+lorenzo	O
+may	O
+now	O
+perceive	O
+,	O
+if	O
+he	O
+has	O
+happened	O
+to	O
+haunt	O
+new	O
+york	O
+in	O
+1916	O
+;	O
+and	O
+the	O
+ambersons	O
+were	O
+magnificent	O
+in	O
+their	O
+day	O
+and	O
+place	O
+.	O
+
+# id = litbank-2298
+# source = LitBank
+# book = The Magnificent Ambersons
+# book_id = 8867_the_magnificent_ambersons
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/8867_the_magnificent_ambersons_brat.tsv
+# text = their splendour lasted throughout all the years that saw their midland town spread and darken into a city , but reached its topmost during the period when every prosperous family with children kept a newfoundland dog .
+their	O
+splendour	O
+lasted	O
+throughout	O
+all	O
+the	O
+years	O
+that	O
+saw	O
+their	O
+midland	O
+town	O
+spread	O
+and	O
+darken	O
+into	O
+a	O
+city	O
+,	O
+but	O
+reached	O
+its	O
+topmost	O
+during	O
+the	O
+period	O
+when	O
+every	O
+prosperous	O
+family	O
+with	O
+children	O
+kept	O
+a	O
+newfoundland	O
+dog	O
+.	O
+
+# id = litbank-2299
+# source = LitBank
+# book = The Magnificent Ambersons
+# book_id = 8867_the_magnificent_ambersons
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/8867_the_magnificent_ambersons_brat.tsv
+# text = in that town , in those days , all the women who wore silk or velvet knew all the other women who wore silk or velvet , and when there was a new purchase of sealskin , sick people were got to windows to see it go by .
+in	O
+that	O
+town	O
+,	O
+in	O
+those	O
+days	O
+,	O
+all	O
+the	O
+women	O
+who	O
+wore	O
+silk	O
+or	O
+velvet	O
+knew	O
+all	O
+the	O
+other	O
+women	O
+who	O
+wore	O
+silk	O
+or	O
+velvet	O
+,	O
+and	O
+when	O
+there	O
+was	O
+a	O
+new	O
+purchase	O
+of	O
+sealskin	O
+,	O
+sick	O
+people	O
+were	O
+got	O
+to	O
+windows	O
+to	O
+see	O
+it	O
+go	O
+by	O
+.	O
+
+# id = litbank-2300
+# source = LitBank
+# book = The Magnificent Ambersons
+# book_id = 8867_the_magnificent_ambersons
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/8867_the_magnificent_ambersons_brat.tsv
+# text = trotters were out , in the winter afternoons , racing light sleighs on national avenue and tennessee street ; everybody recognized both the trotters and the drivers ; and again knew them as well on summer evenings , when slim buggies whizzed by in renewals of the snow-time rivalry .
+trotters	O
+were	O
+out	O
+,	O
+in	O
+the	O
+winter	O
+afternoons	O
+,	O
+racing	O
+light	O
+sleighs	O
+on	O
+national	O
+avenue	O
+and	O
+tennessee	O
+street	O
+;	O
+everybody	O
+recognized	O
+both	O
+the	O
+trotters	O
+and	O
+the	O
+drivers	O
+;	O
+and	O
+again	O
+knew	O
+them	O
+as	O
+well	O
+on	O
+summer	O
+evenings	O
+,	O
+when	O
+slim	O
+buggies	O
+whizzed	O
+by	O
+in	O
+renewals	O
+of	O
+the	O
+snow-time	O
+rivalry	O
+.	O
+
+# id = litbank-2301
+# source = LitBank
+# book = The Magnificent Ambersons
+# book_id = 8867_the_magnificent_ambersons
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/8867_the_magnificent_ambersons_brat.tsv
+# text = for that matter , everybody knew everybody else 's family horse-and-carriage , could identify such a silhouette half a mile down the street , and thereby was sure who was going to market , or to a reception , or coming home from office or store to noon dinner or evening supper .
+for	O
+that	O
+matter	O
+,	O
+everybody	O
+knew	O
+everybody	O
+else	O
+'s	O
+family	O
+horse-and-carriage	O
+,	O
+could	O
+identify	O
+such	O
+a	O
+silhouette	O
+half	O
+a	O
+mile	O
+down	O
+the	O
+street	O
+,	O
+and	O
+thereby	O
+was	O
+sure	O
+who	O
+was	O
+going	O
+to	O
+market	O
+,	O
+or	O
+to	O
+a	O
+reception	O
+,	O
+or	O
+coming	O
+home	O
+from	O
+office	O
+or	O
+store	O
+to	O
+noon	O
+dinner	O
+or	O
+evening	O
+supper	O
+.	O
+

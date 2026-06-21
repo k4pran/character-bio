@@ -1,0 +1,700 @@
+# id = litbank-2202
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = he stamped and shook the snow from off himself in the bar , and followed mrs. hall into her guest parlour to strike his bargain .
+he	O
+stamped	O
+and	O
+shook	O
+the	O
+snow	O
+from	O
+off	O
+himself	O
+in	O
+the	O
+bar	O
+,	O
+and	O
+followed	O
+mrs.	B-CHARACTER
+hall	I-CHARACTER
+into	O
+her	O
+guest	O
+parlour	O
+to	O
+strike	O
+his	O
+bargain	O
+.	O
+
+# id = litbank-2204
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = mrs. hall lit the fire and left him there while she went to prepare him a meal with her own hands .
+mrs.	B-CHARACTER
+hall	I-CHARACTER
+lit	O
+the	O
+fire	O
+and	O
+left	O
+him	O
+there	O
+while	O
+she	O
+went	O
+to	O
+prepare	O
+him	O
+a	O
+meal	O
+with	O
+her	O
+own	O
+hands	O
+.	O
+
+# id = litbank-2205
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = as soon as the bacon was well under way , and millie , her lymphatic maid , had been brisked up a bit by a few deftly chosen expressions of contempt , she carried the cloth , plates , and glasses into the parlour and began to lay them with the utmost _ eclat _ .
+as	O
+soon	O
+as	O
+the	O
+bacon	O
+was	O
+well	O
+under	O
+way	O
+,	O
+and	O
+millie	B-CHARACTER
+,	O
+her	O
+lymphatic	O
+maid	O
+,	O
+had	O
+been	O
+brisked	O
+up	O
+a	O
+bit	O
+by	O
+a	O
+few	O
+deftly	O
+chosen	O
+expressions	O
+of	O
+contempt	O
+,	O
+she	O
+carried	O
+the	O
+cloth	O
+,	O
+plates	O
+,	O
+and	O
+glasses	O
+into	O
+the	O
+parlour	O
+and	O
+began	O
+to	O
+lay	O
+them	O
+with	O
+the	O
+utmost	O
+_	O
+eclat	O
+_	O
+.	O
+
+# id = litbank-2206
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = he made no answer , and had turned his face away from her again , and mrs. hall , feeling that her conversational advances were ill-timed , laid the rest of the table things in a quick staccato and whisked out of the room .
+he	O
+made	O
+no	O
+answer	O
+,	O
+and	O
+had	O
+turned	O
+his	O
+face	O
+away	O
+from	O
+her	O
+again	O
+,	O
+and	O
+mrs.	B-CHARACTER
+hall	I-CHARACTER
+,	O
+feeling	O
+that	O
+her	O
+conversational	O
+advances	O
+were	O
+ill-timed	O
+,	O
+laid	O
+the	O
+rest	O
+of	O
+the	O
+table	O
+things	O
+in	O
+a	O
+quick	O
+staccato	O
+and	O
+whisked	O
+out	O
+of	O
+the	O
+room	O
+.	O
+
+# id = litbank-2207
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = and while she herself finished mixing the mustard , she gave millie a few verbal stabs for her excessive slowness .
+and	O
+while	O
+she	O
+herself	O
+finished	O
+mixing	O
+the	O
+mustard	O
+,	O
+she	O
+gave	O
+millie	B-CHARACTER
+a	O
+few	O
+verbal	O
+stabs	O
+for	O
+her	O
+excessive	O
+slowness	O
+.	O
+
+# id = litbank-2208
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = she had cooked the ham and eggs , laid the table , and done everything , while millie ( help indeed ! )
+she	O
+had	O
+cooked	O
+the	O
+ham	O
+and	O
+eggs	O
+,	O
+laid	O
+the	O
+table	O
+,	O
+and	O
+done	O
+everything	O
+,	O
+while	O
+millie	B-CHARACTER
+(	O
+help	O
+indeed	O
+!	O
+)	O
+
+# id = litbank-2209
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = but it was not that which startled mrs. hall .
+but	O
+it	O
+was	O
+not	O
+that	O
+which	O
+startled	O
+mrs.	B-CHARACTER
+hall	I-CHARACTER
+.	O
+
+# id = litbank-2210
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = she went quite softly to the kitchen , and was too preoccupied to ask millie what she was messing about with _ now _ , when she got there .
+she	O
+went	O
+quite	O
+softly	O
+to	O
+the	O
+kitchen	O
+,	O
+and	O
+was	O
+too	O
+preoccupied	O
+to	O
+ask	O
+millie	B-CHARACTER
+what	O
+she	O
+was	O
+messing	O
+about	O
+with	O
+_	O
+now	O
+_	O
+,	O
+when	O
+she	O
+got	O
+there	O
+.	O
+
+# id = litbank-2211
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = " the poor soul 's had an accident or an op ' ration or somethin' , " said mrs. hall .
+"	O
+the	O
+poor	O
+soul	O
+'s	O
+had	O
+an	O
+accident	O
+or	O
+an	O
+op	O
+'	O
+ration	O
+or	O
+somethin'	O
+,	O
+"	O
+said	O
+mrs.	B-CHARACTER
+hall	I-CHARACTER
+.	O
+
+# id = litbank-2212
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = " bless my soul alive ! " she said , going off at a tangent ; " ai n't you done them taters _ yet _ , millie ? "
+"	O
+bless	O
+my	O
+soul	O
+alive	O
+!	O
+"	O
+she	O
+said	O
+,	O
+going	O
+off	O
+at	O
+a	O
+tangent	O
+;	O
+"	O
+ai	O
+n't	O
+you	O
+done	O
+them	O
+taters	O
+_	O
+yet	O
+_	O
+,	O
+millie	B-CHARACTER
+?	O
+"	O
+
+# id = litbank-2213
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = when mrs. hall went to clear away the stranger 's lunch , her idea that his mouth must also have been cut or disfigured in the accident she supposed him to have suffered , was confirmed , for he was smoking a pipe , and all the time that she was in the room he never loosened the silk muffler he had wrapped round the lower part of his face to put the mouthpiece to his lips .
+when	O
+mrs.	B-CHARACTER
+hall	I-CHARACTER
+went	O
+to	O
+clear	O
+away	O
+the	O
+stranger	O
+'s	O
+lunch	O
+,	O
+her	O
+idea	O
+that	O
+his	O
+mouth	O
+must	O
+also	O
+have	O
+been	O
+cut	O
+or	O
+disfigured	O
+in	O
+the	O
+accident	O
+she	O
+supposed	O
+him	O
+to	O
+have	O
+suffered	O
+,	O
+was	O
+confirmed	O
+,	O
+for	O
+he	O
+was	O
+smoking	O
+a	O
+pipe	O
+,	O
+and	O
+all	O
+the	O
+time	O
+that	O
+she	O
+was	O
+in	O
+the	O
+room	O
+he	O
+never	O
+loosened	O
+the	O
+silk	O
+muffler	O
+he	O
+had	O
+wrapped	O
+round	O
+the	O
+lower	O
+part	O
+of	O
+his	O
+face	O
+to	O
+put	O
+the	O
+mouthpiece	O
+to	O
+his	O
+lips	O
+.	O
+
+# id = litbank-2214
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = mrs. hall , nothing loath , answered his questions and developed a conversation .
+mrs.	B-CHARACTER
+hall	I-CHARACTER
+,	O
+nothing	O
+loath	O
+,	O
+answered	O
+his	O
+questions	O
+and	O
+developed	O
+a	O
+conversation	O
+.	O
+
+# id = litbank-2198
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = chapter i the strange man 's arrival the stranger came early in february , one wintry day , through a biting wind and a driving snow , the last snowfall of the year , over the down , walking from bramblehurst railway station , and carrying a little black portmanteau in his thickly gloved hand .
+chapter	O
+i	O
+the	O
+strange	O
+man	O
+'s	O
+arrival	O
+the	O
+stranger	O
+came	O
+early	O
+in	O
+february	O
+,	O
+one	O
+wintry	O
+day	O
+,	O
+through	O
+a	O
+biting	O
+wind	O
+and	O
+a	O
+driving	O
+snow	O
+,	O
+the	O
+last	O
+snowfall	O
+of	O
+the	O
+year	O
+,	O
+over	O
+the	O
+down	O
+,	O
+walking	O
+from	O
+bramblehurst	O
+railway	O
+station	O
+,	O
+and	O
+carrying	O
+a	O
+little	O
+black	O
+portmanteau	O
+in	O
+his	O
+thickly	O
+gloved	O
+hand	O
+.	O
+
+# id = litbank-2199
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = he was wrapped up from head to foot , and the brim of his soft felt hat hid every inch of his face but the shiny tip of his nose ; the snow had piled itself against his shoulders and chest , and added a white crest to the burden he carried .
+he	O
+was	O
+wrapped	O
+up	O
+from	O
+head	O
+to	O
+foot	O
+,	O
+and	O
+the	O
+brim	O
+of	O
+his	O
+soft	O
+felt	O
+hat	O
+hid	O
+every	O
+inch	O
+of	O
+his	O
+face	O
+but	O
+the	O
+shiny	O
+tip	O
+of	O
+his	O
+nose	O
+;	O
+the	O
+snow	O
+had	O
+piled	O
+itself	O
+against	O
+his	O
+shoulders	O
+and	O
+chest	O
+,	O
+and	O
+added	O
+a	O
+white	O
+crest	O
+to	O
+the	O
+burden	O
+he	O
+carried	O
+.	O
+
+# id = litbank-2200
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = he staggered into the " coach and horses " more dead than alive , and flung his portmanteau down .
+he	O
+staggered	O
+into	O
+the	O
+"	O
+coach	O
+and	O
+horses	O
+"	O
+more	O
+dead	O
+than	O
+alive	O
+,	O
+and	O
+flung	O
+his	O
+portmanteau	O
+down	O
+.	O
+
+# id = litbank-2201
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = " a fire , " he cried , " in the name of human charity !
+"	O
+a	O
+fire	O
+,	O
+"	O
+he	O
+cried	O
+,	O
+"	O
+in	O
+the	O
+name	O
+of	O
+human	O
+charity	O
+!	O
+
+# id = litbank-2203
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = and with that much introduction , that and a couple of sovereigns flung upon the table , he took up his quarters in the inn .
+and	O
+with	O
+that	O
+much	O
+introduction	O
+,	O
+that	O
+and	O
+a	O
+couple	O
+of	O
+sovereigns	O
+flung	O
+upon	O
+the	O
+table	O
+,	O
+he	O
+took	O
+up	O
+his	O
+quarters	O
+in	O
+the	O
+inn	O
+.	O
+

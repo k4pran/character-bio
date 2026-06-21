@@ -1,0 +1,758 @@
+# id = litbank-1847
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = wherefore , the following day being sunday , good mr. stockham , our minister at weyanoke , exhorted us to be on our guard , and in his prayer besought that no sedition or rebellion might raise its head amongst the indian subjects of the lord 's anointed .
+wherefore	O
+,	O
+the	O
+following	O
+day	O
+being	O
+sunday	O
+,	O
+good	O
+mr.	B-CHARACTER
+stockham	I-CHARACTER
+,	O
+our	O
+minister	O
+at	O
+weyanoke	O
+,	O
+exhorted	O
+us	O
+to	O
+be	O
+on	O
+our	O
+guard	O
+,	O
+and	O
+in	O
+his	O
+prayer	O
+besought	O
+that	O
+no	O
+sedition	O
+or	O
+rebellion	O
+might	O
+raise	O
+its	O
+head	O
+amongst	O
+the	O
+indian	O
+subjects	O
+of	O
+the	O
+lord	O
+'s	O
+anointed	O
+.	O
+
+# id = litbank-1848
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = the bolder spirits laughed them to scorn , but the women began to weep and cower , and i , though i laughed too , thought of smith , and how he ever held the savages , and more especially that opechancanough who was now their emperor , in a most deep distrust ; telling us that the red men watched while we slept , that they might teach wiliness to a jesuit , and how to bide its time to a cat crouched before a mousehole .
+the	O
+bolder	O
+spirits	O
+laughed	O
+them	O
+to	O
+scorn	O
+,	O
+but	O
+the	O
+women	O
+began	O
+to	O
+weep	O
+and	O
+cower	O
+,	O
+and	O
+i	O
+,	O
+though	O
+i	O
+laughed	O
+too	O
+,	O
+thought	O
+of	O
+smith	O
+,	O
+and	O
+how	O
+he	O
+ever	O
+held	O
+the	O
+savages	O
+,	O
+and	O
+more	O
+especially	O
+that	O
+opechancanough	B-CHARACTER
+who	O
+was	O
+now	O
+their	O
+emperor	O
+,	O
+in	O
+a	O
+most	O
+deep	O
+distrust	O
+;	O
+telling	O
+us	O
+that	O
+the	O
+red	O
+men	O
+watched	O
+while	O
+we	O
+slept	O
+,	O
+that	O
+they	O
+might	O
+teach	O
+wiliness	O
+to	O
+a	O
+jesuit	O
+,	O
+and	O
+how	O
+to	O
+bide	O
+its	O
+time	O
+to	O
+a	O
+cat	O
+crouched	O
+before	O
+a	O
+mousehole	O
+.	O
+
+# id = litbank-1849
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = i left the dark figure standing , still as a carved stone , in the heavy shadow of the trees , and , spurring my horse ( sent me from home , the year before , by my cousin percy ) , was soon at my house , -- a poor and rude one , but pleasantly set upon a slope of green turf , and girt with maize and the broad leaves of the tobacco .
+i	O
+left	O
+the	O
+dark	O
+figure	O
+standing	O
+,	O
+still	O
+as	O
+a	O
+carved	O
+stone	O
+,	O
+in	O
+the	O
+heavy	O
+shadow	O
+of	O
+the	O
+trees	O
+,	O
+and	O
+,	O
+spurring	O
+my	O
+horse	O
+(	O
+sent	O
+me	O
+from	O
+home	O
+,	O
+the	O
+year	O
+before	O
+,	O
+by	O
+my	O
+cousin	O
+percy	B-CHARACTER
+)	O
+,	O
+was	O
+soon	O
+at	O
+my	O
+house	O
+,	O
+--	O
+a	O
+poor	O
+and	O
+rude	O
+one	O
+,	O
+but	O
+pleasantly	O
+set	O
+upon	O
+a	O
+slope	O
+of	O
+green	O
+turf	O
+,	O
+and	O
+girt	O
+with	O
+maize	O
+and	O
+the	O
+broad	O
+leaves	O
+of	O
+the	O
+tobacco	O
+.	O
+
+# id = litbank-1850
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = upon the afternoon of which i now speak , in the midsummer of the year of grace 1621 , as i sat upon my doorstep , my long pipe between my teeth and my eyes upon the pallid stream below , my thoughts were busy with these matters , -- so busy that i did not see a horse and rider emerge from the dimness of the forest into the cleared space before my palisade , nor knew , until his voice came up the bank , that my good friend , master john rolfe , was without and would speak to me .
+upon	O
+the	O
+afternoon	O
+of	O
+which	O
+i	O
+now	O
+speak	O
+,	O
+in	O
+the	O
+midsummer	O
+of	O
+the	O
+year	O
+of	O
+grace	O
+1621	O
+,	O
+as	O
+i	O
+sat	O
+upon	O
+my	O
+doorstep	O
+,	O
+my	O
+long	O
+pipe	O
+between	O
+my	O
+teeth	O
+and	O
+my	O
+eyes	O
+upon	O
+the	O
+pallid	O
+stream	O
+below	O
+,	O
+my	O
+thoughts	O
+were	O
+busy	O
+with	O
+these	O
+matters	O
+,	O
+--	O
+so	O
+busy	O
+that	O
+i	O
+did	O
+not	O
+see	O
+a	O
+horse	O
+and	O
+rider	O
+emerge	O
+from	O
+the	O
+dimness	O
+of	O
+the	O
+forest	O
+into	O
+the	O
+cleared	O
+space	O
+before	O
+my	O
+palisade	O
+,	O
+nor	O
+knew	O
+,	O
+until	O
+his	O
+voice	O
+came	O
+up	O
+the	O
+bank	O
+,	O
+that	O
+my	O
+good	O
+friend	O
+,	O
+master	B-CHARACTER
+john	I-CHARACTER
+rolfe	I-CHARACTER
+,	O
+was	O
+without	O
+and	O
+would	O
+speak	O
+to	O
+me	O
+.	O
+
+# id = litbank-1851
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = “ i was wishing for dale 's times and dale 's laws . ”
+“	O
+i	O
+was	O
+wishing	O
+for	O
+dale	B-CHARACTER
+'s	O
+times	O
+and	O
+dale	B-CHARACTER
+'s	O
+laws	O
+.	O
+”	O
+
+# id = litbank-1852
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = “ if i did not think to meet her again , beyond that star , i could not smile and speak calmly , ralph , as i do now . ”
+“	O
+if	O
+i	O
+did	O
+not	O
+think	O
+to	O
+meet	O
+her	O
+again	O
+,	O
+beyond	O
+that	O
+star	O
+,	O
+i	O
+could	O
+not	O
+smile	O
+and	O
+speak	O
+calmly	O
+,	O
+ralph	B-CHARACTER
+,	O
+as	O
+i	O
+do	O
+now	O
+.	O
+”	O
+
+# id = litbank-1853
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = not a mile of the way but i encountered tom , dick , and harry , dressed in their sunday bravery and making full tilt for the city .
+not	O
+a	O
+mile	O
+of	O
+the	O
+way	O
+but	O
+i	O
+encountered	O
+tom	B-CHARACTER
+,	O
+dick	B-CHARACTER
+,	O
+and	O
+harry	B-CHARACTER
+,	O
+dressed	O
+in	O
+their	O
+sunday	O
+bravery	O
+and	O
+making	O
+full	O
+tilt	O
+for	O
+the	O
+city	O
+.	O
+
+# id = litbank-1854
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = wherefore , when at midday i met good master wickham rowing down from henricus to jamestown , to offer his aid to master bucke in his press of business to-morrow , i gave the good man godspeed , and thought his a fruitful errand and one pleasing to the lord . ”
+wherefore	O
+,	O
+when	O
+at	O
+midday	O
+i	O
+met	O
+good	O
+master	B-CHARACTER
+wickham	I-CHARACTER
+rowing	O
+down	O
+from	O
+henricus	O
+to	O
+jamestown	O
+,	O
+to	O
+offer	O
+his	O
+aid	O
+to	O
+master	B-CHARACTER
+bucke	I-CHARACTER
+in	O
+his	O
+press	O
+of	O
+business	O
+to-morrow	O
+,	O
+i	O
+gave	O
+the	O
+good	O
+man	O
+godspeed	O
+,	O
+and	O
+thought	O
+his	O
+a	O
+fruitful	O
+errand	O
+and	O
+one	O
+pleasing	O
+to	O
+the	O
+lord	O
+.	O
+”	O
+
+# id = litbank-1855
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = “ ralph , ” he said presently , coming to a stand before me , “ have you ever an hundred and twenty pounds of tobacco in hand ?
+“	O
+ralph	B-CHARACTER
+,	O
+”	O
+he	O
+said	O
+presently	O
+,	O
+coming	O
+to	O
+a	O
+stand	O
+before	O
+me	O
+,	O
+“	O
+have	O
+you	O
+ever	O
+an	O
+hundred	O
+and	O
+twenty	O
+pounds	O
+of	O
+tobacco	O
+in	O
+hand	O
+?	O
+
+# id = litbank-1842
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = chapter i in which i throw ambs-ace the work of the day being over , i sat down upon my doorstep , pipe in hand , to rest awhile in the cool of the evening .
+chapter	O
+i	O
+in	O
+which	O
+i	O
+throw	O
+ambs-ace	O
+the	O
+work	O
+of	O
+the	O
+day	O
+being	O
+over	O
+,	O
+i	O
+sat	O
+down	O
+upon	O
+my	O
+doorstep	O
+,	O
+pipe	O
+in	O
+hand	O
+,	O
+to	O
+rest	O
+awhile	O
+in	O
+the	O
+cool	O
+of	O
+the	O
+evening	O
+.	O
+
+# id = litbank-1843
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = death is not more still than is this virginian land in the hour when the sun has sunk away , and it is black beneath the trees , and the stars brighten slowly and softly , one by one .
+death	O
+is	O
+not	O
+more	O
+still	O
+than	O
+is	O
+this	O
+virginian	O
+land	O
+in	O
+the	O
+hour	O
+when	O
+the	O
+sun	O
+has	O
+sunk	O
+away	O
+,	O
+and	O
+it	O
+is	O
+black	O
+beneath	O
+the	O
+trees	O
+,	O
+and	O
+the	O
+stars	O
+brighten	O
+slowly	O
+and	O
+softly	O
+,	O
+one	O
+by	O
+one	O
+.	O
+
+# id = litbank-1844
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = the birds that sing all day have hushed , and the horned owls , the monster frogs , and that strange and ominous fowl ( if fowl it be , and not , as some assert , a spirit damned ) which we english call the whippoorwill , are yet silent .
+the	O
+birds	O
+that	O
+sing	O
+all	O
+day	O
+have	O
+hushed	O
+,	O
+and	O
+the	O
+horned	O
+owls	O
+,	O
+the	O
+monster	O
+frogs	O
+,	O
+and	O
+that	O
+strange	O
+and	O
+ominous	O
+fowl	O
+(	O
+if	O
+fowl	O
+it	O
+be	O
+,	O
+and	O
+not	O
+,	O
+as	O
+some	O
+assert	O
+,	O
+a	O
+spirit	O
+damned	O
+)	O
+which	O
+we	O
+english	O
+call	O
+the	O
+whippoorwill	O
+,	O
+are	O
+yet	O
+silent	O
+.	O
+
+# id = litbank-1845
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = later the wolf will howl and the panther scream , but now there is no sound .
+later	O
+the	O
+wolf	O
+will	O
+howl	O
+and	O
+the	O
+panther	O
+scream	O
+,	O
+but	O
+now	O
+there	O
+is	O
+no	O
+sound	O
+.	O
+
+# id = litbank-1846
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = the winds are laid , and the restless leaves droop and are quiet .
+the	O
+winds	O
+are	O
+laid	O
+,	O
+and	O
+the	O
+restless	O
+leaves	O
+droop	O
+and	O
+are	O
+quiet	O
+.	O
+

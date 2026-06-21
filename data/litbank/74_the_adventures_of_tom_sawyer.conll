@@ -1,0 +1,1058 @@
+# id = litbank-0280
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = chapter i “ tom ! ”
+chapter	O
+i	O
+“	O
+tom	B-CHARACTER
+!	O
+”	O
+
+# id = litbank-0281
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = “ tom ! ”
+“	O
+tom	B-CHARACTER
+!	O
+”	O
+
+# id = litbank-0283
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = you tom ! ”
+you	O
+tom	B-CHARACTER
+!	O
+”	O
+
+# id = litbank-0288
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = no tom .
+no	O
+tom	B-CHARACTER
+.	O
+
+# id = litbank-0289
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = so she lifted up her voice at an angle calculated for distance and shouted : “ y-o-u-u tom ! ”
+so	O
+she	O
+lifted	O
+up	O
+her	O
+voice	O
+at	O
+an	O
+angle	O
+calculated	O
+for	O
+distance	O
+and	O
+shouted	O
+:	O
+“	O
+y-o-u-u	O
+tom	B-CHARACTER
+!	O
+”	O
+
+# id = litbank-0290
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = his aunt polly stood surprised a moment , and then broke into a gentle laugh .
+his	O
+aunt	O
+polly	B-CHARACTER
+stood	O
+surprised	O
+a	O
+moment	O
+,	O
+and	O
+then	O
+broke	O
+into	O
+a	O
+gentle	O
+laugh	O
+.	O
+
+# id = litbank-0291
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = tom did play hookey , and he had a very good time .
+tom	B-CHARACTER
+did	O
+play	O
+hookey	O
+,	O
+and	O
+he	O
+had	O
+a	O
+very	O
+good	O
+time	O
+.	O
+
+# id = litbank-0292
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = he got back home barely in season to help jim , the small colored boy , saw next-day 's wood and split the kindlings before supper -- at least he was there in time to tell his adventures to jim while jim did three-fourths of the work .
+he	O
+got	O
+back	O
+home	O
+barely	O
+in	O
+season	O
+to	O
+help	O
+jim	B-CHARACTER
+,	O
+the	O
+small	O
+colored	O
+boy	O
+,	O
+saw	O
+next-day	O
+'s	O
+wood	O
+and	O
+split	O
+the	O
+kindlings	O
+before	O
+supper	O
+--	O
+at	O
+least	O
+he	O
+was	O
+there	O
+in	O
+time	O
+to	O
+tell	O
+his	O
+adventures	O
+to	O
+jim	B-CHARACTER
+while	O
+jim	B-CHARACTER
+did	O
+three-fourths	O
+of	O
+the	O
+work	O
+.	O
+
+# id = litbank-0293
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = tom 's younger brother ( or rather half-brother ) sid was already through with his part of the work ( picking up chips ) , for he was a quiet boy , and had no adventurous , trouble-some ways .
+tom	B-CHARACTER
+'s	O
+younger	O
+brother	O
+(	O
+or	O
+rather	O
+half-brother	O
+)	O
+sid	B-CHARACTER
+was	O
+already	O
+through	O
+with	O
+his	O
+part	O
+of	O
+the	O
+work	O
+(	O
+picking	O
+up	O
+chips	O
+)	O
+,	O
+for	O
+he	O
+was	O
+a	O
+quiet	O
+boy	O
+,	O
+and	O
+had	O
+no	O
+adventurous	O
+,	O
+trouble-some	O
+ways	O
+.	O
+
+# id = litbank-0294
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = while tom was eating his supper , and stealing sugar as opportunity offered , aunt polly asked him questions that were full of guile , and very deep -- for she wanted to trap him into damaging revealments .
+while	O
+tom	B-CHARACTER
+was	O
+eating	O
+his	O
+supper	O
+,	O
+and	O
+stealing	O
+sugar	O
+as	O
+opportunity	O
+offered	O
+,	O
+aunt	O
+polly	B-CHARACTER
+asked	O
+him	O
+questions	O
+that	O
+were	O
+full	O
+of	O
+guile	O
+,	O
+and	O
+very	O
+deep	O
+--	O
+for	O
+she	O
+wanted	O
+to	O
+trap	O
+him	O
+into	O
+damaging	O
+revealments	O
+.	O
+
+# id = litbank-0295
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = said she : “ tom , it was middling warm in school , war n't it ? ”
+said	O
+she	O
+:	O
+“	O
+tom	B-CHARACTER
+,	O
+it	O
+was	O
+middling	O
+warm	O
+in	O
+school	O
+,	O
+war	O
+n't	O
+it	O
+?	O
+”	O
+
+# id = litbank-0296
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = “ did n't you want to go in a-swimming , tom ? ”
+“	O
+did	O
+n't	O
+you	O
+want	O
+to	O
+go	O
+in	O
+a-swimming	O
+,	O
+tom	B-CHARACTER
+?	O
+”	O
+
+# id = litbank-0297
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = he searched aunt polly 's face , but it told him nothing .
+he	O
+searched	O
+aunt	O
+polly	B-CHARACTER
+'s	O
+face	O
+,	O
+but	O
+it	O
+told	O
+him	O
+nothing	O
+.	O
+
+# id = litbank-0298
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = the old lady reached out her hand and felt tom 's shirt , and said : “ but you ai n't too warm now , though . ”
+the	O
+old	O
+lady	O
+reached	O
+out	O
+her	O
+hand	O
+and	O
+felt	O
+tom	B-CHARACTER
+'s	O
+shirt	O
+,	O
+and	O
+said	O
+:	O
+“	O
+but	O
+you	O
+ai	O
+n't	O
+too	O
+warm	O
+now	O
+,	O
+though	O
+.	O
+”	O
+
+# id = litbank-0299
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = but in spite of her , tom knew where the wind lay , now .
+but	O
+in	O
+spite	O
+of	O
+her	O
+,	O
+tom	B-CHARACTER
+knew	O
+where	O
+the	O
+wind	O
+lay	O
+,	O
+now	O
+.	O
+
+# id = litbank-0300
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = aunt polly was vexed to think she had overlooked that bit of circumstantial evidence , and missed a trick .
+aunt	O
+polly	B-CHARACTER
+was	O
+vexed	O
+to	O
+think	O
+she	O
+had	O
+overlooked	O
+that	O
+bit	O
+of	O
+circumstantial	O
+evidence	O
+,	O
+and	O
+missed	O
+a	O
+trick	O
+.	O
+
+# id = litbank-0301
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = then she had a new inspiration : “ tom , you did n't have to undo your shirt collar where i sewed it , to pump on your head , did you ?
+then	O
+she	O
+had	O
+a	O
+new	O
+inspiration	O
+:	O
+“	O
+tom	B-CHARACTER
+,	O
+you	O
+did	O
+n't	O
+have	O
+to	O
+undo	O
+your	O
+shirt	O
+collar	O
+where	O
+i	O
+sewed	O
+it	O
+,	O
+to	O
+pump	O
+on	O
+your	O
+head	O
+,	O
+did	O
+you	O
+?	O
+
+# id = litbank-0302
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = the trouble vanished out of tom 's face .
+the	O
+trouble	O
+vanished	O
+out	O
+of	O
+tom	B-CHARACTER
+'s	O
+face	O
+.	O
+
+# id = litbank-0303
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = but i forgive ye , tom .
+but	O
+i	O
+forgive	O
+ye	O
+,	O
+tom	B-CHARACTER
+.	O
+
+# id = litbank-0304
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = she was half sorry her sagacity had miscarried , and half glad that tom had stumbled into obedient conduct for once .
+she	O
+was	O
+half	O
+sorry	O
+her	O
+sagacity	O
+had	O
+miscarried	O
+,	O
+and	O
+half	O
+glad	O
+that	O
+tom	B-CHARACTER
+had	O
+stumbled	O
+into	O
+obedient	O
+conduct	O
+for	O
+once	O
+.	O
+
+# id = litbank-0305
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = but sidney said : “ well , now , if i did n't think you sewed his collar with white thread , but it 's black . ”
+but	O
+sidney	B-CHARACTER
+said	O
+:	O
+“	O
+well	O
+,	O
+now	O
+,	O
+if	O
+i	O
+did	O
+n't	O
+think	O
+you	O
+sewed	O
+his	O
+collar	O
+with	O
+white	O
+thread	O
+,	O
+but	O
+it	O
+'s	O
+black	O
+.	O
+”	O
+
+# id = litbank-0306
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = tom ! ”
+tom	B-CHARACTER
+!	O
+”	O
+
+# id = litbank-0307
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = but tom did not wait for the rest .
+but	O
+tom	B-CHARACTER
+did	O
+not	O
+wait	O
+for	O
+the	O
+rest	O
+.	O
+
+# id = litbank-0308
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = as he went out at the door he said : “ siddy , i 'll lick you for that . ”
+as	O
+he	O
+went	O
+out	O
+at	O
+the	O
+door	O
+he	O
+said	O
+:	O
+“	O
+siddy	B-CHARACTER
+,	O
+i	O
+'ll	O
+lick	O
+you	O
+for	O
+that	O
+.	O
+”	O
+
+# id = litbank-0309
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = in a safe place tom examined two large needles which were thrust into the lapels of his jacket , and had thread bound about them -- one needle carried white thread and the other black .
+in	O
+a	O
+safe	O
+place	O
+tom	B-CHARACTER
+examined	O
+two	O
+large	O
+needles	O
+which	O
+were	O
+thrust	O
+into	O
+the	O
+lapels	O
+of	O
+his	O
+jacket	O
+,	O
+and	O
+had	O
+thread	O
+bound	O
+about	O
+them	O
+--	O
+one	O
+needle	O
+carried	O
+white	O
+thread	O
+and	O
+the	O
+other	O
+black	O
+.	O
+
+# id = litbank-0310
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = he said : “ she 'd never noticed if it had n't been for sid .
+he	O
+said	O
+:	O
+“	O
+she	O
+'d	O
+never	O
+noticed	O
+if	O
+it	O
+had	O
+n't	O
+been	O
+for	O
+sid	B-CHARACTER
+.	O
+
+# id = litbank-0311
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = but i bet you i 'll lam sid for that .
+but	O
+i	O
+bet	O
+you	O
+i	O
+'ll	O
+lam	O
+sid	B-CHARACTER
+for	O
+that	O
+.	O
+
+# id = litbank-0312
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = presently tom checked his whistle .
+presently	O
+tom	B-CHARACTER
+checked	O
+his	O
+whistle	O
+.	O
+
+# id = litbank-0313
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = he had a citified air about him that ate into tom 's vitals .
+he	O
+had	O
+a	O
+citified	O
+air	O
+about	O
+him	O
+that	O
+ate	O
+into	O
+tom	B-CHARACTER
+'s	O
+vitals	O
+.	O
+
+# id = litbank-0314
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = the more tom stared at the splendid marvel , the higher he turned up his nose at his finery and the shabbier and shabbier his own outfit seemed to him to grow .
+the	O
+more	O
+tom	B-CHARACTER
+stared	O
+at	O
+the	O
+splendid	O
+marvel	O
+,	O
+the	O
+higher	O
+he	O
+turned	O
+up	O
+his	O
+nose	O
+at	O
+his	O
+finery	O
+and	O
+the	O
+shabbier	O
+and	O
+shabbier	O
+his	O
+own	O
+outfit	O
+seemed	O
+to	O
+him	O
+to	O
+grow	O
+.	O
+
+# id = litbank-0315
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = finally tom said : “ i can lick you ! ”
+finally	O
+tom	B-CHARACTER
+said	O
+:	O
+“	O
+i	O
+can	O
+lick	O
+you	O
+!	O
+”	O
+
+# id = litbank-0282
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = “ what 's gone with that boy , i wonder ?
+“	O
+what	O
+'s	O
+gone	O
+with	O
+that	O
+boy	O
+,	O
+i	O
+wonder	O
+?	O
+
+# id = litbank-0284
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = the old lady pulled her spectacles down and looked over them about the room ; then she put them up and looked out under them .
+the	O
+old	O
+lady	O
+pulled	O
+her	O
+spectacles	O
+down	O
+and	O
+looked	O
+over	O
+them	O
+about	O
+the	O
+room	O
+;	O
+then	O
+she	O
+put	O
+them	O
+up	O
+and	O
+looked	O
+out	O
+under	O
+them	O
+.	O
+
+# id = litbank-0285
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = she seldom or never looked _ through _ them for so small a thing as a boy ; they were her state pair , the pride of her heart , and were built for “ style , ” not service -- she could have seen through a pair of stove-lids just as well .
+she	O
+seldom	O
+or	O
+never	O
+looked	O
+_	O
+through	O
+_	O
+them	O
+for	O
+so	O
+small	O
+a	O
+thing	O
+as	O
+a	O
+boy	O
+;	O
+they	O
+were	O
+her	O
+state	O
+pair	O
+,	O
+the	O
+pride	O
+of	O
+her	O
+heart	O
+,	O
+and	O
+were	O
+built	O
+for	O
+“	O
+style	O
+,	O
+”	O
+not	O
+service	O
+--	O
+she	O
+could	O
+have	O
+seen	O
+through	O
+a	O
+pair	O
+of	O
+stove-lids	O
+just	O
+as	O
+well	O
+.	O
+
+# id = litbank-0286
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = she looked perplexed for a moment , and then said , not fiercely , but still loud enough for the furniture to hear : “ well , i lay if i get hold of you i 'll -- ” she did not finish , for by this time she was bending down and punching under the bed with the broom , and so she needed breath to punctuate the punches with .
+she	O
+looked	O
+perplexed	O
+for	O
+a	O
+moment	O
+,	O
+and	O
+then	O
+said	O
+,	O
+not	O
+fiercely	O
+,	O
+but	O
+still	O
+loud	O
+enough	O
+for	O
+the	O
+furniture	O
+to	O
+hear	O
+:	O
+“	O
+well	O
+,	O
+i	O
+lay	O
+if	O
+i	O
+get	O
+hold	O
+of	O
+you	O
+i	O
+'ll	O
+--	O
+”	O
+she	O
+did	O
+not	O
+finish	O
+,	O
+for	O
+by	O
+this	O
+time	O
+she	O
+was	O
+bending	O
+down	O
+and	O
+punching	O
+under	O
+the	O
+bed	O
+with	O
+the	O
+broom	O
+,	O
+and	O
+so	O
+she	O
+needed	O
+breath	O
+to	O
+punctuate	O
+the	O
+punches	O
+with	O
+.	O
+
+# id = litbank-0287
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = “ i never did see the beat of that boy ! ”
+“	O
+i	O
+never	O
+did	O
+see	O
+the	O
+beat	O
+of	O
+that	O
+boy	O
+!	O
+”	O
+

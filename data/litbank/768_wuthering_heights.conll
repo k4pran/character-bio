@@ -1,0 +1,699 @@
+# id = litbank-1249
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = a perfect misanthropist 's heaven : and mr. heathcliff and i are such a suitable pair to divide the desolation between us .
+a	O
+perfect	O
+misanthropist	O
+'s	O
+heaven	O
+:	O
+and	O
+mr.	B-CHARACTER
+heathcliff	I-CHARACTER
+and	O
+i	O
+are	O
+such	O
+a	O
+suitable	O
+pair	O
+to	O
+divide	O
+the	O
+desolation	O
+between	O
+us	O
+.	O
+
+# id = litbank-1251
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = ' mr. heathcliff ? '
+'	O
+mr.	B-CHARACTER
+heathcliff	I-CHARACTER
+?	O
+'	O
+
+# id = litbank-1252
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = ' mr. lockwood , your new tenant , sir .
+'	O
+mr.	B-CHARACTER
+lockwood	I-CHARACTER
+,	O
+your	O
+new	O
+tenant	O
+,	O
+sir	O
+.	O
+
+# id = litbank-1255
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = when he saw my horse 's breast fairly pushing the barrier , he did put out his hand to unchain it , and then sullenly preceded me up the causeway , calling , as we entered the court , -- ' joseph , take mr. lockwood 's horse ; and bring up some wine . '
+when	O
+he	O
+saw	O
+my	O
+horse	O
+'s	O
+breast	O
+fairly	O
+pushing	O
+the	O
+barrier	O
+,	O
+he	O
+did	O
+put	O
+out	O
+his	O
+hand	O
+to	O
+unchain	O
+it	O
+,	O
+and	O
+then	O
+sullenly	O
+preceded	O
+me	O
+up	O
+the	O
+causeway	O
+,	O
+calling	O
+,	O
+as	O
+we	O
+entered	O
+the	O
+court	O
+,	O
+--	O
+'	O
+joseph	B-CHARACTER
+,	O
+take	O
+mr.	B-CHARACTER
+lockwood	I-CHARACTER
+'s	O
+horse	O
+;	O
+and	O
+bring	O
+up	O
+some	O
+wine	O
+.	O
+'	O
+
+# id = litbank-1256
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = joseph was an elderly , nay , an old man : very old , perhaps , though hale and sinewy .
+joseph	B-CHARACTER
+was	O
+an	O
+elderly	O
+,	O
+nay	O
+,	O
+an	O
+old	O
+man	O
+:	O
+very	O
+old	O
+,	O
+perhaps	O
+,	O
+though	O
+hale	O
+and	O
+sinewy	O
+.	O
+
+# id = litbank-1257
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = wuthering heights is the name of mr. heathcliff 's dwelling .
+wuthering	O
+heights	O
+is	O
+the	O
+name	O
+of	O
+mr.	B-CHARACTER
+heathcliff	I-CHARACTER
+'s	O
+dwelling	O
+.	O
+
+# id = litbank-1258
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = before passing the threshold , i paused to admire a quantity of grotesque carving lavished over the front , and especially about the principal door ; above which , among a wilderness of crumbling griffins and shameless little boys , i detected the date ' 1500 , ' and the name ' hareton earnshaw . '
+before	O
+passing	O
+the	O
+threshold	O
+,	O
+i	O
+paused	O
+to	O
+admire	O
+a	O
+quantity	O
+of	O
+grotesque	O
+carving	O
+lavished	O
+over	O
+the	O
+front	O
+,	O
+and	O
+especially	O
+about	O
+the	O
+principal	O
+door	O
+;	O
+above	O
+which	O
+,	O
+among	O
+a	O
+wilderness	O
+of	O
+crumbling	O
+griffins	O
+and	O
+shameless	O
+little	O
+boys	O
+,	O
+i	O
+detected	O
+the	O
+date	O
+'	O
+1500	O
+,	O
+'	O
+and	O
+the	O
+name	O
+'	O
+hareton	B-CHARACTER
+earnshaw	I-CHARACTER
+.	O
+'	O
+
+# id = litbank-1259
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = but mr. heathcliff forms a singular contrast to his abode and style of living .
+but	O
+mr.	B-CHARACTER
+heathcliff	I-CHARACTER
+forms	O
+a	O
+singular	O
+contrast	O
+to	O
+his	O
+abode	O
+and	O
+style	O
+of	O
+living	O
+.	O
+
+# id = litbank-1260
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = mr. heathcliff may have entirely dissimilar reasons for keeping his hand out of the way when he meets a would-be acquaintance , to those which actuate me .
+mr.	B-CHARACTER
+heathcliff	I-CHARACTER
+may	O
+have	O
+entirely	O
+dissimilar	O
+reasons	O
+for	O
+keeping	O
+his	O
+hand	O
+out	O
+of	O
+the	O
+way	O
+when	O
+he	O
+meets	O
+a	O
+would-be	O
+acquaintance	O
+,	O
+to	O
+those	O
+which	O
+actuate	O
+me	O
+.	O
+
+# id = litbank-1261
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = ' you 'd better let the dog alone , ' growled mr. heathcliff in unison , checking fiercer demonstrations with a punch of his foot .
+'	O
+you	O
+'d	O
+better	O
+let	O
+the	O
+dog	O
+alone	O
+,	O
+'	O
+growled	O
+mr.	B-CHARACTER
+heathcliff	I-CHARACTER
+in	O
+unison	O
+,	O
+checking	O
+fiercer	O
+demonstrations	O
+with	O
+a	O
+punch	O
+of	O
+his	O
+foot	O
+.	O
+
+# id = litbank-1262
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = then , striding to a side door , he shouted again , ' joseph ! '
+then	O
+,	O
+striding	O
+to	O
+a	O
+side	O
+door	O
+,	O
+he	O
+shouted	O
+again	O
+,	O
+'	O
+joseph	B-CHARACTER
+!	O
+'	O
+
+# id = litbank-1263
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = joseph mumbled indistinctly in the depths of the cellar , but gave no intimation of ascending ; so his master dived down to him , leaving me _ vis-a-vis _ the ruffianly bitch and a pair of grim shaggy sheep-dogs , who shared with her a jealous guardianship over all my movements .
+joseph	B-CHARACTER
+mumbled	O
+indistinctly	O
+in	O
+the	O
+depths	O
+of	O
+the	O
+cellar	O
+,	O
+but	O
+gave	O
+no	O
+intimation	O
+of	O
+ascending	O
+;	O
+so	O
+his	O
+master	O
+dived	O
+down	O
+to	O
+him	O
+,	O
+leaving	O
+me	O
+_	O
+vis-a-vis	O
+_	O
+the	O
+ruffianly	O
+bitch	O
+and	O
+a	O
+pair	O
+of	O
+grim	O
+shaggy	O
+sheep-dogs	O
+,	O
+who	O
+shared	O
+with	O
+her	O
+a	O
+jealous	O
+guardianship	O
+over	O
+all	O
+my	O
+movements	O
+.	O
+
+# id = litbank-1264
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = mr. heathcliff and his man climbed the cellar steps with vexatious phlegm : i do n't think they moved one second faster than usual , though the hearth was an absolute tempest of worrying and yelping .
+mr.	B-CHARACTER
+heathcliff	I-CHARACTER
+and	O
+his	O
+man	O
+climbed	O
+the	O
+cellar	O
+steps	O
+with	O
+vexatious	O
+phlegm	O
+:	O
+i	O
+do	O
+n't	O
+think	O
+they	O
+moved	O
+one	O
+second	O
+faster	O
+than	O
+usual	O
+,	O
+though	O
+the	O
+hearth	O
+was	O
+an	O
+absolute	O
+tempest	O
+of	O
+worrying	O
+and	O
+yelping	O
+.	O
+
+# id = litbank-1247
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = -- i have just returned from a visit to my landlord -- the solitary neighbour that i shall be troubled with .
+--	O
+i	O
+have	O
+just	O
+returned	O
+from	O
+a	O
+visit	O
+to	O
+my	O
+landlord	O
+--	O
+the	O
+solitary	O
+neighbour	O
+that	O
+i	O
+shall	O
+be	O
+troubled	O
+with	O
+.	O
+
+# id = litbank-1248
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = in all england , i do not believe that i could have fixed on a situation so completely removed from the stir of society .
+in	O
+all	O
+england	O
+,	O
+i	O
+do	O
+not	O
+believe	O
+that	O
+i	O
+could	O
+have	O
+fixed	O
+on	O
+a	O
+situation	O
+so	O
+completely	O
+removed	O
+from	O
+the	O
+stir	O
+of	O
+society	O
+.	O
+
+# id = litbank-1250
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = he little imagined how my heart warmed towards him when i beheld his black eyes withdraw so suspiciously under their brows , as i rode up , and when his fingers sheltered themselves , with a jealous resolution , still further in his waistcoat , as i announced my name .
+he	O
+little	O
+imagined	O
+how	O
+my	O
+heart	O
+warmed	O
+towards	O
+him	O
+when	O
+i	O
+beheld	O
+his	O
+black	O
+eyes	O
+withdraw	O
+so	O
+suspiciously	O
+under	O
+their	O
+brows	O
+,	O
+as	O
+i	O
+rode	O
+up	O
+,	O
+and	O
+when	O
+his	O
+fingers	O
+sheltered	O
+themselves	O
+,	O
+with	O
+a	O
+jealous	O
+resolution	O
+,	O
+still	O
+further	O
+in	O
+his	O
+waistcoat	O
+,	O
+as	O
+i	O
+announced	O
+my	O
+name	O
+.	O
+
+# id = litbank-1253
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = i do myself the honour of calling as soon as possible after my arrival , to express the hope that i have not inconvenienced you by my perseverance in soliciting the occupation of thrushcross grange : i heard yesterday you had had some thoughts -- ' ' thrushcross grange is my own , sir , ' he interrupted , wincing . '
+i	O
+do	O
+myself	O
+the	O
+honour	O
+of	O
+calling	O
+as	O
+soon	O
+as	O
+possible	O
+after	O
+my	O
+arrival	O
+,	O
+to	O
+express	O
+the	O
+hope	O
+that	O
+i	O
+have	O
+not	O
+inconvenienced	O
+you	O
+by	O
+my	O
+perseverance	O
+in	O
+soliciting	O
+the	O
+occupation	O
+of	O
+thrushcross	O
+grange	O
+:	O
+i	O
+heard	O
+yesterday	O
+you	O
+had	O
+had	O
+some	O
+thoughts	O
+--	O
+'	O
+'	O
+thrushcross	O
+grange	O
+is	O
+my	O
+own	O
+,	O
+sir	O
+,	O
+'	O
+he	O
+interrupted	O
+,	O
+wincing	O
+.	O
+'	O
+
+# id = litbank-1254
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = i should not allow any one to inconvenience me , if i could hinder it -- walk in ! '
+i	O
+should	O
+not	O
+allow	O
+any	O
+one	O
+to	O
+inconvenience	O
+me	O
+,	O
+if	O
+i	O
+could	O
+hinder	O
+it	O
+--	O
+walk	O
+in	O
+!	O
+'	O
+

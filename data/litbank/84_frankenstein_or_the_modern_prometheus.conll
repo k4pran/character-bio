@@ -1,0 +1,519 @@
+# id = litbank-0378
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = letter 1 st. petersburgh , dec. 11th , 17 -- to mrs. saville , england you will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings .
+letter	O
+1	O
+st.	O
+petersburgh	O
+,	O
+dec.	O
+11th	O
+,	O
+17	O
+--	O
+to	O
+mrs.	B-CHARACTER
+saville	I-CHARACTER
+,	O
+england	O
+you	O
+will	O
+rejoice	O
+to	O
+hear	O
+that	O
+no	O
+disaster	O
+has	O
+accompanied	O
+the	O
+commencement	O
+of	O
+an	O
+enterprise	O
+which	O
+you	O
+have	O
+regarded	O
+with	O
+such	O
+evil	O
+forebodings	O
+.	O
+
+# id = litbank-0384
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = there , margaret , the sun is forever visible , its broad disk just skirting the horizon and diffusing a perpetual splendour .
+there	O
+,	O
+margaret	B-CHARACTER
+,	O
+the	O
+sun	O
+is	O
+forever	O
+visible	O
+,	O
+its	O
+broad	O
+disk	O
+just	O
+skirting	O
+the	O
+horizon	O
+and	O
+diffusing	O
+a	O
+perpetual	O
+splendour	O
+.	O
+
+# id = litbank-0385
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = you may remember that a history of all the voyages made for purposes of discovery composed the whole of our good uncle thomas ' library .
+you	O
+may	O
+remember	O
+that	O
+a	O
+history	O
+of	O
+all	O
+the	O
+voyages	O
+made	O
+for	O
+purposes	O
+of	O
+discovery	O
+composed	O
+the	O
+whole	O
+of	O
+our	O
+good	O
+uncle	B-CHARACTER
+thomas	I-CHARACTER
+'	O
+library	O
+.	O
+
+# id = litbank-0386
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = and now , dear margaret , do i not deserve to accomplish some great purpose ?
+and	O
+now	O
+,	O
+dear	O
+margaret	B-CHARACTER
+,	O
+do	O
+i	O
+not	O
+deserve	O
+to	O
+accomplish	O
+some	O
+great	O
+purpose	O
+?	O
+
+# id = litbank-0387
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = farewell , my dear , excellent margaret .
+farewell	O
+,	O
+my	O
+dear	O
+,	O
+excellent	O
+margaret	B-CHARACTER
+.	O
+
+# id = litbank-0388
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = your affectionate brother , r. walton letter 2 archangel , 28th march , 17 -- to mrs. saville , england how slowly the time passes here , encompassed as i am by frost and snow !
+your	O
+affectionate	O
+brother	O
+,	O
+r.	B-CHARACTER
+walton	I-CHARACTER
+letter	O
+2	O
+archangel	O
+,	O
+28th	O
+march	O
+,	O
+17	O
+--	O
+to	O
+mrs.	B-CHARACTER
+saville	I-CHARACTER
+,	O
+england	O
+how	O
+slowly	O
+the	O
+time	O
+passes	O
+here	O
+,	O
+encompassed	O
+as	O
+i	O
+am	O
+by	O
+frost	O
+and	O
+snow	O
+!	O
+
+# id = litbank-0389
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = but i have one want which i have never yet been able to satisfy , and the absence of the object of which i now feel as a most severe evil , i have no friend , margaret : when i am glowing with the enthusiasm of success , there will be none to participate my joy ; if i am assailed by disappointment , no one will endeavour to sustain me in dejection .
+but	O
+i	O
+have	O
+one	O
+want	O
+which	O
+i	O
+have	O
+never	O
+yet	O
+been	O
+able	O
+to	O
+satisfy	O
+,	O
+and	O
+the	O
+absence	O
+of	O
+the	O
+object	O
+of	O
+which	O
+i	O
+now	O
+feel	O
+as	O
+a	O
+most	O
+severe	O
+evil	O
+,	O
+i	O
+have	O
+no	O
+friend	O
+,	O
+margaret	B-CHARACTER
+:	O
+when	O
+i	O
+am	O
+glowing	O
+with	O
+the	O
+enthusiasm	O
+of	O
+success	O
+,	O
+there	O
+will	O
+be	O
+none	O
+to	O
+participate	O
+my	O
+joy	O
+;	O
+if	O
+i	O
+am	O
+assailed	O
+by	O
+disappointment	O
+,	O
+no	O
+one	O
+will	O
+endeavour	O
+to	O
+sustain	O
+me	O
+in	O
+dejection	O
+.	O
+
+# id = litbank-0390
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = but it is a still greater evil to me that i am self-educated : for the first fourteen years of my life i ran wild on a common and read nothing but our uncle thomas ' books of voyages .
+but	O
+it	O
+is	O
+a	O
+still	O
+greater	O
+evil	O
+to	O
+me	O
+that	O
+i	O
+am	O
+self-educated	O
+:	O
+for	O
+the	O
+first	O
+fourteen	O
+years	O
+of	O
+my	O
+life	O
+i	O
+ran	O
+wild	O
+on	O
+a	O
+common	O
+and	O
+read	O
+nothing	O
+but	O
+our	O
+uncle	O
+thomas	B-CHARACTER
+'	O
+books	O
+of	O
+voyages	O
+.	O
+
+# id = litbank-0379
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = i arrived here yesterday , and my first task is to assure my dear sister of my welfare and increasing confidence in the success of my undertaking .
+i	O
+arrived	O
+here	O
+yesterday	O
+,	O
+and	O
+my	O
+first	O
+task	O
+is	O
+to	O
+assure	O
+my	O
+dear	O
+sister	O
+of	O
+my	O
+welfare	O
+and	O
+increasing	O
+confidence	O
+in	O
+the	O
+success	O
+of	O
+my	O
+undertaking	O
+.	O
+
+# id = litbank-0380
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = i am already far north of london , and as i walk in the streets of petersburgh , i feel a cold northern breeze play upon my cheeks , which braces my nerves and fills me with delight .
+i	O
+am	O
+already	O
+far	O
+north	O
+of	O
+london	O
+,	O
+and	O
+as	O
+i	O
+walk	O
+in	O
+the	O
+streets	O
+of	O
+petersburgh	O
+,	O
+i	O
+feel	O
+a	O
+cold	O
+northern	O
+breeze	O
+play	O
+upon	O
+my	O
+cheeks	O
+,	O
+which	O
+braces	O
+my	O
+nerves	O
+and	O
+fills	O
+me	O
+with	O
+delight	O
+.	O
+
+# id = litbank-0381
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = this breeze , which has travelled from the regions towards which i am advancing , gives me a foretaste of those icy climes .
+this	O
+breeze	O
+,	O
+which	O
+has	O
+travelled	O
+from	O
+the	O
+regions	O
+towards	O
+which	O
+i	O
+am	O
+advancing	O
+,	O
+gives	O
+me	O
+a	O
+foretaste	O
+of	O
+those	O
+icy	O
+climes	O
+.	O
+
+# id = litbank-0382
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = inspirited by this wind of promise , my daydreams become more fervent and vivid .
+inspirited	O
+by	O
+this	O
+wind	O
+of	O
+promise	O
+,	O
+my	O
+daydreams	O
+become	O
+more	O
+fervent	O
+and	O
+vivid	O
+.	O
+
+# id = litbank-0383
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = i try in vain to be persuaded that the pole is the seat of frost and desolation ; it ever presents itself to my imagination as the region of beauty and delight .
+i	O
+try	O
+in	O
+vain	O
+to	O
+be	O
+persuaded	O
+that	O
+the	O
+pole	O
+is	O
+the	O
+seat	O
+of	O
+frost	O
+and	O
+desolation	O
+;	O
+it	O
+ever	O
+presents	O
+itself	O
+to	O
+my	O
+imagination	O
+as	O
+the	O
+region	O
+of	O
+beauty	O
+and	O
+delight	O
+.	O
+

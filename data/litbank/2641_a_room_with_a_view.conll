@@ -1,0 +1,1297 @@
+# id = litbank-1776
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = part one chapter i : the bertolini “ the signora had no business to do it , ” said miss bartlett , “ no business at all .
+part	O
+one	O
+chapter	O
+i	O
+:	O
+the	O
+bertolini	O
+“	O
+the	O
+signora	O
+had	O
+no	O
+business	O
+to	O
+do	O
+it	O
+,	O
+”	O
+said	O
+miss	B-CHARACTER
+bartlett	I-CHARACTER
+,	O
+“	O
+no	O
+business	O
+at	O
+all	O
+.	O
+
+# id = litbank-1779
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = said lucy , who had been further saddened by the signora ’s unexpected accent .
+said	O
+lucy	B-CHARACTER
+,	O
+who	O
+had	O
+been	O
+further	O
+saddened	O
+by	O
+the	O
+signora	O
+’s	O
+unexpected	O
+accent	O
+.	O
+
+# id = litbank-1780
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = she looked at the two rows of english people who were sitting at the table ; at the row of white bottles of water and red bottles of wine that ran between the english people ; at the portraits of the late queen and the late poet laureate that hung behind the english people , heavily framed ; at the notice of the english church ( rev. cuthbert eager , m. a. oxon . )
+she	O
+looked	O
+at	O
+the	O
+two	O
+rows	O
+of	O
+english	O
+people	O
+who	O
+were	O
+sitting	O
+at	O
+the	O
+table	O
+;	O
+at	O
+the	O
+row	O
+of	O
+white	O
+bottles	O
+of	O
+water	O
+and	O
+red	O
+bottles	O
+of	O
+wine	O
+that	O
+ran	O
+between	O
+the	O
+english	O
+people	O
+;	O
+at	O
+the	O
+portraits	O
+of	O
+the	O
+late	O
+queen	O
+and	O
+the	O
+late	O
+poet	O
+laureate	O
+that	O
+hung	O
+behind	O
+the	O
+english	O
+people	O
+,	O
+heavily	O
+framed	O
+;	O
+at	O
+the	O
+notice	O
+of	O
+the	O
+english	O
+church	O
+(	O
+rev.	B-CHARACTER
+cuthbert	I-CHARACTER
+eager	I-CHARACTER
+,	O
+m.	O
+a.	O
+oxon	O
+.	O
+)	O
+
+# id = litbank-1782
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = “ charlotte , do n’t you feel , too , that we might be in london ?
+“	O
+charlotte	B-CHARACTER
+,	O
+do	O
+n’t	O
+you	O
+feel	O
+,	O
+too	O
+,	O
+that	O
+we	O
+might	O
+be	O
+in	O
+london	O
+?	O
+
+# id = litbank-1785
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = “ this meat has surely been used for soup , ” said miss bartlett , laying down her fork .
+“	O
+this	O
+meat	O
+has	O
+surely	O
+been	O
+used	O
+for	O
+soup	O
+,	O
+”	O
+said	O
+miss	B-CHARACTER
+bartlett	I-CHARACTER
+,	O
+laying	O
+down	O
+her	O
+fork	O
+.	O
+
+# id = litbank-1786
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = “ any nook does for me , ” miss bartlett continued ; “ but it does seem hard that you should n’t have a view . ”
+“	O
+any	O
+nook	O
+does	O
+for	O
+me	O
+,	O
+”	O
+miss	B-CHARACTER
+bartlett	I-CHARACTER
+continued	O
+;	O
+“	O
+but	O
+it	O
+does	O
+seem	O
+hard	O
+that	O
+you	O
+should	O
+n’t	O
+have	O
+a	O
+view	O
+.	O
+”	O
+
+# id = litbank-1787
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = lucy felt that she had been selfish .
+lucy	B-CHARACTER
+felt	O
+that	O
+she	O
+had	O
+been	O
+selfish	O
+.	O
+
+# id = litbank-1788
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = “ charlotte , you must n’t spoil me : of course , you must look over the arno , too .
+“	O
+charlotte	B-CHARACTER
+,	O
+you	O
+must	O
+n’t	O
+spoil	O
+me	O
+:	O
+of	O
+course	O
+,	O
+you	O
+must	O
+look	O
+over	O
+the	O
+arno	O
+,	O
+too	O
+.	O
+
+# id = litbank-1789
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = the first vacant room in the front -- ” “ you must have it , ” said miss bartlett , part of whose travelling expenses were paid by lucy ’s mother -- a piece of generosity to which she made many a tactful allusion .
+the	O
+first	O
+vacant	O
+room	O
+in	O
+the	O
+front	O
+--	O
+”	O
+“	O
+you	O
+must	O
+have	O
+it	O
+,	O
+”	O
+said	O
+miss	B-CHARACTER
+bartlett	I-CHARACTER
+,	O
+part	O
+of	O
+whose	O
+travelling	O
+expenses	O
+were	O
+paid	O
+by	O
+lucy	B-CHARACTER
+’s	O
+mother	O
+--	O
+a	O
+piece	O
+of	O
+generosity	O
+to	O
+which	O
+she	O
+made	O
+many	O
+a	O
+tactful	O
+allusion	O
+.	O
+
+# id = litbank-1790
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = your mother would never forgive me , lucy . ”
+your	O
+mother	O
+would	O
+never	O
+forgive	O
+me	O
+,	O
+lucy	B-CHARACTER
+.	O
+”	O
+
+# id = litbank-1791
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = miss bartlett was startled .
+miss	B-CHARACTER
+bartlett	I-CHARACTER
+was	O
+startled	O
+.	O
+
+# id = litbank-1792
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = what exactly it was miss bartlett did not stop to consider , for her glance passed on to his clothes .
+what	O
+exactly	O
+it	O
+was	O
+miss	B-CHARACTER
+bartlett	I-CHARACTER
+did	O
+not	O
+stop	O
+to	O
+consider	O
+,	O
+for	O
+her	O
+glance	O
+passed	O
+on	O
+to	O
+his	O
+clothes	O
+.	O
+
+# id = litbank-1793
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = “ this is my son , ” said the old man ; “ his name ’s george .
+“	O
+this	O
+is	O
+my	O
+son	O
+,	O
+”	O
+said	O
+the	O
+old	O
+man	O
+;	O
+“	O
+his	O
+name	O
+’s	O
+george	B-CHARACTER
+.	O
+
+# id = litbank-1794
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = “ ah , ” said miss bartlett , repressing lucy , who was about to speak .
+“	O
+ah	O
+,	O
+”	O
+said	O
+miss	B-CHARACTER
+bartlett	I-CHARACTER
+,	O
+repressing	O
+lucy	B-CHARACTER
+,	O
+who	O
+was	O
+about	O
+to	O
+speak	O
+.	O
+
+# id = litbank-1795
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = miss bartlett , in reply , opened her mouth as little as possible , and said “ thank you very much indeed ; that is out of the question . ”
+miss	B-CHARACTER
+bartlett	I-CHARACTER
+,	O
+in	O
+reply	O
+,	O
+opened	O
+her	O
+mouth	O
+as	O
+little	O
+as	O
+possible	O
+,	O
+and	O
+said	O
+“	O
+thank	O
+you	O
+very	O
+much	O
+indeed	O
+;	O
+that	O
+is	O
+out	O
+of	O
+the	O
+question	O
+.	O
+”	O
+
+# id = litbank-1796
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = “ you see , we do n’t like to take -- ” began lucy .
+“	O
+you	O
+see	O
+,	O
+we	O
+do	O
+n’t	O
+like	O
+to	O
+take	O
+--	O
+”	O
+began	O
+lucy	B-CHARACTER
+.	O
+
+# id = litbank-1797
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = and he thumped with his fists like a naughty child , and turned to his son , saying , “ george , persuade them ! ”
+and	O
+he	O
+thumped	O
+with	O
+his	O
+fists	O
+like	O
+a	O
+naughty	O
+child	O
+,	O
+and	O
+turned	O
+to	O
+his	O
+son	O
+,	O
+saying	O
+,	O
+“	O
+george	B-CHARACTER
+,	O
+persuade	O
+them	O
+!	O
+”	O
+
+# id = litbank-1798
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = lucy , too , was perplexed ; but she saw that they were in for what is known as “ quite a scene , ” and she had an odd feeling that whenever these ill-bred tourists spoke the contest widened and deepened till it dealt , not with rooms and views , but with -- well , with something quite different , whose existence she had not realized before .
+lucy	B-CHARACTER
+,	O
+too	O
+,	O
+was	O
+perplexed	O
+;	O
+but	O
+she	O
+saw	O
+that	O
+they	O
+were	O
+in	O
+for	O
+what	O
+is	O
+known	O
+as	O
+“	O
+quite	O
+a	O
+scene	O
+,	O
+”	O
+and	O
+she	O
+had	O
+an	O
+odd	O
+feeling	O
+that	O
+whenever	O
+these	O
+ill-bred	O
+tourists	O
+spoke	O
+the	O
+contest	O
+widened	O
+and	O
+deepened	O
+till	O
+it	O
+dealt	O
+,	O
+not	O
+with	O
+rooms	O
+and	O
+views	O
+,	O
+but	O
+with	O
+--	O
+well	O
+,	O
+with	O
+something	O
+quite	O
+different	O
+,	O
+whose	O
+existence	O
+she	O
+had	O
+not	O
+realized	O
+before	O
+.	O
+
+# id = litbank-1799
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = now the old man attacked miss bartlett almost violently : why should she not change ?
+now	O
+the	O
+old	O
+man	O
+attacked	O
+miss	B-CHARACTER
+bartlett	I-CHARACTER
+almost	O
+violently	O
+:	O
+why	O
+should	O
+she	O
+not	O
+change	O
+?	O
+
+# id = litbank-1800
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = miss bartlett , though skilled in the delicacies of conversation , was powerless in the presence of brutality .
+miss	B-CHARACTER
+bartlett	I-CHARACTER
+,	O
+though	O
+skilled	O
+in	O
+the	O
+delicacies	O
+of	O
+conversation	O
+,	O
+was	O
+powerless	O
+in	O
+the	O
+presence	O
+of	O
+brutality	O
+.	O
+
+# id = litbank-1801
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = “ eat your dinner , dear , ” she said to lucy , and began to toy again with the meat that she had once censured .
+“	O
+eat	O
+your	O
+dinner	O
+,	O
+dear	O
+,	O
+”	O
+she	O
+said	O
+to	O
+lucy	B-CHARACTER
+,	O
+and	O
+began	O
+to	O
+toy	O
+again	O
+with	O
+the	O
+meat	O
+that	O
+she	O
+had	O
+once	O
+censured	O
+.	O
+
+# id = litbank-1802
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = lucy mumbled that those seemed very odd people opposite .
+lucy	B-CHARACTER
+mumbled	O
+that	O
+those	O
+seemed	O
+very	O
+odd	O
+people	O
+opposite	O
+.	O
+
+# id = litbank-1803
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = lucy , who had not yet acquired decency , at once rose to her feet , exclaiming : “ oh , oh !
+lucy	B-CHARACTER
+,	O
+who	O
+had	O
+not	O
+yet	O
+acquired	O
+decency	O
+,	O
+at	O
+once	O
+rose	O
+to	O
+her	O
+feet	O
+,	O
+exclaiming	O
+:	O
+“	O
+oh	O
+,	O
+oh	O
+!	O
+
+# id = litbank-1804
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = why , it ’s mr. beebe !
+why	O
+,	O
+it	O
+’s	O
+mr.	B-CHARACTER
+beebe	I-CHARACTER
+!	O
+
+# id = litbank-1805
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = oh , charlotte , we must stop now , however bad the rooms are .
+oh	O
+,	O
+charlotte	B-CHARACTER
+,	O
+we	O
+must	O
+stop	O
+now	O
+,	O
+however	O
+bad	O
+the	O
+rooms	O
+are	O
+.	O
+
+# id = litbank-1806
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = miss bartlett said , with more restraint : “ how do you do , mr. beebe ?
+miss	B-CHARACTER
+bartlett	I-CHARACTER
+said	O
+,	O
+with	O
+more	O
+restraint	O
+:	O
+“	O
+how	O
+do	O
+you	O
+do	O
+,	O
+mr.	B-CHARACTER
+beebe	I-CHARACTER
+?	O
+
+# id = litbank-1807
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = i expect that you have forgotten us : miss bartlett and miss honeychurch , who were at tunbridge wells when you helped the vicar of st. peter ’s that very cold easter . ”
+i	O
+expect	O
+that	O
+you	O
+have	O
+forgotten	O
+us	O
+:	O
+miss	B-CHARACTER
+bartlett	I-CHARACTER
+and	O
+miss	B-CHARACTER
+honeychurch	I-CHARACTER
+,	O
+who	O
+were	O
+at	O
+tunbridge	O
+wells	O
+when	O
+you	O
+helped	O
+the	O
+vicar	O
+of	O
+st.	O
+peter	O
+’s	O
+that	O
+very	O
+cold	O
+easter	O
+.	O
+”	O
+
+# id = litbank-1808
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = but he came forward pleasantly enough and accepted the chair into which he was beckoned by lucy .
+but	O
+he	O
+came	O
+forward	O
+pleasantly	O
+enough	O
+and	O
+accepted	O
+the	O
+chair	O
+into	O
+which	O
+he	O
+was	O
+beckoned	O
+by	O
+lucy	B-CHARACTER
+.	O
+
+# id = litbank-1809
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = “ miss honeychurch lives in the parish of summer street , ” said miss bartlett , filling up the gap , “ and she happened to tell me in the course of conversation that you have just accepted the living -- ” “ yes , i heard from mother so last week .
+“	O
+miss	B-CHARACTER
+honeychurch	I-CHARACTER
+lives	O
+in	O
+the	O
+parish	O
+of	O
+summer	O
+street	O
+,	O
+”	O
+said	O
+miss	B-CHARACTER
+bartlett	I-CHARACTER
+,	O
+filling	O
+up	O
+the	O
+gap	O
+,	O
+“	O
+and	O
+she	O
+happened	O
+to	O
+tell	O
+me	O
+in	O
+the	O
+course	O
+of	O
+conversation	O
+that	O
+you	O
+have	O
+just	O
+accepted	O
+the	O
+living	O
+--	O
+”	O
+“	O
+yes	O
+,	O
+i	O
+heard	O
+from	O
+mother	O
+so	O
+last	O
+week	O
+.	O
+
+# id = litbank-1810
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = she did n’t know that i knew you at tunbridge wells ; but i wrote back at once , and i said : ‘ mr. beebe is -- ’” “ quite right , ” said the clergyman .
+she	O
+did	O
+n’t	O
+know	O
+that	O
+i	O
+knew	O
+you	O
+at	O
+tunbridge	O
+wells	O
+;	O
+but	O
+i	O
+wrote	O
+back	O
+at	O
+once	O
+,	O
+and	O
+i	O
+said	O
+:	O
+‘	O
+mr.	B-CHARACTER
+beebe	I-CHARACTER
+is	O
+--	O
+’”	O
+“	O
+quite	O
+right	O
+,	O
+”	O
+said	O
+the	O
+clergyman	O
+.	O
+
+# id = litbank-1811
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = mr. beebe bowed .
+mr.	B-CHARACTER
+beebe	I-CHARACTER
+bowed	O
+.	O
+
+# id = litbank-1812
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = “ lucy , dearest , let mr. beebe eat his dinner . ”
+“	O
+lucy	B-CHARACTER
+,	O
+dearest	O
+,	O
+let	O
+mr.	B-CHARACTER
+beebe	I-CHARACTER
+eat	O
+his	O
+dinner	O
+.	O
+”	O
+
+# id = litbank-1813
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = he preferred to talk to lucy , whose playing he remembered , rather than to miss bartlett , who probably remembered his sermons .
+he	O
+preferred	O
+to	O
+talk	O
+to	O
+lucy	B-CHARACTER
+,	O
+whose	O
+playing	O
+he	O
+remembered	O
+,	O
+rather	O
+than	O
+to	O
+miss	B-CHARACTER
+bartlett	I-CHARACTER
+,	O
+who	O
+probably	O
+remembered	O
+his	O
+sermons	O
+.	O
+
+# id = litbank-1814
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = “ mr. beebe , you are wrong .
+“	O
+mr.	B-CHARACTER
+beebe	I-CHARACTER
+,	O
+you	O
+are	O
+wrong	O
+.	O
+
+# id = litbank-1815
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = “ that lady looks so clever , ” whispered miss bartlett to her cousin .
+“	O
+that	O
+lady	O
+looks	O
+so	O
+clever	O
+,	O
+”	O
+whispered	O
+miss	B-CHARACTER
+bartlett	I-CHARACTER
+to	O
+her	O
+cousin	O
+.	O
+
+# id = litbank-1816
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = the young man named george glanced at the clever lady , and then returned moodily to his plate .
+the	O
+young	O
+man	O
+named	O
+george	B-CHARACTER
+glanced	O
+at	O
+the	O
+clever	O
+lady	O
+,	O
+and	O
+then	O
+returned	O
+moodily	O
+to	O
+his	O
+plate	O
+.	O
+
+# id = litbank-1817
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = lucy , in the midst of her success , found time to wish they did .
+lucy	B-CHARACTER
+,	O
+in	O
+the	O
+midst	O
+of	O
+her	O
+success	O
+,	O
+found	O
+time	O
+to	O
+wish	O
+they	O
+did	O
+.	O
+
+# id = litbank-1777
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = she promised us south rooms with a view close together , instead of which here are north rooms , looking into a courtyard , and a long way apart .
+she	O
+promised	O
+us	O
+south	O
+rooms	O
+with	O
+a	O
+view	O
+close	O
+together	O
+,	O
+instead	O
+of	O
+which	O
+here	O
+are	O
+north	O
+rooms	O
+,	O
+looking	O
+into	O
+a	O
+courtyard	O
+,	O
+and	O
+a	O
+long	O
+way	O
+apart	O
+.	O
+
+# id = litbank-1778
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = “ and a cockney , besides ! ”
+“	O
+and	O
+a	O
+cockney	O
+,	O
+besides	O
+!	O
+”	O
+
+# id = litbank-1781
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = , that was the only other decoration of the wall .
+,	O
+that	O
+was	O
+the	O
+only	O
+other	O
+decoration	O
+of	O
+the	O
+wall	O
+.	O
+
+# id = litbank-1783
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = i can hardly believe that all kinds of other things are just outside .
+i	O
+can	O
+hardly	O
+believe	O
+that	O
+all	O
+kinds	O
+of	O
+other	O
+things	O
+are	O
+just	O
+outside	O
+.	O
+
+# id = litbank-1784
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = i suppose it is one ’s being so tired . ”
+i	O
+suppose	O
+it	O
+is	O
+one	O
+’s	O
+being	O
+so	O
+tired	O
+.	O
+”	O
+

@@ -1,0 +1,1154 @@
+# id = litbank-0637
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = “ are you for a walk , ” said montraville to his companion , as they arose from table ; “ are you for a walk ?
+“	O
+are	O
+you	O
+for	O
+a	O
+walk	O
+,	O
+”	O
+said	O
+montraville	B-CHARACTER
+to	O
+his	O
+companion	O
+,	O
+as	O
+they	O
+arose	O
+from	O
+table	O
+;	O
+“	O
+are	O
+you	O
+for	O
+a	O
+walk	O
+?	O
+
+# id = litbank-0639
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = belcour preferred the former ; and they sauntered out to view the town , and to make remarks on the inhabitants , as they returned from church .
+belcour	B-CHARACTER
+preferred	O
+the	O
+former	O
+;	O
+and	O
+they	O
+sauntered	O
+out	O
+to	O
+view	O
+the	O
+town	O
+,	O
+and	O
+to	O
+make	O
+remarks	O
+on	O
+the	O
+inhabitants	O
+,	O
+as	O
+they	O
+returned	O
+from	O
+church	O
+.	O
+
+# id = litbank-0640
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = montraville was a lieutenant in the army : belcour was his brother officer : they had been to take leave of their friends previous to their departure for america , and were now returning to portsmouth , where the troops waited orders for embarkation .
+montraville	B-CHARACTER
+was	O
+a	O
+lieutenant	O
+in	O
+the	O
+army	O
+:	O
+belcour	B-CHARACTER
+was	O
+his	O
+brother	O
+officer	O
+:	O
+they	O
+had	O
+been	O
+to	O
+take	O
+leave	O
+of	O
+their	O
+friends	O
+previous	O
+to	O
+their	O
+departure	O
+for	O
+america	O
+,	O
+and	O
+were	O
+now	O
+returning	O
+to	O
+portsmouth	O
+,	O
+where	O
+the	O
+troops	O
+waited	O
+orders	O
+for	O
+embarkation	O
+.	O
+
+# id = litbank-0642
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = they had gratified their curiosity , and were preparing to return to the inn without honouring any of the belles with particular notice , when madame du pont , at the head of her school , descended from the church .
+they	O
+had	O
+gratified	O
+their	O
+curiosity	O
+,	O
+and	O
+were	O
+preparing	O
+to	O
+return	O
+to	O
+the	O
+inn	O
+without	O
+honouring	O
+any	O
+of	O
+the	O
+belles	O
+with	O
+particular	O
+notice	O
+,	O
+when	O
+madame	B-CHARACTER
+du	I-CHARACTER
+pont	I-CHARACTER
+,	O
+at	O
+the	O
+head	O
+of	O
+her	O
+school	O
+,	O
+descended	O
+from	O
+the	O
+church	O
+.	O
+
+# id = litbank-0644
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = a tall , elegant girl looked at montraville and blushed : he instantly recollected the features of charlotte temple , whom he had once seen and danced with at a ball at portsmouth .
+a	O
+tall	O
+,	O
+elegant	O
+girl	O
+looked	O
+at	O
+montraville	B-CHARACTER
+and	O
+blushed	O
+:	O
+he	O
+instantly	O
+recollected	O
+the	O
+features	O
+of	O
+charlotte	B-CHARACTER
+temple	O
+,	O
+whom	O
+he	O
+had	O
+once	O
+seen	O
+and	O
+danced	O
+with	O
+at	O
+a	O
+ball	O
+at	O
+portsmouth	O
+.	O
+
+# id = litbank-0647
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = belcour stared .
+belcour	B-CHARACTER
+stared	O
+.	O
+
+# id = litbank-0648
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = “ did you not notice her ? ” continued montraville : “ she had on a blue bonnet , and with a pair of lovely eyes of the same colour , has contrived to make me feel devilish odd about the heart . ”
+“	O
+did	O
+you	O
+not	O
+notice	O
+her	O
+?	O
+”	O
+continued	O
+montraville	B-CHARACTER
+:	O
+“	O
+she	O
+had	O
+on	O
+a	O
+blue	O
+bonnet	O
+,	O
+and	O
+with	O
+a	O
+pair	O
+of	O
+lovely	O
+eyes	O
+of	O
+the	O
+same	O
+colour	O
+,	O
+has	O
+contrived	O
+to	O
+make	O
+me	O
+feel	O
+devilish	O
+odd	O
+about	O
+the	O
+heart	O
+.	O
+”	O
+
+# id = litbank-0649
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = “ pho , ” said belcour , “ a musket ball from our friends , the americans , may in less than two months make you feel worse . ”
+“	O
+pho	O
+,	O
+”	O
+said	O
+belcour	B-CHARACTER
+,	O
+“	O
+a	O
+musket	O
+ball	O
+from	O
+our	O
+friends	O
+,	O
+the	O
+americans	O
+,	O
+may	O
+in	O
+less	O
+than	O
+two	O
+months	O
+make	O
+you	O
+feel	O
+worse	O
+.	O
+”	O
+
+# id = litbank-0650
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = “ i never think of the future , ” replied montraville ; “ but am determined to make the most of the present , and would willingly compound with any kind familiar who would inform me who the girl is , and how i might be likely to obtain an interview . ”
+“	O
+i	O
+never	O
+think	O
+of	O
+the	O
+future	O
+,	O
+”	O
+replied	O
+montraville	B-CHARACTER
+;	O
+“	O
+but	O
+am	O
+determined	O
+to	O
+make	O
+the	O
+most	O
+of	O
+the	O
+present	O
+,	O
+and	O
+would	O
+willingly	O
+compound	O
+with	O
+any	O
+kind	O
+familiar	O
+who	O
+would	O
+inform	O
+me	O
+who	O
+the	O
+girl	O
+is	O
+,	O
+and	O
+how	O
+i	O
+might	O
+be	O
+likely	O
+to	O
+obtain	O
+an	O
+interview	O
+.	O
+”	O
+
+# id = litbank-0651
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = but no kind familiar at that time appearing , and the chaise which they had ordered , driving up to the door , montraville and his companion were obliged to take leave of chichester and its fair inhabitant , and proceed on their journey .
+but	O
+no	O
+kind	O
+familiar	O
+at	O
+that	O
+time	O
+appearing	O
+,	O
+and	O
+the	O
+chaise	O
+which	O
+they	O
+had	O
+ordered	O
+,	O
+driving	O
+up	O
+to	O
+the	O
+door	O
+,	O
+montraville	B-CHARACTER
+and	O
+his	O
+companion	O
+were	O
+obliged	O
+to	O
+take	O
+leave	O
+of	O
+chichester	O
+and	O
+its	O
+fair	O
+inhabitant	O
+,	O
+and	O
+proceed	O
+on	O
+their	O
+journey	O
+.	O
+
+# id = litbank-0652
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = arriving at the verge of the town , he dismounted , and sending the servant forward with the horses , proceeded toward the place , where , in the midst of an extensive pleasure ground , stood the mansion which contained the lovely charlotte temple .
+arriving	O
+at	O
+the	O
+verge	O
+of	O
+the	O
+town	O
+,	O
+he	O
+dismounted	O
+,	O
+and	O
+sending	O
+the	O
+servant	O
+forward	O
+with	O
+the	O
+horses	O
+,	O
+proceeded	O
+toward	O
+the	O
+place	O
+,	O
+where	O
+,	O
+in	O
+the	O
+midst	O
+of	O
+an	O
+extensive	O
+pleasure	O
+ground	O
+,	O
+stood	O
+the	O
+mansion	O
+which	O
+contained	O
+the	O
+lovely	O
+charlotte	B-CHARACTER
+temple	O
+.	O
+
+# id = litbank-0653
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = montraville leaned on a broken gate , and looked earnestly at the house .
+montraville	B-CHARACTER
+leaned	O
+on	O
+a	O
+broken	O
+gate	O
+,	O
+and	O
+looked	O
+earnestly	O
+at	O
+the	O
+house	O
+.	O
+
+# id = litbank-0654
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = the mind of montraville was hushed into composure by the serenity of the surrounding objects .
+the	O
+mind	O
+of	O
+montraville	B-CHARACTER
+was	O
+hushed	O
+into	O
+composure	O
+by	O
+the	O
+serenity	O
+of	O
+the	O
+surrounding	O
+objects	O
+.	O
+
+# id = litbank-0655
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = he overtook them , and giving them the compliments of the evening , begged leave to see them into the more frequented parts of the town : but how was he delighted , when , waiting for an answer , he discovered , under the concealment of a large bonnet , the face of charlotte temple .
+he	O
+overtook	O
+them	O
+,	O
+and	O
+giving	O
+them	O
+the	O
+compliments	O
+of	O
+the	O
+evening	O
+,	O
+begged	O
+leave	O
+to	O
+see	O
+them	O
+into	O
+the	O
+more	O
+frequented	O
+parts	O
+of	O
+the	O
+town	O
+:	O
+but	O
+how	O
+was	O
+he	O
+delighted	O
+,	O
+when	O
+,	O
+waiting	O
+for	O
+an	O
+answer	O
+,	O
+he	O
+discovered	O
+,	O
+under	O
+the	O
+concealment	O
+of	O
+a	O
+large	O
+bonnet	O
+,	O
+the	O
+face	O
+of	O
+charlotte	B-CHARACTER
+temple	O
+.	O
+
+# id = litbank-0656
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = he soon found means to ingratiate himself with her companion , who was a french teacher at the school , and , at parting , slipped a letter he had purposely written , into charlotte ’s hand , and five guineas into that of mademoiselle , who promised she would endeavour to bring her young charge into the field again the next evening .
+he	O
+soon	O
+found	O
+means	O
+to	O
+ingratiate	O
+himself	O
+with	O
+her	O
+companion	O
+,	O
+who	O
+was	O
+a	O
+french	O
+teacher	O
+at	O
+the	O
+school	O
+,	O
+and	O
+,	O
+at	O
+parting	O
+,	O
+slipped	O
+a	O
+letter	O
+he	O
+had	O
+purposely	O
+written	O
+,	O
+into	O
+charlotte	B-CHARACTER
+’s	O
+hand	O
+,	O
+and	O
+five	O
+guineas	O
+into	O
+that	O
+of	O
+mademoiselle	O
+,	O
+who	O
+promised	O
+she	O
+would	O
+endeavour	O
+to	O
+bring	O
+her	O
+young	O
+charge	O
+into	O
+the	O
+field	O
+again	O
+the	O
+next	O
+evening	O
+.	O
+
+# id = litbank-0657
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = the officer enquired for captain eldridge : a person led them up several pair of dirty stairs , and pointing to a door which led to a miserable , small apartment , said that was the captain ’s room , and retired .
+the	O
+officer	O
+enquired	O
+for	O
+captain	B-CHARACTER
+eldridge	I-CHARACTER
+:	O
+a	O
+person	O
+led	O
+them	O
+up	O
+several	O
+pair	O
+of	O
+dirty	O
+stairs	O
+,	O
+and	O
+pointing	O
+to	O
+a	O
+door	O
+which	O
+led	O
+to	O
+a	O
+miserable	O
+,	O
+small	O
+apartment	O
+,	O
+said	O
+that	O
+was	O
+the	O
+captain	O
+’s	O
+room	O
+,	O
+and	O
+retired	O
+.	O
+
+# id = litbank-0658
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = the officer , whose name was blakeney , tapped at the door , and was bid to enter by a voice melodiously soft .
+the	O
+officer	O
+,	O
+whose	O
+name	O
+was	O
+blakeney	B-CHARACTER
+,	O
+tapped	O
+at	O
+the	O
+door	O
+,	O
+and	O
+was	O
+bid	O
+to	O
+enter	O
+by	O
+a	O
+voice	O
+melodiously	O
+soft	O
+.	O
+
+# id = litbank-0659
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = when they entered , the old man arose from his seat , and shaking blakeney by the hand with great cordiality , offered temple his chair ; and there being but three in the room , seated himself on the side of his little bed with evident composure .
+when	O
+they	O
+entered	O
+,	O
+the	O
+old	O
+man	O
+arose	O
+from	O
+his	O
+seat	O
+,	O
+and	O
+shaking	O
+blakeney	B-CHARACTER
+by	O
+the	O
+hand	O
+with	O
+great	O
+cordiality	O
+,	O
+offered	O
+temple	O
+his	O
+chair	O
+;	O
+and	O
+there	O
+being	O
+but	O
+three	O
+in	O
+the	O
+room	O
+,	O
+seated	O
+himself	O
+on	O
+the	O
+side	O
+of	O
+his	O
+little	O
+bed	O
+with	O
+evident	O
+composure	O
+.	O
+
+# id = litbank-0660
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = temple cast his eye on miss eldridge : a pellucid drop had stolen from her eyes , and fallen upon a rose she was painting .
+temple	O
+cast	O
+his	O
+eye	O
+on	O
+miss	B-CHARACTER
+eldridge	I-CHARACTER
+:	O
+a	O
+pellucid	O
+drop	O
+had	O
+stolen	O
+from	O
+her	O
+eyes	O
+,	O
+and	O
+fallen	O
+upon	O
+a	O
+rose	O
+she	O
+was	O
+painting	O
+.	O
+
+# id = litbank-0661
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = “ my friend blakeney , ” said he , addressing the old man , “ told me i could be of service to you : be so kind then , dear sir , as to point out some way in which i can relieve the anxiety of your heart and increase the pleasures of my own . ”
+“	O
+my	O
+friend	O
+blakeney	B-CHARACTER
+,	O
+”	O
+said	O
+he	O
+,	O
+addressing	O
+the	O
+old	O
+man	O
+,	O
+“	O
+told	O
+me	O
+i	O
+could	O
+be	O
+of	O
+service	O
+to	O
+you	O
+:	O
+be	O
+so	O
+kind	O
+then	O
+,	O
+dear	O
+sir	O
+,	O
+as	O
+to	O
+point	O
+out	O
+some	O
+way	O
+in	O
+which	O
+i	O
+can	O
+relieve	O
+the	O
+anxiety	O
+of	O
+your	O
+heart	O
+and	O
+increase	O
+the	O
+pleasures	O
+of	O
+my	O
+own	O
+.	O
+”	O
+
+# id = litbank-0638
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = or shall we order the chaise and proceed to portsmouth ? ”
+or	O
+shall	O
+we	O
+order	O
+the	O
+chaise	O
+and	O
+proceed	O
+to	O
+portsmouth	O
+?	O
+”	O
+
+# id = litbank-0641
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = they had stopped at chichester to dine ; and knowing they had sufficient time to reach the place of destination before dark , and yet allow them a walk , had resolved , it being sunday afternoon , to take a survey of the chichester ladies as they returned from their devotions .
+they	O
+had	O
+stopped	O
+at	O
+chichester	O
+to	O
+dine	O
+;	O
+and	O
+knowing	O
+they	O
+had	O
+sufficient	O
+time	O
+to	O
+reach	O
+the	O
+place	O
+of	O
+destination	O
+before	O
+dark	O
+,	O
+and	O
+yet	O
+allow	O
+them	O
+a	O
+walk	O
+,	O
+had	O
+resolved	O
+,	O
+it	O
+being	O
+sunday	O
+afternoon	O
+,	O
+to	O
+take	O
+a	O
+survey	O
+of	O
+the	O
+chichester	O
+ladies	O
+as	O
+they	O
+returned	O
+from	O
+their	O
+devotions	O
+.	O
+
+# id = litbank-0643
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = such an assemblage of youth and innocence naturally attracted the young soldiers : they stopped ; and , as the little cavalcade passed , almost involuntarily pulled off their hats .
+such	O
+an	O
+assemblage	O
+of	O
+youth	O
+and	O
+innocence	O
+naturally	O
+attracted	O
+the	O
+young	O
+soldiers	O
+:	O
+they	O
+stopped	O
+;	O
+and	O
+,	O
+as	O
+the	O
+little	O
+cavalcade	O
+passed	O
+,	O
+almost	O
+involuntarily	O
+pulled	O
+off	O
+their	O
+hats	O
+.	O
+
+# id = litbank-0645
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = at that time he thought on her only as a very lovely child , she being then only thirteen ; but the improvement two years had made in her person , and the blush of recollection which suffused her cheeks as she passed , awakened in his bosom new and pleasing ideas .
+at	O
+that	O
+time	O
+he	O
+thought	O
+on	O
+her	O
+only	O
+as	O
+a	O
+very	O
+lovely	O
+child	O
+,	O
+she	O
+being	O
+then	O
+only	O
+thirteen	O
+;	O
+but	O
+the	O
+improvement	O
+two	O
+years	O
+had	O
+made	O
+in	O
+her	O
+person	O
+,	O
+and	O
+the	O
+blush	O
+of	O
+recollection	O
+which	O
+suffused	O
+her	O
+cheeks	O
+as	O
+she	O
+passed	O
+,	O
+awakened	O
+in	O
+his	O
+bosom	O
+new	O
+and	O
+pleasing	O
+ideas	O
+.	O
+
+# id = litbank-0646
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = vanity led him to think that pleasure at again beholding him might have occasioned the emotion he had witnessed , and the same vanity led him to wish to see her again .
+vanity	O
+led	O
+him	O
+to	O
+think	O
+that	O
+pleasure	O
+at	O
+again	O
+beholding	O
+him	O
+might	O
+have	O
+occasioned	O
+the	O
+emotion	O
+he	O
+had	O
+witnessed	O
+,	O
+and	O
+the	O
+same	O
+vanity	O
+led	O
+him	O
+to	O
+wish	O
+to	O
+see	O
+her	O
+again	O
+.	O
+

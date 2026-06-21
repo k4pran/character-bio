@@ -1,0 +1,1090 @@
+# id = litbank-0909
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = book first i strether 's first question , when he reached the hotel , was about his friend ; yet on his learning that waymarsh was apparently not to arrive till evening he was not wholly disconcerted .
+book	O
+first	O
+i	O
+strether	B-CHARACTER
+'s	O
+first	O
+question	O
+,	O
+when	O
+he	O
+reached	O
+the	O
+hotel	O
+,	O
+was	O
+about	O
+his	O
+friend	O
+;	O
+yet	O
+on	O
+his	O
+learning	O
+that	O
+waymarsh	B-CHARACTER
+was	O
+apparently	O
+not	O
+to	O
+arrive	O
+till	O
+evening	O
+he	O
+was	O
+not	O
+wholly	O
+disconcerted	O
+.	O
+
+# id = litbank-0911
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = the same secret principle , however , that had prompted strether not absolutely to desire waymarsh 's presence at the dock , that had led him thus to postpone for a few hours his enjoyment of it , now operated to make him feel he could still wait without disappointment .
+the	O
+same	O
+secret	O
+principle	O
+,	O
+however	O
+,	O
+that	O
+had	O
+prompted	O
+strether	B-CHARACTER
+not	O
+absolutely	O
+to	O
+desire	O
+waymarsh	B-CHARACTER
+'s	O
+presence	O
+at	O
+the	O
+dock	O
+,	O
+that	O
+had	O
+led	O
+him	O
+thus	O
+to	O
+postpone	O
+for	O
+a	O
+few	O
+hours	O
+his	O
+enjoyment	O
+of	O
+it	O
+,	O
+now	O
+operated	O
+to	O
+make	O
+him	O
+feel	O
+he	O
+could	O
+still	O
+wait	O
+without	O
+disappointment	O
+.	O
+
+# id = litbank-0912
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = they would dine together at the worst , and , with all respect to dear old waymarsh -- if not even , for that matter , to himself -- there was little fear that in the sequel they should n't see enough of each other .
+they	O
+would	O
+dine	O
+together	O
+at	O
+the	O
+worst	O
+,	O
+and	O
+,	O
+with	O
+all	O
+respect	O
+to	O
+dear	O
+old	O
+waymarsh	B-CHARACTER
+--	O
+if	O
+not	O
+even	O
+,	O
+for	O
+that	O
+matter	O
+,	O
+to	O
+himself	O
+--	O
+there	O
+was	O
+little	O
+fear	O
+that	O
+in	O
+the	O
+sequel	O
+they	O
+should	O
+n't	O
+see	O
+enough	O
+of	O
+each	O
+other	O
+.	O
+
+# id = litbank-0913
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = mixed with everything was the apprehension , already , on strether 's part , that it would , at best , throughout , prove the note of europe in quite a sufficient degree .
+mixed	O
+with	O
+everything	O
+was	O
+the	O
+apprehension	O
+,	O
+already	O
+,	O
+on	O
+strether	B-CHARACTER
+'s	O
+part	O
+,	O
+that	O
+it	O
+would	O
+,	O
+at	O
+best	O
+,	O
+throughout	O
+,	O
+prove	O
+the	O
+note	O
+of	O
+europe	O
+in	O
+quite	O
+a	O
+sufficient	O
+degree	O
+.	O
+
+# id = litbank-0916
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = he winced a little , truly , at the thought that waymarsh might be already at chester ; he reflected that , should he have to describe himself there as having " got in " so early , it would be difficult to make the interval look particularly eager ; but he was like a man who , elatedly finding in his pocket more money than usual , handles it a while and idly and pleasantly chinks it before addressing himself to the business of spending .
+he	O
+winced	O
+a	O
+little	O
+,	O
+truly	O
+,	O
+at	O
+the	O
+thought	O
+that	O
+waymarsh	B-CHARACTER
+might	O
+be	O
+already	O
+at	O
+chester	O
+;	O
+he	O
+reflected	O
+that	O
+,	O
+should	O
+he	O
+have	O
+to	O
+describe	O
+himself	O
+there	O
+as	O
+having	O
+"	O
+got	O
+in	O
+"	O
+so	O
+early	O
+,	O
+it	O
+would	O
+be	O
+difficult	O
+to	O
+make	O
+the	O
+interval	O
+look	O
+particularly	O
+eager	O
+;	O
+but	O
+he	O
+was	O
+like	O
+a	O
+man	O
+who	O
+,	O
+elatedly	O
+finding	O
+in	O
+his	O
+pocket	O
+more	O
+money	O
+than	O
+usual	O
+,	O
+handles	O
+it	O
+a	O
+while	O
+and	O
+idly	O
+and	O
+pleasantly	O
+chinks	O
+it	O
+before	O
+addressing	O
+himself	O
+to	O
+the	O
+business	O
+of	O
+spending	O
+.	O
+
+# id = litbank-0917
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = that he was prepared to be vague to waymarsh about the hour of the ship 's touching , and that he both wanted extremely to see him and enjoyed extremely the duration of delay -- these things , it is to be conceived , were early signs in him that his relation to his actual errand might prove none of the simplest .
+that	O
+he	O
+was	O
+prepared	O
+to	O
+be	O
+vague	O
+to	O
+waymarsh	B-CHARACTER
+about	O
+the	O
+hour	O
+of	O
+the	O
+ship	O
+'s	O
+touching	O
+,	O
+and	O
+that	O
+he	O
+both	O
+wanted	O
+extremely	O
+to	O
+see	O
+him	O
+and	O
+enjoyed	O
+extremely	O
+the	O
+duration	O
+of	O
+delay	O
+--	O
+these	O
+things	O
+,	O
+it	O
+is	O
+to	O
+be	O
+conceived	O
+,	O
+were	O
+early	O
+signs	O
+in	O
+him	O
+that	O
+his	O
+relation	O
+to	O
+his	O
+actual	O
+errand	O
+might	O
+prove	O
+none	O
+of	O
+the	O
+simplest	O
+.	O
+
+# id = litbank-0918
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = he was burdened , poor strether -- it had better be confessed at the outset -- with the oddity of a double consciousness .
+he	O
+was	O
+burdened	O
+,	O
+poor	O
+strether	B-CHARACTER
+--	O
+it	O
+had	O
+better	O
+be	O
+confessed	O
+at	O
+the	O
+outset	O
+--	O
+with	O
+the	O
+oddity	O
+of	O
+a	O
+double	O
+consciousness	O
+.	O
+
+# id = litbank-0921
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = all she now began by saying to him nevertheless was that , having chanced to catch his enquiry , she was moved to ask , by his leave , if it were possibly a question of mr. waymarsh of milrose connecticut -- mr. waymarsh the american lawyer .
+all	O
+she	O
+now	O
+began	O
+by	O
+saying	O
+to	O
+him	O
+nevertheless	O
+was	O
+that	O
+,	O
+having	O
+chanced	O
+to	O
+catch	O
+his	O
+enquiry	O
+,	O
+she	O
+was	O
+moved	O
+to	O
+ask	O
+,	O
+by	O
+his	O
+leave	O
+,	O
+if	O
+it	O
+were	O
+possibly	O
+a	O
+question	O
+of	O
+mr.	B-CHARACTER
+waymarsh	I-CHARACTER
+of	O
+milrose	O
+connecticut	O
+--	O
+mr.	B-CHARACTER
+waymarsh	I-CHARACTER
+the	O
+american	O
+lawyer	O
+.	O
+
+# id = litbank-0922
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = strether wound up .
+strether	B-CHARACTER
+wound	O
+up	O
+.	O
+
+# id = litbank-0923
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = i wo n't answer for it that he would know me , " strether 's new acquaintance pursued ; " but i should be delighted to see him .
+i	O
+wo	O
+n't	O
+answer	O
+for	O
+it	O
+that	O
+he	O
+would	O
+know	O
+me	O
+,	O
+"	O
+strether	B-CHARACTER
+'s	O
+new	O
+acquaintance	O
+pursued	O
+;	O
+"	O
+but	O
+i	O
+should	O
+be	O
+delighted	O
+to	O
+see	O
+him	O
+.	O
+
+# id = litbank-0924
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = they even vaguely smiled at it , and strether presently observed that mr. waymarsh would , no doubt , be easily to be seen .
+they	O
+even	O
+vaguely	O
+smiled	O
+at	O
+it	O
+,	O
+and	O
+strether	B-CHARACTER
+presently	O
+observed	O
+that	O
+mr.	B-CHARACTER
+waymarsh	I-CHARACTER
+would	O
+,	O
+no	O
+doubt	O
+,	O
+be	O
+easily	O
+to	O
+be	O
+seen	O
+.	O
+
+# id = litbank-0925
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = -- and she immediately thereupon remarked that she believed strether knew the munsters ; the munsters being the people he had seen her with at liverpool .
+--	O
+and	O
+she	O
+immediately	O
+thereupon	O
+remarked	O
+that	O
+she	O
+believed	O
+strether	B-CHARACTER
+knew	O
+the	O
+munsters	O
+;	O
+the	O
+munsters	O
+being	O
+the	O
+people	O
+he	O
+had	O
+seen	O
+her	O
+with	O
+at	O
+liverpool	O
+.	O
+
+# id = litbank-0926
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = they moved along the hall together , and strether 's companion threw off that the hotel had the advantage of a garden .
+they	O
+moved	O
+along	O
+the	O
+hall	O
+together	O
+,	O
+and	O
+strether	B-CHARACTER
+'s	O
+companion	O
+threw	O
+off	O
+that	O
+the	O
+hotel	O
+had	O
+the	O
+advantage	O
+of	O
+a	O
+garden	O
+.	O
+
+# id = litbank-0927
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = he was aware by this time of his strange inconsequence : he had shirked the intimacies of the steamer and had muffled the shock of waymarsh only to find himself forsaken , in this sudden case , both of avoidance and of caution .
+he	O
+was	O
+aware	O
+by	O
+this	O
+time	O
+of	O
+his	O
+strange	O
+inconsequence	O
+:	O
+he	O
+had	O
+shirked	O
+the	O
+intimacies	O
+of	O
+the	O
+steamer	O
+and	O
+had	O
+muffled	O
+the	O
+shock	O
+of	O
+waymarsh	B-CHARACTER
+only	O
+to	O
+find	O
+himself	O
+forsaken	O
+,	O
+in	O
+this	O
+sudden	O
+case	O
+,	O
+both	O
+of	O
+avoidance	O
+and	O
+of	O
+caution	O
+.	O
+
+# id = litbank-0928
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = her acquaintance with the place presented her in a manner as a hostess , and strether had a rueful glance for the lady in the glass cage .
+her	O
+acquaintance	O
+with	O
+the	O
+place	O
+presented	O
+her	O
+in	O
+a	O
+manner	O
+as	O
+a	O
+hostess	O
+,	O
+and	O
+strether	B-CHARACTER
+had	O
+a	O
+rueful	O
+glance	O
+for	O
+the	O
+lady	O
+in	O
+the	O
+glass	O
+cage	O
+.	O
+
+# id = litbank-0929
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = a perpetual pair of glasses astride of this fine ridge , and a line , unusually deep and drawn , the prolonged pen-stroke of time , accompanying the curve of the moustache from nostril to chin , did something to complete the facial furniture that an attentive observer would have seen catalogued , on the spot , in the vision of the other party to strether 's appointment .
+a	O
+perpetual	O
+pair	O
+of	O
+glasses	O
+astride	O
+of	O
+this	O
+fine	O
+ridge	O
+,	O
+and	O
+a	O
+line	O
+,	O
+unusually	O
+deep	O
+and	O
+drawn	O
+,	O
+the	O
+prolonged	O
+pen-stroke	O
+of	O
+time	O
+,	O
+accompanying	O
+the	O
+curve	O
+of	O
+the	O
+moustache	O
+from	O
+nostril	O
+to	O
+chin	O
+,	O
+did	O
+something	O
+to	O
+complete	O
+the	O
+facial	O
+furniture	O
+that	O
+an	O
+attentive	O
+observer	O
+would	O
+have	O
+seen	O
+catalogued	O
+,	O
+on	O
+the	O
+spot	O
+,	O
+in	O
+the	O
+vision	O
+of	O
+the	O
+other	O
+party	O
+to	O
+strether	B-CHARACTER
+'s	O
+appointment	O
+.	O
+
+# id = litbank-0930
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = nothing could have been odder than strether 's sense of himself as at that moment launched in something of which the sense would be quite disconnected from the sense of his past and which was literally beginning there and then .
+nothing	O
+could	O
+have	O
+been	O
+odder	O
+than	O
+strether	B-CHARACTER
+'s	O
+sense	O
+of	O
+himself	O
+as	O
+at	O
+that	O
+moment	O
+launched	O
+in	O
+something	O
+of	O
+which	O
+the	O
+sense	O
+would	O
+be	O
+quite	O
+disconnected	O
+from	O
+the	O
+sense	O
+of	O
+his	O
+past	O
+and	O
+which	O
+was	O
+literally	O
+beginning	O
+there	O
+and	O
+then	O
+.	O
+
+# id = litbank-0910
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = a telegram from him bespeaking a room " only if not noisy , " reply paid , was produced for the enquirer at the office , so that the understanding they should meet at chester rather than at liverpool remained to that extent sound .
+a	O
+telegram	O
+from	O
+him	O
+bespeaking	O
+a	O
+room	O
+"	O
+only	O
+if	O
+not	O
+noisy	O
+,	O
+"	O
+reply	O
+paid	O
+,	O
+was	O
+produced	O
+for	O
+the	O
+enquirer	O
+at	O
+the	O
+office	O
+,	O
+so	O
+that	O
+the	O
+understanding	O
+they	O
+should	O
+meet	O
+at	O
+chester	O
+rather	O
+than	O
+at	O
+liverpool	O
+remained	O
+to	O
+that	O
+extent	O
+sound	O
+.	O
+
+# id = litbank-0914
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = that note had been meanwhile -- since the previous afternoon , thanks to this happier device -- such a consciousness of personal freedom as he had n't known for years ; such a deep taste of change and of having above all for the moment nobody and nothing to consider , as promised already , if headlong hope were not too foolish , to colour his adventure with cool success .
+that	O
+note	O
+had	O
+been	O
+meanwhile	O
+--	O
+since	O
+the	O
+previous	O
+afternoon	O
+,	O
+thanks	O
+to	O
+this	O
+happier	O
+device	O
+--	O
+such	O
+a	O
+consciousness	O
+of	O
+personal	O
+freedom	O
+as	O
+he	O
+had	O
+n't	O
+known	O
+for	O
+years	O
+;	O
+such	O
+a	O
+deep	O
+taste	O
+of	O
+change	O
+and	O
+of	O
+having	O
+above	O
+all	O
+for	O
+the	O
+moment	O
+nobody	O
+and	O
+nothing	O
+to	O
+consider	O
+,	O
+as	O
+promised	O
+already	O
+,	O
+if	O
+headlong	O
+hope	O
+were	O
+not	O
+too	O
+foolish	O
+,	O
+to	O
+colour	O
+his	O
+adventure	O
+with	O
+cool	O
+success	O
+.	O
+
+# id = litbank-0915
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = they formed a qualified draught of europe , an afternoon and an evening on the banks of the mersey , but such as it was he took his potion at least undiluted .
+they	O
+formed	O
+a	O
+qualified	O
+draught	O
+of	O
+europe	O
+,	O
+an	O
+afternoon	O
+and	O
+an	O
+evening	O
+on	O
+the	O
+banks	O
+of	O
+the	O
+mersey	O
+,	O
+but	O
+such	O
+as	O
+it	O
+was	O
+he	O
+took	O
+his	O
+potion	O
+at	O
+least	O
+undiluted	O
+.	O
+
+# id = litbank-0919
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = there was detachment in his zeal and curiosity in his indifference .
+there	O
+was	O
+detachment	O
+in	O
+his	O
+zeal	O
+and	O
+curiosity	O
+in	O
+his	O
+indifference	O
+.	O
+
+# id = litbank-0920
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = for a moment they stood confronted ; then the moment placed her : he had noticed her the day before , noticed her at his previous inn , where -- again in the hall -- she had been briefly engaged with some people of his own ship 's company .
+for	O
+a	O
+moment	O
+they	O
+stood	O
+confronted	O
+;	O
+then	O
+the	O
+moment	O
+placed	O
+her	O
+:	O
+he	O
+had	O
+noticed	O
+her	O
+the	O
+day	O
+before	O
+,	O
+noticed	O
+her	O
+at	O
+his	O
+previous	O
+inn	O
+,	O
+where	O
+--	O
+again	O
+in	O
+the	O
+hall	O
+--	O
+she	O
+had	O
+been	O
+briefly	O
+engaged	O
+with	O
+some	O
+people	O
+of	O
+his	O
+own	O
+ship	O
+'s	O
+company	O
+.	O
+

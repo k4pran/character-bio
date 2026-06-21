@@ -33,10 +33,10 @@ pip install -r requirements.txt
 
 ## Data layout
 
-Training now recursively searches under `data/` for every file named:
+Training recursively searches under `data/` for every `.conll` file:
 
 ```text
-train.conll
+*.conll
 ```
 
 Example:
@@ -49,26 +49,24 @@ data/
     train.conll
 
   real/
-    train.conll
+    manually_checked_examples.conll
 
   litbank/
-    train.conll
-
-  validation.conll
-  test.conll
+    105_persuasion.conll
+    1342_pride_and_prejudice.conll
 ```
 
-All `train.conll` files are merged into the training set.
+All discovered `.conll` files are logged and merged into one full dataset.
 
-If `validation.conll` and `test.conll` exist, they are used for evaluation.
-
-If validation/test files are missing, the merged training data is automatically split into:
+Since there are no separate `validation.conll` or `test.conll` files, the merged training data is automatically split into:
 
 ```text
 80% train
 10% validation
 10% test
 ```
+
+This means the validation/test sets grow automatically as more examples are added.
 
 ## Train
 
@@ -84,7 +82,21 @@ Normal test run:
 python src/train.py --data_dir data --output_dir models/character-ner --model_name distilbert/distilbert-base-uncased --epochs 5 --batch_size 16 --max_length 128
 ```
 
-Training prints validation/test precision, recall, and F1 at the end.
+Optional explicit split command:
+
+```powershell
+python src/train.py --data_dir data --output_dir models/character-ner --model_name distilbert/distilbert-base-uncased --split_from_train --validation_ratio 0.1 --test_ratio 0.1 --epochs 5 --batch_size 16 --max_length 128
+```
+
+Training prints:
+
+```text
+train row count
+validation row count
+test row count
+validation precision / recall / F1
+test precision / recall / F1
+```
 
 ## Predict
 
@@ -217,3 +229,15 @@ But generic animals should stay `O`:
 white	O
 rabbit	O
 ```
+
+## Output
+
+The final trained model is saved to:
+
+```text
+models/character-ner
+```
+
+Use this folder with `predict.py`.
+
+Checkpoint folders are intermediate training snapshots and are usually not needed for prediction once the final model has been saved.

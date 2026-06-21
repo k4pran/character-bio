@@ -1,0 +1,1297 @@
+# id = litbank-0935
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = i have turned very gray -- liddy reminded me of it , only yesterday , by saying that a little bluing in the rinse-water would make my hair silvery , instead of a yellowish white .
+i	O
+have	O
+turned	O
+very	O
+gray	O
+--	O
+liddy	B-CHARACTER
+reminded	O
+me	O
+of	O
+it	O
+,	O
+only	O
+yesterday	O
+,	O
+by	O
+saying	O
+that	O
+a	O
+little	O
+bluing	O
+in	O
+the	O
+rinse-water	O
+would	O
+make	O
+my	O
+hair	O
+silvery	O
+,	O
+instead	O
+of	O
+a	O
+yellowish	O
+white	O
+.	O
+
+# id = litbank-0937
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = liddy 's nerves are gone , she says , since that awful summer , but she has enough left , goodness knows !
+liddy	B-CHARACTER
+'s	O
+nerves	O
+are	O
+gone	O
+,	O
+she	O
+says	O
+,	O
+since	O
+that	O
+awful	O
+summer	O
+,	O
+but	O
+she	O
+has	O
+enough	O
+left	O
+,	O
+goodness	O
+knows	O
+!	O
+
+# id = litbank-0938
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = mr. jamieson , the detective , said himself he could never have done without me , although he gave me little enough credit , in print .
+mr.	B-CHARACTER
+jamieson	I-CHARACTER
+,	O
+the	O
+detective	O
+,	O
+said	O
+himself	O
+he	O
+could	O
+never	O
+have	O
+done	O
+without	O
+me	O
+,	O
+although	O
+he	O
+gave	O
+me	O
+little	O
+enough	O
+credit	O
+,	O
+in	O
+print	O
+.	O
+
+# id = litbank-0939
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = halsey was eleven then , and gertrude was seven .
+halsey	B-CHARACTER
+was	O
+eleven	O
+then	O
+,	O
+and	O
+gertrude	B-CHARACTER
+was	O
+seven	O
+.	O
+
+# id = litbank-0940
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = when gertrude got past the hair-ribbon age , and halsey asked for a scarf-pin and put on long trousers -- and a wonderful help that was to the darning .
+when	O
+gertrude	B-CHARACTER
+got	O
+past	O
+the	O
+hair-ribbon	O
+age	O
+,	O
+and	O
+halsey	B-CHARACTER
+asked	O
+for	O
+a	O
+scarf-pin	O
+and	O
+put	O
+on	O
+long	O
+trousers	O
+--	O
+and	O
+a	O
+wonderful	O
+help	O
+that	O
+was	O
+to	O
+the	O
+darning	O
+.	O
+
+# id = litbank-0941
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = but when halsey had finished his electrical course and gertrude her boarding-school , and both came home to stay , things were suddenly changed .
+but	O
+when	O
+halsey	B-CHARACTER
+had	O
+finished	O
+his	O
+electrical	O
+course	O
+and	O
+gertrude	B-CHARACTER
+her	O
+boarding-school	O
+,	O
+and	O
+both	O
+came	O
+home	O
+to	O
+stay	O
+,	O
+things	O
+were	O
+suddenly	O
+changed	O
+.	O
+
+# id = litbank-0942
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = the winter gertrude came out was nothing but a succession of sitting up late at night to bring her home from things , taking her to the dressmakers between naps the next day , and discouraging ineligible youths with either more money than brains , or more brains than money .
+the	O
+winter	O
+gertrude	B-CHARACTER
+came	O
+out	O
+was	O
+nothing	O
+but	O
+a	O
+succession	O
+of	O
+sitting	O
+up	O
+late	O
+at	O
+night	O
+to	O
+bring	O
+her	O
+home	O
+from	O
+things	O
+,	O
+taking	O
+her	O
+to	O
+the	O
+dressmakers	O
+between	O
+naps	O
+the	O
+next	O
+day	O
+,	O
+and	O
+discouraging	O
+ineligible	O
+youths	O
+with	O
+either	O
+more	O
+money	O
+than	O
+brains	O
+,	O
+or	O
+more	O
+brains	O
+than	O
+money	O
+.	O
+
+# id = litbank-0943
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = halsey required less personal supervision , and as they both got their mother 's fortune that winter , my responsibility became purely moral .
+halsey	B-CHARACTER
+required	O
+less	O
+personal	O
+supervision	O
+,	O
+and	O
+as	O
+they	O
+both	O
+got	O
+their	O
+mother	O
+'s	O
+fortune	O
+that	O
+winter	O
+,	O
+my	O
+responsibility	O
+became	O
+purely	O
+moral	O
+.	O
+
+# id = litbank-0944
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = halsey bought a car , of course , and i learned how to tie over my bonnet a gray baize veil , and , after a time , never to stop to look at the dogs one has run down .
+halsey	B-CHARACTER
+bought	O
+a	O
+car	O
+,	O
+of	O
+course	O
+,	O
+and	O
+i	O
+learned	O
+how	O
+to	O
+tie	O
+over	O
+my	O
+bonnet	O
+a	O
+gray	O
+baize	O
+veil	O
+,	O
+and	O
+,	O
+after	O
+a	O
+time	O
+,	O
+never	O
+to	O
+stop	O
+to	O
+look	O
+at	O
+the	O
+dogs	O
+one	O
+has	O
+run	O
+down	O
+.	O
+
+# id = litbank-0945
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = so when halsey suggested camping in the adirondacks and gertrude wanted bar harbor , we compromised on a good country house with links near , within motor distance of town and telephone distance of the doctor .
+so	O
+when	O
+halsey	B-CHARACTER
+suggested	O
+camping	O
+in	O
+the	O
+adirondacks	O
+and	O
+gertrude	B-CHARACTER
+wanted	O
+bar	O
+harbor	O
+,	O
+we	O
+compromised	O
+on	O
+a	O
+good	O
+country	O
+house	O
+with	O
+links	O
+near	O
+,	O
+within	O
+motor	O
+distance	O
+of	O
+town	O
+and	O
+telephone	O
+distance	O
+of	O
+the	O
+doctor	O
+.	O
+
+# id = litbank-0946
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = gertrude and halsey were infatuated .
+gertrude	B-CHARACTER
+and	O
+halsey	B-CHARACTER
+were	O
+infatuated	O
+.	O
+
+# id = litbank-0947
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = " why , it 's everything you want , " halsey said " view , air , good water and good roads .
+"	O
+why	O
+,	O
+it	O
+'s	O
+everything	O
+you	O
+want	O
+,	O
+"	O
+halsey	B-CHARACTER
+said	O
+"	O
+view	O
+,	O
+air	O
+,	O
+good	O
+water	O
+and	O
+good	O
+roads	O
+.	O
+
+# id = litbank-0948
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = but i give myself credit for this : whatever has happened since , i never blamed halsey and gertrude for taking me there .
+but	O
+i	O
+give	O
+myself	O
+credit	O
+for	O
+this	O
+:	O
+whatever	O
+has	O
+happened	O
+since	O
+,	O
+i	O
+never	O
+blamed	O
+halsey	B-CHARACTER
+and	O
+gertrude	B-CHARACTER
+for	O
+taking	O
+me	O
+there	O
+.	O
+
+# id = litbank-0949
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = the property was owned by paul armstrong , the president of the traders ' bank , who at the time we took the house was in the west with his wife and daughter , and a doctor walker , the armstrong family physician .
+the	O
+property	O
+was	O
+owned	O
+by	O
+paul	B-CHARACTER
+armstrong	I-CHARACTER
+,	O
+the	O
+president	O
+of	O
+the	O
+traders	O
+'	O
+bank	O
+,	O
+who	O
+at	O
+the	O
+time	O
+we	O
+took	O
+the	O
+house	O
+was	O
+in	O
+the	O
+west	O
+with	O
+his	O
+wife	O
+and	O
+daughter	O
+,	O
+and	O
+a	O
+doctor	O
+walker	O
+,	O
+the	O
+armstrong	B-CHARACTER
+family	O
+physician	O
+.	O
+
+# id = litbank-0950
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = halsey knew louise armstrong , -- had been rather attentive to her the winter before , but as halsey was always attentive to somebody , i had not thought of it seriously , although she was a charming girl .
+halsey	B-CHARACTER
+knew	O
+louise	B-CHARACTER
+armstrong	I-CHARACTER
+,	O
+--	O
+had	O
+been	O
+rather	O
+attentive	O
+to	O
+her	O
+the	O
+winter	O
+before	O
+,	O
+but	O
+as	O
+halsey	B-CHARACTER
+was	O
+always	O
+attentive	O
+to	O
+somebody	O
+,	O
+i	O
+had	O
+not	O
+thought	O
+of	O
+it	O
+seriously	O
+,	O
+although	O
+she	O
+was	O
+a	O
+charming	O
+girl	O
+.	O
+
+# id = litbank-0951
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = i knew of mr. armstrong only through his connection with the bank , where the children 's money was largely invested , and through an ugly story about the son , arnold armstrong , who was reported to have forged his father 's name , for a considerable amount , to some bank paper .
+i	O
+knew	O
+of	O
+mr.	B-CHARACTER
+armstrong	I-CHARACTER
+only	O
+through	O
+his	O
+connection	O
+with	O
+the	O
+bank	O
+,	O
+where	O
+the	O
+children	O
+'s	O
+money	O
+was	O
+largely	O
+invested	O
+,	O
+and	O
+through	O
+an	O
+ugly	O
+story	O
+about	O
+the	O
+son	O
+,	O
+arnold	B-CHARACTER
+armstrong	I-CHARACTER
+,	O
+who	O
+was	O
+reported	O
+to	O
+have	O
+forged	O
+his	O
+father	O
+'s	O
+name	O
+,	O
+for	O
+a	O
+considerable	O
+amount	O
+,	O
+to	O
+some	O
+bank	O
+paper	O
+.	O
+
+# id = litbank-0952
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = i cleared halsey and gertrude away to a house party , and moved out to sunnyside the first of may .
+i	O
+cleared	O
+halsey	B-CHARACTER
+and	O
+gertrude	B-CHARACTER
+away	O
+to	O
+a	O
+house	O
+party	O
+,	O
+and	O
+moved	O
+out	O
+to	O
+sunnyside	O
+the	O
+first	O
+of	O
+may	O
+.	O
+
+# id = litbank-0953
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = liddy , who was born and bred on a brick pavement , got a little bit down-spirited when the crickets began to chirp , or scrape their legs together , or whatever it is they do , at twilight .
+liddy	B-CHARACTER
+,	O
+who	O
+was	O
+born	O
+and	O
+bred	O
+on	O
+a	O
+brick	O
+pavement	O
+,	O
+got	O
+a	O
+little	O
+bit	O
+down-spirited	O
+when	O
+the	O
+crickets	O
+began	O
+to	O
+chirp	O
+,	O
+or	O
+scrape	O
+their	O
+legs	O
+together	O
+,	O
+or	O
+whatever	O
+it	O
+is	O
+they	O
+do	O
+,	O
+at	O
+twilight	O
+.	O
+
+# id = litbank-0954
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = on the following morning liddy and mrs. ralston , my own housekeeper , had a difference of opinion , and mrs. ralston left on the eleven train .
+on	O
+the	O
+following	O
+morning	O
+liddy	B-CHARACTER
+and	O
+mrs.	B-CHARACTER
+ralston	I-CHARACTER
+,	O
+my	O
+own	O
+housekeeper	O
+,	O
+had	O
+a	O
+difference	O
+of	O
+opinion	O
+,	O
+and	O
+mrs.	B-CHARACTER
+ralston	I-CHARACTER
+left	O
+on	O
+the	O
+eleven	O
+train	O
+.	O
+
+# id = litbank-0955
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = just after luncheon , burke , the butler , was taken unexpectedly with a pain in his right side , much worse when i was within hearing distance , and by afternoon he was started cityward .
+just	O
+after	O
+luncheon	O
+,	O
+burke	B-CHARACTER
+,	O
+the	O
+butler	O
+,	O
+was	O
+taken	O
+unexpectedly	O
+with	O
+a	O
+pain	O
+in	O
+his	O
+right	O
+side	O
+,	O
+much	O
+worse	O
+when	O
+i	O
+was	O
+within	O
+hearing	O
+distance	O
+,	O
+and	O
+by	O
+afternoon	O
+he	O
+was	O
+started	O
+cityward	O
+.	O
+
+# id = litbank-0956
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = that night the cook 's sister had a baby -- the cook , seeing indecision in my face , made it twins on second thought -- and , to be short , by noon the next day the household staff was down to liddy and myself .
+that	O
+night	O
+the	O
+cook	O
+'s	O
+sister	O
+had	O
+a	O
+baby	O
+--	O
+the	O
+cook	O
+,	O
+seeing	O
+indecision	O
+in	O
+my	O
+face	O
+,	O
+made	O
+it	O
+twins	O
+on	O
+second	O
+thought	O
+--	O
+and	O
+,	O
+to	O
+be	O
+short	O
+,	O
+by	O
+noon	O
+the	O
+next	O
+day	O
+the	O
+household	O
+staff	O
+was	O
+down	O
+to	O
+liddy	B-CHARACTER
+and	O
+myself	O
+.	O
+
+# id = litbank-0957
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = liddy wanted to go back to the city at once , but the milk-boy said that thomas johnson , the armstrongs ' colored butler , was working as a waiter at the greenwood club , and might come back .
+liddy	B-CHARACTER
+wanted	O
+to	O
+go	O
+back	O
+to	O
+the	O
+city	O
+at	O
+once	O
+,	O
+but	O
+the	O
+milk-boy	O
+said	O
+that	O
+thomas	B-CHARACTER
+johnson	I-CHARACTER
+,	O
+the	O
+armstrongs	O
+'	O
+colored	O
+butler	O
+,	O
+was	O
+working	O
+as	O
+a	O
+waiter	O
+at	O
+the	O
+greenwood	O
+club	O
+,	O
+and	O
+might	O
+come	O
+back	O
+.	O
+
+# id = litbank-0958
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = i have the usual scruples about coercing people 's servants away , but few of us have any conscience regarding institutions or corporations -- witness the way we beat railroads and street-car companies when we can -- so i called up the club , and about eight o'clock thomas johnson came to see me .
+i	O
+have	O
+the	O
+usual	O
+scruples	O
+about	O
+coercing	O
+people	O
+'s	O
+servants	O
+away	O
+,	O
+but	O
+few	O
+of	O
+us	O
+have	O
+any	O
+conscience	O
+regarding	O
+institutions	O
+or	O
+corporations	O
+--	O
+witness	O
+the	O
+way	O
+we	O
+beat	O
+railroads	O
+and	O
+street-car	O
+companies	O
+when	O
+we	O
+can	O
+--	O
+so	O
+i	O
+called	O
+up	O
+the	O
+club	O
+,	O
+and	O
+about	O
+eight	O
+o'clock	O
+thomas	B-CHARACTER
+johnson	I-CHARACTER
+came	O
+to	O
+see	O
+me	O
+.	O
+
+# id = litbank-0959
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = well , it ended by my engaging thomas on the spot , at outrageous wages , and with permission to sleep in the gardener 's lodge , empty since the house was rented .
+well	O
+,	O
+it	O
+ended	O
+by	O
+my	O
+engaging	O
+thomas	B-CHARACTER
+on	O
+the	O
+spot	O
+,	O
+at	O
+outrageous	O
+wages	O
+,	O
+and	O
+with	O
+permission	O
+to	O
+sleep	O
+in	O
+the	O
+gardener	O
+'s	O
+lodge	O
+,	O
+empty	O
+since	O
+the	O
+house	O
+was	O
+rented	O
+.	O
+
+# id = litbank-0960
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = " i ai n't sayin ' nothin ' , mis ' innes , " he said , with his hand on the door-knob , " but there 's been goin 's - on here this las ' few months as ai n't natchal .
+"	O
+i	O
+ai	O
+n't	O
+sayin	O
+'	O
+nothin	O
+'	O
+,	O
+mis	O
+'	O
+innes	B-CHARACTER
+,	O
+"	O
+he	O
+said	O
+,	O
+with	O
+his	O
+hand	O
+on	O
+the	O
+door-knob	O
+,	O
+"	O
+but	O
+there	O
+'s	O
+been	O
+goin	O
+'s	O
+-	O
+on	O
+here	O
+this	O
+las	O
+'	O
+few	O
+months	O
+as	O
+ai	O
+n't	O
+natchal	O
+.	O
+
+# id = litbank-0961
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = ' tai n't one thing an ' ' tai n't another -- it 's jest a door squealin ' here , an ' a winder closin ' there , but when doors an ' winders gets to cuttin ' up capers and there 's nobody nigh 'em , it 's time thomas johnson sleeps somewhar 's else . "
+'	O
+tai	O
+n't	O
+one	O
+thing	O
+an	O
+'	O
+'	O
+tai	O
+n't	O
+another	O
+--	O
+it	O
+'s	O
+jest	O
+a	O
+door	O
+squealin	O
+'	O
+here	O
+,	O
+an	O
+'	O
+a	O
+winder	O
+closin	O
+'	O
+there	O
+,	O
+but	O
+when	O
+doors	O
+an	O
+'	O
+winders	O
+gets	O
+to	O
+cuttin	O
+'	O
+up	O
+capers	O
+and	O
+there	O
+'s	O
+nobody	O
+nigh	O
+'em	O
+,	O
+it	O
+'s	O
+time	O
+thomas	B-CHARACTER
+johnson	I-CHARACTER
+sleeps	O
+somewhar	O
+'s	O
+else	O
+.	O
+"	O
+
+# id = litbank-0931
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = chapter i i take a country house this is the story of how a middle-aged spinster lost her mind , deserted her domestic gods in the city , took a furnished house for the summer out of town , and found herself involved in one of those mysterious crimes that keep our newspapers and detective agencies happy and prosperous .
+chapter	O
+i	O
+i	O
+take	O
+a	O
+country	O
+house	O
+this	O
+is	O
+the	O
+story	O
+of	O
+how	O
+a	O
+middle-aged	O
+spinster	O
+lost	O
+her	O
+mind	O
+,	O
+deserted	O
+her	O
+domestic	O
+gods	O
+in	O
+the	O
+city	O
+,	O
+took	O
+a	O
+furnished	O
+house	O
+for	O
+the	O
+summer	O
+out	O
+of	O
+town	O
+,	O
+and	O
+found	O
+herself	O
+involved	O
+in	O
+one	O
+of	O
+those	O
+mysterious	O
+crimes	O
+that	O
+keep	O
+our	O
+newspapers	O
+and	O
+detective	O
+agencies	O
+happy	O
+and	O
+prosperous	O
+.	O
+
+# id = litbank-0932
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = and then -- the madness seized me .
+and	O
+then	O
+--	O
+the	O
+madness	O
+seized	O
+me	O
+.	O
+
+# id = litbank-0933
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = when i look back over the months i spent at sunnyside , i wonder that i survived at all .
+when	O
+i	O
+look	O
+back	O
+over	O
+the	O
+months	O
+i	O
+spent	O
+at	O
+sunnyside	O
+,	O
+i	O
+wonder	O
+that	O
+i	O
+survived	O
+at	O
+all	O
+.	O
+
+# id = litbank-0934
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = as it is , i show the wear and tear of my harrowing experiences .
+as	O
+it	O
+is	O
+,	O
+i	O
+show	O
+the	O
+wear	O
+and	O
+tear	O
+of	O
+my	O
+harrowing	O
+experiences	O
+.	O
+
+# id = litbank-0936
+# source = LitBank
+# book = The Circular Staircase
+# book_id = 434_the_circular_staircase
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/434_the_circular_staircase_brat.tsv
+# text = i hate to be reminded of unpleasant things and i snapped her off .
+i	O
+hate	O
+to	O
+be	O
+reminded	O
+of	O
+unpleasant	O
+things	O
+and	O
+i	O
+snapped	O
+her	O
+off	O
+.	O
+

@@ -1,0 +1,1283 @@
+# id = litbank-1470
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = the old man pulled up at the bunk-house , the stranger sprang out over the wheel with the agility which bespoke youthful muscles , and the old man introduced him with a quirk of the lips : “ this is mr. mig-u-ell rapponi , boys -- a peeler straight from the golden gate .
+the	O
+old	O
+man	O
+pulled	O
+up	O
+at	O
+the	O
+bunk-house	O
+,	O
+the	O
+stranger	O
+sprang	O
+out	O
+over	O
+the	O
+wheel	O
+with	O
+the	O
+agility	O
+which	O
+bespoke	O
+youthful	O
+muscles	O
+,	O
+and	O
+the	O
+old	O
+man	O
+introduced	O
+him	O
+with	O
+a	O
+quirk	O
+of	O
+the	O
+lips	O
+:	O
+“	O
+this	O
+is	O
+mr.	B-CHARACTER
+mig-u-ell	I-CHARACTER
+rapponi	I-CHARACTER
+,	O
+boys	O
+--	O
+a	O
+peeler	O
+straight	O
+from	O
+the	O
+golden	O
+gate	O
+.	O
+
+# id = litbank-1471
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = throw out your war-bag and make yourself to home , mig-u-ell ; some of the boys 'll show you where to bed down . ”
+throw	O
+out	O
+your	O
+war-bag	O
+and	O
+make	O
+yourself	O
+to	O
+home	O
+,	O
+mig-u-ell	B-CHARACTER
+;	O
+some	O
+of	O
+the	O
+boys	O
+'ll	O
+show	O
+you	O
+where	O
+to	O
+bed	O
+down	O
+.	O
+”	O
+
+# id = litbank-1472
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = the old man drove on to the house with his own luggage , and happy jack followed to take charge of the team ; but the remainder of the happy family unobtrusively took the measure of the foreign element .
+the	O
+old	O
+man	O
+drove	O
+on	O
+to	O
+the	O
+house	O
+with	O
+his	O
+own	O
+luggage	O
+,	O
+and	O
+happy	B-CHARACTER
+jack	I-CHARACTER
+followed	O
+to	O
+take	O
+charge	O
+of	O
+the	O
+team	O
+;	O
+but	O
+the	O
+remainder	O
+of	O
+the	O
+happy	O
+family	O
+unobtrusively	O
+took	O
+the	O
+measure	O
+of	O
+the	O
+foreign	O
+element	O
+.	O
+
+# id = litbank-1474
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = the happy family had themselves an eye to picturesque garb upon occasion , but this passed even pink 's love of display .
+the	O
+happy	O
+family	O
+had	O
+themselves	O
+an	O
+eye	O
+to	O
+picturesque	O
+garb	O
+upon	O
+occasion	O
+,	O
+but	O
+this	O
+passed	O
+even	O
+pink	B-CHARACTER
+'s	O
+love	O
+of	O
+display	O
+.	O
+
+# id = litbank-1475
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = “ he 's some gaudy to look at , ” irish murmured under his breath to cal emmett .
+“	O
+he	O
+'s	O
+some	O
+gaudy	O
+to	O
+look	O
+at	O
+,	O
+”	O
+irish	B-CHARACTER
+murmured	O
+under	O
+his	O
+breath	O
+to	O
+cal	B-CHARACTER
+emmett	I-CHARACTER
+.	O
+
+# id = litbank-1476
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = “ all he lacks is a spot-light and a brass band , ” cal returned , in much the same tone with which a woman remarks upon a last season 's hat on the head of a rival .
+“	O
+all	O
+he	O
+lacks	O
+is	O
+a	O
+spot-light	O
+and	O
+a	O
+brass	O
+band	O
+,	O
+”	O
+cal	B-CHARACTER
+returned	O
+,	O
+in	O
+much	O
+the	O
+same	O
+tone	O
+with	O
+which	O
+a	O
+woman	O
+remarks	O
+upon	O
+a	O
+last	O
+season	O
+'s	O
+hat	O
+on	O
+the	O
+head	O
+of	O
+a	O
+rival	O
+.	O
+
+# id = litbank-1477
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = miguel was not embarrassed by the inspection .
+miguel	B-CHARACTER
+was	O
+not	O
+embarrassed	O
+by	O
+the	O
+inspection	O
+.	O
+
+# id = litbank-1481
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = big medicine bellowed unexpectedly , close beside him .
+big	O
+medicine	B-CHARACTER
+bellowed	O
+unexpectedly	O
+,	O
+close	O
+beside	O
+him	O
+.	O
+
+# id = litbank-1482
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = miguel shot an oblique glance at big medicine , examined the end of his cigarette , and gave a lift of shoulder , which might mean anything or nothing , and so was irritating to a degree .
+miguel	B-CHARACTER
+shot	O
+an	O
+oblique	O
+glance	O
+at	O
+big	O
+medicine	B-CHARACTER
+,	O
+examined	O
+the	O
+end	O
+of	O
+his	O
+cigarette	O
+,	O
+and	O
+gave	O
+a	O
+lift	O
+of	O
+shoulder	O
+,	O
+which	O
+might	O
+mean	O
+anything	O
+or	O
+nothing	O
+,	O
+and	O
+so	O
+was	O
+irritating	O
+to	O
+a	O
+degree	O
+.	O
+
+# id = litbank-1483
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = the next morning , when there was riding to be done , and miguel appeared at the last moment in his working clothes , even weary , the sunny-hearted , had an unmistakable curl of his lip after the first glance .
+the	O
+next	O
+morning	O
+,	O
+when	O
+there	O
+was	O
+riding	O
+to	O
+be	O
+done	O
+,	O
+and	O
+miguel	B-CHARACTER
+appeared	O
+at	O
+the	O
+last	O
+moment	O
+in	O
+his	O
+working	O
+clothes	O
+,	O
+even	O
+weary	B-CHARACTER
+,	O
+the	O
+sunny-hearted	O
+,	O
+had	O
+an	O
+unmistakable	O
+curl	O
+of	O
+his	O
+lip	O
+after	O
+the	O
+first	O
+glance	O
+.	O
+
+# id = litbank-1484
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = miguel wore the hatband , the crimson kerchief tied loosely with the point draped over his chest , the stamped leather cuffs and the tan boots with the highest heels ever built by the cobbler craft .
+miguel	B-CHARACTER
+wore	O
+the	O
+hatband	O
+,	O
+the	O
+crimson	O
+kerchief	O
+tied	O
+loosely	O
+with	O
+the	O
+point	O
+draped	O
+over	O
+his	O
+chest	O
+,	O
+the	O
+stamped	O
+leather	O
+cuffs	O
+and	O
+the	O
+tan	O
+boots	O
+with	O
+the	O
+highest	O
+heels	O
+ever	O
+built	O
+by	O
+the	O
+cobbler	O
+craft	O
+.	O
+
+# id = litbank-1485
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = he drew out his bridle and shook it into shape , and the silver mountings and the reins of braided leather with horsehair tassels made happy jack 's eyes greedy with desire .
+he	O
+drew	O
+out	O
+his	O
+bridle	O
+and	O
+shook	O
+it	O
+into	O
+shape	O
+,	O
+and	O
+the	O
+silver	O
+mountings	O
+and	O
+the	O
+reins	O
+of	O
+braided	O
+leather	O
+with	O
+horsehair	O
+tassels	O
+made	O
+happy	B-CHARACTER
+jack	I-CHARACTER
+'s	O
+eyes	O
+greedy	O
+with	O
+desire	O
+.	O
+
+# id = litbank-1486
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = “ by gosh , a man might do worse than locate that native son for a silver mine , ” cal began , eyeing the interloper scornfully .
+“	O
+by	O
+gosh	O
+,	O
+a	O
+man	O
+might	O
+do	O
+worse	O
+than	O
+locate	O
+that	O
+native	O
+son	O
+for	O
+a	O
+silver	O
+mine	O
+,	O
+”	O
+cal	B-CHARACTER
+began	O
+,	O
+eyeing	O
+the	O
+interloper	O
+scornfully	O
+.	O
+
+# id = litbank-1487
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = “ by golly , he looks to me like a pair uh trays when he comes bow-leggin ' along with them white diamonds on his legs , ” slim stated solemnly .
+“	O
+by	O
+golly	O
+,	O
+he	O
+looks	O
+to	O
+me	O
+like	O
+a	O
+pair	O
+uh	O
+trays	O
+when	O
+he	O
+comes	O
+bow-leggin	O
+'	O
+along	O
+with	O
+them	O
+white	O
+diamonds	O
+on	O
+his	O
+legs	O
+,	O
+”	O
+slim	B-CHARACTER
+stated	O
+solemnly	O
+.	O
+
+# id = litbank-1488
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = “ and i 'll gamble that 's a spot higher than he stacks up in the cow game , ” pink observed with the pessimism which matrimony had given him .
+“	O
+and	O
+i	O
+'ll	O
+gamble	O
+that	O
+'s	O
+a	O
+spot	O
+higher	O
+than	O
+he	O
+stacks	O
+up	O
+in	O
+the	O
+cow	O
+game	O
+,	O
+”	O
+pink	B-CHARACTER
+observed	O
+with	O
+the	O
+pessimism	O
+which	O
+matrimony	O
+had	O
+given	O
+him	O
+.	O
+
+# id = litbank-1489
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = that lizzie-boy never saw a bad horse ; they do n't grow 'em where he come from .
+that	O
+lizzie-boy	B-CHARACTER
+never	O
+saw	O
+a	O
+bad	O
+horse	O
+;	O
+they	O
+do	O
+n't	O
+grow	O
+'em	O
+where	O
+he	O
+come	O
+from	O
+.	O
+
+# id = litbank-1490
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = weary paid generous tribute .
+weary	B-CHARACTER
+paid	O
+generous	O
+tribute	O
+.	O
+
+# id = litbank-1491
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = “ only i will say old banjo reminds me of an irish cook rigged out in silk and diamonds .
+“	O
+only	O
+i	O
+will	O
+say	O
+old	O
+banjo	O
+reminds	O
+me	O
+of	O
+an	O
+irish	B-CHARACTER
+cook	O
+rigged	O
+out	O
+in	O
+silk	O
+and	O
+diamonds	O
+.	O
+
+# id = litbank-1492
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = “ well , i 've gone up against a few real ones in my long and varied career , ” irish remarked reminiscently , “ and i 've noticed that a hoss never has any respect or admiration for a swell rig .
+“	O
+well	O
+,	O
+i	O
+'ve	O
+gone	O
+up	O
+against	O
+a	O
+few	O
+real	O
+ones	O
+in	O
+my	O
+long	O
+and	O
+varied	O
+career	O
+,	O
+”	O
+irish	B-CHARACTER
+remarked	O
+reminiscently	O
+,	O
+“	O
+and	O
+i	O
+'ve	O
+noticed	O
+that	O
+a	O
+hoss	O
+never	O
+has	O
+any	O
+respect	O
+or	O
+admiration	O
+for	O
+a	O
+swell	O
+rig	O
+.	O
+
+# id = litbank-1493
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = “ just take a look at him ! ” cried pink , with intense disgust .
+“	O
+just	O
+take	O
+a	O
+look	O
+at	O
+him	O
+!	O
+”	O
+cried	O
+pink	B-CHARACTER
+,	O
+with	O
+intense	O
+disgust	O
+.	O
+
+# id = litbank-1494
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = irish laughed .
+irish	B-CHARACTER
+laughed	O
+.	O
+
+# id = litbank-1495
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = “ aw , ” fleered happy jack , “ he ai n't any natiff son .
+“	O
+aw	O
+,	O
+”	O
+fleered	O
+happy	B-CHARACTER
+jack	I-CHARACTER
+,	O
+“	O
+he	O
+ai	O
+n't	O
+any	O
+natiff	O
+son	O
+.	O
+
+# id = litbank-1496
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = “ he 's got the earmarks uh both , ” big medicine stated authoritatively .
+“	O
+he	O
+'s	O
+got	O
+the	O
+earmarks	O
+uh	O
+both	O
+,	O
+”	O
+big	O
+medicine	B-CHARACTER
+stated	O
+authoritatively	O
+.	O
+
+# id = litbank-1497
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = he jerked his thumb toward the dazzling miguel .
+he	O
+jerked	O
+his	O
+thumb	O
+toward	O
+the	O
+dazzling	O
+miguel	B-CHARACTER
+.	O
+
+# id = litbank-1498
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = “ that 's the way they do it , all right , ” irish agreed .
+“	O
+that	O
+'s	O
+the	O
+way	O
+they	O
+do	O
+it	O
+,	O
+all	O
+right	O
+,	O
+”	O
+irish	B-CHARACTER
+agreed	O
+.	O
+
+# id = litbank-1499
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = big medicine interrupted , and took up the tale , which might have been entitled “ some cowpunching i have seen . ”
+big	O
+medicine	B-CHARACTER
+interrupted	O
+,	O
+and	O
+took	O
+up	O
+the	O
+tale	O
+,	O
+which	O
+might	O
+have	O
+been	O
+entitled	O
+“	O
+some	O
+cowpunching	O
+i	O
+have	O
+seen	O
+.	O
+”	O
+
+# id = litbank-1500
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = and there 'll be two or three fellers to every calf , all lit up , like mig-u-ell , over there , in chaps and silver fixin 's , fussin ' around on horseback in a corral , and every feller trying to pile his rope on the same calf , by cripes !
+and	O
+there	O
+'ll	O
+be	O
+two	O
+or	O
+three	O
+fellers	O
+to	O
+every	O
+calf	O
+,	O
+all	O
+lit	O
+up	O
+,	O
+like	O
+mig-u-ell	B-CHARACTER
+,	O
+over	O
+there	O
+,	O
+in	O
+chaps	O
+and	O
+silver	O
+fixin	O
+'s	O
+,	O
+fussin	O
+'	O
+around	O
+on	O
+horseback	O
+in	O
+a	O
+corral	O
+,	O
+and	O
+every	O
+feller	O
+trying	O
+to	O
+pile	O
+his	O
+rope	O
+on	O
+the	O
+same	O
+calf	O
+,	O
+by	O
+cripes	O
+!	O
+
+# id = litbank-1501
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = the happy family laughed at the idea ; laughed so loud that miguel left his lonely splendor and swung over to them , ostensibly to borrow a match .
+the	O
+happy	O
+family	O
+laughed	O
+at	O
+the	O
+idea	O
+;	O
+laughed	O
+so	O
+loud	O
+that	O
+miguel	B-CHARACTER
+left	O
+his	O
+lonely	O
+splendor	O
+and	O
+swung	O
+over	O
+to	O
+them	O
+,	O
+ostensibly	O
+to	O
+borrow	O
+a	O
+match	O
+.	O
+
+# id = litbank-1469
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = the coming of a native son the happy family , waiting for the sunday supper call , were grouped around the open door of the bunk-house , gossiping idly of things purely local , when the old man returned from the stock association at helena ; beside him on the buggy seat sat a stranger .
+the	O
+coming	O
+of	O
+a	O
+native	O
+son	O
+the	O
+happy	O
+family	O
+,	O
+waiting	O
+for	O
+the	O
+sunday	O
+supper	O
+call	O
+,	O
+were	O
+grouped	O
+around	O
+the	O
+open	O
+door	O
+of	O
+the	O
+bunk-house	O
+,	O
+gossiping	O
+idly	O
+of	O
+things	O
+purely	O
+local	O
+,	O
+when	O
+the	O
+old	O
+man	O
+returned	O
+from	O
+the	O
+stock	O
+association	O
+at	O
+helena	O
+;	O
+beside	O
+him	O
+on	O
+the	O
+buggy	O
+seat	O
+sat	O
+a	O
+stranger	O
+.	O
+
+# id = litbank-1473
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = from his black-and-white horsehair hatband , with tassels that swept to the very edge of his gray hatbrim , to the crimson silk neckerchief draped over the pale blue bosom of his shirt ; from the beautifully stamped leather cuffs , down to the exaggerated height of his tan boot-heels , their critical eyes swept in swift , appraising glances ; and unanimous disapproval was the result .
+from	O
+his	O
+black-and-white	O
+horsehair	O
+hatband	O
+,	O
+with	O
+tassels	O
+that	O
+swept	O
+to	O
+the	O
+very	O
+edge	O
+of	O
+his	O
+gray	O
+hatbrim	O
+,	O
+to	O
+the	O
+crimson	O
+silk	O
+neckerchief	O
+draped	O
+over	O
+the	O
+pale	O
+blue	O
+bosom	O
+of	O
+his	O
+shirt	O
+;	O
+from	O
+the	O
+beautifully	O
+stamped	O
+leather	O
+cuffs	O
+,	O
+down	O
+to	O
+the	O
+exaggerated	O
+height	O
+of	O
+his	O
+tan	O
+boot-heels	O
+,	O
+their	O
+critical	O
+eyes	O
+swept	O
+in	O
+swift	O
+,	O
+appraising	O
+glances	O
+;	O
+and	O
+unanimous	O
+disapproval	O
+was	O
+the	O
+result	O
+.	O
+
+# id = litbank-1478
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = he was tall , straight , and swarthily handsome , and he stood with the complacence of a stage favorite waiting for the applause to cease so that he might speak his first lines ; and , while he waited , he sifted tobacco into a cigarette paper daintily , with his little finger extended .
+he	O
+was	O
+tall	O
+,	O
+straight	O
+,	O
+and	O
+swarthily	O
+handsome	O
+,	O
+and	O
+he	O
+stood	O
+with	O
+the	O
+complacence	O
+of	O
+a	O
+stage	O
+favorite	O
+waiting	O
+for	O
+the	O
+applause	O
+to	O
+cease	O
+so	O
+that	O
+he	O
+might	O
+speak	O
+his	O
+first	O
+lines	O
+;	O
+and	O
+,	O
+while	O
+he	O
+waited	O
+,	O
+he	O
+sifted	O
+tobacco	O
+into	O
+a	O
+cigarette	O
+paper	O
+daintily	O
+,	O
+with	O
+his	O
+little	O
+finger	O
+extended	O
+.	O
+
+# id = litbank-1479
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = there was a ring upon that finger ; a ring with a moonstone setting as large and round as the eye of a startled cat , and the happy family caught the pale gleam of it and drew a long breath .
+there	O
+was	O
+a	O
+ring	O
+upon	O
+that	O
+finger	O
+;	O
+a	O
+ring	O
+with	O
+a	O
+moonstone	O
+setting	O
+as	O
+large	O
+and	O
+round	O
+as	O
+the	O
+eye	O
+of	O
+a	O
+startled	O
+cat	O
+,	O
+and	O
+the	O
+happy	O
+family	O
+caught	O
+the	O
+pale	O
+gleam	O
+of	O
+it	O
+and	O
+drew	O
+a	O
+long	O
+breath	O
+.	O
+
+# id = litbank-1480
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = he lighted a match nonchalantly , by the artfully simple method of pinching the head of it with his fingernails , leaned negligently against the wall of the bunk-house , and regarded the group incuriously while he smoked .
+he	O
+lighted	O
+a	O
+match	O
+nonchalantly	O
+,	O
+by	O
+the	O
+artfully	O
+simple	O
+method	O
+of	O
+pinching	O
+the	O
+head	O
+of	O
+it	O
+with	O
+his	O
+fingernails	O
+,	O
+leaned	O
+negligently	O
+against	O
+the	O
+wall	O
+of	O
+the	O
+bunk-house	O
+,	O
+and	O
+regarded	O
+the	O
+group	O
+incuriously	O
+while	O
+he	O
+smoked	O
+.	O
+

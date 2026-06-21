@@ -1,0 +1,209 @@
+# id = litbank-1430
+# source = LitBank
+# book = The Masque of the Red Death
+# book_id = 1064_the_masque_of_the_red_death
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1064_the_masque_of_the_red_death_brat.tsv
+# text = but the prince prospero was happy and dauntless and sagacious .
+but	O
+the	O
+prince	O
+prospero	B-CHARACTER
+was	O
+happy	O
+and	O
+dauntless	O
+and	O
+sagacious	O
+.	O
+
+# id = litbank-1431
+# source = LitBank
+# book = The Masque of the Red Death
+# book_id = 1064_the_masque_of_the_red_death
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1064_the_masque_of_the_red_death_brat.tsv
+# text = it was towards the close of the fifth or sixth month of his seclusion , and while the pestilence raged most furiously abroad , that the prince prospero entertained his thousand friends at a masked ball of the most unusual magnificence .
+it	O
+was	O
+towards	O
+the	O
+close	O
+of	O
+the	O
+fifth	O
+or	O
+sixth	O
+month	O
+of	O
+his	O
+seclusion	O
+,	O
+and	O
+while	O
+the	O
+pestilence	O
+raged	O
+most	O
+furiously	O
+abroad	O
+,	O
+that	O
+the	O
+prince	O
+prospero	B-CHARACTER
+entertained	O
+his	O
+thousand	O
+friends	O
+at	O
+a	O
+masked	O
+ball	O
+of	O
+the	O
+most	O
+unusual	O
+magnificence	O
+.	O
+
+# id = litbank-1425
+# source = LitBank
+# book = The Masque of the Red Death
+# book_id = 1064_the_masque_of_the_red_death
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1064_the_masque_of_the_red_death_brat.tsv
+# text = the " red death " had long devastated the country .
+the	O
+"	O
+red	O
+death	O
+"	O
+had	O
+long	O
+devastated	O
+the	O
+country	O
+.	O
+
+# id = litbank-1426
+# source = LitBank
+# book = The Masque of the Red Death
+# book_id = 1064_the_masque_of_the_red_death
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1064_the_masque_of_the_red_death_brat.tsv
+# text = no pestilence had ever been so fatal , or so hideous .
+no	O
+pestilence	O
+had	O
+ever	O
+been	O
+so	O
+fatal	O
+,	O
+or	O
+so	O
+hideous	O
+.	O
+
+# id = litbank-1427
+# source = LitBank
+# book = The Masque of the Red Death
+# book_id = 1064_the_masque_of_the_red_death
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1064_the_masque_of_the_red_death_brat.tsv
+# text = blood was its avatar and its seal -- the redness and the horror of blood .
+blood	O
+was	O
+its	O
+avatar	O
+and	O
+its	O
+seal	O
+--	O
+the	O
+redness	O
+and	O
+the	O
+horror	O
+of	O
+blood	O
+.	O
+
+# id = litbank-1428
+# source = LitBank
+# book = The Masque of the Red Death
+# book_id = 1064_the_masque_of_the_red_death
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1064_the_masque_of_the_red_death_brat.tsv
+# text = there were sharp pains , and sudden dizziness , and then profuse bleeding at the pores , with dissolution .
+there	O
+were	O
+sharp	O
+pains	O
+,	O
+and	O
+sudden	O
+dizziness	O
+,	O
+and	O
+then	O
+profuse	O
+bleeding	O
+at	O
+the	O
+pores	O
+,	O
+with	O
+dissolution	O
+.	O
+
+# id = litbank-1429
+# source = LitBank
+# book = The Masque of the Red Death
+# book_id = 1064_the_masque_of_the_red_death
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1064_the_masque_of_the_red_death_brat.tsv
+# text = the scarlet stains upon the body and especially upon the face of the victim , were the pest ban which shut him out from the aid and from the sympathy of his fellow-men .
+the	O
+scarlet	O
+stains	O
+upon	O
+the	O
+body	O
+and	O
+especially	O
+upon	O
+the	O
+face	O
+of	O
+the	O
+victim	O
+,	O
+were	O
+the	O
+pest	O
+ban	O
+which	O
+shut	O
+him	O
+out	O
+from	O
+the	O
+aid	O
+and	O
+from	O
+the	O
+sympathy	O
+of	O
+his	O
+fellow-men	O
+.	O
+

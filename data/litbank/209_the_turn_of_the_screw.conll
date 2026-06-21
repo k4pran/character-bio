@@ -1,0 +1,493 @@
+# id = litbank-0715
+# source = LitBank
+# book = The Turn of the Screw
+# book_id = 209_the_turn_of_the_screw
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/209_the_turn_of_the_screw_brat.tsv
+# text = it was this observation that drew from douglas -- not immediately , but later in the evening -- a reply that had the interesting consequence to which i call attention .
+it	O
+was	O
+this	O
+observation	O
+that	O
+drew	O
+from	O
+douglas	B-CHARACTER
+--	O
+not	O
+immediately	O
+,	O
+but	O
+later	O
+in	O
+the	O
+evening	O
+--	O
+a	O
+reply	O
+that	O
+had	O
+the	O
+interesting	O
+consequence	O
+to	O
+which	O
+i	O
+call	O
+attention	O
+.	O
+
+# id = litbank-0719
+# source = LitBank
+# book = The Turn of the Screw
+# book_id = 209_the_turn_of_the_screw
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/209_the_turn_of_the_screw_brat.tsv
+# text = “ i quite agree -- in regard to griffin ’s ghost , or whatever it was -- that its appearing first to the little boy , at so tender an age , adds a particular touch .
+“	O
+i	O
+quite	O
+agree	O
+--	O
+in	O
+regard	O
+to	O
+griffin	B-CHARACTER
+’s	O
+ghost	O
+,	O
+or	O
+whatever	O
+it	O
+was	O
+--	O
+that	O
+its	O
+appearing	O
+first	O
+to	O
+the	O
+little	O
+boy	O
+,	O
+at	O
+so	O
+tender	O
+an	O
+age	O
+,	O
+adds	O
+a	O
+particular	O
+touch	O
+.	O
+
+# id = litbank-0721
+# source = LitBank
+# book = The Turn of the Screw
+# book_id = 209_the_turn_of_the_screw
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/209_the_turn_of_the_screw_brat.tsv
+# text = i can see douglas there before the fire , to which he had got up to present his back , looking down at his interlocutor with his hands in his pockets .
+i	O
+can	O
+see	O
+douglas	B-CHARACTER
+there	O
+before	O
+the	O
+fire	O
+,	O
+to	O
+which	O
+he	O
+had	O
+got	O
+up	O
+to	O
+present	O
+his	O
+back	O
+,	O
+looking	O
+down	O
+at	O
+his	O
+interlocutor	O
+with	O
+his	O
+hands	O
+in	O
+his	O
+pockets	O
+.	O
+
+# id = litbank-0722
+# source = LitBank
+# book = The Turn of the Screw
+# book_id = 209_the_turn_of_the_screw
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/209_the_turn_of_the_screw_brat.tsv
+# text = mrs. griffin , however , expressed the need for a little more light .
+mrs.	B-CHARACTER
+griffin	I-CHARACTER
+,	O
+however	O
+,	O
+expressed	O
+the	O
+need	O
+for	O
+a	O
+little	O
+more	O
+light	O
+.	O
+
+# id = litbank-0723
+# source = LitBank
+# book = The Turn of the Screw
+# book_id = 209_the_turn_of_the_screw
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/209_the_turn_of_the_screw_brat.tsv
+# text = “ the story wo n’t tell , ” said douglas ; “ not in any literal , vulgar way . ”
+“	O
+the	O
+story	O
+wo	O
+n’t	O
+tell	O
+,	O
+”	O
+said	O
+douglas	B-CHARACTER
+;	O
+“	O
+not	O
+in	O
+any	O
+literal	O
+,	O
+vulgar	O
+way	O
+.	O
+”	O
+
+# id = litbank-0724
+# source = LitBank
+# book = The Turn of the Screw
+# book_id = 209_the_turn_of_the_screw
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/209_the_turn_of_the_screw_brat.tsv
+# text = from our end of the great brown hall we heard his step on the stair ; whereupon mrs. griffin spoke .
+from	O
+our	O
+end	O
+of	O
+the	O
+great	O
+brown	O
+hall	O
+we	O
+heard	O
+his	O
+step	O
+on	O
+the	O
+stair	O
+;	O
+whereupon	O
+mrs.	B-CHARACTER
+griffin	I-CHARACTER
+spoke	O
+.	O
+
+# id = litbank-0725
+# source = LitBank
+# book = The Turn of the Screw
+# book_id = 209_the_turn_of_the_screw
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/209_the_turn_of_the_screw_brat.tsv
+# text = griffin put in .
+griffin	B-CHARACTER
+put	O
+in	O
+.	O
+
+# id = litbank-0726
+# source = LitBank
+# book = The Turn of the Screw
+# book_id = 209_the_turn_of_the_screw
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/209_the_turn_of_the_screw_brat.tsv
+# text = poor douglas , before his death -- when it was in sight -- committed to me the manuscript that reached him on the third of these days and that , on the same spot , with immense effect , he began to read to our hushed little circle on the night of the fourth .
+poor	O
+douglas	B-CHARACTER
+,	O
+before	O
+his	O
+death	O
+--	O
+when	O
+it	O
+was	O
+in	O
+sight	O
+--	O
+committed	O
+to	O
+me	O
+the	O
+manuscript	O
+that	O
+reached	O
+him	O
+on	O
+the	O
+third	O
+of	O
+these	O
+days	O
+and	O
+that	O
+,	O
+on	O
+the	O
+same	O
+spot	O
+,	O
+with	O
+immense	O
+effect	O
+,	O
+he	O
+began	O
+to	O
+read	O
+to	O
+our	O
+hushed	O
+little	O
+circle	O
+on	O
+the	O
+night	O
+of	O
+the	O
+fourth	O
+.	O
+
+# id = litbank-0714
+# source = LitBank
+# book = The Turn of the Screw
+# book_id = 209_the_turn_of_the_screw
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/209_the_turn_of_the_screw_brat.tsv
+# text = the turn of the screw the story had held us , round the fire , sufficiently breathless , but except the obvious remark that it was gruesome , as , on christmas eve in an old house , a strange tale should essentially be , i remember no comment uttered till somebody happened to say that it was the only case he had met in which such a visitation had fallen on a child .
+the	O
+turn	O
+of	O
+the	O
+screw	O
+the	O
+story	O
+had	O
+held	O
+us	O
+,	O
+round	O
+the	O
+fire	O
+,	O
+sufficiently	O
+breathless	O
+,	O
+but	O
+except	O
+the	O
+obvious	O
+remark	O
+that	O
+it	O
+was	O
+gruesome	O
+,	O
+as	O
+,	O
+on	O
+christmas	O
+eve	O
+in	O
+an	O
+old	O
+house	O
+,	O
+a	O
+strange	O
+tale	O
+should	O
+essentially	O
+be	O
+,	O
+i	O
+remember	O
+no	O
+comment	O
+uttered	O
+till	O
+somebody	O
+happened	O
+to	O
+say	O
+that	O
+it	O
+was	O
+the	O
+only	O
+case	O
+he	O
+had	O
+met	O
+in	O
+which	O
+such	O
+a	O
+visitation	O
+had	O
+fallen	O
+on	O
+a	O
+child	O
+.	O
+
+# id = litbank-0716
+# source = LitBank
+# book = The Turn of the Screw
+# book_id = 209_the_turn_of_the_screw
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/209_the_turn_of_the_screw_brat.tsv
+# text = someone else told a story not particularly effective , which i saw he was not following .
+someone	O
+else	O
+told	O
+a	O
+story	O
+not	O
+particularly	O
+effective	O
+,	O
+which	O
+i	O
+saw	O
+he	O
+was	O
+not	O
+following	O
+.	O
+
+# id = litbank-0717
+# source = LitBank
+# book = The Turn of the Screw
+# book_id = 209_the_turn_of_the_screw
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/209_the_turn_of_the_screw_brat.tsv
+# text = this i took for a sign that he had himself something to produce and that we should only have to wait .
+this	O
+i	O
+took	O
+for	O
+a	O
+sign	O
+that	O
+he	O
+had	O
+himself	O
+something	O
+to	O
+produce	O
+and	O
+that	O
+we	O
+should	O
+only	O
+have	O
+to	O
+wait	O
+.	O
+
+# id = litbank-0718
+# source = LitBank
+# book = The Turn of the Screw
+# book_id = 209_the_turn_of_the_screw
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/209_the_turn_of_the_screw_brat.tsv
+# text = we waited in fact till two nights later ; but that same evening , before we scattered , he brought out what was in his mind .
+we	O
+waited	O
+in	O
+fact	O
+till	O
+two	O
+nights	O
+later	O
+;	O
+but	O
+that	O
+same	O
+evening	O
+,	O
+before	O
+we	O
+scattered	O
+,	O
+he	O
+brought	O
+out	O
+what	O
+was	O
+in	O
+his	O
+mind	O
+.	O
+
+# id = litbank-0720
+# source = LitBank
+# book = The Turn of the Screw
+# book_id = 209_the_turn_of_the_screw
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/209_the_turn_of_the_screw_brat.tsv
+# text = but it ’s not the first occurrence of its charming kind that i know to have involved a child .
+but	O
+it	O
+’s	O
+not	O
+the	O
+first	O
+occurrence	O
+of	O
+its	O
+charming	O
+kind	O
+that	O
+i	O
+know	O
+to	O
+have	O
+involved	O
+a	O
+child	O
+.	O
+

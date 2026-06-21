@@ -1,0 +1,1514 @@
+# id = litbank-2016
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = chapter 1 mrs gildea had settled early to her morning 's work in what she called the veranda-study of her cottage in leichardt 's town .
+chapter	O
+1	O
+mrs	B-CHARACTER
+gildea	I-CHARACTER
+had	O
+settled	O
+early	O
+to	O
+her	O
+morning	O
+'s	O
+work	O
+in	O
+what	O
+she	O
+called	O
+the	O
+veranda-study	O
+of	O
+her	O
+cottage	O
+in	O
+leichardt	O
+'s	O
+town	O
+.	O
+
+# id = litbank-2020
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = one of these , a stephanotis , showed masses of white bloom , which joan gildea casually reflected would have fetched a pretty sum in covent garden , and , joining in with a fine-growing asparagus fern , formed an arch over the entrance steps .
+one	O
+of	O
+these	O
+,	O
+a	O
+stephanotis	O
+,	O
+showed	O
+masses	O
+of	O
+white	O
+bloom	O
+,	O
+which	O
+joan	B-CHARACTER
+gildea	I-CHARACTER
+casually	O
+reflected	O
+would	O
+have	O
+fetched	O
+a	O
+pretty	O
+sum	O
+in	O
+covent	O
+garden	O
+,	O
+and	O
+,	O
+joining	O
+in	O
+with	O
+a	O
+fine-growing	O
+asparagus	O
+fern	O
+,	O
+formed	O
+an	O
+arch	O
+over	O
+the	O
+entrance	O
+steps	O
+.	O
+
+# id = litbank-2021
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = the end of the veranda , where mrs gildea had established herself with her type-writer and paraphernalia of literary work , was screened by a thick-stemmed grape-vine , which made a dapple of shadow and sunshine upon the boarded floor .
+the	O
+end	O
+of	O
+the	O
+veranda	O
+,	O
+where	O
+mrs	B-CHARACTER
+gildea	I-CHARACTER
+had	O
+established	O
+herself	O
+with	O
+her	O
+type-writer	O
+and	O
+paraphernalia	O
+of	O
+literary	O
+work	O
+,	O
+was	O
+screened	O
+by	O
+a	O
+thick-stemmed	O
+grape-vine	O
+,	O
+which	O
+made	O
+a	O
+dapple	O
+of	O
+shadow	O
+and	O
+sunshine	O
+upon	O
+the	O
+boarded	O
+floor	O
+.	O
+
+# id = litbank-2024
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = from where mrs gildea sat , she had a view of almost the whole reach of the river where it circles emu point .
+from	O
+where	O
+mrs	B-CHARACTER
+gildea	I-CHARACTER
+sat	O
+,	O
+she	O
+had	O
+a	O
+view	O
+of	O
+almost	O
+the	O
+whole	O
+reach	O
+of	O
+the	O
+river	O
+where	O
+it	O
+circles	O
+emu	O
+point	O
+.	O
+
+# id = litbank-2025
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = mrs gildea could see the plan of the main street in the middle point and the roofs of shops and offices .
+mrs	B-CHARACTER
+gildea	I-CHARACTER
+could	O
+see	O
+the	O
+plan	O
+of	O
+the	O
+main	O
+street	O
+in	O
+the	O
+middle	O
+point	O
+and	O
+the	O
+roofs	O
+of	O
+shops	O
+and	O
+offices	O
+.	O
+
+# id = litbank-2026
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = a pleasant study , if a bit distracting from its plenitude of associations to australian-born joan gildea , who , on her marriage , had been transplanted into english soil , as care-free as a rose cut from the parent stem , and who now , after nearly twenty years , had returned to the scene of her youth -- a widow , a working journalist and shorn of most of her early illusions .
+a	O
+pleasant	O
+study	O
+,	O
+if	O
+a	O
+bit	O
+distracting	O
+from	O
+its	O
+plenitude	O
+of	O
+associations	O
+to	O
+australian-born	O
+joan	B-CHARACTER
+gildea	I-CHARACTER
+,	O
+who	O
+,	O
+on	O
+her	O
+marriage	O
+,	O
+had	O
+been	O
+transplanted	O
+into	O
+english	O
+soil	O
+,	O
+as	O
+care-free	O
+as	O
+a	O
+rose	O
+cut	O
+from	O
+the	O
+parent	O
+stem	O
+,	O
+and	O
+who	O
+now	O
+,	O
+after	O
+nearly	O
+twenty	O
+years	O
+,	O
+had	O
+returned	O
+to	O
+the	O
+scene	O
+of	O
+her	O
+youth	O
+--	O
+a	O
+widow	O
+,	O
+a	O
+working	O
+journalist	O
+and	O
+shorn	O
+of	O
+most	O
+of	O
+her	O
+early	O
+illusions	O
+.	O
+
+# id = litbank-2027
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = there was her weekly letter for the imperialist to send off by to-morrow 's mail , and , moreover , she had to digest the reasons of the eminent journal for returning to her an article that had not met with the editor 's approval -- the great gibbs : a potent newspaper-factor in the british policy of the day .
+there	O
+was	O
+her	O
+weekly	O
+letter	O
+for	O
+the	O
+imperialist	O
+to	O
+send	O
+off	O
+by	O
+to-morrow	O
+'s	O
+mail	O
+,	O
+and	O
+,	O
+moreover	O
+,	O
+she	O
+had	O
+to	O
+digest	O
+the	O
+reasons	O
+of	O
+the	O
+eminent	O
+journal	O
+for	O
+returning	O
+to	O
+her	O
+an	O
+article	O
+that	O
+had	O
+not	O
+met	O
+with	O
+the	O
+editor	O
+'s	O
+approval	O
+--	O
+the	O
+great	O
+gibbs	B-CHARACTER
+:	O
+a	O
+potent	O
+newspaper-factor	O
+in	O
+the	O
+british	O
+policy	O
+of	O
+the	O
+day	O
+.	O
+
+# id = litbank-2028
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = it had been an immense honour when mr gibbs had chosen joan gildea from amongst his staff for a roving commission to report upon the political , financial , economic and social aspects of australia , and upon imperial interests generally , as represented in various sideshows on her route .
+it	O
+had	O
+been	O
+an	O
+immense	O
+honour	O
+when	O
+mr	B-CHARACTER
+gibbs	I-CHARACTER
+had	O
+chosen	O
+joan	B-CHARACTER
+gildea	I-CHARACTER
+from	O
+amongst	O
+his	O
+staff	O
+for	O
+a	O
+roving	O
+commission	O
+to	O
+report	O
+upon	O
+the	O
+political	O
+,	O
+financial	O
+,	O
+economic	O
+and	O
+social	O
+aspects	O
+of	O
+australia	O
+,	O
+and	O
+upon	O
+imperial	O
+interests	O
+generally	O
+,	O
+as	O
+represented	O
+in	O
+various	O
+sideshows	O
+on	O
+her	O
+route	O
+.	O
+
+# id = litbank-2029
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = but it happened that she was now suffering from a change at the last moment in that route -- a substitution of the commplace p. & o. for the more exciting canadian pacific , mr gibbs having suddenly decided that imperialism in australia demanded his special correspondent 's immediate attention .
+but	O
+it	O
+happened	O
+that	O
+she	O
+was	O
+now	O
+suffering	O
+from	O
+a	O
+change	O
+at	O
+the	O
+last	O
+moment	O
+in	O
+that	O
+route	O
+--	O
+a	O
+substitution	O
+of	O
+the	O
+commplace	O
+p.	O
+&	O
+o.	O
+for	O
+the	O
+more	O
+exciting	O
+canadian	O
+pacific	O
+,	O
+mr	B-CHARACTER
+gibbs	I-CHARACTER
+having	O
+suddenly	O
+decided	O
+that	O
+imperialism	O
+in	O
+australia	O
+demanded	O
+his	O
+special	O
+correspondent	O
+'s	O
+immediate	O
+attention	O
+.	O
+
+# id = litbank-2030
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = and gibbs hates having amateur snapshots to work up ... .
+and	O
+gibbs	B-CHARACTER
+hates	O
+having	O
+amateur	O
+snapshots	O
+to	O
+work	O
+up	O
+...	O
+.	O
+
+# id = litbank-2031
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = i wonder if colin mckeith could give me an idea .... .
+i	O
+wonder	O
+if	O
+colin	B-CHARACTER
+mckeith	I-CHARACTER
+could	O
+give	O
+me	O
+an	O
+idea	O
+....	O
+.	O
+
+# id = litbank-2032
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = why to goodness did n't biddy join me !
+why	O
+to	O
+goodness	O
+did	O
+n't	O
+biddy	B-CHARACTER
+join	O
+me	O
+!	O
+
+# id = litbank-2033
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = well , i 'll write and tell her never to expect a literary leg-up from me again ... ' mrs gildea pulled the sheet she had been typing out of the machine , inserted another , altered the notch to single spacing and rattled off at top speed till the page was covered .
+well	O
+,	O
+i	O
+'ll	O
+write	O
+and	O
+tell	O
+her	O
+never	O
+to	O
+expect	O
+a	O
+literary	O
+leg-up	O
+from	O
+me	O
+again	O
+...	O
+'	O
+mrs	B-CHARACTER
+gildea	I-CHARACTER
+pulled	O
+the	O
+sheet	O
+she	O
+had	O
+been	O
+typing	O
+out	O
+of	O
+the	O
+machine	O
+,	O
+inserted	O
+another	O
+,	O
+altered	O
+the	O
+notch	O
+to	O
+single	O
+spacing	O
+and	O
+rattled	O
+off	O
+at	O
+top	O
+speed	O
+till	O
+the	O
+page	O
+was	O
+covered	O
+.	O
+
+# id = litbank-2034
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = the she appended her signature and wrote this address : to the lady bridget o'hara , care of eliza countess of gaverick , upper brook street , london , w. on an envelope , into which she slipped her letter -- a letter never to be sent .
+the	O
+she	O
+appended	O
+her	O
+signature	O
+and	O
+wrote	O
+this	O
+address	O
+:	O
+to	O
+the	O
+lady	O
+bridget	B-CHARACTER
+o'hara	I-CHARACTER
+,	O
+care	O
+of	O
+eliza	B-CHARACTER
+countess	B-CHARACTER
+of	I-CHARACTER
+gaverick	I-CHARACTER
+,	O
+upper	O
+brook	O
+street	O
+,	O
+london	O
+,	O
+w.	O
+on	O
+an	O
+envelope	O
+,	O
+into	O
+which	O
+she	O
+slipped	O
+her	O
+letter	O
+--	O
+a	O
+letter	O
+never	O
+to	O
+be	O
+sent	O
+.	O
+
+# id = litbank-2035
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = ' morning , mrs gildea ... a heavy mail for you ! '
+'	O
+morning	O
+,	O
+mrs	B-CHARACTER
+gildea	I-CHARACTER
+...	O
+a	O
+heavy	O
+mail	O
+for	O
+you	O
+!	O
+'	O
+
+# id = litbank-2036
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = he planked down the usual editorial packet -- two or three rolls of proofs , a collection of newspapers , a bulky parcel of private correspondence sent on by the porter of mrs gildea 's london flat , some local letters and , finally , two square envelopes , with the remark , as he turned away on his round .
+he	O
+planked	O
+down	O
+the	O
+usual	O
+editorial	O
+packet	O
+--	O
+two	O
+or	O
+three	O
+rolls	O
+of	O
+proofs	O
+,	O
+a	O
+collection	O
+of	O
+newspapers	O
+,	O
+a	O
+bulky	O
+parcel	O
+of	O
+private	O
+correspondence	O
+sent	O
+on	O
+by	O
+the	O
+porter	O
+of	O
+mrs	B-CHARACTER
+gildea	I-CHARACTER
+'s	O
+london	O
+flat	O
+,	O
+some	O
+local	O
+letters	O
+and	O
+,	O
+finally	O
+,	O
+two	O
+square	O
+envelopes	O
+,	O
+with	O
+the	O
+remark	O
+,	O
+as	O
+he	O
+turned	O
+away	O
+on	O
+his	O
+round	O
+.	O
+
+# id = litbank-2037
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = mrs gildea , those letters seem to have done a bit of globe-trotting on their own , do n't they ! '
+mrs	B-CHARACTER
+gildea	I-CHARACTER
+,	O
+those	O
+letters	O
+seem	O
+to	O
+have	O
+done	O
+a	O
+bit	O
+of	O
+globe-trotting	O
+on	O
+their	O
+own	O
+,	O
+do	O
+n't	O
+they	O
+!	O
+'	O
+
+# id = litbank-2038
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = mrs gildea recognised the impulsive , untidy but characteristic handwriting of lady bridget o'hara .
+mrs	B-CHARACTER
+gildea	I-CHARACTER
+recognised	O
+the	O
+impulsive	O
+,	O
+untidy	O
+but	O
+characteristic	O
+handwriting	O
+of	O
+lady	B-CHARACTER
+bridget	I-CHARACTER
+o'hara	I-CHARACTER
+.	O
+
+# id = litbank-2039
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = ' from biddy at last ! '
+'	O
+from	O
+biddy	B-CHARACTER
+at	O
+last	O
+!	O
+'	O
+
+# id = litbank-2040
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = mr gibbs was not quite so tiresome as she had feared he would be .
+mr	B-CHARACTER
+gibbs	I-CHARACTER
+was	O
+not	O
+quite	O
+so	O
+tiresome	O
+as	O
+she	O
+had	O
+feared	O
+he	O
+would	O
+be	O
+.	O
+
+# id = litbank-2041
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = that it had reached her at all , said a good deal for mrs gildea 's fame as a freely paragraphed newspaper correspondent .
+that	O
+it	O
+had	O
+reached	O
+her	O
+at	O
+all	O
+,	O
+said	O
+a	O
+good	O
+deal	O
+for	O
+mrs	B-CHARACTER
+gildea	I-CHARACTER
+'s	O
+fame	O
+as	O
+a	O
+freely	O
+paragraphed	O
+newspaper	O
+correspondent	O
+.	O
+
+# id = litbank-2042
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = the telegram was phrased thus : sorry impossible no funds other reasons writing biddy mrs gildea 's illuminative ' h 'm ! '
+the	O
+telegram	O
+was	O
+phrased	O
+thus	O
+:	O
+sorry	O
+impossible	O
+no	O
+funds	O
+other	O
+reasons	O
+writing	O
+biddy	B-CHARACTER
+mrs	B-CHARACTER
+gildea	I-CHARACTER
+'s	O
+illuminative	O
+'	O
+h	O
+'m	O
+!	O
+'	O
+
+# id = litbank-2043
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = she scented instantly another of biddy 's tempestuous love-affairs .
+she	O
+scented	O
+instantly	O
+another	O
+of	O
+biddy	B-CHARACTER
+'s	O
+tempestuous	O
+love-affairs	O
+.	O
+
+# id = litbank-2044
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = had it been merely a question of lack of money with inclination goading , she felt pretty certain that lady bridget would have contrived to beg , borrow or steal -- on a hazardous promissory note , after the happy-go-lucky financial morals of that section of society to which by birth she belonged .
+had	O
+it	O
+been	O
+merely	O
+a	O
+question	O
+of	O
+lack	O
+of	O
+money	O
+with	O
+inclination	O
+goading	O
+,	O
+she	O
+felt	O
+pretty	O
+certain	O
+that	O
+lady	B-CHARACTER
+bridget	I-CHARACTER
+would	O
+have	O
+contrived	O
+to	O
+beg	O
+,	O
+borrow	O
+or	O
+steal	O
+--	O
+on	O
+a	O
+hazardous	O
+promissory	O
+note	O
+,	O
+after	O
+the	O
+happy-go-lucky	O
+financial	O
+morals	O
+of	O
+that	O
+section	O
+of	O
+society	O
+to	O
+which	O
+by	O
+birth	O
+she	O
+belonged	O
+.	O
+
+# id = litbank-2045
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = or , failing these means , that she would have threatened some mad enterprise and so have frightened her aunt eliza countess of gaverick into writing a cheque for three figures .
+or	O
+,	O
+failing	O
+these	O
+means	O
+,	O
+that	O
+she	O
+would	O
+have	O
+threatened	O
+some	O
+mad	O
+enterprise	O
+and	O
+so	O
+have	O
+frightened	O
+her	O
+aunt	O
+eliza	B-CHARACTER
+countess	B-CHARACTER
+of	I-CHARACTER
+gaverick	I-CHARACTER
+into	O
+writing	O
+a	O
+cheque	O
+for	O
+three	O
+figures	O
+.	O
+
+# id = litbank-2046
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = mrs gildea opened the two envelopes and sorted the pages in order of their dates .
+mrs	B-CHARACTER
+gildea	I-CHARACTER
+opened	O
+the	O
+two	O
+envelopes	O
+and	O
+sorted	O
+the	O
+pages	O
+in	O
+order	O
+of	O
+their	O
+dates	O
+.	O
+
+# id = litbank-2047
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = the first had the address of a house in south belgravia , where lived sir luke tallant of the colonial office and rosamond his wife -- distant connections of the gavericks .
+the	O
+first	O
+had	O
+the	O
+address	O
+of	O
+a	O
+house	O
+in	O
+south	O
+belgravia	O
+,	O
+where	O
+lived	O
+sir	B-CHARACTER
+luke	I-CHARACTER
+tallant	I-CHARACTER
+of	O
+the	O
+colonial	O
+office	O
+and	O
+rosamond	B-CHARACTER
+his	O
+wife	O
+--	O
+distant	O
+connections	O
+of	O
+the	O
+gavericks	O
+.	O
+
+# id = litbank-2048
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = lady bridget 's letters were type-written , most carelessly , with the mistakes corrected down the margin of the flimsy sheets in the manner of author 's proof -- the whole appearance of them suggesting literary ' copy ' .
+lady	B-CHARACTER
+bridget	I-CHARACTER
+'s	O
+letters	O
+were	O
+type-written	O
+,	O
+most	O
+carelessly	O
+,	O
+with	O
+the	O
+mistakes	O
+corrected	O
+down	O
+the	O
+margin	O
+of	O
+the	O
+flimsy	O
+sheets	O
+in	O
+the	O
+manner	O
+of	O
+author	O
+'s	O
+proof	O
+--	O
+the	O
+whole	O
+appearance	O
+of	O
+them	O
+suggesting	O
+literary	O
+'	O
+copy	O
+'	O
+.	O
+
+# id = litbank-2049
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = chapter 2 ' dearest joan , you 'll have got my wire .
+chapter	O
+2	O
+'	O
+dearest	O
+joan	B-CHARACTER
+,	O
+you	O
+'ll	O
+have	O
+got	O
+my	O
+wire	O
+.	O
+
+# id = litbank-2050
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = since then i have been at montreux with chris and molly , and since i came back to england with them , i 've been in too chaotic a state of mind to write letters .
+since	O
+then	O
+i	O
+have	O
+been	O
+at	O
+montreux	O
+with	O
+chris	B-CHARACTER
+and	O
+molly	B-CHARACTER
+,	O
+and	O
+since	O
+i	O
+came	O
+back	O
+to	O
+england	O
+with	O
+them	O
+,	O
+i	O
+'ve	O
+been	O
+in	O
+too	O
+chaotic	O
+a	O
+state	O
+of	O
+mind	O
+to	O
+write	O
+letters	O
+.	O
+
+# id = litbank-2051
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = really , chris and molly 's atmosphere of struggling to keep in the swim on next to nothing a year and of eking out a precarious income by visits to second-rate country houses and cadging on their london friends gets on my nerves to such an extent that luke and rosamond 's established " colonial office " sort of respectability is quite refreshing by contrast .
+really	O
+,	O
+chris	B-CHARACTER
+and	O
+molly	B-CHARACTER
+'s	O
+atmosphere	O
+of	O
+struggling	O
+to	O
+keep	O
+in	O
+the	O
+swim	O
+on	O
+next	O
+to	O
+nothing	O
+a	O
+year	O
+and	O
+of	O
+eking	O
+out	O
+a	O
+precarious	O
+income	O
+by	O
+visits	O
+to	O
+second-rate	O
+country	O
+houses	O
+and	O
+cadging	O
+on	O
+their	O
+london	O
+friends	O
+gets	O
+on	O
+my	O
+nerves	O
+to	O
+such	O
+an	O
+extent	O
+that	O
+luke	B-CHARACTER
+and	O
+rosamond	B-CHARACTER
+'s	O
+established	O
+"	O
+colonial	O
+office	O
+"	O
+sort	O
+of	O
+respectability	O
+is	O
+quite	O
+refreshing	O
+by	O
+contrast	O
+.	O
+
+# id = litbank-2017
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = it was a primitive cottage of the old style , standing in a garden and built on the cliff -- the emu point side -- overlooking the broad leichardt river .
+it	O
+was	O
+a	O
+primitive	O
+cottage	O
+of	O
+the	O
+old	O
+style	O
+,	O
+standing	O
+in	O
+a	O
+garden	O
+and	O
+built	O
+on	O
+the	O
+cliff	O
+--	O
+the	O
+emu	O
+point	O
+side	O
+--	O
+overlooking	O
+the	O
+broad	O
+leichardt	O
+river	O
+.	O
+
+# id = litbank-2018
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = the veranda , quite twelve feet wide , ran -- australian fashion -- along the front of the cottage , except for the two closed-in ends forming , one a bathroom and the other a kind of store closet .
+the	O
+veranda	O
+,	O
+quite	O
+twelve	O
+feet	O
+wide	O
+,	O
+ran	O
+--	O
+australian	O
+fashion	O
+--	O
+along	O
+the	O
+front	O
+of	O
+the	O
+cottage	O
+,	O
+except	O
+for	O
+the	O
+two	O
+closed-in	O
+ends	O
+forming	O
+,	O
+one	O
+a	O
+bathroom	O
+and	O
+the	O
+other	O
+a	O
+kind	O
+of	O
+store	O
+closet	O
+.	O
+
+# id = litbank-2019
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = being raised a few feet above the ground , the veranda was enclosed by a wooden railing , and this and the supporting posts were twined with creepers that must have been planted at least thirty years .
+being	O
+raised	O
+a	O
+few	O
+feet	O
+above	O
+the	O
+ground	O
+,	O
+the	O
+veranda	O
+was	O
+enclosed	O
+by	O
+a	O
+wooden	O
+railing	O
+,	O
+and	O
+this	O
+and	O
+the	O
+supporting	O
+posts	O
+were	O
+twined	O
+with	O
+creepers	O
+that	O
+must	O
+have	O
+been	O
+planted	O
+at	O
+least	O
+thirty	O
+years	O
+.	O
+
+# id = litbank-2022
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = some bunches of late grapes -- it was the very beginning of march -- hung upon the vine , and , at the other end of the veranda , grew a passion creeper , its great purple fruit looking like huge plums amidst its vivid green leaves .
+some	O
+bunches	O
+of	O
+late	O
+grapes	O
+--	O
+it	O
+was	O
+the	O
+very	O
+beginning	O
+of	O
+march	O
+--	O
+hung	O
+upon	O
+the	O
+vine	O
+,	O
+and	O
+,	O
+at	O
+the	O
+other	O
+end	O
+of	O
+the	O
+veranda	O
+,	O
+grew	O
+a	O
+passion	O
+creeper	O
+,	O
+its	O
+great	O
+purple	O
+fruit	O
+looking	O
+like	O
+huge	O
+plums	O
+amidst	O
+its	O
+vivid	O
+green	O
+leaves	O
+.	O
+
+# id = litbank-2023
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = the roof of the veranda was low , with projecting eaves , below which a bunch of yellowing bananas hung to ripen .
+the	O
+roof	O
+of	O
+the	O
+veranda	O
+was	O
+low	O
+,	O
+with	O
+projecting	O
+eaves	O
+,	O
+below	O
+which	O
+a	O
+bunch	O
+of	O
+yellowing	O
+bananas	O
+hung	O
+to	O
+ripen	O
+.	O
+

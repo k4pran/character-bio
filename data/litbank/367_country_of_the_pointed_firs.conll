@@ -1,0 +1,1111 @@
+# id = litbank-0894
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = mrs. todd later , there was only one fault to find with this choice of a summer lodging-place , and that was its complete lack of seclusion .
+mrs.	B-CHARACTER
+todd	I-CHARACTER
+later	O
+,	O
+there	O
+was	O
+only	O
+one	O
+fault	O
+to	O
+find	O
+with	O
+this	O
+choice	O
+of	O
+a	O
+summer	O
+lodging-place	O
+,	O
+and	O
+that	O
+was	O
+its	O
+complete	O
+lack	O
+of	O
+seclusion	O
+.	O
+
+# id = litbank-0895
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = at first the tiny house of mrs. almira todd , which stood with its end to the street , appeared to be retired and sheltered enough from the busy world , behind its bushy bit of a green garden , in which all the blooming things , two or three gay hollyhocks and some london-pride , were pushed back against the gray-shingled wall .
+at	O
+first	O
+the	O
+tiny	O
+house	O
+of	O
+mrs.	B-CHARACTER
+almira	I-CHARACTER
+todd	I-CHARACTER
+,	O
+which	O
+stood	O
+with	O
+its	O
+end	O
+to	O
+the	O
+street	O
+,	O
+appeared	O
+to	O
+be	O
+retired	O
+and	O
+sheltered	O
+enough	O
+from	O
+the	O
+busy	O
+world	O
+,	O
+behind	O
+its	O
+bushy	O
+bit	O
+of	O
+a	O
+green	O
+garden	O
+,	O
+in	O
+which	O
+all	O
+the	O
+blooming	O
+things	O
+,	O
+two	O
+or	O
+three	O
+gay	O
+hollyhocks	O
+and	O
+some	O
+london-pride	O
+,	O
+were	O
+pushed	O
+back	O
+against	O
+the	O
+gray-shingled	O
+wall	O
+.	O
+
+# id = litbank-0896
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = it was a queer little garden and puzzling to a stranger , the few flowers being put at a disadvantage by so much greenery ; but the discovery was soon made that mrs. todd was an ardent lover of herbs , both wild and tame , and the sea-breezes blew into the low end-window of the house laden with not only sweet-brier and sweet-mary , but balm and sage and borage and mint , wormwood and southernwood .
+it	O
+was	O
+a	O
+queer	O
+little	O
+garden	O
+and	O
+puzzling	O
+to	O
+a	O
+stranger	O
+,	O
+the	O
+few	O
+flowers	O
+being	O
+put	O
+at	O
+a	O
+disadvantage	O
+by	O
+so	O
+much	O
+greenery	O
+;	O
+but	O
+the	O
+discovery	O
+was	O
+soon	O
+made	O
+that	O
+mrs.	B-CHARACTER
+todd	I-CHARACTER
+was	O
+an	O
+ardent	O
+lover	O
+of	O
+herbs	O
+,	O
+both	O
+wild	O
+and	O
+tame	O
+,	O
+and	O
+the	O
+sea-breezes	O
+blew	O
+into	O
+the	O
+low	O
+end-window	O
+of	O
+the	O
+house	O
+laden	O
+with	O
+not	O
+only	O
+sweet-brier	O
+and	O
+sweet-mary	O
+,	O
+but	O
+balm	O
+and	O
+sage	O
+and	O
+borage	O
+and	O
+mint	O
+,	O
+wormwood	O
+and	O
+southernwood	O
+.	O
+
+# id = litbank-0897
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = if mrs. todd had occasion to step into the far corner of her herb plot , she trod heavily upon thyme , and made its fragrant presence known with all the rest .
+if	O
+mrs.	B-CHARACTER
+todd	I-CHARACTER
+had	O
+occasion	O
+to	O
+step	O
+into	O
+the	O
+far	O
+corner	O
+of	O
+her	O
+herb	O
+plot	O
+,	O
+she	O
+trod	O
+heavily	O
+upon	O
+thyme	O
+,	O
+and	O
+made	O
+its	O
+fragrant	O
+presence	O
+known	O
+with	O
+all	O
+the	O
+rest	O
+.	O
+
+# id = litbank-0898
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = some of these might once have belonged to sacred and mystic rites , and have had some occult knowledge handed with them down the centuries ; but now they pertained only to humble compounds brewed at intervals with molasses or vinegar or spirits in a small caldron on mrs. todd ’s kitchen stove .
+some	O
+of	O
+these	O
+might	O
+once	O
+have	O
+belonged	O
+to	O
+sacred	O
+and	O
+mystic	O
+rites	O
+,	O
+and	O
+have	O
+had	O
+some	O
+occult	O
+knowledge	O
+handed	O
+with	O
+them	O
+down	O
+the	O
+centuries	O
+;	O
+but	O
+now	O
+they	O
+pertained	O
+only	O
+to	O
+humble	O
+compounds	O
+brewed	O
+at	O
+intervals	O
+with	O
+molasses	O
+or	O
+vinegar	O
+or	O
+spirits	O
+in	O
+a	O
+small	O
+caldron	O
+on	O
+mrs.	B-CHARACTER
+todd	I-CHARACTER
+’s	O
+kitchen	O
+stove	O
+.	O
+
+# id = litbank-0899
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = with most remedies the purchaser was allowed to depart unadmonished from the kitchen , mrs. todd being a wise saver of steps ; but with certain vials she gave cautions , standing in the doorway , and there were other doses which had to be accompanied on their healing way as far as the gate , while she muttered long chapters of directions , and kept up an air of secrecy and importance to the last .
+with	O
+most	O
+remedies	O
+the	O
+purchaser	O
+was	O
+allowed	O
+to	O
+depart	O
+unadmonished	O
+from	O
+the	O
+kitchen	O
+,	O
+mrs.	B-CHARACTER
+todd	I-CHARACTER
+being	O
+a	O
+wise	O
+saver	O
+of	O
+steps	O
+;	O
+but	O
+with	O
+certain	O
+vials	O
+she	O
+gave	O
+cautions	O
+,	O
+standing	O
+in	O
+the	O
+doorway	O
+,	O
+and	O
+there	O
+were	O
+other	O
+doses	O
+which	O
+had	O
+to	O
+be	O
+accompanied	O
+on	O
+their	O
+healing	O
+way	O
+as	O
+far	O
+as	O
+the	O
+gate	O
+,	O
+while	O
+she	O
+muttered	O
+long	O
+chapters	O
+of	O
+directions	O
+,	O
+and	O
+kept	O
+up	O
+an	O
+air	O
+of	O
+secrecy	O
+and	O
+importance	O
+to	O
+the	O
+last	O
+.	O
+
+# id = litbank-0900
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = it may not have been only the common aids of humanity with which she tried to cope ; it seemed sometimes as if love and hate and jealousy and adverse winds at sea might also find their proper remedies among the curious wild-looking plants in mrs. todd ’s garden .
+it	O
+may	O
+not	O
+have	O
+been	O
+only	O
+the	O
+common	O
+aids	O
+of	O
+humanity	O
+with	O
+which	O
+she	O
+tried	O
+to	O
+cope	O
+;	O
+it	O
+seemed	O
+sometimes	O
+as	O
+if	O
+love	O
+and	O
+hate	O
+and	O
+jealousy	O
+and	O
+adverse	O
+winds	O
+at	O
+sea	O
+might	O
+also	O
+find	O
+their	O
+proper	O
+remedies	O
+among	O
+the	O
+curious	O
+wild-looking	O
+plants	O
+in	O
+mrs.	B-CHARACTER
+todd	I-CHARACTER
+’s	O
+garden	O
+.	O
+
+# id = litbank-0901
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = the good man may have counted upon the unfavorable effect of certain potions which he should find his opportunity in counteracting ; at any rate , he now and then stopped and exchanged greetings with mrs. todd over the picket fence .
+the	O
+good	O
+man	O
+may	O
+have	O
+counted	O
+upon	O
+the	O
+unfavorable	O
+effect	O
+of	O
+certain	O
+potions	O
+which	O
+he	O
+should	O
+find	O
+his	O
+opportunity	O
+in	O
+counteracting	O
+;	O
+at	O
+any	O
+rate	O
+,	O
+he	O
+now	O
+and	O
+then	O
+stopped	O
+and	O
+exchanged	O
+greetings	O
+with	O
+mrs.	B-CHARACTER
+todd	I-CHARACTER
+over	O
+the	O
+picket	O
+fence	O
+.	O
+
+# id = litbank-0902
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = to arrive at this quietest of seaside villages late in june , when the busy herb-gathering season was just beginning , was also to arrive in the early prime of mrs. todd ’s activity in the brewing of old-fashioned spruce beer .
+to	O
+arrive	O
+at	O
+this	O
+quietest	O
+of	O
+seaside	O
+villages	O
+late	O
+in	O
+june	O
+,	O
+when	O
+the	O
+busy	O
+herb-gathering	O
+season	O
+was	O
+just	O
+beginning	O
+,	O
+was	O
+also	O
+to	O
+arrive	O
+in	O
+the	O
+early	O
+prime	O
+of	O
+mrs.	B-CHARACTER
+todd	I-CHARACTER
+’s	O
+activity	O
+in	O
+the	O
+brewing	O
+of	O
+old-fashioned	O
+spruce	O
+beer	O
+.	O
+
+# id = litbank-0903
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = it was soon found that this arrangement made large allowance for mrs. todd ’s slow herb-gathering progresses through woods and pastures .
+it	O
+was	O
+soon	O
+found	O
+that	O
+this	O
+arrangement	O
+made	O
+large	O
+allowance	O
+for	O
+mrs.	B-CHARACTER
+todd	I-CHARACTER
+’s	O
+slow	O
+herb-gathering	O
+progresses	O
+through	O
+woods	O
+and	O
+pastures	O
+.	O
+
+# id = litbank-0904
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = knowing mrs. todd to be a widow , who had little beside this slender business and the income from one hungry lodger to maintain her , one ’s energies and even interest were quickly bestowed , until it became a matter of course that she should go afield every pleasant day , and that the lodger should answer all peremptory knocks at the side door .
+knowing	O
+mrs.	B-CHARACTER
+todd	I-CHARACTER
+to	O
+be	O
+a	O
+widow	O
+,	O
+who	O
+had	O
+little	O
+beside	O
+this	O
+slender	O
+business	O
+and	O
+the	O
+income	O
+from	O
+one	O
+hungry	O
+lodger	O
+to	O
+maintain	O
+her	O
+,	O
+one	O
+’s	O
+energies	O
+and	O
+even	O
+interest	O
+were	O
+quickly	O
+bestowed	O
+,	O
+until	O
+it	O
+became	O
+a	O
+matter	O
+of	O
+course	O
+that	O
+she	O
+should	O
+go	O
+afield	O
+every	O
+pleasant	O
+day	O
+,	O
+and	O
+that	O
+the	O
+lodger	O
+should	O
+answer	O
+all	O
+peremptory	O
+knocks	O
+at	O
+the	O
+side	O
+door	O
+.	O
+
+# id = litbank-0905
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = in taking an occasional wisdom-giving stroll in mrs. todd ’s company , and in acting as business partner during her frequent absences , i found the july days fly fast , and it was not until i felt myself confronted with too great pride and pleasure in the display , one night , of two dollars and twenty-seven cents which i had taken in during the day , that i remembered a long piece of writing , sadly belated now , which i was bound to do .
+in	O
+taking	O
+an	O
+occasional	O
+wisdom-giving	O
+stroll	O
+in	O
+mrs.	B-CHARACTER
+todd	I-CHARACTER
+’s	O
+company	O
+,	O
+and	O
+in	O
+acting	O
+as	O
+business	O
+partner	O
+during	O
+her	O
+frequent	O
+absences	O
+,	O
+i	O
+found	O
+the	O
+july	O
+days	O
+fly	O
+fast	O
+,	O
+and	O
+it	O
+was	O
+not	O
+until	O
+i	O
+felt	O
+myself	O
+confronted	O
+with	O
+too	O
+great	O
+pride	O
+and	O
+pleasure	O
+in	O
+the	O
+display	O
+,	O
+one	O
+night	O
+,	O
+of	O
+two	O
+dollars	O
+and	O
+twenty-seven	O
+cents	O
+which	O
+i	O
+had	O
+taken	O
+in	O
+during	O
+the	O
+day	O
+,	O
+that	O
+i	O
+remembered	O
+a	O
+long	O
+piece	O
+of	O
+writing	O
+,	O
+sadly	O
+belated	O
+now	O
+,	O
+which	O
+i	O
+was	O
+bound	O
+to	O
+do	O
+.	O
+
+# id = litbank-0906
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = literary employments are so vexed with uncertainties at best , and it was not until the voice of conscience sounded louder in my ears than the sea on the nearest pebble beach that i said unkind words of withdrawal to mrs. todd .
+literary	O
+employments	O
+are	O
+so	O
+vexed	O
+with	O
+uncertainties	O
+at	O
+best	O
+,	O
+and	O
+it	O
+was	O
+not	O
+until	O
+the	O
+voice	O
+of	O
+conscience	O
+sounded	O
+louder	O
+in	O
+my	O
+ears	O
+than	O
+the	O
+sea	O
+on	O
+the	O
+nearest	O
+pebble	O
+beach	O
+that	O
+i	O
+said	O
+unkind	O
+words	O
+of	O
+withdrawal	O
+to	O
+mrs.	B-CHARACTER
+todd	I-CHARACTER
+.	O
+
+# id = litbank-0907
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = mrs. todd and i were not separated or estranged by the change in our business relations ; on the contrary , a deeper intimacy seemed to begin .
+mrs.	B-CHARACTER
+todd	I-CHARACTER
+and	O
+i	O
+were	O
+not	O
+separated	O
+or	O
+estranged	O
+by	O
+the	O
+change	O
+in	O
+our	O
+business	O
+relations	O
+;	O
+on	O
+the	O
+contrary	O
+,	O
+a	O
+deeper	O
+intimacy	O
+seemed	O
+to	O
+begin	O
+.	O
+
+# id = litbank-0908
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = then mrs. todd would feel that she must talk to somebody , and i was only too glad to listen .
+then	O
+mrs.	B-CHARACTER
+todd	I-CHARACTER
+would	O
+feel	O
+that	O
+she	O
+must	O
+talk	O
+to	O
+somebody	O
+,	O
+and	O
+i	O
+was	O
+only	O
+too	O
+glad	O
+to	O
+listen	O
+.	O
+
+# id = litbank-0889
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = the return there was something about the coast town of dunnet which made it seem more attractive than other maritime villages of eastern maine .
+the	O
+return	O
+there	O
+was	O
+something	O
+about	O
+the	O
+coast	O
+town	O
+of	O
+dunnet	O
+which	O
+made	O
+it	O
+seem	O
+more	O
+attractive	O
+than	O
+other	O
+maritime	O
+villages	O
+of	O
+eastern	O
+maine	O
+.	O
+
+# id = litbank-0890
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = perhaps it was the simple fact of acquaintance with that neighborhood which made it so attaching , and gave such interest to the rocky shore and dark woods , and the few houses which seemed to be securely wedged and tree-nailed in among the ledges by the landing .
+perhaps	O
+it	O
+was	O
+the	O
+simple	O
+fact	O
+of	O
+acquaintance	O
+with	O
+that	O
+neighborhood	O
+which	O
+made	O
+it	O
+so	O
+attaching	O
+,	O
+and	O
+gave	O
+such	O
+interest	O
+to	O
+the	O
+rocky	O
+shore	O
+and	O
+dark	O
+woods	O
+,	O
+and	O
+the	O
+few	O
+houses	O
+which	O
+seemed	O
+to	O
+be	O
+securely	O
+wedged	O
+and	O
+tree-nailed	O
+in	O
+among	O
+the	O
+ledges	O
+by	O
+the	O
+landing	O
+.	O
+
+# id = litbank-0891
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = these houses made the most of their seaward view , and there was a gayety and determined floweriness in their bits of garden ground ; the small-paned high windows in the peaks of their steep gables were like knowing eyes that watched the harbor and the far sea-line beyond , or looked northward all along the shore and its background of spruces and balsam firs .
+these	O
+houses	O
+made	O
+the	O
+most	O
+of	O
+their	O
+seaward	O
+view	O
+,	O
+and	O
+there	O
+was	O
+a	O
+gayety	O
+and	O
+determined	O
+floweriness	O
+in	O
+their	O
+bits	O
+of	O
+garden	O
+ground	O
+;	O
+the	O
+small-paned	O
+high	O
+windows	O
+in	O
+the	O
+peaks	O
+of	O
+their	O
+steep	O
+gables	O
+were	O
+like	O
+knowing	O
+eyes	O
+that	O
+watched	O
+the	O
+harbor	O
+and	O
+the	O
+far	O
+sea-line	O
+beyond	O
+,	O
+or	O
+looked	O
+northward	O
+all	O
+along	O
+the	O
+shore	O
+and	O
+its	O
+background	O
+of	O
+spruces	O
+and	O
+balsam	O
+firs	O
+.	O
+
+# id = litbank-0892
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = when one really knows a village like this and its surroundings , it is like becoming acquainted with a single person .
+when	O
+one	O
+really	O
+knows	O
+a	O
+village	O
+like	O
+this	O
+and	O
+its	O
+surroundings	O
+,	O
+it	O
+is	O
+like	O
+becoming	O
+acquainted	O
+with	O
+a	O
+single	O
+person	O
+.	O
+
+# id = litbank-0893
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = the process of falling in love at first sight is as final as it is swift in such a case , but the growth of true friendship may be a lifelong affair .
+the	O
+process	O
+of	O
+falling	O
+in	O
+love	O
+at	O
+first	O
+sight	O
+is	O
+as	O
+final	O
+as	O
+it	O
+is	O
+swift	O
+in	O
+such	O
+a	O
+case	O
+,	O
+but	O
+the	O
+growth	O
+of	O
+true	O
+friendship	O
+may	O
+be	O
+a	O
+lifelong	O
+affair	O
+.	O
+

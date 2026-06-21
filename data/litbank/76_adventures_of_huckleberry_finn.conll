@@ -1,0 +1,886 @@
+# id = litbank-0316
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = you do n't know about me without you have read a book by the name of the adventures of tom sawyer ; but that ai n't no matter .
+you	O
+do	O
+n't	O
+know	O
+about	O
+me	O
+without	O
+you	O
+have	O
+read	O
+a	O
+book	O
+by	O
+the	O
+name	O
+of	O
+the	O
+adventures	O
+of	O
+tom	B-CHARACTER
+sawyer	I-CHARACTER
+;	O
+but	O
+that	O
+ai	O
+n't	O
+no	O
+matter	O
+.	O
+
+# id = litbank-0319
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = i never seen anybody but lied one time or another , without it was aunt polly , or the widow , or maybe mary .
+i	O
+never	O
+seen	O
+anybody	O
+but	O
+lied	O
+one	O
+time	O
+or	O
+another	O
+,	O
+without	O
+it	O
+was	O
+aunt	O
+polly	B-CHARACTER
+,	O
+or	O
+the	O
+widow	O
+,	O
+or	O
+maybe	O
+mary	B-CHARACTER
+.	O
+
+# id = litbank-0320
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = aunt polly -- tom 's aunt polly , she is -- and mary , and the widow douglas is all told about in that book , which is mostly a true book , with some stretchers , as i said before .
+aunt	O
+polly	B-CHARACTER
+--	O
+tom	B-CHARACTER
+'s	O
+aunt	O
+polly	O
+,	O
+she	O
+is	O
+--	O
+and	O
+mary	B-CHARACTER
+,	O
+and	O
+the	O
+widow	O
+douglas	B-CHARACTER
+is	O
+all	O
+told	O
+about	O
+in	O
+that	O
+book	O
+,	O
+which	O
+is	O
+mostly	O
+a	O
+true	O
+book	O
+,	O
+with	O
+some	O
+stretchers	O
+,	O
+as	O
+i	O
+said	O
+before	O
+.	O
+
+# id = litbank-0321
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = now the way that the book winds up is this : tom and me found the money that the robbers hid in the cave , and it made us rich .
+now	O
+the	O
+way	O
+that	O
+the	O
+book	O
+winds	O
+up	O
+is	O
+this	O
+:	O
+tom	B-CHARACTER
+and	O
+me	O
+found	O
+the	O
+money	O
+that	O
+the	O
+robbers	O
+hid	O
+in	O
+the	O
+cave	O
+,	O
+and	O
+it	O
+made	O
+us	O
+rich	O
+.	O
+
+# id = litbank-0324
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = well , judge thatcher he took it and put it out at interest , and it fetched us a dollar a day apiece all the year round -- more than a body could tell what to do with .
+well	O
+,	O
+judge	B-CHARACTER
+thatcher	I-CHARACTER
+he	O
+took	O
+it	O
+and	O
+put	O
+it	O
+out	O
+at	O
+interest	O
+,	O
+and	O
+it	O
+fetched	O
+us	O
+a	O
+dollar	O
+a	O
+day	O
+apiece	O
+all	O
+the	O
+year	O
+round	O
+--	O
+more	O
+than	O
+a	O
+body	O
+could	O
+tell	O
+what	O
+to	O
+do	O
+with	O
+.	O
+
+# id = litbank-0325
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = the widow douglas she took me for her son , and allowed she would sivilize me ; but it was rough living in the house all the time , considering how dismal regular and decent the widow was in all her ways ; and so when i could n't stand it no longer i lit out .
+the	O
+widow	O
+douglas	B-CHARACTER
+she	O
+took	O
+me	O
+for	O
+her	O
+son	O
+,	O
+and	O
+allowed	O
+she	O
+would	O
+sivilize	O
+me	O
+;	O
+but	O
+it	O
+was	O
+rough	O
+living	O
+in	O
+the	O
+house	O
+all	O
+the	O
+time	O
+,	O
+considering	O
+how	O
+dismal	O
+regular	O
+and	O
+decent	O
+the	O
+widow	O
+was	O
+in	O
+all	O
+her	O
+ways	O
+;	O
+and	O
+so	O
+when	O
+i	O
+could	O
+n't	O
+stand	O
+it	O
+no	O
+longer	O
+i	O
+lit	O
+out	O
+.	O
+
+# id = litbank-0327
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = but tom sawyer he hunted me up and said he was going to start a band of robbers , and i might join if i would go back to the widow and be respectable .
+but	O
+tom	B-CHARACTER
+sawyer	I-CHARACTER
+he	O
+hunted	O
+me	O
+up	O
+and	O
+said	O
+he	O
+was	O
+going	O
+to	O
+start	O
+a	O
+band	O
+of	O
+robbers	O
+,	O
+and	O
+i	O
+might	O
+join	O
+if	O
+i	O
+would	O
+go	O
+back	O
+to	O
+the	O
+widow	O
+and	O
+be	O
+respectable	O
+.	O
+
+# id = litbank-0328
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = after supper she got out her book and learned me about moses and the bulrushers , and i was in a sweat to find out all about him ; but by and by she let it out that moses had been dead a considerable long time ; so then i did n't care no more about him , because i do n't take no stock in dead people .
+after	O
+supper	O
+she	O
+got	O
+out	O
+her	O
+book	O
+and	O
+learned	O
+me	O
+about	O
+moses	B-CHARACTER
+and	O
+the	O
+bulrushers	O
+,	O
+and	O
+i	O
+was	O
+in	O
+a	O
+sweat	O
+to	O
+find	O
+out	O
+all	O
+about	O
+him	O
+;	O
+but	O
+by	O
+and	O
+by	O
+she	O
+let	O
+it	O
+out	O
+that	O
+moses	B-CHARACTER
+had	O
+been	O
+dead	O
+a	O
+considerable	O
+long	O
+time	O
+;	O
+so	O
+then	O
+i	O
+did	O
+n't	O
+care	O
+no	O
+more	O
+about	O
+him	O
+,	O
+because	O
+i	O
+do	O
+n't	O
+take	O
+no	O
+stock	O
+in	O
+dead	O
+people	O
+.	O
+
+# id = litbank-0329
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = here she was a-bothering about moses , which was no kin to her , and no use to anybody , being gone , you see , yet finding a power of fault with me for doing a thing that had some good in it .
+here	O
+she	O
+was	O
+a-bothering	O
+about	O
+moses	B-CHARACTER
+,	O
+which	O
+was	O
+no	O
+kin	O
+to	O
+her	O
+,	O
+and	O
+no	O
+use	O
+to	O
+anybody	O
+,	O
+being	O
+gone	O
+,	O
+you	O
+see	O
+,	O
+yet	O
+finding	O
+a	O
+power	O
+of	O
+fault	O
+with	O
+me	O
+for	O
+doing	O
+a	O
+thing	O
+that	O
+had	O
+some	O
+good	O
+in	O
+it	O
+.	O
+
+# id = litbank-0330
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = her sister , miss watson , a tolerable slim old maid , with goggles on , had just come to live with her , and took a set at me now with a spelling-book .
+her	O
+sister	O
+,	O
+miss	B-CHARACTER
+watson	I-CHARACTER
+,	O
+a	O
+tolerable	O
+slim	O
+old	O
+maid	O
+,	O
+with	O
+goggles	O
+on	O
+,	O
+had	O
+just	O
+come	O
+to	O
+live	O
+with	O
+her	O
+,	O
+and	O
+took	O
+a	O
+set	O
+at	O
+me	O
+now	O
+with	O
+a	O
+spelling-book	O
+.	O
+
+# id = litbank-0331
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = miss watson would say , “ do n't put your feet up there , huckleberry ; ” and “ do n't scrunch up like that , huckleberry -- set up straight ; ” and pretty soon she would say , “ do n't gap and stretch like that , huckleberry -- why do n't you try to behave ? ”
+miss	B-CHARACTER
+watson	I-CHARACTER
+would	O
+say	O
+,	O
+“	O
+do	O
+n't	O
+put	O
+your	O
+feet	O
+up	O
+there	O
+,	O
+huckleberry	B-CHARACTER
+;	O
+”	O
+and	O
+“	O
+do	O
+n't	O
+scrunch	O
+up	O
+like	O
+that	O
+,	O
+huckleberry	B-CHARACTER
+--	O
+set	O
+up	O
+straight	O
+;	O
+”	O
+and	O
+pretty	O
+soon	O
+she	O
+would	O
+say	O
+,	O
+“	O
+do	O
+n't	O
+gap	O
+and	O
+stretch	O
+like	O
+that	O
+,	O
+huckleberry	B-CHARACTER
+--	O
+why	O
+do	O
+n't	O
+you	O
+try	O
+to	O
+behave	O
+?	O
+”	O
+
+# id = litbank-0332
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = i asked her if she reckoned tom sawyer would go there , and she said not by a considerable sight .
+i	O
+asked	O
+her	O
+if	O
+she	O
+reckoned	O
+tom	B-CHARACTER
+sawyer	I-CHARACTER
+would	O
+go	O
+there	O
+,	O
+and	O
+she	O
+said	O
+not	O
+by	O
+a	O
+considerable	O
+sight	O
+.	O
+
+# id = litbank-0333
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = miss watson she kept pecking at me , and it got tiresome and lonesome .
+miss	B-CHARACTER
+watson	I-CHARACTER
+she	O
+kept	O
+pecking	O
+at	O
+me	O
+,	O
+and	O
+it	O
+got	O
+tiresome	O
+and	O
+lonesome	O
+.	O
+
+# id = litbank-0334
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = then i slipped down to the ground and crawled in among the trees , and , sure enough , there was tom sawyer waiting for me .
+then	O
+i	O
+slipped	O
+down	O
+to	O
+the	O
+ground	O
+and	O
+crawled	O
+in	O
+among	O
+the	O
+trees	O
+,	O
+and	O
+,	O
+sure	O
+enough	O
+,	O
+there	O
+was	O
+tom	B-CHARACTER
+sawyer	I-CHARACTER
+waiting	O
+for	O
+me	O
+.	O
+
+# id = litbank-0335
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = miss watson 's big nigger , named jim , was setting in the kitchen door ; we could see him pretty clear , because there was a light behind him .
+miss	B-CHARACTER
+watson	I-CHARACTER
+'s	O
+big	O
+nigger	O
+,	O
+named	O
+jim	B-CHARACTER
+,	O
+was	O
+setting	O
+in	O
+the	O
+kitchen	O
+door	O
+;	O
+we	O
+could	O
+see	O
+him	O
+pretty	O
+clear	O
+,	O
+because	O
+there	O
+was	O
+a	O
+light	O
+behind	O
+him	O
+.	O
+
+# id = litbank-0336
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = pretty soon jim says : “ say , who is you ?
+pretty	O
+soon	O
+jim	B-CHARACTER
+says	O
+:	O
+“	O
+say	O
+,	O
+who	O
+is	O
+you	O
+?	O
+
+# id = litbank-0337
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = so he set down on the ground betwixt me and tom .
+so	O
+he	O
+set	O
+down	O
+on	O
+the	O
+ground	O
+betwixt	O
+me	O
+and	O
+tom	B-CHARACTER
+.	O
+
+# id = litbank-0338
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = just then jim begun to breathe heavy ; next he begun to snore -- and then i was pretty soon comfortable again .
+just	O
+then	O
+jim	B-CHARACTER
+begun	O
+to	O
+breathe	O
+heavy	O
+;	O
+next	O
+he	O
+begun	O
+to	O
+snore	O
+--	O
+and	O
+then	O
+i	O
+was	O
+pretty	O
+soon	O
+comfortable	O
+again	O
+.	O
+
+# id = litbank-0317
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = that book was made by mr. mark twain , and he told the truth , mainly .
+that	O
+book	O
+was	O
+made	O
+by	O
+mr.	O
+mark	O
+twain	O
+,	O
+and	O
+he	O
+told	O
+the	O
+truth	O
+,	O
+mainly	O
+.	O
+
+# id = litbank-0318
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = there was things which he stretched , but mainly he told the truth .
+there	O
+was	O
+things	O
+which	O
+he	O
+stretched	O
+,	O
+but	O
+mainly	O
+he	O
+told	O
+the	O
+truth	O
+.	O
+
+# id = litbank-0322
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = we got six thousand dollars apiece -- all gold .
+we	O
+got	O
+six	O
+thousand	O
+dollars	O
+apiece	O
+--	O
+all	O
+gold	O
+.	O
+
+# id = litbank-0323
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = it was an awful sight of money when it was piled up .
+it	O
+was	O
+an	O
+awful	O
+sight	O
+of	O
+money	O
+when	O
+it	O
+was	O
+piled	O
+up	O
+.	O
+
+# id = litbank-0326
+# source = LitBank
+# book = Adventures of Huckleberry Finn
+# book_id = 76_adventures_of_huckleberry_finn
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/76_adventures_of_huckleberry_finn_brat.tsv
+# text = i got into my old rags and my sugar-hogshead again , and was free and satisfied .
+i	O
+got	O
+into	O
+my	O
+old	O
+rags	O
+and	O
+my	O
+sugar-hogshead	O
+again	O
+,	O
+and	O
+was	O
+free	O
+and	O
+satisfied	O
+.	O
+

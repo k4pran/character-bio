@@ -1,0 +1,497 @@
+# id = litbank-0837
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = chapter i jonathan harker 's journal ( _ kept in shorthand .
+chapter	O
+i	O
+jonathan	B-CHARACTER
+harker	I-CHARACTER
+'s	O
+journal	O
+(	O
+_	O
+kept	O
+in	O
+shorthand	O
+.	O
+
+# id = litbank-0843
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = _ , get recipe for mina . )
+_	O
+,	O
+get	O
+recipe	O
+for	O
+mina	B-CHARACTER
+.	O
+)	O
+
+# id = litbank-0844
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = i was not able to light on any map or work giving the exact locality of the castle dracula , as there are no maps of this country as yet to compare with our own ordnance survey maps ; but i found that bistritz , the post town named by count dracula , is a fairly well-known place .
+i	O
+was	O
+not	O
+able	O
+to	O
+light	O
+on	O
+any	O
+map	O
+or	O
+work	O
+giving	O
+the	O
+exact	O
+locality	O
+of	O
+the	O
+castle	O
+dracula	O
+,	O
+as	O
+there	O
+are	O
+no	O
+maps	O
+of	O
+this	O
+country	O
+as	O
+yet	O
+to	O
+compare	O
+with	O
+our	O
+own	O
+ordnance	O
+survey	O
+maps	O
+;	O
+but	O
+i	O
+found	O
+that	O
+bistritz	O
+,	O
+the	O
+post	O
+town	O
+named	O
+by	O
+count	B-CHARACTER
+dracula	I-CHARACTER
+,	O
+is	O
+a	O
+fairly	O
+well-known	O
+place	O
+.	O
+
+# id = litbank-0845
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = i shall enter here some of my notes , as they may refresh my memory when i talk over my travels with mina .
+i	O
+shall	O
+enter	O
+here	O
+some	O
+of	O
+my	O
+notes	O
+,	O
+as	O
+they	O
+may	O
+refresh	O
+my	O
+memory	O
+when	O
+i	O
+talk	O
+over	O
+my	O
+travels	O
+with	O
+mina	B-CHARACTER
+.	O
+
+# id = litbank-0846
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = count dracula had directed me to go to the golden krone hotel , which i found , to my great delight , to be thoroughly old-fashioned , for of course i wanted to see all i could of the ways of the country .
+count	B-CHARACTER
+dracula	I-CHARACTER
+had	O
+directed	O
+me	O
+to	O
+go	O
+to	O
+the	O
+golden	O
+krone	O
+hotel	O
+,	O
+which	O
+i	O
+found	O
+,	O
+to	O
+my	O
+great	O
+delight	O
+,	O
+to	O
+be	O
+thoroughly	O
+old-fashioned	O
+,	O
+for	O
+of	O
+course	O
+i	O
+wanted	O
+to	O
+see	O
+all	O
+i	O
+could	O
+of	O
+the	O
+ways	O
+of	O
+the	O
+country	O
+.	O
+
+# id = litbank-0847
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = " yes , " i said , " jonathan harker . "
+"	O
+yes	O
+,	O
+"	O
+i	O
+said	O
+,	O
+"	O
+jonathan	B-CHARACTER
+harker	I-CHARACTER
+.	O
+"	O
+
+# id = litbank-0848
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = " your friend , " dracula . "
+"	O
+your	O
+friend	O
+,	O
+"	O
+dracula	B-CHARACTER
+.	O
+"	O
+
+# id = litbank-0849
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = when i asked him if he knew count dracula , and could tell me anything of his castle , both he and his wife crossed themselves , and , saying that they knew nothing at all , simply refused to speak further .
+when	O
+i	O
+asked	O
+him	O
+if	O
+he	O
+knew	O
+count	B-CHARACTER
+dracula	I-CHARACTER
+,	O
+and	O
+could	O
+tell	O
+me	O
+anything	O
+of	O
+his	O
+castle	O
+,	O
+both	O
+he	O
+and	O
+his	O
+wife	O
+crossed	O
+themselves	O
+,	O
+and	O
+,	O
+saying	O
+that	O
+they	O
+knew	O
+nothing	O
+at	O
+all	O
+,	O
+simply	O
+refused	O
+to	O
+speak	O
+further	O
+.	O
+
+# id = litbank-0850
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = if this book should ever reach mina before i do , let it bring my good-bye .
+if	O
+this	O
+book	O
+should	O
+ever	O
+reach	O
+mina	B-CHARACTER
+before	O
+i	O
+do	O
+,	O
+let	O
+it	O
+bring	O
+my	O
+good-bye	O
+.	O
+
+# id = litbank-0838
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = _ -- left munich at 8:35 p. m. , on 1st may , arriving at vienna early next morning ; should have arrived at 6:46 , but train was an hour late .
+_	O
+--	O
+left	O
+munich	O
+at	O
+8:35	O
+p.	O
+m.	O
+,	O
+on	O
+1st	O
+may	O
+,	O
+arriving	O
+at	O
+vienna	O
+early	O
+next	O
+morning	O
+;	O
+should	O
+have	O
+arrived	O
+at	O
+6:46	O
+,	O
+but	O
+train	O
+was	O
+an	O
+hour	O
+late	O
+.	O
+
+# id = litbank-0839
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = buda-pesth seems a wonderful place , from the glimpse which i got of it from the train and the little i could walk through the streets .
+buda-pesth	O
+seems	O
+a	O
+wonderful	O
+place	O
+,	O
+from	O
+the	O
+glimpse	O
+which	O
+i	O
+got	O
+of	O
+it	O
+from	O
+the	O
+train	O
+and	O
+the	O
+little	O
+i	O
+could	O
+walk	O
+through	O
+the	O
+streets	O
+.	O
+
+# id = litbank-0840
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = i feared to go very far from the station , as we had arrived late and would start as near the correct time as possible .
+i	O
+feared	O
+to	O
+go	O
+very	O
+far	O
+from	O
+the	O
+station	O
+,	O
+as	O
+we	O
+had	O
+arrived	O
+late	O
+and	O
+would	O
+start	O
+as	O
+near	O
+the	O
+correct	O
+time	O
+as	O
+possible	O
+.	O
+
+# id = litbank-0841
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = the impression i had was that we were leaving the west and entering the east ; the most western of splendid bridges over the danube , which is here of noble width and depth , took us among the traditions of turkish rule .
+the	O
+impression	O
+i	O
+had	O
+was	O
+that	O
+we	O
+were	O
+leaving	O
+the	O
+west	O
+and	O
+entering	O
+the	O
+east	O
+;	O
+the	O
+most	O
+western	O
+of	O
+splendid	O
+bridges	O
+over	O
+the	O
+danube	O
+,	O
+which	O
+is	O
+here	O
+of	O
+noble	O
+width	O
+and	O
+depth	O
+,	O
+took	O
+us	O
+among	O
+the	O
+traditions	O
+of	O
+turkish	O
+rule	O
+.	O
+
+# id = litbank-0842
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = we left in pretty good time , and came after nightfall to klausenburgh .
+we	O
+left	O
+in	O
+pretty	O
+good	O
+time	O
+,	O
+and	O
+came	O
+after	O
+nightfall	O
+to	O
+klausenburgh	O
+.	O
+

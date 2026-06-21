@@ -1,0 +1,788 @@
+# id = litbank-1876
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = mr. sherlock holmes mr. sherlock holmes , who was usually very late in the mornings , save upon those not infrequent occasions when he was up all night , was seated at the breakfast table .
+mr.	B-CHARACTER
+sherlock	I-CHARACTER
+holmes	I-CHARACTER
+mr.	B-CHARACTER
+sherlock	I-CHARACTER
+holmes	I-CHARACTER
+,	O
+who	O
+was	O
+usually	O
+very	O
+late	O
+in	O
+the	O
+mornings	O
+,	O
+save	O
+upon	O
+those	O
+not	O
+infrequent	O
+occasions	O
+when	O
+he	O
+was	O
+up	O
+all	O
+night	O
+,	O
+was	O
+seated	O
+at	O
+the	O
+breakfast	O
+table	O
+.	O
+
+# id = litbank-1880
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = “ to james mortimer , m.r.c.s. , from his friends of the c.c.h. , ” was engraved upon it , with the date “ 1884 . ”
+“	O
+to	O
+james	B-CHARACTER
+mortimer	I-CHARACTER
+,	O
+m.r.c.s.	O
+,	O
+from	O
+his	O
+friends	O
+of	O
+the	O
+c.c.h.	O
+,	O
+”	O
+was	O
+engraved	O
+upon	O
+it	O
+,	O
+with	O
+the	O
+date	O
+“	O
+1884	O
+.	O
+”	O
+
+# id = litbank-1882
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = “ well , watson , what do you make of it ? ”
+“	O
+well	O
+,	O
+watson	B-CHARACTER
+,	O
+what	O
+do	O
+you	O
+make	O
+of	O
+it	O
+?	O
+”	O
+
+# id = litbank-1883
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = holmes was sitting with his back to me , and i had given him no sign of my occupation .
+holmes	B-CHARACTER
+was	O
+sitting	O
+with	O
+his	O
+back	O
+to	O
+me	O
+,	O
+and	O
+i	O
+had	O
+given	O
+him	O
+no	O
+sign	O
+of	O
+my	O
+occupation	O
+.	O
+
+# id = litbank-1885
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = “ but , tell me , watson , what do you make of our visitor ’s stick ?
+“	O
+but	O
+,	O
+tell	O
+me	O
+,	O
+watson	B-CHARACTER
+,	O
+what	O
+do	O
+you	O
+make	O
+of	O
+our	O
+visitor	O
+’s	O
+stick	O
+?	O
+
+# id = litbank-1886
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = “ i think , ” said i , following as far as i could the methods of my companion , “ that dr. mortimer is a successful , elderly medical man , well-esteemed since those who know him give him this mark of their appreciation . ”
+“	O
+i	O
+think	O
+,	O
+”	O
+said	O
+i	O
+,	O
+following	O
+as	O
+far	O
+as	O
+i	O
+could	O
+the	O
+methods	O
+of	O
+my	O
+companion	O
+,	O
+“	O
+that	O
+dr.	B-CHARACTER
+mortimer	I-CHARACTER
+is	O
+a	O
+successful	O
+,	O
+elderly	O
+medical	O
+man	O
+,	O
+well-esteemed	O
+since	O
+those	O
+who	O
+know	O
+him	O
+give	O
+him	O
+this	O
+mark	O
+of	O
+their	O
+appreciation	O
+.	O
+”	O
+
+# id = litbank-1887
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = “ good ! ” said holmes .
+“	O
+good	O
+!	O
+”	O
+said	O
+holmes	B-CHARACTER
+.	O
+
+# id = litbank-1888
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = “ perfectly sound ! ” said holmes .
+“	O
+perfectly	O
+sound	O
+!	O
+”	O
+said	O
+holmes	B-CHARACTER
+.	O
+
+# id = litbank-1889
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = “ really , watson , you excel yourself , ” said holmes , pushing back his chair and lighting a cigarette .
+“	O
+really	O
+,	O
+watson	B-CHARACTER
+,	O
+you	O
+excel	O
+yourself	O
+,	O
+”	O
+said	O
+holmes	B-CHARACTER
+,	O
+pushing	O
+back	O
+his	O
+chair	O
+and	O
+lighting	O
+a	O
+cigarette	O
+.	O
+
+# id = litbank-1890
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = “ i am afraid , my dear watson , that most of your conclusions were erroneous .
+“	O
+i	O
+am	O
+afraid	O
+,	O
+my	O
+dear	O
+watson	B-CHARACTER
+,	O
+that	O
+most	O
+of	O
+your	O
+conclusions	O
+were	O
+erroneous	O
+.	O
+
+# id = litbank-1891
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = “ no , no , my dear watson , not all -- by no means all .
+“	O
+no	O
+,	O
+no	O
+,	O
+my	O
+dear	O
+watson	B-CHARACTER
+,	O
+not	O
+all	O
+--	O
+by	O
+no	O
+means	O
+all	O
+.	O
+
+# id = litbank-1892
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = obviously at the moment when dr. mortimer withdrew from the service of the hospital in order to start a practice for himself .
+obviously	O
+at	O
+the	O
+moment	O
+when	O
+dr.	B-CHARACTER
+mortimer	I-CHARACTER
+withdrew	O
+from	O
+the	O
+service	O
+of	O
+the	O
+hospital	O
+in	O
+order	O
+to	O
+start	O
+a	O
+practice	O
+for	O
+himself	O
+.	O
+
+# id = litbank-1893
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = so your grave , middle-aged family practitioner vanishes into thin air , my dear watson , and there emerges a young fellow under thirty , amiable , unambitious , absent-minded , and the possessor of a favourite dog , which i should describe roughly as being larger than a terrier and smaller than a mastiff . ”
+so	O
+your	O
+grave	O
+,	O
+middle-aged	O
+family	O
+practitioner	O
+vanishes	O
+into	O
+thin	O
+air	O
+,	O
+my	O
+dear	O
+watson	B-CHARACTER
+,	O
+and	O
+there	O
+emerges	O
+a	O
+young	O
+fellow	O
+under	O
+thirty	O
+,	O
+amiable	O
+,	O
+unambitious	O
+,	O
+absent-minded	O
+,	O
+and	O
+the	O
+possessor	O
+of	O
+a	O
+favourite	O
+dog	O
+,	O
+which	O
+i	O
+should	O
+describe	O
+roughly	O
+as	O
+being	O
+larger	O
+than	O
+a	O
+terrier	O
+and	O
+smaller	O
+than	O
+a	O
+mastiff	O
+.	O
+”	O
+
+# id = litbank-1894
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = i laughed incredulously as sherlock holmes leaned back in his settee and blew little wavering rings of smoke up to the ceiling .
+i	O
+laughed	O
+incredulously	O
+as	O
+sherlock	B-CHARACTER
+holmes	I-CHARACTER
+leaned	O
+back	O
+in	O
+his	O
+settee	O
+and	O
+blew	O
+little	O
+wavering	O
+rings	O
+of	O
+smoke	O
+up	O
+to	O
+the	O
+ceiling	O
+.	O
+
+# id = litbank-1895
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = “ mortimer , james , m.r.c.s. , 1882 , grimpen , dartmoor , devon .
+“	O
+mortimer	B-CHARACTER
+,	O
+james	O
+,	O
+m.r.c.s.	O
+,	O
+1882	O
+,	O
+grimpen	O
+,	O
+dartmoor	O
+,	O
+devon	O
+.	O
+
+# id = litbank-1896
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = “ no mention of that local hunt , watson , ” said holmes with a mischievous smile , “ but a country doctor , as you very astutely observed .
+“	O
+no	O
+mention	O
+of	O
+that	O
+local	O
+hunt	O
+,	O
+watson	B-CHARACTER
+,	O
+”	O
+said	O
+holmes	B-CHARACTER
+with	O
+a	O
+mischievous	O
+smile	O
+,	O
+“	O
+but	O
+a	O
+country	O
+doctor	O
+,	O
+as	O
+you	O
+very	O
+astutely	O
+observed	O
+.	O
+
+# id = litbank-1897
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = do n’t move , i beg you , watson .
+do	O
+n’t	O
+move	O
+,	O
+i	O
+beg	O
+you	O
+,	O
+watson	B-CHARACTER
+.	O
+
+# id = litbank-1898
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = now is the dramatic moment of fate , watson , when you hear a step upon the stair which is walking into your life , and you know not whether for good or ill .
+now	O
+is	O
+the	O
+dramatic	O
+moment	O
+of	O
+fate	O
+,	O
+watson	B-CHARACTER
+,	O
+when	O
+you	O
+hear	O
+a	O
+step	O
+upon	O
+the	O
+stair	O
+which	O
+is	O
+walking	O
+into	O
+your	O
+life	O
+,	O
+and	O
+you	O
+know	O
+not	O
+whether	O
+for	O
+good	O
+or	O
+ill	O
+.	O
+
+# id = litbank-1899
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = what does dr. james mortimer , the man of science , ask of sherlock holmes , the specialist in crime ?
+what	O
+does	O
+dr.	B-CHARACTER
+james	I-CHARACTER
+mortimer	I-CHARACTER
+,	O
+the	O
+man	O
+of	O
+science	O
+,	O
+ask	O
+of	O
+sherlock	B-CHARACTER
+holmes	I-CHARACTER
+,	O
+the	O
+specialist	O
+in	O
+crime	O
+?	O
+
+# id = litbank-1900
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = as he entered his eyes fell upon the stick in holmes ’s hand , and he ran towards it with an exclamation of joy .
+as	O
+he	O
+entered	O
+his	O
+eyes	O
+fell	O
+upon	O
+the	O
+stick	O
+in	O
+holmes	B-CHARACTER
+’s	O
+hand	O
+,	O
+and	O
+he	O
+ran	O
+towards	O
+it	O
+with	O
+an	O
+exclamation	O
+of	O
+joy	O
+.	O
+
+# id = litbank-1877
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = i stood upon the hearth-rug and picked up the stick which our visitor had left behind him the night before .
+i	O
+stood	O
+upon	O
+the	O
+hearth-rug	O
+and	O
+picked	O
+up	O
+the	O
+stick	O
+which	O
+our	O
+visitor	O
+had	O
+left	O
+behind	O
+him	O
+the	O
+night	O
+before	O
+.	O
+
+# id = litbank-1878
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = it was a fine , thick piece of wood , bulbous-headed , of the sort which is known as a “ penang lawyer . ”
+it	O
+was	O
+a	O
+fine	O
+,	O
+thick	O
+piece	O
+of	O
+wood	O
+,	O
+bulbous-headed	O
+,	O
+of	O
+the	O
+sort	O
+which	O
+is	O
+known	O
+as	O
+a	O
+“	O
+penang	O
+lawyer	O
+.	O
+”	O
+
+# id = litbank-1879
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = just under the head was a broad silver band nearly an inch across .
+just	O
+under	O
+the	O
+head	O
+was	O
+a	O
+broad	O
+silver	O
+band	O
+nearly	O
+an	O
+inch	O
+across	O
+.	O
+
+# id = litbank-1881
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = it was just such a stick as the old-fashioned family practitioner used to carry -- dignified , solid , and reassuring .
+it	O
+was	O
+just	O
+such	O
+a	O
+stick	O
+as	O
+the	O
+old-fashioned	O
+family	O
+practitioner	O
+used	O
+to	O
+carry	O
+--	O
+dignified	O
+,	O
+solid	O
+,	O
+and	O
+reassuring	O
+.	O
+
+# id = litbank-1884
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = “ how did you know what i was doing ?
+“	O
+how	O
+did	O
+you	O
+know	O
+what	O
+i	O
+was	O
+doing	O
+?	O
+

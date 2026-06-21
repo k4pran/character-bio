@@ -1,0 +1,601 @@
+# id = litbank-0827
+# source = LitBank
+# book = Black Beauty
+# book_id = 271_black_beauty
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/271_black_beauty_brat.tsv
+# text = he would pat and stroke her and say , “ well , old pet , and how is your little darkie ? ”
+he	O
+would	O
+pat	O
+and	O
+stroke	O
+her	O
+and	O
+say	O
+,	O
+“	O
+well	O
+,	O
+old	O
+pet	O
+,	O
+and	O
+how	O
+is	O
+your	O
+little	O
+darkie	B-CHARACTER
+?	O
+”	O
+
+# id = litbank-0828
+# source = LitBank
+# book = Black Beauty
+# book_id = 271_black_beauty
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/271_black_beauty_brat.tsv
+# text = i was a dull black , so he called me darkie ; then he would give me a piece of bread , which was very good , and sometimes he brought a carrot for my mother .
+i	O
+was	O
+a	O
+dull	O
+black	O
+,	O
+so	O
+he	O
+called	O
+me	O
+darkie	B-CHARACTER
+;	O
+then	O
+he	O
+would	O
+give	O
+me	O
+a	O
+piece	O
+of	O
+bread	O
+,	O
+which	O
+was	O
+very	O
+good	O
+,	O
+and	O
+sometimes	O
+he	O
+brought	O
+a	O
+carrot	O
+for	O
+my	O
+mother	O
+.	O
+
+# id = litbank-0829
+# source = LitBank
+# book = Black Beauty
+# book_id = 271_black_beauty
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/271_black_beauty_brat.tsv
+# text = there was a plowboy , dick , who sometimes came into our field to pluck blackberries from the hedge .
+there	O
+was	O
+a	O
+plowboy	O
+,	O
+dick	B-CHARACTER
+,	O
+who	O
+sometimes	O
+came	O
+into	O
+our	O
+field	O
+to	O
+pluck	O
+blackberries	O
+from	O
+the	O
+hedge	O
+.	O
+
+# id = litbank-0830
+# source = LitBank
+# book = Black Beauty
+# book_id = 271_black_beauty
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/271_black_beauty_brat.tsv
+# text = one day he was at this game , and did not know that the master was in the next field ; but he was there , watching what was going on ; over the hedge he jumped in a snap , and catching dick by the arm , he gave him such a box on the ear as made him roar with the pain and surprise .
+one	O
+day	O
+he	O
+was	O
+at	O
+this	O
+game	O
+,	O
+and	O
+did	O
+not	O
+know	O
+that	O
+the	O
+master	O
+was	O
+in	O
+the	O
+next	O
+field	O
+;	O
+but	O
+he	O
+was	O
+there	O
+,	O
+watching	O
+what	O
+was	O
+going	O
+on	O
+;	O
+over	O
+the	O
+hedge	O
+he	O
+jumped	O
+in	O
+a	O
+snap	O
+,	O
+and	O
+catching	O
+dick	B-CHARACTER
+by	O
+the	O
+arm	O
+,	O
+he	O
+gave	O
+him	O
+such	O
+a	O
+box	O
+on	O
+the	O
+ear	O
+as	O
+made	O
+him	O
+roar	O
+with	O
+the	O
+pain	O
+and	O
+surprise	O
+.	O
+
+# id = litbank-0831
+# source = LitBank
+# book = Black Beauty
+# book_id = 271_black_beauty
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/271_black_beauty_brat.tsv
+# text = so we never saw dick any more .
+so	O
+we	O
+never	O
+saw	O
+dick	B-CHARACTER
+any	O
+more	O
+.	O
+
+# id = litbank-0832
+# source = LitBank
+# book = Black Beauty
+# book_id = 271_black_beauty
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/271_black_beauty_brat.tsv
+# text = old daniel , the man who looked after the horses , was just as gentle as our master , so we were well off .
+old	O
+daniel	B-CHARACTER
+,	O
+the	O
+man	O
+who	O
+looked	O
+after	O
+the	O
+horses	O
+,	O
+was	O
+just	O
+as	O
+gentle	O
+as	O
+our	O
+master	O
+,	O
+so	O
+we	O
+were	O
+well	O
+off	O
+.	O
+
+# id = litbank-0833
+# source = LitBank
+# book = Black Beauty
+# book_id = 271_black_beauty
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/271_black_beauty_brat.tsv
+# text = i heard afterward that it was young george gordon , the squire ’s only son , a fine , tall young man , and the pride of his family .
+i	O
+heard	O
+afterward	O
+that	O
+it	O
+was	O
+young	O
+george	B-CHARACTER
+gordon	I-CHARACTER
+,	O
+the	O
+squire	O
+’s	O
+only	O
+son	O
+,	O
+a	O
+fine	O
+,	O
+tall	O
+young	O
+man	O
+,	O
+and	O
+the	O
+pride	O
+of	O
+his	O
+family	O
+.	O
+
+# id = litbank-0834
+# source = LitBank
+# book = Black Beauty
+# book_id = 271_black_beauty
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/271_black_beauty_brat.tsv
+# text = there was now riding off in all directions to the doctor ’s , to the farrier ’s , and no doubt to squire gordon ’s , to let him know about his son .
+there	O
+was	O
+now	O
+riding	O
+off	O
+in	O
+all	O
+directions	O
+to	O
+the	O
+doctor	O
+’s	O
+,	O
+to	O
+the	O
+farrier	O
+’s	O
+,	O
+and	O
+no	O
+doubt	O
+to	O
+squire	B-CHARACTER
+gordon	I-CHARACTER
+’s	O
+,	O
+to	O
+let	O
+him	O
+know	O
+about	O
+his	O
+son	O
+.	O
+
+# id = litbank-0835
+# source = LitBank
+# book = Black Beauty
+# book_id = 271_black_beauty
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/271_black_beauty_brat.tsv
+# text = when mr. bond , the farrier , came to look at the black horse that lay groaning on the grass , he felt him all over , and shook his head ; one of his legs was broken .
+when	O
+mr.	B-CHARACTER
+bond	I-CHARACTER
+,	O
+the	O
+farrier	O
+,	O
+came	O
+to	O
+look	O
+at	O
+the	O
+black	O
+horse	O
+that	O
+lay	O
+groaning	O
+on	O
+the	O
+grass	O
+,	O
+he	O
+felt	O
+him	O
+all	O
+over	O
+,	O
+and	O
+shook	O
+his	O
+head	O
+;	O
+one	O
+of	O
+his	O
+legs	O
+was	O
+broken	O
+.	O
+
+# id = litbank-0836
+# source = LitBank
+# book = Black Beauty
+# book_id = 271_black_beauty
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/271_black_beauty_brat.tsv
+# text = my mother seemed much troubled ; she said she had known that horse for years , and that his name was “ rob roy ” ; he was a good horse , and there was no vice in him .
+my	O
+mother	O
+seemed	O
+much	O
+troubled	O
+;	O
+she	O
+said	O
+she	O
+had	O
+known	O
+that	O
+horse	O
+for	O
+years	O
+,	O
+and	O
+that	O
+his	O
+name	O
+was	O
+“	O
+rob	B-CHARACTER
+roy	I-CHARACTER
+”	O
+;	O
+he	O
+was	O
+a	O
+good	O
+horse	O
+,	O
+and	O
+there	O
+was	O
+no	O
+vice	O
+in	O
+him	O
+.	O
+
+# id = litbank-0822
+# source = LitBank
+# book = Black Beauty
+# book_id = 271_black_beauty
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/271_black_beauty_brat.tsv
+# text = part i 01 my early home the first place that i can well remember was a large pleasant meadow with a pond of clear water in it .
+part	O
+i	O
+01	O
+my	O
+early	O
+home	O
+the	O
+first	O
+place	O
+that	O
+i	O
+can	O
+well	O
+remember	O
+was	O
+a	O
+large	O
+pleasant	O
+meadow	O
+with	O
+a	O
+pond	O
+of	O
+clear	O
+water	O
+in	O
+it	O
+.	O
+
+# id = litbank-0823
+# source = LitBank
+# book = Black Beauty
+# book_id = 271_black_beauty
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/271_black_beauty_brat.tsv
+# text = some shady trees leaned over it , and rushes and water-lilies grew at the deep end .
+some	O
+shady	O
+trees	O
+leaned	O
+over	O
+it	O
+,	O
+and	O
+rushes	O
+and	O
+water-lilies	O
+grew	O
+at	O
+the	O
+deep	O
+end	O
+.	O
+
+# id = litbank-0824
+# source = LitBank
+# book = Black Beauty
+# book_id = 271_black_beauty
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/271_black_beauty_brat.tsv
+# text = over the hedge on one side we looked into a plowed field , and on the other we looked over a gate at our master ’s house , which stood by the roadside ; at the top of the meadow was a grove of fir trees , and at the bottom a running brook overhung by a steep bank .
+over	O
+the	O
+hedge	O
+on	O
+one	O
+side	O
+we	O
+looked	O
+into	O
+a	O
+plowed	O
+field	O
+,	O
+and	O
+on	O
+the	O
+other	O
+we	O
+looked	O
+over	O
+a	O
+gate	O
+at	O
+our	O
+master	O
+’s	O
+house	O
+,	O
+which	O
+stood	O
+by	O
+the	O
+roadside	O
+;	O
+at	O
+the	O
+top	O
+of	O
+the	O
+meadow	O
+was	O
+a	O
+grove	O
+of	O
+fir	O
+trees	O
+,	O
+and	O
+at	O
+the	O
+bottom	O
+a	O
+running	O
+brook	O
+overhung	O
+by	O
+a	O
+steep	O
+bank	O
+.	O
+
+# id = litbank-0825
+# source = LitBank
+# book = Black Beauty
+# book_id = 271_black_beauty
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/271_black_beauty_brat.tsv
+# text = while i was young i lived upon my mother ’s milk , as i could not eat grass .
+while	O
+i	O
+was	O
+young	O
+i	O
+lived	O
+upon	O
+my	O
+mother	O
+’s	O
+milk	O
+,	O
+as	O
+i	O
+could	O
+not	O
+eat	O
+grass	O
+.	O
+
+# id = litbank-0826
+# source = LitBank
+# book = Black Beauty
+# book_id = 271_black_beauty
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/271_black_beauty_brat.tsv
+# text = in the daytime i ran by her side , and at night i lay down close by her .
+in	O
+the	O
+daytime	O
+i	O
+ran	O
+by	O
+her	O
+side	O
+,	O
+and	O
+at	O
+night	O
+i	O
+lay	O
+down	O
+close	O
+by	O
+her	O
+.	O
+

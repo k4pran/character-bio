@@ -1,0 +1,2150 @@
+# id = litbank-2097
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = ' edith ! '
+'	O
+edith	B-CHARACTER
+!	O
+'	O
+
+# id = litbank-2098
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = said margaret , gently , ' edith ! '
+said	O
+margaret	B-CHARACTER
+,	O
+gently	O
+,	O
+'	O
+edith	B-CHARACTER
+!	O
+'	O
+
+# id = litbank-2099
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = but , as margaret half suspected , edith had fallen asleep .
+but	O
+,	O
+as	O
+margaret	B-CHARACTER
+half	O
+suspected	O
+,	O
+edith	B-CHARACTER
+had	O
+fallen	O
+asleep	O
+.	O
+
+# id = litbank-2101
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = if titania had ever been dressed in white muslin and blue ribbons , and had fallen asleep on a crimson damask sofa in a back drawing-room , edith might have been taken for her .
+if	O
+titania	O
+had	O
+ever	O
+been	O
+dressed	O
+in	O
+white	O
+muslin	O
+and	O
+blue	O
+ribbons	O
+,	O
+and	O
+had	O
+fallen	O
+asleep	O
+on	O
+a	O
+crimson	O
+damask	O
+sofa	O
+in	O
+a	O
+back	O
+drawing-room	O
+,	O
+edith	B-CHARACTER
+might	O
+have	O
+been	O
+taken	O
+for	O
+her	O
+.	O
+
+# id = litbank-2102
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = margaret was struck afresh by her cousin 's beauty .
+margaret	B-CHARACTER
+was	O
+struck	O
+afresh	O
+by	O
+her	O
+cousin	O
+'s	O
+beauty	O
+.	O
+
+# id = litbank-2103
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = they had grown up together from childhood , and all along edith had been remarked upon by every one , except margaret , for her prettiness ; but margaret had never thought about it until the last few days , when the prospect of soon losing her companion seemed to give force to every sweet quality and charm which edith possessed .
+they	O
+had	O
+grown	O
+up	O
+together	O
+from	O
+childhood	O
+,	O
+and	O
+all	O
+along	O
+edith	B-CHARACTER
+had	O
+been	O
+remarked	O
+upon	O
+by	O
+every	O
+one	O
+,	O
+except	O
+margaret	B-CHARACTER
+,	O
+for	O
+her	O
+prettiness	O
+;	O
+but	O
+margaret	B-CHARACTER
+had	O
+never	O
+thought	O
+about	O
+it	O
+until	O
+the	O
+last	O
+few	O
+days	O
+,	O
+when	O
+the	O
+prospect	O
+of	O
+soon	O
+losing	O
+her	O
+companion	O
+seemed	O
+to	O
+give	O
+force	O
+to	O
+every	O
+sweet	O
+quality	O
+and	O
+charm	O
+which	O
+edith	B-CHARACTER
+possessed	O
+.	O
+
+# id = litbank-2104
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = they had been talking about wedding dresses , and wedding ceremonies ; and captain lennox , and what he had told edith about her future life at corfu , where his regiment was stationed ; and the difficulty of keeping a piano in good tune ( a difficulty which edith seemed to consider as one of the most formidable that could befall her in her married life ) , and what gowns she should want in the visits to scotland , which would immediately succeed her marriage ; but the whispered tone had latterly become more drowsy ; and margaret , after a pause of a few minutes , found , as she fancied , that in spite of the buzz in the next room , edith had rolled herself up into a soft ball of muslin and ribbon , and silken curls , and gone off into a peaceful little after-dinner nap .
+they	O
+had	O
+been	O
+talking	O
+about	O
+wedding	O
+dresses	O
+,	O
+and	O
+wedding	O
+ceremonies	O
+;	O
+and	O
+captain	B-CHARACTER
+lennox	I-CHARACTER
+,	O
+and	O
+what	O
+he	O
+had	O
+told	O
+edith	B-CHARACTER
+about	O
+her	O
+future	O
+life	O
+at	O
+corfu	O
+,	O
+where	O
+his	O
+regiment	O
+was	O
+stationed	O
+;	O
+and	O
+the	O
+difficulty	O
+of	O
+keeping	O
+a	O
+piano	O
+in	O
+good	O
+tune	O
+(	O
+a	O
+difficulty	O
+which	O
+edith	B-CHARACTER
+seemed	O
+to	O
+consider	O
+as	O
+one	O
+of	O
+the	O
+most	O
+formidable	O
+that	O
+could	O
+befall	O
+her	O
+in	O
+her	O
+married	O
+life	O
+)	O
+,	O
+and	O
+what	O
+gowns	O
+she	O
+should	O
+want	O
+in	O
+the	O
+visits	O
+to	O
+scotland	O
+,	O
+which	O
+would	O
+immediately	O
+succeed	O
+her	O
+marriage	O
+;	O
+but	O
+the	O
+whispered	O
+tone	O
+had	O
+latterly	O
+become	O
+more	O
+drowsy	O
+;	O
+and	O
+margaret	B-CHARACTER
+,	O
+after	O
+a	O
+pause	O
+of	O
+a	O
+few	O
+minutes	O
+,	O
+found	O
+,	O
+as	O
+she	O
+fancied	O
+,	O
+that	O
+in	O
+spite	O
+of	O
+the	O
+buzz	O
+in	O
+the	O
+next	O
+room	O
+,	O
+edith	B-CHARACTER
+had	O
+rolled	O
+herself	O
+up	O
+into	O
+a	O
+soft	O
+ball	O
+of	O
+muslin	O
+and	O
+ribbon	O
+,	O
+and	O
+silken	O
+curls	O
+,	O
+and	O
+gone	O
+off	O
+into	O
+a	O
+peaceful	O
+little	O
+after-dinner	O
+nap	O
+.	O
+
+# id = litbank-2105
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = margaret had been on the point of telling her cousin of some of the plans and visions which she entertained as to her future life in the country parsonage , where her father and mother lived ; and where her bright holidays had always been passed , though for the last ten years her aunt shaw 's house had been considered as her home .
+margaret	B-CHARACTER
+had	O
+been	O
+on	O
+the	O
+point	O
+of	O
+telling	O
+her	O
+cousin	O
+of	O
+some	O
+of	O
+the	O
+plans	O
+and	O
+visions	O
+which	O
+she	O
+entertained	O
+as	O
+to	O
+her	O
+future	O
+life	O
+in	O
+the	O
+country	O
+parsonage	O
+,	O
+where	O
+her	O
+father	O
+and	O
+mother	O
+lived	O
+;	O
+and	O
+where	O
+her	O
+bright	O
+holidays	O
+had	O
+always	O
+been	O
+passed	O
+,	O
+though	O
+for	O
+the	O
+last	O
+ten	O
+years	O
+her	O
+aunt	O
+shaw	B-CHARACTER
+'s	O
+house	O
+had	O
+been	O
+considered	O
+as	O
+her	O
+home	O
+.	O
+
+# id = litbank-2109
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = her aunt shaw was talking to the five or six ladies who had been dining there , and whose husbands were still in the dining-room .
+her	O
+aunt	O
+shaw	B-CHARACTER
+was	O
+talking	O
+to	O
+the	O
+five	O
+or	O
+six	O
+ladies	O
+who	O
+had	O
+been	O
+dining	O
+there	O
+,	O
+and	O
+whose	O
+husbands	O
+were	O
+still	O
+in	O
+the	O
+dining-room	O
+.	O
+
+# id = litbank-2110
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = they were the familiar acquaintances of the house ; neighbours whom mrs. shaw called friends , because she happened to dine with them more frequently than with any other people , and because if she or edith wanted anything from them , or they from her , they did not scruple to make a call at each other 's houses before luncheon .
+they	O
+were	O
+the	O
+familiar	O
+acquaintances	O
+of	O
+the	O
+house	O
+;	O
+neighbours	O
+whom	O
+mrs.	B-CHARACTER
+shaw	I-CHARACTER
+called	O
+friends	O
+,	O
+because	O
+she	O
+happened	O
+to	O
+dine	O
+with	O
+them	O
+more	O
+frequently	O
+than	O
+with	O
+any	O
+other	O
+people	O
+,	O
+and	O
+because	O
+if	O
+she	O
+or	O
+edith	B-CHARACTER
+wanted	O
+anything	O
+from	O
+them	O
+,	O
+or	O
+they	O
+from	O
+her	O
+,	O
+they	O
+did	O
+not	O
+scruple	O
+to	O
+make	O
+a	O
+call	O
+at	O
+each	O
+other	O
+'s	O
+houses	O
+before	O
+luncheon	O
+.	O
+
+# id = litbank-2111
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = these ladies and their husbands were invited , in their capacity of friends , to eat a farewell dinner in honour of edith 's approaching marriage .
+these	O
+ladies	O
+and	O
+their	O
+husbands	O
+were	O
+invited	O
+,	O
+in	O
+their	O
+capacity	O
+of	O
+friends	O
+,	O
+to	O
+eat	O
+a	O
+farewell	O
+dinner	O
+in	O
+honour	O
+of	O
+edith	B-CHARACTER
+'s	O
+approaching	O
+marriage	O
+.	O
+
+# id = litbank-2112
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = edith had rather objected to this arrangement , for captain lennox was expected to arrive by a late train this very evening ; but , although she was a spoiled child , she was too careless and idle to have a very strong will of her own , and gave way when she found that her mother had absolutely ordered those extra delicacies of the season which are always supposed to be efficacious against immoderate grief at farewell dinners .
+edith	B-CHARACTER
+had	O
+rather	O
+objected	O
+to	O
+this	O
+arrangement	O
+,	O
+for	O
+captain	B-CHARACTER
+lennox	I-CHARACTER
+was	O
+expected	O
+to	O
+arrive	O
+by	O
+a	O
+late	O
+train	O
+this	O
+very	O
+evening	O
+;	O
+but	O
+,	O
+although	O
+she	O
+was	O
+a	O
+spoiled	O
+child	O
+,	O
+she	O
+was	O
+too	O
+careless	O
+and	O
+idle	O
+to	O
+have	O
+a	O
+very	O
+strong	O
+will	O
+of	O
+her	O
+own	O
+,	O
+and	O
+gave	O
+way	O
+when	O
+she	O
+found	O
+that	O
+her	O
+mother	O
+had	O
+absolutely	O
+ordered	O
+those	O
+extra	O
+delicacies	O
+of	O
+the	O
+season	O
+which	O
+are	O
+always	O
+supposed	O
+to	O
+be	O
+efficacious	O
+against	O
+immoderate	O
+grief	O
+at	O
+farewell	O
+dinners	O
+.	O
+
+# id = litbank-2113
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = she contented herself by leaning back in her chair , merely playing with the food on her plate , and looking grave and absent ; while all around her were enjoying the mots of mr. grey , the gentleman who always took the bottom of the table at mrs. shaw 's dinner parties , and asked edith to give them some music in the drawing-room .
+she	O
+contented	O
+herself	O
+by	O
+leaning	O
+back	O
+in	O
+her	O
+chair	O
+,	O
+merely	O
+playing	O
+with	O
+the	O
+food	O
+on	O
+her	O
+plate	O
+,	O
+and	O
+looking	O
+grave	O
+and	O
+absent	O
+;	O
+while	O
+all	O
+around	O
+her	O
+were	O
+enjoying	O
+the	O
+mots	O
+of	O
+mr.	B-CHARACTER
+grey	I-CHARACTER
+,	O
+the	O
+gentleman	O
+who	O
+always	O
+took	O
+the	O
+bottom	O
+of	O
+the	O
+table	O
+at	O
+mrs.	B-CHARACTER
+shaw	I-CHARACTER
+'s	O
+dinner	O
+parties	O
+,	O
+and	O
+asked	O
+edith	B-CHARACTER
+to	O
+give	O
+them	O
+some	O
+music	O
+in	O
+the	O
+drawing-room	O
+.	O
+
+# id = litbank-2114
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = mr. grey was particularly agreeable over this farewell dinner , and the gentlemen staid down stairs longer than usual .
+mr.	B-CHARACTER
+grey	I-CHARACTER
+was	O
+particularly	O
+agreeable	O
+over	O
+this	O
+farewell	O
+dinner	O
+,	O
+and	O
+the	O
+gentlemen	O
+staid	O
+down	O
+stairs	O
+longer	O
+than	O
+usual	O
+.	O
+
+# id = litbank-2115
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = it was very well they did -- to judge from the fragments of conversation which margaret overheard . '
+it	O
+was	O
+very	O
+well	O
+they	O
+did	O
+--	O
+to	O
+judge	O
+from	O
+the	O
+fragments	O
+of	O
+conversation	O
+which	O
+margaret	B-CHARACTER
+overheard	O
+.	O
+'	O
+
+# id = litbank-2116
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = i suffered too much myself ; not that i was not extremely happy with the poor dear general , but still disparity of age is a drawback ; one that i was resolved edith should not have to encounter .
+i	O
+suffered	O
+too	O
+much	O
+myself	O
+;	O
+not	O
+that	O
+i	O
+was	O
+not	O
+extremely	O
+happy	O
+with	O
+the	O
+poor	O
+dear	O
+general	O
+,	O
+but	O
+still	O
+disparity	O
+of	O
+age	O
+is	O
+a	O
+drawback	O
+;	O
+one	O
+that	O
+i	O
+was	O
+resolved	O
+edith	B-CHARACTER
+should	O
+not	O
+have	O
+to	O
+encounter	O
+.	O
+
+# id = litbank-2117
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = i had quite a prophetic feeling when captain lennox ' -- and here the voice dropped into a whisper , but margaret could easily supply the blank .
+i	O
+had	O
+quite	O
+a	O
+prophetic	O
+feeling	O
+when	O
+captain	B-CHARACTER
+lennox	I-CHARACTER
+'	O
+--	O
+and	O
+here	O
+the	O
+voice	O
+dropped	O
+into	O
+a	O
+whisper	O
+,	O
+but	O
+margaret	B-CHARACTER
+could	O
+easily	O
+supply	O
+the	O
+blank	O
+.	O
+
+# id = litbank-2118
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = the course of true love in edith 's case had run remarkably smooth .
+the	O
+course	O
+of	O
+true	O
+love	O
+in	O
+edith	B-CHARACTER
+'s	O
+case	O
+had	O
+run	O
+remarkably	O
+smooth	O
+.	O
+
+# id = litbank-2119
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = mrs. shaw had given way to the presentiment , as she expressed it ; and had rather urged on the marriage , although it was below the expectations which many of edith 's acquaintances had formed for her , a young and pretty heiress .
+mrs.	B-CHARACTER
+shaw	I-CHARACTER
+had	O
+given	O
+way	O
+to	O
+the	O
+presentiment	O
+,	O
+as	O
+she	O
+expressed	O
+it	O
+;	O
+and	O
+had	O
+rather	O
+urged	O
+on	O
+the	O
+marriage	O
+,	O
+although	O
+it	O
+was	O
+below	O
+the	O
+expectations	O
+which	O
+many	O
+of	O
+edith	B-CHARACTER
+'s	O
+acquaintances	O
+had	O
+formed	O
+for	O
+her	O
+,	O
+a	O
+young	O
+and	O
+pretty	O
+heiress	O
+.	O
+
+# id = litbank-2120
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = but mrs. shaw said that her only child should marry for love , -- and sighed emphatically , as if love had not been her motive for marrying the general .
+but	O
+mrs.	B-CHARACTER
+shaw	I-CHARACTER
+said	O
+that	O
+her	O
+only	O
+child	O
+should	O
+marry	O
+for	O
+love	O
+,	O
+--	O
+and	O
+sighed	O
+emphatically	O
+,	O
+as	O
+if	O
+love	O
+had	O
+not	O
+been	O
+her	O
+motive	O
+for	O
+marrying	O
+the	O
+general	O
+.	O
+
+# id = litbank-2121
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = mrs. shaw enjoyed the romance of the present engagement rather more than her daughter .
+mrs.	B-CHARACTER
+shaw	I-CHARACTER
+enjoyed	O
+the	O
+romance	O
+of	O
+the	O
+present	O
+engagement	O
+rather	O
+more	O
+than	O
+her	O
+daughter	O
+.	O
+
+# id = litbank-2122
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = not but that edith was very thoroughly and properly in love ; still she would certainly have preferred a good house in belgravia , to all the picturesqueness of the life which captain lennox described at corfu .
+not	O
+but	O
+that	O
+edith	B-CHARACTER
+was	O
+very	O
+thoroughly	O
+and	O
+properly	O
+in	O
+love	O
+;	O
+still	O
+she	O
+would	O
+certainly	O
+have	O
+preferred	O
+a	O
+good	O
+house	O
+in	O
+belgravia	O
+,	O
+to	O
+all	O
+the	O
+picturesqueness	O
+of	O
+the	O
+life	O
+which	O
+captain	B-CHARACTER
+lennox	I-CHARACTER
+described	O
+at	O
+corfu	O
+.	O
+
+# id = litbank-2123
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = the very parts which made margaret glow as she listened , edith pretended to shiver and shudder at ; partly for the pleasure she had in being coaxed out of her dislike by her fond lover , and partly because anything of a gipsy or make-shift life was really distasteful to her .
+the	O
+very	O
+parts	O
+which	O
+made	O
+margaret	B-CHARACTER
+glow	O
+as	O
+she	O
+listened	O
+,	O
+edith	B-CHARACTER
+pretended	O
+to	O
+shiver	O
+and	O
+shudder	O
+at	O
+;	O
+partly	O
+for	O
+the	O
+pleasure	O
+she	O
+had	O
+in	O
+being	O
+coaxed	O
+out	O
+of	O
+her	O
+dislike	O
+by	O
+her	O
+fond	O
+lover	O
+,	O
+and	O
+partly	O
+because	O
+anything	O
+of	O
+a	O
+gipsy	O
+or	O
+make-shift	O
+life	O
+was	O
+really	O
+distasteful	O
+to	O
+her	O
+.	O
+
+# id = litbank-2124
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = yet had any one come with a fine house , and a fine estate , and a fine title to boot , edith would still have clung to captain lennox while the temptation lasted ; when it was over , it is possible she might have had little qualms of ill-concealed regret that captain lennox could not have united in his person everything that was desirable .
+yet	O
+had	O
+any	O
+one	O
+come	O
+with	O
+a	O
+fine	O
+house	O
+,	O
+and	O
+a	O
+fine	O
+estate	O
+,	O
+and	O
+a	O
+fine	O
+title	O
+to	O
+boot	O
+,	O
+edith	B-CHARACTER
+would	O
+still	O
+have	O
+clung	O
+to	O
+captain	B-CHARACTER
+lennox	I-CHARACTER
+while	O
+the	O
+temptation	O
+lasted	O
+;	O
+when	O
+it	O
+was	O
+over	O
+,	O
+it	O
+is	O
+possible	O
+she	O
+might	O
+have	O
+had	O
+little	O
+qualms	O
+of	O
+ill-concealed	O
+regret	O
+that	O
+captain	B-CHARACTER
+lennox	I-CHARACTER
+could	O
+not	O
+have	O
+united	O
+in	O
+his	O
+person	O
+everything	O
+that	O
+was	O
+desirable	O
+.	O
+
+# id = litbank-2125
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = in this she was but her mother 's child ; who , after deliberately marrying general shaw with no warmer feeling than respect for his character and establishment , was constantly , though quietly , bemoaning her hard lot in being united to one whom she could not love . '
+in	O
+this	O
+she	O
+was	O
+but	O
+her	O
+mother	O
+'s	O
+child	O
+;	O
+who	O
+,	O
+after	O
+deliberately	O
+marrying	O
+general	B-CHARACTER
+shaw	I-CHARACTER
+with	O
+no	O
+warmer	O
+feeling	O
+than	O
+respect	O
+for	O
+his	O
+character	O
+and	O
+establishment	O
+,	O
+was	O
+constantly	O
+,	O
+though	O
+quietly	O
+,	O
+bemoaning	O
+her	O
+hard	O
+lot	O
+in	O
+being	O
+united	O
+to	O
+one	O
+whom	O
+she	O
+could	O
+not	O
+love	O
+.	O
+'	O
+
+# id = litbank-2126
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = i have spared no expense in her trousseau , ' were the next words margaret heard .
+i	O
+have	O
+spared	O
+no	O
+expense	O
+in	O
+her	O
+trousseau	O
+,	O
+'	O
+were	O
+the	O
+next	O
+words	O
+margaret	B-CHARACTER
+heard	O
+.	O
+
+# id = litbank-2127
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = ' she is a lucky girl , ' replied another voice , which margaret knew to be that of mrs. gibson , a lady who was taking a double interest in the conversation , from the fact of one of her daughters having been married within the last few weeks .
+'	O
+she	O
+is	O
+a	O
+lucky	O
+girl	O
+,	O
+'	O
+replied	O
+another	O
+voice	O
+,	O
+which	O
+margaret	B-CHARACTER
+knew	O
+to	O
+be	O
+that	O
+of	O
+mrs.	B-CHARACTER
+gibson	I-CHARACTER
+,	O
+a	O
+lady	O
+who	O
+was	O
+taking	O
+a	O
+double	O
+interest	O
+in	O
+the	O
+conversation	O
+,	O
+from	O
+the	O
+fact	O
+of	O
+one	O
+of	O
+her	O
+daughters	O
+having	O
+been	O
+married	O
+within	O
+the	O
+last	O
+few	O
+weeks	O
+.	O
+
+# id = litbank-2128
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = ' helen had set her heart upon an indian shawl , but really when i found what an extravagant price was asked , i was obliged to refuse her .
+'	O
+helen	B-CHARACTER
+had	O
+set	O
+her	O
+heart	O
+upon	O
+an	O
+indian	O
+shawl	O
+,	O
+but	O
+really	O
+when	O
+i	O
+found	O
+what	O
+an	O
+extravagant	O
+price	O
+was	O
+asked	O
+,	O
+i	O
+was	O
+obliged	O
+to	O
+refuse	O
+her	O
+.	O
+
+# id = litbank-2129
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = she will be quite envious when she hears of edith having indian shawls .
+she	O
+will	O
+be	O
+quite	O
+envious	O
+when	O
+she	O
+hears	O
+of	O
+edith	B-CHARACTER
+having	O
+indian	O
+shawls	O
+.	O
+
+# id = litbank-2130
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = margaret heard her aunt 's voice again , but this time it was as if she had raised herself up from her half-recumbent position , and were looking into the more dimly lighted back drawing-room .
+margaret	B-CHARACTER
+heard	O
+her	O
+aunt	O
+'s	O
+voice	O
+again	O
+,	O
+but	O
+this	O
+time	O
+it	O
+was	O
+as	O
+if	O
+she	O
+had	O
+raised	O
+herself	O
+up	O
+from	O
+her	O
+half-recumbent	O
+position	O
+,	O
+and	O
+were	O
+looking	O
+into	O
+the	O
+more	O
+dimly	O
+lighted	O
+back	O
+drawing-room	O
+.	O
+
+# id = litbank-2131
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = ' edith !
+'	O
+edith	B-CHARACTER
+!	O
+
+# id = litbank-2132
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = edith ! '
+edith	B-CHARACTER
+!	O
+'	O
+
+# id = litbank-2133
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = margaret stepped forward .
+margaret	B-CHARACTER
+stepped	O
+forward	O
+.	O
+
+# id = litbank-2134
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = ' edith is asleep , aunt shaw .
+'	O
+edith	B-CHARACTER
+is	O
+asleep	O
+,	O
+aunt	O
+shaw	B-CHARACTER
+.	O
+
+# id = litbank-2135
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = on receiving this distressing intelligence about edith ; and the minute lap-dog in mrs. shaw 's arms began to bark , as if excited by the burst of pity .
+on	O
+receiving	O
+this	O
+distressing	O
+intelligence	O
+about	O
+edith	O
+;	O
+and	O
+the	O
+minute	O
+lap-dog	O
+in	O
+mrs.	B-CHARACTER
+shaw	I-CHARACTER
+'s	O
+arms	O
+began	O
+to	O
+bark	O
+,	O
+as	O
+if	O
+excited	O
+by	O
+the	O
+burst	O
+of	O
+pity	O
+.	O
+
+# id = litbank-2136
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = it was only to ask edith if she would tell newton to bring down her shawls : perhaps you would go , margaret dear ? '
+it	O
+was	O
+only	O
+to	O
+ask	O
+edith	B-CHARACTER
+if	O
+she	O
+would	O
+tell	O
+newton	B-CHARACTER
+to	O
+bring	O
+down	O
+her	O
+shawls	O
+:	O
+perhaps	O
+you	O
+would	O
+go	O
+,	O
+margaret	B-CHARACTER
+dear	O
+?	O
+'	O
+
+# id = litbank-2137
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = margaret went up into the old nursery at the very top of the house , where newton was busy getting up some laces which were required for the wedding .
+margaret	B-CHARACTER
+went	O
+up	O
+into	O
+the	O
+old	O
+nursery	O
+at	O
+the	O
+very	O
+top	O
+of	O
+the	O
+house	O
+,	O
+where	O
+newton	B-CHARACTER
+was	O
+busy	O
+getting	O
+up	O
+some	O
+laces	O
+which	O
+were	O
+required	O
+for	O
+the	O
+wedding	O
+.	O
+
+# id = litbank-2138
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = while newton went ( not without a muttered grumbling ) to undo the shawls , which had already been exhibited four or five times that day , margaret looked round upon the nursery ; the first room in that house with which she had become familiar nine years ago , when she was brought , all untamed from the forest , to share the home , the play , and the lessons of her cousin edith .
+while	O
+newton	B-CHARACTER
+went	O
+(	O
+not	O
+without	O
+a	O
+muttered	O
+grumbling	O
+)	O
+to	O
+undo	O
+the	O
+shawls	O
+,	O
+which	O
+had	O
+already	O
+been	O
+exhibited	O
+four	O
+or	O
+five	O
+times	O
+that	O
+day	O
+,	O
+margaret	B-CHARACTER
+looked	O
+round	O
+upon	O
+the	O
+nursery	O
+;	O
+the	O
+first	O
+room	O
+in	O
+that	O
+house	O
+with	O
+which	O
+she	O
+had	O
+become	O
+familiar	O
+nine	O
+years	O
+ago	O
+,	O
+when	O
+she	O
+was	O
+brought	O
+,	O
+all	O
+untamed	O
+from	O
+the	O
+forest	O
+,	O
+to	O
+share	O
+the	O
+home	O
+,	O
+the	O
+play	O
+,	O
+and	O
+the	O
+lessons	O
+of	O
+her	O
+cousin	O
+edith	B-CHARACTER
+.	O
+
+# id = litbank-2139
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = at home -- before she came to live in harley street -- her mother 's dressing-room had been her nursery ; and , as they kept early hours in the country parsonage , margaret had always had her meals with her father and mother .
+at	O
+home	O
+--	O
+before	O
+she	O
+came	O
+to	O
+live	O
+in	O
+harley	O
+street	O
+--	O
+her	O
+mother	O
+'s	O
+dressing-room	O
+had	O
+been	O
+her	O
+nursery	O
+;	O
+and	O
+,	O
+as	O
+they	O
+kept	O
+early	O
+hours	O
+in	O
+the	O
+country	O
+parsonage	O
+,	O
+margaret	B-CHARACTER
+had	O
+always	O
+had	O
+her	O
+meals	O
+with	O
+her	O
+father	O
+and	O
+mother	O
+.	O
+
+# id = litbank-2140
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = well did the tall stately girl of eighteen remember the tears shed with such wild passion of grief by the little girl of nine , as she hid her face under the bed-clothes , in that first night ; and how she was bidden not to cry by the nurse , because it would disturb miss edith ; and how she had cried as bitterly , but more quietly , till her newly-seen , grand , pretty aunt had come softly upstairs with mr. hale to show him his little sleeping daughter .
+well	O
+did	O
+the	O
+tall	O
+stately	O
+girl	O
+of	O
+eighteen	O
+remember	O
+the	O
+tears	O
+shed	O
+with	O
+such	O
+wild	O
+passion	O
+of	O
+grief	O
+by	O
+the	O
+little	O
+girl	O
+of	O
+nine	O
+,	O
+as	O
+she	O
+hid	O
+her	O
+face	O
+under	O
+the	O
+bed-clothes	O
+,	O
+in	O
+that	O
+first	O
+night	O
+;	O
+and	O
+how	O
+she	O
+was	O
+bidden	O
+not	O
+to	O
+cry	O
+by	O
+the	O
+nurse	O
+,	O
+because	O
+it	O
+would	O
+disturb	O
+miss	B-CHARACTER
+edith	I-CHARACTER
+;	O
+and	O
+how	O
+she	O
+had	O
+cried	O
+as	O
+bitterly	O
+,	O
+but	O
+more	O
+quietly	O
+,	O
+till	O
+her	O
+newly-seen	O
+,	O
+grand	O
+,	O
+pretty	O
+aunt	O
+had	O
+come	O
+softly	O
+upstairs	O
+with	O
+mr.	B-CHARACTER
+hale	I-CHARACTER
+to	O
+show	O
+him	O
+his	O
+little	O
+sleeping	O
+daughter	O
+.	O
+
+# id = litbank-2141
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = then the little margaret had hushed her sobs , and tried to lie quiet as if asleep , for fear of making her father unhappy by her grief , which she dared not express before her aunt , and which she rather thought it was wrong to feel at all after the long hoping , and planning , and contriving they had gone through at home , before her wardrobe could be arranged so as to suit her grander circumstances , and before papa could leave his parish to come up to london , even for a few days .
+then	O
+the	O
+little	O
+margaret	B-CHARACTER
+had	O
+hushed	O
+her	O
+sobs	O
+,	O
+and	O
+tried	O
+to	O
+lie	O
+quiet	O
+as	O
+if	O
+asleep	O
+,	O
+for	O
+fear	O
+of	O
+making	O
+her	O
+father	O
+unhappy	O
+by	O
+her	O
+grief	O
+,	O
+which	O
+she	O
+dared	O
+not	O
+express	O
+before	O
+her	O
+aunt	O
+,	O
+and	O
+which	O
+she	O
+rather	O
+thought	O
+it	O
+was	O
+wrong	O
+to	O
+feel	O
+at	O
+all	O
+after	O
+the	O
+long	O
+hoping	O
+,	O
+and	O
+planning	O
+,	O
+and	O
+contriving	O
+they	O
+had	O
+gone	O
+through	O
+at	O
+home	O
+,	O
+before	O
+her	O
+wardrobe	O
+could	O
+be	O
+arranged	O
+so	O
+as	O
+to	O
+suit	O
+her	O
+grander	O
+circumstances	O
+,	O
+and	O
+before	O
+papa	O
+could	O
+leave	O
+his	O
+parish	O
+to	O
+come	O
+up	O
+to	O
+london	O
+,	O
+even	O
+for	O
+a	O
+few	O
+days	O
+.	O
+
+# id = litbank-2142
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = ' ah newton ! '
+'	O
+ah	O
+newton	B-CHARACTER
+!	O
+'	O
+
+# id = litbank-2096
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = chapter i ' haste to the wedding ' ' wooed and married and a ' . '
+chapter	O
+i	O
+'	O
+haste	O
+to	O
+the	O
+wedding	O
+'	O
+'	O
+wooed	O
+and	O
+married	O
+and	O
+a	O
+'	O
+.	O
+'	O
+
+# id = litbank-2100
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = she lay curled up on the sofa in the back drawing-room in harley street , looking very lovely in her white muslin and blue ribbons .
+she	O
+lay	O
+curled	O
+up	O
+on	O
+the	O
+sofa	O
+in	O
+the	O
+back	O
+drawing-room	O
+in	O
+harley	O
+street	O
+,	O
+looking	O
+very	O
+lovely	O
+in	O
+her	O
+white	O
+muslin	O
+and	O
+blue	O
+ribbons	O
+.	O
+
+# id = litbank-2106
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = but in default of a listener , she had to brood over the change in her life silently as heretofore .
+but	O
+in	O
+default	O
+of	O
+a	O
+listener	O
+,	O
+she	O
+had	O
+to	O
+brood	O
+over	O
+the	O
+change	O
+in	O
+her	O
+life	O
+silently	O
+as	O
+heretofore	O
+.	O
+
+# id = litbank-2107
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = it was a happy brooding , although tinged with regret at being separated for an indefinite time from her gentle aunt and dear cousin .
+it	O
+was	O
+a	O
+happy	O
+brooding	O
+,	O
+although	O
+tinged	O
+with	O
+regret	O
+at	O
+being	O
+separated	O
+for	O
+an	O
+indefinite	O
+time	O
+from	O
+her	O
+gentle	O
+aunt	O
+and	O
+dear	O
+cousin	O
+.	O
+
+# id = litbank-2108
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = as she thought of the delight of filling the important post of only daughter in helstone parsonage , pieces of the conversation out of the next room came upon her ears .
+as	O
+she	O
+thought	O
+of	O
+the	O
+delight	O
+of	O
+filling	O
+the	O
+important	O
+post	O
+of	O
+only	O
+daughter	O
+in	O
+helstone	O
+parsonage	O
+,	O
+pieces	O
+of	O
+the	O
+conversation	O
+out	O
+of	O
+the	O
+next	O
+room	O
+came	O
+upon	O
+her	O
+ears	O
+.	O
+

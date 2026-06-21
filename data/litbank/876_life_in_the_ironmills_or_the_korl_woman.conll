@@ -1,0 +1,502 @@
+# id = litbank-1315
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = my story is very simple , -- only what i remember of the life of one of these men , -- a furnace-tender in one of kirby & john 's rolling-mills , -- hugh wolfe .
+my	O
+story	O
+is	O
+very	O
+simple	O
+,	O
+--	O
+only	O
+what	O
+i	O
+remember	O
+of	O
+the	O
+life	O
+of	O
+one	O
+of	O
+these	O
+men	O
+,	O
+--	O
+a	O
+furnace-tender	O
+in	O
+one	O
+of	O
+kirby	B-CHARACTER
+&	O
+john	B-CHARACTER
+'s	O
+rolling-mills	O
+,	O
+--	O
+hugh	B-CHARACTER
+wolfe	I-CHARACTER
+.	O
+
+# id = litbank-1316
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = i can not tell why i choose the half-forgotten story of this wolfe more than that of myriads of these furnace-hands .
+i	O
+can	O
+not	O
+tell	O
+why	O
+i	O
+choose	O
+the	O
+half-forgotten	O
+story	O
+of	O
+this	O
+wolfe	B-CHARACTER
+more	O
+than	O
+that	O
+of	O
+myriads	O
+of	O
+these	O
+furnace-hands	O
+.	O
+
+# id = litbank-1317
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = there were the father and son , -- both hands , as i said , in one of kirby & john 's mills for making railroad-iron , -- and deborah , their cousin , a picker in some of the cotton-mills .
+there	O
+were	O
+the	O
+father	O
+and	O
+son	O
+,	O
+--	O
+both	O
+hands	O
+,	O
+as	O
+i	O
+said	O
+,	O
+in	O
+one	O
+of	O
+kirby	B-CHARACTER
+&	O
+john	B-CHARACTER
+'s	O
+mills	O
+for	O
+making	O
+railroad-iron	O
+,	O
+--	O
+and	O
+deborah	B-CHARACTER
+,	O
+their	O
+cousin	O
+,	O
+a	O
+picker	O
+in	O
+some	O
+of	O
+the	O
+cotton-mills	O
+.	O
+
+# id = litbank-1318
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = “ inteet , deb , if hur 'll come , hur 'll hef fun , ” said a shrill welsh voice in the crowd .
+“	O
+inteet	O
+,	O
+deb	B-CHARACTER
+,	O
+if	O
+hur	O
+'ll	O
+come	O
+,	O
+hur	O
+'ll	O
+hef	O
+fun	O
+,	O
+”	O
+said	O
+a	O
+shrill	O
+welsh	O
+voice	O
+in	O
+the	O
+crowd	O
+.	O
+
+# id = litbank-1319
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = where 's kit small , then ? ”
+where	O
+'s	O
+kit	B-CHARACTER
+small	I-CHARACTER
+,	O
+then	O
+?	O
+”	O
+
+# id = litbank-1320
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = let deb alone !
+let	O
+deb	B-CHARACTER
+alone	O
+!	O
+
+# id = litbank-1321
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = there 'll be lashin 's o ' drink , -- the vargent be blessed and praised for ' t ! ”
+there	O
+'ll	O
+be	O
+lashin	O
+'s	O
+o	O
+'	O
+drink	O
+,	O
+--	O
+the	O
+vargent	B-CHARACTER
+be	O
+blessed	O
+and	O
+praised	O
+for	O
+'	O
+t	O
+!	O
+”	O
+
+# id = litbank-1322
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = they went on , the mulatto inclining for a moment to show fight , and drag the woman wolfe off with them ; but , being pacified , she staggered away .
+they	O
+went	O
+on	O
+,	O
+the	O
+mulatto	O
+inclining	O
+for	O
+a	O
+moment	O
+to	O
+show	O
+fight	O
+,	O
+and	O
+drag	O
+the	O
+woman	O
+wolfe	B-CHARACTER
+off	O
+with	O
+them	O
+;	O
+but	O
+,	O
+being	O
+pacified	O
+,	O
+she	O
+staggered	O
+away	O
+.	O
+
+# id = litbank-1323
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = deborah groped her way into the cellar , and , after considerable stumbling , kindled a match , and lighted a tallow dip , that sent a yellow glimmer over the room .
+deborah	B-CHARACTER
+groped	O
+her	O
+way	O
+into	O
+the	O
+cellar	O
+,	O
+and	O
+,	O
+after	O
+considerable	O
+stumbling	O
+,	O
+kindled	O
+a	O
+match	O
+,	O
+and	O
+lighted	O
+a	O
+tallow	O
+dip	O
+,	O
+that	O
+sent	O
+a	O
+yellow	O
+glimmer	O
+over	O
+the	O
+room	O
+.	O
+
+# id = litbank-1324
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = old wolfe lay asleep on a heap of straw , wrapped in a torn horse-blanket .
+old	O
+wolfe	B-CHARACTER
+lay	O
+asleep	O
+on	O
+a	O
+heap	O
+of	O
+straw	O
+,	O
+wrapped	O
+in	O
+a	O
+torn	O
+horse-blanket	O
+.	O
+
+# id = litbank-1325
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = the woman deborah was like him ; only her face was even more ghastly , her lips bluer , her eyes more watery .
+the	O
+woman	O
+deborah	B-CHARACTER
+was	O
+like	O
+him	O
+;	O
+only	O
+her	O
+face	O
+was	O
+even	O
+more	O
+ghastly	O
+,	O
+her	O
+lips	O
+bluer	O
+,	O
+her	O
+eyes	O
+more	O
+watery	O
+.	O
+
+# id = litbank-1310
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = a cloudy day : do you know what that is in a town of iron-works ?
+a	O
+cloudy	O
+day	O
+:	O
+do	O
+you	O
+know	O
+what	O
+that	O
+is	O
+in	O
+a	O
+town	O
+of	O
+iron-works	O
+?	O
+
+# id = litbank-1311
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = the sky sank down before dawn , muddy , flat , immovable .
+the	O
+sky	O
+sank	O
+down	O
+before	O
+dawn	O
+,	O
+muddy	O
+,	O
+flat	O
+,	O
+immovable	O
+.	O
+
+# id = litbank-1312
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = the air is thick , clammy with the breath of crowded human beings .
+the	O
+air	O
+is	O
+thick	O
+,	O
+clammy	O
+with	O
+the	O
+breath	O
+of	O
+crowded	O
+human	O
+beings	O
+.	O
+
+# id = litbank-1313
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = i open the window , and , looking out , can scarcely see through the rain the grocer 's shop opposite , where a crowd of drunken irishmen are puffing lynchburg tobacco in their pipes .
+i	O
+open	O
+the	O
+window	O
+,	O
+and	O
+,	O
+looking	O
+out	O
+,	O
+can	O
+scarcely	O
+see	O
+through	O
+the	O
+rain	O
+the	O
+grocer	O
+'s	O
+shop	O
+opposite	O
+,	O
+where	O
+a	O
+crowd	O
+of	O
+drunken	O
+irishmen	O
+are	O
+puffing	O
+lynchburg	O
+tobacco	O
+in	O
+their	O
+pipes	O
+.	O
+
+# id = litbank-1314
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = i can detect the scent through all the foul smells ranging loose in the air .
+i	O
+can	O
+detect	O
+the	O
+scent	O
+through	O
+all	O
+the	O
+foul	O
+smells	O
+ranging	O
+loose	O
+in	O
+the	O
+air	O
+.	O
+

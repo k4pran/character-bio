@@ -1,0 +1,361 @@
+# id = litbank-1343
+# source = LitBank
+# book = The Last of the Mohicans
+# book_id = 940_the_last_of_the_mohicans_a_narrative_of_1757
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/940_the_last_of_the_mohicans_a_narrative_of_1757_brat.tsv
+# text = the news had been brought , toward the decline of a day in midsummer , by an indian runner , who also bore an urgent request from munro , the commander of a work on the shore of the “ holy lake , ” for a speedy and powerful reinforcement .
+the	O
+news	O
+had	O
+been	O
+brought	O
+,	O
+toward	O
+the	O
+decline	O
+of	O
+a	O
+day	O
+in	O
+midsummer	O
+,	O
+by	O
+an	O
+indian	O
+runner	O
+,	O
+who	O
+also	O
+bore	O
+an	O
+urgent	O
+request	O
+from	O
+munro	B-CHARACTER
+,	O
+the	O
+commander	O
+of	O
+a	O
+work	O
+on	O
+the	O
+shore	O
+of	O
+the	O
+“	O
+holy	O
+lake	O
+,	O
+”	O
+for	O
+a	O
+speedy	O
+and	O
+powerful	O
+reinforcement	O
+.	O
+
+# id = litbank-1344
+# source = LitBank
+# book = The Last of the Mohicans
+# book_id = 940_the_last_of_the_mohicans_a_narrative_of_1757
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/940_the_last_of_the_mohicans_a_narrative_of_1757_brat.tsv
+# text = at the latter , however , lay general webb , who commanded the armies of the king in the northern provinces , with a body of more than five thousand men .
+at	O
+the	O
+latter	O
+,	O
+however	O
+,	O
+lay	O
+general	B-CHARACTER
+webb	I-CHARACTER
+,	O
+who	O
+commanded	O
+the	O
+armies	O
+of	O
+the	O
+king	O
+in	O
+the	O
+northern	O
+provinces	O
+,	O
+with	O
+a	O
+body	O
+of	O
+more	O
+than	O
+five	O
+thousand	O
+men	O
+.	O
+
+# id = litbank-1345
+# source = LitBank
+# book = The Last of the Mohicans
+# book_id = 940_the_last_of_the_mohicans_a_narrative_of_1757
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/940_the_last_of_the_mohicans_a_narrative_of_1757_brat.tsv
+# text = all doubts as to the intention of webb now vanished , and an hour or two of hurried footsteps and anxious faces succeeded .
+all	O
+doubts	O
+as	O
+to	O
+the	O
+intention	O
+of	O
+webb	B-CHARACTER
+now	O
+vanished	O
+,	O
+and	O
+an	O
+hour	O
+or	O
+two	O
+of	O
+hurried	O
+footsteps	O
+and	O
+anxious	O
+faces	O
+succeeded	O
+.	O
+
+# id = litbank-1338
+# source = LitBank
+# book = The Last of the Mohicans
+# book_id = 940_the_last_of_the_mohicans_a_narrative_of_1757
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/940_the_last_of_the_mohicans_a_narrative_of_1757_brat.tsv
+# text = chapter 1 “ mine ear is open , and my heart prepared : the worst is wordly loss thou canst unfold : -- say , is my kingdom lost ? ”
+chapter	O
+1	O
+“	O
+mine	O
+ear	O
+is	O
+open	O
+,	O
+and	O
+my	O
+heart	O
+prepared	O
+:	O
+the	O
+worst	O
+is	O
+wordly	O
+loss	O
+thou	O
+canst	O
+unfold	O
+:	O
+--	O
+say	O
+,	O
+is	O
+my	O
+kingdom	O
+lost	O
+?	O
+”	O
+
+# id = litbank-1339
+# source = LitBank
+# book = The Last of the Mohicans
+# book_id = 940_the_last_of_the_mohicans_a_narrative_of_1757
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/940_the_last_of_the_mohicans_a_narrative_of_1757_brat.tsv
+# text = -- shakespeare it was a feature peculiar to the colonial wars of north america , that the toils and dangers of the wilderness were to be encountered before the adverse hosts could meet .
+--	O
+shakespeare	O
+it	O
+was	O
+a	O
+feature	O
+peculiar	O
+to	O
+the	O
+colonial	O
+wars	O
+of	O
+north	O
+america	O
+,	O
+that	O
+the	O
+toils	O
+and	O
+dangers	O
+of	O
+the	O
+wilderness	O
+were	O
+to	O
+be	O
+encountered	O
+before	O
+the	O
+adverse	O
+hosts	O
+could	O
+meet	O
+.	O
+
+# id = litbank-1340
+# source = LitBank
+# book = The Last of the Mohicans
+# book_id = 940_the_last_of_the_mohicans_a_narrative_of_1757
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/940_the_last_of_the_mohicans_a_narrative_of_1757_brat.tsv
+# text = a wide and apparently an impervious boundary of forests severed the possessions of the hostile provinces of france and england .
+a	O
+wide	O
+and	O
+apparently	O
+an	O
+impervious	O
+boundary	O
+of	O
+forests	O
+severed	O
+the	O
+possessions	O
+of	O
+the	O
+hostile	O
+provinces	O
+of	O
+france	O
+and	O
+england	O
+.	O
+
+# id = litbank-1341
+# source = LitBank
+# book = The Last of the Mohicans
+# book_id = 940_the_last_of_the_mohicans_a_narrative_of_1757
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/940_the_last_of_the_mohicans_a_narrative_of_1757_brat.tsv
+# text = the hardy colonist , and the trained european who fought at his side , frequently expended months in struggling against the rapids of the streams , or in effecting the rugged passes of the mountains , in quest of an opportunity to exhibit their courage in a more martial conflict .
+the	O
+hardy	O
+colonist	O
+,	O
+and	O
+the	O
+trained	O
+european	O
+who	O
+fought	O
+at	O
+his	O
+side	O
+,	O
+frequently	O
+expended	O
+months	O
+in	O
+struggling	O
+against	O
+the	O
+rapids	O
+of	O
+the	O
+streams	O
+,	O
+or	O
+in	O
+effecting	O
+the	O
+rugged	O
+passes	O
+of	O
+the	O
+mountains	O
+,	O
+in	O
+quest	O
+of	O
+an	O
+opportunity	O
+to	O
+exhibit	O
+their	O
+courage	O
+in	O
+a	O
+more	O
+martial	O
+conflict	O
+.	O
+
+# id = litbank-1342
+# source = LitBank
+# book = The Last of the Mohicans
+# book_id = 940_the_last_of_the_mohicans_a_narrative_of_1757
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/940_the_last_of_the_mohicans_a_narrative_of_1757_brat.tsv
+# text = perhaps no district throughout the wide extent of the intermediate frontiers can furnish a livelier picture of the cruelty and fierceness of the savage warfare of those periods than the country which lies between the head waters of the hudson and the adjacent lakes .
+perhaps	O
+no	O
+district	O
+throughout	O
+the	O
+wide	O
+extent	O
+of	O
+the	O
+intermediate	O
+frontiers	O
+can	O
+furnish	O
+a	O
+livelier	O
+picture	O
+of	O
+the	O
+cruelty	O
+and	O
+fierceness	O
+of	O
+the	O
+savage	O
+warfare	O
+of	O
+those	O
+periods	O
+than	O
+the	O
+country	O
+which	O
+lies	O
+between	O
+the	O
+head	O
+waters	O
+of	O
+the	O
+hudson	O
+and	O
+the	O
+adjacent	O
+lakes	O
+.	O
+

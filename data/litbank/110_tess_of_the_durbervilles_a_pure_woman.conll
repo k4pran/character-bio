@@ -1,0 +1,856 @@
+# id = litbank-0465
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = " good night , sir john , " said the parson .
+"	O
+good	O
+night	O
+,	O
+sir	B-CHARACTER
+john	I-CHARACTER
+,	O
+"	O
+said	O
+the	O
+parson	O
+.	O
+
+# id = litbank-0466
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = " now , sir , begging your pardon ; we met last market-day on this road about this time , and i said ' good night , ' and you made reply ' _ good night , sir john _ , ' as now . "
+"	O
+now	O
+,	O
+sir	O
+,	O
+begging	O
+your	O
+pardon	O
+;	O
+we	O
+met	O
+last	O
+market-day	O
+on	O
+this	O
+road	O
+about	O
+this	O
+time	O
+,	O
+and	O
+i	O
+said	O
+'	O
+good	O
+night	O
+,	O
+'	O
+and	O
+you	O
+made	O
+reply	O
+'	O
+_	O
+good	O
+night	O
+,	O
+sir	B-CHARACTER
+john	I-CHARACTER
+_	O
+,	O
+'	O
+as	O
+now	O
+.	O
+"	O
+
+# id = litbank-0467
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = " then what might your meaning be in calling me ' sir john ' these different times , when i be plain jack durbeyfield , the haggler ? "
+"	O
+then	O
+what	O
+might	O
+your	O
+meaning	O
+be	O
+in	O
+calling	O
+me	O
+'	O
+sir	B-CHARACTER
+john	I-CHARACTER
+'	O
+these	O
+different	O
+times	O
+,	O
+when	O
+i	O
+be	O
+plain	O
+jack	B-CHARACTER
+durbeyfield	I-CHARACTER
+,	O
+the	O
+haggler	O
+?	O
+"	O
+
+# id = litbank-0468
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = i am parson tringham , the antiquary , of stagfoot lane .
+i	O
+am	O
+parson	B-CHARACTER
+tringham	I-CHARACTER
+,	O
+the	O
+antiquary	O
+,	O
+of	O
+stagfoot	O
+lane	O
+.	O
+
+# id = litbank-0469
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = do n't you really know , durbeyfield , that you are the lineal representative of the ancient and knightly family of the d'urbervilles , who derive their descent from sir pagan d'urberville , that renowned knight who came from normandy with william the conqueror , as appears by battle abbey roll ? "
+do	O
+n't	O
+you	O
+really	O
+know	O
+,	O
+durbeyfield	B-CHARACTER
+,	O
+that	O
+you	O
+are	O
+the	O
+lineal	O
+representative	O
+of	O
+the	O
+ancient	O
+and	O
+knightly	O
+family	O
+of	O
+the	O
+d'urbervilles	O
+,	O
+who	O
+derive	O
+their	O
+descent	O
+from	O
+sir	B-CHARACTER
+pagan	I-CHARACTER
+d'urberville	O
+,	O
+that	O
+renowned	O
+knight	O
+who	O
+came	O
+from	O
+normandy	O
+with	O
+william	O
+the	O
+conqueror	O
+,	O
+as	O
+appears	O
+by	O
+battle	O
+abbey	O
+roll	O
+?	O
+"	O
+
+# id = litbank-0470
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = aye , there have been generations of sir johns among you , and if knighthood were hereditary , like a baronetcy , as it practically was in old times , when men were knighted from father to son , you would be sir john now . "
+aye	O
+,	O
+there	O
+have	O
+been	O
+generations	O
+of	O
+sir	O
+johns	O
+among	O
+you	O
+,	O
+and	O
+if	O
+knighthood	O
+were	O
+hereditary	O
+,	O
+like	O
+a	O
+baronetcy	O
+,	O
+as	O
+it	O
+practically	O
+was	O
+in	O
+old	O
+times	O
+,	O
+when	O
+men	O
+were	O
+knighted	O
+from	O
+father	O
+to	O
+son	O
+,	O
+you	O
+would	O
+be	O
+sir	B-CHARACTER
+john	I-CHARACTER
+now	O
+.	O
+"	O
+
+# id = litbank-0471
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = said durbeyfield .
+said	O
+durbeyfield	B-CHARACTER
+.	O
+
+# id = litbank-0472
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = his own investigations had begun on a day in the preceding spring when , having been engaged in tracing the vicissitudes of the d'urberville family , he had observed durbeyfield 's name on his waggon , and had thereupon been led to make inquiries about his father and grandfather till he had no doubt on the subject .
+his	O
+own	O
+investigations	O
+had	O
+begun	O
+on	O
+a	O
+day	O
+in	O
+the	O
+preceding	O
+spring	O
+when	O
+,	O
+having	O
+been	O
+engaged	O
+in	O
+tracing	O
+the	O
+vicissitudes	O
+of	O
+the	O
+d'urberville	O
+family	O
+,	O
+he	O
+had	O
+observed	O
+durbeyfield	B-CHARACTER
+'s	O
+name	O
+on	O
+his	O
+waggon	O
+,	O
+and	O
+had	O
+thereupon	O
+been	O
+led	O
+to	O
+make	O
+inquiries	O
+about	O
+his	O
+father	O
+and	O
+grandfather	O
+till	O
+he	O
+had	O
+no	O
+doubt	O
+on	O
+the	O
+subject	O
+.	O
+
+# id = litbank-0473
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = asked durbeyfield , after a pause .
+asked	O
+durbeyfield	B-CHARACTER
+,	O
+after	O
+a	O
+pause	O
+.	O
+
+# id = litbank-0474
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = " no , thank you -- not this evening , durbeyfield .
+"	O
+no	O
+,	O
+thank	O
+you	O
+--	O
+not	O
+this	O
+evening	O
+,	O
+durbeyfield	B-CHARACTER
+.	O
+
+# id = litbank-0475
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = when he was gone , durbeyfield walked a few steps in a profound reverie , and then sat down upon the grassy bank by the roadside , depositing his basket before him .
+when	O
+he	O
+was	O
+gone	O
+,	O
+durbeyfield	B-CHARACTER
+walked	O
+a	O
+few	O
+steps	O
+in	O
+a	O
+profound	O
+reverie	O
+,	O
+and	O
+then	O
+sat	O
+down	O
+upon	O
+the	O
+grassy	O
+bank	O
+by	O
+the	O
+roadside	O
+,	O
+depositing	O
+his	O
+basket	O
+before	O
+him	O
+.	O
+
+# id = litbank-0476
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = in a few minutes a youth appeared in the distance , walking in the same direction as that which had been pursued by durbeyfield .
+in	O
+a	O
+few	O
+minutes	O
+a	O
+youth	O
+appeared	O
+in	O
+the	O
+distance	O
+,	O
+walking	O
+in	O
+the	O
+same	O
+direction	O
+as	O
+that	O
+which	O
+had	O
+been	O
+pursued	O
+by	O
+durbeyfield	B-CHARACTER
+.	O
+
+# id = litbank-0477
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = " who be you , then , john durbeyfield , to order me about and call me ' boy ' ?
+"	O
+who	O
+be	O
+you	O
+,	O
+then	O
+,	O
+john	B-CHARACTER
+durbeyfield	I-CHARACTER
+,	O
+to	O
+order	O
+me	O
+about	O
+and	O
+call	O
+me	O
+'	O
+boy	O
+'	O
+?	O
+
+# id = litbank-0478
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = now obey my orders , and take the message i 'm going to charge ' ee wi ' ... well , fred , i do n't mind telling you that the secret is that i 'm one of a noble race -- it has been just found out by me this present afternoon , p.m. " and as he made the announcement , durbeyfield , declining from his sitting position , luxuriously stretched himself out upon the bank among the daisies .
+now	O
+obey	O
+my	O
+orders	O
+,	O
+and	O
+take	O
+the	O
+message	O
+i	O
+'m	O
+going	O
+to	O
+charge	O
+'	O
+ee	O
+wi	O
+'	O
+...	O
+well	O
+,	O
+fred	B-CHARACTER
+,	O
+i	O
+do	O
+n't	O
+mind	O
+telling	O
+you	O
+that	O
+the	O
+secret	O
+is	O
+that	O
+i	O
+'m	O
+one	O
+of	O
+a	O
+noble	O
+race	O
+--	O
+it	O
+has	O
+been	O
+just	O
+found	O
+out	O
+by	O
+me	O
+this	O
+present	O
+afternoon	O
+,	O
+p.m.	O
+"	O
+and	O
+as	O
+he	O
+made	O
+the	O
+announcement	O
+,	O
+durbeyfield	B-CHARACTER
+,	O
+declining	O
+from	O
+his	O
+sitting	O
+position	O
+,	O
+luxuriously	O
+stretched	O
+himself	O
+out	O
+upon	O
+the	O
+bank	O
+among	O
+the	O
+daisies	O
+.	O
+
+# id = litbank-0479
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = the lad stood before durbeyfield , and contemplated his length from crown to toe .
+the	O
+lad	O
+stood	O
+before	O
+durbeyfield	B-CHARACTER
+,	O
+and	O
+contemplated	O
+his	O
+length	O
+from	O
+crown	O
+to	O
+toe	O
+.	O
+
+# id = litbank-0480
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = " sir john d'urberville -- that 's who i am , " continued the prostrate man .
+"	O
+sir	B-CHARACTER
+john	I-CHARACTER
+d'urberville	O
+--	O
+that	O
+'s	O
+who	O
+i	O
+am	O
+,	O
+"	O
+continued	O
+the	O
+prostrate	O
+man	O
+.	O
+
+# id = litbank-0481
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = as the lad stood in a dubious attitude , durbeyfield put his hand in his pocket , and produced a shilling , one of the chronically few that he possessed .
+as	O
+the	O
+lad	O
+stood	O
+in	O
+a	O
+dubious	O
+attitude	O
+,	O
+durbeyfield	B-CHARACTER
+put	O
+his	O
+hand	O
+in	O
+his	O
+pocket	O
+,	O
+and	O
+produced	O
+a	O
+shilling	O
+,	O
+one	O
+of	O
+the	O
+chronically	O
+few	O
+that	O
+he	O
+possessed	O
+.	O
+
+# id = litbank-0460
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = phase the first : the maiden i on an evening in the latter part of may a middle-aged man was walking homeward from shaston to the village of marlott , in the adjoining vale of blakemore , or blackmoor .
+phase	O
+the	O
+first	O
+:	O
+the	O
+maiden	O
+i	O
+on	O
+an	O
+evening	O
+in	O
+the	O
+latter	O
+part	O
+of	O
+may	O
+a	O
+middle-aged	O
+man	O
+was	O
+walking	O
+homeward	O
+from	O
+shaston	O
+to	O
+the	O
+village	O
+of	O
+marlott	O
+,	O
+in	O
+the	O
+adjoining	O
+vale	O
+of	O
+blakemore	O
+,	O
+or	O
+blackmoor	O
+.	O
+
+# id = litbank-0461
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = the pair of legs that carried him were rickety , and there was a bias in his gait which inclined him somewhat to the left of a straight line .
+the	O
+pair	O
+of	O
+legs	O
+that	O
+carried	O
+him	O
+were	O
+rickety	O
+,	O
+and	O
+there	O
+was	O
+a	O
+bias	O
+in	O
+his	O
+gait	O
+which	O
+inclined	O
+him	O
+somewhat	O
+to	O
+the	O
+left	O
+of	O
+a	O
+straight	O
+line	O
+.	O
+
+# id = litbank-0462
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = he occasionally gave a smart nod , as if in confirmation of some opinion , though he was not thinking of anything in particular .
+he	O
+occasionally	O
+gave	O
+a	O
+smart	O
+nod	O
+,	O
+as	O
+if	O
+in	O
+confirmation	O
+of	O
+some	O
+opinion	O
+,	O
+though	O
+he	O
+was	O
+not	O
+thinking	O
+of	O
+anything	O
+in	O
+particular	O
+.	O
+
+# id = litbank-0463
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = an empty egg-basket was slung upon his arm , the nap of his hat was ruffled , a patch being quite worn away at its brim where his thumb came in taking it off .
+an	O
+empty	O
+egg-basket	O
+was	O
+slung	O
+upon	O
+his	O
+arm	O
+,	O
+the	O
+nap	O
+of	O
+his	O
+hat	O
+was	O
+ruffled	O
+,	O
+a	O
+patch	O
+being	O
+quite	O
+worn	O
+away	O
+at	O
+its	O
+brim	O
+where	O
+his	O
+thumb	O
+came	O
+in	O
+taking	O
+it	O
+off	O
+.	O
+
+# id = litbank-0464
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = presently he was met by an elderly parson astride on a gray mare , who , as he rode , hummed a wandering tune .
+presently	O
+he	O
+was	O
+met	O
+by	O
+an	O
+elderly	O
+parson	O
+astride	O
+on	O
+a	O
+gray	O
+mare	O
+,	O
+who	O
+,	O
+as	O
+he	O
+rode	O
+,	O
+hummed	O
+a	O
+wandering	O
+tune	O
+.	O
+

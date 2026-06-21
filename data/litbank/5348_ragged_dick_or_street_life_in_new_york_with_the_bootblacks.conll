@@ -1,0 +1,1019 @@
+# id = litbank-2215
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = chapter i ragged dick is introduced to the reader " wake up there , youngster , " said a rough voice .
+chapter	O
+i	O
+ragged	B-CHARACTER
+dick	I-CHARACTER
+is	O
+introduced	O
+to	O
+the	O
+reader	O
+"	O
+wake	O
+up	O
+there	O
+,	O
+youngster	O
+,	O
+"	O
+said	O
+a	O
+rough	O
+voice	O
+.	O
+
+# id = litbank-2216
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = ragged dick opened his eyes slowly , and stared stupidly in the face of the speaker , but did not offer to get up .
+ragged	B-CHARACTER
+dick	I-CHARACTER
+opened	O
+his	O
+eyes	O
+slowly	O
+,	O
+and	O
+stared	O
+stupidly	O
+in	O
+the	O
+face	O
+of	O
+the	O
+speaker	O
+,	O
+but	O
+did	O
+not	O
+offer	O
+to	O
+get	O
+up	O
+.	O
+
+# id = litbank-2219
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = asked dick .
+asked	O
+dick	B-CHARACTER
+.	O
+
+# id = litbank-2223
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = " you do n't catch me stealin ' , if that 's what you mean , " said dick .
+"	O
+you	O
+do	O
+n't	O
+catch	O
+me	O
+stealin	O
+'	O
+,	O
+if	O
+that	O
+'s	O
+what	O
+you	O
+mean	O
+,	O
+"	O
+said	O
+dick	B-CHARACTER
+.	O
+
+# id = litbank-2224
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = said dick .
+said	O
+dick	B-CHARACTER
+.	O
+
+# id = litbank-2225
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = " i 'm glad you think so , dick , " and the rough voice sounded gentler than at first .
+"	O
+i	O
+'m	O
+glad	O
+you	O
+think	O
+so	O
+,	O
+dick	B-CHARACTER
+,	O
+"	O
+and	O
+the	O
+rough	O
+voice	O
+sounded	O
+gentler	O
+than	O
+at	O
+first	O
+.	O
+
+# id = litbank-2226
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = while this conversation had been going on , dick had got up .
+while	O
+this	O
+conversation	O
+had	O
+been	O
+going	O
+on	O
+,	O
+dick	B-CHARACTER
+had	O
+got	O
+up	O
+.	O
+
+# id = litbank-2227
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = dick 's appearance as he stood beside the box was rather peculiar .
+dick	B-CHARACTER
+'s	O
+appearance	O
+as	O
+he	O
+stood	O
+beside	O
+the	O
+box	O
+was	O
+rather	O
+peculiar	O
+.	O
+
+# id = litbank-2228
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = washing the face and hands is usually considered proper in commencing the day , but dick was above such refinement .
+washing	O
+the	O
+face	O
+and	O
+hands	O
+is	O
+usually	O
+considered	O
+proper	O
+in	O
+commencing	O
+the	O
+day	O
+,	O
+but	O
+dick	B-CHARACTER
+was	O
+above	O
+such	O
+refinement	O
+.	O
+
+# id = litbank-2229
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = but in spite of his dirt and rags there was something about dick that was attractive .
+but	O
+in	O
+spite	O
+of	O
+his	O
+dirt	O
+and	O
+rags	O
+there	O
+was	O
+something	O
+about	O
+dick	B-CHARACTER
+that	O
+was	O
+attractive	O
+.	O
+
+# id = litbank-2230
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = some of his companions were sly , and their faces inspired distrust ; but dick had a frank , straight-forward manner that made him a favorite .
+some	O
+of	O
+his	O
+companions	O
+were	O
+sly	O
+,	O
+and	O
+their	O
+faces	O
+inspired	O
+distrust	O
+;	O
+but	O
+dick	B-CHARACTER
+had	O
+a	O
+frank	O
+,	O
+straight-forward	O
+manner	O
+that	O
+made	O
+him	O
+a	O
+favorite	O
+.	O
+
+# id = litbank-2231
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = dick 's business hours had commenced .
+dick	B-CHARACTER
+'s	O
+business	O
+hours	O
+had	O
+commenced	O
+.	O
+
+# id = litbank-2232
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = " ten cents , " said dick , dropping his box , and sinking upon his knees on the sidewalk , flourishing his brush with the air of one skilled in his profession .
+"	O
+ten	O
+cents	O
+,	O
+"	O
+said	O
+dick	B-CHARACTER
+,	O
+dropping	O
+his	O
+box	O
+,	O
+and	O
+sinking	O
+upon	O
+his	O
+knees	O
+on	O
+the	O
+sidewalk	O
+,	O
+flourishing	O
+his	O
+brush	O
+with	O
+the	O
+air	O
+of	O
+one	O
+skilled	O
+in	O
+his	O
+profession	O
+.	O
+
+# id = litbank-2233
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = " well , you know ' taint all clear profit , " said dick , who had already set to work .
+"	O
+well	O
+,	O
+you	O
+know	O
+'	O
+taint	O
+all	O
+clear	O
+profit	O
+,	O
+"	O
+said	O
+dick	B-CHARACTER
+,	O
+who	O
+had	O
+already	O
+set	O
+to	O
+work	O
+.	O
+
+# id = litbank-2234
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = " and you have a large rent too , " said the gentleman quizzically , with a glance at a large hole in dick 's coat .
+"	O
+and	O
+you	O
+have	O
+a	O
+large	O
+rent	O
+too	O
+,	O
+"	O
+said	O
+the	O
+gentleman	O
+quizzically	O
+,	O
+with	O
+a	O
+glance	O
+at	O
+a	O
+large	O
+hole	O
+in	O
+dick	B-CHARACTER
+'s	O
+coat	O
+.	O
+
+# id = litbank-2235
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = " yes , sir , " said dick , always ready to joke ; " i have to pay such a big rent for my manshun up on fifth avenoo , that i ca n't afford to take less than ten cents a shine .
+"	O
+yes	O
+,	O
+sir	O
+,	O
+"	O
+said	O
+dick	B-CHARACTER
+,	O
+always	O
+ready	O
+to	O
+joke	O
+;	O
+"	O
+i	O
+have	O
+to	O
+pay	O
+such	O
+a	O
+big	O
+rent	O
+for	O
+my	O
+manshun	O
+up	O
+on	O
+fifth	O
+avenoo	O
+,	O
+that	O
+i	O
+ca	O
+n't	O
+afford	O
+to	O
+take	O
+less	O
+than	O
+ten	O
+cents	O
+a	O
+shine	O
+.	O
+
+# id = litbank-2236
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = " it is n't anywhere else , " said dick , and dick spoke the truth there .
+"	O
+it	O
+is	O
+n't	O
+anywhere	O
+else	O
+,	O
+"	O
+said	O
+dick	B-CHARACTER
+,	O
+and	O
+dick	B-CHARACTER
+spoke	O
+the	O
+truth	O
+there	O
+.	O
+
+# id = litbank-2237
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = asked the gentleman , surveying dick 's attire .
+asked	O
+the	O
+gentleman	O
+,	O
+surveying	O
+dick	B-CHARACTER
+'s	O
+attire	O
+.	O
+
+# id = litbank-2238
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = asked dick , shrewdly .
+asked	O
+dick	B-CHARACTER
+,	O
+shrewdly	O
+.	O
+
+# id = litbank-2239
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = " this coat once belonged to general washington , " said dick , comically .
+"	O
+this	O
+coat	O
+once	O
+belonged	O
+to	O
+general	O
+washington	O
+,	O
+"	O
+said	O
+dick	B-CHARACTER
+,	O
+comically	O
+.	O
+
+# id = litbank-2240
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = " i should n't have any objection , " said dick .
+"	O
+i	O
+should	O
+n't	O
+have	O
+any	O
+objection	O
+,	O
+"	O
+said	O
+dick	B-CHARACTER
+.	O
+
+# id = litbank-2241
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = " not a cent , " said dick .
+"	O
+not	O
+a	O
+cent	O
+,	O
+"	O
+said	O
+dick	B-CHARACTER
+.	O
+
+# id = litbank-2242
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = " greyson , -- office on second floor . "
+"	O
+greyson	B-CHARACTER
+,	O
+--	O
+office	O
+on	O
+second	O
+floor	O
+.	O
+"	O
+
+# id = litbank-2243
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = " i wonder whether the little scamp will prove honest , " said mr. greyson to himself , as he walked away .
+"	O
+i	O
+wonder	O
+whether	O
+the	O
+little	O
+scamp	O
+will	O
+prove	O
+honest	O
+,	O
+"	O
+said	O
+mr.	B-CHARACTER
+greyson	I-CHARACTER
+to	O
+himself	O
+,	O
+as	O
+he	O
+walked	O
+away	O
+.	O
+
+# id = litbank-2244
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = mr. greyson did n't understand dick .
+mr.	B-CHARACTER
+greyson	I-CHARACTER
+did	O
+n't	O
+understand	O
+dick	B-CHARACTER
+.	O
+
+# id = litbank-2245
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = " i guess he would n't want to stay long if he did get in , " thought ragged dick , hitching up his pants .
+"	O
+i	O
+guess	O
+he	O
+would	O
+n't	O
+want	O
+to	O
+stay	O
+long	O
+if	O
+he	O
+did	O
+get	O
+in	O
+,	O
+"	O
+thought	O
+ragged	B-CHARACTER
+dick	I-CHARACTER
+,	O
+hitching	O
+up	O
+his	O
+pants	O
+.	O
+
+# id = litbank-2246
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = another of dick 's faults was his extravagance .
+another	O
+of	O
+dick	B-CHARACTER
+'s	O
+faults	O
+was	O
+his	O
+extravagance	O
+.	O
+
+# id = litbank-2247
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = there were not a few young clerks who employed dick from time to time in his professional capacity , who scarcely earned as much as he , greatly as their style and dress exceeded his .
+there	O
+were	O
+not	O
+a	O
+few	O
+young	O
+clerks	O
+who	O
+employed	O
+dick	B-CHARACTER
+from	O
+time	O
+to	O
+time	O
+in	O
+his	O
+professional	O
+capacity	O
+,	O
+who	O
+scarcely	O
+earned	O
+as	O
+much	O
+as	O
+he	O
+,	O
+greatly	O
+as	O
+their	O
+style	O
+and	O
+dress	O
+exceeded	O
+his	O
+.	O
+
+# id = litbank-2248
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = but dick was careless of his earnings .
+but	O
+dick	B-CHARACTER
+was	O
+careless	O
+of	O
+his	O
+earnings	O
+.	O
+
+# id = litbank-2249
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = then i am sorry to add that dick had formed the habit of smoking .
+then	O
+i	O
+am	O
+sorry	O
+to	O
+add	O
+that	O
+dick	B-CHARACTER
+had	O
+formed	O
+the	O
+habit	O
+of	O
+smoking	O
+.	O
+
+# id = litbank-2250
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = this cost him considerable , for dick was rather fastidious about his cigars , and would n't smoke the cheapest .
+this	O
+cost	O
+him	O
+considerable	O
+,	O
+for	O
+dick	B-CHARACTER
+was	O
+rather	O
+fastidious	O
+about	O
+his	O
+cigars	O
+,	O
+and	O
+would	O
+n't	O
+smoke	O
+the	O
+cheapest	O
+.	O
+
+# id = litbank-2251
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = there was another way in which dick sometimes lost money .
+there	O
+was	O
+another	O
+way	O
+in	O
+which	O
+dick	B-CHARACTER
+sometimes	O
+lost	O
+money	O
+.	O
+
+# id = litbank-2252
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = sometimes dick strayed in here , and played with the rest .
+sometimes	O
+dick	B-CHARACTER
+strayed	O
+in	O
+here	O
+,	O
+and	O
+played	O
+with	O
+the	O
+rest	O
+.	O
+
+# id = litbank-2253
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = i have mentioned dick 's faults and defects , because i want it understood , to begin with , that i do n't consider him a model boy .
+i	O
+have	O
+mentioned	O
+dick	B-CHARACTER
+'s	O
+faults	O
+and	O
+defects	O
+,	O
+because	O
+i	O
+want	O
+it	O
+understood	O
+,	O
+to	O
+begin	O
+with	O
+,	O
+that	O
+i	O
+do	O
+n't	O
+consider	O
+him	O
+a	O
+model	O
+boy	O
+.	O
+
+# id = litbank-2217
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = " wake up , you young vagabond ! "
+"	O
+wake	O
+up	O
+,	O
+you	O
+young	O
+vagabond	O
+!	O
+"	O
+
+# id = litbank-2218
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = said the man a little impatiently ; " i suppose you 'd lay there all day , if i had n't called you . "
+said	O
+the	O
+man	O
+a	O
+little	O
+impatiently	O
+;	O
+"	O
+i	O
+suppose	O
+you	O
+'d	O
+lay	O
+there	O
+all	O
+day	O
+,	O
+if	O
+i	O
+had	O
+n't	O
+called	O
+you	O
+.	O
+"	O
+
+# id = litbank-2220
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = i oughter 've been up an hour ago .
+i	O
+oughter	O
+'ve	O
+been	O
+up	O
+an	O
+hour	O
+ago	O
+.	O
+
+# id = litbank-2221
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = i know what 't was made me so precious sleepy .
+i	O
+know	O
+what	O
+'t	O
+was	O
+made	O
+me	O
+so	O
+precious	O
+sleepy	O
+.	O
+
+# id = litbank-2222
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = i went to the old bowery last night , and did n't turn in till past twelve . "
+i	O
+went	O
+to	O
+the	O
+old	O
+bowery	O
+last	O
+night	O
+,	O
+and	O
+did	O
+n't	O
+turn	O
+in	O
+till	O
+past	O
+twelve	O
+.	O
+"	O
+

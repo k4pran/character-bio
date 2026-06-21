@@ -1,0 +1,1452 @@
+# id = litbank-2254
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = letter i lady howard to the rev. mr. villars howard grove , kent .
+letter	O
+i	O
+lady	B-CHARACTER
+howard	I-CHARACTER
+to	O
+the	O
+rev.	O
+mr.	B-CHARACTER
+villars	I-CHARACTER
+howard	O
+grove	O
+,	O
+kent	O
+.	O
+
+# id = litbank-2257
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = i have just had a letter from madame duval ; she is totally at a loss in what manner to behave ; she seems desirous to repair the wrongs she has done , yet wishes the world to believe her blameless .
+i	O
+have	O
+just	O
+had	O
+a	O
+letter	O
+from	O
+madame	B-CHARACTER
+duval	I-CHARACTER
+;	O
+she	O
+is	O
+totally	O
+at	O
+a	O
+loss	O
+in	O
+what	O
+manner	O
+to	O
+behave	O
+;	O
+she	O
+seems	O
+desirous	O
+to	O
+repair	O
+the	O
+wrongs	O
+she	O
+has	O
+done	O
+,	O
+yet	O
+wishes	O
+the	O
+world	O
+to	O
+believe	O
+her	O
+blameless	O
+.	O
+
+# id = litbank-2260
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = - you , to whom she is under obligations which are greater even than her faults , but to whose advice she wickedly imputes all the sufferings of her much injured daughter , the late lady belmont .
+-	O
+you	O
+,	O
+to	O
+whom	O
+she	O
+is	O
+under	O
+obligations	O
+which	O
+are	O
+greater	O
+even	O
+than	O
+her	O
+faults	O
+,	O
+but	O
+to	O
+whose	O
+advice	O
+she	O
+wickedly	O
+imputes	O
+all	O
+the	O
+sufferings	O
+of	O
+her	O
+much	O
+injured	O
+daughter	O
+,	O
+the	O
+late	O
+lady	B-CHARACTER
+belmont	I-CHARACTER
+.	O
+
+# id = litbank-2262
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = this woman is , undoubtedly , at length , self-convicted of her most unnatural behaviour ; it is evident , from her writing , that she is still as vulgar and illiterate as when her first husband , mr. evelyn , had the weakness to marry her ; nor does she at all apologize for addressing herself to me , though i was only once in her company .
+this	O
+woman	O
+is	O
+,	O
+undoubtedly	O
+,	O
+at	O
+length	O
+,	O
+self-convicted	O
+of	O
+her	O
+most	O
+unnatural	O
+behaviour	O
+;	O
+it	O
+is	O
+evident	O
+,	O
+from	O
+her	O
+writing	O
+,	O
+that	O
+she	O
+is	O
+still	O
+as	O
+vulgar	O
+and	O
+illiterate	O
+as	O
+when	O
+her	O
+first	O
+husband	O
+,	O
+mr.	B-CHARACTER
+evelyn	I-CHARACTER
+,	O
+had	O
+the	O
+weakness	O
+to	O
+marry	O
+her	O
+;	O
+nor	O
+does	O
+she	O
+at	O
+all	O
+apologize	O
+for	O
+addressing	O
+herself	O
+to	O
+me	O
+,	O
+though	O
+i	O
+was	O
+only	O
+once	O
+in	O
+her	O
+company	O
+.	O
+
+# id = litbank-2263
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = her letter has excited in my daughter mirvan , a strong desire to be informed of the motives which induced madame duval to abandon the unfortunate lady belmont , at a time when a mother 's protection was peculiarly necessary for her peace and her reputation .
+her	O
+letter	O
+has	O
+excited	O
+in	O
+my	O
+daughter	O
+mirvan	B-CHARACTER
+,	O
+a	O
+strong	O
+desire	O
+to	O
+be	O
+informed	O
+of	O
+the	O
+motives	O
+which	O
+induced	O
+madame	B-CHARACTER
+duval	I-CHARACTER
+to	O
+abandon	O
+the	O
+unfortunate	O
+lady	B-CHARACTER
+belmont	I-CHARACTER
+,	O
+at	O
+a	O
+time	O
+when	O
+a	O
+mother	O
+'s	O
+protection	O
+was	O
+peculiarly	O
+necessary	O
+for	O
+her	O
+peace	O
+and	O
+her	O
+reputation	O
+.	O
+
+# id = litbank-2264
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = notwithstanding i was personally acquainted with all the parties concerned in that affair , the subject always appeared of too delicate a nature to be spoken of with the principals ; i can not , therefore , satisfy mrs. mirvan otherwise than by applying to you .
+notwithstanding	O
+i	O
+was	O
+personally	O
+acquainted	O
+with	O
+all	O
+the	O
+parties	O
+concerned	O
+in	O
+that	O
+affair	O
+,	O
+the	O
+subject	O
+always	O
+appeared	O
+of	O
+too	O
+delicate	O
+a	O
+nature	O
+to	O
+be	O
+spoken	O
+of	O
+with	O
+the	O
+principals	O
+;	O
+i	O
+can	O
+not	O
+,	O
+therefore	O
+,	O
+satisfy	O
+mrs.	B-CHARACTER
+mirvan	I-CHARACTER
+otherwise	O
+than	O
+by	O
+applying	O
+to	O
+you	O
+.	O
+
+# id = litbank-2265
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = by saying that you may send the child , madame duval aims at conferring , where she most owes obligation .
+by	O
+saying	O
+that	O
+you	O
+may	O
+send	O
+the	O
+child	O
+,	O
+madame	B-CHARACTER
+duval	I-CHARACTER
+aims	O
+at	O
+conferring	O
+,	O
+where	O
+she	O
+most	O
+owes	O
+obligation	O
+.	O
+
+# id = litbank-2266
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = i am , dear sir , with great regard , your most obedient friend and servant , m. howard .
+i	O
+am	O
+,	O
+dear	O
+sir	O
+,	O
+with	O
+great	O
+regard	O
+,	O
+your	O
+most	O
+obedient	O
+friend	O
+and	O
+servant	O
+,	O
+m.	B-CHARACTER
+howard	I-CHARACTER
+.	O
+
+# id = litbank-2267
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = letter ii mr. villars to lady howard berry hill , dorsetshire .
+letter	O
+ii	O
+mr.	B-CHARACTER
+villars	I-CHARACTER
+to	O
+lady	B-CHARACTER
+howard	I-CHARACTER
+berry	O
+hill	O
+,	O
+dorsetshire	O
+.	O
+
+# id = litbank-2268
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = your ladyship did but too well foresee the perplexity and uneasiness of which madame duval 's letter has been productive .
+your	O
+ladyship	O
+did	O
+but	O
+too	O
+well	O
+foresee	O
+the	O
+perplexity	O
+and	O
+uneasiness	O
+of	O
+which	O
+madame	B-CHARACTER
+duval	I-CHARACTER
+'s	O
+letter	O
+has	O
+been	O
+productive	O
+.	O
+
+# id = litbank-2269
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = in regard to my answer , i must humbly request your ladyship to write to this effect : " that i would not , upon any account , intentionally offend madame duval ; but that i have weighty , nay unanswerable reasons for detaining her grand-daughter at present in england ; the principal of which is , that it was the earnest desire of one to whose will she owes implicit duty .
+in	O
+regard	O
+to	O
+my	O
+answer	O
+,	O
+i	O
+must	O
+humbly	O
+request	O
+your	O
+ladyship	O
+to	O
+write	O
+to	O
+this	O
+effect	O
+:	O
+"	O
+that	O
+i	O
+would	O
+not	O
+,	O
+upon	O
+any	O
+account	O
+,	O
+intentionally	O
+offend	O
+madame	B-CHARACTER
+duval	I-CHARACTER
+;	O
+but	O
+that	O
+i	O
+have	O
+weighty	O
+,	O
+nay	O
+unanswerable	O
+reasons	O
+for	O
+detaining	O
+her	O
+grand-daughter	O
+at	O
+present	O
+in	O
+england	O
+;	O
+the	O
+principal	O
+of	O
+which	O
+is	O
+,	O
+that	O
+it	O
+was	O
+the	O
+earnest	O
+desire	O
+of	O
+one	O
+to	O
+whose	O
+will	O
+she	O
+owes	O
+implicit	O
+duty	O
+.	O
+
+# id = litbank-2270
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = madame duval may be assured , that she meets with the utmost attention and tenderness ; that her education , however short of my wishes , almost exceeds my abilities ; and i flatter myself , when the time arrives that she shall pay her duty to her grand-mother , madame duval will find no reason to be dissatisfied with what has been done for her . "
+madame	B-CHARACTER
+duval	I-CHARACTER
+may	O
+be	O
+assured	O
+,	O
+that	O
+she	O
+meets	O
+with	O
+the	O
+utmost	O
+attention	O
+and	O
+tenderness	O
+;	O
+that	O
+her	O
+education	O
+,	O
+however	O
+short	O
+of	O
+my	O
+wishes	O
+,	O
+almost	O
+exceeds	O
+my	O
+abilities	O
+;	O
+and	O
+i	O
+flatter	O
+myself	O
+,	O
+when	O
+the	O
+time	O
+arrives	O
+that	O
+she	O
+shall	O
+pay	O
+her	O
+duty	O
+to	O
+her	O
+grand-mother	O
+,	O
+madame	B-CHARACTER
+duval	I-CHARACTER
+will	O
+find	O
+no	O
+reason	O
+to	O
+be	O
+dissatisfied	O
+with	O
+what	O
+has	O
+been	O
+done	O
+for	O
+her	O
+.	O
+"	O
+
+# id = litbank-2271
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = madame duval is by no means a proper companion or guardian for a young woman : she is at once uneducated and unprincipled ; ungentle in temper , and unamiable in her manners .
+madame	B-CHARACTER
+duval	I-CHARACTER
+is	O
+by	O
+no	O
+means	O
+a	O
+proper	O
+companion	O
+or	O
+guardian	O
+for	O
+a	O
+young	O
+woman	O
+:	O
+she	O
+is	O
+at	O
+once	O
+uneducated	O
+and	O
+unprincipled	O
+;	O
+ungentle	O
+in	O
+temper	O
+,	O
+and	O
+unamiable	O
+in	O
+her	O
+manners	O
+.	O
+
+# id = litbank-2272
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = i dare not hesitate at a request from mrs. mirvan ; yet , in complying with it , i shall , for her own sake , be as concise as i possibly can ; since the cruel transactions which preceded the birth of my ward can afford no entertainment to a mind so humane as her 's .
+i	O
+dare	O
+not	O
+hesitate	O
+at	O
+a	O
+request	O
+from	O
+mrs.	B-CHARACTER
+mirvan	I-CHARACTER
+;	O
+yet	O
+,	O
+in	O
+complying	O
+with	O
+it	O
+,	O
+i	O
+shall	O
+,	O
+for	O
+her	O
+own	O
+sake	O
+,	O
+be	O
+as	O
+concise	O
+as	O
+i	O
+possibly	O
+can	O
+;	O
+since	O
+the	O
+cruel	O
+transactions	O
+which	O
+preceded	O
+the	O
+birth	O
+of	O
+my	O
+ward	O
+can	O
+afford	O
+no	O
+entertainment	O
+to	O
+a	O
+mind	O
+so	O
+humane	O
+as	O
+her	O
+'s	O
+.	O
+
+# id = litbank-2273
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = your ladyship may probably have heard , that i had the honour to accompany mr. evelyn , the grandfather of my young charge , when upon his travels , in the capacity of a tutor .
+your	O
+ladyship	O
+may	O
+probably	O
+have	O
+heard	O
+,	O
+that	O
+i	O
+had	O
+the	O
+honour	O
+to	O
+accompany	O
+mr.	B-CHARACTER
+evelyn	I-CHARACTER
+,	O
+the	O
+grandfather	O
+of	O
+my	O
+young	O
+charge	O
+,	O
+when	O
+upon	O
+his	O
+travels	O
+,	O
+in	O
+the	O
+capacity	O
+of	O
+a	O
+tutor	O
+.	O
+
+# id = litbank-2274
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = his unhappy marriage , immediately upon his return to england , with madame duval , then a waiting-girl at a tavern , contrary to the advice and entreaties of all his friends , among whom i was myself the most urgent , induced him to abandon his native land , and fix his abode in france .
+his	O
+unhappy	O
+marriage	O
+,	O
+immediately	O
+upon	O
+his	O
+return	O
+to	O
+england	O
+,	O
+with	O
+madame	B-CHARACTER
+duval	I-CHARACTER
+,	O
+then	O
+a	O
+waiting-girl	O
+at	O
+a	O
+tavern	O
+,	O
+contrary	O
+to	O
+the	O
+advice	O
+and	O
+entreaties	O
+of	O
+all	O
+his	O
+friends	O
+,	O
+among	O
+whom	O
+i	O
+was	O
+myself	O
+the	O
+most	O
+urgent	O
+,	O
+induced	O
+him	O
+to	O
+abandon	O
+his	O
+native	O
+land	O
+,	O
+and	O
+fix	O
+his	O
+abode	O
+in	O
+france	O
+.	O
+
+# id = litbank-2275
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = o villars !
+o	O
+villars	B-CHARACTER
+!	O
+
+# id = litbank-2276
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = mr. evelyn left to me a legacy of a thousand pounds , and the sole guardianship of his daughter 's person till her eighteenth year ; conjuring me , in the most affecting terms , to take the charge of her education till she was able to act with propriety for herself ; but , in regard to fortune , he left her wholly dependent on her mother , to whose tenderness he earnestly recommended her .
+mr.	B-CHARACTER
+evelyn	I-CHARACTER
+left	O
+to	O
+me	O
+a	O
+legacy	O
+of	O
+a	O
+thousand	O
+pounds	O
+,	O
+and	O
+the	O
+sole	O
+guardianship	O
+of	O
+his	O
+daughter	O
+'s	O
+person	O
+till	O
+her	O
+eighteenth	O
+year	O
+;	O
+conjuring	O
+me	O
+,	O
+in	O
+the	O
+most	O
+affecting	O
+terms	O
+,	O
+to	O
+take	O
+the	O
+charge	O
+of	O
+her	O
+education	O
+till	O
+she	O
+was	O
+able	O
+to	O
+act	O
+with	O
+propriety	O
+for	O
+herself	O
+;	O
+but	O
+,	O
+in	O
+regard	O
+to	O
+fortune	O
+,	O
+he	O
+left	O
+her	O
+wholly	O
+dependent	O
+on	O
+her	O
+mother	O
+,	O
+to	O
+whose	O
+tenderness	O
+he	O
+earnestly	O
+recommended	O
+her	O
+.	O
+
+# id = litbank-2277
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = thus , though he would not , to a woman low-bred and illiberal as mrs. evelyn , trust the conduct and morals of his daughter , he nevertheless thought proper to secure to her the respect and duty to which , from her own child , were certainly her due ; but unhappily , it never occurred to him that the mother , on her part , could fail in affection or justice .
+thus	O
+,	O
+though	O
+he	O
+would	O
+not	O
+,	O
+to	O
+a	O
+woman	O
+low-bred	O
+and	O
+illiberal	O
+as	O
+mrs.	B-CHARACTER
+evelyn	I-CHARACTER
+,	O
+trust	O
+the	O
+conduct	O
+and	O
+morals	O
+of	O
+his	O
+daughter	O
+,	O
+he	O
+nevertheless	O
+thought	O
+proper	O
+to	O
+secure	O
+to	O
+her	O
+the	O
+respect	O
+and	O
+duty	O
+to	O
+which	O
+,	O
+from	O
+her	O
+own	O
+child	O
+,	O
+were	O
+certainly	O
+her	O
+due	O
+;	O
+but	O
+unhappily	O
+,	O
+it	O
+never	O
+occurred	O
+to	O
+him	O
+that	O
+the	O
+mother	O
+,	O
+on	O
+her	O
+part	O
+,	O
+could	O
+fail	O
+in	O
+affection	O
+or	O
+justice	O
+.	O
+
+# id = litbank-2278
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = miss evelyn , madam , from the second to the eighteenth year of her life , was brought up under my care , and , except when at school under my roof .
+miss	B-CHARACTER
+evelyn	I-CHARACTER
+,	O
+madam	O
+,	O
+from	O
+the	O
+second	O
+to	O
+the	O
+eighteenth	O
+year	O
+of	O
+her	O
+life	O
+,	O
+was	O
+brought	O
+up	O
+under	O
+my	O
+care	O
+,	O
+and	O
+,	O
+except	O
+when	O
+at	O
+school	O
+under	O
+my	O
+roof	O
+.	O
+
+# id = litbank-2279
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = she loved me as her father ; nor was mrs. villars less valued by her ; while to me she became so dear , that her loss was little less afflicting than that which i have since sustained of mrs. villars herself .
+she	O
+loved	O
+me	O
+as	O
+her	O
+father	O
+;	O
+nor	O
+was	O
+mrs.	B-CHARACTER
+villars	I-CHARACTER
+less	O
+valued	O
+by	O
+her	O
+;	O
+while	O
+to	O
+me	O
+she	O
+became	O
+so	O
+dear	O
+,	O
+that	O
+her	O
+loss	O
+was	O
+little	O
+less	O
+afflicting	O
+than	O
+that	O
+which	O
+i	O
+have	O
+since	O
+sustained	O
+of	O
+mrs.	B-CHARACTER
+villars	I-CHARACTER
+herself	O
+.	O
+
+# id = litbank-2280
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = at that period of her life we parted ; her mother , then married to monsieur duval , sent for her to paris .
+at	O
+that	O
+period	O
+of	O
+her	O
+life	O
+we	O
+parted	O
+;	O
+her	O
+mother	O
+,	O
+then	O
+married	O
+to	O
+monsieur	B-CHARACTER
+duval	I-CHARACTER
+,	O
+sent	O
+for	O
+her	O
+to	O
+paris	O
+.	O
+
+# id = litbank-2281
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = but , to be brief-madame duval , at the instigation of her husband , earnestly , or rather tyrannically , endeavoured to effect a union between miss evelyn and one of his nephews .
+but	O
+,	O
+to	O
+be	O
+brief-madame	O
+duval	B-CHARACTER
+,	O
+at	O
+the	O
+instigation	O
+of	O
+her	O
+husband	O
+,	O
+earnestly	O
+,	O
+or	O
+rather	O
+tyrannically	O
+,	O
+endeavoured	O
+to	O
+effect	O
+a	O
+union	O
+between	O
+miss	B-CHARACTER
+evelyn	I-CHARACTER
+and	O
+one	O
+of	O
+his	O
+nephews	O
+.	O
+
+# id = litbank-2282
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = miss evelyn , to whom wrath and violence had hitherto been strangers , soon grew weary of such usage ; and rashly , and without a witness , consented to a private marriage with sir john belmont , a very profligate young man , who had but too successfully found means to insinuate himself into her favour .
+miss	B-CHARACTER
+evelyn	I-CHARACTER
+,	O
+to	O
+whom	O
+wrath	O
+and	O
+violence	O
+had	O
+hitherto	O
+been	O
+strangers	O
+,	O
+soon	O
+grew	O
+weary	O
+of	O
+such	O
+usage	O
+;	O
+and	O
+rashly	O
+,	O
+and	O
+without	O
+a	O
+witness	O
+,	O
+consented	O
+to	O
+a	O
+private	O
+marriage	O
+with	O
+sir	B-CHARACTER
+john	I-CHARACTER
+belmont	I-CHARACTER
+,	O
+a	O
+very	O
+profligate	O
+young	O
+man	O
+,	O
+who	O
+had	O
+but	O
+too	O
+successfully	O
+found	O
+means	O
+to	O
+insinuate	O
+himself	O
+into	O
+her	O
+favour	O
+.	O
+
+# id = litbank-2283
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = the rage of madame duval at her elopement , abated not while this injured victim of cruelty yet drew breath .
+the	O
+rage	O
+of	O
+madame	B-CHARACTER
+duval	I-CHARACTER
+at	O
+her	O
+elopement	O
+,	O
+abated	O
+not	O
+while	O
+this	O
+injured	O
+victim	O
+of	O
+cruelty	O
+yet	O
+drew	O
+breath	O
+.	O
+
+# id = litbank-2284
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = but , from the time of her recovery to the date of her letter to your ladyship , i had never heard that she manifested any desire to be made acquainted with the circumstances which attended the death of lady belmont , and the birth of her helpless child .
+but	O
+,	O
+from	O
+the	O
+time	O
+of	O
+her	O
+recovery	O
+to	O
+the	O
+date	O
+of	O
+her	O
+letter	O
+to	O
+your	O
+ladyship	O
+,	O
+i	O
+had	O
+never	O
+heard	O
+that	O
+she	O
+manifested	O
+any	O
+desire	O
+to	O
+be	O
+made	O
+acquainted	O
+with	O
+the	O
+circumstances	O
+which	O
+attended	O
+the	O
+death	O
+of	O
+lady	B-CHARACTER
+belmont	I-CHARACTER
+,	O
+and	O
+the	O
+birth	O
+of	O
+her	O
+helpless	O
+child	O
+.	O
+
+# id = litbank-2255
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = can any thing , my good sir , be more painful to a friendly mind , than a necessity of communicating disagreeable intelligence ?
+can	O
+any	O
+thing	O
+,	O
+my	O
+good	O
+sir	O
+,	O
+be	O
+more	O
+painful	O
+to	O
+a	O
+friendly	O
+mind	O
+,	O
+than	O
+a	O
+necessity	O
+of	O
+communicating	O
+disagreeable	O
+intelligence	O
+?	O
+
+# id = litbank-2256
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = indeed it is sometimes difficult to determine , whether the relator or the receiver of evil tidings is most to be pitied .
+indeed	O
+it	O
+is	O
+sometimes	O
+difficult	O
+to	O
+determine	O
+,	O
+whether	O
+the	O
+relator	O
+or	O
+the	O
+receiver	O
+of	O
+evil	O
+tidings	O
+is	O
+most	O
+to	O
+be	O
+pitied	O
+.	O
+
+# id = litbank-2258
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = she would fain cast upon another the odium of those misfortunes for which she alone is answerable .
+she	O
+would	O
+fain	O
+cast	O
+upon	O
+another	O
+the	O
+odium	O
+of	O
+those	O
+misfortunes	O
+for	O
+which	O
+she	O
+alone	O
+is	O
+answerable	O
+.	O
+
+# id = litbank-2259
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = her letter is violent , sometimes abusive , and that of you !
+her	O
+letter	O
+is	O
+violent	O
+,	O
+sometimes	O
+abusive	O
+,	O
+and	O
+that	O
+of	O
+you	O
+!	O
+
+# id = litbank-2261
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = the chief purport of her writing i will acquaint you with ; the letter itself is not worthy your notice .
+the	O
+chief	O
+purport	O
+of	O
+her	O
+writing	O
+i	O
+will	O
+acquaint	O
+you	O
+with	O
+;	O
+the	O
+letter	O
+itself	O
+is	O
+not	O
+worthy	O
+your	O
+notice	O
+.	O
+

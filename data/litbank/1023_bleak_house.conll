@@ -1,0 +1,818 @@
+# id = litbank-1413
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = these are all yawning , for no crumb of amusement ever falls from jarndyce and jarndyce ( the cause in hand ) , which was squeezed dry years upon years ago .
+these	O
+are	O
+all	O
+yawning	O
+,	O
+for	O
+no	O
+crumb	O
+of	O
+amusement	O
+ever	O
+falls	O
+from	O
+jarndyce	B-CHARACTER
+and	O
+jarndyce	B-CHARACTER
+(	O
+the	O
+cause	O
+in	O
+hand	O
+)	O
+,	O
+which	O
+was	O
+squeezed	O
+dry	O
+years	O
+upon	O
+years	O
+ago	O
+.	O
+
+# id = litbank-1414
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = the short-hand writers , the reporters of the court , and the reporters of the newspapers invariably decamp with the rest of the regulars when jarndyce and jarndyce comes on .
+the	O
+short-hand	O
+writers	O
+,	O
+the	O
+reporters	O
+of	O
+the	O
+court	O
+,	O
+and	O
+the	O
+reporters	O
+of	O
+the	O
+newspapers	O
+invariably	O
+decamp	O
+with	O
+the	O
+rest	O
+of	O
+the	O
+regulars	O
+when	O
+jarndyce	B-CHARACTER
+and	O
+jarndyce	B-CHARACTER
+comes	O
+on	O
+.	O
+
+# id = litbank-1415
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = jarndyce and jarndyce drones on .
+jarndyce	B-CHARACTER
+and	O
+jarndyce	B-CHARACTER
+drones	O
+on	O
+.	O
+
+# id = litbank-1416
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = scores of persons have deliriously found themselves made parties in jarndyce and jarndyce without knowing how or why ; whole families have inherited legendary hatreds with the suit .
+scores	O
+of	O
+persons	O
+have	O
+deliriously	O
+found	O
+themselves	O
+made	O
+parties	O
+in	O
+jarndyce	B-CHARACTER
+and	O
+jarndyce	B-CHARACTER
+without	O
+knowing	O
+how	O
+or	O
+why	O
+;	O
+whole	O
+families	O
+have	O
+inherited	O
+legendary	O
+hatreds	O
+with	O
+the	O
+suit	O
+.	O
+
+# id = litbank-1417
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = the little plaintiff or defendant who was promised a new rocking-horse when jarndyce and jarndyce should be settled has grown up , possessed himself of a real horse , and trotted away into the other world .
+the	O
+little	O
+plaintiff	O
+or	O
+defendant	O
+who	O
+was	O
+promised	O
+a	O
+new	O
+rocking-horse	O
+when	O
+jarndyce	B-CHARACTER
+and	O
+jarndyce	B-CHARACTER
+should	O
+be	O
+settled	O
+has	O
+grown	O
+up	O
+,	O
+possessed	O
+himself	O
+of	O
+a	O
+real	O
+horse	O
+,	O
+and	O
+trotted	O
+away	O
+into	O
+the	O
+other	O
+world	O
+.	O
+
+# id = litbank-1418
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = fair wards of court have faded into mothers and grandmothers ; a long procession of chancellors has come in and gone out ; the legion of bills in the suit have been transformed into mere bills of mortality ; there are not three jarndyces left upon the earth perhaps since old tom jarndyce in despair blew his brains out at a coffee-house in chancery lane ; but jarndyce and jarndyce still drags its dreary length before the court , perennially hopeless .
+fair	O
+wards	O
+of	O
+court	O
+have	O
+faded	O
+into	O
+mothers	O
+and	O
+grandmothers	O
+;	O
+a	O
+long	O
+procession	O
+of	O
+chancellors	O
+has	O
+come	O
+in	O
+and	O
+gone	O
+out	O
+;	O
+the	O
+legion	O
+of	O
+bills	O
+in	O
+the	O
+suit	O
+have	O
+been	O
+transformed	O
+into	O
+mere	O
+bills	O
+of	O
+mortality	O
+;	O
+there	O
+are	O
+not	O
+three	O
+jarndyces	O
+left	O
+upon	O
+the	O
+earth	O
+perhaps	O
+since	O
+old	O
+tom	B-CHARACTER
+jarndyce	I-CHARACTER
+in	O
+despair	O
+blew	O
+his	O
+brains	O
+out	O
+at	O
+a	O
+coffee-house	O
+in	O
+chancery	O
+lane	O
+;	O
+but	O
+jarndyce	B-CHARACTER
+and	O
+jarndyce	B-CHARACTER
+still	O
+drags	O
+its	O
+dreary	O
+length	O
+before	O
+the	O
+court	O
+,	O
+perennially	O
+hopeless	O
+.	O
+
+# id = litbank-1419
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = jarndyce and jarndyce has passed into a joke .
+jarndyce	B-CHARACTER
+and	O
+jarndyce	B-CHARACTER
+has	O
+passed	O
+into	O
+a	O
+joke	O
+.	O
+
+# id = litbank-1420
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = the last lord chancellor handled it neatly , when , correcting mr. blowers , the eminent silk gown who said that such a thing might happen when the sky rained potatoes , he observed , " or when we get through jarndyce and jarndyce , mr. blowers " -- a pleasantry that particularly tickled the maces , bags , and purses .
+the	O
+last	O
+lord	O
+chancellor	O
+handled	O
+it	O
+neatly	O
+,	O
+when	O
+,	O
+correcting	O
+mr.	B-CHARACTER
+blowers	I-CHARACTER
+,	O
+the	O
+eminent	O
+silk	O
+gown	O
+who	O
+said	O
+that	O
+such	O
+a	O
+thing	O
+might	O
+happen	O
+when	O
+the	O
+sky	O
+rained	O
+potatoes	O
+,	O
+he	O
+observed	O
+,	O
+"	O
+or	O
+when	O
+we	O
+get	O
+through	O
+jarndyce	B-CHARACTER
+and	O
+jarndyce	B-CHARACTER
+,	O
+mr.	B-CHARACTER
+blowers	I-CHARACTER
+"	O
+--	O
+a	O
+pleasantry	O
+that	O
+particularly	O
+tickled	O
+the	O
+maces	O
+,	O
+bags	O
+,	O
+and	O
+purses	O
+.	O
+
+# id = litbank-1421
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = how many people out of the suit jarndyce and jarndyce has stretched forth its unwholesome hand to spoil and corrupt would be a very wide question .
+how	O
+many	O
+people	O
+out	O
+of	O
+the	O
+suit	O
+jarndyce	B-CHARACTER
+and	O
+jarndyce	B-CHARACTER
+has	O
+stretched	O
+forth	O
+its	O
+unwholesome	O
+hand	O
+to	O
+spoil	O
+and	O
+corrupt	O
+would	O
+be	O
+a	O
+very	O
+wide	O
+question	O
+.	O
+
+# id = litbank-1422
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = from the master upon whose impaling files reams of dusty warrants in jarndyce and jarndyce have grimly writhed into many shapes , down to the copying-clerk in the six clerks ' office who has copied his tens of thousands of chancery folio-pages under that eternal heading , no man 's nature has been made better by it .
+from	O
+the	O
+master	O
+upon	O
+whose	O
+impaling	O
+files	O
+reams	O
+of	O
+dusty	O
+warrants	O
+in	O
+jarndyce	B-CHARACTER
+and	O
+jarndyce	B-CHARACTER
+have	O
+grimly	O
+writhed	O
+into	O
+many	O
+shapes	O
+,	O
+down	O
+to	O
+the	O
+copying-clerk	O
+in	O
+the	O
+six	O
+clerks	O
+'	O
+office	O
+who	O
+has	O
+copied	O
+his	O
+tens	O
+of	O
+thousands	O
+of	O
+chancery	O
+folio-pages	O
+under	O
+that	O
+eternal	O
+heading	O
+,	O
+no	O
+man	O
+'s	O
+nature	O
+has	O
+been	O
+made	O
+better	O
+by	O
+it	O
+.	O
+
+# id = litbank-1423
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = the very solicitors ' boys who have kept the wretched suitors at bay , by protesting time out of mind that mr. chizzle , mizzle , or otherwise was particularly engaged and had appointments until dinner , may have got an extra moral twist and shuffle into themselves out of jarndyce and jarndyce .
+the	O
+very	O
+solicitors	O
+'	O
+boys	O
+who	O
+have	O
+kept	O
+the	O
+wretched	O
+suitors	O
+at	O
+bay	O
+,	O
+by	O
+protesting	O
+time	O
+out	O
+of	O
+mind	O
+that	O
+mr.	B-CHARACTER
+chizzle	I-CHARACTER
+,	O
+mizzle	B-CHARACTER
+,	O
+or	O
+otherwise	O
+was	O
+particularly	O
+engaged	O
+and	O
+had	O
+appointments	O
+until	O
+dinner	O
+,	O
+may	O
+have	O
+got	O
+an	O
+extra	O
+moral	O
+twist	O
+and	O
+shuffle	O
+into	O
+themselves	O
+out	O
+of	O
+jarndyce	B-CHARACTER
+and	O
+jarndyce	B-CHARACTER
+.	O
+
+# id = litbank-1424
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = chizzle , mizzle , and otherwise have lapsed into a habit of vaguely promising themselves that they will look into that outstanding little matter and see what can be done for drizzle -- who was not well used -- when jarndyce and jarndyce shall be got out of the office .
+chizzle	B-CHARACTER
+,	O
+mizzle	B-CHARACTER
+,	O
+and	O
+otherwise	O
+have	O
+lapsed	O
+into	O
+a	O
+habit	O
+of	O
+vaguely	O
+promising	O
+themselves	O
+that	O
+they	O
+will	O
+look	O
+into	O
+that	O
+outstanding	O
+little	O
+matter	O
+and	O
+see	O
+what	O
+can	O
+be	O
+done	O
+for	O
+drizzle	B-CHARACTER
+--	O
+who	O
+was	O
+not	O
+well	O
+used	O
+--	O
+when	O
+jarndyce	B-CHARACTER
+and	O
+jarndyce	B-CHARACTER
+shall	O
+be	O
+got	O
+out	O
+of	O
+the	O
+office	O
+.	O
+
+# id = litbank-1408
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = michaelmas term lately over , and the lord chancellor sitting in lincoln 's inn hall .
+michaelmas	O
+term	O
+lately	O
+over	O
+,	O
+and	O
+the	O
+lord	O
+chancellor	O
+sitting	O
+in	O
+lincoln	O
+'s	O
+inn	O
+hall	O
+.	O
+
+# id = litbank-1409
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = as much mud in the streets as if the waters had but newly retired from the face of the earth , and it would not be wonderful to meet a megalosaurus , forty feet long or so , waddling like an elephantine lizard up holborn hill .
+as	O
+much	O
+mud	O
+in	O
+the	O
+streets	O
+as	O
+if	O
+the	O
+waters	O
+had	O
+but	O
+newly	O
+retired	O
+from	O
+the	O
+face	O
+of	O
+the	O
+earth	O
+,	O
+and	O
+it	O
+would	O
+not	O
+be	O
+wonderful	O
+to	O
+meet	O
+a	O
+megalosaurus	O
+,	O
+forty	O
+feet	O
+long	O
+or	O
+so	O
+,	O
+waddling	O
+like	O
+an	O
+elephantine	O
+lizard	O
+up	O
+holborn	O
+hill	O
+.	O
+
+# id = litbank-1410
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = smoke lowering down from chimney-pots , making a soft black drizzle , with flakes of soot in it as big as full-grown snowflakes -- gone into mourning , one might imagine , for the death of the sun .
+smoke	O
+lowering	O
+down	O
+from	O
+chimney-pots	O
+,	O
+making	O
+a	O
+soft	O
+black	O
+drizzle	O
+,	O
+with	O
+flakes	O
+of	O
+soot	O
+in	O
+it	O
+as	O
+big	O
+as	O
+full-grown	O
+snowflakes	O
+--	O
+gone	O
+into	O
+mourning	O
+,	O
+one	O
+might	O
+imagine	O
+,	O
+for	O
+the	O
+death	O
+of	O
+the	O
+sun	O
+.	O
+
+# id = litbank-1411
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = horses , scarcely better ; splashed to their very blinkers .
+horses	O
+,	O
+scarcely	O
+better	O
+;	O
+splashed	O
+to	O
+their	O
+very	O
+blinkers	O
+.	O
+
+# id = litbank-1412
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = foot passengers , jostling one another 's umbrellas in a general infection of ill temper , and losing their foot-hold at street-corners , where tens of thousands of other foot passengers have been slipping and sliding since the day broke ( if this day ever broke ) , adding new deposits to the crust upon crust of mud , sticking at those points tenaciously to the pavement , and accumulating at compound interest .
+foot	O
+passengers	O
+,	O
+jostling	O
+one	O
+another	O
+'s	O
+umbrellas	O
+in	O
+a	O
+general	O
+infection	O
+of	O
+ill	O
+temper	O
+,	O
+and	O
+losing	O
+their	O
+foot-hold	O
+at	O
+street-corners	O
+,	O
+where	O
+tens	O
+of	O
+thousands	O
+of	O
+other	O
+foot	O
+passengers	O
+have	O
+been	O
+slipping	O
+and	O
+sliding	O
+since	O
+the	O
+day	O
+broke	O
+(	O
+if	O
+this	O
+day	O
+ever	O
+broke	O
+)	O
+,	O
+adding	O
+new	O
+deposits	O
+to	O
+the	O
+crust	O
+upon	O
+crust	O
+of	O
+mud	O
+,	O
+sticking	O
+at	O
+those	O
+points	O
+tenaciously	O
+to	O
+the	O
+pavement	O
+,	O
+and	O
+accumulating	O
+at	O
+compound	O
+interest	O
+.	O
+

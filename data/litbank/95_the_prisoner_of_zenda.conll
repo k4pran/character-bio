@@ -1,0 +1,1471 @@
+# id = litbank-0391
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = chapter 1 the rassendylls -- with a word on the elphbergs “ i wonder when in the world you ’re going to do anything , rudolf ? ” said my brother ’s wife .
+chapter	O
+1	O
+the	O
+rassendylls	O
+--	O
+with	O
+a	O
+word	O
+on	O
+the	O
+elphbergs	O
+“	O
+i	O
+wonder	O
+when	O
+in	O
+the	O
+world	O
+you	O
+’re	O
+going	O
+to	O
+do	O
+anything	O
+,	O
+rudolf	B-CHARACTER
+?	O
+”	O
+said	O
+my	O
+brother	O
+’s	O
+wife	O
+.	O
+
+# id = litbank-0392
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = “ my dear rose , ” i answered , laying down my egg-spoon , “ why in the world should i do anything ?
+“	O
+my	O
+dear	O
+rose	B-CHARACTER
+,	O
+”	O
+i	O
+answered	O
+,	O
+laying	O
+down	O
+my	O
+egg-spoon	O
+,	O
+“	O
+why	O
+in	O
+the	O
+world	O
+should	O
+i	O
+do	O
+anything	O
+?	O
+
+# id = litbank-0393
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = i have an income nearly sufficient for my wants ( no one ’s income is ever quite sufficient , you know ) , i enjoy an enviable social position : i am brother to lord burlesdon , and brother-in-law to that charming lady , his countess .
+i	O
+have	O
+an	O
+income	O
+nearly	O
+sufficient	O
+for	O
+my	O
+wants	O
+(	O
+no	O
+one	O
+’s	O
+income	O
+is	O
+ever	O
+quite	O
+sufficient	O
+,	O
+you	O
+know	O
+)	O
+,	O
+i	O
+enjoy	O
+an	O
+enviable	O
+social	O
+position	O
+:	O
+i	O
+am	O
+brother	O
+to	O
+lord	B-CHARACTER
+burlesdon	I-CHARACTER
+,	O
+and	O
+brother-in-law	O
+to	O
+that	O
+charming	O
+lady	O
+,	O
+his	O
+countess	O
+.	O
+
+# id = litbank-0396
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = this remark of mine rather annoyed rose , for everybody knows ( and therefore there can be no harm in referring to the fact ) that , pretty and accomplished as she herself is , her family is hardly of the same standing as the rassendylls .
+this	O
+remark	O
+of	O
+mine	O
+rather	O
+annoyed	O
+rose	B-CHARACTER
+,	O
+for	O
+everybody	O
+knows	O
+(	O
+and	O
+therefore	O
+there	O
+can	O
+be	O
+no	O
+harm	O
+in	O
+referring	O
+to	O
+the	O
+fact	O
+)	O
+that	O
+,	O
+pretty	O
+and	O
+accomplished	O
+as	O
+she	O
+herself	O
+is	O
+,	O
+her	O
+family	O
+is	O
+hardly	O
+of	O
+the	O
+same	O
+standing	O
+as	O
+the	O
+rassendylls	O
+.	O
+
+# id = litbank-0397
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = besides her attractions , she possessed a large fortune , and my brother robert was wise enough not to mind about her ancestry .
+besides	O
+her	O
+attractions	O
+,	O
+she	O
+possessed	O
+a	O
+large	O
+fortune	O
+,	O
+and	O
+my	O
+brother	O
+robert	B-CHARACTER
+was	O
+wise	O
+enough	O
+not	O
+to	O
+mind	O
+about	O
+her	O
+ancestry	O
+.	O
+
+# id = litbank-0398
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = ancestry is , in fact , a matter concerning which the next observation of rose ’s has some truth .
+ancestry	O
+is	O
+,	O
+in	O
+fact	O
+,	O
+a	O
+matter	O
+concerning	O
+which	O
+the	O
+next	O
+observation	O
+of	O
+rose	B-CHARACTER
+’s	O
+has	O
+some	O
+truth	O
+.	O
+
+# id = litbank-0401
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = “ i ’m so glad robert ’s is black ! ” she cried .
+“	O
+i	O
+’m	O
+so	O
+glad	O
+robert	B-CHARACTER
+’s	O
+is	O
+black	O
+!	O
+”	O
+she	O
+cried	O
+.	O
+
+# id = litbank-0402
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = at this moment robert ( who rises at seven and works before breakfast ) came in .
+at	O
+this	O
+moment	O
+robert	B-CHARACTER
+(	O
+who	O
+rises	O
+at	O
+seven	O
+and	O
+works	O
+before	O
+breakfast	O
+)	O
+came	O
+in	O
+.	O
+
+# id = litbank-0404
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = of course he ca n’t help his hair , ” admitted rose .
+of	O
+course	O
+he	O
+ca	O
+n’t	O
+help	O
+his	O
+hair	O
+,	O
+”	O
+admitted	O
+rose	B-CHARACTER
+.	O
+
+# id = litbank-0405
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = rudolf has got them both . ”
+rudolf	B-CHARACTER
+has	O
+got	O
+them	O
+both	O
+.	O
+”	O
+
+# id = litbank-0406
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = “ i wish they did n’t crop out , ” said rose , still flushed .
+“	O
+i	O
+wish	O
+they	O
+did	O
+n’t	O
+crop	O
+out	O
+,	O
+”	O
+said	O
+rose	B-CHARACTER
+,	O
+still	O
+flushed	O
+.	O
+
+# id = litbank-0407
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = “ i rather like them myself , ” said i , and , rising , i bowed to the portrait of countess amelia .
+“	O
+i	O
+rather	O
+like	O
+them	O
+myself	O
+,	O
+”	O
+said	O
+i	O
+,	O
+and	O
+,	O
+rising	O
+,	O
+i	O
+bowed	O
+to	O
+the	O
+portrait	O
+of	O
+countess	B-CHARACTER
+amelia	I-CHARACTER
+.	O
+
+# id = litbank-0408
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = “ i wish you ’d take that picture away , robert , ” said she .
+“	O
+i	O
+wish	O
+you	O
+’d	O
+take	O
+that	O
+picture	O
+away	O
+,	O
+robert	B-CHARACTER
+,	O
+”	O
+said	O
+she	O
+.	O
+
+# id = litbank-0409
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = “ hardly -- with rudolf about , ” said robert , shaking his head .
+“	O
+hardly	O
+--	O
+with	O
+rudolf	B-CHARACTER
+about	O
+,	O
+”	O
+said	O
+robert	B-CHARACTER
+,	O
+shaking	O
+his	O
+head	O
+.	O
+
+# id = litbank-0410
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = “ rudolf ! ” exclaimed my brother ’s wife , blushing very prettily .
+“	O
+rudolf	B-CHARACTER
+!	O
+”	O
+exclaimed	O
+my	O
+brother	O
+’s	O
+wife	O
+,	O
+blushing	O
+very	O
+prettily	O
+.	O
+
+# id = litbank-0411
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = well then -- and i must premise that i am going , perforce , to rake up the very scandal which my dear lady burlesdon wishes forgotten -- in the year 1733 , george ii .
+well	O
+then	O
+--	O
+and	O
+i	O
+must	O
+premise	O
+that	O
+i	O
+am	O
+going	O
+,	O
+perforce	O
+,	O
+to	O
+rake	O
+up	O
+the	O
+very	O
+scandal	O
+which	O
+my	O
+dear	O
+lady	B-CHARACTER
+burlesdon	I-CHARACTER
+wishes	O
+forgotten	O
+--	O
+in	O
+the	O
+year	O
+1733	O
+,	O
+george	O
+ii	O
+.	O
+
+# id = litbank-0412
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = sitting then on the throne , peace reigning for the moment , and the king and the prince of wales being not yet at loggerheads , there came on a visit to the english court a certain prince , who was afterwards known to history as rudolf the third of ruritania .
+sitting	O
+then	O
+on	O
+the	O
+throne	O
+,	O
+peace	O
+reigning	O
+for	O
+the	O
+moment	O
+,	O
+and	O
+the	O
+king	O
+and	O
+the	O
+prince	O
+of	O
+wales	O
+being	O
+not	O
+yet	O
+at	O
+loggerheads	O
+,	O
+there	O
+came	O
+on	O
+a	O
+visit	O
+to	O
+the	O
+english	O
+court	O
+a	O
+certain	O
+prince	O
+,	O
+who	O
+was	O
+afterwards	O
+known	O
+to	O
+history	O
+as	O
+rudolf	B-CHARACTER
+the	O
+third	O
+of	O
+ruritania	O
+.	O
+
+# id = litbank-0413
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = in that duel prince rudolf received a severe wound , and , recovering therefrom , was adroitly smuggled off by the ruritanian ambassador , who had found him a pretty handful .
+in	O
+that	O
+duel	O
+prince	B-CHARACTER
+rudolf	I-CHARACTER
+received	O
+a	O
+severe	O
+wound	O
+,	O
+and	O
+,	O
+recovering	O
+therefrom	O
+,	O
+was	O
+adroitly	O
+smuggled	O
+off	O
+by	O
+the	O
+ruritanian	O
+ambassador	O
+,	O
+who	O
+had	O
+found	O
+him	O
+a	O
+pretty	O
+handful	O
+.	O
+
+# id = litbank-0414
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = the nobleman was not wounded in the duel ; but the morning being raw and damp on the occasion of the meeting , he contracted a severe chill , and , failing to throw it off , he died some six months after the departure of prince rudolf , without having found leisure to adjust his relations with his wife -- who , after another two months , bore an heir to the title and estates of the family of burlesdon .
+the	O
+nobleman	O
+was	O
+not	O
+wounded	O
+in	O
+the	O
+duel	O
+;	O
+but	O
+the	O
+morning	O
+being	O
+raw	O
+and	O
+damp	O
+on	O
+the	O
+occasion	O
+of	O
+the	O
+meeting	O
+,	O
+he	O
+contracted	O
+a	O
+severe	O
+chill	O
+,	O
+and	O
+,	O
+failing	O
+to	O
+throw	O
+it	O
+off	O
+,	O
+he	O
+died	O
+some	O
+six	O
+months	O
+after	O
+the	O
+departure	O
+of	O
+prince	B-CHARACTER
+rudolf	I-CHARACTER
+,	O
+without	O
+having	O
+found	O
+leisure	O
+to	O
+adjust	O
+his	O
+relations	O
+with	O
+his	O
+wife	O
+--	O
+who	O
+,	O
+after	O
+another	O
+two	O
+months	O
+,	O
+bore	O
+an	O
+heir	O
+to	O
+the	O
+title	O
+and	O
+estates	O
+of	O
+the	O
+family	O
+of	O
+burlesdon	B-CHARACTER
+.	O
+
+# id = litbank-0415
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = this lady was the countess amelia , whose picture my sister-in-law wished to remove from the drawing-room in park lane ; and her husband was james , fifth earl of burlesdon and twenty-second baron rassendyll , both in the peerage of england , and a knight of the garter .
+this	O
+lady	O
+was	O
+the	O
+countess	B-CHARACTER
+amelia	I-CHARACTER
+,	O
+whose	O
+picture	O
+my	O
+sister-in-law	O
+wished	O
+to	O
+remove	O
+from	O
+the	O
+drawing-room	O
+in	O
+park	O
+lane	O
+;	O
+and	O
+her	O
+husband	O
+was	O
+james	B-CHARACTER
+,	O
+fifth	O
+earl	O
+of	O
+burlesdon	B-CHARACTER
+and	O
+twenty-second	O
+baron	B-CHARACTER
+rassendyll	I-CHARACTER
+,	O
+both	O
+in	O
+the	O
+peerage	O
+of	O
+england	O
+,	O
+and	O
+a	O
+knight	O
+of	O
+the	O
+garter	O
+.	O
+
+# id = litbank-0416
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = as for rudolf , he went back to ruritania , married a wife , and ascended the throne , whereon his progeny in the direct line have sat from then till this very hour -- with one short interval .
+as	O
+for	O
+rudolf	B-CHARACTER
+,	O
+he	O
+went	O
+back	O
+to	O
+ruritania	O
+,	O
+married	O
+a	O
+wife	O
+,	O
+and	O
+ascended	O
+the	O
+throne	O
+,	O
+whereon	O
+his	O
+progeny	O
+in	O
+the	O
+direct	O
+line	O
+have	O
+sat	O
+from	O
+then	O
+till	O
+this	O
+very	O
+hour	O
+--	O
+with	O
+one	O
+short	O
+interval	O
+.	O
+
+# id = litbank-0417
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = “ the difference between you and robert , ” said my sister-in-law , who often ( bless her ! )
+“	O
+the	O
+difference	O
+between	O
+you	O
+and	O
+robert	B-CHARACTER
+,	O
+”	O
+said	O
+my	O
+sister-in-law	O
+,	O
+who	O
+often	O
+(	O
+bless	O
+her	O
+!	O
+)	O
+
+# id = litbank-0418
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = “ to a man of spirit , my dear rose , ” i answered , “ opportunities are duties . ”
+“	O
+to	O
+a	O
+man	O
+of	O
+spirit	O
+,	O
+my	O
+dear	O
+rose	B-CHARACTER
+,	O
+”	O
+i	O
+answered	O
+,	O
+“	O
+opportunities	O
+are	O
+duties	O
+.	O
+”	O
+
+# id = litbank-0419
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = “ nonsense ! ” said she , tossing her head ; and after a moment she went on : “ now , here ’s sir jacob borrodaile offering you exactly what you might be equal to . ”
+“	O
+nonsense	O
+!	O
+”	O
+said	O
+she	O
+,	O
+tossing	O
+her	O
+head	O
+;	O
+and	O
+after	O
+a	O
+moment	O
+she	O
+went	O
+on	O
+:	O
+“	O
+now	O
+,	O
+here	O
+’s	O
+sir	B-CHARACTER
+jacob	I-CHARACTER
+borrodaile	I-CHARACTER
+offering	O
+you	O
+exactly	O
+what	O
+you	O
+might	O
+be	O
+equal	O
+to	O
+.	O
+”	O
+
+# id = litbank-0420
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = “ he ’s to have an embassy in six months , and robert says he is sure that he ’ll take you as an attache .
+“	O
+he	O
+’s	O
+to	O
+have	O
+an	O
+embassy	O
+in	O
+six	O
+months	O
+,	O
+and	O
+robert	B-CHARACTER
+says	O
+he	O
+is	O
+sure	O
+that	O
+he	O
+’ll	O
+take	O
+you	O
+as	O
+an	O
+attache	O
+.	O
+
+# id = litbank-0421
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = do take it , rudolf -- to please me . ”
+do	O
+take	O
+it	O
+,	O
+rudolf	B-CHARACTER
+--	O
+to	O
+please	O
+me	O
+.	O
+”	O
+
+# id = litbank-0422
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = therefore i said : “ my dear sister , if in six months ’ time no unforeseen obstacle has arisen , and sir jacob invites me , hang me if i do n’t go with sir jacob ! ”
+therefore	O
+i	O
+said	O
+:	O
+“	O
+my	O
+dear	O
+sister	O
+,	O
+if	O
+in	O
+six	O
+months	O
+’	O
+time	O
+no	O
+unforeseen	O
+obstacle	O
+has	O
+arisen	O
+,	O
+and	O
+sir	B-CHARACTER
+jacob	I-CHARACTER
+invites	O
+me	O
+,	O
+hang	O
+me	O
+if	O
+i	O
+do	O
+n’t	O
+go	O
+with	O
+sir	B-CHARACTER
+jacob	I-CHARACTER
+!	O
+”	O
+
+# id = litbank-0423
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = “ oh , rudolf , how good of you !
+“	O
+oh	O
+,	O
+rudolf	B-CHARACTER
+,	O
+how	O
+good	O
+of	O
+you	O
+!	O
+
+# id = litbank-0424
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = my promise , then , was given ; but six months are six months , and seem an eternity , and , inasmuch as they stretched between me and my prospective industry ( i suppose attaches are industrious ; but i know not , for i never became attache to sir jacob or anybody else ) , i cast about for some desirable mode of spending them .
+my	O
+promise	O
+,	O
+then	O
+,	O
+was	O
+given	O
+;	O
+but	O
+six	O
+months	O
+are	O
+six	O
+months	O
+,	O
+and	O
+seem	O
+an	O
+eternity	O
+,	O
+and	O
+,	O
+inasmuch	O
+as	O
+they	O
+stretched	O
+between	O
+me	O
+and	O
+my	O
+prospective	O
+industry	O
+(	O
+i	O
+suppose	O
+attaches	O
+are	O
+industrious	O
+;	O
+but	O
+i	O
+know	O
+not	O
+,	O
+for	O
+i	O
+never	O
+became	O
+attache	O
+to	O
+sir	B-CHARACTER
+jacob	I-CHARACTER
+or	O
+anybody	O
+else	O
+)	O
+,	O
+i	O
+cast	O
+about	O
+for	O
+some	O
+desirable	O
+mode	O
+of	O
+spending	O
+them	O
+.	O
+
+# id = litbank-0425
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = it may seem strange that i had never visited that country yet ; but my father ( in spite of a sneaking fondness for the elphbergs , which led him to give me , his second son , the famous elphberg name of rudolf ) had always been averse from my going , and , since his death , my brother , prompted by rose , had accepted the family tradition which taught that a wide berth was to be given to that country .
+it	O
+may	O
+seem	O
+strange	O
+that	O
+i	O
+had	O
+never	O
+visited	O
+that	O
+country	O
+yet	O
+;	O
+but	O
+my	O
+father	O
+(	O
+in	O
+spite	O
+of	O
+a	O
+sneaking	O
+fondness	O
+for	O
+the	O
+elphbergs	O
+,	O
+which	O
+led	O
+him	O
+to	O
+give	O
+me	O
+,	O
+his	O
+second	O
+son	O
+,	O
+the	O
+famous	O
+elphberg	O
+name	O
+of	O
+rudolf	B-CHARACTER
+)	O
+had	O
+always	O
+been	O
+averse	O
+from	O
+my	O
+going	O
+,	O
+and	O
+,	O
+since	O
+his	O
+death	O
+,	O
+my	O
+brother	O
+,	O
+prompted	O
+by	O
+rose	B-CHARACTER
+,	O
+had	O
+accepted	O
+the	O
+family	O
+tradition	O
+which	O
+taught	O
+that	O
+a	O
+wide	O
+berth	O
+was	O
+to	O
+be	O
+given	O
+to	O
+that	O
+country	O
+.	O
+
+# id = litbank-0426
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = my determination was clinched by reading in _ the times _ that rudolf the fifth was to be crowned at strelsau in the course of the next three weeks , and that great magnificence was to mark the occasion .
+my	O
+determination	O
+was	O
+clinched	O
+by	O
+reading	O
+in	O
+_	O
+the	O
+times	O
+_	O
+that	O
+rudolf	B-CHARACTER
+the	O
+fifth	O
+was	O
+to	O
+be	O
+crowned	O
+at	O
+strelsau	O
+in	O
+the	O
+course	O
+of	O
+the	O
+next	O
+three	O
+weeks	O
+,	O
+and	O
+that	O
+great	O
+magnificence	O
+was	O
+to	O
+mark	O
+the	O
+occasion	O
+.	O
+
+# id = litbank-0427
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = but , inasmuch as it has never been my practice to furnish my relatives with an itinerary of my journeys and in this case i anticipated opposition to my wishes , i gave out that i was going for a ramble in the tyrol -- an old haunt of mine -- and propitiated rose ’s wrath by declaring that i intended to study the political and social problems of the interesting community which dwells in that neighbourhood .
+but	O
+,	O
+inasmuch	O
+as	O
+it	O
+has	O
+never	O
+been	O
+my	O
+practice	O
+to	O
+furnish	O
+my	O
+relatives	O
+with	O
+an	O
+itinerary	O
+of	O
+my	O
+journeys	O
+and	O
+in	O
+this	O
+case	O
+i	O
+anticipated	O
+opposition	O
+to	O
+my	O
+wishes	O
+,	O
+i	O
+gave	O
+out	O
+that	O
+i	O
+was	O
+going	O
+for	O
+a	O
+ramble	O
+in	O
+the	O
+tyrol	O
+--	O
+an	O
+old	O
+haunt	O
+of	O
+mine	O
+--	O
+and	O
+propitiated	O
+rose	B-CHARACTER
+’s	O
+wrath	O
+by	O
+declaring	O
+that	O
+i	O
+intended	O
+to	O
+study	O
+the	O
+political	O
+and	O
+social	O
+problems	O
+of	O
+the	O
+interesting	O
+community	O
+which	O
+dwells	O
+in	O
+that	O
+neighbourhood	O
+.	O
+
+# id = litbank-0394
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = “ you are nine-and-twenty , ” she observed , “ and you ’ve done nothing but -- ” “ knock about ?
+“	O
+you	O
+are	O
+nine-and-twenty	O
+,	O
+”	O
+she	O
+observed	O
+,	O
+“	O
+and	O
+you	O
+’ve	O
+done	O
+nothing	O
+but	O
+--	O
+”	O
+“	O
+knock	O
+about	O
+?	O
+
+# id = litbank-0395
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = our family does n’t need to do things . ”
+our	O
+family	O
+does	O
+n’t	O
+need	O
+to	O
+do	O
+things	O
+.	O
+”	O
+
+# id = litbank-0399
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = “ good families are generally worse than any others , ” she said .
+“	O
+good	O
+families	O
+are	O
+generally	O
+worse	O
+than	O
+any	O
+others	O
+,	O
+”	O
+she	O
+said	O
+.	O
+
+# id = litbank-0400
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = upon this i stroked my hair : i knew quite well what she meant .
+upon	O
+this	O
+i	O
+stroked	O
+my	O
+hair	O
+:	O
+i	O
+knew	O
+quite	O
+well	O
+what	O
+she	O
+meant	O
+.	O
+
+# id = litbank-0403
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = he glanced at his wife : her cheek was slightly flushed ; he patted it caressingly .
+he	O
+glanced	O
+at	O
+his	O
+wife	O
+:	O
+her	O
+cheek	O
+was	O
+slightly	O
+flushed	O
+;	O
+he	O
+patted	O
+it	O
+caressingly	O
+.	O
+

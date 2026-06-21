@@ -1,0 +1,557 @@
+# id = litbank-1629
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = a scandal in bohemia i. to sherlock holmes she is always the woman .
+a	O
+scandal	O
+in	O
+bohemia	O
+i.	O
+to	O
+sherlock	B-CHARACTER
+holmes	I-CHARACTER
+she	O
+is	O
+always	O
+the	O
+woman	O
+.	O
+
+# id = litbank-1632
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = it was not that he felt any emotion akin to love for irene adler .
+it	O
+was	O
+not	O
+that	O
+he	O
+felt	O
+any	O
+emotion	O
+akin	O
+to	O
+love	O
+for	O
+irene	B-CHARACTER
+adler	I-CHARACTER
+.	O
+
+# id = litbank-1636
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = and yet there was but one woman to him , and that woman was the late irene adler , of dubious and questionable memory .
+and	O
+yet	O
+there	O
+was	O
+but	O
+one	O
+woman	O
+to	O
+him	O
+,	O
+and	O
+that	O
+woman	O
+was	O
+the	O
+late	O
+irene	B-CHARACTER
+adler	I-CHARACTER
+,	O
+of	O
+dubious	O
+and	O
+questionable	O
+memory	O
+.	O
+
+# id = litbank-1637
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = i had seen little of holmes lately .
+i	O
+had	O
+seen	O
+little	O
+of	O
+holmes	B-CHARACTER
+lately	O
+.	O
+
+# id = litbank-1638
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = my own complete happiness , and the home-centred interests which rise up around the man who first finds himself master of his own establishment , were sufficient to absorb all my attention , while holmes , who loathed every form of society with his whole bohemian soul , remained in our lodgings in baker street , buried among his old books , and alternating from week to week between cocaine and ambition , the drowsiness of the drug , and the fierce energy of his own keen nature .
+my	O
+own	O
+complete	O
+happiness	O
+,	O
+and	O
+the	O
+home-centred	O
+interests	O
+which	O
+rise	O
+up	O
+around	O
+the	O
+man	O
+who	O
+first	O
+finds	O
+himself	O
+master	O
+of	O
+his	O
+own	O
+establishment	O
+,	O
+were	O
+sufficient	O
+to	O
+absorb	O
+all	O
+my	O
+attention	O
+,	O
+while	O
+holmes	B-CHARACTER
+,	O
+who	O
+loathed	O
+every	O
+form	O
+of	O
+society	O
+with	O
+his	O
+whole	O
+bohemian	O
+soul	O
+,	O
+remained	O
+in	O
+our	O
+lodgings	O
+in	O
+baker	O
+street	O
+,	O
+buried	O
+among	O
+his	O
+old	O
+books	O
+,	O
+and	O
+alternating	O
+from	O
+week	O
+to	O
+week	O
+between	O
+cocaine	O
+and	O
+ambition	O
+,	O
+the	O
+drowsiness	O
+of	O
+the	O
+drug	O
+,	O
+and	O
+the	O
+fierce	O
+energy	O
+of	O
+his	O
+own	O
+keen	O
+nature	O
+.	O
+
+# id = litbank-1639
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = as i passed the well-remembered door , which must always be associated in my mind with my wooing , and with the dark incidents of the study in scarlet , i was seized with a keen desire to see holmes again , and to know how he was employing his extraordinary powers .
+as	O
+i	O
+passed	O
+the	O
+well-remembered	O
+door	O
+,	O
+which	O
+must	O
+always	O
+be	O
+associated	O
+in	O
+my	O
+mind	O
+with	O
+my	O
+wooing	O
+,	O
+and	O
+with	O
+the	O
+dark	O
+incidents	O
+of	O
+the	O
+study	O
+in	O
+scarlet	O
+,	O
+i	O
+was	O
+seized	O
+with	O
+a	O
+keen	O
+desire	O
+to	O
+see	O
+holmes	B-CHARACTER
+again	O
+,	O
+and	O
+to	O
+know	O
+how	O
+he	O
+was	O
+employing	O
+his	O
+extraordinary	O
+powers	O
+.	O
+
+# id = litbank-1640
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = " i think , watson , that you have put on seven and a half pounds since i saw you . "
+"	O
+i	O
+think	O
+,	O
+watson	B-CHARACTER
+,	O
+that	O
+you	O
+have	O
+put	O
+on	O
+seven	O
+and	O
+a	O
+half	O
+pounds	O
+since	O
+i	O
+saw	O
+you	O
+.	O
+"	O
+
+# id = litbank-1641
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = just a trifle more , i fancy , watson .
+just	O
+a	O
+trifle	O
+more	O
+,	O
+i	O
+fancy	O
+,	O
+watson	B-CHARACTER
+.	O
+
+# id = litbank-1642
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = " my dear holmes , " said i , " this is too much .
+"	O
+my	O
+dear	O
+holmes	B-CHARACTER
+,	O
+"	O
+said	O
+i	O
+,	O
+"	O
+this	O
+is	O
+too	O
+much	O
+.	O
+
+# id = litbank-1643
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = as to mary jane , she is incorrigible , and my wife has given her notice , but there , again , i fail to see how you work it out . "
+as	O
+to	O
+mary	B-CHARACTER
+jane	I-CHARACTER
+,	O
+she	O
+is	O
+incorrigible	O
+,	O
+and	O
+my	O
+wife	O
+has	O
+given	O
+her	O
+notice	O
+,	O
+but	O
+there	O
+,	O
+again	O
+,	O
+i	O
+fail	O
+to	O
+see	O
+how	O
+you	O
+work	O
+it	O
+out	O
+.	O
+"	O
+
+# id = litbank-1644
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = " peculiar -- that is the very word , " said holmes .
+"	O
+peculiar	O
+--	O
+that	O
+is	O
+the	O
+very	O
+word	O
+,	O
+"	O
+said	O
+holmes	B-CHARACTER
+.	O
+
+# id = litbank-1645
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = " what do you make of that ? " asked holmes .
+"	O
+what	O
+do	O
+you	O
+make	O
+of	O
+that	O
+?	O
+"	O
+asked	O
+holmes	B-CHARACTER
+.	O
+
+# id = litbank-1630
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = i have seldom heard him mention her under any other name .
+i	O
+have	O
+seldom	O
+heard	O
+him	O
+mention	O
+her	O
+under	O
+any	O
+other	O
+name	O
+.	O
+
+# id = litbank-1631
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = in his eyes she eclipses and predominates the whole of her sex .
+in	O
+his	O
+eyes	O
+she	O
+eclipses	O
+and	O
+predominates	O
+the	O
+whole	O
+of	O
+her	O
+sex	O
+.	O
+
+# id = litbank-1633
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = all emotions , and that one particularly , were abhorrent to his cold , precise but admirably balanced mind .
+all	O
+emotions	O
+,	O
+and	O
+that	O
+one	O
+particularly	O
+,	O
+were	O
+abhorrent	O
+to	O
+his	O
+cold	O
+,	O
+precise	O
+but	O
+admirably	O
+balanced	O
+mind	O
+.	O
+
+# id = litbank-1634
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = he was , i take it , the most perfect reasoning and observing machine that the world has seen , but as a lover he would have placed himself in a false position .
+he	O
+was	O
+,	O
+i	O
+take	O
+it	O
+,	O
+the	O
+most	O
+perfect	O
+reasoning	O
+and	O
+observing	O
+machine	O
+that	O
+the	O
+world	O
+has	O
+seen	O
+,	O
+but	O
+as	O
+a	O
+lover	O
+he	O
+would	O
+have	O
+placed	O
+himself	O
+in	O
+a	O
+false	O
+position	O
+.	O
+
+# id = litbank-1635
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = he never spoke of the softer passions , save with a gibe and a sneer .
+he	O
+never	O
+spoke	O
+of	O
+the	O
+softer	O
+passions	O
+,	O
+save	O
+with	O
+a	O
+gibe	O
+and	O
+a	O
+sneer	O
+.	O
+

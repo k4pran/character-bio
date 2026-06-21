@@ -1,0 +1,1288 @@
+# id = litbank-0598
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = mr. pontellier , unable to read his newspaper with any degree of comfort , arose with an expression and an exclamation of disgust .
+mr.	B-CHARACTER
+pontellier	I-CHARACTER
+,	O
+unable	O
+to	O
+read	O
+his	O
+newspaper	O
+with	O
+any	O
+degree	O
+of	O
+comfort	O
+,	O
+arose	O
+with	O
+an	O
+expression	O
+and	O
+an	O
+exclamation	O
+of	O
+disgust	O
+.	O
+
+# id = litbank-0601
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = the parrot and the mockingbird were the property of madame lebrun , and they had the right to make all the noise they wished .
+the	O
+parrot	O
+and	O
+the	O
+mockingbird	O
+were	O
+the	O
+property	O
+of	O
+madame	B-CHARACTER
+lebrun	I-CHARACTER
+,	O
+and	O
+they	O
+had	O
+the	O
+right	O
+to	O
+make	O
+all	O
+the	O
+noise	O
+they	O
+wished	O
+.	O
+
+# id = litbank-0602
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = mr. pontellier had the privilege of quitting their society when they ceased to be entertaining .
+mr.	B-CHARACTER
+pontellier	I-CHARACTER
+had	O
+the	O
+privilege	O
+of	O
+quitting	O
+their	O
+society	O
+when	O
+they	O
+ceased	O
+to	O
+be	O
+entertaining	O
+.	O
+
+# id = litbank-0604
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = mr. pontellier wore eye-glasses .
+mr.	B-CHARACTER
+pontellier	I-CHARACTER
+wore	O
+eye-glasses	O
+.	O
+
+# id = litbank-0605
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = two young girls , the farival twins , were playing a duet from “ zampa ” upon the piano .
+two	O
+young	O
+girls	O
+,	O
+the	O
+farival	B-CHARACTER
+twins	O
+,	O
+were	O
+playing	O
+a	O
+duet	O
+from	O
+“	O
+zampa	O
+”	O
+upon	O
+the	O
+piano	O
+.	O
+
+# id = litbank-0606
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = madame lebrun was bustling in and out , giving orders in a high key to a yard-boy whenever she got inside the house , and directions in an equally high voice to a dining-room servant whenever she got outside .
+madame	B-CHARACTER
+lebrun	I-CHARACTER
+was	O
+bustling	O
+in	O
+and	O
+out	O
+,	O
+giving	O
+orders	O
+in	O
+a	O
+high	O
+key	O
+to	O
+a	O
+yard-boy	O
+whenever	O
+she	O
+got	O
+inside	O
+the	O
+house	O
+,	O
+and	O
+directions	O
+in	O
+an	O
+equally	O
+high	O
+voice	O
+to	O
+a	O
+dining-room	O
+servant	O
+whenever	O
+she	O
+got	O
+outside	O
+.	O
+
+# id = litbank-0607
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = mr. pontellier 's two children were there -- sturdy little fellows of four and five .
+mr.	B-CHARACTER
+pontellier	I-CHARACTER
+'s	O
+two	O
+children	O
+were	O
+there	O
+--	O
+sturdy	O
+little	O
+fellows	O
+of	O
+four	O
+and	O
+five	O
+.	O
+
+# id = litbank-0608
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = mr. pontellier finally lit a cigar and began to smoke , letting the paper drag idly from his hand .
+mr.	B-CHARACTER
+pontellier	I-CHARACTER
+finally	O
+lit	O
+a	O
+cigar	O
+and	O
+began	O
+to	O
+smoke	O
+,	O
+letting	O
+the	O
+paper	O
+drag	O
+idly	O
+from	O
+his	O
+hand	O
+.	O
+
+# id = litbank-0609
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = beneath its pink-lined shelter were his wife , mrs. pontellier , and young robert lebrun .
+beneath	O
+its	O
+pink-lined	O
+shelter	O
+were	O
+his	O
+wife	O
+,	O
+mrs.	B-CHARACTER
+pontellier	I-CHARACTER
+,	O
+and	O
+young	O
+robert	B-CHARACTER
+lebrun	I-CHARACTER
+.	O
+
+# id = litbank-0610
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = exclaimed mr. pontellier .
+exclaimed	O
+mr.	B-CHARACTER
+pontellier	I-CHARACTER
+.	O
+
+# id = litbank-0611
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = she slipped them upon her fingers ; then clasping her knees , she looked across at robert and began to laugh .
+she	O
+slipped	O
+them	O
+upon	O
+her	O
+fingers	O
+;	O
+then	O
+clasping	O
+her	O
+knees	O
+,	O
+she	O
+looked	O
+across	O
+at	O
+robert	B-CHARACTER
+and	O
+began	O
+to	O
+laugh	O
+.	O
+
+# id = litbank-0612
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = asked pontellier , looking lazily and amused from one to the other .
+asked	O
+pontellier	B-CHARACTER
+,	O
+looking	O
+lazily	O
+and	O
+amused	O
+from	O
+one	O
+to	O
+the	O
+other	O
+.	O
+
+# id = litbank-0613
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = they realized this , and so did mr. pontellier .
+they	O
+realized	O
+this	O
+,	O
+and	O
+so	O
+did	O
+mr.	B-CHARACTER
+pontellier	I-CHARACTER
+.	O
+
+# id = litbank-0614
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = then he got up , saying he had half a mind to go over to klein 's hotel and play a game of billiards .
+then	O
+he	O
+got	O
+up	O
+,	O
+saying	O
+he	O
+had	O
+half	O
+a	O
+mind	O
+to	O
+go	O
+over	O
+to	O
+klein	B-CHARACTER
+'s	O
+hotel	O
+and	O
+play	O
+a	O
+game	O
+of	O
+billiards	O
+.	O
+
+# id = litbank-0615
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = “ come go along , lebrun , ” he proposed to robert .
+“	O
+come	O
+go	O
+along	O
+,	O
+lebrun	B-CHARACTER
+,	O
+”	O
+he	O
+proposed	O
+to	O
+robert	B-CHARACTER
+.	O
+
+# id = litbank-0616
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = but robert admitted quite frankly that he preferred to stay where he was and talk to mrs. pontellier .
+but	O
+robert	B-CHARACTER
+admitted	O
+quite	O
+frankly	O
+that	O
+he	O
+preferred	O
+to	O
+stay	O
+where	O
+he	O
+was	O
+and	O
+talk	O
+to	O
+mrs.	B-CHARACTER
+pontellier	I-CHARACTER
+.	O
+
+# id = litbank-0617
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = “ well , send him about his business when he bores you , edna , ” instructed her husband as he prepared to leave .
+“	O
+well	O
+,	O
+send	O
+him	O
+about	O
+his	O
+business	O
+when	O
+he	O
+bores	O
+you	O
+,	O
+edna	B-CHARACTER
+,	O
+”	O
+instructed	O
+her	O
+husband	O
+as	O
+he	O
+prepared	O
+to	O
+leave	O
+.	O
+
+# id = litbank-0618
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = it all depended upon the company which he found over at klein 's and the size of “ the game . ”
+it	O
+all	O
+depended	O
+upon	O
+the	O
+company	O
+which	O
+he	O
+found	O
+over	O
+at	O
+klein	B-CHARACTER
+'s	O
+and	O
+the	O
+size	O
+of	O
+“	O
+the	O
+game	O
+.	O
+”	O
+
+# id = litbank-0619
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = ii mrs. pontellier 's eyes were quick and bright ; they were a yellowish brown , about the color of her hair .
+ii	O
+mrs.	B-CHARACTER
+pontellier	I-CHARACTER
+'s	O
+eyes	O
+were	O
+quick	O
+and	O
+bright	O
+;	O
+they	O
+were	O
+a	O
+yellowish	O
+brown	O
+,	O
+about	O
+the	O
+color	O
+of	O
+her	O
+hair	O
+.	O
+
+# id = litbank-0620
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = robert rolled a cigarette .
+robert	B-CHARACTER
+rolled	O
+a	O
+cigarette	O
+.	O
+
+# id = litbank-0621
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = he had a cigar in his pocket which mr. pontellier had presented him with , and he was saving it for his after-dinner smoke .
+he	O
+had	O
+a	O
+cigar	O
+in	O
+his	O
+pocket	O
+which	O
+mr.	B-CHARACTER
+pontellier	I-CHARACTER
+had	O
+presented	O
+him	O
+with	O
+,	O
+and	O
+he	O
+was	O
+saving	O
+it	O
+for	O
+his	O
+after-dinner	O
+smoke	O
+.	O
+
+# id = litbank-0622
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = mrs. pontellier reached over for a palm-leaf fan that lay on the porch and began to fan herself , while robert sent between his lips light puffs from his cigarette .
+mrs.	B-CHARACTER
+pontellier	I-CHARACTER
+reached	O
+over	O
+for	O
+a	O
+palm-leaf	O
+fan	O
+that	O
+lay	O
+on	O
+the	O
+porch	O
+and	O
+began	O
+to	O
+fan	O
+herself	O
+,	O
+while	O
+robert	B-CHARACTER
+sent	O
+between	O
+his	O
+lips	O
+light	O
+puffs	O
+from	O
+his	O
+cigarette	O
+.	O
+
+# id = litbank-0623
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = they chatted incessantly : about the things around them ; their amusing adventure out in the water -- it had again assumed its entertaining aspect ; about the wind , the trees , the people who had gone to the cheniere ; about the children playing croquet under the oaks , and the farival twins , who were now performing the overture to “ the poet and the peasant . ”
+they	O
+chatted	O
+incessantly	O
+:	O
+about	O
+the	O
+things	O
+around	O
+them	O
+;	O
+their	O
+amusing	O
+adventure	O
+out	O
+in	O
+the	O
+water	O
+--	O
+it	O
+had	O
+again	O
+assumed	O
+its	O
+entertaining	O
+aspect	O
+;	O
+about	O
+the	O
+wind	O
+,	O
+the	O
+trees	O
+,	O
+the	O
+people	O
+who	O
+had	O
+gone	O
+to	O
+the	O
+cheniere	O
+;	O
+about	O
+the	O
+children	O
+playing	O
+croquet	O
+under	O
+the	O
+oaks	O
+,	O
+and	O
+the	O
+farival	B-CHARACTER
+twins	O
+,	O
+who	O
+were	O
+now	O
+performing	O
+the	O
+overture	O
+to	O
+“	O
+the	O
+poet	O
+and	O
+the	O
+peasant	O
+.	O
+”	O
+
+# id = litbank-0624
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = robert talked a good deal about himself .
+robert	B-CHARACTER
+talked	O
+a	O
+good	O
+deal	O
+about	O
+himself	O
+.	O
+
+# id = litbank-0625
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = mrs. pontellier talked a little about herself for the same reason .
+mrs.	B-CHARACTER
+pontellier	I-CHARACTER
+talked	O
+a	O
+little	O
+about	O
+herself	O
+for	O
+the	O
+same	O
+reason	O
+.	O
+
+# id = litbank-0626
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = robert spoke of his intention to go to mexico in the autumn , where fortune awaited him .
+robert	B-CHARACTER
+spoke	O
+of	O
+his	O
+intention	O
+to	O
+go	O
+to	O
+mexico	O
+in	O
+the	O
+autumn	O
+,	O
+where	O
+fortune	O
+awaited	O
+him	O
+.	O
+
+# id = litbank-0627
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = in former times , before robert could remember , “ the house ” had been a summer luxury of the lebruns .
+in	O
+former	O
+times	O
+,	O
+before	O
+robert	B-CHARACTER
+could	O
+remember	O
+,	O
+“	O
+the	O
+house	O
+”	O
+had	O
+been	O
+a	O
+summer	O
+luxury	O
+of	O
+the	O
+lebruns	O
+.	O
+
+# id = litbank-0628
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = now , flanked by its dozen or more cottages , which were always filled with exclusive visitors from the “ quartier francais , ” it enabled madame lebrun to maintain the easy and comfortable existence which appeared to be her birthright .
+now	O
+,	O
+flanked	O
+by	O
+its	O
+dozen	O
+or	O
+more	O
+cottages	O
+,	O
+which	O
+were	O
+always	O
+filled	O
+with	O
+exclusive	O
+visitors	O
+from	O
+the	O
+“	O
+quartier	O
+francais	O
+,	O
+”	O
+it	O
+enabled	O
+madame	B-CHARACTER
+lebrun	I-CHARACTER
+to	O
+maintain	O
+the	O
+easy	O
+and	O
+comfortable	O
+existence	O
+which	O
+appeared	O
+to	O
+be	O
+her	O
+birthright	O
+.	O
+
+# id = litbank-0629
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = mrs. pontellier talked about her father 's mississippi plantation and her girlhood home in the old kentucky bluegrass country .
+mrs.	B-CHARACTER
+pontellier	I-CHARACTER
+talked	O
+about	O
+her	O
+father	O
+'s	O
+mississippi	O
+plantation	O
+and	O
+her	O
+girlhood	O
+home	O
+in	O
+the	O
+old	O
+kentucky	O
+bluegrass	O
+country	O
+.	O
+
+# id = litbank-0630
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = she was an american woman , with a small infusion of french which seemed to have been lost in dilution .
+she	O
+was	O
+an	O
+american	O
+woman	O
+,	O
+with	O
+a	O
+small	O
+infusion	O
+of	O
+french	B-CHARACTER
+which	O
+seemed	O
+to	O
+have	O
+been	O
+lost	O
+in	O
+dilution	O
+.	O
+
+# id = litbank-0631
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = robert was interested , and wanted to know what manner of girls the sisters were , what the father was like , and how long the mother had been dead .
+robert	B-CHARACTER
+was	O
+interested	O
+,	O
+and	O
+wanted	O
+to	O
+know	O
+what	O
+manner	O
+of	O
+girls	O
+the	O
+sisters	O
+were	O
+,	O
+what	O
+the	O
+father	O
+was	O
+like	O
+,	O
+and	O
+how	O
+long	O
+the	O
+mother	O
+had	O
+been	O
+dead	O
+.	O
+
+# id = litbank-0632
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = when mrs. pontellier folded the letter it was time for her to dress for the early dinner .
+when	O
+mrs.	B-CHARACTER
+pontellier	I-CHARACTER
+folded	O
+the	O
+letter	O
+it	O
+was	O
+time	O
+for	O
+her	O
+to	O
+dress	O
+for	O
+the	O
+early	O
+dinner	O
+.	O
+
+# id = litbank-0633
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = “ i see leonce is n't coming back , ” she said , with a glance in the direction whence her husband had disappeared .
+“	O
+i	O
+see	O
+leonce	B-CHARACTER
+is	O
+n't	O
+coming	O
+back	O
+,	O
+”	O
+she	O
+said	O
+,	O
+with	O
+a	O
+glance	O
+in	O
+the	O
+direction	O
+whence	O
+her	O
+husband	O
+had	O
+disappeared	O
+.	O
+
+# id = litbank-0634
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = robert supposed he was not , as there were a good many new orleans club men over at klein 's .
+robert	B-CHARACTER
+supposed	O
+he	O
+was	O
+not	O
+,	O
+as	O
+there	O
+were	O
+a	O
+good	O
+many	O
+new	O
+orleans	O
+club	O
+men	O
+over	O
+at	O
+klein	B-CHARACTER
+'s	O
+.	O
+
+# id = litbank-0635
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = when mrs. pontellier left him to enter her room , the young man descended the steps and strolled over toward the croquet players , where , during the half-hour before dinner , he amused himself with the little pontellier children , who were very fond of him .
+when	O
+mrs.	B-CHARACTER
+pontellier	I-CHARACTER
+left	O
+him	O
+to	O
+enter	O
+her	O
+room	O
+,	O
+the	O
+young	O
+man	O
+descended	O
+the	O
+steps	O
+and	O
+strolled	O
+over	O
+toward	O
+the	O
+croquet	O
+players	O
+,	O
+where	O
+,	O
+during	O
+the	O
+half-hour	O
+before	O
+dinner	O
+,	O
+he	O
+amused	O
+himself	O
+with	O
+the	O
+little	O
+pontellier	O
+children	O
+,	O
+who	O
+were	O
+very	O
+fond	O
+of	O
+him	O
+.	O
+
+# id = litbank-0636
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = iii it was eleven o'clock that night when mr. pontellier returned from klein 's hotel .
+iii	O
+it	O
+was	O
+eleven	O
+o'clock	O
+that	O
+night	O
+when	O
+mr.	B-CHARACTER
+pontellier	I-CHARACTER
+returned	O
+from	O
+klein	B-CHARACTER
+'s	O
+hotel	O
+.	O
+
+# id = litbank-0596
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = i a green and yellow parrot , which hung in a cage outside the door , kept repeating over and over : “ allez vous-en !
+i	O
+a	O
+green	O
+and	O
+yellow	O
+parrot	O
+,	O
+which	O
+hung	O
+in	O
+a	O
+cage	O
+outside	O
+the	O
+door	O
+,	O
+kept	O
+repeating	O
+over	O
+and	O
+over	O
+:	O
+“	O
+allez	O
+vous-en	O
+!	O
+
+# id = litbank-0597
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = he could speak a little spanish , and also a language which nobody understood , unless it was the mocking-bird that hung on the other side of the door , whistling his fluty notes out upon the breeze with maddening persistence .
+he	O
+could	O
+speak	O
+a	O
+little	O
+spanish	O
+,	O
+and	O
+also	O
+a	O
+language	O
+which	O
+nobody	O
+understood	O
+,	O
+unless	O
+it	O
+was	O
+the	O
+mocking-bird	O
+that	O
+hung	O
+on	O
+the	O
+other	O
+side	O
+of	O
+the	O
+door	O
+,	O
+whistling	O
+his	O
+fluty	O
+notes	O
+out	O
+upon	O
+the	O
+breeze	O
+with	O
+maddening	O
+persistence	O
+.	O
+
+# id = litbank-0599
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = he walked down the gallery and across the narrow “ bridges ” which connected the lebrun cottages one with the other .
+he	O
+walked	O
+down	O
+the	O
+gallery	O
+and	O
+across	O
+the	O
+narrow	O
+“	O
+bridges	O
+”	O
+which	O
+connected	O
+the	O
+lebrun	O
+cottages	O
+one	O
+with	O
+the	O
+other	O
+.	O
+
+# id = litbank-0600
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = he had been seated before the door of the main house .
+he	O
+had	O
+been	O
+seated	O
+before	O
+the	O
+door	O
+of	O
+the	O
+main	O
+house	O
+.	O
+
+# id = litbank-0603
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = he stopped before the door of his own cottage , which was the fourth one from the main building and next to the last .
+he	O
+stopped	O
+before	O
+the	O
+door	O
+of	O
+his	O
+own	O
+cottage	O
+,	O
+which	O
+was	O
+the	O
+fourth	O
+one	O
+from	O
+the	O
+main	O
+building	O
+and	O
+next	O
+to	O
+the	O
+last	O
+.	O
+

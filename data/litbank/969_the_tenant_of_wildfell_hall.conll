@@ -1,0 +1,1016 @@
+# id = litbank-1351
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = i need not tell you this was my sister rose .
+i	O
+need	O
+not	O
+tell	O
+you	O
+this	O
+was	O
+my	O
+sister	O
+rose	B-CHARACTER
+.	O
+
+# id = litbank-1352
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = she had swept the hearth , and made a bright blazing fire for our reception ; the servant had just brought in the tea-tray ; and rose was producing the sugar-basin and tea-caddy from the cupboard in the black oak side-board , that shone like polished ebony , in the cheerful parlour twilight .
+she	O
+had	O
+swept	O
+the	O
+hearth	O
+,	O
+and	O
+made	O
+a	O
+bright	O
+blazing	O
+fire	O
+for	O
+our	O
+reception	O
+;	O
+the	O
+servant	O
+had	O
+just	O
+brought	O
+in	O
+the	O
+tea-tray	O
+;	O
+and	O
+rose	B-CHARACTER
+was	O
+producing	O
+the	O
+sugar-basin	O
+and	O
+tea-caddy	O
+from	O
+the	O
+cupboard	O
+in	O
+the	O
+black	O
+oak	O
+side-board	O
+,	O
+that	O
+shone	O
+like	O
+polished	O
+ebony	O
+,	O
+in	O
+the	O
+cheerful	O
+parlour	O
+twilight	O
+.	O
+
+# id = litbank-1353
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = ‘ now shut the door , and come to the fire , while rose gets the tea ready ; i ’m sure you must be starved ; — and tell me what you ’ve been about all day ; — i like to know what my children have been about . ’
+‘	O
+now	O
+shut	O
+the	O
+door	O
+,	O
+and	O
+come	O
+to	O
+the	O
+fire	O
+,	O
+while	O
+rose	B-CHARACTER
+gets	O
+the	O
+tea	O
+ready	O
+;	O
+i	O
+’m	O
+sure	O
+you	O
+must	O
+be	O
+starved	O
+;	O
+—	O
+and	O
+tell	O
+me	O
+what	O
+you	O
+’ve	O
+been	O
+about	O
+all	O
+day	O
+;	O
+—	O
+i	O
+like	O
+to	O
+know	O
+what	O
+my	O
+children	O
+have	O
+been	O
+about	O
+.	O
+’	O
+
+# id = litbank-1354
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = — and fergus , what have you been doing ? ’
+—	O
+and	O
+fergus	B-CHARACTER
+,	O
+what	O
+have	O
+you	O
+been	O
+doing	O
+?	O
+’	O
+
+# id = litbank-1355
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = ‘ it ’s time you should be doing something else , fergus , ’ said i , as soon as a momentary pause in his narration allowed me to get in a word .
+‘	O
+it	O
+’s	O
+time	O
+you	O
+should	O
+be	O
+doing	O
+something	O
+else	O
+,	O
+fergus	B-CHARACTER
+,	O
+’	O
+said	O
+i	O
+,	O
+as	O
+soon	O
+as	O
+a	O
+momentary	O
+pause	O
+in	O
+his	O
+narration	O
+allowed	O
+me	O
+to	O
+get	O
+in	O
+a	O
+word	O
+.	O
+
+# id = litbank-1356
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = he growled , and tried to look sulky , and then we all took our seats at the table , in obedience to the thrice-repeated summons of rose .
+he	O
+growled	O
+,	O
+and	O
+tried	O
+to	O
+look	O
+sulky	O
+,	O
+and	O
+then	O
+we	O
+all	O
+took	O
+our	O
+seats	O
+at	O
+the	O
+table	O
+,	O
+in	O
+obedience	O
+to	O
+the	O
+thrice-repeated	O
+summons	O
+of	O
+rose	B-CHARACTER
+.	O
+
+# id = litbank-1357
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = i ’ve been to call on the wilsons ; and it ’s a thousand pities you did n’t go with me , gilbert , for eliza millward was there ! ’
+i	O
+’ve	O
+been	O
+to	O
+call	O
+on	O
+the	O
+wilsons	O
+;	O
+and	O
+it	O
+’s	O
+a	O
+thousand	O
+pities	O
+you	O
+did	O
+n’t	O
+go	O
+with	O
+me	O
+,	O
+gilbert	B-CHARACTER
+,	O
+for	O
+eliza	B-CHARACTER
+millward	I-CHARACTER
+was	O
+there	O
+!	O
+’	O
+
+# id = litbank-1358
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = ‘ well , ’ resumed rose ; ‘ i was going to tell you an important piece of news i heard there — i have been bursting with it ever since .
+‘	O
+well	O
+,	O
+’	O
+resumed	O
+rose	B-CHARACTER
+;	O
+‘	O
+i	O
+was	O
+going	O
+to	O
+tell	O
+you	O
+an	O
+important	O
+piece	O
+of	O
+news	O
+i	O
+heard	O
+there	O
+—	O
+i	O
+have	O
+been	O
+bursting	O
+with	O
+it	O
+ever	O
+since	O
+.	O
+
+# id = litbank-1359
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = shrieked fergus .
+shrieked	O
+fergus	B-CHARACTER
+.	O
+
+# id = litbank-1360
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = that spoils it — i ’d hoped she was a witch , ’ observed fergus , while carving his inch-thick slice of bread and butter .
+that	O
+spoils	O
+it	O
+—	O
+i	O
+’d	O
+hoped	O
+she	O
+was	O
+a	O
+witch	O
+,	O
+’	O
+observed	O
+fergus	B-CHARACTER
+,	O
+while	O
+carving	O
+his	O
+inch-thick	O
+slice	O
+of	O
+bread	O
+and	O
+butter	O
+.	O
+
+# id = litbank-1361
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = ‘ nonsense , fergus !
+‘	O
+nonsense	O
+,	O
+fergus	B-CHARACTER
+!	O
+
+# id = litbank-1362
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = ‘ but you may believe it ; for jane wilson has seen her .
+‘	O
+but	O
+you	O
+may	O
+believe	O
+it	O
+;	O
+for	O
+jane	B-CHARACTER
+wilson	I-CHARACTER
+has	O
+seen	O
+her	O
+.	O
+
+# id = litbank-1363
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = she is called mrs. graham , and she is in mourning — not widow ’s weeds , but slightish mourning — and she is quite young , they say , — not above five or six and twenty , — but so reserved !
+she	O
+is	O
+called	O
+mrs.	B-CHARACTER
+graham	I-CHARACTER
+,	O
+and	O
+she	O
+is	O
+in	O
+mourning	O
+—	O
+not	O
+widow	O
+’s	O
+weeds	O
+,	O
+but	O
+slightish	O
+mourning	O
+—	O
+and	O
+she	O
+is	O
+quite	O
+young	O
+,	O
+they	O
+say	O
+,	O
+—	O
+not	O
+above	O
+five	O
+or	O
+six	O
+and	O
+twenty	O
+,	O
+—	O
+but	O
+so	O
+reserved	O
+!	O
+
+# id = litbank-1364
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = they tried all they could to find out who she was and where she came from , and , all about her , but neither mrs. wilson , with her pertinacious and impertinent home-thrusts , nor miss wilson , with her skilful manoeuvring , could manage to elicit a single satisfactory answer , or even a casual remark , or chance expression calculated to allay their curiosity , or throw the faintest ray of light upon her history , circumstances , or connections .
+they	O
+tried	O
+all	O
+they	O
+could	O
+to	O
+find	O
+out	O
+who	O
+she	O
+was	O
+and	O
+where	O
+she	O
+came	O
+from	O
+,	O
+and	O
+,	O
+all	O
+about	O
+her	O
+,	O
+but	O
+neither	O
+mrs.	B-CHARACTER
+wilson	I-CHARACTER
+,	O
+with	O
+her	O
+pertinacious	O
+and	O
+impertinent	O
+home-thrusts	O
+,	O
+nor	O
+miss	B-CHARACTER
+wilson	I-CHARACTER
+,	O
+with	O
+her	O
+skilful	O
+manoeuvring	O
+,	O
+could	O
+manage	O
+to	O
+elicit	O
+a	O
+single	O
+satisfactory	O
+answer	O
+,	O
+or	O
+even	O
+a	O
+casual	O
+remark	O
+,	O
+or	O
+chance	O
+expression	O
+calculated	O
+to	O
+allay	O
+their	O
+curiosity	O
+,	O
+or	O
+throw	O
+the	O
+faintest	O
+ray	O
+of	O
+light	O
+upon	O
+her	O
+history	O
+,	O
+circumstances	O
+,	O
+or	O
+connections	O
+.	O
+
+# id = litbank-1365
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = but eliza millward says her father intends to call upon her soon , to offer some pastoral advice , which he fears she needs , as , though she is known to have entered the neighbourhood early last week , she did not make her appearance at church on sunday ; and she — eliza , that is — will beg to accompany him , and is sure she can succeed in wheedling something out of her — you know , gilbert , she can do anything .
+but	O
+eliza	B-CHARACTER
+millward	I-CHARACTER
+says	O
+her	O
+father	O
+intends	O
+to	O
+call	O
+upon	O
+her	O
+soon	O
+,	O
+to	O
+offer	O
+some	O
+pastoral	O
+advice	O
+,	O
+which	O
+he	O
+fears	O
+she	O
+needs	O
+,	O
+as	O
+,	O
+though	O
+she	O
+is	O
+known	O
+to	O
+have	O
+entered	O
+the	O
+neighbourhood	O
+early	O
+last	O
+week	O
+,	O
+she	O
+did	O
+not	O
+make	O
+her	O
+appearance	O
+at	O
+church	O
+on	O
+sunday	O
+;	O
+and	O
+she	O
+—	O
+eliza	B-CHARACTER
+,	O
+that	O
+is	O
+—	O
+will	O
+beg	O
+to	O
+accompany	O
+him	O
+,	O
+and	O
+is	O
+sure	O
+she	O
+can	O
+succeed	O
+in	O
+wheedling	O
+something	O
+out	O
+of	O
+her	O
+—	O
+you	O
+know	O
+,	O
+gilbert	B-CHARACTER
+,	O
+she	O
+can	O
+do	O
+anything	O
+.	O
+
+# id = litbank-1366
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = ‘ and pray , be quick about it ; and mind you bring me word how much sugar she puts in her tea , and what sort of caps and aprons she wears , and all about it ; for i do n’t know how i can live till i know , ’ said fergus , very gravely .
+‘	O
+and	O
+pray	O
+,	O
+be	O
+quick	O
+about	O
+it	O
+;	O
+and	O
+mind	O
+you	O
+bring	O
+me	O
+word	O
+how	O
+much	O
+sugar	O
+she	O
+puts	O
+in	O
+her	O
+tea	O
+,	O
+and	O
+what	O
+sort	O
+of	O
+caps	O
+and	O
+aprons	O
+she	O
+wears	O
+,	O
+and	O
+all	O
+about	O
+it	O
+;	O
+for	O
+i	O
+do	O
+n’t	O
+know	O
+how	O
+i	O
+can	O
+live	O
+till	O
+i	O
+know	O
+,	O
+’	O
+said	O
+fergus	B-CHARACTER
+,	O
+very	O
+gravely	O
+.	O
+
+# id = litbank-1346
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = chapter i you must go back with me to the autumn of 1827 .
+chapter	O
+i	O
+you	O
+must	O
+go	O
+back	O
+with	O
+me	O
+to	O
+the	O
+autumn	O
+of	O
+1827	O
+.	O
+
+# id = litbank-1347
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = my father , as you know , was a sort of gentleman farmer in — shire ; and i , by his express desire , succeeded him in the same quiet occupation , not very willingly , for ambition urged me to higher aims , and self-conceit assured me that , in disregarding its voice , i was burying my talent in the earth , and hiding my light under a bushel .
+my	O
+father	O
+,	O
+as	O
+you	O
+know	O
+,	O
+was	O
+a	O
+sort	O
+of	O
+gentleman	O
+farmer	O
+in	O
+—	O
+shire	O
+;	O
+and	O
+i	O
+,	O
+by	O
+his	O
+express	O
+desire	O
+,	O
+succeeded	O
+him	O
+in	O
+the	O
+same	O
+quiet	O
+occupation	O
+,	O
+not	O
+very	O
+willingly	O
+,	O
+for	O
+ambition	O
+urged	O
+me	O
+to	O
+higher	O
+aims	O
+,	O
+and	O
+self-conceit	O
+assured	O
+me	O
+that	O
+,	O
+in	O
+disregarding	O
+its	O
+voice	O
+,	O
+i	O
+was	O
+burying	O
+my	O
+talent	O
+in	O
+the	O
+earth	O
+,	O
+and	O
+hiding	O
+my	O
+light	O
+under	O
+a	O
+bushel	O
+.	O
+
+# id = litbank-1348
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = my mother had done her utmost to persuade me that i was capable of great achievements ; but my father , who thought ambition was the surest road to ruin , and change but another word for destruction , would listen to no scheme for bettering either my own condition , or that of my fellow mortals .
+my	O
+mother	O
+had	O
+done	O
+her	O
+utmost	O
+to	O
+persuade	O
+me	O
+that	O
+i	O
+was	O
+capable	O
+of	O
+great	O
+achievements	O
+;	O
+but	O
+my	O
+father	O
+,	O
+who	O
+thought	O
+ambition	O
+was	O
+the	O
+surest	O
+road	O
+to	O
+ruin	O
+,	O
+and	O
+change	O
+but	O
+another	O
+word	O
+for	O
+destruction	O
+,	O
+would	O
+listen	O
+to	O
+no	O
+scheme	O
+for	O
+bettering	O
+either	O
+my	O
+own	O
+condition	O
+,	O
+or	O
+that	O
+of	O
+my	O
+fellow	O
+mortals	O
+.	O
+
+# id = litbank-1349
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = — an honest and industrious farmer is one of the most useful members of society ; and if i devote my talents to the cultivation of my farm , and the improvement of agriculture in general , i shall thereby benefit , not only my own immediate connections and dependants , but , in some degree , mankind at large : — hence i shall not have lived in vain . ’
+—	O
+an	O
+honest	O
+and	O
+industrious	O
+farmer	O
+is	O
+one	O
+of	O
+the	O
+most	O
+useful	O
+members	O
+of	O
+society	O
+;	O
+and	O
+if	O
+i	O
+devote	O
+my	O
+talents	O
+to	O
+the	O
+cultivation	O
+of	O
+my	O
+farm	O
+,	O
+and	O
+the	O
+improvement	O
+of	O
+agriculture	O
+in	O
+general	O
+,	O
+i	O
+shall	O
+thereby	O
+benefit	O
+,	O
+not	O
+only	O
+my	O
+own	O
+immediate	O
+connections	O
+and	O
+dependants	O
+,	O
+but	O
+,	O
+in	O
+some	O
+degree	O
+,	O
+mankind	O
+at	O
+large	O
+:	O
+—	O
+hence	O
+i	O
+shall	O
+not	O
+have	O
+lived	O
+in	O
+vain	O
+.	O
+’	O
+
+# id = litbank-1350
+# source = LitBank
+# book = The Tenant of Wildfell Hall
+# book_id = 969_the_tenant_of_wildfell_hall
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/969_the_tenant_of_wildfell_hall_brat.tsv
+# text = with such reflections as these i was endeavouring to console myself , as i plodded home from the fields , one cold , damp , cloudy evening towards the close of october .
+with	O
+such	O
+reflections	O
+as	O
+these	O
+i	O
+was	O
+endeavouring	O
+to	O
+console	O
+myself	O
+,	O
+as	O
+i	O
+plodded	O
+home	O
+from	O
+the	O
+fields	O
+,	O
+one	O
+cold	O
+,	O
+damp	O
+,	O
+cloudy	O
+evening	O
+towards	O
+the	O
+close	O
+of	O
+october	O
+.	O
+

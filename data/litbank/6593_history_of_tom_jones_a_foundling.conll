@@ -1,0 +1,471 @@
+# id = litbank-2290
+# source = LitBank
+# book = The History of Tom Jones, a Foundling
+# book_id = 6593_history_of_tom_jones_a_foundling
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6593_history_of_tom_jones_a_foundling_brat.tsv
+# text = a short description of squire allworthy , and a fuller account of miss bridget allworthy , his sister .
+a	O
+short	O
+description	O
+of	O
+squire	O
+allworthy	B-CHARACTER
+,	O
+and	O
+a	O
+fuller	O
+account	O
+of	O
+miss	B-CHARACTER
+bridget	I-CHARACTER
+allworthy	I-CHARACTER
+,	O
+his	O
+sister	O
+.	O
+
+# id = litbank-2291
+# source = LitBank
+# book = The History of Tom Jones, a Foundling
+# book_id = 6593_history_of_tom_jones_a_foundling
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6593_history_of_tom_jones_a_foundling_brat.tsv
+# text = in that part of the western division of this kingdom which is commonly called somersetshire , there lately lived , and perhaps lives still , a gentleman whose name was allworthy , and who might well be called the favourite of both nature and fortune ; for both of these seem to have contended which should bless and enrich him most .
+in	O
+that	O
+part	O
+of	O
+the	O
+western	O
+division	O
+of	O
+this	O
+kingdom	O
+which	O
+is	O
+commonly	O
+called	O
+somersetshire	O
+,	O
+there	O
+lately	O
+lived	O
+,	O
+and	O
+perhaps	O
+lives	O
+still	O
+,	O
+a	O
+gentleman	O
+whose	O
+name	O
+was	O
+allworthy	B-CHARACTER
+,	O
+and	O
+who	O
+might	O
+well	O
+be	O
+called	O
+the	O
+favourite	O
+of	O
+both	O
+nature	O
+and	O
+fortune	O
+;	O
+for	O
+both	O
+of	O
+these	O
+seem	O
+to	O
+have	O
+contended	O
+which	O
+should	O
+bless	O
+and	O
+enrich	O
+him	O
+most	O
+.	O
+
+# id = litbank-2292
+# source = LitBank
+# book = The History of Tom Jones, a Foundling
+# book_id = 6593_history_of_tom_jones_a_foundling
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6593_history_of_tom_jones_a_foundling_brat.tsv
+# text = miss bridget allworthy ( for that was the name of this lady ) very rightly conceived the charms of person in a woman to be no better than snares for herself , as well as for others ; and yet so discreet was she in her conduct , that her prudence was as much on the guard as if she had all the snares to apprehend which were ever laid for her whole sex .
+miss	B-CHARACTER
+bridget	I-CHARACTER
+allworthy	I-CHARACTER
+(	O
+for	O
+that	O
+was	O
+the	O
+name	O
+of	O
+this	O
+lady	O
+)	O
+very	O
+rightly	O
+conceived	O
+the	O
+charms	O
+of	O
+person	O
+in	O
+a	O
+woman	O
+to	O
+be	O
+no	O
+better	O
+than	O
+snares	O
+for	O
+herself	O
+,	O
+as	O
+well	O
+as	O
+for	O
+others	O
+;	O
+and	O
+yet	O
+so	O
+discreet	O
+was	O
+she	O
+in	O
+her	O
+conduct	O
+,	O
+that	O
+her	O
+prudence	O
+was	O
+as	O
+much	O
+on	O
+the	O
+guard	O
+as	O
+if	O
+she	O
+had	O
+all	O
+the	O
+snares	O
+to	O
+apprehend	O
+which	O
+were	O
+ever	O
+laid	O
+for	O
+her	O
+whole	O
+sex	O
+.	O
+
+# id = litbank-2293
+# source = LitBank
+# book = The History of Tom Jones, a Foundling
+# book_id = 6593_history_of_tom_jones_a_foundling
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6593_history_of_tom_jones_a_foundling_brat.tsv
+# text = an odd accident which befel mr allworthy at his return home .
+an	O
+odd	O
+accident	O
+which	O
+befel	O
+mr	B-CHARACTER
+allworthy	I-CHARACTER
+at	O
+his	O
+return	O
+home	O
+.	O
+
+# id = litbank-2294
+# source = LitBank
+# book = The History of Tom Jones, a Foundling
+# book_id = 6593_history_of_tom_jones_a_foundling
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6593_history_of_tom_jones_a_foundling_brat.tsv
+# text = the decent behaviour of mrs deborah wilkins , with some proper animadversions on bastards .
+the	O
+decent	O
+behaviour	O
+of	O
+mrs	B-CHARACTER
+deborah	I-CHARACTER
+wilkins	I-CHARACTER
+,	O
+with	O
+some	O
+proper	O
+animadversions	O
+on	O
+bastards	O
+.	O
+
+# id = litbank-2295
+# source = LitBank
+# book = The History of Tom Jones, a Foundling
+# book_id = 6593_history_of_tom_jones_a_foundling
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6593_history_of_tom_jones_a_foundling_brat.tsv
+# text = i have told my reader , in the preceding chapter , that mr allworthy inherited a large fortune ; that he had a good heart , and no family .
+i	O
+have	O
+told	O
+my	O
+reader	O
+,	O
+in	O
+the	O
+preceding	O
+chapter	O
+,	O
+that	O
+mr	B-CHARACTER
+allworthy	I-CHARACTER
+inherited	O
+a	O
+large	O
+fortune	O
+;	O
+that	O
+he	O
+had	O
+a	O
+good	O
+heart	O
+,	O
+and	O
+no	O
+family	O
+.	O
+
+# id = litbank-2285
+# source = LitBank
+# book = The History of Tom Jones, a Foundling
+# book_id = 6593_history_of_tom_jones_a_foundling
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/6593_history_of_tom_jones_a_foundling_brat.tsv
+# text = book i. containing as much of the birth of the foundling as is necessary or proper to acquaint the reader with in the beginning of this history .
+book	O
+i.	O
+containing	O
+as	O
+much	O
+of	O
+the	O
+birth	O
+of	O
+the	O
+foundling	O
+as	O
+is	O
+necessary	O
+or	O
+proper	O
+to	O
+acquaint	O
+the	O
+reader	O
+with	O
+in	O
+the	O
+beginning	O
+of	O
+this	O
+history	O
+.	O
+
+# id = litbank-2286
+# source = LitBank
+# book = The History of Tom Jones, a Foundling
+# book_id = 6593_history_of_tom_jones_a_foundling
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/6593_history_of_tom_jones_a_foundling_brat.tsv
+# text = the introduction to the work , or bill of fare to the feast .
+the	O
+introduction	O
+to	O
+the	O
+work	O
+,	O
+or	O
+bill	O
+of	O
+fare	O
+to	O
+the	O
+feast	O
+.	O
+
+# id = litbank-2287
+# source = LitBank
+# book = The History of Tom Jones, a Foundling
+# book_id = 6593_history_of_tom_jones_a_foundling
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/6593_history_of_tom_jones_a_foundling_brat.tsv
+# text = an author ought to consider himself , not as a gentleman who gives a private or eleemosynary treat , but rather as one who keeps a public ordinary , at which all persons are welcome for their money .
+an	O
+author	O
+ought	O
+to	O
+consider	O
+himself	O
+,	O
+not	O
+as	O
+a	O
+gentleman	O
+who	O
+gives	O
+a	O
+private	O
+or	O
+eleemosynary	O
+treat	O
+,	O
+but	O
+rather	O
+as	O
+one	O
+who	O
+keeps	O
+a	O
+public	O
+ordinary	O
+,	O
+at	O
+which	O
+all	O
+persons	O
+are	O
+welcome	O
+for	O
+their	O
+money	O
+.	O
+
+# id = litbank-2288
+# source = LitBank
+# book = The History of Tom Jones, a Foundling
+# book_id = 6593_history_of_tom_jones_a_foundling
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/6593_history_of_tom_jones_a_foundling_brat.tsv
+# text = in the former case , it is well known that the entertainer provides what fare he pleases ; and though this should be very indifferent , and utterly disagreeable to the taste of his company , they must not find any fault ; nay , on the contrary , good breeding forces them outwardly to approve and to commend whatever is set before them .
+in	O
+the	O
+former	O
+case	O
+,	O
+it	O
+is	O
+well	O
+known	O
+that	O
+the	O
+entertainer	O
+provides	O
+what	O
+fare	O
+he	O
+pleases	O
+;	O
+and	O
+though	O
+this	O
+should	O
+be	O
+very	O
+indifferent	O
+,	O
+and	O
+utterly	O
+disagreeable	O
+to	O
+the	O
+taste	O
+of	O
+his	O
+company	O
+,	O
+they	O
+must	O
+not	O
+find	O
+any	O
+fault	O
+;	O
+nay	O
+,	O
+on	O
+the	O
+contrary	O
+,	O
+good	O
+breeding	O
+forces	O
+them	O
+outwardly	O
+to	O
+approve	O
+and	O
+to	O
+commend	O
+whatever	O
+is	O
+set	O
+before	O
+them	O
+.	O
+
+# id = litbank-2289
+# source = LitBank
+# book = The History of Tom Jones, a Foundling
+# book_id = 6593_history_of_tom_jones_a_foundling
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/6593_history_of_tom_jones_a_foundling_brat.tsv
+# text = now the contrary of this happens to the master of an ordinary .
+now	O
+the	O
+contrary	O
+of	O
+this	O
+happens	O
+to	O
+the	O
+master	O
+of	O
+an	O
+ordinary	O
+.	O
+

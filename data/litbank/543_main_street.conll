@@ -1,0 +1,610 @@
+# id = litbank-1114
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = it is carol milford , fleeing for an hour from blodgett college .
+it	O
+is	O
+carol	B-CHARACTER
+milford	I-CHARACTER
+,	O
+fleeing	O
+for	O
+an	O
+hour	O
+from	O
+blodgett	O
+college	O
+.	O
+
+# id = litbank-1115
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = so the four years which carol spent at blodgett were not altogether wasted .
+so	O
+the	O
+four	O
+years	O
+which	O
+carol	B-CHARACTER
+spent	O
+at	O
+blodgett	O
+were	O
+not	O
+altogether	O
+wasted	O
+.	O
+
+# id = litbank-1116
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = for all her enthusiasms , for all the fondness and the “ crushes ” which she inspired , carol ’s acquaintances were shy of her .
+for	O
+all	O
+her	O
+enthusiasms	O
+,	O
+for	O
+all	O
+the	O
+fondness	O
+and	O
+the	O
+“	O
+crushes	O
+”	O
+which	O
+she	O
+inspired	O
+,	O
+carol	B-CHARACTER
+’s	O
+acquaintances	O
+were	O
+shy	O
+of	O
+her	O
+.	O
+
+# id = litbank-1117
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = every man fell in love then with religion and carol .
+every	O
+man	O
+fell	O
+in	O
+love	O
+then	O
+with	O
+religion	O
+and	O
+carol	B-CHARACTER
+.	O
+
+# id = litbank-1118
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = as for carol , she was an orphan ; her only near relative was a vanilla-flavored sister married to an optician in st. paul .
+as	O
+for	O
+carol	B-CHARACTER
+,	O
+she	O
+was	O
+an	O
+orphan	O
+;	O
+her	O
+only	O
+near	O
+relative	O
+was	O
+a	O
+vanilla-flavored	O
+sister	O
+married	O
+to	O
+an	O
+optician	O
+in	O
+st.	O
+paul	O
+.	O
+
+# id = litbank-1119
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = neither sort tempted carol .
+neither	O
+sort	O
+tempted	O
+carol	B-CHARACTER
+.	O
+
+# id = litbank-1120
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = at various times during senior year carol finally decided upon studying law , writing motion-picture scenarios , professional nursing , and marrying an unidentified hero .
+at	O
+various	O
+times	O
+during	O
+senior	O
+year	O
+carol	B-CHARACTER
+finally	O
+decided	O
+upon	O
+studying	O
+law	O
+,	O
+writing	O
+motion-picture	O
+scenarios	O
+,	O
+professional	O
+nursing	O
+,	O
+and	O
+marrying	O
+an	O
+unidentified	O
+hero	O
+.	O
+
+# id = litbank-1121
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = trailing at the end of the line carol was indignant at the prodding curiosity of the others , their manner of staring at the poor as at a zoo .
+trailing	O
+at	O
+the	O
+end	O
+of	O
+the	O
+line	O
+carol	B-CHARACTER
+was	O
+indignant	O
+at	O
+the	O
+prodding	O
+curiosity	O
+of	O
+the	O
+others	O
+,	O
+their	O
+manner	O
+of	O
+staring	O
+at	O
+the	O
+poor	O
+as	O
+at	O
+a	O
+zoo	O
+.	O
+
+# id = litbank-1122
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = a classmate named stewart snyder , a competent bulky young man in a gray flannel shirt , a rusty black bow tie , and the green-and-purple class cap , grumbled to her as they walked behind the others in the muck of the south st. paul stockyards , “ these college chumps make me tired .
+a	O
+classmate	O
+named	O
+stewart	B-CHARACTER
+snyder	I-CHARACTER
+,	O
+a	O
+competent	O
+bulky	O
+young	O
+man	O
+in	O
+a	O
+gray	O
+flannel	O
+shirt	O
+,	O
+a	O
+rusty	O
+black	O
+bow	O
+tie	O
+,	O
+and	O
+the	O
+green-and-purple	O
+class	O
+cap	O
+,	O
+grumbled	O
+to	O
+her	O
+as	O
+they	O
+walked	O
+behind	O
+the	O
+others	O
+in	O
+the	O
+muck	O
+of	O
+the	O
+south	O
+st.	O
+paul	O
+stockyards	O
+,	O
+“	O
+these	O
+college	O
+chumps	O
+make	O
+me	O
+tired	O
+.	O
+
+# id = litbank-1123
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = “ i just love common workmen , ” glowed carol .
+“	O
+i	O
+just	O
+love	O
+common	O
+workmen	O
+,	O
+”	O
+glowed	O
+carol	B-CHARACTER
+.	O
+
+# id = litbank-1124
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = carol ’s brows lifted in the astonishment of emotion , in a glory of abasement .
+carol	B-CHARACTER
+’s	O
+brows	O
+lifted	O
+in	O
+the	O
+astonishment	O
+of	O
+emotion	O
+,	O
+in	O
+a	O
+glory	O
+of	O
+abasement	O
+.	O
+
+# id = litbank-1125
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = stewart snyder peered at her .
+stewart	B-CHARACTER
+snyder	I-CHARACTER
+peered	O
+at	O
+her	O
+.	O
+
+# id = litbank-1126
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = most of these darn co-eds ---- say , carol , you could do a lot for people . ”
+most	O
+of	O
+these	O
+darn	O
+co-eds	O
+----	O
+say	O
+,	O
+carol	B-CHARACTER
+,	O
+you	O
+could	O
+do	O
+a	O
+lot	O
+for	O
+people	O
+.	O
+”	O
+
+# id = litbank-1127
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = stewart was not interesting .
+stewart	B-CHARACTER
+was	O
+not	O
+interesting	O
+.	O
+
+# id = litbank-1128
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = it was the only trace of carol in the room .
+it	O
+was	O
+the	O
+only	O
+trace	O
+of	O
+carol	B-CHARACTER
+in	O
+the	O
+room	O
+.	O
+
+# id = litbank-1109
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = chapter i i on a hill by the mississippi where chippewas camped two generations ago , a girl stood in relief against the cornflower blue of northern sky .
+chapter	O
+i	O
+i	O
+on	O
+a	O
+hill	O
+by	O
+the	O
+mississippi	O
+where	O
+chippewas	O
+camped	O
+two	O
+generations	O
+ago	O
+,	O
+a	O
+girl	O
+stood	O
+in	O
+relief	O
+against	O
+the	O
+cornflower	O
+blue	O
+of	O
+northern	O
+sky	O
+.	O
+
+# id = litbank-1110
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = she saw no indians now ; she saw flour-mills and the blinking windows of skyscrapers in minneapolis and st. paul .
+she	O
+saw	O
+no	O
+indians	O
+now	O
+;	O
+she	O
+saw	O
+flour-mills	O
+and	O
+the	O
+blinking	O
+windows	O
+of	O
+skyscrapers	O
+in	O
+minneapolis	O
+and	O
+st.	O
+paul	O
+.	O
+
+# id = litbank-1111
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = nor was she thinking of squaws and portages , and the yankee fur-traders whose shadows were all about her .
+nor	O
+was	O
+she	O
+thinking	O
+of	O
+squaws	O
+and	O
+portages	O
+,	O
+and	O
+the	O
+yankee	O
+fur-traders	O
+whose	O
+shadows	O
+were	O
+all	O
+about	O
+her	O
+.	O
+
+# id = litbank-1112
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = she was meditating upon walnut fudge , the plays of brieux , the reasons why heels run over , and the fact that the chemistry instructor had stared at the new coiffure which concealed her ears .
+she	O
+was	O
+meditating	O
+upon	O
+walnut	O
+fudge	O
+,	O
+the	O
+plays	O
+of	O
+brieux	O
+,	O
+the	O
+reasons	O
+why	O
+heels	O
+run	O
+over	O
+,	O
+and	O
+the	O
+fact	O
+that	O
+the	O
+chemistry	O
+instructor	O
+had	O
+stared	O
+at	O
+the	O
+new	O
+coiffure	O
+which	O
+concealed	O
+her	O
+ears	O
+.	O
+
+# id = litbank-1113
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = a breeze which had crossed a thousand miles of wheat-lands bellied her taffeta skirt in a line so graceful , so full of animation and moving beauty , that the heart of a chance watcher on the lower road tightened to wistfulness over her quality of suspended freedom .
+a	O
+breeze	O
+which	O
+had	O
+crossed	O
+a	O
+thousand	O
+miles	O
+of	O
+wheat-lands	O
+bellied	O
+her	O
+taffeta	O
+skirt	O
+in	O
+a	O
+line	O
+so	O
+graceful	O
+,	O
+so	O
+full	O
+of	O
+animation	O
+and	O
+moving	O
+beauty	O
+,	O
+that	O
+the	O
+heart	O
+of	O
+a	O
+chance	O
+watcher	O
+on	O
+the	O
+lower	O
+road	O
+tightened	O
+to	O
+wistfulness	O
+over	O
+her	O
+quality	O
+of	O
+suspended	O
+freedom	O
+.	O
+

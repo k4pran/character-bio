@@ -1,0 +1,1891 @@
+# id = litbank-0428
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = chapter 1 sir walter elliot , of kellynch hall , in somersetshire , was a man who , for his own amusement , never took up any book but the baronetage ; there he found occupation for an idle hour , and consolation in a distressed one ; there his faculties were roused into admiration and respect , by contemplating the limited remnant of the earliest patents ; there any unwelcome sensations , arising from domestic affairs changed naturally into pity and contempt as he turned over the almost endless creations of the last century ; and there , if every other leaf were powerless , he could read his own history with an interest which never failed .
+chapter	O
+1	O
+sir	B-CHARACTER
+walter	I-CHARACTER
+elliot	I-CHARACTER
+,	O
+of	O
+kellynch	O
+hall	O
+,	O
+in	O
+somersetshire	O
+,	O
+was	O
+a	O
+man	O
+who	O
+,	O
+for	O
+his	O
+own	O
+amusement	O
+,	O
+never	O
+took	O
+up	O
+any	O
+book	O
+but	O
+the	O
+baronetage	O
+;	O
+there	O
+he	O
+found	O
+occupation	O
+for	O
+an	O
+idle	O
+hour	O
+,	O
+and	O
+consolation	O
+in	O
+a	O
+distressed	O
+one	O
+;	O
+there	O
+his	O
+faculties	O
+were	O
+roused	O
+into	O
+admiration	O
+and	O
+respect	O
+,	O
+by	O
+contemplating	O
+the	O
+limited	O
+remnant	O
+of	O
+the	O
+earliest	O
+patents	O
+;	O
+there	O
+any	O
+unwelcome	O
+sensations	O
+,	O
+arising	O
+from	O
+domestic	O
+affairs	O
+changed	O
+naturally	O
+into	O
+pity	O
+and	O
+contempt	O
+as	O
+he	O
+turned	O
+over	O
+the	O
+almost	O
+endless	O
+creations	O
+of	O
+the	O
+last	O
+century	O
+;	O
+and	O
+there	O
+,	O
+if	O
+every	O
+other	O
+leaf	O
+were	O
+powerless	O
+,	O
+he	O
+could	O
+read	O
+his	O
+own	O
+history	O
+with	O
+an	O
+interest	O
+which	O
+never	O
+failed	O
+.	O
+
+# id = litbank-0429
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = this was the page at which the favourite volume always opened : " elliot of kellynch hall .
+this	O
+was	O
+the	O
+page	O
+at	O
+which	O
+the	O
+favourite	O
+volume	O
+always	O
+opened	O
+:	O
+"	O
+elliot	B-CHARACTER
+of	O
+kellynch	O
+hall	O
+.	O
+
+# id = litbank-0430
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = " walter elliot , born march 1 , 1760 , married , july 15 , 1784 , elizabeth , daughter of james stevenson , esq. of south park , in the county of gloucester , by which lady ( who died 1800 ) he has issue elizabeth , born june 1 , 1785 ; anne , born august 9 , 1787 ; a still-born son , november 5 , 1789 ; mary , born november 20 , 1791 . "
+"	O
+walter	B-CHARACTER
+elliot	I-CHARACTER
+,	O
+born	O
+march	O
+1	O
+,	O
+1760	O
+,	O
+married	O
+,	O
+july	O
+15	O
+,	O
+1784	O
+,	O
+elizabeth	B-CHARACTER
+,	O
+daughter	O
+of	O
+james	B-CHARACTER
+stevenson	I-CHARACTER
+,	O
+esq.	O
+of	O
+south	O
+park	O
+,	O
+in	O
+the	O
+county	O
+of	O
+gloucester	O
+,	O
+by	O
+which	O
+lady	O
+(	O
+who	O
+died	O
+1800	O
+)	O
+he	O
+has	O
+issue	O
+elizabeth	B-CHARACTER
+,	O
+born	O
+june	O
+1	O
+,	O
+1785	O
+;	O
+anne	B-CHARACTER
+,	O
+born	O
+august	O
+9	O
+,	O
+1787	O
+;	O
+a	O
+still-born	O
+son	O
+,	O
+november	O
+5	O
+,	O
+1789	O
+;	O
+mary	B-CHARACTER
+,	O
+born	O
+november	O
+20	O
+,	O
+1791	O
+.	O
+"	O
+
+# id = litbank-0431
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = precisely such had the paragraph originally stood from the printer 's hands ; but sir walter had improved it by adding , for the information of himself and his family , these words , after the date of mary 's birth -- " married , december 16 , 1810 , charles , son and heir of charles musgrove , esq. of uppercross , in the county of somerset , " and by inserting most accurately the day of the month on which he had lost his wife .
+precisely	O
+such	O
+had	O
+the	O
+paragraph	O
+originally	O
+stood	O
+from	O
+the	O
+printer	O
+'s	O
+hands	O
+;	O
+but	O
+sir	B-CHARACTER
+walter	I-CHARACTER
+had	O
+improved	O
+it	O
+by	O
+adding	O
+,	O
+for	O
+the	O
+information	O
+of	O
+himself	O
+and	O
+his	O
+family	O
+,	O
+these	O
+words	O
+,	O
+after	O
+the	O
+date	O
+of	O
+mary	B-CHARACTER
+'s	O
+birth	O
+--	O
+"	O
+married	O
+,	O
+december	O
+16	O
+,	O
+1810	O
+,	O
+charles	B-CHARACTER
+,	O
+son	O
+and	O
+heir	O
+of	O
+charles	B-CHARACTER
+musgrove	I-CHARACTER
+,	O
+esq.	O
+of	O
+uppercross	O
+,	O
+in	O
+the	O
+county	O
+of	O
+somerset	O
+,	O
+"	O
+and	O
+by	O
+inserting	O
+most	O
+accurately	O
+the	O
+day	O
+of	O
+the	O
+month	O
+on	O
+which	O
+he	O
+had	O
+lost	O
+his	O
+wife	O
+.	O
+
+# id = litbank-0432
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = then followed the history and rise of the ancient and respectable family , in the usual terms ; how it had been first settled in cheshire ; how mentioned in dugdale , serving the office of high sheriff , representing a borough in three successive parliaments , exertions of loyalty , and dignity of baronet , in the first year of charles ii , with all the marys and elizabeths they had married ; forming altogether two handsome duodecimo pages , and concluding with the arms and motto : -- " principal seat , kellynch hall , in the county of somerset , " and sir walter 's handwriting again in this finale : -- " heir presumptive , william walter elliot , esq. , great grandson of the second sir walter . "
+then	O
+followed	O
+the	O
+history	O
+and	O
+rise	O
+of	O
+the	O
+ancient	O
+and	O
+respectable	O
+family	O
+,	O
+in	O
+the	O
+usual	O
+terms	O
+;	O
+how	O
+it	O
+had	O
+been	O
+first	O
+settled	O
+in	O
+cheshire	O
+;	O
+how	O
+mentioned	O
+in	O
+dugdale	O
+,	O
+serving	O
+the	O
+office	O
+of	O
+high	O
+sheriff	O
+,	O
+representing	O
+a	O
+borough	O
+in	O
+three	O
+successive	O
+parliaments	O
+,	O
+exertions	O
+of	O
+loyalty	O
+,	O
+and	O
+dignity	O
+of	O
+baronet	O
+,	O
+in	O
+the	O
+first	O
+year	O
+of	O
+charles	O
+ii	O
+,	O
+with	O
+all	O
+the	O
+marys	O
+and	O
+elizabeths	O
+they	O
+had	O
+married	O
+;	O
+forming	O
+altogether	O
+two	O
+handsome	O
+duodecimo	O
+pages	O
+,	O
+and	O
+concluding	O
+with	O
+the	O
+arms	O
+and	O
+motto	O
+:	O
+--	O
+"	O
+principal	O
+seat	O
+,	O
+kellynch	O
+hall	O
+,	O
+in	O
+the	O
+county	O
+of	O
+somerset	O
+,	O
+"	O
+and	O
+sir	B-CHARACTER
+walter	I-CHARACTER
+'s	O
+handwriting	O
+again	O
+in	O
+this	O
+finale	O
+:	O
+--	O
+"	O
+heir	O
+presumptive	O
+,	O
+william	B-CHARACTER
+walter	I-CHARACTER
+elliot	I-CHARACTER
+,	O
+esq.	O
+,	O
+great	O
+grandson	O
+of	O
+the	O
+second	O
+sir	B-CHARACTER
+walter	I-CHARACTER
+.	O
+"	O
+
+# id = litbank-0433
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = vanity was the beginning and the end of sir walter elliot 's character ; vanity of person and of situation .
+vanity	O
+was	O
+the	O
+beginning	O
+and	O
+the	O
+end	O
+of	O
+sir	B-CHARACTER
+walter	I-CHARACTER
+elliot	I-CHARACTER
+'s	O
+character	O
+;	O
+vanity	O
+of	O
+person	O
+and	O
+of	O
+situation	O
+.	O
+
+# id = litbank-0436
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = he considered the blessing of beauty as inferior only to the blessing of a baronetcy ; and the sir walter elliot , who united these gifts , was the constant object of his warmest respect and devotion .
+he	O
+considered	O
+the	O
+blessing	O
+of	O
+beauty	O
+as	O
+inferior	O
+only	O
+to	O
+the	O
+blessing	O
+of	O
+a	O
+baronetcy	O
+;	O
+and	O
+the	O
+sir	O
+walter	B-CHARACTER
+elliot	I-CHARACTER
+,	O
+who	O
+united	O
+these	O
+gifts	O
+,	O
+was	O
+the	O
+constant	O
+object	O
+of	O
+his	O
+warmest	O
+respect	O
+and	O
+devotion	O
+.	O
+
+# id = litbank-0438
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = lady elliot had been an excellent woman , sensible and amiable ; whose judgement and conduct , if they might be pardoned the youthful infatuation which made her lady elliot , had never required indulgence afterwards .
+lady	B-CHARACTER
+elliot	I-CHARACTER
+had	O
+been	O
+an	O
+excellent	O
+woman	O
+,	O
+sensible	O
+and	O
+amiable	O
+;	O
+whose	O
+judgement	O
+and	O
+conduct	O
+,	O
+if	O
+they	O
+might	O
+be	O
+pardoned	O
+the	O
+youthful	O
+infatuation	O
+which	O
+made	O
+her	O
+lady	B-CHARACTER
+elliot	I-CHARACTER
+,	O
+had	O
+never	O
+required	O
+indulgence	O
+afterwards	O
+.	O
+
+# id = litbank-0441
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = she had , however , one very intimate friend , a sensible , deserving woman , who had been brought , by strong attachment to herself , to settle close by her , in the village of kellynch ; and on her kindness and advice , lady elliot mainly relied for the best help and maintenance of the good principles and instruction which she had been anxiously giving her daughters .
+she	O
+had	O
+,	O
+however	O
+,	O
+one	O
+very	O
+intimate	O
+friend	O
+,	O
+a	O
+sensible	O
+,	O
+deserving	O
+woman	O
+,	O
+who	O
+had	O
+been	O
+brought	O
+,	O
+by	O
+strong	O
+attachment	O
+to	O
+herself	O
+,	O
+to	O
+settle	O
+close	O
+by	O
+her	O
+,	O
+in	O
+the	O
+village	O
+of	O
+kellynch	O
+;	O
+and	O
+on	O
+her	O
+kindness	O
+and	O
+advice	O
+,	O
+lady	B-CHARACTER
+elliot	I-CHARACTER
+mainly	O
+relied	O
+for	O
+the	O
+best	O
+help	O
+and	O
+maintenance	O
+of	O
+the	O
+good	O
+principles	O
+and	O
+instruction	O
+which	O
+she	O
+had	O
+been	O
+anxiously	O
+giving	O
+her	O
+daughters	O
+.	O
+
+# id = litbank-0442
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = this friend , and sir walter , did not marry , whatever might have been anticipated on that head by their acquaintance .
+this	O
+friend	O
+,	O
+and	O
+sir	B-CHARACTER
+walter	I-CHARACTER
+,	O
+did	O
+not	O
+marry	O
+,	O
+whatever	O
+might	O
+have	O
+been	O
+anticipated	O
+on	O
+that	O
+head	O
+by	O
+their	O
+acquaintance	O
+.	O
+
+# id = litbank-0443
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = thirteen years had passed away since lady elliot 's death , and they were still near neighbours and intimate friends , and one remained a widower , the other a widow .
+thirteen	O
+years	O
+had	O
+passed	O
+away	O
+since	O
+lady	B-CHARACTER
+elliot	I-CHARACTER
+'s	O
+death	O
+,	O
+and	O
+they	O
+were	O
+still	O
+near	O
+neighbours	O
+and	O
+intimate	O
+friends	O
+,	O
+and	O
+one	O
+remained	O
+a	O
+widower	O
+,	O
+the	O
+other	O
+a	O
+widow	O
+.	O
+
+# id = litbank-0444
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = that lady russell , of steady age and character , and extremely well provided for , should have no thought of a second marriage , needs no apology to the public , which is rather apt to be unreasonably discontented when a woman does marry again , than when she does not ; but sir walter 's continuing in singleness requires explanation .
+that	O
+lady	B-CHARACTER
+russell	I-CHARACTER
+,	O
+of	O
+steady	O
+age	O
+and	O
+character	O
+,	O
+and	O
+extremely	O
+well	O
+provided	O
+for	O
+,	O
+should	O
+have	O
+no	O
+thought	O
+of	O
+a	O
+second	O
+marriage	O
+,	O
+needs	O
+no	O
+apology	O
+to	O
+the	O
+public	O
+,	O
+which	O
+is	O
+rather	O
+apt	O
+to	O
+be	O
+unreasonably	O
+discontented	O
+when	O
+a	O
+woman	O
+does	O
+marry	O
+again	O
+,	O
+than	O
+when	O
+she	O
+does	O
+not	O
+;	O
+but	O
+sir	B-CHARACTER
+walter	I-CHARACTER
+'s	O
+continuing	O
+in	O
+singleness	O
+requires	O
+explanation	O
+.	O
+
+# id = litbank-0445
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = be it known then , that sir walter , like a good father , ( having met with one or two private disappointments in very unreasonable applications ) , prided himself on remaining single for his dear daughters ' sake .
+be	O
+it	O
+known	O
+then	O
+,	O
+that	O
+sir	B-CHARACTER
+walter	I-CHARACTER
+,	O
+like	O
+a	O
+good	O
+father	O
+,	O
+(	O
+having	O
+met	O
+with	O
+one	O
+or	O
+two	O
+private	O
+disappointments	O
+in	O
+very	O
+unreasonable	O
+applications	O
+)	O
+,	O
+prided	O
+himself	O
+on	O
+remaining	O
+single	O
+for	O
+his	O
+dear	O
+daughters	O
+'	O
+sake	O
+.	O
+
+# id = litbank-0446
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = elizabeth had succeeded , at sixteen , to all that was possible , of her mother 's rights and consequence ; and being very handsome , and very like himself , her influence had always been great , and they had gone on together most happily .
+elizabeth	B-CHARACTER
+had	O
+succeeded	O
+,	O
+at	O
+sixteen	O
+,	O
+to	O
+all	O
+that	O
+was	O
+possible	O
+,	O
+of	O
+her	O
+mother	O
+'s	O
+rights	O
+and	O
+consequence	O
+;	O
+and	O
+being	O
+very	O
+handsome	O
+,	O
+and	O
+very	O
+like	O
+himself	O
+,	O
+her	O
+influence	O
+had	O
+always	O
+been	O
+great	O
+,	O
+and	O
+they	O
+had	O
+gone	O
+on	O
+together	O
+most	O
+happily	O
+.	O
+
+# id = litbank-0447
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = mary had acquired a little artificial importance , by becoming mrs charles musgrove ; but anne , with an elegance of mind and sweetness of character , which must have placed her high with any people of real understanding , was nobody with either father or sister ; her word had no weight , her convenience was always to give way -- she was only anne .
+mary	B-CHARACTER
+had	O
+acquired	O
+a	O
+little	O
+artificial	O
+importance	O
+,	O
+by	O
+becoming	O
+mrs	B-CHARACTER
+charles	I-CHARACTER
+musgrove	I-CHARACTER
+;	O
+but	O
+anne	B-CHARACTER
+,	O
+with	O
+an	O
+elegance	O
+of	O
+mind	O
+and	O
+sweetness	O
+of	O
+character	O
+,	O
+which	O
+must	O
+have	O
+placed	O
+her	O
+high	O
+with	O
+any	O
+people	O
+of	O
+real	O
+understanding	O
+,	O
+was	O
+nobody	O
+with	O
+either	O
+father	O
+or	O
+sister	O
+;	O
+her	O
+word	O
+had	O
+no	O
+weight	O
+,	O
+her	O
+convenience	O
+was	O
+always	O
+to	O
+give	O
+way	O
+--	O
+she	O
+was	O
+only	O
+anne	B-CHARACTER
+.	O
+
+# id = litbank-0448
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = to lady russell , indeed , she was a most dear and highly valued god-daughter , favourite , and friend .
+to	O
+lady	B-CHARACTER
+russell	I-CHARACTER
+,	O
+indeed	O
+,	O
+she	O
+was	O
+a	O
+most	O
+dear	O
+and	O
+highly	O
+valued	O
+god-daughter	O
+,	O
+favourite	O
+,	O
+and	O
+friend	O
+.	O
+
+# id = litbank-0449
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = lady russell loved them all ; but it was only in anne that she could fancy the mother to revive again .
+lady	B-CHARACTER
+russell	I-CHARACTER
+loved	O
+them	O
+all	O
+;	O
+but	O
+it	O
+was	O
+only	O
+in	O
+anne	B-CHARACTER
+that	O
+she	O
+could	O
+fancy	O
+the	O
+mother	O
+to	O
+revive	O
+again	O
+.	O
+
+# id = litbank-0450
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = a few years before , anne elliot had been a very pretty girl , but her bloom had vanished early ; and as even in its height , her father had found little to admire in her , ( so totally different were her delicate features and mild dark eyes from his own ) , there could be nothing in them , now that she was faded and thin , to excite his esteem .
+a	O
+few	O
+years	O
+before	O
+,	O
+anne	B-CHARACTER
+elliot	I-CHARACTER
+had	O
+been	O
+a	O
+very	O
+pretty	O
+girl	O
+,	O
+but	O
+her	O
+bloom	O
+had	O
+vanished	O
+early	O
+;	O
+and	O
+as	O
+even	O
+in	O
+its	O
+height	O
+,	O
+her	O
+father	O
+had	O
+found	O
+little	O
+to	O
+admire	O
+in	O
+her	O
+,	O
+(	O
+so	O
+totally	O
+different	O
+were	O
+her	O
+delicate	O
+features	O
+and	O
+mild	O
+dark	O
+eyes	O
+from	O
+his	O
+own	O
+)	O
+,	O
+there	O
+could	O
+be	O
+nothing	O
+in	O
+them	O
+,	O
+now	O
+that	O
+she	O
+was	O
+faded	O
+and	O
+thin	O
+,	O
+to	O
+excite	O
+his	O
+esteem	O
+.	O
+
+# id = litbank-0451
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = all equality of alliance must rest with elizabeth , for mary had merely connected herself with an old country family of respectability and large fortune , and had therefore given all the honour and received none : elizabeth would , one day or other , marry suitably .
+all	O
+equality	O
+of	O
+alliance	O
+must	O
+rest	O
+with	O
+elizabeth	B-CHARACTER
+,	O
+for	O
+mary	B-CHARACTER
+had	O
+merely	O
+connected	O
+herself	O
+with	O
+an	O
+old	O
+country	O
+family	O
+of	O
+respectability	O
+and	O
+large	O
+fortune	O
+,	O
+and	O
+had	O
+therefore	O
+given	O
+all	O
+the	O
+honour	O
+and	O
+received	O
+none	O
+:	O
+elizabeth	B-CHARACTER
+would	O
+,	O
+one	O
+day	O
+or	O
+other	O
+,	O
+marry	O
+suitably	O
+.	O
+
+# id = litbank-0452
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = it was so with elizabeth , still the same handsome miss elliot that she had begun to be thirteen years ago , and sir walter might be excused , therefore , in forgetting her age , or , at least , be deemed only half a fool , for thinking himself and elizabeth as blooming as ever , amidst the wreck of the good looks of everybody else ; for he could plainly see how old all the rest of his family and acquaintance were growing .
+it	O
+was	O
+so	O
+with	O
+elizabeth	B-CHARACTER
+,	O
+still	O
+the	O
+same	O
+handsome	O
+miss	B-CHARACTER
+elliot	I-CHARACTER
+that	O
+she	O
+had	O
+begun	O
+to	O
+be	O
+thirteen	O
+years	O
+ago	O
+,	O
+and	O
+sir	B-CHARACTER
+walter	I-CHARACTER
+might	O
+be	O
+excused	O
+,	O
+therefore	O
+,	O
+in	O
+forgetting	O
+her	O
+age	O
+,	O
+or	O
+,	O
+at	O
+least	O
+,	O
+be	O
+deemed	O
+only	O
+half	O
+a	O
+fool	O
+,	O
+for	O
+thinking	O
+himself	O
+and	O
+elizabeth	B-CHARACTER
+as	O
+blooming	O
+as	O
+ever	O
+,	O
+amidst	O
+the	O
+wreck	O
+of	O
+the	O
+good	O
+looks	O
+of	O
+everybody	O
+else	O
+;	O
+for	O
+he	O
+could	O
+plainly	O
+see	O
+how	O
+old	O
+all	O
+the	O
+rest	O
+of	O
+his	O
+family	O
+and	O
+acquaintance	O
+were	O
+growing	O
+.	O
+
+# id = litbank-0453
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = anne haggard , mary coarse , every face in the neighbourhood worsting , and the rapid increase of the crow 's foot about lady russell 's temples had long been a distress to him .
+anne	B-CHARACTER
+haggard	O
+,	O
+mary	B-CHARACTER
+coarse	O
+,	O
+every	O
+face	O
+in	O
+the	O
+neighbourhood	O
+worsting	O
+,	O
+and	O
+the	O
+rapid	O
+increase	O
+of	O
+the	O
+crow	O
+'s	O
+foot	O
+about	O
+lady	B-CHARACTER
+russell	I-CHARACTER
+'s	O
+temples	O
+had	O
+long	O
+been	O
+a	O
+distress	O
+to	O
+him	O
+.	O
+
+# id = litbank-0454
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = elizabeth did not quite equal her father in personal contentment .
+elizabeth	B-CHARACTER
+did	O
+not	O
+quite	O
+equal	O
+her	O
+father	O
+in	O
+personal	O
+contentment	O
+.	O
+
+# id = litbank-0455
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = for thirteen years had she been doing the honours , and laying down the domestic law at home , and leading the way to the chaise and four , and walking immediately after lady russell out of all the drawing-rooms and dining-rooms in the country .
+for	O
+thirteen	O
+years	O
+had	O
+she	O
+been	O
+doing	O
+the	O
+honours	O
+,	O
+and	O
+laying	O
+down	O
+the	O
+domestic	O
+law	O
+at	O
+home	O
+,	O
+and	O
+leading	O
+the	O
+way	O
+to	O
+the	O
+chaise	O
+and	O
+four	O
+,	O
+and	O
+walking	O
+immediately	O
+after	O
+lady	B-CHARACTER
+russell	I-CHARACTER
+out	O
+of	O
+all	O
+the	O
+drawing-rooms	O
+and	O
+dining-rooms	O
+in	O
+the	O
+country	O
+.	O
+
+# id = litbank-0456
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = the heir presumptive , the very william walter elliot , esq. , whose rights had been so generously supported by her father , had disappointed her .
+the	O
+heir	O
+presumptive	O
+,	O
+the	O
+very	O
+william	B-CHARACTER
+walter	I-CHARACTER
+elliot	I-CHARACTER
+,	O
+esq.	O
+,	O
+whose	O
+rights	O
+had	O
+been	O
+so	O
+generously	O
+supported	O
+by	O
+her	O
+father	O
+,	O
+had	O
+disappointed	O
+her	O
+.	O
+
+# id = litbank-0457
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = he had not been known to them as a boy ; but soon after lady elliot 's death , sir walter had sought the acquaintance , and though his overtures had not been met with any warmth , he had persevered in seeking it , making allowance for the modest drawing-back of youth ; and , in one of their spring excursions to london , when elizabeth was in her first bloom , mr elliot had been forced into the introduction .
+he	O
+had	O
+not	O
+been	O
+known	O
+to	O
+them	O
+as	O
+a	O
+boy	O
+;	O
+but	O
+soon	O
+after	O
+lady	B-CHARACTER
+elliot	I-CHARACTER
+'s	O
+death	O
+,	O
+sir	B-CHARACTER
+walter	I-CHARACTER
+had	O
+sought	O
+the	O
+acquaintance	O
+,	O
+and	O
+though	O
+his	O
+overtures	O
+had	O
+not	O
+been	O
+met	O
+with	O
+any	O
+warmth	O
+,	O
+he	O
+had	O
+persevered	O
+in	O
+seeking	O
+it	O
+,	O
+making	O
+allowance	O
+for	O
+the	O
+modest	O
+drawing-back	O
+of	O
+youth	O
+;	O
+and	O
+,	O
+in	O
+one	O
+of	O
+their	O
+spring	O
+excursions	O
+to	O
+london	O
+,	O
+when	O
+elizabeth	B-CHARACTER
+was	O
+in	O
+her	O
+first	O
+bloom	O
+,	O
+mr	B-CHARACTER
+elliot	I-CHARACTER
+had	O
+been	O
+forced	O
+into	O
+the	O
+introduction	O
+.	O
+
+# id = litbank-0458
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = he was at that time a very young man , just engaged in the study of the law ; and elizabeth found him extremely agreeable , and every plan in his favour was confirmed .
+he	O
+was	O
+at	O
+that	O
+time	O
+a	O
+very	O
+young	O
+man	O
+,	O
+just	O
+engaged	O
+in	O
+the	O
+study	O
+of	O
+the	O
+law	O
+;	O
+and	O
+elizabeth	B-CHARACTER
+found	O
+him	O
+extremely	O
+agreeable	O
+,	O
+and	O
+every	O
+plan	O
+in	O
+his	O
+favour	O
+was	O
+confirmed	O
+.	O
+
+# id = litbank-0459
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = instead of pushing his fortune in the line marked out for the heir of the house of elliot , he had purchased independence by uniting himself to a rich woman of inferior birth .
+instead	O
+of	O
+pushing	O
+his	O
+fortune	O
+in	O
+the	O
+line	O
+marked	O
+out	O
+for	O
+the	O
+heir	O
+of	O
+the	O
+house	O
+of	O
+elliot	B-CHARACTER
+,	O
+he	O
+had	O
+purchased	O
+independence	O
+by	O
+uniting	O
+himself	O
+to	O
+a	O
+rich	O
+woman	O
+of	O
+inferior	O
+birth	O
+.	O
+
+# id = litbank-0434
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = he had been remarkably handsome in his youth ; and , at fifty-four , was still a very fine man .
+he	O
+had	O
+been	O
+remarkably	O
+handsome	O
+in	O
+his	O
+youth	O
+;	O
+and	O
+,	O
+at	O
+fifty-four	O
+,	O
+was	O
+still	O
+a	O
+very	O
+fine	O
+man	O
+.	O
+
+# id = litbank-0435
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = few women could think more of their personal appearance than he did , nor could the valet of any new made lord be more delighted with the place he held in society .
+few	O
+women	O
+could	O
+think	O
+more	O
+of	O
+their	O
+personal	O
+appearance	O
+than	O
+he	O
+did	O
+,	O
+nor	O
+could	O
+the	O
+valet	O
+of	O
+any	O
+new	O
+made	O
+lord	O
+be	O
+more	O
+delighted	O
+with	O
+the	O
+place	O
+he	O
+held	O
+in	O
+society	O
+.	O
+
+# id = litbank-0437
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = his good looks and his rank had one fair claim on his attachment ; since to them he must have owed a wife of very superior character to any thing deserved by his own .
+his	O
+good	O
+looks	O
+and	O
+his	O
+rank	O
+had	O
+one	O
+fair	O
+claim	O
+on	O
+his	O
+attachment	O
+;	O
+since	O
+to	O
+them	O
+he	O
+must	O
+have	O
+owed	O
+a	O
+wife	O
+of	O
+very	O
+superior	O
+character	O
+to	O
+any	O
+thing	O
+deserved	O
+by	O
+his	O
+own	O
+.	O
+
+# id = litbank-0439
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = -- she had humoured , or softened , or concealed his failings , and promoted his real respectability for seventeen years ; and though not the very happiest being in the world herself , had found enough in her duties , her friends , and her children , to attach her to life , and make it no matter of indifference to her when she was called on to quit them .
+--	O
+she	O
+had	O
+humoured	O
+,	O
+or	O
+softened	O
+,	O
+or	O
+concealed	O
+his	O
+failings	O
+,	O
+and	O
+promoted	O
+his	O
+real	O
+respectability	O
+for	O
+seventeen	O
+years	O
+;	O
+and	O
+though	O
+not	O
+the	O
+very	O
+happiest	O
+being	O
+in	O
+the	O
+world	O
+herself	O
+,	O
+had	O
+found	O
+enough	O
+in	O
+her	O
+duties	O
+,	O
+her	O
+friends	O
+,	O
+and	O
+her	O
+children	O
+,	O
+to	O
+attach	O
+her	O
+to	O
+life	O
+,	O
+and	O
+make	O
+it	O
+no	O
+matter	O
+of	O
+indifference	O
+to	O
+her	O
+when	O
+she	O
+was	O
+called	O
+on	O
+to	O
+quit	O
+them	O
+.	O
+
+# id = litbank-0440
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = -- three girls , the two eldest sixteen and fourteen , was an awful legacy for a mother to bequeath , an awful charge rather , to confide to the authority and guidance of a conceited , silly father .
+--	O
+three	O
+girls	O
+,	O
+the	O
+two	O
+eldest	O
+sixteen	O
+and	O
+fourteen	O
+,	O
+was	O
+an	O
+awful	O
+legacy	O
+for	O
+a	O
+mother	O
+to	O
+bequeath	O
+,	O
+an	O
+awful	O
+charge	O
+rather	O
+,	O
+to	O
+confide	O
+to	O
+the	O
+authority	O
+and	O
+guidance	O
+of	O
+a	O
+conceited	O
+,	O
+silly	O
+father	O
+.	O
+

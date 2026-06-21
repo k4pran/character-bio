@@ -1,0 +1,565 @@
+# id = animal-character-0001
+
+# source = synthetic_named_animals
+
+# text = freddie the frog looked up from the pond and waved
+
+freddie	B-CHARACTER
+the	I-CHARACTER
+frog	I-CHARACTER
+looked	O
+up	O
+from	O
+the	O
+pond	O
+and	O
+waved	O
+
+# id = animal-character-0002
+
+# source = synthetic_named_animals
+
+# text = the frog jumped into the pond before freddie the frog could speak
+
+the	O
+frog	O
+jumped	O
+into	O
+the	O
+pond	O
+before	O
+freddie	B-CHARACTER
+the	I-CHARACTER
+frog	I-CHARACTER
+could	O
+speak	O
+
+# id = animal-character-0003
+
+# source = synthetic_named_animals
+
+# text = molly the mouse whispered that the cat was outside
+
+molly	B-CHARACTER
+the	I-CHARACTER
+mouse	I-CHARACTER
+whispered	O
+that	O
+the	O
+cat	O
+was	O
+outside	O
+
+# id = animal-character-0004
+
+# source = synthetic_named_animals
+
+# text = the mouse hid under the table while molly the mouse listened
+
+the	O
+mouse	O
+hid	O
+under	O
+the	O
+table	O
+while	O
+molly	B-CHARACTER
+the	I-CHARACTER
+mouse	I-CHARACTER
+listened	O
+
+# id = animal-character-0005
+
+# source = synthetic_named_animals
+
+# text = oscar the owl called down from the tree
+
+oscar	B-CHARACTER
+the	I-CHARACTER
+owl	I-CHARACTER
+called	O
+down	O
+from	O
+the	O
+tree	O
+
+# id = animal-character-0006
+
+# source = synthetic_named_animals
+
+# text = an owl called from the tree but oscar the owl did not answer
+
+an	O
+owl	O
+called	O
+from	O
+the	O
+tree	O
+but	O
+oscar	B-CHARACTER
+the	I-CHARACTER
+owl	I-CHARACTER
+did	O
+not	O
+answer	O
+
+# id = animal-character-0007
+
+# source = synthetic_named_animals
+
+# text = bertie the badger carried the letter across the lane
+
+bertie	B-CHARACTER
+the	I-CHARACTER
+badger	I-CHARACTER
+carried	O
+the	O
+letter	O
+across	O
+the	O
+lane	O
+
+# id = animal-character-0008
+
+# source = synthetic_named_animals
+
+# text = the badger crossed the lane after bertie the badger dropped the letter
+
+the	O
+badger	O
+crossed	O
+the	O
+lane	O
+after	O
+bertie	B-CHARACTER
+the	I-CHARACTER
+badger	I-CHARACTER
+dropped	O
+the	O
+letter	O
+
+# id = animal-character-0009
+
+# source = synthetic_named_animals
+
+# text = clara the crow said she had seen a rabbit near the gate
+
+clara	B-CHARACTER
+the	I-CHARACTER
+crow	I-CHARACTER
+said	O
+she	O
+had	O
+seen	O
+a	O
+rabbit	O
+near	O
+the	O
+gate	O
+
+# id = animal-character-0010
+
+# source = synthetic_named_animals
+
+# text = the crow watched the rabbit but clara the crow flew away
+
+the	O
+crow	O
+watched	O
+the	O
+rabbit	O
+but	O
+clara	B-CHARACTER
+the	I-CHARACTER
+crow	I-CHARACTER
+flew	O
+away	O
+
+# id = animal-character-0011
+
+# source = synthetic_named_animals
+
+# text = little red hen refused to give the bread to the fox
+
+little	B-CHARACTER
+red	I-CHARACTER
+hen	I-CHARACTER
+refused	O
+to	O
+give	O
+the	O
+bread	O
+to	O
+the	O
+fox	O
+
+# id = animal-character-0012
+
+# source = synthetic_named_animals
+
+# text = the little red hen was not in the yard but a hen was scratching near the door
+
+the	O
+little	B-CHARACTER
+red	I-CHARACTER
+hen	I-CHARACTER
+was	O
+not	O
+in	O
+the	O
+yard	O
+but	O
+a	O
+hen	O
+was	O
+scratching	O
+near	O
+the	O
+door	O
+
+# id = titled-character-0001
+
+# source = synthetic_titled_characters
+
+# text = alaric the pale entered the room before the pale light faded
+
+alaric	B-CHARACTER
+the	I-CHARACTER
+pale	I-CHARACTER
+entered	O
+the	O
+room	O
+before	O
+the	O
+pale	O
+light	O
+faded	O
+
+# id = titled-character-0002
+
+# source = synthetic_titled_characters
+
+# text = the pale man bowed but alaric the pale did not answer
+
+the	O
+pale	O
+man	O
+bowed	O
+but	O
+alaric	B-CHARACTER
+the	I-CHARACTER
+pale	I-CHARACTER
+did	O
+not	O
+answer	O
+
+# id = titled-character-0003
+
+# source = synthetic_titled_characters
+
+# text = matilda the wise warned the king about the road
+
+matilda	B-CHARACTER
+the	I-CHARACTER
+wise	I-CHARACTER
+warned	O
+the	O
+king	O
+about	O
+the	O
+road	O
+
+# id = titled-character-0004
+
+# source = synthetic_titled_characters
+
+# text = the wise woman spoke after matilda the wise left the court
+
+the	O
+wise	O
+woman	O
+spoke	O
+after	O
+matilda	B-CHARACTER
+the	I-CHARACTER
+wise	I-CHARACTER
+left	O
+the	O
+court	O
+
+# id = titled-character-0005
+
+# source = synthetic_titled_characters
+
+# text = edric the bold laughed when the bold soldier ran away
+
+edric	B-CHARACTER
+the	I-CHARACTER
+bold	I-CHARACTER
+laughed	O
+when	O
+the	O
+bold	O
+soldier	O
+ran	O
+away	O
+
+# id = titled-character-0006
+
+# source = synthetic_titled_characters
+
+# text = cassian the younger followed the younger guard through the gate
+
+cassian	B-CHARACTER
+the	I-CHARACTER
+younger	I-CHARACTER
+followed	O
+the	O
+younger	O
+guard	O
+through	O
+the	O
+gate	O
+
+# id = titled-character-0007
+
+# source = synthetic_titled_characters
+
+# text = henry viii looked toward the window while the eighth bell rang
+
+henry	B-CHARACTER
+viii	I-CHARACTER
+looked	O
+toward	O
+the	O
+window	O
+while	O
+the	O
+eighth	O
+bell	O
+rang	O
+
+# id = titled-character-0008
+
+# source = synthetic_titled_characters
+
+# text = henry the eighth refused to enter the eighth chamber
+
+henry	B-CHARACTER
+the	I-CHARACTER
+eighth	I-CHARACTER
+refused	O
+to	O
+enter	O
+the	O
+eighth	O
+chamber	O
+
+# id = titled-character-0009
+
+# source = synthetic_titled_characters
+
+# text = elena ii stood beside the second pillar
+
+elena	B-CHARACTER
+ii	I-CHARACTER
+stood	O
+beside	O
+the	O
+second	O
+pillar	O
+
+# id = titled-character-0010
+
+# source = synthetic_titled_characters
+
+# text = marcus the third crossed the bridge after the third guard fell
+
+marcus	B-CHARACTER
+the	I-CHARACTER
+third	I-CHARACTER
+crossed	O
+the	O
+bridge	O
+after	O
+the	O
+third	O
+guard	O
+fell	O
+
+# id = titled-character-0011
+
+# source = synthetic_titled_characters
+
+# text = queen alara spoke softly while the queen waited outside
+
+queen	B-CHARACTER
+alara	I-CHARACTER
+spoke	O
+softly	O
+while	O
+the	O
+queen	O
+waited	O
+outside	O
+
+# id = titled-character-0012
+
+# source = synthetic_titled_characters
+
+# text = the queen ordered silence but queen alara raised her hand
+
+the	O
+queen	O
+ordered	O
+silence	O
+but	O
+queen	B-CHARACTER
+alara	I-CHARACTER
+raised	O
+her	O
+hand	O
+
+# id = titled-character-0013
+
+# source = synthetic_titled_characters
+
+# text = sir garran held the door while the knight watched
+
+sir	B-CHARACTER
+garran	I-CHARACTER
+held	O
+the	O
+door	O
+while	O
+the	O
+knight	O
+watched	O
+
+# id = titled-character-0014
+
+# source = synthetic_titled_characters
+
+# text = the knight lowered his sword when sir garran stepped forward
+
+the	O
+knight	O
+lowered	O
+his	O
+sword	O
+when	O
+sir	B-CHARACTER
+garran	I-CHARACTER
+stepped	O
+forward	O
+
+# id = titled-character-0015
+
+# source = synthetic_titled_characters
+
+# text = lady morwen smiled at the lady near the fountain
+
+lady	B-CHARACTER
+morwen	I-CHARACTER
+smiled	O
+at	O
+the	O
+lady	O
+near	O
+the	O
+fountain	O
+
+# id = titled-character-0016
+
+# source = synthetic_titled_characters
+
+# text = the great hall was silent when valerian the great appeared
+
+the	O
+great	O
+hall	O
+was	O
+silent	O
+when	O
+valerian	B-CHARACTER
+the	I-CHARACTER
+great	I-CHARACTER
+appeared	O
+
+# id = titled-character-0017
+
+# source = synthetic_titled_characters
+
+# text = the red prince turned away but the red cloak remained on the chair
+
+the	B-CHARACTER
+red	I-CHARACTER
+prince	I-CHARACTER
+turned	O
+away	O
+but	O
+the	O
+red	O
+cloak	O
+remained	O
+on	O
+the	O
+chair	O
+
+# id = titled-character-0018
+
+# source = synthetic_titled_characters
+
+# text = a red prince was painted on the wall but the red prince was not there
+
+a	O
+red	O
+prince	O
+was	O
+painted	O
+on	O
+the	O
+wall	O
+but	O
+the	B-CHARACTER
+red	I-CHARACTER
+prince	I-CHARACTER
+was	O
+not	O
+there	O
+
+# id = titled-character-0019
+
+# source = synthetic_titled_characters
+
+# text = brother caldus opened the book while the brother beside him waited
+
+brother	B-CHARACTER
+caldus	I-CHARACTER
+opened	O
+the	O
+book	O
+while	O
+the	O
+brother	O
+beside	O
+him	O
+waited	O
+
+# id = titled-character-0020
+
+# source = synthetic_titled_characters
+
+# text = the nameless road frightened them but mara the nameless kept walking
+
+the	O
+nameless	O
+road	O
+frightened	O
+them	O
+but	O
+mara	B-CHARACTER
+the	I-CHARACTER
+nameless	I-CHARACTER
+kept	O
+walking	O

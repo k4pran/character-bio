@@ -1,0 +1,1225 @@
+# id = litbank-1541
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = we had been wandering , indeed , in the leafless shrubbery an hour in the morning ; but since dinner ( mrs. reed , when there was no company , dined early ) the cold winter wind had brought with it clouds so sombre , and a rain so penetrating , that further out-door exercise was now out of the question .
+we	O
+had	O
+been	O
+wandering	O
+,	O
+indeed	O
+,	O
+in	O
+the	O
+leafless	O
+shrubbery	O
+an	O
+hour	O
+in	O
+the	O
+morning	O
+;	O
+but	O
+since	O
+dinner	O
+(	O
+mrs.	B-CHARACTER
+reed	I-CHARACTER
+,	O
+when	O
+there	O
+was	O
+no	O
+company	O
+,	O
+dined	O
+early	O
+)	O
+the	O
+cold	O
+winter	O
+wind	O
+had	O
+brought	O
+with	O
+it	O
+clouds	O
+so	O
+sombre	O
+,	O
+and	O
+a	O
+rain	O
+so	O
+penetrating	O
+,	O
+that	O
+further	O
+out-door	O
+exercise	O
+was	O
+now	O
+out	O
+of	O
+the	O
+question	O
+.	O
+
+# id = litbank-1542
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = i was glad of it : i never liked long walks , especially on chilly afternoons : dreadful to me was the coming home in the raw twilight , with nipped fingers and toes , and a heart saddened by the chidings of bessie , the nurse , and humbled by the consciousness of my physical inferiority to eliza , john , and georgiana reed .
+i	O
+was	O
+glad	O
+of	O
+it	O
+:	O
+i	O
+never	O
+liked	O
+long	O
+walks	O
+,	O
+especially	O
+on	O
+chilly	O
+afternoons	O
+:	O
+dreadful	O
+to	O
+me	O
+was	O
+the	O
+coming	O
+home	O
+in	O
+the	O
+raw	O
+twilight	O
+,	O
+with	O
+nipped	O
+fingers	O
+and	O
+toes	O
+,	O
+and	O
+a	O
+heart	O
+saddened	O
+by	O
+the	O
+chidings	O
+of	O
+bessie	B-CHARACTER
+,	O
+the	O
+nurse	O
+,	O
+and	O
+humbled	O
+by	O
+the	O
+consciousness	O
+of	O
+my	O
+physical	O
+inferiority	O
+to	O
+eliza	B-CHARACTER
+,	O
+john	B-CHARACTER
+,	O
+and	O
+georgiana	B-CHARACTER
+reed	I-CHARACTER
+.	O
+
+# id = litbank-1543
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = the said eliza , john , and georgiana were now clustered round their mama in the drawing-room : she lay reclined on a sofa by the fireside , and with her darlings about her ( for the time neither quarrelling nor crying ) looked perfectly happy .
+the	O
+said	O
+eliza	B-CHARACTER
+,	O
+john	B-CHARACTER
+,	O
+and	O
+georgiana	B-CHARACTER
+were	O
+now	O
+clustered	O
+round	O
+their	O
+mama	O
+in	O
+the	O
+drawing-room	O
+:	O
+she	O
+lay	O
+reclined	O
+on	O
+a	O
+sofa	O
+by	O
+the	O
+fireside	O
+,	O
+and	O
+with	O
+her	O
+darlings	O
+about	O
+her	O
+(	O
+for	O
+the	O
+time	O
+neither	O
+quarrelling	O
+nor	O
+crying	O
+)	O
+looked	O
+perfectly	O
+happy	O
+.	O
+
+# id = litbank-1544
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = me , she had dispensed from joining the group ; saying , " she regretted to be under the necessity of keeping me at a distance ; but that until she heard from bessie , and could discover by her own observation , that i was endeavouring in good earnest to acquire a more sociable and childlike disposition , a more attractive and sprightly manner -- something lighter , franker , more natural , as it were -- she really must exclude me from privileges intended only for contented , happy , little children . "
+me	O
+,	O
+she	O
+had	O
+dispensed	O
+from	O
+joining	O
+the	O
+group	O
+;	O
+saying	O
+,	O
+"	O
+she	O
+regretted	O
+to	O
+be	O
+under	O
+the	O
+necessity	O
+of	O
+keeping	O
+me	O
+at	O
+a	O
+distance	O
+;	O
+but	O
+that	O
+until	O
+she	O
+heard	O
+from	O
+bessie	B-CHARACTER
+,	O
+and	O
+could	O
+discover	O
+by	O
+her	O
+own	O
+observation	O
+,	O
+that	O
+i	O
+was	O
+endeavouring	O
+in	O
+good	O
+earnest	O
+to	O
+acquire	O
+a	O
+more	O
+sociable	O
+and	O
+childlike	O
+disposition	O
+,	O
+a	O
+more	O
+attractive	O
+and	O
+sprightly	O
+manner	O
+--	O
+something	O
+lighter	O
+,	O
+franker	O
+,	O
+more	O
+natural	O
+,	O
+as	O
+it	O
+were	O
+--	O
+she	O
+really	O
+must	O
+exclude	O
+me	O
+from	O
+privileges	O
+intended	O
+only	O
+for	O
+contented	O
+,	O
+happy	O
+,	O
+little	O
+children	O
+.	O
+"	O
+
+# id = litbank-1545
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = " what does bessie say i have done ? "
+"	O
+what	O
+does	O
+bessie	B-CHARACTER
+say	O
+i	O
+have	O
+done	O
+?	O
+"	O
+
+# id = litbank-1546
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = " jane , i do n't like cavillers or questioners ; besides , there is something truly forbidding in a child taking up her elders in that manner .
+"	O
+jane	B-CHARACTER
+,	O
+i	O
+do	O
+n't	O
+like	O
+cavillers	O
+or	O
+questioners	O
+;	O
+besides	O
+,	O
+there	O
+is	O
+something	O
+truly	O
+forbidding	O
+in	O
+a	O
+child	O
+taking	O
+up	O
+her	O
+elders	O
+in	O
+that	O
+manner	O
+.	O
+
+# id = litbank-1551
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = each picture told a story ; mysterious often to my undeveloped understanding and imperfect feelings , yet ever profoundly interesting : as interesting as the tales bessie sometimes narrated on winter evenings , when she chanced to be in good humour ; and when , having brought her ironing-table to the nursery hearth , she allowed us to sit about it , and while she got up mrs. reed 's lace frills , and crimped her nightcap borders , fed our eager attention with passages of love and adventure taken from old fairy tales and other ballads ; or ( as at a later period i discovered ) from the pages of pamela , and henry , earl of moreland .
+each	O
+picture	O
+told	O
+a	O
+story	O
+;	O
+mysterious	O
+often	O
+to	O
+my	O
+undeveloped	O
+understanding	O
+and	O
+imperfect	O
+feelings	O
+,	O
+yet	O
+ever	O
+profoundly	O
+interesting	O
+:	O
+as	O
+interesting	O
+as	O
+the	O
+tales	O
+bessie	B-CHARACTER
+sometimes	O
+narrated	O
+on	O
+winter	O
+evenings	O
+,	O
+when	O
+she	O
+chanced	O
+to	O
+be	O
+in	O
+good	O
+humour	O
+;	O
+and	O
+when	O
+,	O
+having	O
+brought	O
+her	O
+ironing-table	O
+to	O
+the	O
+nursery	O
+hearth	O
+,	O
+she	O
+allowed	O
+us	O
+to	O
+sit	O
+about	O
+it	O
+,	O
+and	O
+while	O
+she	O
+got	O
+up	O
+mrs.	B-CHARACTER
+reed	I-CHARACTER
+'s	O
+lace	O
+frills	O
+,	O
+and	O
+crimped	O
+her	O
+nightcap	O
+borders	O
+,	O
+fed	O
+our	O
+eager	O
+attention	O
+with	O
+passages	O
+of	O
+love	O
+and	O
+adventure	O
+taken	O
+from	O
+old	O
+fairy	O
+tales	O
+and	O
+other	O
+ballads	O
+;	O
+or	O
+(	O
+as	O
+at	O
+a	O
+later	O
+period	O
+i	O
+discovered	O
+)	O
+from	O
+the	O
+pages	O
+of	O
+pamela	O
+,	O
+and	O
+henry	O
+,	O
+earl	O
+of	O
+moreland	O
+.	O
+
+# id = litbank-1552
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = cried the voice of john reed ; then he paused : he found the room apparently empty .
+cried	O
+the	O
+voice	O
+of	O
+john	B-CHARACTER
+reed	I-CHARACTER
+;	O
+then	O
+he	O
+paused	O
+:	O
+he	O
+found	O
+the	O
+room	O
+apparently	O
+empty	O
+.	O
+
+# id = litbank-1553
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = " lizzy !
+"	O
+lizzy	B-CHARACTER
+!	O
+
+# id = litbank-1554
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = georgy !
+georgy	B-CHARACTER
+!	O
+
+# id = litbank-1555
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = ( calling to his sisters ) joan is not here : tell mama she is run out into the rain -- bad animal ! "
+(	O
+calling	O
+to	O
+his	O
+sisters	O
+)	O
+joan	B-CHARACTER
+is	O
+not	O
+here	O
+:	O
+tell	O
+mama	O
+she	O
+is	O
+run	O
+out	O
+into	O
+the	O
+rain	O
+--	O
+bad	O
+animal	O
+!	O
+"	O
+
+# id = litbank-1556
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = " it is well i drew the curtain , " thought i ; and i wished fervently he might not discover my hiding-place : nor would john reed have found it out himself ; he was not quick either of vision or conception ; but eliza just put her head in at the door , and said at once -- " she is in the window-seat , to be sure , jack . "
+"	O
+it	O
+is	O
+well	O
+i	O
+drew	O
+the	O
+curtain	O
+,	O
+"	O
+thought	O
+i	O
+;	O
+and	O
+i	O
+wished	O
+fervently	O
+he	O
+might	O
+not	O
+discover	O
+my	O
+hiding-place	O
+:	O
+nor	O
+would	O
+john	B-CHARACTER
+reed	I-CHARACTER
+have	O
+found	O
+it	O
+out	O
+himself	O
+;	O
+he	O
+was	O
+not	O
+quick	O
+either	O
+of	O
+vision	O
+or	O
+conception	O
+;	O
+but	O
+eliza	B-CHARACTER
+just	O
+put	O
+her	O
+head	O
+in	O
+at	O
+the	O
+door	O
+,	O
+and	O
+said	O
+at	O
+once	O
+--	O
+"	O
+she	O
+is	O
+in	O
+the	O
+window-seat	O
+,	O
+to	O
+be	O
+sure	O
+,	O
+jack	B-CHARACTER
+.	O
+"	O
+
+# id = litbank-1557
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = and i came out immediately , for i trembled at the idea of being dragged forth by the said jack .
+and	O
+i	O
+came	O
+out	O
+immediately	O
+,	O
+for	O
+i	O
+trembled	O
+at	O
+the	O
+idea	O
+of	O
+being	O
+dragged	O
+forth	O
+by	O
+the	O
+said	O
+jack	B-CHARACTER
+.	O
+
+# id = litbank-1558
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = " say , ' what do you want , master reed ? ' "
+"	O
+say	O
+,	O
+'	O
+what	O
+do	O
+you	O
+want	O
+,	O
+master	B-CHARACTER
+reed	I-CHARACTER
+?	O
+'	O
+"	O
+
+# id = litbank-1559
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = john reed was a schoolboy of fourteen years old ; four years older than i , for i was but ten : large and stout for his age , with a dingy and unwholesome skin ; thick lineaments in a spacious visage , heavy limbs and large extremities .
+john	B-CHARACTER
+reed	I-CHARACTER
+was	O
+a	O
+schoolboy	O
+of	O
+fourteen	O
+years	O
+old	O
+;	O
+four	O
+years	O
+older	O
+than	O
+i	O
+,	O
+for	O
+i	O
+was	O
+but	O
+ten	O
+:	O
+large	O
+and	O
+stout	O
+for	O
+his	O
+age	O
+,	O
+with	O
+a	O
+dingy	O
+and	O
+unwholesome	O
+skin	O
+;	O
+thick	O
+lineaments	O
+in	O
+a	O
+spacious	O
+visage	O
+,	O
+heavy	O
+limbs	O
+and	O
+large	O
+extremities	O
+.	O
+
+# id = litbank-1560
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = mr. miles , the master , affirmed that he would do very well if he had fewer cakes and sweetmeats sent him from home ; but the mother 's heart turned from an opinion so harsh , and inclined rather to the more refined idea that john 's sallowness was owing to over-application and , perhaps , to pining after home .
+mr.	B-CHARACTER
+miles	I-CHARACTER
+,	O
+the	O
+master	O
+,	O
+affirmed	O
+that	O
+he	O
+would	O
+do	O
+very	O
+well	O
+if	O
+he	O
+had	O
+fewer	O
+cakes	O
+and	O
+sweetmeats	O
+sent	O
+him	O
+from	O
+home	O
+;	O
+but	O
+the	O
+mother	O
+'s	O
+heart	O
+turned	O
+from	O
+an	O
+opinion	O
+so	O
+harsh	O
+,	O
+and	O
+inclined	O
+rather	O
+to	O
+the	O
+more	O
+refined	O
+idea	O
+that	O
+john	B-CHARACTER
+'s	O
+sallowness	O
+was	O
+owing	O
+to	O
+over-application	O
+and	O
+,	O
+perhaps	O
+,	O
+to	O
+pining	O
+after	O
+home	O
+.	O
+
+# id = litbank-1561
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = john had not much affection for his mother and sisters , and an antipathy to me .
+john	B-CHARACTER
+had	O
+not	O
+much	O
+affection	O
+for	O
+his	O
+mother	O
+and	O
+sisters	O
+,	O
+and	O
+an	O
+antipathy	O
+to	O
+me	O
+.	O
+
+# id = litbank-1562
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = there were moments when i was bewildered by the terror he inspired , because i had no appeal whatever against either his menaces or his inflictions ; the servants did not like to offend their young master by taking my part against him , and mrs. reed was blind and deaf on the subject : she never saw him strike or heard him abuse me , though he did both now and then in her very presence , more frequently , however , behind her back .
+there	O
+were	O
+moments	O
+when	O
+i	O
+was	O
+bewildered	O
+by	O
+the	O
+terror	O
+he	O
+inspired	O
+,	O
+because	O
+i	O
+had	O
+no	O
+appeal	O
+whatever	O
+against	O
+either	O
+his	O
+menaces	O
+or	O
+his	O
+inflictions	O
+;	O
+the	O
+servants	O
+did	O
+not	O
+like	O
+to	O
+offend	O
+their	O
+young	O
+master	O
+by	O
+taking	O
+my	O
+part	O
+against	O
+him	O
+,	O
+and	O
+mrs.	B-CHARACTER
+reed	I-CHARACTER
+was	O
+blind	O
+and	O
+deaf	O
+on	O
+the	O
+subject	O
+:	O
+she	O
+never	O
+saw	O
+him	O
+strike	O
+or	O
+heard	O
+him	O
+abuse	O
+me	O
+,	O
+though	O
+he	O
+did	O
+both	O
+now	O
+and	O
+then	O
+in	O
+her	O
+very	O
+presence	O
+,	O
+more	O
+frequently	O
+,	O
+however	O
+,	O
+behind	O
+her	O
+back	O
+.	O
+
+# id = litbank-1563
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = habitually obedient to john , i came up to his chair : he spent some three minutes in thrusting out his tongue at me as far as he could without damaging the roots : i knew he would soon strike , and while dreading the blow , i mused on the disgusting and ugly appearance of him who would presently deal it .
+habitually	O
+obedient	O
+to	O
+john	B-CHARACTER
+,	O
+i	O
+came	O
+up	O
+to	O
+his	O
+chair	O
+:	O
+he	O
+spent	O
+some	O
+three	O
+minutes	O
+in	O
+thrusting	O
+out	O
+his	O
+tongue	O
+at	O
+me	O
+as	O
+far	O
+as	O
+he	O
+could	O
+without	O
+damaging	O
+the	O
+roots	O
+:	O
+i	O
+knew	O
+he	O
+would	O
+soon	O
+strike	O
+,	O
+and	O
+while	O
+dreading	O
+the	O
+blow	O
+,	O
+i	O
+mused	O
+on	O
+the	O
+disgusting	O
+and	O
+ugly	O
+appearance	O
+of	O
+him	O
+who	O
+would	O
+presently	O
+deal	O
+it	O
+.	O
+
+# id = litbank-1564
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = accustomed to john reed 's abuse , i never had an idea of replying to it ; my care was how to endure the blow which would certainly follow the insult .
+accustomed	O
+to	O
+john	B-CHARACTER
+reed	I-CHARACTER
+'s	O
+abuse	O
+,	O
+i	O
+never	O
+had	O
+an	O
+idea	O
+of	O
+replying	O
+to	O
+it	O
+;	O
+my	O
+care	O
+was	O
+how	O
+to	O
+endure	O
+the	O
+blow	O
+which	O
+would	O
+certainly	O
+follow	O
+the	O
+insult	O
+.	O
+
+# id = litbank-1540
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = chapter i there was no possibility of taking a walk that day .
+chapter	O
+i	O
+there	O
+was	O
+no	O
+possibility	O
+of	O
+taking	O
+a	O
+walk	O
+that	O
+day	O
+.	O
+
+# id = litbank-1547
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = be seated somewhere ; and until you can speak pleasantly , remain silent . "
+be	O
+seated	O
+somewhere	O
+;	O
+and	O
+until	O
+you	O
+can	O
+speak	O
+pleasantly	O
+,	O
+remain	O
+silent	O
+.	O
+"	O
+
+# id = litbank-1548
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = a breakfast-room adjoined the drawing-room , i slipped in there .
+a	O
+breakfast-room	O
+adjoined	O
+the	O
+drawing-room	O
+,	O
+i	O
+slipped	O
+in	O
+there	O
+.	O
+
+# id = litbank-1549
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = it contained a bookcase : i soon possessed myself of a volume , taking care that it should be one stored with pictures .
+it	O
+contained	O
+a	O
+bookcase	O
+:	O
+i	O
+soon	O
+possessed	O
+myself	O
+of	O
+a	O
+volume	O
+,	O
+taking	O
+care	O
+that	O
+it	O
+should	O
+be	O
+one	O
+stored	O
+with	O
+pictures	O
+.	O
+
+# id = litbank-1550
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = i mounted into the window - seat : gathering up my feet , i sat cross-legged , like a turk ; and , having drawn the red moreen curtain nearly close , i was shrined in double retirement .
+i	O
+mounted	O
+into	O
+the	O
+window	O
+-	O
+seat	O
+:	O
+gathering	O
+up	O
+my	O
+feet	O
+,	O
+i	O
+sat	O
+cross-legged	O
+,	O
+like	O
+a	O
+turk	O
+;	O
+and	O
+,	O
+having	O
+drawn	O
+the	O
+red	O
+moreen	O
+curtain	O
+nearly	O
+close	O
+,	O
+i	O
+was	O
+shrined	O
+in	O
+double	O
+retirement	O
+.	O
+

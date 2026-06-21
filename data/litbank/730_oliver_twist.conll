@@ -1,0 +1,1137 @@
+# id = litbank-1212
+# source = LitBank
+# book = Oliver Twist
+# book_id = 730_oliver_twist
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/730_oliver_twist_brat.tsv
+# text = chapter i treats of the place where oliver twist was born and of the circumstances attending his birth among other public buildings in a certain town , which for many reasons it will be prudent to refrain from mentioning , and to which i will assign no fictitious name , there is one anciently common to most towns , great or small : to wit , a workhouse ; and in this workhouse was born ; on a day and date which i need not trouble myself to repeat , inasmuch as it can be of no possible consequence to the reader , in this stage of the business at all events ; the item of mortality whose name is prefixed to the head of this chapter .
+chapter	O
+i	O
+treats	O
+of	O
+the	O
+place	O
+where	O
+oliver	B-CHARACTER
+twist	I-CHARACTER
+was	O
+born	O
+and	O
+of	O
+the	O
+circumstances	O
+attending	O
+his	O
+birth	O
+among	O
+other	O
+public	O
+buildings	O
+in	O
+a	O
+certain	O
+town	O
+,	O
+which	O
+for	O
+many	O
+reasons	O
+it	O
+will	O
+be	O
+prudent	O
+to	O
+refrain	O
+from	O
+mentioning	O
+,	O
+and	O
+to	O
+which	O
+i	O
+will	O
+assign	O
+no	O
+fictitious	O
+name	O
+,	O
+there	O
+is	O
+one	O
+anciently	O
+common	O
+to	O
+most	O
+towns	O
+,	O
+great	O
+or	O
+small	O
+:	O
+to	O
+wit	O
+,	O
+a	O
+workhouse	O
+;	O
+and	O
+in	O
+this	O
+workhouse	O
+was	O
+born	O
+;	O
+on	O
+a	O
+day	O
+and	O
+date	O
+which	O
+i	O
+need	O
+not	O
+trouble	O
+myself	O
+to	O
+repeat	O
+,	O
+inasmuch	O
+as	O
+it	O
+can	O
+be	O
+of	O
+no	O
+possible	O
+consequence	O
+to	O
+the	O
+reader	O
+,	O
+in	O
+this	O
+stage	O
+of	O
+the	O
+business	O
+at	O
+all	O
+events	O
+;	O
+the	O
+item	O
+of	O
+mortality	O
+whose	O
+name	O
+is	O
+prefixed	O
+to	O
+the	O
+head	O
+of	O
+this	O
+chapter	O
+.	O
+
+# id = litbank-1213
+# source = LitBank
+# book = Oliver Twist
+# book_id = 730_oliver_twist
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/730_oliver_twist_brat.tsv
+# text = although i am not disposed to maintain that the being born in a workhouse , is in itself the most fortunate and enviable circumstance that can possibly befall a human being , i do mean to say that in this particular instance , it was the best thing for oliver twist that could by possibility have occurred .
+although	O
+i	O
+am	O
+not	O
+disposed	O
+to	O
+maintain	O
+that	O
+the	O
+being	O
+born	O
+in	O
+a	O
+workhouse	O
+,	O
+is	O
+in	O
+itself	O
+the	O
+most	O
+fortunate	O
+and	O
+enviable	O
+circumstance	O
+that	O
+can	O
+possibly	O
+befall	O
+a	O
+human	O
+being	O
+,	O
+i	O
+do	O
+mean	O
+to	O
+say	O
+that	O
+in	O
+this	O
+particular	O
+instance	O
+,	O
+it	O
+was	O
+the	O
+best	O
+thing	O
+for	O
+oliver	B-CHARACTER
+twist	I-CHARACTER
+that	O
+could	O
+by	O
+possibility	O
+have	O
+occurred	O
+.	O
+
+# id = litbank-1214
+# source = LitBank
+# book = Oliver Twist
+# book_id = 730_oliver_twist
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/730_oliver_twist_brat.tsv
+# text = the fact is , that there was considerable difficulty in inducing oliver to take upon himself the office of respiration , -- a troublesome practice , but one which custom has rendered necessary to our easy existence ; and for some time he lay gasping on a little flock mattress , rather unequally poised between this world and the next : the balance being decidedly in favour of the latter .
+the	O
+fact	O
+is	O
+,	O
+that	O
+there	O
+was	O
+considerable	O
+difficulty	O
+in	O
+inducing	O
+oliver	B-CHARACTER
+to	O
+take	O
+upon	O
+himself	O
+the	O
+office	O
+of	O
+respiration	O
+,	O
+--	O
+a	O
+troublesome	O
+practice	O
+,	O
+but	O
+one	O
+which	O
+custom	O
+has	O
+rendered	O
+necessary	O
+to	O
+our	O
+easy	O
+existence	O
+;	O
+and	O
+for	O
+some	O
+time	O
+he	O
+lay	O
+gasping	O
+on	O
+a	O
+little	O
+flock	O
+mattress	O
+,	O
+rather	O
+unequally	O
+poised	O
+between	O
+this	O
+world	O
+and	O
+the	O
+next	O
+:	O
+the	O
+balance	O
+being	O
+decidedly	O
+in	O
+favour	O
+of	O
+the	O
+latter	O
+.	O
+
+# id = litbank-1215
+# source = LitBank
+# book = Oliver Twist
+# book_id = 730_oliver_twist
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/730_oliver_twist_brat.tsv
+# text = now , if , during this brief period , oliver had been surrounded by careful grandmothers , anxious aunts , experienced nurses , and doctors of profound wisdom , he would most inevitably and indubitably have been killed in no time .
+now	O
+,	O
+if	O
+,	O
+during	O
+this	O
+brief	O
+period	O
+,	O
+oliver	B-CHARACTER
+had	O
+been	O
+surrounded	O
+by	O
+careful	O
+grandmothers	O
+,	O
+anxious	O
+aunts	O
+,	O
+experienced	O
+nurses	O
+,	O
+and	O
+doctors	O
+of	O
+profound	O
+wisdom	O
+,	O
+he	O
+would	O
+most	O
+inevitably	O
+and	O
+indubitably	O
+have	O
+been	O
+killed	O
+in	O
+no	O
+time	O
+.	O
+
+# id = litbank-1216
+# source = LitBank
+# book = Oliver Twist
+# book_id = 730_oliver_twist
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/730_oliver_twist_brat.tsv
+# text = there being nobody by , however , but a pauper old woman , who was rendered rather misty by an unwonted allowance of beer ; and a parish surgeon who did such matters by contract ; oliver and nature fought out the point between them .
+there	O
+being	O
+nobody	O
+by	O
+,	O
+however	O
+,	O
+but	O
+a	O
+pauper	O
+old	O
+woman	O
+,	O
+who	O
+was	O
+rendered	O
+rather	O
+misty	O
+by	O
+an	O
+unwonted	O
+allowance	O
+of	O
+beer	O
+;	O
+and	O
+a	O
+parish	O
+surgeon	O
+who	O
+did	O
+such	O
+matters	O
+by	O
+contract	O
+;	O
+oliver	B-CHARACTER
+and	O
+nature	O
+fought	O
+out	O
+the	O
+point	O
+between	O
+them	O
+.	O
+
+# id = litbank-1217
+# source = LitBank
+# book = Oliver Twist
+# book_id = 730_oliver_twist
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/730_oliver_twist_brat.tsv
+# text = the result was , that , after a few struggles , oliver breathed , sneezed , and proceeded to advertise to the inmates of the workhouse the fact of a new burden having been imposed upon the parish , by setting up as loud a cry as could reasonably have been expected from a male infant who had not been possessed of that very useful appendage , a voice , for a much longer space of time than three minutes and a quarter .
+the	O
+result	O
+was	O
+,	O
+that	O
+,	O
+after	O
+a	O
+few	O
+struggles	O
+,	O
+oliver	B-CHARACTER
+breathed	O
+,	O
+sneezed	O
+,	O
+and	O
+proceeded	O
+to	O
+advertise	O
+to	O
+the	O
+inmates	O
+of	O
+the	O
+workhouse	O
+the	O
+fact	O
+of	O
+a	O
+new	O
+burden	O
+having	O
+been	O
+imposed	O
+upon	O
+the	O
+parish	O
+,	O
+by	O
+setting	O
+up	O
+as	O
+loud	O
+a	O
+cry	O
+as	O
+could	O
+reasonably	O
+have	O
+been	O
+expected	O
+from	O
+a	O
+male	O
+infant	O
+who	O
+had	O
+not	O
+been	O
+possessed	O
+of	O
+that	O
+very	O
+useful	O
+appendage	O
+,	O
+a	O
+voice	O
+,	O
+for	O
+a	O
+much	O
+longer	O
+space	O
+of	O
+time	O
+than	O
+three	O
+minutes	O
+and	O
+a	O
+quarter	O
+.	O
+
+# id = litbank-1218
+# source = LitBank
+# book = Oliver Twist
+# book_id = 730_oliver_twist
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/730_oliver_twist_brat.tsv
+# text = as oliver gave this first proof of the free and proper action of his lungs , the patchwork coverlet which was carelessly flung over the iron bedstead , rustled ; the pale face of a young woman was raised feebly from the pillow ; and a faint voice imperfectly articulated the words , ' let me see the child , and die . '
+as	O
+oliver	B-CHARACTER
+gave	O
+this	O
+first	O
+proof	O
+of	O
+the	O
+free	O
+and	O
+proper	O
+action	O
+of	O
+his	O
+lungs	O
+,	O
+the	O
+patchwork	O
+coverlet	O
+which	O
+was	O
+carelessly	O
+flung	O
+over	O
+the	O
+iron	O
+bedstead	O
+,	O
+rustled	O
+;	O
+the	O
+pale	O
+face	O
+of	O
+a	O
+young	O
+woman	O
+was	O
+raised	O
+feebly	O
+from	O
+the	O
+pillow	O
+;	O
+and	O
+a	O
+faint	O
+voice	O
+imperfectly	O
+articulated	O
+the	O
+words	O
+,	O
+'	O
+let	O
+me	O
+see	O
+the	O
+child	O
+,	O
+and	O
+die	O
+.	O
+'	O
+
+# id = litbank-1224
+# source = LitBank
+# book = Oliver Twist
+# book_id = 730_oliver_twist
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/730_oliver_twist_brat.tsv
+# text = what an excellent example of the power of dress , young oliver twist was !
+what	O
+an	O
+excellent	O
+example	O
+of	O
+the	O
+power	O
+of	O
+dress	O
+,	O
+young	O
+oliver	B-CHARACTER
+twist	I-CHARACTER
+was	O
+!	O
+
+# id = litbank-1225
+# source = LitBank
+# book = Oliver Twist
+# book_id = 730_oliver_twist
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/730_oliver_twist_brat.tsv
+# text = oliver cried lustily .
+oliver	B-CHARACTER
+cried	O
+lustily	O
+.	O
+
+# id = litbank-1226
+# source = LitBank
+# book = Oliver Twist
+# book_id = 730_oliver_twist
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/730_oliver_twist_brat.tsv
+# text = chapter ii treats of oliver twist 's growth , education , and board for the next eight or ten months , oliver was the victim of a systematic course of treachery and deception .
+chapter	O
+ii	O
+treats	O
+of	O
+oliver	B-CHARACTER
+twist	I-CHARACTER
+'s	O
+growth	O
+,	O
+education	O
+,	O
+and	O
+board	O
+for	O
+the	O
+next	O
+eight	O
+or	O
+ten	O
+months	O
+,	O
+oliver	B-CHARACTER
+was	O
+the	O
+victim	O
+of	O
+a	O
+systematic	O
+course	O
+of	O
+treachery	O
+and	O
+deception	O
+.	O
+
+# id = litbank-1227
+# source = LitBank
+# book = Oliver Twist
+# book_id = 730_oliver_twist
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/730_oliver_twist_brat.tsv
+# text = the parish authorities inquired with dignity of the workhouse authorities , whether there was no female then domiciled in ' the house ' who was in a situation to impart to oliver twist , the consolation and nourishment of which he stood in need .
+the	O
+parish	O
+authorities	O
+inquired	O
+with	O
+dignity	O
+of	O
+the	O
+workhouse	O
+authorities	O
+,	O
+whether	O
+there	O
+was	O
+no	O
+female	O
+then	O
+domiciled	O
+in	O
+'	O
+the	O
+house	O
+'	O
+who	O
+was	O
+in	O
+a	O
+situation	O
+to	O
+impart	O
+to	O
+oliver	B-CHARACTER
+twist	I-CHARACTER
+,	O
+the	O
+consolation	O
+and	O
+nourishment	O
+of	O
+which	O
+he	O
+stood	O
+in	O
+need	O
+.	O
+
+# id = litbank-1228
+# source = LitBank
+# book = Oliver Twist
+# book_id = 730_oliver_twist
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/730_oliver_twist_brat.tsv
+# text = upon this , the parish authorities magnanimously and humanely resolved , that oliver should be ' farmed , ' or , in other words , that he should be dispatched to a branch-workhouse some three miles off , where twenty or thirty other juvenile offenders against the poor-laws , rolled about the floor all day , without the inconvenience of too much food or too much clothing , under the parental superintendence of an elderly female , who received the culprits at and for the consideration of sevenpence-halfpenny per small head per week .
+upon	O
+this	O
+,	O
+the	O
+parish	O
+authorities	O
+magnanimously	O
+and	O
+humanely	O
+resolved	O
+,	O
+that	O
+oliver	B-CHARACTER
+should	O
+be	O
+'	O
+farmed	O
+,	O
+'	O
+or	O
+,	O
+in	O
+other	O
+words	O
+,	O
+that	O
+he	O
+should	O
+be	O
+dispatched	O
+to	O
+a	O
+branch-workhouse	O
+some	O
+three	O
+miles	O
+off	O
+,	O
+where	O
+twenty	O
+or	O
+thirty	O
+other	O
+juvenile	O
+offenders	O
+against	O
+the	O
+poor-laws	O
+,	O
+rolled	O
+about	O
+the	O
+floor	O
+all	O
+day	O
+,	O
+without	O
+the	O
+inconvenience	O
+of	O
+too	O
+much	O
+food	O
+or	O
+too	O
+much	O
+clothing	O
+,	O
+under	O
+the	O
+parental	O
+superintendence	O
+of	O
+an	O
+elderly	O
+female	O
+,	O
+who	O
+received	O
+the	O
+culprits	O
+at	O
+and	O
+for	O
+the	O
+consideration	O
+of	O
+sevenpence-halfpenny	O
+per	O
+small	O
+head	O
+per	O
+week	O
+.	O
+
+# id = litbank-1229
+# source = LitBank
+# book = Oliver Twist
+# book_id = 730_oliver_twist
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/730_oliver_twist_brat.tsv
+# text = unfortunately for , the experimental philosophy of the female to whose protecting care oliver twist was delivered over , a similar result usually attended the operation of _ her _ system ; for at the very moment when the child had contrived to exist upon the smallest possible portion of the weakest possible food , it did perversely happen in eight and a half cases out of ten , either that it sickened from want and cold , or fell into the fire from neglect , or got half-smothered by accident ; in any one of which cases , the miserable little being was usually summoned into another world , and there gathered to the fathers it had never known in this .
+unfortunately	O
+for	O
+,	O
+the	O
+experimental	O
+philosophy	O
+of	O
+the	O
+female	O
+to	O
+whose	O
+protecting	O
+care	O
+oliver	B-CHARACTER
+twist	I-CHARACTER
+was	O
+delivered	O
+over	O
+,	O
+a	O
+similar	O
+result	O
+usually	O
+attended	O
+the	O
+operation	O
+of	O
+_	O
+her	O
+_	O
+system	O
+;	O
+for	O
+at	O
+the	O
+very	O
+moment	O
+when	O
+the	O
+child	O
+had	O
+contrived	O
+to	O
+exist	O
+upon	O
+the	O
+smallest	O
+possible	O
+portion	O
+of	O
+the	O
+weakest	O
+possible	O
+food	O
+,	O
+it	O
+did	O
+perversely	O
+happen	O
+in	O
+eight	O
+and	O
+a	O
+half	O
+cases	O
+out	O
+of	O
+ten	O
+,	O
+either	O
+that	O
+it	O
+sickened	O
+from	O
+want	O
+and	O
+cold	O
+,	O
+or	O
+fell	O
+into	O
+the	O
+fire	O
+from	O
+neglect	O
+,	O
+or	O
+got	O
+half-smothered	O
+by	O
+accident	O
+;	O
+in	O
+any	O
+one	O
+of	O
+which	O
+cases	O
+,	O
+the	O
+miserable	O
+little	O
+being	O
+was	O
+usually	O
+summoned	O
+into	O
+another	O
+world	O
+,	O
+and	O
+there	O
+gathered	O
+to	O
+the	O
+fathers	O
+it	O
+had	O
+never	O
+known	O
+in	O
+this	O
+.	O
+
+# id = litbank-1219
+# source = LitBank
+# book = Oliver Twist
+# book_id = 730_oliver_twist
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/730_oliver_twist_brat.tsv
+# text = the surgeon had been sitting with his face turned towards the fire : giving the palms of his hands a warm and a rub alternately .
+the	O
+surgeon	O
+had	O
+been	O
+sitting	O
+with	O
+his	O
+face	O
+turned	O
+towards	O
+the	O
+fire	O
+:	O
+giving	O
+the	O
+palms	O
+of	O
+his	O
+hands	O
+a	O
+warm	O
+and	O
+a	O
+rub	O
+alternately	O
+.	O
+
+# id = litbank-1220
+# source = LitBank
+# book = Oliver Twist
+# book_id = 730_oliver_twist
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/730_oliver_twist_brat.tsv
+# text = as the young woman spoke , he rose , and advancing to the bed 's head , said , with more kindness than might have been expected of him : ' oh , you must not talk about dying yet . '
+as	O
+the	O
+young	O
+woman	O
+spoke	O
+,	O
+he	O
+rose	O
+,	O
+and	O
+advancing	O
+to	O
+the	O
+bed	O
+'s	O
+head	O
+,	O
+said	O
+,	O
+with	O
+more	O
+kindness	O
+than	O
+might	O
+have	O
+been	O
+expected	O
+of	O
+him	O
+:	O
+'	O
+oh	O
+,	O
+you	O
+must	O
+not	O
+talk	O
+about	O
+dying	O
+yet	O
+.	O
+'	O
+
+# id = litbank-1221
+# source = LitBank
+# book = Oliver Twist
+# book_id = 730_oliver_twist
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/730_oliver_twist_brat.tsv
+# text = ' lor bless her dear heart , no ! '
+'	O
+lor	O
+bless	O
+her	O
+dear	O
+heart	O
+,	O
+no	O
+!	O
+'	O
+
+# id = litbank-1222
+# source = LitBank
+# book = Oliver Twist
+# book_id = 730_oliver_twist
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/730_oliver_twist_brat.tsv
+# text = interposed the nurse , hastily depositing in her pocket a green glass bottle , the contents of which she had been tasting in a corner with evident satisfaction .
+interposed	O
+the	O
+nurse	O
+,	O
+hastily	O
+depositing	O
+in	O
+her	O
+pocket	O
+a	O
+green	O
+glass	O
+bottle	O
+,	O
+the	O
+contents	O
+of	O
+which	O
+she	O
+had	O
+been	O
+tasting	O
+in	O
+a	O
+corner	O
+with	O
+evident	O
+satisfaction	O
+.	O
+
+# id = litbank-1223
+# source = LitBank
+# book = Oliver Twist
+# book_id = 730_oliver_twist
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/730_oliver_twist_brat.tsv
+# text = ' lor bless her dear heart , when she has lived as long as i have , sir , and had thirteen children of her own , and all on 'em dead except two , and them in the wurkus with me , she 'll know better than to take on in that way , bless her dear heart !
+'	O
+lor	O
+bless	O
+her	O
+dear	O
+heart	O
+,	O
+when	O
+she	O
+has	O
+lived	O
+as	O
+long	O
+as	O
+i	O
+have	O
+,	O
+sir	O
+,	O
+and	O
+had	O
+thirteen	O
+children	O
+of	O
+her	O
+own	O
+,	O
+and	O
+all	O
+on	O
+'em	O
+dead	O
+except	O
+two	O
+,	O
+and	O
+them	O
+in	O
+the	O
+wurkus	O
+with	O
+me	O
+,	O
+she	O
+'ll	O
+know	O
+better	O
+than	O
+to	O
+take	O
+on	O
+in	O
+that	O
+way	O
+,	O
+bless	O
+her	O
+dear	O
+heart	O
+!	O
+

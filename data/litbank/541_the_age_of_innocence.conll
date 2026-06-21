@@ -1,0 +1,1073 @@
+# id = litbank-1093
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = when newland archer opened the door at the back of the club box the curtain had just gone up on the garden scene .
+when	O
+newland	B-CHARACTER
+archer	I-CHARACTER
+opened	O
+the	O
+door	O
+at	O
+the	O
+back	O
+of	O
+the	O
+club	O
+box	O
+the	O
+curtain	O
+had	O
+just	O
+gone	O
+up	O
+on	O
+the	O
+garden	O
+scene	O
+.	O
+
+# id = litbank-1094
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = there was no reason why the young man should not have come earlier , for he had dined at seven , alone with his mother and sister , and had lingered afterward over a cigar in the gothic library with glazed black-walnut bookcases and finial-topped chairs which was the only room in the house where mrs. archer allowed smoking .
+there	O
+was	O
+no	O
+reason	O
+why	O
+the	O
+young	O
+man	O
+should	O
+not	O
+have	O
+come	O
+earlier	O
+,	O
+for	O
+he	O
+had	O
+dined	O
+at	O
+seven	O
+,	O
+alone	O
+with	O
+his	O
+mother	O
+and	O
+sister	O
+,	O
+and	O
+had	O
+lingered	O
+afterward	O
+over	O
+a	O
+cigar	O
+in	O
+the	O
+gothic	O
+library	O
+with	O
+glazed	O
+black-walnut	O
+bookcases	O
+and	O
+finial-topped	O
+chairs	O
+which	O
+was	O
+the	O
+only	O
+room	O
+in	O
+the	O
+house	O
+where	O
+mrs.	B-CHARACTER
+archer	I-CHARACTER
+allowed	O
+smoking	O
+.	O
+
+# id = litbank-1095
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = but , in the first place , new york was a metropolis , and perfectly aware that in metropolises it was " not the thing " to arrive early at the opera ; and what was or was not " the thing " played a part as important in newland archer 's new york as the inscrutable totem terrors that had ruled the destinies of his forefathers thousands of years ago .
+but	O
+,	O
+in	O
+the	O
+first	O
+place	O
+,	O
+new	O
+york	O
+was	O
+a	O
+metropolis	O
+,	O
+and	O
+perfectly	O
+aware	O
+that	O
+in	O
+metropolises	O
+it	O
+was	O
+"	O
+not	O
+the	O
+thing	O
+"	O
+to	O
+arrive	O
+early	O
+at	O
+the	O
+opera	O
+;	O
+and	O
+what	O
+was	O
+or	O
+was	O
+not	O
+"	O
+the	O
+thing	O
+"	O
+played	O
+a	O
+part	O
+as	O
+important	O
+in	O
+newland	B-CHARACTER
+archer	I-CHARACTER
+'s	O
+new	O
+york	O
+as	O
+the	O
+inscrutable	O
+totem	O
+terrors	O
+that	O
+had	O
+ruled	O
+the	O
+destinies	O
+of	O
+his	O
+forefathers	O
+thousands	O
+of	O
+years	O
+ago	O
+.	O
+
+# id = litbank-1096
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = this seemed as natural to newland archer as all the other conventions on which his life was moulded : such as the duty of using two silver-backed brushes with his monogram in blue enamel to part his hair , and of never appearing in society without a flower ( preferably a gardenia ) in his buttonhole .
+this	O
+seemed	O
+as	O
+natural	O
+to	O
+newland	B-CHARACTER
+archer	I-CHARACTER
+as	O
+all	O
+the	O
+other	O
+conventions	O
+on	O
+which	O
+his	O
+life	O
+was	O
+moulded	O
+:	O
+such	O
+as	O
+the	O
+duty	O
+of	O
+using	O
+two	O
+silver-backed	O
+brushes	O
+with	O
+his	O
+monogram	O
+in	O
+blue	O
+enamel	O
+to	O
+part	O
+his	O
+hair	O
+,	O
+and	O
+of	O
+never	O
+appearing	O
+in	O
+society	O
+without	O
+a	O
+flower	O
+(	O
+preferably	O
+a	O
+gardenia	O
+)	O
+in	O
+his	O
+buttonhole	O
+.	O
+
+# id = litbank-1097
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = newland archer , leaning against the wall at the back of the club box , turned his eyes from the stage and scanned the opposite side of the house .
+newland	B-CHARACTER
+archer	I-CHARACTER
+,	O
+leaning	O
+against	O
+the	O
+wall	O
+at	O
+the	O
+back	O
+of	O
+the	O
+club	O
+box	O
+,	O
+turned	O
+his	O
+eyes	O
+from	O
+the	O
+stage	O
+and	O
+scanned	O
+the	O
+opposite	O
+side	O
+of	O
+the	O
+house	O
+.	O
+
+# id = litbank-1098
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = directly facing him was the box of old mrs. manson mingott , whose monstrous obesity had long since made it impossible for her to attend the opera , but who was always represented on fashionable nights by some of the younger members of the family .
+directly	O
+facing	O
+him	O
+was	O
+the	O
+box	O
+of	O
+old	O
+mrs.	B-CHARACTER
+manson	I-CHARACTER
+mingott	I-CHARACTER
+,	O
+whose	O
+monstrous	O
+obesity	O
+had	O
+long	O
+since	O
+made	O
+it	O
+impossible	O
+for	O
+her	O
+to	O
+attend	O
+the	O
+opera	O
+,	O
+but	O
+who	O
+was	O
+always	O
+represented	O
+on	O
+fashionable	O
+nights	O
+by	O
+some	O
+of	O
+the	O
+younger	O
+members	O
+of	O
+the	O
+family	O
+.	O
+
+# id = litbank-1099
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = on this occasion , the front of the box was filled by her daughter-in-law , mrs. lovell mingott , and her daughter , mrs. welland ; and slightly withdrawn behind these brocaded matrons sat a young girl in white with eyes ecstatically fixed on the stagelovers .
+on	O
+this	O
+occasion	O
+,	O
+the	O
+front	O
+of	O
+the	O
+box	O
+was	O
+filled	O
+by	O
+her	O
+daughter-in-law	O
+,	O
+mrs.	B-CHARACTER
+lovell	I-CHARACTER
+mingott	I-CHARACTER
+,	O
+and	O
+her	O
+daughter	O
+,	O
+mrs.	B-CHARACTER
+welland	I-CHARACTER
+;	O
+and	O
+slightly	O
+withdrawn	O
+behind	O
+these	O
+brocaded	O
+matrons	O
+sat	O
+a	O
+young	O
+girl	O
+in	O
+white	O
+with	O
+eyes	O
+ecstatically	O
+fixed	O
+on	O
+the	O
+stagelovers	O
+.	O
+
+# id = litbank-1100
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = she dropped her eyes to the immense bouquet of lilies-of-the-valley on her knee , and newland archer saw her white-gloved finger-tips touch the flowers softly .
+she	O
+dropped	O
+her	O
+eyes	O
+to	O
+the	O
+immense	O
+bouquet	O
+of	O
+lilies-of-the-valley	O
+on	O
+her	O
+knee	O
+,	O
+and	O
+newland	B-CHARACTER
+archer	I-CHARACTER
+saw	O
+her	O
+white-gloved	O
+finger-tips	O
+touch	O
+the	O
+flowers	O
+softly	O
+.	O
+
+# id = litbank-1101
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = thought newland archer , his glance flitting back to the young girl with the lilies-of-the-valley .
+thought	O
+newland	B-CHARACTER
+archer	I-CHARACTER
+,	O
+his	O
+glance	O
+flitting	O
+back	O
+to	O
+the	O
+young	O
+girl	O
+with	O
+the	O
+lilies-of-the-valley	O
+.	O
+
+# id = litbank-1102
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = it was only that afternoon that may welland had let him guess that she " cared " ( new york 's consecrated phrase of maiden avowal ) , and already his imagination , leaping ahead of the engagement ring , the betrothal kiss and the march from lohengrin , pictured her at his side in some scene of old european witchery .
+it	O
+was	O
+only	O
+that	O
+afternoon	O
+that	O
+may	B-CHARACTER
+welland	I-CHARACTER
+had	O
+let	O
+him	O
+guess	O
+that	O
+she	O
+"	O
+cared	O
+"	O
+(	O
+new	O
+york	O
+'s	O
+consecrated	O
+phrase	O
+of	O
+maiden	O
+avowal	O
+)	O
+,	O
+and	O
+already	O
+his	O
+imagination	O
+,	O
+leaping	O
+ahead	O
+of	O
+the	O
+engagement	O
+ring	O
+,	O
+the	O
+betrothal	O
+kiss	O
+and	O
+the	O
+march	O
+from	O
+lohengrin	O
+,	O
+pictured	O
+her	O
+at	O
+his	O
+side	O
+in	O
+some	O
+scene	O
+of	O
+old	O
+european	O
+witchery	O
+.	O
+
+# id = litbank-1103
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = he did not in the least wish the future mrs. newland archer to be a simpleton .
+he	O
+did	O
+not	O
+in	O
+the	O
+least	O
+wish	O
+the	O
+future	O
+mrs.	O
+newland	B-CHARACTER
+archer	I-CHARACTER
+to	O
+be	O
+a	O
+simpleton	O
+.	O
+
+# id = litbank-1104
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = in matters intellectual and artistic newland archer felt himself distinctly the superior of these chosen specimens of old new york gentility ; he had probably read more , thought more , and even seen a good deal more of the world , than any other man of the number .
+in	O
+matters	O
+intellectual	O
+and	O
+artistic	O
+newland	B-CHARACTER
+archer	I-CHARACTER
+felt	O
+himself	O
+distinctly	O
+the	O
+superior	O
+of	O
+these	O
+chosen	O
+specimens	O
+of	O
+old	O
+new	O
+york	O
+gentility	O
+;	O
+he	O
+had	O
+probably	O
+read	O
+more	O
+,	O
+thought	O
+more	O
+,	O
+and	O
+even	O
+seen	O
+a	O
+good	O
+deal	O
+more	O
+of	O
+the	O
+world	O
+,	O
+than	O
+any	O
+other	O
+man	O
+of	O
+the	O
+number	O
+.	O
+
+# id = litbank-1105
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = exclaimed lawrence lefferts , turning his opera-glass abruptly away from the stage .
+exclaimed	O
+lawrence	B-CHARACTER
+lefferts	I-CHARACTER
+,	O
+turning	O
+his	O
+opera-glass	O
+abruptly	O
+away	O
+from	O
+the	O
+stage	O
+.	O
+
+# id = litbank-1106
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = lawrence lefferts was , on the whole , the foremost authority on " form " in new york .
+lawrence	B-CHARACTER
+lefferts	I-CHARACTER
+was	O
+,	O
+on	O
+the	O
+whole	O
+,	O
+the	O
+foremost	O
+authority	O
+on	O
+"	O
+form	O
+"	O
+in	O
+new	O
+york	O
+.	O
+
+# id = litbank-1107
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = as a young admirer had once said of him : " if anybody can tell a fellow just when to wear a black tie with evening clothes and when not to , it 's larry lefferts . "
+as	O
+a	O
+young	O
+admirer	O
+had	O
+once	O
+said	O
+of	O
+him	O
+:	O
+"	O
+if	O
+anybody	O
+can	O
+tell	O
+a	O
+fellow	O
+just	O
+when	O
+to	O
+wear	O
+a	O
+black	O
+tie	O
+with	O
+evening	O
+clothes	O
+and	O
+when	O
+not	O
+to	O
+,	O
+it	O
+'s	O
+larry	B-CHARACTER
+lefferts	I-CHARACTER
+.	O
+"	O
+
+# id = litbank-1108
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = he said ; and silently handed his glass to old sillerton jackson .
+he	O
+said	O
+;	O
+and	O
+silently	O
+handed	O
+his	O
+glass	O
+to	O
+old	O
+sillerton	B-CHARACTER
+jackson	I-CHARACTER
+.	O
+
+# id = litbank-1088
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = book i i. on a january evening of the early seventies , christine nilsson was singing in faust at the academy of music in new york .
+book	O
+i	O
+i.	O
+on	O
+a	O
+january	O
+evening	O
+of	O
+the	O
+early	O
+seventies	O
+,	O
+christine	O
+nilsson	O
+was	O
+singing	O
+in	O
+faust	O
+at	O
+the	O
+academy	O
+of	O
+music	O
+in	O
+new	O
+york	O
+.	O
+
+# id = litbank-1089
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = though there was already talk of the erection , in remote metropolitan distances " above the forties , " of a new opera house which should compete in costliness and splendour with those of the great european capitals , the world of fashion was still content to reassemble every winter in the shabby red and gold boxes of the sociable old academy .
+though	O
+there	O
+was	O
+already	O
+talk	O
+of	O
+the	O
+erection	O
+,	O
+in	O
+remote	O
+metropolitan	O
+distances	O
+"	O
+above	O
+the	O
+forties	O
+,	O
+"	O
+of	O
+a	O
+new	O
+opera	O
+house	O
+which	O
+should	O
+compete	O
+in	O
+costliness	O
+and	O
+splendour	O
+with	O
+those	O
+of	O
+the	O
+great	O
+european	O
+capitals	O
+,	O
+the	O
+world	O
+of	O
+fashion	O
+was	O
+still	O
+content	O
+to	O
+reassemble	O
+every	O
+winter	O
+in	O
+the	O
+shabby	O
+red	O
+and	O
+gold	O
+boxes	O
+of	O
+the	O
+sociable	O
+old	O
+academy	O
+.	O
+
+# id = litbank-1090
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = conservatives cherished it for being small and inconvenient , and thus keeping out the " new people " whom new york was beginning to dread and yet be drawn to ; and the sentimental clung to it for its historic associations , and the musical for its excellent acoustics , always so problematic a quality in halls built for the hearing of music .
+conservatives	O
+cherished	O
+it	O
+for	O
+being	O
+small	O
+and	O
+inconvenient	O
+,	O
+and	O
+thus	O
+keeping	O
+out	O
+the	O
+"	O
+new	O
+people	O
+"	O
+whom	O
+new	O
+york	O
+was	O
+beginning	O
+to	O
+dread	O
+and	O
+yet	O
+be	O
+drawn	O
+to	O
+;	O
+and	O
+the	O
+sentimental	O
+clung	O
+to	O
+it	O
+for	O
+its	O
+historic	O
+associations	O
+,	O
+and	O
+the	O
+musical	O
+for	O
+its	O
+excellent	O
+acoustics	O
+,	O
+always	O
+so	O
+problematic	O
+a	O
+quality	O
+in	O
+halls	O
+built	O
+for	O
+the	O
+hearing	O
+of	O
+music	O
+.	O
+
+# id = litbank-1091
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = it was madame nilsson 's first appearance that winter , and what the daily press had already learned to describe as " an exceptionally brilliant audience " had gathered to hear her , transported through the slippery , snowy streets in private broughams , in the spacious family landau , or in the humbler but more convenient " brown coupe . "
+it	O
+was	O
+madame	O
+nilsson	O
+'s	O
+first	O
+appearance	O
+that	O
+winter	O
+,	O
+and	O
+what	O
+the	O
+daily	O
+press	O
+had	O
+already	O
+learned	O
+to	O
+describe	O
+as	O
+"	O
+an	O
+exceptionally	O
+brilliant	O
+audience	O
+"	O
+had	O
+gathered	O
+to	O
+hear	O
+her	O
+,	O
+transported	O
+through	O
+the	O
+slippery	O
+,	O
+snowy	O
+streets	O
+in	O
+private	O
+broughams	O
+,	O
+in	O
+the	O
+spacious	O
+family	O
+landau	O
+,	O
+or	O
+in	O
+the	O
+humbler	O
+but	O
+more	O
+convenient	O
+"	O
+brown	O
+coupe	O
+.	O
+"	O
+
+# id = litbank-1092
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = to come to the opera in a brown coupe was almost as honourable a way of arriving as in one 's own carriage ; and departure by the same means had the immense advantage of enabling one ( with a playful allusion to democratic principles ) to scramble into the first brown conveyance in the line , instead of waiting till the cold-and-gin congested nose of one 's own coachman gleamed under the portico of the academy .
+to	O
+come	O
+to	O
+the	O
+opera	O
+in	O
+a	O
+brown	O
+coupe	O
+was	O
+almost	O
+as	O
+honourable	O
+a	O
+way	O
+of	O
+arriving	O
+as	O
+in	O
+one	O
+'s	O
+own	O
+carriage	O
+;	O
+and	O
+departure	O
+by	O
+the	O
+same	O
+means	O
+had	O
+the	O
+immense	O
+advantage	O
+of	O
+enabling	O
+one	O
+(	O
+with	O
+a	O
+playful	O
+allusion	O
+to	O
+democratic	O
+principles	O
+)	O
+to	O
+scramble	O
+into	O
+the	O
+first	O
+brown	O
+conveyance	O
+in	O
+the	O
+line	O
+,	O
+instead	O
+of	O
+waiting	O
+till	O
+the	O
+cold-and-gin	O
+congested	O
+nose	O
+of	O
+one	O
+'s	O
+own	O
+coachman	O
+gleamed	O
+under	O
+the	O
+portico	O
+of	O
+the	O
+academy	O
+.	O
+

@@ -1,0 +1,1059 @@
+# id = litbank-0967
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = when he paused by the clerk 's desk on his way out , to light his cigar , the day clerk , who had just come on duty , glanced at the register and read the last entry : -- " ' john warwick , clarence , south carolina . '
+when	O
+he	O
+paused	O
+by	O
+the	O
+clerk	O
+'s	O
+desk	O
+on	O
+his	O
+way	O
+out	O
+,	O
+to	O
+light	O
+his	O
+cigar	O
+,	O
+the	O
+day	O
+clerk	O
+,	O
+who	O
+had	O
+just	O
+come	O
+on	O
+duty	O
+,	O
+glanced	O
+at	O
+the	O
+register	O
+and	O
+read	O
+the	O
+last	O
+entry	O
+:	O
+--	O
+"	O
+'	O
+john	B-CHARACTER
+warwick	I-CHARACTER
+,	O
+clarence	O
+,	O
+south	O
+carolina	O
+.	O
+'	O
+
+# id = litbank-0968
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = a two minutes ' walk brought warwick -- the name he had registered under , and as we shall call him -- to the market-house , the central feature of patesville , from both the commercial and the picturesque points of view .
+a	O
+two	O
+minutes	O
+'	O
+walk	O
+brought	O
+warwick	B-CHARACTER
+--	O
+the	O
+name	O
+he	O
+had	O
+registered	O
+under	O
+,	O
+and	O
+as	O
+we	O
+shall	O
+call	O
+him	O
+--	O
+to	O
+the	O
+market-house	O
+,	O
+the	O
+central	O
+feature	O
+of	O
+patesville	O
+,	O
+from	O
+both	O
+the	O
+commercial	O
+and	O
+the	O
+picturesque	O
+points	O
+of	O
+view	O
+.	O
+
+# id = litbank-0969
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = warwick was unable to perceive much change in the market-house .
+warwick	B-CHARACTER
+was	O
+unable	O
+to	O
+perceive	O
+much	O
+change	O
+in	O
+the	O
+market-house	O
+.	O
+
+# id = litbank-0970
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = was it so irreconcilable , warwick wondered , as still to peal out the curfew bell , which at nine o'clock at night had clamorously warned all negroes , slave or free , that it was unlawful for them to be abroad after that hour , under penalty of imprisonment or whipping ?
+was	O
+it	O
+so	O
+irreconcilable	O
+,	O
+warwick	B-CHARACTER
+wondered	O
+,	O
+as	O
+still	O
+to	O
+peal	O
+out	O
+the	O
+curfew	O
+bell	O
+,	O
+which	O
+at	O
+nine	O
+o'clock	O
+at	O
+night	O
+had	O
+clamorously	O
+warned	O
+all	O
+negroes	O
+,	O
+slave	O
+or	O
+free	O
+,	O
+that	O
+it	O
+was	O
+unlawful	O
+for	O
+them	O
+to	O
+be	O
+abroad	O
+after	O
+that	O
+hour	O
+,	O
+under	O
+penalty	O
+of	O
+imprisonment	O
+or	O
+whipping	O
+?	O
+
+# id = litbank-0971
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = a few moments later , warwick saw a colored policeman in the old constable 's place -- a stronger reminder than even the burned buildings that war had left its mark upon the old town , with which time had dealt so tenderly .
+a	O
+few	O
+moments	O
+later	O
+,	O
+warwick	B-CHARACTER
+saw	O
+a	O
+colored	O
+policeman	O
+in	O
+the	O
+old	O
+constable	O
+'s	O
+place	O
+--	O
+a	O
+stronger	O
+reminder	O
+than	O
+even	O
+the	O
+burned	O
+buildings	O
+that	O
+war	O
+had	O
+left	O
+its	O
+mark	O
+upon	O
+the	O
+old	O
+town	O
+,	O
+with	O
+which	O
+time	O
+had	O
+dealt	O
+so	O
+tenderly	O
+.	O
+
+# id = litbank-0972
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = warwick passed through one of the wide brick arches and traversed the building with a leisurely step .
+warwick	B-CHARACTER
+passed	O
+through	O
+one	O
+of	O
+the	O
+wide	O
+brick	O
+arches	O
+and	O
+traversed	O
+the	O
+building	O
+with	O
+a	O
+leisurely	O
+step	O
+.	O
+
+# id = litbank-0973
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = he looked in vain into the stalls for the butcher who had sold fresh meat twice a week , on market days , and he felt a genuine thrill of pleasure when he recognized the red bandana turban of old aunt lyddy , the ancient negro woman who had sold him gingerbread and fried fish , and told him weird tales of witchcraft and conjuration , in the old days when , as an idle boy , he had loafed about the market-house .
+he	O
+looked	O
+in	O
+vain	O
+into	O
+the	O
+stalls	O
+for	O
+the	O
+butcher	O
+who	O
+had	O
+sold	O
+fresh	O
+meat	O
+twice	O
+a	O
+week	O
+,	O
+on	O
+market	O
+days	O
+,	O
+and	O
+he	O
+felt	O
+a	O
+genuine	O
+thrill	O
+of	O
+pleasure	O
+when	O
+he	O
+recognized	O
+the	O
+red	O
+bandana	O
+turban	O
+of	O
+old	O
+aunt	O
+lyddy	B-CHARACTER
+,	O
+the	O
+ancient	O
+negro	O
+woman	O
+who	O
+had	O
+sold	O
+him	O
+gingerbread	O
+and	O
+fried	O
+fish	O
+,	O
+and	O
+told	O
+him	O
+weird	O
+tales	O
+of	O
+witchcraft	O
+and	O
+conjuration	O
+,	O
+in	O
+the	O
+old	O
+days	O
+when	O
+,	O
+as	O
+an	O
+idle	O
+boy	O
+,	O
+he	O
+had	O
+loafed	O
+about	O
+the	O
+market-house	O
+.	O
+
+# id = litbank-0974
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = warwick recalled vividly how the shot had rung out .
+warwick	B-CHARACTER
+recalled	O
+vividly	O
+how	O
+the	O
+shot	O
+had	O
+rung	O
+out	O
+.	O
+
+# id = litbank-0975
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = as warwick was neither a prophet nor the son of a prophet , he could not foresee that , thirty years later , even this would seem an excessive punishment for so slight a misdemeanor .
+as	O
+warwick	B-CHARACTER
+was	O
+neither	O
+a	O
+prophet	O
+nor	O
+the	O
+son	O
+of	O
+a	O
+prophet	O
+,	O
+he	O
+could	O
+not	O
+foresee	O
+that	O
+,	O
+thirty	O
+years	O
+later	O
+,	O
+even	O
+this	O
+would	O
+seem	O
+an	O
+excessive	O
+punishment	O
+for	O
+so	O
+slight	O
+a	O
+misdemeanor	O
+.	O
+
+# id = litbank-0976
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = leaving the market-house , warwick turned to the left , and kept on his course until he reached the next corner .
+leaving	O
+the	O
+market-house	O
+,	O
+warwick	B-CHARACTER
+turned	O
+to	O
+the	O
+left	O
+,	O
+and	O
+kept	O
+on	O
+his	O
+course	O
+until	O
+he	O
+reached	O
+the	O
+next	O
+corner	O
+.	O
+
+# id = litbank-0977
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = after another turn to the right , a dozen paces brought him in front of a small weather-beaten frame building , from which projected a wooden sign-board bearing the inscription : -- archibald straight , lawyer .
+after	O
+another	O
+turn	O
+to	O
+the	O
+right	O
+,	O
+a	O
+dozen	O
+paces	O
+brought	O
+him	O
+in	O
+front	O
+of	O
+a	O
+small	O
+weather-beaten	O
+frame	O
+building	O
+,	O
+from	O
+which	O
+projected	O
+a	O
+wooden	O
+sign-board	O
+bearing	O
+the	O
+inscription	O
+:	O
+--	O
+archibald	B-CHARACTER
+straight	I-CHARACTER
+,	O
+lawyer	O
+.	O
+
+# id = litbank-0978
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = upon warwick 's entrance this effusion came to a sudden end , and the coffin-maker assumed an air of professional gravity .
+upon	O
+warwick	B-CHARACTER
+'s	O
+entrance	O
+this	O
+effusion	O
+came	O
+to	O
+a	O
+sudden	O
+end	O
+,	O
+and	O
+the	O
+coffin-maker	O
+assumed	O
+an	O
+air	O
+of	O
+professional	O
+gravity	O
+.	O
+
+# id = litbank-0979
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = " good-morning , " answered warwick .
+"	O
+good-morning	O
+,	O
+"	O
+answered	O
+warwick	B-CHARACTER
+.	O
+
+# id = litbank-0980
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = " can you tell me anything about judge straight 's office hours ? "
+"	O
+can	O
+you	O
+tell	O
+me	O
+anything	O
+about	O
+judge	B-CHARACTER
+straight	I-CHARACTER
+'s	O
+office	O
+hours	O
+?	O
+"	O
+
+# id = litbank-0981
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = ' death , ' " quoted warwick , with whose mood the undertaker 's remarks were in tune , " ' is the penalty that all must pay for the crime of living . ' "
+'	O
+death	O
+,	O
+'	O
+"	O
+quoted	O
+warwick	B-CHARACTER
+,	O
+with	O
+whose	O
+mood	O
+the	O
+undertaker	O
+'s	O
+remarks	O
+were	O
+in	O
+tune	O
+,	O
+"	O
+'	O
+is	O
+the	O
+penalty	O
+that	O
+all	O
+must	O
+pay	O
+for	O
+the	O
+crime	O
+of	O
+living	O
+.	O
+'	O
+"	O
+
+# id = litbank-0982
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = warwick left the undertaker 's shop and retraced his steps until he had passed the lawyer 's office , toward which he threw an affectionate glance .
+warwick	B-CHARACTER
+left	O
+the	O
+undertaker	O
+'s	O
+shop	O
+and	O
+retraced	O
+his	O
+steps	O
+until	O
+he	O
+had	O
+passed	O
+the	O
+lawyer	O
+'s	O
+office	O
+,	O
+toward	O
+which	O
+he	O
+threw	O
+an	O
+affectionate	O
+glance	O
+.	O
+
+# id = litbank-0983
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = the street down which warwick had come intersected front street at a sharp angle in front of the old hotel , forming a sort of flatiron block at the junction , known as liberty point , -- perhaps because slave auctions were sometimes held there in the good old days .
+the	O
+street	O
+down	O
+which	O
+warwick	B-CHARACTER
+had	O
+come	O
+intersected	O
+front	O
+street	O
+at	O
+a	O
+sharp	O
+angle	O
+in	O
+front	O
+of	O
+the	O
+old	O
+hotel	O
+,	O
+forming	O
+a	O
+sort	O
+of	O
+flatiron	O
+block	O
+at	O
+the	O
+junction	O
+,	O
+known	O
+as	O
+liberty	O
+point	O
+,	O
+--	O
+perhaps	O
+because	O
+slave	O
+auctions	O
+were	O
+sometimes	O
+held	O
+there	O
+in	O
+the	O
+good	O
+old	O
+days	O
+.	O
+
+# id = litbank-0984
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = just before warwick reached liberty point , a young woman came down front street from the direction of the market-house .
+just	O
+before	O
+warwick	B-CHARACTER
+reached	O
+liberty	O
+point	O
+,	O
+a	O
+young	O
+woman	O
+came	O
+down	O
+front	O
+street	O
+from	O
+the	O
+direction	O
+of	O
+the	O
+market-house	O
+.	O
+
+# id = litbank-0985
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = when their paths converged , warwick kept on down front street behind her , it having been already his intention to walk in this direction .
+when	O
+their	O
+paths	O
+converged	O
+,	O
+warwick	B-CHARACTER
+kept	O
+on	O
+down	O
+front	O
+street	O
+behind	O
+her	O
+,	O
+it	O
+having	O
+been	O
+already	O
+his	O
+intention	O
+to	O
+walk	O
+in	O
+this	O
+direction	O
+.	O
+
+# id = litbank-0986
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = warwick 's first glance had revealed the fact that the young woman was strikingly handsome , with a stately beauty seldom encountered .
+warwick	B-CHARACTER
+'s	O
+first	O
+glance	O
+had	O
+revealed	O
+the	O
+fact	O
+that	O
+the	O
+young	O
+woman	O
+was	O
+strikingly	O
+handsome	O
+,	O
+with	O
+a	O
+stately	O
+beauty	O
+seldom	O
+encountered	O
+.	O
+
+# id = litbank-0962
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = i a stranger from south carolina time touches all things with destroying hand ; and if he seem now and then to bestow the bloom of youth , the sap of spring , it is but a brief mockery , to be surely and swiftly followed by the wrinkles of old age , the dry leaves and bare branches of winter .
+i	O
+a	O
+stranger	O
+from	O
+south	O
+carolina	O
+time	O
+touches	O
+all	O
+things	O
+with	O
+destroying	O
+hand	O
+;	O
+and	O
+if	O
+he	O
+seem	O
+now	O
+and	O
+then	O
+to	O
+bestow	O
+the	O
+bloom	O
+of	O
+youth	O
+,	O
+the	O
+sap	O
+of	O
+spring	O
+,	O
+it	O
+is	O
+but	O
+a	O
+brief	O
+mockery	O
+,	O
+to	O
+be	O
+surely	O
+and	O
+swiftly	O
+followed	O
+by	O
+the	O
+wrinkles	O
+of	O
+old	O
+age	O
+,	O
+the	O
+dry	O
+leaves	O
+and	O
+bare	O
+branches	O
+of	O
+winter	O
+.	O
+
+# id = litbank-0963
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = and yet there are places where time seems to linger lovingly long after youth has departed , and to which he seems loath to bring the evil day .
+and	O
+yet	O
+there	O
+are	O
+places	O
+where	O
+time	O
+seems	O
+to	O
+linger	O
+lovingly	O
+long	O
+after	O
+youth	O
+has	O
+departed	O
+,	O
+and	O
+to	O
+which	O
+he	O
+seems	O
+loath	O
+to	O
+bring	O
+the	O
+evil	O
+day	O
+.	O
+
+# id = litbank-0964
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = who has not known some even-tempered old man or woman who seemed to have drunk of the fountain of youth ?
+who	O
+has	O
+not	O
+known	O
+some	O
+even-tempered	O
+old	O
+man	O
+or	O
+woman	O
+who	O
+seemed	O
+to	O
+have	O
+drunk	O
+of	O
+the	O
+fountain	O
+of	O
+youth	O
+?	O
+
+# id = litbank-0965
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = who has not seen somewhere an old town that , having long since ceased to grow , yet held its own without perceptible decline ?
+who	O
+has	O
+not	O
+seen	O
+somewhere	O
+an	O
+old	O
+town	O
+that	O
+,	O
+having	O
+long	O
+since	O
+ceased	O
+to	O
+grow	O
+,	O
+yet	O
+held	O
+its	O
+own	O
+without	O
+perceptible	O
+decline	O
+?	O
+
+# id = litbank-0966
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = some such trite reflection -- as apposite to the subject as most random reflections are -- passed through the mind of a young man who came out of the front door of the patesville hotel about nine o'clock one fine morning in spring , a few years after the civil war , and started down front street toward the market-house .
+some	O
+such	O
+trite	O
+reflection	O
+--	O
+as	O
+apposite	O
+to	O
+the	O
+subject	O
+as	O
+most	O
+random	O
+reflections	O
+are	O
+--	O
+passed	O
+through	O
+the	O
+mind	O
+of	O
+a	O
+young	O
+man	O
+who	O
+came	O
+out	O
+of	O
+the	O
+front	O
+door	O
+of	O
+the	O
+patesville	O
+hotel	O
+about	O
+nine	O
+o'clock	O
+one	O
+fine	O
+morning	O
+in	O
+spring	O
+,	O
+a	O
+few	O
+years	O
+after	O
+the	O
+civil	O
+war	O
+,	O
+and	O
+started	O
+down	O
+front	O
+street	O
+toward	O
+the	O
+market-house	O
+.	O
+

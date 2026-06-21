@@ -1,0 +1,871 @@
+# id = litbank-2328
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = but i waive the biographies of all other scriveners for a few passages in the life of bartleby , who was a scrivener of the strangest i ever saw or heard of .
+but	O
+i	O
+waive	O
+the	O
+biographies	O
+of	O
+all	O
+other	O
+scriveners	O
+for	O
+a	O
+few	O
+passages	O
+in	O
+the	O
+life	O
+of	O
+bartleby	B-CHARACTER
+,	O
+who	O
+was	O
+a	O
+scrivener	O
+of	O
+the	O
+strangest	O
+i	O
+ever	O
+saw	O
+or	O
+heard	O
+of	O
+.	O
+
+# id = litbank-2329
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = while of other law-copyists i might write the complete life , of bartleby nothing of that sort can be done .
+while	O
+of	O
+other	O
+law-copyists	O
+i	O
+might	O
+write	O
+the	O
+complete	O
+life	O
+,	O
+of	O
+bartleby	B-CHARACTER
+nothing	O
+of	O
+that	O
+sort	O
+can	O
+be	O
+done	O
+.	O
+
+# id = litbank-2332
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = bartleby was one of those beings of whom nothing is ascertainable , except from the original sources , and in his case those are very small .
+bartleby	B-CHARACTER
+was	O
+one	O
+of	O
+those	O
+beings	O
+of	O
+whom	O
+nothing	O
+is	O
+ascertainable	O
+,	O
+except	O
+from	O
+the	O
+original	O
+sources	O
+,	O
+and	O
+in	O
+his	O
+case	O
+those	O
+are	O
+very	O
+small	O
+.	O
+
+# id = litbank-2333
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = what my own astonished eyes saw of bartleby , _ that _ is all i know of him , except , indeed , one vague report which will appear in the sequel .
+what	O
+my	O
+own	O
+astonished	O
+eyes	O
+saw	O
+of	O
+bartleby	B-CHARACTER
+,	O
+_	O
+that	O
+_	O
+is	O
+all	O
+i	O
+know	O
+of	O
+him	O
+,	O
+except	O
+,	O
+indeed	O
+,	O
+one	O
+vague	O
+report	O
+which	O
+will	O
+appear	O
+in	O
+the	O
+sequel	O
+.	O
+
+# id = litbank-2335
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = at the period just preceding the advent of bartleby , i had two persons as copyists in my employment , and a promising lad as an office-boy .
+at	O
+the	O
+period	O
+just	O
+preceding	O
+the	O
+advent	O
+of	O
+bartleby	B-CHARACTER
+,	O
+i	O
+had	O
+two	O
+persons	O
+as	O
+copyists	O
+in	O
+my	O
+employment	O
+,	O
+and	O
+a	O
+promising	O
+lad	O
+as	O
+an	O
+office-boy	O
+.	O
+
+# id = litbank-2336
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = first , turkey ; second , nippers ; third , ginger nut .
+first	O
+,	O
+turkey	B-CHARACTER
+;	O
+second	O
+,	O
+nippers	B-CHARACTER
+;	O
+third	O
+,	O
+ginger	B-CHARACTER
+nut	I-CHARACTER
+.	O
+
+# id = litbank-2337
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = turkey was a short , pursy englishman of about my own age , that is , somewhere not far from sixty .
+turkey	B-CHARACTER
+was	O
+a	O
+short	O
+,	O
+pursy	O
+englishman	O
+of	O
+about	O
+my	O
+own	O
+age	O
+,	O
+that	O
+is	O
+,	O
+somewhere	O
+not	O
+far	O
+from	O
+sixty	O
+.	O
+
+# id = litbank-2338
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = there are many singular coincidences i have known in the course of my life , not the least among which was the fact , that exactly when turkey displayed his fullest beams from his red and radiant countenance , just then , too , at that critical moment , began the daily period when i considered his business capacities as seriously disturbed for the remainder of the twenty-four hours .
+there	O
+are	O
+many	O
+singular	O
+coincidences	O
+i	O
+have	O
+known	O
+in	O
+the	O
+course	O
+of	O
+my	O
+life	O
+,	O
+not	O
+the	O
+least	O
+among	O
+which	O
+was	O
+the	O
+fact	O
+,	O
+that	O
+exactly	O
+when	O
+turkey	B-CHARACTER
+displayed	O
+his	O
+fullest	O
+beams	O
+from	O
+his	O
+red	O
+and	O
+radiant	O
+countenance	O
+,	O
+just	O
+then	O
+,	O
+too	O
+,	O
+at	O
+that	O
+critical	O
+moment	O
+,	O
+began	O
+the	O
+daily	O
+period	O
+when	O
+i	O
+considered	O
+his	O
+business	O
+capacities	O
+as	O
+seriously	O
+disturbed	O
+for	O
+the	O
+remainder	O
+of	O
+the	O
+twenty-four	O
+hours	O
+.	O
+
+# id = litbank-2339
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = " with submission , sir , " said turkey on this occasion , " i consider myself your right-hand man .
+"	O
+with	O
+submission	O
+,	O
+sir	O
+,	O
+"	O
+said	O
+turkey	B-CHARACTER
+on	O
+this	O
+occasion	O
+,	O
+"	O
+i	O
+consider	O
+myself	O
+your	O
+right-hand	O
+man	O
+.	O
+
+# id = litbank-2340
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = nippers , the second on my list , was a whiskered , sallow , and , upon the whole , rather piratical-looking young man of about five and twenty .
+nippers	B-CHARACTER
+,	O
+the	O
+second	O
+on	O
+my	O
+list	O
+,	O
+was	O
+a	O
+whiskered	O
+,	O
+sallow	O
+,	O
+and	O
+,	O
+upon	O
+the	O
+whole	O
+,	O
+rather	O
+piratical-looking	O
+young	O
+man	O
+of	O
+about	O
+five	O
+and	O
+twenty	O
+.	O
+
+# id = litbank-2341
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = though of a very ingenious mechanical turn , nippers could never get this table to suit him .
+though	O
+of	O
+a	O
+very	O
+ingenious	O
+mechanical	O
+turn	O
+,	O
+nippers	B-CHARACTER
+could	O
+never	O
+get	O
+this	O
+table	O
+to	O
+suit	O
+him	O
+.	O
+
+# id = litbank-2342
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = in short , the truth of the matter was , nippers knew not what he wanted .
+in	O
+short	O
+,	O
+the	O
+truth	O
+of	O
+the	O
+matter	O
+was	O
+,	O
+nippers	B-CHARACTER
+knew	O
+not	O
+what	O
+he	O
+wanted	O
+.	O
+
+# id = litbank-2343
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = but with all his failings , and the annoyances he caused me , nippers , like his compatriot turkey , was a very useful man to me ; wrote a neat , swift hand ; and , when he chose , was not deficient in a gentlemanly sort of deportment .
+but	O
+with	O
+all	O
+his	O
+failings	O
+,	O
+and	O
+the	O
+annoyances	O
+he	O
+caused	O
+me	O
+,	O
+nippers	B-CHARACTER
+,	O
+like	O
+his	O
+compatriot	O
+turkey	B-CHARACTER
+,	O
+was	O
+a	O
+very	O
+useful	O
+man	O
+to	O
+me	O
+;	O
+wrote	O
+a	O
+neat	O
+,	O
+swift	O
+hand	O
+;	O
+and	O
+,	O
+when	O
+he	O
+chose	O
+,	O
+was	O
+not	O
+deficient	O
+in	O
+a	O
+gentlemanly	O
+sort	O
+of	O
+deportment	O
+.	O
+
+# id = litbank-2344
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = whereas with respect to turkey , i had much ado to keep him from being a reproach to me .
+whereas	O
+with	O
+respect	O
+to	O
+turkey	B-CHARACTER
+,	O
+i	O
+had	O
+much	O
+ado	O
+to	O
+keep	O
+him	O
+from	O
+being	O
+a	O
+reproach	O
+to	O
+me	O
+.	O
+
+# id = litbank-2345
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = as nippers once observed , turkey 's money went chiefly for red ink .
+as	O
+nippers	B-CHARACTER
+once	O
+observed	O
+,	O
+turkey	B-CHARACTER
+'s	O
+money	O
+went	O
+chiefly	O
+for	O
+red	O
+ink	O
+.	O
+
+# id = litbank-2346
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = one winter day i presented turkey with a highly-respectable looking coat of my own , a padded gray coat , of a most comfortable warmth , and which buttoned straight up from the knee to the neck .
+one	O
+winter	O
+day	O
+i	O
+presented	O
+turkey	B-CHARACTER
+with	O
+a	O
+highly-respectable	O
+looking	O
+coat	O
+of	O
+my	O
+own	O
+,	O
+a	O
+padded	O
+gray	O
+coat	O
+,	O
+of	O
+a	O
+most	O
+comfortable	O
+warmth	O
+,	O
+and	O
+which	O
+buttoned	O
+straight	O
+up	O
+from	O
+the	O
+knee	O
+to	O
+the	O
+neck	O
+.	O
+
+# id = litbank-2347
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = i thought turkey would appreciate the favor , and abate his rashness and obstreperousness of afternoons .
+i	O
+thought	O
+turkey	B-CHARACTER
+would	O
+appreciate	O
+the	O
+favor	O
+,	O
+and	O
+abate	O
+his	O
+rashness	O
+and	O
+obstreperousness	O
+of	O
+afternoons	O
+.	O
+
+# id = litbank-2348
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = in fact , precisely as a rash , restive horse is said to feel his oats , so turkey felt his coat .
+in	O
+fact	O
+,	O
+precisely	O
+as	O
+a	O
+rash	O
+,	O
+restive	O
+horse	O
+is	O
+said	O
+to	O
+feel	O
+his	O
+oats	O
+,	O
+so	O
+turkey	B-CHARACTER
+felt	O
+his	O
+coat	O
+.	O
+
+# id = litbank-2326
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = the nature of my avocations for the last thirty years has brought me into more than ordinary contact with what would seem an interesting and somewhat singular set of men , of whom as yet nothing that i know of has ever been written : -- i mean the law-copyists or scriveners .
+the	O
+nature	O
+of	O
+my	O
+avocations	O
+for	O
+the	O
+last	O
+thirty	O
+years	O
+has	O
+brought	O
+me	O
+into	O
+more	O
+than	O
+ordinary	O
+contact	O
+with	O
+what	O
+would	O
+seem	O
+an	O
+interesting	O
+and	O
+somewhat	O
+singular	O
+set	O
+of	O
+men	O
+,	O
+of	O
+whom	O
+as	O
+yet	O
+nothing	O
+that	O
+i	O
+know	O
+of	O
+has	O
+ever	O
+been	O
+written	O
+:	O
+--	O
+i	O
+mean	O
+the	O
+law-copyists	O
+or	O
+scriveners	O
+.	O
+
+# id = litbank-2327
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = i have known very many of them , professionally and privately , and if i pleased , could relate divers histories , at which good-natured gentlemen might smile , and sentimental souls might weep .
+i	O
+have	O
+known	O
+very	O
+many	O
+of	O
+them	O
+,	O
+professionally	O
+and	O
+privately	O
+,	O
+and	O
+if	O
+i	O
+pleased	O
+,	O
+could	O
+relate	O
+divers	O
+histories	O
+,	O
+at	O
+which	O
+good-natured	O
+gentlemen	O
+might	O
+smile	O
+,	O
+and	O
+sentimental	O
+souls	O
+might	O
+weep	O
+.	O
+
+# id = litbank-2330
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = i believe that no materials exist for a full and satisfactory biography of this man .
+i	O
+believe	O
+that	O
+no	O
+materials	O
+exist	O
+for	O
+a	O
+full	O
+and	O
+satisfactory	O
+biography	O
+of	O
+this	O
+man	O
+.	O
+
+# id = litbank-2331
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = it is an irreparable loss to literature .
+it	O
+is	O
+an	O
+irreparable	O
+loss	O
+to	O
+literature	O
+.	O
+
+# id = litbank-2334
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = ere introducing the scrivener , as he first appeared to me , it is fit i make some mention of myself , my _ employees _ , my business , my chambers , and general surroundings ; because some such description is indispensable to an adequate understanding of the chief character about to be presented .
+ere	O
+introducing	O
+the	O
+scrivener	O
+,	O
+as	O
+he	O
+first	O
+appeared	O
+to	O
+me	O
+,	O
+it	O
+is	O
+fit	O
+i	O
+make	O
+some	O
+mention	O
+of	O
+myself	O
+,	O
+my	O
+_	O
+employees	O
+_	O
+,	O
+my	O
+business	O
+,	O
+my	O
+chambers	O
+,	O
+and	O
+general	O
+surroundings	O
+;	O
+because	O
+some	O
+such	O
+description	O
+is	O
+indispensable	O
+to	O
+an	O
+adequate	O
+understanding	O
+of	O
+the	O
+chief	O
+character	O
+about	O
+to	O
+be	O
+presented	O
+.	O
+

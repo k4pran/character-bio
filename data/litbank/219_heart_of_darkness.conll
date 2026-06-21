@@ -1,0 +1,332 @@
+# id = litbank-0777
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = marlow sat cross-legged right aft , leaning against the mizzen-mast .
+marlow	B-CHARACTER
+sat	O
+cross-legged	O
+right	O
+aft	O
+,	O
+leaning	O
+against	O
+the	O
+mizzen-mast	O
+.	O
+
+# id = litbank-0778
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = “ and this also , ” said marlow suddenly , “ has been one of the dark places of the earth . ”
+“	O
+and	O
+this	O
+also	O
+,	O
+”	O
+said	O
+marlow	B-CHARACTER
+suddenly	O
+,	O
+“	O
+has	O
+been	O
+one	O
+of	O
+the	O
+dark	O
+places	O
+of	O
+the	O
+earth	O
+.	O
+”	O
+
+# id = litbank-0779
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = but marlow was not typical ( if his propensity to spin yarns be excepted ) , and to him the meaning of an episode was not inside like a kernel but outside , enveloping the tale which brought it out only as a glow brings out a haze , in the likeness of one of these misty halos that sometimes are made visible by the spectral illumination of moonshine .
+but	O
+marlow	B-CHARACTER
+was	O
+not	O
+typical	O
+(	O
+if	O
+his	O
+propensity	O
+to	O
+spin	O
+yarns	O
+be	O
+excepted	O
+)	O
+,	O
+and	O
+to	O
+him	O
+the	O
+meaning	O
+of	O
+an	O
+episode	O
+was	O
+not	O
+inside	O
+like	O
+a	O
+kernel	O
+but	O
+outside	O
+,	O
+enveloping	O
+the	O
+tale	O
+which	O
+brought	O
+it	O
+out	O
+only	O
+as	O
+a	O
+glow	O
+brings	O
+out	O
+a	O
+haze	O
+,	O
+in	O
+the	O
+likeness	O
+of	O
+one	O
+of	O
+these	O
+misty	O
+halos	O
+that	O
+sometimes	O
+are	O
+made	O
+visible	O
+by	O
+the	O
+spectral	O
+illumination	O
+of	O
+moonshine	O
+.	O
+
+# id = litbank-0780
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = it was just like marlow .
+it	O
+was	O
+just	O
+like	O
+marlow	B-CHARACTER
+.	O
+
+# id = litbank-0772
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = i the nellie , a cruising yawl , swung to her anchor without a flutter of the sails , and was at rest .
+i	O
+the	O
+nellie	O
+,	O
+a	O
+cruising	O
+yawl	O
+,	O
+swung	O
+to	O
+her	O
+anchor	O
+without	O
+a	O
+flutter	O
+of	O
+the	O
+sails	O
+,	O
+and	O
+was	O
+at	O
+rest	O
+.	O
+
+# id = litbank-0773
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = the flood had made , the wind was nearly calm , and being bound down the river , the only thing for it was to come to and wait for the turn of the tide .
+the	O
+flood	O
+had	O
+made	O
+,	O
+the	O
+wind	O
+was	O
+nearly	O
+calm	O
+,	O
+and	O
+being	O
+bound	O
+down	O
+the	O
+river	O
+,	O
+the	O
+only	O
+thing	O
+for	O
+it	O
+was	O
+to	O
+come	O
+to	O
+and	O
+wait	O
+for	O
+the	O
+turn	O
+of	O
+the	O
+tide	O
+.	O
+
+# id = litbank-0774
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = the sea-reach of the thames stretched before us like the beginning of an interminable waterway .
+the	O
+sea-reach	O
+of	O
+the	O
+thames	O
+stretched	O
+before	O
+us	O
+like	O
+the	O
+beginning	O
+of	O
+an	O
+interminable	O
+waterway	O
+.	O
+
+# id = litbank-0775
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = in the offing the sea and the sky were welded together without a joint , and in the luminous space the tanned sails of the barges drifting up with the tide seemed to stand still in red clusters of canvas sharply peaked , with gleams of varnished sprits .
+in	O
+the	O
+offing	O
+the	O
+sea	O
+and	O
+the	O
+sky	O
+were	O
+welded	O
+together	O
+without	O
+a	O
+joint	O
+,	O
+and	O
+in	O
+the	O
+luminous	O
+space	O
+the	O
+tanned	O
+sails	O
+of	O
+the	O
+barges	O
+drifting	O
+up	O
+with	O
+the	O
+tide	O
+seemed	O
+to	O
+stand	O
+still	O
+in	O
+red	O
+clusters	O
+of	O
+canvas	O
+sharply	O
+peaked	O
+,	O
+with	O
+gleams	O
+of	O
+varnished	O
+sprits	O
+.	O
+
+# id = litbank-0776
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = a haze rested on the low shores that ran out to sea in vanishing flatness .
+a	O
+haze	O
+rested	O
+on	O
+the	O
+low	O
+shores	O
+that	O
+ran	O
+out	O
+to	O
+sea	O
+in	O
+vanishing	O
+flatness	O
+.	O
+

@@ -1,0 +1,960 @@
+# id = litbank-0855
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = " wake up , philip , " she said .
+"	O
+wake	O
+up	O
+,	O
+philip	B-CHARACTER
+,	O
+"	O
+she	O
+said	O
+.	O
+
+# id = litbank-0857
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = " master philip never woke up , " she said .
+"	O
+master	B-CHARACTER
+philip	I-CHARACTER
+never	O
+woke	O
+up	O
+,	O
+"	O
+she	O
+said	O
+.	O
+
+# id = litbank-0858
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = " you 've sent for mrs. carey 's brother-in-law , have n't you ? "
+"	O
+you	O
+'ve	O
+sent	O
+for	O
+mrs.	B-CHARACTER
+carey	I-CHARACTER
+'s	O
+brother-in-law	O
+,	O
+have	O
+n't	O
+you	O
+?	O
+"	O
+
+# id = litbank-0859
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = " miss watkin said she 'd take him , sir . "
+"	O
+miss	B-CHARACTER
+watkin	I-CHARACTER
+said	O
+she	O
+'d	O
+take	O
+him	O
+,	O
+sir	O
+.	O
+"	O
+
+# id = litbank-0860
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = d'you think mrs. carey will get over it , sir ? "
+d'you	O
+think	O
+mrs.	B-CHARACTER
+carey	I-CHARACTER
+will	O
+get	O
+over	O
+it	O
+,	O
+sir	O
+?	O
+"	O
+
+# id = litbank-0861
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = philip was sitting on the floor in the drawing-room at miss watkin 's house in onslow gardens .
+philip	B-CHARACTER
+was	O
+sitting	O
+on	O
+the	O
+floor	O
+in	O
+the	O
+drawing-room	O
+at	O
+miss	B-CHARACTER
+watkin	I-CHARACTER
+'s	O
+house	O
+in	O
+onslow	O
+gardens	O
+.	O
+
+# id = litbank-0862
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = " you naughty boy , miss watkin will be cross with you . "
+"	O
+you	O
+naughty	O
+boy	O
+,	O
+miss	B-CHARACTER
+watkin	I-CHARACTER
+will	O
+be	O
+cross	O
+with	O
+you	O
+.	O
+"	O
+
+# id = litbank-0863
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = " hulloa , emma ! "
+"	O
+hulloa	O
+,	O
+emma	B-CHARACTER
+!	O
+"	O
+
+# id = litbank-0864
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = philip did not know what she meant .
+philip	B-CHARACTER
+did	O
+not	O
+know	O
+what	O
+she	O
+meant	O
+.	O
+
+# id = litbank-0865
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = she began to cry , and philip , though he did not quite understand , cried too .
+she	O
+began	O
+to	O
+cry	O
+,	O
+and	O
+philip	B-CHARACTER
+,	O
+though	O
+he	O
+did	O
+not	O
+quite	O
+understand	O
+,	O
+cried	O
+too	O
+.	O
+
+# id = litbank-0866
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = emma was a tall , big-boned woman , with fair hair and large features .
+emma	B-CHARACTER
+was	O
+a	O
+tall	O
+,	O
+big-boned	O
+woman	O
+,	O
+with	O
+fair	O
+hair	O
+and	O
+large	O
+features	O
+.	O
+
+# id = litbank-0867
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = " your uncle william is waiting in to see you , " she said .
+"	O
+your	O
+uncle	O
+william	B-CHARACTER
+is	O
+waiting	O
+in	O
+to	O
+see	O
+you	O
+,	O
+"	O
+she	O
+said	O
+.	O
+
+# id = litbank-0868
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = " go and say good-bye to miss watkin , and we 'll go home . "
+"	O
+go	O
+and	O
+say	O
+good-bye	O
+to	O
+miss	B-CHARACTER
+watkin	I-CHARACTER
+,	O
+and	O
+we	O
+'ll	O
+go	O
+home	O
+.	O
+"	O
+
+# id = litbank-0869
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = he fetched it , and when he came down emma was waiting for him in the hall .
+he	O
+fetched	O
+it	O
+,	O
+and	O
+when	O
+he	O
+came	O
+down	O
+emma	B-CHARACTER
+was	O
+waiting	O
+for	O
+him	O
+in	O
+the	O
+hall	O
+.	O
+
+# id = litbank-0870
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = he knew that miss watkin and her sister were talking to friends , and it seemed to him -- he was nine years old -- that if he went in they would be sorry for him .
+he	O
+knew	O
+that	O
+miss	B-CHARACTER
+watkin	I-CHARACTER
+and	O
+her	O
+sister	O
+were	O
+talking	O
+to	O
+friends	O
+,	O
+and	O
+it	O
+seemed	O
+to	O
+him	O
+--	O
+he	O
+was	O
+nine	O
+years	O
+old	O
+--	O
+that	O
+if	O
+he	O
+went	O
+in	O
+they	O
+would	O
+be	O
+sorry	O
+for	O
+him	O
+.	O
+
+# id = litbank-0871
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = " i think i 'll go and say good-bye to miss watkin . "
+"	O
+i	O
+think	O
+i	O
+'ll	O
+go	O
+and	O
+say	O
+good-bye	O
+to	O
+miss	B-CHARACTER
+watkin	I-CHARACTER
+.	O
+"	O
+
+# id = litbank-0872
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = " i think you 'd better , " said emma .
+"	O
+i	O
+think	O
+you	O
+'d	O
+better	O
+,	O
+"	O
+said	O
+emma	B-CHARACTER
+.	O
+
+# id = litbank-0873
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = emma knocked at the door and walked in .
+emma	B-CHARACTER
+knocked	O
+at	O
+the	O
+door	O
+and	O
+walked	O
+in	O
+.	O
+
+# id = litbank-0874
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = " master philip wants to say good-bye to you , miss . "
+"	O
+master	B-CHARACTER
+philip	I-CHARACTER
+wants	O
+to	O
+say	O
+good-bye	O
+to	O
+you	O
+,	O
+miss	O
+.	O
+"	O
+
+# id = litbank-0875
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = there was a sudden hush of the conversation , and philip limped in .
+there	O
+was	O
+a	O
+sudden	O
+hush	O
+of	O
+the	O
+conversation	O
+,	O
+and	O
+philip	B-CHARACTER
+limped	O
+in	O
+.	O
+
+# id = litbank-0876
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = henrietta watkin was a stout woman , with a red face and dyed hair .
+henrietta	B-CHARACTER
+watkin	I-CHARACTER
+was	O
+a	O
+stout	O
+woman	O
+,	O
+with	O
+a	O
+red	O
+face	O
+and	O
+dyed	O
+hair	O
+.	O
+
+# id = litbank-0877
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = in those days to dye the hair excited comment , and philip had heard much gossip at home when his godmother 's changed colour .
+in	O
+those	O
+days	O
+to	O
+dye	O
+the	O
+hair	O
+excited	O
+comment	O
+,	O
+and	O
+philip	B-CHARACTER
+had	O
+heard	O
+much	O
+gossip	O
+at	O
+home	O
+when	O
+his	O
+godmother	O
+'s	O
+changed	O
+colour	O
+.	O
+
+# id = litbank-0878
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = two ladies , whom philip did not know , were calling , and they looked at him curiously .
+two	O
+ladies	O
+,	O
+whom	O
+philip	B-CHARACTER
+did	O
+not	O
+know	O
+,	O
+were	O
+calling	O
+,	O
+and	O
+they	O
+looked	O
+at	O
+him	O
+curiously	O
+.	O
+
+# id = litbank-0879
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = " my poor child , " said miss watkin , opening her arms .
+"	O
+my	O
+poor	O
+child	O
+,	O
+"	O
+said	O
+miss	B-CHARACTER
+watkin	I-CHARACTER
+,	O
+opening	O
+her	O
+arms	O
+.	O
+
+# id = litbank-0880
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = philip understood now why she had not been in to luncheon and why she wore a black dress .
+philip	B-CHARACTER
+understood	O
+now	O
+why	O
+she	O
+had	O
+not	O
+been	O
+in	O
+to	O
+luncheon	O
+and	O
+why	O
+she	O
+wore	O
+a	O
+black	O
+dress	O
+.	O
+
+# id = litbank-0881
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = " i 've got to go home , " said philip , at last .
+"	O
+i	O
+'ve	O
+got	O
+to	O
+go	O
+home	O
+,	O
+"	O
+said	O
+philip	B-CHARACTER
+,	O
+at	O
+last	O
+.	O
+
+# id = litbank-0882
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = he disengaged himself from miss watkin 's arms , and she kissed him again .
+he	O
+disengaged	O
+himself	O
+from	O
+miss	B-CHARACTER
+watkin	I-CHARACTER
+'s	O
+arms	O
+,	O
+and	O
+she	O
+kissed	O
+him	O
+again	O
+.	O
+
+# id = litbank-0883
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = though crying , he keenly enjoyed the sensation he was causing ; he would have been glad to stay a little longer to be made much of , but felt they expected him to go , so he said that emma was waiting for him .
+though	O
+crying	O
+,	O
+he	O
+keenly	O
+enjoyed	O
+the	O
+sensation	O
+he	O
+was	O
+causing	O
+;	O
+he	O
+would	O
+have	O
+been	O
+glad	O
+to	O
+stay	O
+a	O
+little	O
+longer	O
+to	O
+be	O
+made	O
+much	O
+of	O
+,	O
+but	O
+felt	O
+they	O
+expected	O
+him	O
+to	O
+go	O
+,	O
+so	O
+he	O
+said	O
+that	O
+emma	B-CHARACTER
+was	O
+waiting	O
+for	O
+him	O
+.	O
+
+# id = litbank-0884
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = emma had gone downstairs to speak with a friend in the basement , and he waited for her on the landing .
+emma	B-CHARACTER
+had	O
+gone	O
+downstairs	O
+to	O
+speak	O
+with	O
+a	O
+friend	O
+in	O
+the	O
+basement	O
+,	O
+and	O
+he	O
+waited	O
+for	O
+her	O
+on	O
+the	O
+landing	O
+.	O
+
+# id = litbank-0885
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = he heard henrietta watkin 's voice .
+he	O
+heard	O
+henrietta	B-CHARACTER
+watkin	I-CHARACTER
+'s	O
+voice	O
+.	O
+
+# id = litbank-0886
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = then emma came back .
+then	O
+emma	B-CHARACTER
+came	O
+back	O
+.	O
+
+# id = litbank-0887
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = iii when they reached the house mrs. carey had died in -- it was in a dreary , respectable street between notting hill gate and high street , kensington -- emma led philip into the drawing-room .
+iii	O
+when	O
+they	O
+reached	O
+the	O
+house	O
+mrs.	B-CHARACTER
+carey	I-CHARACTER
+had	O
+died	O
+in	O
+--	O
+it	O
+was	O
+in	O
+a	O
+dreary	O
+,	O
+respectable	O
+street	O
+between	O
+notting	O
+hill	O
+gate	O
+and	O
+high	O
+street	O
+,	O
+kensington	O
+--	O
+emma	B-CHARACTER
+led	O
+philip	B-CHARACTER
+into	O
+the	O
+drawing-room	O
+.	O
+
+# id = litbank-0888
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = " here 's master philip , " said emma .
+"	O
+here	O
+'s	O
+master	B-CHARACTER
+philip	I-CHARACTER
+,	O
+"	O
+said	O
+emma	B-CHARACTER
+.	O
+
+# id = litbank-0851
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = i the day broke gray and dull .
+i	O
+the	O
+day	O
+broke	O
+gray	O
+and	O
+dull	O
+.	O
+
+# id = litbank-0852
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = the clouds hung heavily , and there was a rawness in the air that suggested snow .
+the	O
+clouds	O
+hung	O
+heavily	O
+,	O
+and	O
+there	O
+was	O
+a	O
+rawness	O
+in	O
+the	O
+air	O
+that	O
+suggested	O
+snow	O
+.	O
+
+# id = litbank-0853
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = a woman servant came into a room in which a child was sleeping and drew the curtains .
+a	O
+woman	O
+servant	O
+came	O
+into	O
+a	O
+room	O
+in	O
+which	O
+a	O
+child	O
+was	O
+sleeping	O
+and	O
+drew	O
+the	O
+curtains	O
+.	O
+
+# id = litbank-0854
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = she glanced mechanically at the house opposite , a stucco house with a portico , and went to the child 's bed .
+she	O
+glanced	O
+mechanically	O
+at	O
+the	O
+house	O
+opposite	O
+,	O
+a	O
+stucco	O
+house	O
+with	O
+a	O
+portico	O
+,	O
+and	O
+went	O
+to	O
+the	O
+child	O
+'s	O
+bed	O
+.	O
+
+# id = litbank-0856
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = she pulled down the bed-clothes , took him in her arms , and carried him downstairs .
+she	O
+pulled	O
+down	O
+the	O
+bed-clothes	O
+,	O
+took	O
+him	O
+in	O
+her	O
+arms	O
+,	O
+and	O
+carried	O
+him	O
+downstairs	O
+.	O
+

@@ -1,0 +1,1111 @@
+# id = litbank-0344
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = a natural spring of soft and pleasant water -- a rare treasure on the sea-girt peninsula where the puritan settlement was made -- had early induced matthew maule to build a hut , shaggy with thatch , at this point , although somewhat too remote from what was then the centre of the village .
+a	O
+natural	O
+spring	O
+of	O
+soft	O
+and	O
+pleasant	O
+water	O
+--	O
+a	O
+rare	O
+treasure	O
+on	O
+the	O
+sea-girt	O
+peninsula	O
+where	O
+the	O
+puritan	O
+settlement	O
+was	O
+made	O
+--	O
+had	O
+early	O
+induced	O
+matthew	B-CHARACTER
+maule	I-CHARACTER
+to	O
+build	O
+a	O
+hut	O
+,	O
+shaggy	O
+with	O
+thatch	O
+,	O
+at	O
+this	O
+point	O
+,	O
+although	O
+somewhat	O
+too	O
+remote	O
+from	O
+what	O
+was	O
+then	O
+the	O
+centre	O
+of	O
+the	O
+village	O
+.	O
+
+# id = litbank-0345
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = colonel pyncheon , the claimant , as we gather from whatever traits of him are preserved , was characterized by an iron energy of purpose .
+colonel	B-CHARACTER
+pyncheon	I-CHARACTER
+,	O
+the	O
+claimant	O
+,	O
+as	O
+we	O
+gather	O
+from	O
+whatever	O
+traits	O
+of	O
+him	O
+are	O
+preserved	O
+,	O
+was	O
+characterized	O
+by	O
+an	O
+iron	O
+energy	O
+of	O
+purpose	O
+.	O
+
+# id = litbank-0346
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = matthew maule , on the other hand , though an obscure man , was stubborn in the defence of what he considered his right ; and , for several years , he succeeded in protecting the acre or two of earth which , with his own toil , he had hewn out of the primeval forest , to be his garden ground and homestead .
+matthew	B-CHARACTER
+maule	I-CHARACTER
+,	O
+on	O
+the	O
+other	O
+hand	O
+,	O
+though	O
+an	O
+obscure	O
+man	O
+,	O
+was	O
+stubborn	O
+in	O
+the	O
+defence	O
+of	O
+what	O
+he	O
+considered	O
+his	O
+right	O
+;	O
+and	O
+,	O
+for	O
+several	O
+years	O
+,	O
+he	O
+succeeded	O
+in	O
+protecting	O
+the	O
+acre	O
+or	O
+two	O
+of	O
+earth	O
+which	O
+,	O
+with	O
+his	O
+own	O
+toil	O
+,	O
+he	O
+had	O
+hewn	O
+out	O
+of	O
+the	O
+primeval	O
+forest	O
+,	O
+to	O
+be	O
+his	O
+garden	O
+ground	O
+and	O
+homestead	O
+.	O
+
+# id = litbank-0347
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = it would be bold , therefore , and possibly unjust , to venture a decisive opinion as to its merits ; although it appears to have been at least a matter of doubt , whether colonel pyncheon 's claim were not unduly stretched , in order to make it cover the small metes and bounds of matthew maule .
+it	O
+would	O
+be	O
+bold	O
+,	O
+therefore	O
+,	O
+and	O
+possibly	O
+unjust	O
+,	O
+to	O
+venture	O
+a	O
+decisive	O
+opinion	O
+as	O
+to	O
+its	O
+merits	O
+;	O
+although	O
+it	O
+appears	O
+to	O
+have	O
+been	O
+at	O
+least	O
+a	O
+matter	O
+of	O
+doubt	O
+,	O
+whether	O
+colonel	B-CHARACTER
+pyncheon	I-CHARACTER
+'s	O
+claim	O
+were	O
+not	O
+unduly	O
+stretched	O
+,	O
+in	O
+order	O
+to	O
+make	O
+it	O
+cover	O
+the	O
+small	O
+metes	O
+and	O
+bounds	O
+of	O
+matthew	B-CHARACTER
+maule	I-CHARACTER
+.	O
+
+# id = litbank-0348
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = old matthew maule , in a word , was executed for the crime of witchcraft .
+old	O
+matthew	B-CHARACTER
+maule	I-CHARACTER
+,	O
+in	O
+a	O
+word	O
+,	O
+was	O
+executed	O
+for	O
+the	O
+crime	O
+of	O
+witchcraft	O
+.	O
+
+# id = litbank-0349
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = amid the disorder of such various ruin , it is not strange that a man of inconsiderable note , like maule , should have trodden the martyr 's path to the hill of execution almost unremarked in the throng of his fellow sufferers .
+amid	O
+the	O
+disorder	O
+of	O
+such	O
+various	O
+ruin	O
+,	O
+it	O
+is	O
+not	O
+strange	O
+that	O
+a	O
+man	O
+of	O
+inconsiderable	O
+note	O
+,	O
+like	O
+maule	B-CHARACTER
+,	O
+should	O
+have	O
+trodden	O
+the	O
+martyr	O
+'s	O
+path	O
+to	O
+the	O
+hill	O
+of	O
+execution	O
+almost	O
+unremarked	O
+in	O
+the	O
+throng	O
+of	O
+his	O
+fellow	O
+sufferers	O
+.	O
+
+# id = litbank-0350
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = but , in after days , when the frenzy of that hideous epoch had subsided , it was remembered how loudly colonel pyncheon had joined in the general cry , to purge the land from witchcraft ; nor did it fail to be whispered , that there was an invidious acrimony in the zeal with which he had sought the condemnation of matthew maule .
+but	O
+,	O
+in	O
+after	O
+days	O
+,	O
+when	O
+the	O
+frenzy	O
+of	O
+that	O
+hideous	O
+epoch	O
+had	O
+subsided	O
+,	O
+it	O
+was	O
+remembered	O
+how	O
+loudly	O
+colonel	B-CHARACTER
+pyncheon	I-CHARACTER
+had	O
+joined	O
+in	O
+the	O
+general	O
+cry	O
+,	O
+to	O
+purge	O
+the	O
+land	O
+from	O
+witchcraft	O
+;	O
+nor	O
+did	O
+it	O
+fail	O
+to	O
+be	O
+whispered	O
+,	O
+that	O
+there	O
+was	O
+an	O
+invidious	O
+acrimony	O
+in	O
+the	O
+zeal	O
+with	O
+which	O
+he	O
+had	O
+sought	O
+the	O
+condemnation	O
+of	O
+matthew	B-CHARACTER
+maule	I-CHARACTER
+.	O
+
+# id = litbank-0351
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = at the moment of execution -- with the halter about his neck , and while colonel pyncheon sat on horseback , grimly gazing at the scene maule had addressed him from the scaffold , and uttered a prophecy , of which history , as well as fireside tradition , has preserved the very words .
+at	O
+the	O
+moment	O
+of	O
+execution	O
+--	O
+with	O
+the	O
+halter	O
+about	O
+his	O
+neck	O
+,	O
+and	O
+while	O
+colonel	B-CHARACTER
+pyncheon	I-CHARACTER
+sat	O
+on	O
+horseback	O
+,	O
+grimly	O
+gazing	O
+at	O
+the	O
+scene	O
+maule	B-CHARACTER
+had	O
+addressed	O
+him	O
+from	O
+the	O
+scaffold	O
+,	O
+and	O
+uttered	O
+a	O
+prophecy	O
+,	O
+of	O
+which	O
+history	O
+,	O
+as	O
+well	O
+as	O
+fireside	O
+tradition	O
+,	O
+has	O
+preserved	O
+the	O
+very	O
+words	O
+.	O
+
+# id = litbank-0352
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = after the reputed wizard 's death , his humble homestead had fallen an easy spoil into colonel pyncheon 's grasp .
+after	O
+the	O
+reputed	O
+wizard	O
+'s	O
+death	O
+,	O
+his	O
+humble	O
+homestead	O
+had	O
+fallen	O
+an	O
+easy	O
+spoil	O
+into	O
+colonel	B-CHARACTER
+pyncheon	I-CHARACTER
+'s	O
+grasp	O
+.	O
+
+# id = litbank-0353
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = when it was understood , however , that the colonel intended to erect a family mansion-spacious , ponderously framed of oaken timber , and calculated to endure for many generations of his posterity over the spot first covered by the log-built hut of matthew maule , there was much shaking of the head among the village gossips .
+when	O
+it	O
+was	O
+understood	O
+,	O
+however	O
+,	O
+that	O
+the	O
+colonel	O
+intended	O
+to	O
+erect	O
+a	O
+family	O
+mansion-spacious	O
+,	O
+ponderously	O
+framed	O
+of	O
+oaken	O
+timber	O
+,	O
+and	O
+calculated	O
+to	O
+endure	O
+for	O
+many	O
+generations	O
+of	O
+his	O
+posterity	O
+over	O
+the	O
+spot	O
+first	O
+covered	O
+by	O
+the	O
+log-built	O
+hut	O
+of	O
+matthew	B-CHARACTER
+maule	I-CHARACTER
+,	O
+there	O
+was	O
+much	O
+shaking	O
+of	O
+the	O
+head	O
+among	O
+the	O
+village	O
+gossips	O
+.	O
+
+# id = litbank-0354
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = his home would include the home of the dead and buried wizard , and would thus afford the ghost of the latter a kind of privilege to haunt its new apartments , and the chambers into which future bridegrooms were to lead their brides , and where children of the pyncheon blood were to be born .
+his	O
+home	O
+would	O
+include	O
+the	O
+home	O
+of	O
+the	O
+dead	O
+and	O
+buried	O
+wizard	O
+,	O
+and	O
+would	O
+thus	O
+afford	O
+the	O
+ghost	O
+of	O
+the	O
+latter	O
+a	O
+kind	O
+of	O
+privilege	O
+to	O
+haunt	O
+its	O
+new	O
+apartments	O
+,	O
+and	O
+the	O
+chambers	O
+into	O
+which	O
+future	O
+bridegrooms	O
+were	O
+to	O
+lead	O
+their	O
+brides	O
+,	O
+and	O
+where	O
+children	O
+of	O
+the	O
+pyncheon	B-CHARACTER
+blood	O
+were	O
+to	O
+be	O
+born	O
+.	O
+
+# id = litbank-0355
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = the terror and ugliness of maule 's crime , and the wretchedness of his punishment , would darken the freshly plastered walls , and infect them early with the scent of an old and melancholy house .
+the	O
+terror	O
+and	O
+ugliness	O
+of	O
+maule	B-CHARACTER
+'s	O
+crime	O
+,	O
+and	O
+the	O
+wretchedness	O
+of	O
+his	O
+punishment	O
+,	O
+would	O
+darken	O
+the	O
+freshly	O
+plastered	O
+walls	O
+,	O
+and	O
+infect	O
+them	O
+early	O
+with	O
+the	O
+scent	O
+of	O
+an	O
+old	O
+and	O
+melancholy	O
+house	O
+.	O
+
+# id = litbank-0356
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = why , then , -- while so much of the soil around him was bestrewn with the virgin forest leaves , -- why should colonel pyncheon prefer a site that had already been accurst ?
+why	O
+,	O
+then	O
+,	O
+--	O
+while	O
+so	O
+much	O
+of	O
+the	O
+soil	O
+around	O
+him	O
+was	O
+bestrewn	O
+with	O
+the	O
+virgin	O
+forest	O
+leaves	O
+,	O
+--	O
+why	O
+should	O
+colonel	B-CHARACTER
+pyncheon	I-CHARACTER
+prefer	O
+a	O
+site	O
+that	O
+had	O
+already	O
+been	O
+accurst	O
+?	O
+
+# id = litbank-0357
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = he therefore dug his cellar , and laid the deep foundations of his mansion , on the square of earth whence matthew maule , forty years before , had first swept away the fallen leaves .
+he	O
+therefore	O
+dug	O
+his	O
+cellar	O
+,	O
+and	O
+laid	O
+the	O
+deep	O
+foundations	O
+of	O
+his	O
+mansion	O
+,	O
+on	O
+the	O
+square	O
+of	O
+earth	O
+whence	O
+matthew	B-CHARACTER
+maule	I-CHARACTER
+,	O
+forty	O
+years	O
+before	O
+,	O
+had	O
+first	O
+swept	O
+away	O
+the	O
+fallen	O
+leaves	O
+.	O
+
+# id = litbank-0358
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = whether its sources were disturbed by the depth of the new cellar , or whatever subtler cause might lurk at the bottom , it is certain that the water of maule 's well , as it continued to be called , grew hard and brackish .
+whether	O
+its	O
+sources	O
+were	O
+disturbed	O
+by	O
+the	O
+depth	O
+of	O
+the	O
+new	O
+cellar	O
+,	O
+or	O
+whatever	O
+subtler	O
+cause	O
+might	O
+lurk	O
+at	O
+the	O
+bottom	O
+,	O
+it	O
+is	O
+certain	O
+that	O
+the	O
+water	O
+of	O
+maule	B-CHARACTER
+'s	O
+well	O
+,	O
+as	O
+it	O
+continued	O
+to	O
+be	O
+called	O
+,	O
+grew	O
+hard	O
+and	O
+brackish	O
+.	O
+
+# id = litbank-0359
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = at all events , thomas maule became the architect of the house of the seven gables , and performed his duty so faithfully that the timber framework fastened by his hands still holds together .
+at	O
+all	O
+events	O
+,	O
+thomas	B-CHARACTER
+maule	I-CHARACTER
+became	O
+the	O
+architect	O
+of	O
+the	O
+house	O
+of	O
+the	O
+seven	O
+gables	O
+,	O
+and	O
+performed	O
+his	O
+duty	O
+so	O
+faithfully	O
+that	O
+the	O
+timber	O
+framework	O
+fastened	O
+by	O
+his	O
+hands	O
+still	O
+holds	O
+together	O
+.	O
+
+# id = litbank-0339
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = i the old pyncheon family halfway down a by-street of one of our new england towns stands a rusty wooden house , with seven acutely peaked gables , facing towards various points of the compass , and a huge , clustered chimney in the midst .
+i	O
+the	O
+old	O
+pyncheon	O
+family	O
+halfway	O
+down	O
+a	O
+by-street	O
+of	O
+one	O
+of	O
+our	O
+new	O
+england	O
+towns	O
+stands	O
+a	O
+rusty	O
+wooden	O
+house	O
+,	O
+with	O
+seven	O
+acutely	O
+peaked	O
+gables	O
+,	O
+facing	O
+towards	O
+various	O
+points	O
+of	O
+the	O
+compass	O
+,	O
+and	O
+a	O
+huge	O
+,	O
+clustered	O
+chimney	O
+in	O
+the	O
+midst	O
+.	O
+
+# id = litbank-0340
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = the street is pyncheon street ; the house is the old pyncheon house ; and an elm-tree , of wide circumference , rooted before the door , is familiar to every town-born child by the title of the pyncheon elm .
+the	O
+street	O
+is	O
+pyncheon	O
+street	O
+;	O
+the	O
+house	O
+is	O
+the	O
+old	O
+pyncheon	O
+house	O
+;	O
+and	O
+an	O
+elm-tree	O
+,	O
+of	O
+wide	O
+circumference	O
+,	O
+rooted	O
+before	O
+the	O
+door	O
+,	O
+is	O
+familiar	O
+to	O
+every	O
+town-born	O
+child	O
+by	O
+the	O
+title	O
+of	O
+the	O
+pyncheon	O
+elm	O
+.	O
+
+# id = litbank-0341
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = on my occasional visits to the town aforesaid , i seldom failed to turn down pyncheon street , for the sake of passing through the shadow of these two antiquities , -- the great elm-tree and the weather-beaten edifice .
+on	O
+my	O
+occasional	O
+visits	O
+to	O
+the	O
+town	O
+aforesaid	O
+,	O
+i	O
+seldom	O
+failed	O
+to	O
+turn	O
+down	O
+pyncheon	O
+street	O
+,	O
+for	O
+the	O
+sake	O
+of	O
+passing	O
+through	O
+the	O
+shadow	O
+of	O
+these	O
+two	O
+antiquities	O
+,	O
+--	O
+the	O
+great	O
+elm-tree	O
+and	O
+the	O
+weather-beaten	O
+edifice	O
+.	O
+
+# id = litbank-0342
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = the aspect of the venerable mansion has always affected me like a human countenance , bearing the traces not merely of outward storm and sunshine , but expressive also , of the long lapse of mortal life , and accompanying vicissitudes that have passed within .
+the	O
+aspect	O
+of	O
+the	O
+venerable	O
+mansion	O
+has	O
+always	O
+affected	O
+me	O
+like	O
+a	O
+human	O
+countenance	O
+,	O
+bearing	O
+the	O
+traces	O
+not	O
+merely	O
+of	O
+outward	O
+storm	O
+and	O
+sunshine	O
+,	O
+but	O
+expressive	O
+also	O
+,	O
+of	O
+the	O
+long	O
+lapse	O
+of	O
+mortal	O
+life	O
+,	O
+and	O
+accompanying	O
+vicissitudes	O
+that	O
+have	O
+passed	O
+within	O
+.	O
+
+# id = litbank-0343
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = were these to be worthily recounted , they would form a narrative of no small interest and instruction , and possessing , moreover , a certain remarkable unity , which might almost seem the result of artistic arrangement .
+were	O
+these	O
+to	O
+be	O
+worthily	O
+recounted	O
+,	O
+they	O
+would	O
+form	O
+a	O
+narrative	O
+of	O
+no	O
+small	O
+interest	O
+and	O
+instruction	O
+,	O
+and	O
+possessing	O
+,	O
+moreover	O
+,	O
+a	O
+certain	O
+remarkable	O
+unity	O
+,	O
+which	O
+might	O
+almost	O
+seem	O
+the	O
+result	O
+of	O
+artistic	O
+arrangement	O
+.	O
+

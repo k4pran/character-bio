@@ -1,0 +1,1306 @@
+# id = litbank-0987
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = prologue i a face haunted cameron -- a woman 's face .
+prologue	O
+i	O
+a	O
+face	O
+haunted	O
+cameron	B-CHARACTER
+--	O
+a	O
+woman	O
+'s	O
+face	O
+.	O
+
+# id = litbank-0989
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = this hour , when the day had closed and the lonely desert night set in with its dead silence , was one in which cameron 's mind was thronged with memories of a time long past -- of a home back in peoria , of a woman he had wronged and lost , and loved too late .
+this	O
+hour	O
+,	O
+when	O
+the	O
+day	O
+had	O
+closed	O
+and	O
+the	O
+lonely	O
+desert	O
+night	O
+set	O
+in	O
+with	O
+its	O
+dead	O
+silence	O
+,	O
+was	O
+one	O
+in	O
+which	O
+cameron	B-CHARACTER
+'s	O
+mind	O
+was	O
+thronged	O
+with	O
+memories	O
+of	O
+a	O
+time	O
+long	O
+past	O
+--	O
+of	O
+a	O
+home	O
+back	O
+in	O
+peoria	O
+,	O
+of	O
+a	O
+woman	O
+he	O
+had	O
+wronged	O
+and	O
+lost	O
+,	O
+and	O
+loved	O
+too	O
+late	O
+.	O
+
+# id = litbank-0991
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = a sound disturbed cameron 's reflections .
+a	O
+sound	O
+disturbed	O
+cameron	B-CHARACTER
+'s	O
+reflections	O
+.	O
+
+# id = litbank-0995
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = then a sharp clink of metal on stone and soft pads of hoofs in sand prompted cameron to reach for his gun , and to move out of the light of the waning campfire .
+then	O
+a	O
+sharp	O
+clink	O
+of	O
+metal	O
+on	O
+stone	O
+and	O
+soft	O
+pads	O
+of	O
+hoofs	O
+in	O
+sand	O
+prompted	O
+cameron	B-CHARACTER
+to	O
+reach	O
+for	O
+his	O
+gun	O
+,	O
+and	O
+to	O
+move	O
+out	O
+of	O
+the	O
+light	O
+of	O
+the	O
+waning	O
+campfire	O
+.	O
+
+# id = litbank-0996
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = cameron came forth out of the shadow and greeted his visitor , whom he took for a prospector like himself .
+cameron	B-CHARACTER
+came	O
+forth	O
+out	O
+of	O
+the	O
+shadow	O
+and	O
+greeted	O
+his	O
+visitor	O
+,	O
+whom	O
+he	O
+took	O
+for	O
+a	O
+prospector	O
+like	O
+himself	O
+.	O
+
+# id = litbank-0997
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = cameron resented the breaking of his lonely campfire vigil , but he respected the law of the desert .
+cameron	B-CHARACTER
+resented	O
+the	O
+breaking	O
+of	O
+his	O
+lonely	O
+campfire	O
+vigil	O
+,	O
+but	O
+he	O
+respected	O
+the	O
+law	O
+of	O
+the	O
+desert	O
+.	O
+
+# id = litbank-0998
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = cameron watched him , still with resentment , yet with a curious and growing interest .
+cameron	B-CHARACTER
+watched	O
+him	O
+,	O
+still	O
+with	O
+resentment	O
+,	O
+yet	O
+with	O
+a	O
+curious	O
+and	O
+growing	O
+interest	O
+.	O
+
+# id = litbank-0999
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = the campfire burst into a bright blaze , and by its light cameron saw a man whose gray hair somehow did not seem to make him old , and whose stooped shoulders did not detract from an impression of rugged strength .
+the	O
+campfire	O
+burst	O
+into	O
+a	O
+bright	O
+blaze	O
+,	O
+and	O
+by	O
+its	O
+light	O
+cameron	B-CHARACTER
+saw	O
+a	O
+man	O
+whose	O
+gray	O
+hair	O
+somehow	O
+did	O
+not	O
+seem	O
+to	O
+make	O
+him	O
+old	O
+,	O
+and	O
+whose	O
+stooped	O
+shoulders	O
+did	O
+not	O
+detract	O
+from	O
+an	O
+impression	O
+of	O
+rugged	O
+strength	O
+.	O
+
+# id = litbank-1000
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = " find any mineral ? " asked cameron , presently .
+"	O
+find	O
+any	O
+mineral	O
+?	O
+"	O
+asked	O
+cameron	B-CHARACTER
+,	O
+presently	O
+.	O
+
+# id = litbank-1001
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = cameron understood that .
+cameron	B-CHARACTER
+understood	O
+that	O
+.	O
+
+# id = litbank-1002
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = cameron felt that between this man and himself there was a subtle affinity , vague and undefined , perhaps born of the divination that here was a desert wanderer like himself , perhaps born of a deeper , an unintelligible relation having its roots back in the past .
+cameron	B-CHARACTER
+felt	O
+that	O
+between	O
+this	O
+man	O
+and	O
+himself	O
+there	O
+was	O
+a	O
+subtle	O
+affinity	O
+,	O
+vague	O
+and	O
+undefined	O
+,	O
+perhaps	O
+born	O
+of	O
+the	O
+divination	O
+that	O
+here	O
+was	O
+a	O
+desert	O
+wanderer	O
+like	O
+himself	O
+,	O
+perhaps	O
+born	O
+of	O
+a	O
+deeper	O
+,	O
+an	O
+unintelligible	O
+relation	O
+having	O
+its	O
+roots	O
+back	O
+in	O
+the	O
+past	O
+.	O
+
+# id = litbank-1003
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = a long-forgotten sensation stirred in cameron 's breast , one so long forgotten that he could not recognize it .
+a	O
+long-forgotten	O
+sensation	O
+stirred	O
+in	O
+cameron	B-CHARACTER
+'s	O
+breast	O
+,	O
+one	O
+so	O
+long	O
+forgotten	O
+that	O
+he	O
+could	O
+not	O
+recognize	O
+it	O
+.	O
+
+# id = litbank-1004
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = cameron shrugged his shoulders ; it was not his affair ; he had his own problems .
+cameron	B-CHARACTER
+shrugged	O
+his	O
+shoulders	O
+;	O
+it	O
+was	O
+not	O
+his	O
+affair	O
+;	O
+he	O
+had	O
+his	O
+own	O
+problems	O
+.	O
+
+# id = litbank-1005
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = cameron began his day , grateful for the solitude that was now unbroken , for the canyon-furrowed and cactus-spired scene that now showed no sign of life .
+cameron	B-CHARACTER
+began	O
+his	O
+day	O
+,	O
+grateful	O
+for	O
+the	O
+solitude	O
+that	O
+was	O
+now	O
+unbroken	O
+,	O
+for	O
+the	O
+canyon-furrowed	O
+and	O
+cactus-spired	O
+scene	O
+that	O
+now	O
+showed	O
+no	O
+sign	O
+of	O
+life	O
+.	O
+
+# id = litbank-1006
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = cameron recognized them .
+cameron	B-CHARACTER
+recognized	O
+them	O
+.	O
+
+# id = litbank-1007
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = " hello , " replied cameron , slowly .
+"	O
+hello	O
+,	O
+"	O
+replied	O
+cameron	B-CHARACTER
+,	O
+slowly	O
+.	O
+
+# id = litbank-1008
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = but cameron 's companion , when he had packed his burro and was ready to start , faced about and said : " we might stay together , if it 's all right with you . "
+but	O
+cameron	B-CHARACTER
+'s	O
+companion	O
+,	O
+when	O
+he	O
+had	O
+packed	O
+his	O
+burro	O
+and	O
+was	O
+ready	O
+to	O
+start	O
+,	O
+faced	O
+about	O
+and	O
+said	O
+:	O
+"	O
+we	O
+might	O
+stay	O
+together	O
+,	O
+if	O
+it	O
+'s	O
+all	O
+right	O
+with	O
+you	O
+.	O
+"	O
+
+# id = litbank-1009
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = " i never take a partner , " replied cameron .
+"	O
+i	O
+never	O
+take	O
+a	O
+partner	O
+,	O
+"	O
+replied	O
+cameron	B-CHARACTER
+.	O
+
+# id = litbank-1010
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = " i do n't go down into the desert for gold alone , " rejoined cameron , with a chill note in his swift reply .
+"	O
+i	O
+do	O
+n't	O
+go	O
+down	O
+into	O
+the	O
+desert	O
+for	O
+gold	O
+alone	O
+,	O
+"	O
+rejoined	O
+cameron	B-CHARACTER
+,	O
+with	O
+a	O
+chill	O
+note	O
+in	O
+his	O
+swift	O
+reply	O
+.	O
+
+# id = litbank-1011
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = it moved cameron to say that in the years of his wandering he had met no man who could endure equally with him the blasting heat , the blinding dust storms , the wilderness of sand and rock and lava and cactus , the terrible silence and desolation of the desert .
+it	O
+moved	O
+cameron	B-CHARACTER
+to	O
+say	O
+that	O
+in	O
+the	O
+years	O
+of	O
+his	O
+wandering	O
+he	O
+had	O
+met	O
+no	O
+man	O
+who	O
+could	O
+endure	O
+equally	O
+with	O
+him	O
+the	O
+blasting	O
+heat	O
+,	O
+the	O
+blinding	O
+dust	O
+storms	O
+,	O
+the	O
+wilderness	O
+of	O
+sand	O
+and	O
+rock	O
+and	O
+lava	O
+and	O
+cactus	O
+,	O
+the	O
+terrible	O
+silence	O
+and	O
+desolation	O
+of	O
+the	O
+desert	O
+.	O
+
+# id = litbank-1012
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = cameron waved a hand toward the wide , shimmering , shadowy descent of plain and range .
+cameron	B-CHARACTER
+waved	O
+a	O
+hand	O
+toward	O
+the	O
+wide	O
+,	O
+shimmering	O
+,	O
+shadowy	O
+descent	O
+of	O
+plain	O
+and	O
+range	O
+.	O
+
+# id = litbank-1013
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = then with gentle slaps he drove his burro in behind cameron .
+then	O
+with	O
+gentle	O
+slaps	O
+he	O
+drove	O
+his	O
+burro	O
+in	O
+behind	O
+cameron	B-CHARACTER
+.	O
+
+# id = litbank-1014
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = " have it your way , " said cameron .
+"	O
+have	O
+it	O
+your	O
+way	O
+,	O
+"	O
+said	O
+cameron	B-CHARACTER
+.	O
+
+# id = litbank-1015
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = cameron was glad his comrade had the indian habit of silence .
+cameron	B-CHARACTER
+was	O
+glad	O
+his	O
+comrade	O
+had	O
+the	O
+indian	O
+habit	O
+of	O
+silence	O
+.	O
+
+# id = litbank-1016
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = then there came a breaking of reserve , noticeable in the elder man , almost imperceptibly gradual in cameron .
+then	O
+there	O
+came	O
+a	O
+breaking	O
+of	O
+reserve	O
+,	O
+noticeable	O
+in	O
+the	O
+elder	O
+man	O
+,	O
+almost	O
+imperceptibly	O
+gradual	O
+in	O
+cameron	B-CHARACTER
+.	O
+
+# id = litbank-1017
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = beside the meager mesquite campfire this gray-faced , thoughtful old prospector would remove his black pipe from his mouth to talk a little ; and cameron would listen , and sometimes unlock his lips to speak a word .
+beside	O
+the	O
+meager	O
+mesquite	O
+campfire	O
+this	O
+gray-faced	O
+,	O
+thoughtful	O
+old	O
+prospector	O
+would	O
+remove	O
+his	O
+black	O
+pipe	O
+from	O
+his	O
+mouth	O
+to	O
+talk	O
+a	O
+little	O
+;	O
+and	O
+cameron	B-CHARACTER
+would	O
+listen	O
+,	O
+and	O
+sometimes	O
+unlock	O
+his	O
+lips	O
+to	O
+speak	O
+a	O
+word	O
+.	O
+
+# id = litbank-1018
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = and so , as cameron began to respond to the influence of a desert less lonely than habitual , he began to take keener note of his comrade , and found him different from any other he had ever encountered in the wilderness .
+and	O
+so	O
+,	O
+as	O
+cameron	B-CHARACTER
+began	O
+to	O
+respond	O
+to	O
+the	O
+influence	O
+of	O
+a	O
+desert	O
+less	O
+lonely	O
+than	O
+habitual	O
+,	O
+he	O
+began	O
+to	O
+take	O
+keener	O
+note	O
+of	O
+his	O
+comrade	O
+,	O
+and	O
+found	O
+him	O
+different	O
+from	O
+any	O
+other	O
+he	O
+had	O
+ever	O
+encountered	O
+in	O
+the	O
+wilderness	O
+.	O
+
+# id = litbank-1019
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = he slept but little , and that long after cameron had had his own rest .
+he	O
+slept	O
+but	O
+little	O
+,	O
+and	O
+that	O
+long	O
+after	O
+cameron	B-CHARACTER
+had	O
+had	O
+his	O
+own	O
+rest	O
+.	O
+
+# id = litbank-1020
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = cameron 's awakened interest brought home to him the realization that for years he had shunned companionship .
+cameron	B-CHARACTER
+'s	O
+awakened	O
+interest	O
+brought	O
+home	O
+to	O
+him	O
+the	O
+realization	O
+that	O
+for	O
+years	O
+he	O
+had	O
+shunned	O
+companionship	O
+.	O
+
+# id = litbank-1021
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = cameron had not cared to know their secrets .
+cameron	B-CHARACTER
+had	O
+not	O
+cared	O
+to	O
+know	O
+their	O
+secrets	O
+.	O
+
+# id = litbank-1022
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = cameron dug deep into the sand , but without avail .
+cameron	B-CHARACTER
+dug	O
+deep	O
+into	O
+the	O
+sand	O
+,	O
+but	O
+without	O
+avail	O
+.	O
+
+# id = litbank-1023
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = cameron watched him search in his pack and bring forth what appeared to be a small , forked branch of a peach tree .
+cameron	B-CHARACTER
+watched	O
+him	O
+search	O
+in	O
+his	O
+pack	O
+and	O
+bring	O
+forth	O
+what	O
+appeared	O
+to	O
+be	O
+a	O
+small	O
+,	O
+forked	O
+branch	O
+of	O
+a	O
+peach	O
+tree	O
+.	O
+
+# id = litbank-1024
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = cameron , at first amused , then amazed , then pitying , and at last curious , kept pace with the prospector .
+cameron	B-CHARACTER
+,	O
+at	O
+first	O
+amused	O
+,	O
+then	O
+amazed	O
+,	O
+then	O
+pitying	O
+,	O
+and	O
+at	O
+last	O
+curious	O
+,	O
+kept	O
+pace	O
+with	O
+the	O
+prospector	O
+.	O
+
+# id = litbank-1025
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = cameron reached out a hand to touch it , and was astounded at feeling a powerful vibrant force pulling the branch downward .
+cameron	B-CHARACTER
+reached	O
+out	O
+a	O
+hand	O
+to	O
+touch	O
+it	O
+,	O
+and	O
+was	O
+astounded	O
+at	O
+feeling	O
+a	O
+powerful	O
+vibrant	O
+force	O
+pulling	O
+the	O
+branch	O
+downward	O
+.	O
+
+# id = litbank-1026
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = " what ! " ejaculated cameron .
+"	O
+what	O
+!	O
+"	O
+ejaculated	O
+cameron	B-CHARACTER
+.	O
+
+# id = litbank-1027
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = then cameron stood by while his comrade dug in the sand .
+then	O
+cameron	B-CHARACTER
+stood	O
+by	O
+while	O
+his	O
+comrade	O
+dug	O
+in	O
+the	O
+sand	O
+.	O
+
+# id = litbank-1028
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = cameron complied , and saw his comrade drop the basket into the deep hole , where it kept the sides from caving in and allowed the water to seep through .
+cameron	B-CHARACTER
+complied	O
+,	O
+and	O
+saw	O
+his	O
+comrade	O
+drop	O
+the	O
+basket	O
+into	O
+the	O
+deep	O
+hole	O
+,	O
+where	O
+it	O
+kept	O
+the	O
+sides	O
+from	O
+caving	O
+in	O
+and	O
+allowed	O
+the	O
+water	O
+to	O
+seep	O
+through	O
+.	O
+
+# id = litbank-1029
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = while cameron watched , the basket filled .
+while	O
+cameron	B-CHARACTER
+watched	O
+,	O
+the	O
+basket	O
+filled	O
+.	O
+
+# id = litbank-0988
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = it was there in the white heart of the dying campfire ; it hung in the shadows that hovered over the flickering light ; it drifted in the darkness beyond .
+it	O
+was	O
+there	O
+in	O
+the	O
+white	O
+heart	O
+of	O
+the	O
+dying	O
+campfire	O
+;	O
+it	O
+hung	O
+in	O
+the	O
+shadows	O
+that	O
+hovered	O
+over	O
+the	O
+flickering	O
+light	O
+;	O
+it	O
+drifted	O
+in	O
+the	O
+darkness	O
+beyond	O
+.	O
+
+# id = litbank-0990
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = he was a prospector for gold , a hunter of solitude , a lover of the drear , rock-ribbed infinitude , because he wanted to be alone to remember .
+he	O
+was	O
+a	O
+prospector	O
+for	O
+gold	O
+,	O
+a	O
+hunter	O
+of	O
+solitude	O
+,	O
+a	O
+lover	O
+of	O
+the	O
+drear	O
+,	O
+rock-ribbed	O
+infinitude	O
+,	O
+because	O
+he	O
+wanted	O
+to	O
+be	O
+alone	O
+to	O
+remember	O
+.	O
+
+# id = litbank-0992
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = a soft wind fanned the paling embers , blew sparks and white ashes and thin smoke away into the enshrouding circle of blackness .
+a	O
+soft	O
+wind	O
+fanned	O
+the	O
+paling	O
+embers	O
+,	O
+blew	O
+sparks	O
+and	O
+white	O
+ashes	O
+and	O
+thin	O
+smoke	O
+away	O
+into	O
+the	O
+enshrouding	O
+circle	O
+of	O
+blackness	O
+.	O
+
+# id = litbank-0993
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = his burro did not appear to be moving about .
+his	O
+burro	O
+did	O
+not	O
+appear	O
+to	O
+be	O
+moving	O
+about	O
+.	O
+
+# id = litbank-0994
+# source = LitBank
+# book = Desert Gold
+# book_id = 502_desert_gold
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/502_desert_gold_brat.tsv
+# text = the quiet split to the cry of a coyote .
+the	O
+quiet	O
+split	O
+to	O
+the	O
+cry	O
+of	O
+a	O
+coyote	O
+.	O
+

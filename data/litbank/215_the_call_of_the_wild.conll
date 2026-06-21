@@ -1,0 +1,1148 @@
+# id = litbank-0728
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = buck did not read the newspapers , or he would have known that trouble was brewing , not alone for himself , but for every tide-water dog , strong of muscle and with warm , long hair , from puget sound to san diego .
+buck	B-CHARACTER
+did	O
+not	O
+read	O
+the	O
+newspapers	O
+,	O
+or	O
+he	O
+would	O
+have	O
+known	O
+that	O
+trouble	O
+was	O
+brewing	O
+,	O
+not	O
+alone	O
+for	O
+himself	O
+,	O
+but	O
+for	O
+every	O
+tide-water	O
+dog	O
+,	O
+strong	O
+of	O
+muscle	O
+and	O
+with	O
+warm	O
+,	O
+long	O
+hair	O
+,	O
+from	O
+puget	O
+sound	O
+to	O
+san	O
+diego	O
+.	O
+
+# id = litbank-0731
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = buck lived at a big house in the sun-kissed santa clara valley .
+buck	B-CHARACTER
+lived	O
+at	O
+a	O
+big	O
+house	O
+in	O
+the	O
+sun-kissed	O
+santa	O
+clara	O
+valley	O
+.	O
+
+# id = litbank-0732
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = judge miller 's place , it was called .
+judge	B-CHARACTER
+miller	I-CHARACTER
+'s	O
+place	O
+,	O
+it	O
+was	O
+called	O
+.	O
+
+# id = litbank-0735
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = then there was the pumping plant for the artesian well , and the big cement tank where judge miller 's boys took their morning plunge and kept cool in the hot afternoon .
+then	O
+there	O
+was	O
+the	O
+pumping	O
+plant	O
+for	O
+the	O
+artesian	O
+well	O
+,	O
+and	O
+the	O
+big	O
+cement	O
+tank	O
+where	O
+judge	B-CHARACTER
+miller	I-CHARACTER
+'s	O
+boys	O
+took	O
+their	O
+morning	O
+plunge	O
+and	O
+kept	O
+cool	O
+in	O
+the	O
+hot	O
+afternoon	O
+.	O
+
+# id = litbank-0736
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = and over this great demesne buck ruled .
+and	O
+over	O
+this	O
+great	O
+demesne	O
+buck	B-CHARACTER
+ruled	O
+.	O
+
+# id = litbank-0737
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = they came and went , resided in the populous kennels , or lived obscurely in the recesses of the house after the fashion of toots , the japanese pug , or ysabel , the mexican hairless , -- strange creatures that rarely put nose out of doors or set foot to ground .
+they	O
+came	O
+and	O
+went	O
+,	O
+resided	O
+in	O
+the	O
+populous	O
+kennels	O
+,	O
+or	O
+lived	O
+obscurely	O
+in	O
+the	O
+recesses	O
+of	O
+the	O
+house	O
+after	O
+the	O
+fashion	O
+of	O
+toots	B-CHARACTER
+,	O
+the	O
+japanese	O
+pug	O
+,	O
+or	O
+ysabel	B-CHARACTER
+,	O
+the	O
+mexican	O
+hairless	O
+,	O
+--	O
+strange	O
+creatures	O
+that	O
+rarely	O
+put	O
+nose	O
+out	O
+of	O
+doors	O
+or	O
+set	O
+foot	O
+to	O
+ground	O
+.	O
+
+# id = litbank-0738
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = on the other hand , there were the fox terriers , a score of them at least , who yelped fearful promises at toots and ysabel looking out of the windows at them and protected by a legion of housemaids armed with brooms and mops .
+on	O
+the	O
+other	O
+hand	O
+,	O
+there	O
+were	O
+the	O
+fox	O
+terriers	O
+,	O
+a	O
+score	O
+of	O
+them	O
+at	O
+least	O
+,	O
+who	O
+yelped	O
+fearful	O
+promises	O
+at	O
+toots	B-CHARACTER
+and	O
+ysabel	B-CHARACTER
+looking	O
+out	O
+of	O
+the	O
+windows	O
+at	O
+them	O
+and	O
+protected	O
+by	O
+a	O
+legion	O
+of	O
+housemaids	O
+armed	O
+with	O
+brooms	O
+and	O
+mops	O
+.	O
+
+# id = litbank-0739
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = but buck was neither house-dog nor kennel-dog .
+but	O
+buck	B-CHARACTER
+was	O
+neither	O
+house-dog	O
+nor	O
+kennel-dog	O
+.	O
+
+# id = litbank-0740
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = he plunged into the swimming tank or went hunting with the judge 's sons ; he escorted mollie and alice , the judge 's daughters , on long twilight or early morning rambles ; on wintry nights he lay at the judge 's feet before the roaring library fire ; he carried the judge 's grandsons on his back , or rolled them in the grass , and guarded their footsteps through wild adventures down to the fountain in the stable yard , and even beyond , where the paddocks were , and the berry patches .
+he	O
+plunged	O
+into	O
+the	O
+swimming	O
+tank	O
+or	O
+went	O
+hunting	O
+with	O
+the	O
+judge	O
+'s	O
+sons	O
+;	O
+he	O
+escorted	O
+mollie	B-CHARACTER
+and	O
+alice	B-CHARACTER
+,	O
+the	O
+judge	O
+'s	O
+daughters	O
+,	O
+on	O
+long	O
+twilight	O
+or	O
+early	O
+morning	O
+rambles	O
+;	O
+on	O
+wintry	O
+nights	O
+he	O
+lay	O
+at	O
+the	O
+judge	O
+'s	O
+feet	O
+before	O
+the	O
+roaring	O
+library	O
+fire	O
+;	O
+he	O
+carried	O
+the	O
+judge	O
+'s	O
+grandsons	O
+on	O
+his	O
+back	O
+,	O
+or	O
+rolled	O
+them	O
+in	O
+the	O
+grass	O
+,	O
+and	O
+guarded	O
+their	O
+footsteps	O
+through	O
+wild	O
+adventures	O
+down	O
+to	O
+the	O
+fountain	O
+in	O
+the	O
+stable	O
+yard	O
+,	O
+and	O
+even	O
+beyond	O
+,	O
+where	O
+the	O
+paddocks	O
+were	O
+,	O
+and	O
+the	O
+berry	O
+patches	O
+.	O
+
+# id = litbank-0741
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = among the terriers he stalked imperiously , and toots and ysabel he utterly ignored , for he was king , -- king over all creeping , crawling , flying things of judge miller 's place , humans included .
+among	O
+the	O
+terriers	O
+he	O
+stalked	O
+imperiously	O
+,	O
+and	O
+toots	B-CHARACTER
+and	O
+ysabel	B-CHARACTER
+he	O
+utterly	O
+ignored	O
+,	O
+for	O
+he	O
+was	O
+king	O
+,	O
+--	O
+king	O
+over	O
+all	O
+creeping	O
+,	O
+crawling	O
+,	O
+flying	O
+things	O
+of	O
+judge	B-CHARACTER
+miller	I-CHARACTER
+'s	O
+place	O
+,	O
+humans	O
+included	O
+.	O
+
+# id = litbank-0742
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = his father , elmo , a huge st. bernard , had been the judge 's inseparable companion , and buck bid fair to follow in the way of his father .
+his	O
+father	O
+,	O
+elmo	B-CHARACTER
+,	O
+a	O
+huge	O
+st.	O
+bernard	O
+,	O
+had	O
+been	O
+the	O
+judge	O
+'s	O
+inseparable	O
+companion	O
+,	O
+and	O
+buck	B-CHARACTER
+bid	O
+fair	O
+to	O
+follow	O
+in	O
+the	O
+way	O
+of	O
+his	O
+father	O
+.	O
+
+# id = litbank-0743
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = he was not so large , -- he weighed only one hundred and forty pounds , -- for his mother , shep , had been a scotch shepherd dog .
+he	O
+was	O
+not	O
+so	O
+large	O
+,	O
+--	O
+he	O
+weighed	O
+only	O
+one	O
+hundred	O
+and	O
+forty	O
+pounds	O
+,	O
+--	O
+for	O
+his	O
+mother	O
+,	O
+shep	B-CHARACTER
+,	O
+had	O
+been	O
+a	O
+scotch	O
+shepherd	O
+dog	O
+.	O
+
+# id = litbank-0744
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = and this was the manner of dog buck was in the fall of 1897 , when the klondike strike dragged men from all the world into the frozen north .
+and	O
+this	O
+was	O
+the	O
+manner	O
+of	O
+dog	O
+buck	B-CHARACTER
+was	O
+in	O
+the	O
+fall	O
+of	O
+1897	O
+,	O
+when	O
+the	O
+klondike	O
+strike	O
+dragged	O
+men	O
+from	O
+all	O
+the	O
+world	O
+into	O
+the	O
+frozen	O
+north	O
+.	O
+
+# id = litbank-0745
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = but buck did not read the newspapers , and he did not know that manuel , one of the gardener 's helpers , was an undesirable acquaintance .
+but	O
+buck	B-CHARACTER
+did	O
+not	O
+read	O
+the	O
+newspapers	O
+,	O
+and	O
+he	O
+did	O
+not	O
+know	O
+that	O
+manuel	B-CHARACTER
+,	O
+one	O
+of	O
+the	O
+gardener	O
+'s	O
+helpers	O
+,	O
+was	O
+an	O
+undesirable	O
+acquaintance	O
+.	O
+
+# id = litbank-0746
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = manuel had one besetting sin .
+manuel	B-CHARACTER
+had	O
+one	O
+besetting	O
+sin	O
+.	O
+
+# id = litbank-0747
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = the judge was at a meeting of the raisin growers ' association , and the boys were busy organizing an athletic club , on the memorable night of manuel 's treachery .
+the	O
+judge	O
+was	O
+at	O
+a	O
+meeting	O
+of	O
+the	O
+raisin	O
+growers	O
+'	O
+association	O
+,	O
+and	O
+the	O
+boys	O
+were	O
+busy	O
+organizing	O
+an	O
+athletic	O
+club	O
+,	O
+on	O
+the	O
+memorable	O
+night	O
+of	O
+manuel	B-CHARACTER
+'s	O
+treachery	O
+.	O
+
+# id = litbank-0748
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = no one saw him and buck go off through the orchard on what buck imagined was merely a stroll .
+no	O
+one	O
+saw	O
+him	O
+and	O
+buck	B-CHARACTER
+go	O
+off	O
+through	O
+the	O
+orchard	O
+on	O
+what	O
+buck	B-CHARACTER
+imagined	O
+was	O
+merely	O
+a	O
+stroll	O
+.	O
+
+# id = litbank-0749
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = this man talked with manuel , and money chinked between them .
+this	O
+man	O
+talked	O
+with	O
+manuel	B-CHARACTER
+,	O
+and	O
+money	O
+chinked	O
+between	O
+them	O
+.	O
+
+# id = litbank-0750
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = “ you might wrap up the goods before you deliver 'm , ” the stranger said gruffly , and manuel doubled a piece of stout rope around buck 's neck under the collar .
+“	O
+you	O
+might	O
+wrap	O
+up	O
+the	O
+goods	O
+before	O
+you	O
+deliver	O
+'m	O
+,	O
+”	O
+the	O
+stranger	O
+said	O
+gruffly	O
+,	O
+and	O
+manuel	B-CHARACTER
+doubled	O
+a	O
+piece	O
+of	O
+stout	O
+rope	O
+around	O
+buck	B-CHARACTER
+'s	O
+neck	O
+under	O
+the	O
+collar	O
+.	O
+
+# id = litbank-0751
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = “ twist it , an ' you 'll choke 'm plentee , ” said manuel , and the stranger grunted a ready affirmative .
+“	O
+twist	O
+it	O
+,	O
+an	O
+'	O
+you	O
+'ll	O
+choke	O
+'m	O
+plentee	O
+,	O
+”	O
+said	O
+manuel	B-CHARACTER
+,	O
+and	O
+the	O
+stranger	O
+grunted	O
+a	O
+ready	O
+affirmative	O
+.	O
+
+# id = litbank-0752
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = buck had accepted the rope with quiet dignity .
+buck	B-CHARACTER
+had	O
+accepted	O
+the	O
+rope	O
+with	O
+quiet	O
+dignity	O
+.	O
+
+# id = litbank-0753
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = then the rope tightened mercilessly , while buck struggled in a fury , his tongue lolling out of his mouth and his great chest panting futilely .
+then	O
+the	O
+rope	O
+tightened	O
+mercilessly	O
+,	O
+while	O
+buck	B-CHARACTER
+struggled	O
+in	O
+a	O
+fury	O
+,	O
+his	O
+tongue	O
+lolling	O
+out	O
+of	O
+his	O
+mouth	O
+and	O
+his	O
+great	O
+chest	O
+panting	O
+futilely	O
+.	O
+
+# id = litbank-0754
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = the man sprang for his throat , but buck was too quick for him .
+the	O
+man	O
+sprang	O
+for	O
+his	O
+throat	O
+,	O
+but	O
+buck	B-CHARACTER
+was	O
+too	O
+quick	O
+for	O
+him	O
+.	O
+
+# id = litbank-0755
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = dazed , suffering intolerable pain from throat and tongue , with the life half throttled out of him , buck attempted to face his tormentors .
+dazed	O
+,	O
+suffering	O
+intolerable	O
+pain	O
+from	O
+throat	O
+and	O
+tongue	O
+,	O
+with	O
+the	O
+life	O
+half	O
+throttled	O
+out	O
+of	O
+him	O
+,	O
+buck	B-CHARACTER
+attempted	O
+to	O
+face	O
+his	O
+tormentors	O
+.	O
+
+# id = litbank-0756
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = and each time the joyful bark that trembled in buck 's throat was twisted into a savage growl .
+and	O
+each	O
+time	O
+the	O
+joyful	O
+bark	O
+that	O
+trembled	O
+in	O
+buck	B-CHARACTER
+'s	O
+throat	O
+was	O
+twisted	O
+into	O
+a	O
+savage	O
+growl	O
+.	O
+
+# id = litbank-0757
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = more tormentors , buck decided , for they were evil-looking creatures , ragged and unkempt ; and he stormed and raged at them through the bars .
+more	O
+tormentors	O
+,	O
+buck	B-CHARACTER
+decided	O
+,	O
+for	O
+they	O
+were	O
+evil-looking	O
+creatures	O
+,	O
+ragged	O
+and	O
+unkempt	O
+;	O
+and	O
+he	O
+stormed	O
+and	O
+raged	O
+at	O
+them	O
+through	O
+the	O
+bars	O
+.	O
+
+# id = litbank-0727
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = chapter i. into the primitive “ old longings nomadic leap , chafing at custom 's chain ; again from its brumal sleep wakens the ferine strain . ”
+chapter	O
+i.	O
+into	O
+the	O
+primitive	O
+“	O
+old	O
+longings	O
+nomadic	O
+leap	O
+,	O
+chafing	O
+at	O
+custom	O
+'s	O
+chain	O
+;	O
+again	O
+from	O
+its	O
+brumal	O
+sleep	O
+wakens	O
+the	O
+ferine	O
+strain	O
+.	O
+”	O
+
+# id = litbank-0729
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = because men , groping in the arctic darkness , had found a yellow metal , and because steamship and transportation companies were booming the find , thousands of men were rushing into the northland .
+because	O
+men	O
+,	O
+groping	O
+in	O
+the	O
+arctic	O
+darkness	O
+,	O
+had	O
+found	O
+a	O
+yellow	O
+metal	O
+,	O
+and	O
+because	O
+steamship	O
+and	O
+transportation	O
+companies	O
+were	O
+booming	O
+the	O
+find	O
+,	O
+thousands	O
+of	O
+men	O
+were	O
+rushing	O
+into	O
+the	O
+northland	O
+.	O
+
+# id = litbank-0730
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = these men wanted dogs , and the dogs they wanted were heavy dogs , with strong muscles by which to toil , and furry coats to protect them from the frost .
+these	O
+men	O
+wanted	O
+dogs	O
+,	O
+and	O
+the	O
+dogs	O
+they	O
+wanted	O
+were	O
+heavy	O
+dogs	O
+,	O
+with	O
+strong	O
+muscles	O
+by	O
+which	O
+to	O
+toil	O
+,	O
+and	O
+furry	O
+coats	O
+to	O
+protect	O
+them	O
+from	O
+the	O
+frost	O
+.	O
+
+# id = litbank-0733
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = it stood back from the road , half hidden among the trees , through which glimpses could be caught of the wide cool veranda that ran around its four sides .
+it	O
+stood	O
+back	O
+from	O
+the	O
+road	O
+,	O
+half	O
+hidden	O
+among	O
+the	O
+trees	O
+,	O
+through	O
+which	O
+glimpses	O
+could	O
+be	O
+caught	O
+of	O
+the	O
+wide	O
+cool	O
+veranda	O
+that	O
+ran	O
+around	O
+its	O
+four	O
+sides	O
+.	O
+
+# id = litbank-0734
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = the house was approached by gravelled driveways which wound about through wide-spreading lawns and under the interlacing boughs of tall poplars .
+the	O
+house	O
+was	O
+approached	O
+by	O
+gravelled	O
+driveways	O
+which	O
+wound	O
+about	O
+through	O
+wide-spreading	O
+lawns	O
+and	O
+under	O
+the	O
+interlacing	O
+boughs	O
+of	O
+tall	O
+poplars	O
+.	O
+

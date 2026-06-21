@@ -1,0 +1,1287 @@
+# id = litbank-1901
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = chapter 1 one may as well begin with helen 's letters to her sister .
+chapter	O
+1	O
+one	O
+may	O
+as	O
+well	O
+begin	O
+with	O
+helen	B-CHARACTER
+'s	O
+letters	O
+to	O
+her	O
+sister	O
+.	O
+
+# id = litbank-1902
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = dearest meg , it is n't going to be what we expected .
+dearest	O
+meg	B-CHARACTER
+,	O
+it	O
+is	O
+n't	O
+going	O
+to	O
+be	O
+what	O
+we	O
+expected	O
+.	O
+
+# id = litbank-1904
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = we can scarcely pack in as it is , and the dear knows what will happen when paul ( younger son ) arrives tomorrow .
+we	O
+can	O
+scarcely	O
+pack	O
+in	O
+as	O
+it	O
+is	O
+,	O
+and	O
+the	O
+dear	O
+knows	O
+what	O
+will	O
+happen	O
+when	O
+paul	B-CHARACTER
+(	O
+younger	O
+son	O
+)	O
+arrives	O
+tomorrow	O
+.	O
+
+# id = litbank-1909
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = i believe simply because we associate them with expensive hotels -- mrs. wilcox trailing in beautiful dresses down long corridors , mr. wilcox bullying porters , etc .
+i	O
+believe	O
+simply	O
+because	O
+we	O
+associate	O
+them	O
+with	O
+expensive	O
+hotels	O
+--	O
+mrs.	B-CHARACTER
+wilcox	I-CHARACTER
+trailing	O
+in	O
+beautiful	O
+dresses	O
+down	O
+long	O
+corridors	O
+,	O
+mr.	B-CHARACTER
+wilcox	I-CHARACTER
+bullying	O
+porters	O
+,	O
+etc	O
+.	O
+
+# id = litbank-1910
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = they are as angry as i am that you did not come too ; really tibby is too tiresome , he starts a new mortal disease every month .
+they	O
+are	O
+as	O
+angry	O
+as	O
+i	O
+am	O
+that	O
+you	O
+did	O
+not	O
+come	O
+too	O
+;	O
+really	O
+tibby	B-CHARACTER
+is	O
+too	O
+tiresome	O
+,	O
+he	O
+starts	O
+a	O
+new	O
+mortal	O
+disease	O
+every	O
+month	O
+.	O
+
+# id = litbank-1911
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = tell him that charles wilcox ( the son who is here ) has hay fever too , but he 's brave , and gets quite cross when we inquire after it .
+tell	O
+him	O
+that	O
+charles	B-CHARACTER
+wilcox	I-CHARACTER
+(	O
+the	O
+son	O
+who	O
+is	O
+here	O
+)	O
+has	O
+hay	O
+fever	O
+too	O
+,	O
+but	O
+he	O
+'s	O
+brave	O
+,	O
+and	O
+gets	O
+quite	O
+cross	O
+when	O
+we	O
+inquire	O
+after	O
+it	O
+.	O
+
+# id = litbank-1912
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = men like the wilcoxes would do tibby a power of good .
+men	O
+like	O
+the	O
+wilcoxes	O
+would	O
+do	O
+tibby	B-CHARACTER
+a	O
+power	O
+of	O
+good	O
+.	O
+
+# id = litbank-1913
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = i looked out earlier , and mrs. wilcox was already in the garden .
+i	O
+looked	O
+out	O
+earlier	O
+,	O
+and	O
+mrs.	B-CHARACTER
+wilcox	I-CHARACTER
+was	O
+already	O
+in	O
+the	O
+garden	O
+.	O
+
+# id = litbank-1914
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = later on i heard the noise of croquet balls , and looked out again , and it was charles wilcox practising ; they are keen on all games .
+later	O
+on	O
+i	O
+heard	O
+the	O
+noise	O
+of	O
+croquet	O
+balls	O
+,	O
+and	O
+looked	O
+out	O
+again	O
+,	O
+and	O
+it	O
+was	O
+charles	B-CHARACTER
+wilcox	I-CHARACTER
+practising	O
+;	O
+they	O
+are	O
+keen	O
+on	O
+all	O
+games	O
+.	O
+
+# id = litbank-1915
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = then i hear more clicketing , and it is mr. wilcox practising , and then , ' a-tissue , a-tissue ' : he has to stop too .
+then	O
+i	O
+hear	O
+more	O
+clicketing	O
+,	O
+and	O
+it	O
+is	O
+mr.	B-CHARACTER
+wilcox	I-CHARACTER
+practising	O
+,	O
+and	O
+then	O
+,	O
+'	O
+a-tissue	O
+,	O
+a-tissue	O
+'	O
+:	O
+he	O
+has	O
+to	O
+stop	O
+too	O
+.	O
+
+# id = litbank-1916
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = then evie comes out , and does some calisthenic exercises on a machine that is tacked on to a greengage-tree -- they put everything to use -- and then she says ' a-tissue , ' and in she goes .
+then	O
+evie	B-CHARACTER
+comes	O
+out	O
+,	O
+and	O
+does	O
+some	O
+calisthenic	O
+exercises	O
+on	O
+a	O
+machine	O
+that	O
+is	O
+tacked	O
+on	O
+to	O
+a	O
+greengage-tree	O
+--	O
+they	O
+put	O
+everything	O
+to	O
+use	O
+--	O
+and	O
+then	O
+she	O
+says	O
+'	O
+a-tissue	O
+,	O
+'	O
+and	O
+in	O
+she	O
+goes	O
+.	O
+
+# id = litbank-1917
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = and finally mrs. wilcox reappears , trail , trail , still smelling hay and looking at the flowers .
+and	O
+finally	O
+mrs.	B-CHARACTER
+wilcox	I-CHARACTER
+reappears	O
+,	O
+trail	O
+,	O
+trail	O
+,	O
+still	O
+smelling	O
+hay	O
+and	O
+looking	O
+at	O
+the	O
+flowers	O
+.	O
+
+# id = litbank-1918
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = i inflict all this on you because once you said that life is sometimes life and sometimes only a drama , and one must learn to distinguish t ' other from which , and up to now i have always put that down as ' meg 's clever nonsense . '
+i	O
+inflict	O
+all	O
+this	O
+on	O
+you	O
+because	O
+once	O
+you	O
+said	O
+that	O
+life	O
+is	O
+sometimes	O
+life	O
+and	O
+sometimes	O
+only	O
+a	O
+drama	O
+,	O
+and	O
+one	O
+must	O
+learn	O
+to	O
+distinguish	O
+t	O
+'	O
+other	O
+from	O
+which	O
+,	O
+and	O
+up	O
+to	O
+now	O
+i	O
+have	O
+always	O
+put	O
+that	O
+down	O
+as	O
+'	O
+meg	B-CHARACTER
+'s	O
+clever	O
+nonsense	O
+.	O
+'	O
+
+# id = litbank-1919
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = now mrs. wilcox has come in .
+now	O
+mrs.	B-CHARACTER
+wilcox	I-CHARACTER
+has	O
+come	O
+in	O
+.	O
+
+# id = litbank-1920
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = last night mrs. wilcox wore an [ omission ] , and evie [ omission ] .
+last	O
+night	O
+mrs.	B-CHARACTER
+wilcox	I-CHARACTER
+wore	O
+an	O
+[	O
+omission	O
+]	O
+,	O
+and	O
+evie	B-CHARACTER
+[	O
+omission	O
+]	O
+.	O
+
+# id = litbank-1921
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = modified love to tibby .
+modified	O
+love	O
+to	O
+tibby	B-CHARACTER
+.	O
+
+# id = litbank-1922
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = love to aunt juley ; how good of her to come and keep you company , but what a bore .
+love	O
+to	O
+aunt	O
+juley	B-CHARACTER
+;	O
+how	O
+good	O
+of	O
+her	O
+to	O
+come	O
+and	O
+keep	O
+you	O
+company	O
+,	O
+but	O
+what	O
+a	O
+bore	O
+.	O
+
+# id = litbank-1923
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = helen howards end , friday .
+helen	B-CHARACTER
+howards	O
+end	O
+,	O
+friday	O
+.	O
+
+# id = litbank-1924
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = dearest meg , i am having a glorious time .
+dearest	O
+meg	B-CHARACTER
+,	O
+i	O
+am	O
+having	O
+a	O
+glorious	O
+time	O
+.	O
+
+# id = litbank-1925
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = mrs. wilcox , if quieter than in germany , is sweeter than ever , and i never saw anything like her steady unselfishness , and the best of it is that the others do not take advantage of her .
+mrs.	B-CHARACTER
+wilcox	I-CHARACTER
+,	O
+if	O
+quieter	O
+than	O
+in	O
+germany	O
+,	O
+is	O
+sweeter	O
+than	O
+ever	O
+,	O
+and	O
+i	O
+never	O
+saw	O
+anything	O
+like	O
+her	O
+steady	O
+unselfishness	O
+,	O
+and	O
+the	O
+best	O
+of	O
+it	O
+is	O
+that	O
+the	O
+others	O
+do	O
+not	O
+take	O
+advantage	O
+of	O
+her	O
+.	O
+
+# id = litbank-1926
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = the fun of it is that they think me a noodle , and say so -- at least mr. wilcox does -- and when that happens , and one does n't mind , it 's a pretty sure test , is n't it ?
+the	O
+fun	O
+of	O
+it	O
+is	O
+that	O
+they	O
+think	O
+me	O
+a	O
+noodle	O
+,	O
+and	O
+say	O
+so	O
+--	O
+at	O
+least	O
+mr.	B-CHARACTER
+wilcox	I-CHARACTER
+does	O
+--	O
+and	O
+when	O
+that	O
+happens	O
+,	O
+and	O
+one	O
+does	O
+n't	O
+mind	O
+,	O
+it	O
+'s	O
+a	O
+pretty	O
+sure	O
+test	O
+,	O
+is	O
+n't	O
+it	O
+?	O
+
+# id = litbank-1927
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = meg , shall we ever learn to talk less ?
+meg	B-CHARACTER
+,	O
+shall	O
+we	O
+ever	O
+learn	O
+to	O
+talk	O
+less	O
+?	O
+
+# id = litbank-1928
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = anyhow , it 's been knocked into pieces , and , like all people who are really strong , mr. wilcox did it without hurting me .
+anyhow	O
+,	O
+it	O
+'s	O
+been	O
+knocked	O
+into	O
+pieces	O
+,	O
+and	O
+,	O
+like	O
+all	O
+people	O
+who	O
+are	O
+really	O
+strong	O
+,	O
+mr.	B-CHARACTER
+wilcox	I-CHARACTER
+did	O
+it	O
+without	O
+hurting	O
+me	O
+.	O
+
+# id = litbank-1929
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = we live like fighting-cocks , and charles takes us out every day in the motor -- a tomb with trees in it , a hermit 's house , a wonderful road that was made by the kings of mercia -- tennis -- a cricket match -- bridge -- and at night we squeeze up in this lovely house .
+we	O
+live	O
+like	O
+fighting-cocks	O
+,	O
+and	O
+charles	B-CHARACTER
+takes	O
+us	O
+out	O
+every	O
+day	O
+in	O
+the	O
+motor	O
+--	O
+a	O
+tomb	O
+with	O
+trees	O
+in	O
+it	O
+,	O
+a	O
+hermit	O
+'s	O
+house	O
+,	O
+a	O
+wonderful	O
+road	O
+that	O
+was	O
+made	O
+by	O
+the	O
+kings	O
+of	O
+mercia	O
+--	O
+tennis	O
+--	O
+a	O
+cricket	O
+match	O
+--	O
+bridge	O
+--	O
+and	O
+at	O
+night	O
+we	O
+squeeze	O
+up	O
+in	O
+this	O
+lovely	O
+house	O
+.	O
+
+# id = litbank-1930
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = evie is a dear .
+evie	B-CHARACTER
+is	O
+a	O
+dear	O
+.	O
+
+# id = litbank-1931
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = your affectionate helen howards end , sunday .
+your	O
+affectionate	O
+helen	B-CHARACTER
+howards	O
+end	O
+,	O
+sunday	O
+.	O
+
+# id = litbank-1932
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = dearest , dearest meg , -- i do not know what you will say : paul and i are in love -- the younger son who only came here wednesday .
+dearest	O
+,	O
+dearest	O
+meg	B-CHARACTER
+,	O
+--	O
+i	O
+do	O
+not	O
+know	O
+what	O
+you	O
+will	O
+say	O
+:	O
+paul	B-CHARACTER
+and	O
+i	O
+are	O
+in	O
+love	O
+--	O
+the	O
+younger	O
+son	O
+who	O
+only	O
+came	O
+here	O
+wednesday	O
+.	O
+
+# id = litbank-1933
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = chapter 2 margaret glanced at her sister 's note and pushed it over the breakfast-table to her aunt .
+chapter	O
+2	O
+margaret	B-CHARACTER
+glanced	O
+at	O
+her	O
+sister	O
+'s	O
+note	O
+and	O
+pushed	O
+it	O
+over	O
+the	O
+breakfast-table	O
+to	O
+her	O
+aunt	O
+.	O
+
+# id = litbank-1934
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = " i can tell you nothing , aunt juley .
+"	O
+i	O
+can	O
+tell	O
+you	O
+nothing	O
+,	O
+aunt	O
+juley	B-CHARACTER
+.	O
+
+# id = litbank-1935
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = " who knows , aunt juley , who knows ? "
+"	O
+who	O
+knows	O
+,	O
+aunt	O
+juley	B-CHARACTER
+,	O
+who	O
+knows	O
+?	O
+"	O
+
+# id = litbank-1936
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = " but , margaret dear , i mean we must n't be unpractical now that we 've come to facts .
+"	O
+but	O
+,	O
+margaret	B-CHARACTER
+dear	O
+,	O
+i	O
+mean	O
+we	O
+must	O
+n't	O
+be	O
+unpractical	O
+now	O
+that	O
+we	O
+'ve	O
+come	O
+to	O
+facts	O
+.	O
+
+# id = litbank-1937
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = " but margaret dear -- " " i 'll go for her other letters , " said margaret .
+"	O
+but	O
+margaret	B-CHARACTER
+dear	O
+--	O
+"	O
+"	O
+i	O
+'ll	O
+go	O
+for	O
+her	O
+other	O
+letters	O
+,	O
+"	O
+said	O
+margaret	B-CHARACTER
+.	O
+
+# id = litbank-1938
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = helen and i had got it into our heads that there was a grand old cathedral at speyer -- the archbishop of speyer was one of the seven electors -- you know -- ' speyer , maintz , and koln . '
+helen	B-CHARACTER
+and	O
+i	O
+had	O
+got	O
+it	O
+into	O
+our	O
+heads	O
+that	O
+there	O
+was	O
+a	O
+grand	O
+old	O
+cathedral	O
+at	O
+speyer	O
+--	O
+the	O
+archbishop	O
+of	O
+speyer	O
+was	O
+one	O
+of	O
+the	O
+seven	O
+electors	O
+--	O
+you	O
+know	O
+--	O
+'	O
+speyer	O
+,	O
+maintz	O
+,	O
+and	O
+koln	O
+.	O
+'	O
+
+# id = litbank-1939
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = " i still feel quite uneasy about this business , margaret . "
+"	O
+i	O
+still	O
+feel	O
+quite	O
+uneasy	O
+about	O
+this	O
+business	O
+,	O
+margaret	B-CHARACTER
+.	O
+"	O
+
+# id = litbank-1940
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = they too , poor things , had been taken in -- they were actually stopping at speyer -- and they rather liked helen insisting that they must fly with us to heidelberg .
+they	O
+too	O
+,	O
+poor	O
+things	O
+,	O
+had	O
+been	O
+taken	O
+in	O
+--	O
+they	O
+were	O
+actually	O
+stopping	O
+at	O
+speyer	O
+--	O
+and	O
+they	O
+rather	O
+liked	O
+helen	B-CHARACTER
+insisting	O
+that	O
+they	O
+must	O
+fly	O
+with	O
+us	O
+to	O
+heidelberg	O
+.	O
+
+# id = litbank-1941
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = they knew us well enough to ask helen to come and see them -- at least , i was asked too , but tibby 's illness prevented me , so last monday she went alone .
+they	O
+knew	O
+us	O
+well	O
+enough	O
+to	O
+ask	O
+helen	B-CHARACTER
+to	O
+come	O
+and	O
+see	O
+them	O
+--	O
+at	O
+least	O
+,	O
+i	O
+was	O
+asked	O
+too	O
+,	O
+but	O
+tibby	B-CHARACTER
+'s	O
+illness	O
+prevented	O
+me	O
+,	O
+so	O
+last	O
+monday	O
+she	O
+went	O
+alone	O
+.	O
+
+# id = litbank-1903
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = it is old and little , and altogether delightful -- red brick .
+it	O
+is	O
+old	O
+and	O
+little	O
+,	O
+and	O
+altogether	O
+delightful	O
+--	O
+red	O
+brick	O
+.	O
+
+# id = litbank-1905
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = from hall you go right or left into dining-room or drawing-room .
+from	O
+hall	O
+you	O
+go	O
+right	O
+or	O
+left	O
+into	O
+dining-room	O
+or	O
+drawing-room	O
+.	O
+
+# id = litbank-1906
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = you open another door in it , and there are the stairs going up in a sort of tunnel to the first-floor .
+you	O
+open	O
+another	O
+door	O
+in	O
+it	O
+,	O
+and	O
+there	O
+are	O
+the	O
+stairs	O
+going	O
+up	O
+in	O
+a	O
+sort	O
+of	O
+tunnel	O
+to	O
+the	O
+first-floor	O
+.	O
+
+# id = litbank-1907
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = three bedrooms in a row there , and three attics in a row above .
+three	O
+bedrooms	O
+in	O
+a	O
+row	O
+there	O
+,	O
+and	O
+three	O
+attics	O
+in	O
+a	O
+row	O
+above	O
+.	O
+
+# id = litbank-1908
+# source = LitBank
+# book = Howards End
+# book_id = 2891_howards_end
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2891_howards_end_brat.tsv
+# text = that is n't all the house really , but it 's all that one notices -- nine windows as you look up from the front garden .
+that	O
+is	O
+n't	O
+all	O
+the	O
+house	O
+really	O
+,	O
+but	O
+it	O
+'s	O
+all	O
+that	O
+one	O
+notices	O
+--	O
+nine	O
+windows	O
+as	O
+you	O
+look	O
+up	O
+from	O
+the	O
+front	O
+garden	O
+.	O
+

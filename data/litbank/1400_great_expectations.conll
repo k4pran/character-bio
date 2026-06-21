@@ -1,0 +1,578 @@
+# id = litbank-1614
+# source = LitBank
+# book = Great Expectations
+# book_id = 1400_great_expectations
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1400_great_expectations_brat.tsv
+# text = chapter i my father 's family name being pirrip , and my christian name philip , my infant tongue could make of both names nothing longer or more explicit than pip .
+chapter	O
+i	O
+my	O
+father	O
+'s	O
+family	O
+name	O
+being	O
+pirrip	B-CHARACTER
+,	O
+and	O
+my	O
+christian	O
+name	O
+philip	B-CHARACTER
+,	O
+my	O
+infant	O
+tongue	O
+could	O
+make	O
+of	O
+both	O
+names	O
+nothing	O
+longer	O
+or	O
+more	O
+explicit	O
+than	O
+pip	B-CHARACTER
+.	O
+
+# id = litbank-1615
+# source = LitBank
+# book = Great Expectations
+# book_id = 1400_great_expectations
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1400_great_expectations_brat.tsv
+# text = so , i called myself pip , and came to be called pip .
+so	O
+,	O
+i	O
+called	O
+myself	O
+pip	B-CHARACTER
+,	O
+and	O
+came	O
+to	O
+be	O
+called	O
+pip	B-CHARACTER
+.	O
+
+# id = litbank-1616
+# source = LitBank
+# book = Great Expectations
+# book_id = 1400_great_expectations
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1400_great_expectations_brat.tsv
+# text = i give pirrip as my father 's family name , on the authority of his tombstone and my sister , -- mrs. joe gargery , who married the blacksmith .
+i	O
+give	O
+pirrip	B-CHARACTER
+as	O
+my	O
+father	O
+'s	O
+family	O
+name	O
+,	O
+on	O
+the	O
+authority	O
+of	O
+his	O
+tombstone	O
+and	O
+my	O
+sister	O
+,	O
+--	O
+mrs.	B-CHARACTER
+joe	I-CHARACTER
+gargery	I-CHARACTER
+,	O
+who	O
+married	O
+the	O
+blacksmith	O
+.	O
+
+# id = litbank-1619
+# source = LitBank
+# book = Great Expectations
+# book_id = 1400_great_expectations
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1400_great_expectations_brat.tsv
+# text = from the character and turn of the inscription , “ also georgiana wife of the above , ” i drew a childish conclusion that my mother was freckled and sickly .
+from	O
+the	O
+character	O
+and	O
+turn	O
+of	O
+the	O
+inscription	O
+,	O
+“	O
+also	O
+georgiana	B-CHARACTER
+wife	O
+of	O
+the	O
+above	O
+,	O
+”	O
+i	O
+drew	O
+a	O
+childish	O
+conclusion	O
+that	O
+my	O
+mother	O
+was	O
+freckled	O
+and	O
+sickly	O
+.	O
+
+# id = litbank-1622
+# source = LitBank
+# book = Great Expectations
+# book_id = 1400_great_expectations
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1400_great_expectations_brat.tsv
+# text = at such a time i found out for certain that this bleak place overgrown with nettles was the churchyard ; and that philip pirrip , late of this parish , and also georgiana wife of the above , were dead and buried ; and that alexander , bartholomew , abraham , tobias , and roger , infant children of the aforesaid , were also dead and buried ; and that the dark flat wilderness beyond the churchyard , intersected with dikes and mounds and gates , with scattered cattle feeding on it , was the marshes ; and that the low leaden line beyond was the river ; and that the distant savage lair from which the wind was rushing was the sea ; and that the small bundle of shivers growing afraid of it all and beginning to cry , was pip .
+at	O
+such	O
+a	O
+time	O
+i	O
+found	O
+out	O
+for	O
+certain	O
+that	O
+this	O
+bleak	O
+place	O
+overgrown	O
+with	O
+nettles	O
+was	O
+the	O
+churchyard	O
+;	O
+and	O
+that	O
+philip	B-CHARACTER
+pirrip	I-CHARACTER
+,	O
+late	O
+of	O
+this	O
+parish	O
+,	O
+and	O
+also	O
+georgiana	B-CHARACTER
+wife	O
+of	O
+the	O
+above	O
+,	O
+were	O
+dead	O
+and	O
+buried	O
+;	O
+and	O
+that	O
+alexander	B-CHARACTER
+,	O
+bartholomew	B-CHARACTER
+,	O
+abraham	B-CHARACTER
+,	O
+tobias	B-CHARACTER
+,	O
+and	O
+roger	B-CHARACTER
+,	O
+infant	O
+children	O
+of	O
+the	O
+aforesaid	O
+,	O
+were	O
+also	O
+dead	O
+and	O
+buried	O
+;	O
+and	O
+that	O
+the	O
+dark	O
+flat	O
+wilderness	O
+beyond	O
+the	O
+churchyard	O
+,	O
+intersected	O
+with	O
+dikes	O
+and	O
+mounds	O
+and	O
+gates	O
+,	O
+with	O
+scattered	O
+cattle	O
+feeding	O
+on	O
+it	O
+,	O
+was	O
+the	O
+marshes	O
+;	O
+and	O
+that	O
+the	O
+low	O
+leaden	O
+line	O
+beyond	O
+was	O
+the	O
+river	O
+;	O
+and	O
+that	O
+the	O
+distant	O
+savage	O
+lair	O
+from	O
+which	O
+the	O
+wind	O
+was	O
+rushing	O
+was	O
+the	O
+sea	O
+;	O
+and	O
+that	O
+the	O
+small	O
+bundle	O
+of	O
+shivers	O
+growing	O
+afraid	O
+of	O
+it	O
+all	O
+and	O
+beginning	O
+to	O
+cry	O
+,	O
+was	O
+pip	B-CHARACTER
+.	O
+
+# id = litbank-1624
+# source = LitBank
+# book = Great Expectations
+# book_id = 1400_great_expectations
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1400_great_expectations_brat.tsv
+# text = “ pip , sir . ”
+“	O
+pip	B-CHARACTER
+,	O
+sir	O
+.	O
+”	O
+
+# id = litbank-1625
+# source = LitBank
+# book = Great Expectations
+# book_id = 1400_great_expectations
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1400_great_expectations_brat.tsv
+# text = “ pip .
+“	O
+pip	B-CHARACTER
+.	O
+
+# id = litbank-1626
+# source = LitBank
+# book = Great Expectations
+# book_id = 1400_great_expectations
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1400_great_expectations_brat.tsv
+# text = pip , sir . ”
+pip	B-CHARACTER
+,	O
+sir	O
+.	O
+”	O
+
+# id = litbank-1627
+# source = LitBank
+# book = Great Expectations
+# book_id = 1400_great_expectations
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1400_great_expectations_brat.tsv
+# text = “ also georgiana .
+“	O
+also	O
+georgiana	B-CHARACTER
+.	O
+
+# id = litbank-1628
+# source = LitBank
+# book = Great Expectations
+# book_id = 1400_great_expectations
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1400_great_expectations_brat.tsv
+# text = “ my sister , sir , -- mrs. joe gargery , -- wife of joe gargery , the blacksmith , sir . ”
+“	O
+my	O
+sister	O
+,	O
+sir	O
+,	O
+--	O
+mrs.	B-CHARACTER
+joe	I-CHARACTER
+gargery	I-CHARACTER
+,	O
+--	O
+wife	O
+of	O
+joe	B-CHARACTER
+gargery	I-CHARACTER
+,	O
+the	O
+blacksmith	O
+,	O
+sir	O
+.	O
+”	O
+
+# id = litbank-1617
+# source = LitBank
+# book = Great Expectations
+# book_id = 1400_great_expectations
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1400_great_expectations_brat.tsv
+# text = as i never saw my father or my mother , and never saw any likeness of either of them ( for their days were long before the days of photographs ) , my first fancies regarding what they were like were unreasonably derived from their tombstones .
+as	O
+i	O
+never	O
+saw	O
+my	O
+father	O
+or	O
+my	O
+mother	O
+,	O
+and	O
+never	O
+saw	O
+any	O
+likeness	O
+of	O
+either	O
+of	O
+them	O
+(	O
+for	O
+their	O
+days	O
+were	O
+long	O
+before	O
+the	O
+days	O
+of	O
+photographs	O
+)	O
+,	O
+my	O
+first	O
+fancies	O
+regarding	O
+what	O
+they	O
+were	O
+like	O
+were	O
+unreasonably	O
+derived	O
+from	O
+their	O
+tombstones	O
+.	O
+
+# id = litbank-1618
+# source = LitBank
+# book = Great Expectations
+# book_id = 1400_great_expectations
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1400_great_expectations_brat.tsv
+# text = the shape of the letters on my father 's , gave me an odd idea that he was a square , stout , dark man , with curly black hair .
+the	O
+shape	O
+of	O
+the	O
+letters	O
+on	O
+my	O
+father	O
+'s	O
+,	O
+gave	O
+me	O
+an	O
+odd	O
+idea	O
+that	O
+he	O
+was	O
+a	O
+square	O
+,	O
+stout	O
+,	O
+dark	O
+man	O
+,	O
+with	O
+curly	O
+black	O
+hair	O
+.	O
+
+# id = litbank-1620
+# source = LitBank
+# book = Great Expectations
+# book_id = 1400_great_expectations
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1400_great_expectations_brat.tsv
+# text = ours was the marsh country , down by the river , within , as the river wound , twenty miles of the sea .
+ours	O
+was	O
+the	O
+marsh	O
+country	O
+,	O
+down	O
+by	O
+the	O
+river	O
+,	O
+within	O
+,	O
+as	O
+the	O
+river	O
+wound	O
+,	O
+twenty	O
+miles	O
+of	O
+the	O
+sea	O
+.	O
+
+# id = litbank-1621
+# source = LitBank
+# book = Great Expectations
+# book_id = 1400_great_expectations
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1400_great_expectations_brat.tsv
+# text = my first most vivid and broad impression of the identity of things seems to me to have been gained on a memorable raw afternoon towards evening .
+my	O
+first	O
+most	O
+vivid	O
+and	O
+broad	O
+impression	O
+of	O
+the	O
+identity	O
+of	O
+things	O
+seems	O
+to	O
+me	O
+to	O
+have	O
+been	O
+gained	O
+on	O
+a	O
+memorable	O
+raw	O
+afternoon	O
+towards	O
+evening	O
+.	O
+
+# id = litbank-1623
+# source = LitBank
+# book = Great Expectations
+# book_id = 1400_great_expectations
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1400_great_expectations_brat.tsv
+# text = cried a terrible voice , as a man started up from among the graves at the side of the church porch .
+cried	O
+a	O
+terrible	O
+voice	O
+,	O
+as	O
+a	O
+man	O
+started	O
+up	O
+from	O
+among	O
+the	O
+graves	O
+at	O
+the	O
+side	O
+of	O
+the	O
+church	O
+porch	O
+.	O
+

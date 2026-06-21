@@ -1,0 +1,1358 @@
+# id = litbank-2143
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = — i — [ 1 ] stately , plump buck mulligan came from the stairhead , bearing a bowl of lather on which a mirror and a razor lay crossed .
+—	O
+i	O
+—	O
+[	O
+1	O
+]	O
+stately	O
+,	O
+plump	O
+buck	B-CHARACTER
+mulligan	I-CHARACTER
+came	O
+from	O
+the	O
+stairhead	O
+,	O
+bearing	O
+a	O
+bowl	O
+of	O
+lather	O
+on	O
+which	O
+a	O
+mirror	O
+and	O
+a	O
+razor	O
+lay	O
+crossed	O
+.	O
+
+# id = litbank-2146
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = halted , he peered down the dark winding stairs and called out coarsely : — come up , kinch !
+halted	O
+,	O
+he	O
+peered	O
+down	O
+the	O
+dark	O
+winding	O
+stairs	O
+and	O
+called	O
+out	O
+coarsely	O
+:	O
+—	O
+come	O
+up	O
+,	O
+kinch	B-CHARACTER
+!	O
+
+# id = litbank-2149
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = then , catching sight of stephen dedalus , he bent towards him and made rapid crosses in the air , gurgling in his throat and shaking his head .
+then	O
+,	O
+catching	O
+sight	O
+of	O
+stephen	B-CHARACTER
+dedalus	I-CHARACTER
+,	O
+he	O
+bent	O
+towards	O
+him	O
+and	O
+made	O
+rapid	O
+crosses	O
+in	O
+the	O
+air	O
+,	O
+gurgling	O
+in	O
+his	O
+throat	O
+and	O
+shaking	O
+his	O
+head	O
+.	O
+
+# id = litbank-2150
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = stephen dedalus , displeased and sleepy , leaned his arms on the top of the staircase and looked coldly at the shaking gurgling face that blessed him , equine in its length , and at the light untonsured hair , grained and hued like pale oak .
+stephen	B-CHARACTER
+dedalus	I-CHARACTER
+,	O
+displeased	O
+and	O
+sleepy	O
+,	O
+leaned	O
+his	O
+arms	O
+on	O
+the	O
+top	O
+of	O
+the	O
+staircase	O
+and	O
+looked	O
+coldly	O
+at	O
+the	O
+shaking	O
+gurgling	O
+face	O
+that	O
+blessed	O
+him	O
+,	O
+equine	O
+in	O
+its	O
+length	O
+,	O
+and	O
+at	O
+the	O
+light	O
+untonsured	O
+hair	O
+,	O
+grained	O
+and	O
+hued	O
+like	O
+pale	O
+oak	O
+.	O
+
+# id = litbank-2151
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = buck mulligan peeped an instant under the mirror and then covered the bowl smartly .
+buck	B-CHARACTER
+mulligan	I-CHARACTER
+peeped	O
+an	O
+instant	O
+under	O
+the	O
+mirror	O
+and	O
+then	O
+covered	O
+the	O
+bowl	O
+smartly	O
+.	O
+
+# id = litbank-2152
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = he added in a preacher ’s tone : — for this , o dearly beloved , is the genuine christine : body and soul and blood and ouns .
+he	O
+added	O
+in	O
+a	O
+preacher	O
+’s	O
+tone	O
+:	O
+—	O
+for	O
+this	O
+,	O
+o	O
+dearly	O
+beloved	O
+,	O
+is	O
+the	O
+genuine	O
+christine	B-CHARACTER
+:	O
+body	O
+and	O
+soul	O
+and	O
+blood	O
+and	O
+ouns	O
+.	O
+
+# id = litbank-2154
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = stephen dedalus stepped up , followed him wearily halfway and sat down on the edge of the gunrest , watching him still as he propped his mirror on the parapet , dipped the brush in the bowl and lathered cheeks and neck .
+stephen	B-CHARACTER
+dedalus	I-CHARACTER
+stepped	O
+up	O
+,	O
+followed	O
+him	O
+wearily	O
+halfway	O
+and	O
+sat	O
+down	O
+on	O
+the	O
+edge	O
+of	O
+the	O
+gunrest	O
+,	O
+watching	O
+him	O
+still	O
+as	O
+he	O
+propped	O
+his	O
+mirror	O
+on	O
+the	O
+parapet	O
+,	O
+dipped	O
+the	O
+brush	O
+in	O
+the	O
+bowl	O
+and	O
+lathered	O
+cheeks	O
+and	O
+neck	O
+.	O
+
+# id = litbank-2155
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = buck mulligan ’s gay voice went on .
+buck	B-CHARACTER
+mulligan	I-CHARACTER
+’s	O
+gay	O
+voice	O
+went	O
+on	O
+.	O
+
+# id = litbank-2156
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = — my name is absurd too : malachi mulligan , two dactyls .
+—	O
+my	O
+name	O
+is	O
+absurd	O
+too	O
+:	O
+malachi	B-CHARACTER
+mulligan	I-CHARACTER
+,	O
+two	O
+dactyls	O
+.	O
+
+# id = litbank-2157
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = — tell me , mulligan , stephen said quietly .
+—	O
+tell	O
+me	O
+,	O
+mulligan	B-CHARACTER
+,	O
+stephen	B-CHARACTER
+said	O
+quietly	O
+.	O
+
+# id = litbank-2158
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = — how long is haines going to stay in this tower ?
+—	O
+how	O
+long	O
+is	O
+haines	B-CHARACTER
+going	O
+to	O
+stay	O
+in	O
+this	O
+tower	O
+?	O
+
+# id = litbank-2159
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = buck mulligan showed a shaven cheek over his right shoulder .
+buck	B-CHARACTER
+mulligan	I-CHARACTER
+showed	O
+a	O
+shaven	O
+cheek	O
+over	O
+his	O
+right	O
+shoulder	O
+.	O
+
+# id = litbank-2160
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = you know , dedalus , you have the real oxford manner .
+you	O
+know	O
+,	O
+dedalus	B-CHARACTER
+,	O
+you	O
+have	O
+the	O
+real	O
+oxford	O
+manner	O
+.	O
+
+# id = litbank-2161
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = o , my name for you is the best : kinch , the knife-blade .
+o	O
+,	O
+my	O
+name	O
+for	O
+you	O
+is	O
+the	O
+best	O
+:	O
+kinch	B-CHARACTER
+,	O
+the	O
+knife-blade	O
+.	O
+
+# id = litbank-2162
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = — he was raving all night about a black panther , stephen said .
+—	O
+he	O
+was	O
+raving	O
+all	O
+night	O
+about	O
+a	O
+black	O
+panther	O
+,	O
+stephen	B-CHARACTER
+said	O
+.	O
+
+# id = litbank-2163
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = mulligan said .
+mulligan	B-CHARACTER
+said	O
+.	O
+
+# id = litbank-2164
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = — i was , stephen said with energy and growing fear .
+—	O
+i	O
+was	O
+,	O
+stephen	B-CHARACTER
+said	O
+with	O
+energy	O
+and	O
+growing	O
+fear	O
+.	O
+
+# id = litbank-2165
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = buck mulligan frowned at the lather on his razorblade .
+buck	B-CHARACTER
+mulligan	I-CHARACTER
+frowned	O
+at	O
+the	O
+lather	O
+on	O
+his	O
+razorblade	O
+.	O
+
+# id = litbank-2166
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = he came over to the gunrest and , thrusting a hand into stephen ’s upper pocket , said : — lend us a loan of your noserag to wipe my razor .
+he	O
+came	O
+over	O
+to	O
+the	O
+gunrest	O
+and	O
+,	O
+thrusting	O
+a	O
+hand	O
+into	O
+stephen	B-CHARACTER
+’s	O
+upper	O
+pocket	O
+,	O
+said	O
+:	O
+—	O
+lend	O
+us	O
+a	O
+loan	O
+of	O
+your	O
+noserag	O
+to	O
+wipe	O
+my	O
+razor	O
+.	O
+
+# id = litbank-2167
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = stephen suffered him to pull out and hold up on show by its corner a dirty crumpled handkerchief .
+stephen	B-CHARACTER
+suffered	O
+him	O
+to	O
+pull	O
+out	O
+and	O
+hold	O
+up	O
+on	O
+show	O
+by	O
+its	O
+corner	O
+a	O
+dirty	O
+crumpled	O
+handkerchief	O
+.	O
+
+# id = litbank-2168
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = buck mulligan wiped the razorblade neatly .
+buck	B-CHARACTER
+mulligan	I-CHARACTER
+wiped	O
+the	O
+razorblade	O
+neatly	O
+.	O
+
+# id = litbank-2169
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = is n’t the sea what algy calls it : a great sweet mother ?
+is	O
+n’t	O
+the	O
+sea	O
+what	O
+algy	B-CHARACTER
+calls	O
+it	O
+:	O
+a	O
+great	O
+sweet	O
+mother	O
+?	O
+
+# id = litbank-2170
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = ah , dedalus , the greeks !
+ah	O
+,	O
+dedalus	B-CHARACTER
+,	O
+the	O
+greeks	O
+!	O
+
+# id = litbank-2171
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = stephen stood up and went over to the parapet .
+stephen	B-CHARACTER
+stood	O
+up	O
+and	O
+went	O
+over	O
+to	O
+the	O
+parapet	O
+.	O
+
+# id = litbank-2172
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = buck mulligan said .
+buck	B-CHARACTER
+mulligan	I-CHARACTER
+said	O
+.	O
+
+# id = litbank-2173
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = he turned abruptly his grey searching eyes from the sea to stephen ’s face .
+he	O
+turned	O
+abruptly	O
+his	O
+grey	O
+searching	O
+eyes	O
+from	O
+the	O
+sea	O
+to	O
+stephen	B-CHARACTER
+’s	O
+face	O
+.	O
+
+# id = litbank-2174
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = — someone killed her , stephen said gloomily .
+—	O
+someone	O
+killed	O
+her	O
+,	O
+stephen	B-CHARACTER
+said	O
+gloomily	O
+.	O
+
+# id = litbank-2175
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = — you could have knelt down , damn it , kinch , when your dying mother asked you , buck mulligan said .
+—	O
+you	O
+could	O
+have	O
+knelt	O
+down	O
+,	O
+damn	O
+it	O
+,	O
+kinch	O
+,	O
+when	O
+your	O
+dying	O
+mother	O
+asked	O
+you	O
+,	O
+buck	B-CHARACTER
+mulligan	I-CHARACTER
+said	O
+.	O
+
+# id = litbank-2176
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = kinch , the loveliest mummer of them all !
+kinch	B-CHARACTER
+,	O
+the	O
+loveliest	O
+mummer	O
+of	O
+them	O
+all	O
+!	O
+
+# id = litbank-2177
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = stephen , an elbow rested on the jagged granite , leaned his palm against his brow and gazed at the fraying edge of his shiny black coat-sleeve .
+stephen	B-CHARACTER
+,	O
+an	O
+elbow	O
+rested	O
+on	O
+the	O
+jagged	O
+granite	O
+,	O
+leaned	O
+his	O
+palm	O
+against	O
+his	O
+brow	O
+and	O
+gazed	O
+at	O
+the	O
+fraying	O
+edge	O
+of	O
+his	O
+shiny	O
+black	O
+coat-sleeve	O
+.	O
+
+# id = litbank-2178
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = buck mulligan wiped again his razorblade .
+buck	B-CHARACTER
+mulligan	I-CHARACTER
+wiped	O
+again	O
+his	O
+razorblade	O
+.	O
+
+# id = litbank-2179
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = — they fit well enough , stephen answered .
+—	O
+they	O
+fit	O
+well	O
+enough	O
+,	O
+stephen	B-CHARACTER
+answered	O
+.	O
+
+# id = litbank-2180
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = buck mulligan attacked the hollow beneath his underlip .
+buck	B-CHARACTER
+mulligan	I-CHARACTER
+attacked	O
+the	O
+hollow	O
+beneath	O
+his	O
+underlip	O
+.	O
+
+# id = litbank-2181
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = i ’m not joking , kinch .
+i	O
+’m	O
+not	O
+joking	O
+,	O
+kinch	B-CHARACTER
+.	O
+
+# id = litbank-2182
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = — thanks , stephen said .
+—	O
+thanks	O
+,	O
+stephen	B-CHARACTER
+said	O
+.	O
+
+# id = litbank-2183
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = — he ca n’t wear them , buck mulligan told his face in the mirror .
+—	O
+he	O
+ca	O
+n’t	O
+wear	O
+them	O
+,	O
+buck	B-CHARACTER
+mulligan	I-CHARACTER
+told	O
+his	O
+face	O
+in	O
+the	O
+mirror	O
+.	O
+
+# id = litbank-2184
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = stephen turned his gaze from the sea and to the plump face with its smokeblue mobile eyes .
+stephen	B-CHARACTER
+turned	O
+his	O
+gaze	O
+from	O
+the	O
+sea	O
+and	O
+to	O
+the	O
+plump	O
+face	O
+with	O
+its	O
+smokeblue	O
+mobile	O
+eyes	O
+.	O
+
+# id = litbank-2185
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = — that fellow i was with in the ship last night , said buck mulligan , says you have g. p. i. he ’s up in dottyville with connolly norman .
+—	O
+that	O
+fellow	O
+i	O
+was	O
+with	O
+in	O
+the	O
+ship	O
+last	O
+night	O
+,	O
+said	O
+buck	B-CHARACTER
+mulligan	I-CHARACTER
+,	O
+says	O
+you	O
+have	O
+g.	O
+p.	O
+i.	O
+he	O
+’s	O
+up	O
+in	O
+dottyville	O
+with	O
+connolly	O
+norman	O
+.	O
+
+# id = litbank-2186
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = stephen bent forward and peered at the mirror held out to him , cleft by a crooked crack .
+stephen	B-CHARACTER
+bent	O
+forward	O
+and	O
+peered	O
+at	O
+the	O
+mirror	O
+held	O
+out	O
+to	O
+him	O
+,	O
+cleft	O
+by	O
+a	O
+crooked	O
+crack	O
+.	O
+
+# id = litbank-2187
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = — i pinched it out of the skivvy ’s room , buck mulligan said .
+—	O
+i	O
+pinched	O
+it	O
+out	O
+of	O
+the	O
+skivvy	O
+’s	O
+room	O
+,	O
+buck	B-CHARACTER
+mulligan	I-CHARACTER
+said	O
+.	O
+
+# id = litbank-2188
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = the aunt always keeps plainlooking servants for malachi .
+the	O
+aunt	O
+always	O
+keeps	O
+plainlooking	O
+servants	O
+for	O
+malachi	B-CHARACTER
+.	O
+
+# id = litbank-2189
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = and her name is ursula .
+and	O
+her	O
+name	O
+is	O
+ursula	B-CHARACTER
+.	O
+
+# id = litbank-2190
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = laughing again , he brought the mirror away from stephen ’s peering eyes .
+laughing	O
+again	O
+,	O
+he	O
+brought	O
+the	O
+mirror	O
+away	O
+from	O
+stephen	B-CHARACTER
+’s	O
+peering	O
+eyes	O
+.	O
+
+# id = litbank-2191
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = drawing back and pointing , stephen said with bitterness : — it is a symbol of irish art .
+drawing	O
+back	O
+and	O
+pointing	O
+,	O
+stephen	B-CHARACTER
+said	O
+with	O
+bitterness	O
+:	O
+—	O
+it	O
+is	O
+a	O
+symbol	O
+of	O
+irish	O
+art	O
+.	O
+
+# id = litbank-2192
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = buck mulligan suddenly linked his arm in stephen ’s and walked with him round the tower , his razor and mirror clacking in the pocket where he had thrust them .
+buck	B-CHARACTER
+mulligan	I-CHARACTER
+suddenly	O
+linked	O
+his	O
+arm	O
+in	O
+stephen	B-CHARACTER
+’s	O
+and	O
+walked	O
+with	O
+him	O
+round	O
+the	O
+tower	O
+,	O
+his	O
+razor	O
+and	O
+mirror	O
+clacking	O
+in	O
+the	O
+pocket	O
+where	O
+he	O
+had	O
+thrust	O
+them	O
+.	O
+
+# id = litbank-2193
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = — it ’s not fair to tease you like that , kinch , is it ?
+—	O
+it	O
+’s	O
+not	O
+fair	O
+to	O
+tease	O
+you	O
+like	O
+that	O
+,	O
+kinch	B-CHARACTER
+,	O
+is	O
+it	O
+?	O
+
+# id = litbank-2194
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = god , kinch , if you and i could only work together we might do something for the island .
+god	O
+,	O
+kinch	B-CHARACTER
+,	O
+if	O
+you	O
+and	O
+i	O
+could	O
+only	O
+work	O
+together	O
+we	O
+might	O
+do	O
+something	O
+for	O
+the	O
+island	O
+.	O
+
+# id = litbank-2195
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = cranly ’s arm .
+cranly	B-CHARACTER
+’s	O
+arm	O
+.	O
+
+# id = litbank-2196
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = is it haines ?
+is	O
+it	O
+haines	B-CHARACTER
+?	O
+
+# id = litbank-2197
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = if he makes any noise here i ’ll bring down seymour and we ’ll give him a ragging worse than they gave clive kempthorpe .
+if	O
+he	O
+makes	O
+any	O
+noise	O
+here	O
+i	O
+’ll	O
+bring	O
+down	O
+seymour	B-CHARACTER
+and	O
+we	O
+’ll	O
+give	O
+him	O
+a	O
+ragging	O
+worse	O
+than	O
+they	O
+gave	O
+clive	B-CHARACTER
+kempthorpe	I-CHARACTER
+.	O
+
+# id = litbank-2144
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = a yellow dressinggown , ungirdled , was sustained gently behind him on the mild morning air .
+a	O
+yellow	O
+dressinggown	O
+,	O
+ungirdled	O
+,	O
+was	O
+sustained	O
+gently	O
+behind	O
+him	O
+on	O
+the	O
+mild	O
+morning	O
+air	O
+.	O
+
+# id = litbank-2145
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = he held the bowl aloft and intoned : — introibo ad altare dei .
+he	O
+held	O
+the	O
+bowl	O
+aloft	O
+and	O
+intoned	O
+:	O
+—	O
+introibo	O
+ad	O
+altare	O
+dei	O
+.	O
+
+# id = litbank-2147
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = solemnly he came forward and mounted the round gunrest .
+solemnly	O
+he	O
+came	O
+forward	O
+and	O
+mounted	O
+the	O
+round	O
+gunrest	O
+.	O
+
+# id = litbank-2148
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = he faced about and blessed gravely thrice the tower , the surrounding land and the awaking mountains .
+he	O
+faced	O
+about	O
+and	O
+blessed	O
+gravely	O
+thrice	O
+the	O
+tower	O
+,	O
+the	O
+surrounding	O
+land	O
+and	O
+the	O
+awaking	O
+mountains	O
+.	O
+
+# id = litbank-2153
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = a little trouble about those white corpuscles .
+a	O
+little	O
+trouble	O
+about	O
+those	O
+white	O
+corpuscles	O
+.	O
+

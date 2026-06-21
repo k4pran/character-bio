@@ -1,0 +1,1182 @@
+# id = litbank-1943
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = * * thomson on the pleasant banks of the garonne , in the province of gascony , stood , in the year 1584 , the chateau of monsieur st. aubert .
+*	O
+*	O
+thomson	O
+on	O
+the	O
+pleasant	O
+banks	O
+of	O
+the	O
+garonne	O
+,	O
+in	O
+the	O
+province	O
+of	O
+gascony	O
+,	O
+stood	O
+,	O
+in	O
+the	O
+year	O
+1584	O
+,	O
+the	O
+chateau	O
+of	O
+monsieur	B-CHARACTER
+st.	I-CHARACTER
+aubert	I-CHARACTER
+.	O
+
+# id = litbank-1948
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = m. st. aubert loved to wander , with his wife and daughter , on the margin of the garonne , and to listen to the music that floated on its waves .
+m.	B-CHARACTER
+st.	I-CHARACTER
+aubert	I-CHARACTER
+loved	O
+to	O
+wander	O
+,	O
+with	O
+his	O
+wife	O
+and	O
+daughter	O
+,	O
+on	O
+the	O
+margin	O
+of	O
+the	O
+garonne	O
+,	O
+and	O
+to	O
+listen	O
+to	O
+the	O
+music	O
+that	O
+floated	O
+on	O
+its	O
+waves	O
+.	O
+
+# id = litbank-1949
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = but st. aubert had too nice a sense of honour to fulfil the latter hope , and too small a portion of ambition to sacrifice what he called happiness , to the attainment of wealth .
+but	O
+st.	B-CHARACTER
+aubert	I-CHARACTER
+had	O
+too	O
+nice	O
+a	O
+sense	O
+of	O
+honour	O
+to	O
+fulfil	O
+the	O
+latter	O
+hope	O
+,	O
+and	O
+too	O
+small	O
+a	O
+portion	O
+of	O
+ambition	O
+to	O
+sacrifice	O
+what	O
+he	O
+called	O
+happiness	O
+,	O
+to	O
+the	O
+attainment	O
+of	O
+wealth	O
+.	O
+
+# id = litbank-1950
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = the late monsieur st. aubert 's liberality , or extravagance , had so much involved his affairs , that his son found it necessary to dispose of a part of the family domain , and , some years after his marriage , he sold it to monsieur quesnel , the brother of his wife , and retired to a small estate in gascony , where conjugal felicity , and parental duties , divided his attention with the treasures of knowledge and the illuminations of genius .
+the	O
+late	O
+monsieur	B-CHARACTER
+st.	I-CHARACTER
+aubert	I-CHARACTER
+'s	O
+liberality	O
+,	O
+or	O
+extravagance	O
+,	O
+had	O
+so	O
+much	O
+involved	O
+his	O
+affairs	O
+,	O
+that	O
+his	O
+son	O
+found	O
+it	O
+necessary	O
+to	O
+dispose	O
+of	O
+a	O
+part	O
+of	O
+the	O
+family	O
+domain	O
+,	O
+and	O
+,	O
+some	O
+years	O
+after	O
+his	O
+marriage	O
+,	O
+he	O
+sold	O
+it	O
+to	O
+monsieur	B-CHARACTER
+quesnel	I-CHARACTER
+,	O
+the	O
+brother	O
+of	O
+his	O
+wife	O
+,	O
+and	O
+retired	O
+to	O
+a	O
+small	O
+estate	O
+in	O
+gascony	O
+,	O
+where	O
+conjugal	O
+felicity	O
+,	O
+and	O
+parental	O
+duties	O
+,	O
+divided	O
+his	O
+attention	O
+with	O
+the	O
+treasures	O
+of	O
+knowledge	O
+and	O
+the	O
+illuminations	O
+of	O
+genius	O
+.	O
+
+# id = litbank-1951
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = the green pastures along which he had so often bounded in the exultation of health , and youthful freedom -- the woods , under whose refreshing shade he had first indulged that pensive melancholy , which afterwards made a strong feature of his character -- the wild walks of the mountains , the river , on whose waves he had floated , and the distant plains , which seemed boundless as his early hopes -- were never after remembered by st. aubert but with enthusiasm and regret .
+the	O
+green	O
+pastures	O
+along	O
+which	O
+he	O
+had	O
+so	O
+often	O
+bounded	O
+in	O
+the	O
+exultation	O
+of	O
+health	O
+,	O
+and	O
+youthful	O
+freedom	O
+--	O
+the	O
+woods	O
+,	O
+under	O
+whose	O
+refreshing	O
+shade	O
+he	O
+had	O
+first	O
+indulged	O
+that	O
+pensive	O
+melancholy	O
+,	O
+which	O
+afterwards	O
+made	O
+a	O
+strong	O
+feature	O
+of	O
+his	O
+character	O
+--	O
+the	O
+wild	O
+walks	O
+of	O
+the	O
+mountains	O
+,	O
+the	O
+river	O
+,	O
+on	O
+whose	O
+waves	O
+he	O
+had	O
+floated	O
+,	O
+and	O
+the	O
+distant	O
+plains	O
+,	O
+which	O
+seemed	O
+boundless	O
+as	O
+his	O
+early	O
+hopes	O
+--	O
+were	O
+never	O
+after	O
+remembered	O
+by	O
+st.	B-CHARACTER
+aubert	I-CHARACTER
+but	O
+with	O
+enthusiasm	O
+and	O
+regret	O
+.	O
+
+# id = litbank-1952
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = st. aubert felt a kind of affection for every part of the fabric , which he remembered in his youth , and would not suffer a stone of it to be removed , so that the new building , adapted to the style of the old one , formed with it only a simple and elegant residence .
+st.	B-CHARACTER
+aubert	I-CHARACTER
+felt	O
+a	O
+kind	O
+of	O
+affection	O
+for	O
+every	O
+part	O
+of	O
+the	O
+fabric	O
+,	O
+which	O
+he	O
+remembered	O
+in	O
+his	O
+youth	O
+,	O
+and	O
+would	O
+not	O
+suffer	O
+a	O
+stone	O
+of	O
+it	O
+to	O
+be	O
+removed	O
+,	O
+so	O
+that	O
+the	O
+new	O
+building	O
+,	O
+adapted	O
+to	O
+the	O
+style	O
+of	O
+the	O
+old	O
+one	O
+,	O
+formed	O
+with	O
+it	O
+only	O
+a	O
+simple	O
+and	O
+elegant	O
+residence	O
+.	O
+
+# id = litbank-1953
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = the taste of madame st. aubert was conspicuous in its internal finishing , where the same chaste simplicity was observable in the furniture , and in the few ornaments of the apartments , that characterized the manners of its inhabitants .
+the	O
+taste	O
+of	O
+madame	B-CHARACTER
+st.	I-CHARACTER
+aubert	I-CHARACTER
+was	O
+conspicuous	O
+in	O
+its	O
+internal	O
+finishing	O
+,	O
+where	O
+the	O
+same	O
+chaste	O
+simplicity	O
+was	O
+observable	O
+in	O
+the	O
+furniture	O
+,	O
+and	O
+in	O
+the	O
+few	O
+ornaments	O
+of	O
+the	O
+apartments	O
+,	O
+that	O
+characterized	O
+the	O
+manners	O
+of	O
+its	O
+inhabitants	O
+.	O
+
+# id = litbank-1954
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = adjoining the library was a green-house , stored with scarce and beautiful plants ; for one of the amusements of st. aubert was the study of botany , and among the neighbouring mountains , which afforded a luxurious feast to the mind of the naturalist , he often passed the day in the pursuit of his favourite science .
+adjoining	O
+the	O
+library	O
+was	O
+a	O
+green-house	O
+,	O
+stored	O
+with	O
+scarce	O
+and	O
+beautiful	O
+plants	O
+;	O
+for	O
+one	O
+of	O
+the	O
+amusements	O
+of	O
+st.	B-CHARACTER
+aubert	I-CHARACTER
+was	O
+the	O
+study	O
+of	O
+botany	O
+,	O
+and	O
+among	O
+the	O
+neighbouring	O
+mountains	O
+,	O
+which	O
+afforded	O
+a	O
+luxurious	O
+feast	O
+to	O
+the	O
+mind	O
+of	O
+the	O
+naturalist	O
+,	O
+he	O
+often	O
+passed	O
+the	O
+day	O
+in	O
+the	O
+pursuit	O
+of	O
+his	O
+favourite	O
+science	O
+.	O
+
+# id = litbank-1955
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = he was sometimes accompanied in these little excursions by madame st. aubert , and frequently by his daughter ; when , with a small osier basket to receive plants , and another filled with cold refreshments , such as the cabin of the shepherd did not afford , they wandered away among the most romantic and magnificent scenes , nor suffered the charms of nature 's lowly children to abstract them from the observance of her stupendous works .
+he	O
+was	O
+sometimes	O
+accompanied	O
+in	O
+these	O
+little	O
+excursions	O
+by	O
+madame	B-CHARACTER
+st.	I-CHARACTER
+aubert	I-CHARACTER
+,	O
+and	O
+frequently	O
+by	O
+his	O
+daughter	O
+;	O
+when	O
+,	O
+with	O
+a	O
+small	O
+osier	O
+basket	O
+to	O
+receive	O
+plants	O
+,	O
+and	O
+another	O
+filled	O
+with	O
+cold	O
+refreshments	O
+,	O
+such	O
+as	O
+the	O
+cabin	O
+of	O
+the	O
+shepherd	O
+did	O
+not	O
+afford	O
+,	O
+they	O
+wandered	O
+away	O
+among	O
+the	O
+most	O
+romantic	O
+and	O
+magnificent	O
+scenes	O
+,	O
+nor	O
+suffered	O
+the	O
+charms	O
+of	O
+nature	O
+'s	O
+lowly	O
+children	O
+to	O
+abstract	O
+them	O
+from	O
+the	O
+observance	O
+of	O
+her	O
+stupendous	O
+works	O
+.	O
+
+# id = litbank-1956
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = adjoining the eastern side of the green-house , looking towards the plains of languedoc , was a room , which emily called hers , and which contained her books , her drawings , her musical instruments , with some favourite birds and plants .
+adjoining	O
+the	O
+eastern	O
+side	O
+of	O
+the	O
+green-house	O
+,	O
+looking	O
+towards	O
+the	O
+plains	O
+of	O
+languedoc	O
+,	O
+was	O
+a	O
+room	O
+,	O
+which	O
+emily	B-CHARACTER
+called	O
+hers	O
+,	O
+and	O
+which	O
+contained	O
+her	O
+books	O
+,	O
+her	O
+drawings	O
+,	O
+her	O
+musical	O
+instruments	O
+,	O
+with	O
+some	O
+favourite	O
+birds	O
+and	O
+plants	O
+.	O
+
+# id = litbank-1957
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = here she usually exercised herself in elegant arts , cultivated only because they were congenial to her taste , and in which native genius , assisted by the instructions of monsieur and madame st. aubert , made her an early proficient .
+here	O
+she	O
+usually	O
+exercised	O
+herself	O
+in	O
+elegant	O
+arts	O
+,	O
+cultivated	O
+only	O
+because	O
+they	O
+were	O
+congenial	O
+to	O
+her	O
+taste	O
+,	O
+and	O
+in	O
+which	O
+native	O
+genius	O
+,	O
+assisted	O
+by	O
+the	O
+instructions	O
+of	O
+monsieur	O
+and	O
+madame	B-CHARACTER
+st.	I-CHARACTER
+aubert	I-CHARACTER
+,	O
+made	O
+her	O
+an	O
+early	O
+proficient	O
+.	O
+
+# id = litbank-1958
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = in the surrounding ground , st. aubert had made very tasteful improvements ; yet , such was his attachment to objects he had remembered from his boyish days , that he had in some instances sacrificed taste to sentiment .
+in	O
+the	O
+surrounding	O
+ground	O
+,	O
+st.	B-CHARACTER
+aubert	I-CHARACTER
+had	O
+made	O
+very	O
+tasteful	O
+improvements	O
+;	O
+yet	O
+,	O
+such	O
+was	O
+his	O
+attachment	O
+to	O
+objects	O
+he	O
+had	O
+remembered	O
+from	O
+his	O
+boyish	O
+days	O
+,	O
+that	O
+he	O
+had	O
+in	O
+some	O
+instances	O
+sacrificed	O
+taste	O
+to	O
+sentiment	O
+.	O
+
+# id = litbank-1959
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = there were two old larches that shaded the building , and interrupted the prospect ; st. aubert had sometimes declared that he believed he should have been weak enough to have wept at their fall .
+there	O
+were	O
+two	O
+old	O
+larches	O
+that	O
+shaded	O
+the	O
+building	O
+,	O
+and	O
+interrupted	O
+the	O
+prospect	O
+;	O
+st.	B-CHARACTER
+aubert	I-CHARACTER
+had	O
+sometimes	O
+declared	O
+that	O
+he	O
+believed	O
+he	O
+should	O
+have	O
+been	O
+weak	O
+enough	O
+to	O
+have	O
+wept	O
+at	O
+their	O
+fall	O
+.	O
+
+# id = litbank-1960
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = here , under the ample shade of a plane-tree , that spread its majestic canopy towards the river , st. aubert loved to sit in the fine evenings of summer , with his wife and children , watching , beneath its foliage , the setting sun , the mild splendour of its light fading from the distant landscape , till the shadows of twilight melted its various features into one tint of sober grey .
+here	O
+,	O
+under	O
+the	O
+ample	O
+shade	O
+of	O
+a	O
+plane-tree	O
+,	O
+that	O
+spread	O
+its	O
+majestic	O
+canopy	O
+towards	O
+the	O
+river	O
+,	O
+st.	B-CHARACTER
+aubert	I-CHARACTER
+loved	O
+to	O
+sit	O
+in	O
+the	O
+fine	O
+evenings	O
+of	O
+summer	O
+,	O
+with	O
+his	O
+wife	O
+and	O
+children	O
+,	O
+watching	O
+,	O
+beneath	O
+its	O
+foliage	O
+,	O
+the	O
+setting	O
+sun	O
+,	O
+the	O
+mild	O
+splendour	O
+of	O
+its	O
+light	O
+fading	O
+from	O
+the	O
+distant	O
+landscape	O
+,	O
+till	O
+the	O
+shadows	O
+of	O
+twilight	O
+melted	O
+its	O
+various	O
+features	O
+into	O
+one	O
+tint	O
+of	O
+sober	O
+grey	O
+.	O
+
+# id = litbank-1961
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = here , too , he loved to read , and to converse with madame st. aubert ; or to play with his children , resigning himself to the influence of those sweet affections , which are ever attendant on simplicity and nature .
+here	O
+,	O
+too	O
+,	O
+he	O
+loved	O
+to	O
+read	O
+,	O
+and	O
+to	O
+converse	O
+with	O
+madame	B-CHARACTER
+st.	I-CHARACTER
+aubert	I-CHARACTER
+;	O
+or	O
+to	O
+play	O
+with	O
+his	O
+children	O
+,	O
+resigning	O
+himself	O
+to	O
+the	O
+influence	O
+of	O
+those	O
+sweet	O
+affections	O
+,	O
+which	O
+are	O
+ever	O
+attendant	O
+on	O
+simplicity	O
+and	O
+nature	O
+.	O
+
+# id = litbank-1942
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = volume 1 chapter i home is the resort of love , of joy , of peace and plenty , where , supporting and supported , polish 'd friends and dear relations mingle into bliss .
+volume	O
+1	O
+chapter	O
+i	O
+home	O
+is	O
+the	O
+resort	O
+of	O
+love	O
+,	O
+of	O
+joy	O
+,	O
+of	O
+peace	O
+and	O
+plenty	O
+,	O
+where	O
+,	O
+supporting	O
+and	O
+supported	O
+,	O
+polish	O
+'d	O
+friends	O
+and	O
+dear	O
+relations	O
+mingle	O
+into	O
+bliss	O
+.	O
+
+# id = litbank-1944
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = from its windows were seen the pastoral landscapes of guienne and gascony stretching along the river , gay with luxuriant woods and vine , and plantations of olives .
+from	O
+its	O
+windows	O
+were	O
+seen	O
+the	O
+pastoral	O
+landscapes	O
+of	O
+guienne	O
+and	O
+gascony	O
+stretching	O
+along	O
+the	O
+river	O
+,	O
+gay	O
+with	O
+luxuriant	O
+woods	O
+and	O
+vine	O
+,	O
+and	O
+plantations	O
+of	O
+olives	O
+.	O
+
+# id = litbank-1945
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = to the south , the view was bounded by the majestic pyrenees , whose summits , veiled in clouds , or exhibiting awful forms , seen , and lost again , as the partial vapours rolled along , were sometimes barren , and gleamed through the blue tinge of air , and sometimes frowned with forests of gloomy pine , that swept downward to their base .
+to	O
+the	O
+south	O
+,	O
+the	O
+view	O
+was	O
+bounded	O
+by	O
+the	O
+majestic	O
+pyrenees	O
+,	O
+whose	O
+summits	O
+,	O
+veiled	O
+in	O
+clouds	O
+,	O
+or	O
+exhibiting	O
+awful	O
+forms	O
+,	O
+seen	O
+,	O
+and	O
+lost	O
+again	O
+,	O
+as	O
+the	O
+partial	O
+vapours	O
+rolled	O
+along	O
+,	O
+were	O
+sometimes	O
+barren	O
+,	O
+and	O
+gleamed	O
+through	O
+the	O
+blue	O
+tinge	O
+of	O
+air	O
+,	O
+and	O
+sometimes	O
+frowned	O
+with	O
+forests	O
+of	O
+gloomy	O
+pine	O
+,	O
+that	O
+swept	O
+downward	O
+to	O
+their	O
+base	O
+.	O
+
+# id = litbank-1946
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = these tremendous precipices were contrasted by the soft green of the pastures and woods that hung upon their skirts ; among whose flocks , and herds , and simple cottages , the eye , after having scaled the cliffs above , delighted to repose .
+these	O
+tremendous	O
+precipices	O
+were	O
+contrasted	O
+by	O
+the	O
+soft	O
+green	O
+of	O
+the	O
+pastures	O
+and	O
+woods	O
+that	O
+hung	O
+upon	O
+their	O
+skirts	O
+;	O
+among	O
+whose	O
+flocks	O
+,	O
+and	O
+herds	O
+,	O
+and	O
+simple	O
+cottages	O
+,	O
+the	O
+eye	O
+,	O
+after	O
+having	O
+scaled	O
+the	O
+cliffs	O
+above	O
+,	O
+delighted	O
+to	O
+repose	O
+.	O
+
+# id = litbank-1947
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = to the north , and to the east , the plains of guienne and languedoc were lost in the mist of distance ; on the west , gascony was bounded by the waters of biscay .
+to	O
+the	O
+north	O
+,	O
+and	O
+to	O
+the	O
+east	O
+,	O
+the	O
+plains	O
+of	O
+guienne	O
+and	O
+languedoc	O
+were	O
+lost	O
+in	O
+the	O
+mist	O
+of	O
+distance	O
+;	O
+on	O
+the	O
+west	O
+,	O
+gascony	O
+was	O
+bounded	O
+by	O
+the	O
+waters	O
+of	O
+biscay	O
+.	O
+

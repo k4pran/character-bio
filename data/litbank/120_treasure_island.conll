@@ -1,0 +1,563 @@
+# id = litbank-0505
+# source = LitBank
+# book = Treasure Island
+# book_id = 120_treasure_island
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/120_treasure_island_brat.tsv
+# text = part one -- the old buccaneer 1 the old sea-dog at the admiral benbow squire trelawney , dr. livesey , and the rest of these gentlemen having asked me to write down the whole particulars about treasure island , from the beginning to the end , keeping nothing back but the bearings of the island , and that only because there is still treasure not yet lifted , i take up my pen in the year of grace 17 __ and go back to the time when my father kept the admiral benbow inn and the brown old seaman with the sabre cut first took up his lodging under our roof .
+part	O
+one	O
+--	O
+the	O
+old	O
+buccaneer	O
+1	O
+the	O
+old	O
+sea-dog	O
+at	O
+the	O
+admiral	O
+benbow	O
+squire	B-CHARACTER
+trelawney	I-CHARACTER
+,	O
+dr.	B-CHARACTER
+livesey	I-CHARACTER
+,	O
+and	O
+the	O
+rest	O
+of	O
+these	O
+gentlemen	O
+having	O
+asked	O
+me	O
+to	O
+write	O
+down	O
+the	O
+whole	O
+particulars	O
+about	O
+treasure	O
+island	O
+,	O
+from	O
+the	O
+beginning	O
+to	O
+the	O
+end	O
+,	O
+keeping	O
+nothing	O
+back	O
+but	O
+the	O
+bearings	O
+of	O
+the	O
+island	O
+,	O
+and	O
+that	O
+only	O
+because	O
+there	O
+is	O
+still	O
+treasure	O
+not	O
+yet	O
+lifted	O
+,	O
+i	O
+take	O
+up	O
+my	O
+pen	O
+in	O
+the	O
+year	O
+of	O
+grace	O
+17	O
+__	O
+and	O
+go	O
+back	O
+to	O
+the	O
+time	O
+when	O
+my	O
+father	O
+kept	O
+the	O
+admiral	O
+benbow	O
+inn	O
+and	O
+the	O
+brown	O
+old	O
+seaman	O
+with	O
+the	O
+sabre	O
+cut	O
+first	O
+took	O
+up	O
+his	O
+lodging	O
+under	O
+our	O
+roof	O
+.	O
+
+# id = litbank-0511
+# source = LitBank
+# book = Treasure Island
+# book_id = 120_treasure_island
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/120_treasure_island_brat.tsv
+# text = dr. livesey came late one afternoon to see the patient , took a bit of dinner from my mother , and went into the parlour to smoke a pipe until his horse should come down from the hamlet , for we had no stabling at the old benbow .
+dr.	B-CHARACTER
+livesey	I-CHARACTER
+came	O
+late	O
+one	O
+afternoon	O
+to	O
+see	O
+the	O
+patient	O
+,	O
+took	O
+a	O
+bit	O
+of	O
+dinner	O
+from	O
+my	O
+mother	O
+,	O
+and	O
+went	O
+into	O
+the	O
+parlour	O
+to	O
+smoke	O
+a	O
+pipe	O
+until	O
+his	O
+horse	O
+should	O
+come	O
+down	O
+from	O
+the	O
+hamlet	O
+,	O
+for	O
+we	O
+had	O
+no	O
+stabling	O
+at	O
+the	O
+old	O
+benbow	O
+.	O
+
+# id = litbank-0512
+# source = LitBank
+# book = Treasure Island
+# book_id = 120_treasure_island
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/120_treasure_island_brat.tsv
+# text = but by this time we had all long ceased to pay any particular notice to the song ; it was new , that night , to nobody but dr. livesey , and on him i observed it did not produce an agreeable effect , for he looked up for a moment quite angrily before he went on with his talk to old taylor , the gardener , on a new cure for the rheumatics .
+but	O
+by	O
+this	O
+time	O
+we	O
+had	O
+all	O
+long	O
+ceased	O
+to	O
+pay	O
+any	O
+particular	O
+notice	O
+to	O
+the	O
+song	O
+;	O
+it	O
+was	O
+new	O
+,	O
+that	O
+night	O
+,	O
+to	O
+nobody	O
+but	O
+dr.	B-CHARACTER
+livesey	I-CHARACTER
+,	O
+and	O
+on	O
+him	O
+i	O
+observed	O
+it	O
+did	O
+not	O
+produce	O
+an	O
+agreeable	O
+effect	O
+,	O
+for	O
+he	O
+looked	O
+up	O
+for	O
+a	O
+moment	O
+quite	O
+angrily	O
+before	O
+he	O
+went	O
+on	O
+with	O
+his	O
+talk	O
+to	O
+old	O
+taylor	B-CHARACTER
+,	O
+the	O
+gardener	O
+,	O
+on	O
+a	O
+new	O
+cure	O
+for	O
+the	O
+rheumatics	O
+.	O
+
+# id = litbank-0513
+# source = LitBank
+# book = Treasure Island
+# book_id = 120_treasure_island
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/120_treasure_island_brat.tsv
+# text = the voices stopped at once , all but dr. livesey 's ; he went on as before speaking clear and kind and drawing briskly at his pipe between every word or two .
+the	O
+voices	O
+stopped	O
+at	O
+once	O
+,	O
+all	O
+but	O
+dr.	B-CHARACTER
+livesey	I-CHARACTER
+'s	O
+;	O
+he	O
+went	O
+on	O
+as	O
+before	O
+speaking	O
+clear	O
+and	O
+kind	O
+and	O
+drawing	O
+briskly	O
+at	O
+his	O
+pipe	O
+between	O
+every	O
+word	O
+or	O
+two	O
+.	O
+
+# id = litbank-0506
+# source = LitBank
+# book = Treasure Island
+# book_id = 120_treasure_island
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/120_treasure_island_brat.tsv
+# text = i remember him as if it were yesterday , as he came plodding to the inn door , his sea-chest following behind him in a hand-barrow -- a tall , strong , heavy , nut-brown man , his tarry pigtail falling over the shoulder of his soiled blue coat , his hands ragged and scarred , with black , broken nails , and the sabre cut across one cheek , a dirty , livid white .
+i	O
+remember	O
+him	O
+as	O
+if	O
+it	O
+were	O
+yesterday	O
+,	O
+as	O
+he	O
+came	O
+plodding	O
+to	O
+the	O
+inn	O
+door	O
+,	O
+his	O
+sea-chest	O
+following	O
+behind	O
+him	O
+in	O
+a	O
+hand-barrow	O
+--	O
+a	O
+tall	O
+,	O
+strong	O
+,	O
+heavy	O
+,	O
+nut-brown	O
+man	O
+,	O
+his	O
+tarry	O
+pigtail	O
+falling	O
+over	O
+the	O
+shoulder	O
+of	O
+his	O
+soiled	O
+blue	O
+coat	O
+,	O
+his	O
+hands	O
+ragged	O
+and	O
+scarred	O
+,	O
+with	O
+black	O
+,	O
+broken	O
+nails	O
+,	O
+and	O
+the	O
+sabre	O
+cut	O
+across	O
+one	O
+cheek	O
+,	O
+a	O
+dirty	O
+,	O
+livid	O
+white	O
+.	O
+
+# id = litbank-0507
+# source = LitBank
+# book = Treasure Island
+# book_id = 120_treasure_island
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/120_treasure_island_brat.tsv
+# text = i remember him looking round the cover and whistling to himself as he did so , and then breaking out in that old sea-song that he sang so often afterwards : " fifteen men on the dead man 's chest -- yo-ho-ho , and a bottle of rum ! "
+i	O
+remember	O
+him	O
+looking	O
+round	O
+the	O
+cover	O
+and	O
+whistling	O
+to	O
+himself	O
+as	O
+he	O
+did	O
+so	O
+,	O
+and	O
+then	O
+breaking	O
+out	O
+in	O
+that	O
+old	O
+sea-song	O
+that	O
+he	O
+sang	O
+so	O
+often	O
+afterwards	O
+:	O
+"	O
+fifteen	O
+men	O
+on	O
+the	O
+dead	O
+man	O
+'s	O
+chest	O
+--	O
+yo-ho-ho	O
+,	O
+and	O
+a	O
+bottle	O
+of	O
+rum	O
+!	O
+"	O
+
+# id = litbank-0508
+# source = LitBank
+# book = Treasure Island
+# book_id = 120_treasure_island
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/120_treasure_island_brat.tsv
+# text = in the high , old tottering voice that seemed to have been tuned and broken at the capstan bars .
+in	O
+the	O
+high	O
+,	O
+old	O
+tottering	O
+voice	O
+that	O
+seemed	O
+to	O
+have	O
+been	O
+tuned	O
+and	O
+broken	O
+at	O
+the	O
+capstan	O
+bars	O
+.	O
+
+# id = litbank-0509
+# source = LitBank
+# book = Treasure Island
+# book_id = 120_treasure_island
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/120_treasure_island_brat.tsv
+# text = then he rapped on the door with a bit of stick like a handspike that he carried , and when my father appeared , called roughly for a glass of rum .
+then	O
+he	O
+rapped	O
+on	O
+the	O
+door	O
+with	O
+a	O
+bit	O
+of	O
+stick	O
+like	O
+a	O
+handspike	O
+that	O
+he	O
+carried	O
+,	O
+and	O
+when	O
+my	O
+father	O
+appeared	O
+,	O
+called	O
+roughly	O
+for	O
+a	O
+glass	O
+of	O
+rum	O
+.	O
+
+# id = litbank-0510
+# source = LitBank
+# book = Treasure Island
+# book_id = 120_treasure_island
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/120_treasure_island_brat.tsv
+# text = this , when it was brought to him , he drank slowly , like a connoisseur , lingering on the taste and still looking about him at the cliffs and up at our signboard .
+this	O
+,	O
+when	O
+it	O
+was	O
+brought	O
+to	O
+him	O
+,	O
+he	O
+drank	O
+slowly	O
+,	O
+like	O
+a	O
+connoisseur	O
+,	O
+lingering	O
+on	O
+the	O
+taste	O
+and	O
+still	O
+looking	O
+about	O
+him	O
+at	O
+the	O
+cliffs	O
+and	O
+up	O
+at	O
+our	O
+signboard	O
+.	O
+

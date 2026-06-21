@@ -1,0 +1,414 @@
+# id = litbank-0781
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = the magnet attracting -- a waif amid forces when caroline meeber boarded the afternoon train for chicago , her total outfit consisted of a small trunk , a cheap imitation alligator-skin satchel , a small lunch in a paper box , and a yellow leather snap purse , containing her ticket , a scrap of paper with her sister 's address in van buren street , and four dollars in money .
+the	O
+magnet	O
+attracting	O
+--	O
+a	O
+waif	O
+amid	O
+forces	O
+when	O
+caroline	B-CHARACTER
+meeber	I-CHARACTER
+boarded	O
+the	O
+afternoon	O
+train	O
+for	O
+chicago	O
+,	O
+her	O
+total	O
+outfit	O
+consisted	O
+of	O
+a	O
+small	O
+trunk	O
+,	O
+a	O
+cheap	O
+imitation	O
+alligator-skin	O
+satchel	O
+,	O
+a	O
+small	O
+lunch	O
+in	O
+a	O
+paper	O
+box	O
+,	O
+and	O
+a	O
+yellow	O
+leather	O
+snap	O
+purse	O
+,	O
+containing	O
+her	O
+ticket	O
+,	O
+a	O
+scrap	O
+of	O
+paper	O
+with	O
+her	O
+sister	O
+'s	O
+address	O
+in	O
+van	O
+buren	O
+street	O
+,	O
+and	O
+four	O
+dollars	O
+in	O
+money	O
+.	O
+
+# id = litbank-0787
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = caroline , or sister carrie , as she had been half affectionately termed by the family , was possessed of a mind rudimentary in its power of observation and analysis .
+caroline	B-CHARACTER
+,	O
+or	O
+sister	O
+carrie	O
+,	O
+as	O
+she	O
+had	O
+been	O
+half	O
+affectionately	O
+termed	O
+by	O
+the	O
+family	O
+,	O
+was	O
+possessed	O
+of	O
+a	O
+mind	O
+rudimentary	O
+in	O
+its	O
+power	O
+of	O
+observation	O
+and	O
+analysis	O
+.	O
+
+# id = litbank-0788
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = “ oh , yes , i am , ” answered carrie .
+“	O
+oh	O
+,	O
+yes	O
+,	O
+i	O
+am	O
+,	O
+”	O
+answered	O
+carrie	B-CHARACTER
+.	O
+
+# id = litbank-0789
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = he was , for the order of intellect represented , attractive , and whatever he had to recommend him , you may be sure was not lost upon carrie , in this , her first glance .
+he	O
+was	O
+,	O
+for	O
+the	O
+order	O
+of	O
+intellect	O
+represented	O
+,	O
+attractive	O
+,	O
+and	O
+whatever	O
+he	O
+had	O
+to	O
+recommend	O
+him	O
+,	O
+you	O
+may	O
+be	O
+sure	O
+was	O
+not	O
+lost	O
+upon	O
+carrie	B-CHARACTER
+,	O
+in	O
+this	O
+,	O
+her	O
+first	O
+glance	O
+.	O
+
+# id = litbank-0790
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = this line the individual at her elbow now marked for carrie .
+this	O
+line	O
+the	O
+individual	O
+at	O
+her	O
+elbow	O
+now	O
+marked	O
+for	O
+carrie	B-CHARACTER
+.	O
+
+# id = litbank-0791
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = morgenroth the clothier and gibson the dry goods man . ”
+morgenroth	B-CHARACTER
+the	O
+clothier	O
+and	O
+gibson	B-CHARACTER
+the	O
+dry	O
+goods	O
+man	O
+.	O
+”	O
+
+# id = litbank-0782
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = she was eighteen years of age , bright , timid , and full of the illusions of ignorance and youth .
+she	O
+was	O
+eighteen	O
+years	O
+of	O
+age	O
+,	O
+bright	O
+,	O
+timid	O
+,	O
+and	O
+full	O
+of	O
+the	O
+illusions	O
+of	O
+ignorance	O
+and	O
+youth	O
+.	O
+
+# id = litbank-0783
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = whatever touch of regret at parting characterised her thoughts , it was certainly not for advantages now being given up .
+whatever	O
+touch	O
+of	O
+regret	O
+at	O
+parting	O
+characterised	O
+her	O
+thoughts	O
+,	O
+it	O
+was	O
+certainly	O
+not	O
+for	O
+advantages	O
+now	O
+being	O
+given	O
+up	O
+.	O
+
+# id = litbank-0784
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = a gush of tears at her mother 's farewell kiss , a touch in her throat when the cars clacked by the flour mill where her father worked by the day , a pathetic sigh as the familiar green environs of the village passed in review , and the threads which bound her so lightly to girlhood and home were irretrievably broken .
+a	O
+gush	O
+of	O
+tears	O
+at	O
+her	O
+mother	O
+'s	O
+farewell	O
+kiss	O
+,	O
+a	O
+touch	O
+in	O
+her	O
+throat	O
+when	O
+the	O
+cars	O
+clacked	O
+by	O
+the	O
+flour	O
+mill	O
+where	O
+her	O
+father	O
+worked	O
+by	O
+the	O
+day	O
+,	O
+a	O
+pathetic	O
+sigh	O
+as	O
+the	O
+familiar	O
+green	O
+environs	O
+of	O
+the	O
+village	O
+passed	O
+in	O
+review	O
+,	O
+and	O
+the	O
+threads	O
+which	O
+bound	O
+her	O
+so	O
+lightly	O
+to	O
+girlhood	O
+and	O
+home	O
+were	O
+irretrievably	O
+broken	O
+.	O
+
+# id = litbank-0785
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = to be sure there was always the next station , where one might descend and return .
+to	O
+be	O
+sure	O
+there	O
+was	O
+always	O
+the	O
+next	O
+station	O
+,	O
+where	O
+one	O
+might	O
+descend	O
+and	O
+return	O
+.	O
+
+# id = litbank-0786
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = there was the great city , bound more closely by these very trains which came up daily .
+there	O
+was	O
+the	O
+great	O
+city	O
+,	O
+bound	O
+more	O
+closely	O
+by	O
+these	O
+very	O
+trains	O
+which	O
+came	O
+up	O
+daily	O
+.	O
+

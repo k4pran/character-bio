@@ -1,0 +1,215 @@
+# id = litbank-1769
+# source = LitBank
+# book = Moby-Dick
+# book_id = 2489_moby_dick
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2489_moby_dick_brat.tsv
+# text = chapter 1 loomings call me ishmael .
+chapter	O
+1	O
+loomings	O
+call	O
+me	O
+ishmael	B-CHARACTER
+.	O
+
+# id = litbank-1775
+# source = LitBank
+# book = Moby-Dick
+# book_id = 2489_moby_dick
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2489_moby_dick_brat.tsv
+# text = do you think the archangel gabriel thinks anything the less of me , because i promptly and respectfully obey that old hunks in that particular instance ?
+do	O
+you	O
+think	O
+the	O
+archangel	O
+gabriel	B-CHARACTER
+thinks	O
+anything	O
+the	O
+less	O
+of	O
+me	O
+,	O
+because	O
+i	O
+promptly	O
+and	O
+respectfully	O
+obey	O
+that	O
+old	O
+hunks	O
+in	O
+that	O
+particular	O
+instance	O
+?	O
+
+# id = litbank-1770
+# source = LitBank
+# book = Moby-Dick
+# book_id = 2489_moby_dick
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2489_moby_dick_brat.tsv
+# text = some years ago -- never mind how long precisely -- having little or no money in my purse , and nothing particular to interest me on shore , i thought i would sail about a little and see the watery part of the world .
+some	O
+years	O
+ago	O
+--	O
+never	O
+mind	O
+how	O
+long	O
+precisely	O
+--	O
+having	O
+little	O
+or	O
+no	O
+money	O
+in	O
+my	O
+purse	O
+,	O
+and	O
+nothing	O
+particular	O
+to	O
+interest	O
+me	O
+on	O
+shore	O
+,	O
+i	O
+thought	O
+i	O
+would	O
+sail	O
+about	O
+a	O
+little	O
+and	O
+see	O
+the	O
+watery	O
+part	O
+of	O
+the	O
+world	O
+.	O
+
+# id = litbank-1771
+# source = LitBank
+# book = Moby-Dick
+# book_id = 2489_moby_dick
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2489_moby_dick_brat.tsv
+# text = it is a way i have of driving off the spleen and regulating the circulation .
+it	O
+is	O
+a	O
+way	O
+i	O
+have	O
+of	O
+driving	O
+off	O
+the	O
+spleen	O
+and	O
+regulating	O
+the	O
+circulation	O
+.	O
+
+# id = litbank-1772
+# source = LitBank
+# book = Moby-Dick
+# book_id = 2489_moby_dick
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2489_moby_dick_brat.tsv
+# text = this is my substitute for pistol and ball .
+this	O
+is	O
+my	O
+substitute	O
+for	O
+pistol	O
+and	O
+ball	O
+.	O
+
+# id = litbank-1773
+# source = LitBank
+# book = Moby-Dick
+# book_id = 2489_moby_dick
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2489_moby_dick_brat.tsv
+# text = with a philosophical flourish cato throws himself upon his sword ; i quietly take to the ship .
+with	O
+a	O
+philosophical	O
+flourish	O
+cato	O
+throws	O
+himself	O
+upon	O
+his	O
+sword	O
+;	O
+i	O
+quietly	O
+take	O
+to	O
+the	O
+ship	O
+.	O
+
+# id = litbank-1774
+# source = LitBank
+# book = Moby-Dick
+# book_id = 2489_moby_dick
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2489_moby_dick_brat.tsv
+# text = if they but knew it , almost all men in their degree , some time or other , cherish very nearly the same feelings towards the ocean with me .
+if	O
+they	O
+but	O
+knew	O
+it	O
+,	O
+almost	O
+all	O
+men	O
+in	O
+their	O
+degree	O
+,	O
+some	O
+time	O
+or	O
+other	O
+,	O
+cherish	O
+very	O
+nearly	O
+the	O
+same	O
+feelings	O
+towards	O
+the	O
+ocean	O
+with	O
+me	O
+.	O
+

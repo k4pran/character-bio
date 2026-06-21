@@ -1,0 +1,1617 @@
+# id = litbank-1967
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = milt dale , man of the forest , halted at the edge of a timbered ridge , to listen and to watch .
+milt	B-CHARACTER
+dale	I-CHARACTER
+,	O
+man	O
+of	O
+the	O
+forest	O
+,	O
+halted	O
+at	O
+the	O
+edge	O
+of	O
+a	O
+timbered	O
+ridge	O
+,	O
+to	O
+listen	O
+and	O
+to	O
+watch	O
+.	O
+
+# id = litbank-1968
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = to dale 's keen ear these sounds were all they should have been , betokening an unchanged serenity of forestland .
+to	O
+dale	B-CHARACTER
+'s	O
+keen	O
+ear	O
+these	O
+sounds	O
+were	O
+all	O
+they	O
+should	O
+have	O
+been	O
+,	O
+betokening	O
+an	O
+unchanged	O
+serenity	O
+of	O
+forestland	O
+.	O
+
+# id = litbank-1969
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = but there hid somewhere in the forest a gang of bad men , sheep-thieves , whom dale did not want to meet .
+but	O
+there	O
+hid	O
+somewhere	O
+in	O
+the	O
+forest	O
+a	O
+gang	O
+of	O
+bad	O
+men	O
+,	O
+sheep-thieves	O
+,	O
+whom	O
+dale	B-CHARACTER
+did	O
+not	O
+want	O
+to	O
+meet	O
+.	O
+
+# id = litbank-1970
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = as he started out upon the slope , a sudden flaring of the afterglow of sunset flooded down from old baldy , filling the valley with lights and shadows , yellow and blue , like the radiance of the sky .
+as	O
+he	O
+started	O
+out	O
+upon	O
+the	O
+slope	O
+,	O
+a	O
+sudden	O
+flaring	O
+of	O
+the	O
+afterglow	O
+of	O
+sunset	O
+flooded	O
+down	O
+from	O
+old	O
+baldy	B-CHARACTER
+,	O
+filling	O
+the	O
+valley	O
+with	O
+lights	O
+and	O
+shadows	O
+,	O
+yellow	O
+and	O
+blue	O
+,	O
+like	O
+the	O
+radiance	O
+of	O
+the	O
+sky	O
+.	O
+
+# id = litbank-1971
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = dale 's gaze swept up and down the valley , and then tried to pierce the black shadows across the brook where the wall of spruce stood up , its speared and spiked crest against the pale clouds .
+dale	B-CHARACTER
+'s	O
+gaze	O
+swept	O
+up	O
+and	O
+down	O
+the	O
+valley	O
+,	O
+and	O
+then	O
+tried	O
+to	O
+pierce	O
+the	O
+black	O
+shadows	O
+across	O
+the	O
+brook	O
+where	O
+the	O
+wall	O
+of	O
+spruce	O
+stood	O
+up	O
+,	O
+its	O
+speared	O
+and	O
+spiked	O
+crest	O
+against	O
+the	O
+pale	O
+clouds	O
+.	O
+
+# id = litbank-1972
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = dale , striking a trail , turned his back to the fading afterglow and strode down the valley .
+dale	B-CHARACTER
+,	O
+striking	O
+a	O
+trail	O
+,	O
+turned	O
+his	O
+back	O
+to	O
+the	O
+fading	O
+afterglow	O
+and	O
+strode	O
+down	O
+the	O
+valley	O
+.	O
+
+# id = litbank-1973
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = then dale studied the clouds driving across the sky , and he felt the cool dampness of a fine , misty rain on his face .
+then	O
+dale	B-CHARACTER
+studied	O
+the	O
+clouds	O
+driving	O
+across	O
+the	O
+sky	O
+,	O
+and	O
+he	O
+felt	O
+the	O
+cool	O
+dampness	O
+of	O
+a	O
+fine	O
+,	O
+misty	O
+rain	O
+on	O
+his	O
+face	O
+.	O
+
+# id = litbank-1974
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = five horses with riders , dale made out -- saw them loom close .
+five	O
+horses	O
+with	O
+riders	O
+,	O
+dale	B-CHARACTER
+made	O
+out	O
+--	O
+saw	O
+them	O
+loom	O
+close	O
+.	O
+
+# id = litbank-1975
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ wal , beasley , are you here ? ” queried a loud voice .
+“	O
+wal	B-CHARACTER
+,	O
+beasley	B-CHARACTER
+,	O
+are	O
+you	O
+here	O
+?	O
+”	O
+queried	O
+a	O
+loud	O
+voice	O
+.	O
+
+# id = litbank-1976
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ fellars , beasley ai n't here yet , ” he called .
+“	O
+fellars	O
+,	O
+beasley	B-CHARACTER
+ai	O
+n't	O
+here	O
+yet	O
+,	O
+”	O
+he	O
+called	O
+.	O
+
+# id = litbank-1977
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ shut up , moze .
+“	O
+shut	O
+up	O
+,	O
+moze	B-CHARACTER
+.	O
+
+# id = litbank-1978
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ snake , it 'd been sense to fetch a pack along , ” drawled this newcomer .
+“	O
+snake	B-CHARACTER
+,	O
+it	O
+'d	O
+been	O
+sense	O
+to	O
+fetch	O
+a	O
+pack	O
+along	O
+,	O
+”	O
+drawled	O
+this	O
+newcomer	O
+.	O
+
+# id = litbank-1979
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ reckon so , jim .
+“	O
+reckon	O
+so	O
+,	O
+jim	B-CHARACTER
+.	O
+
+# id = litbank-1980
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = beasley wo n't keep us waitin ' long . ”
+beasley	B-CHARACTER
+wo	O
+n't	O
+keep	O
+us	O
+waitin	O
+'	O
+long	O
+.	O
+”	O
+
+# id = litbank-1981
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = dale , lying still and prone , felt a slow start in all his blood -- a thrilling wave .
+dale	B-CHARACTER
+,	O
+lying	O
+still	O
+and	O
+prone	O
+,	O
+felt	O
+a	O
+slow	O
+start	O
+in	O
+all	O
+his	O
+blood	O
+--	O
+a	O
+thrilling	O
+wave	O
+.	O
+
+# id = litbank-1982
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = that deep-voiced man below was snake anson , the worst and most dangerous character of the region ; and the others , undoubtedly , composed his gang , long notorious in that sparsely settled country .
+that	O
+deep-voiced	O
+man	O
+below	O
+was	O
+snake	B-CHARACTER
+anson	I-CHARACTER
+,	O
+the	O
+worst	O
+and	O
+most	O
+dangerous	O
+character	O
+of	O
+the	O
+region	O
+;	O
+and	O
+the	O
+others	O
+,	O
+undoubtedly	O
+,	O
+composed	O
+his	O
+gang	O
+,	O
+long	O
+notorious	O
+in	O
+that	O
+sparsely	O
+settled	O
+country	O
+.	O
+
+# id = litbank-1983
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = and the beasley mentioned -- he was one of the two biggest ranchers and sheep-raisers of the white mountain ranges .
+and	O
+the	O
+beasley	B-CHARACTER
+mentioned	O
+--	O
+he	O
+was	O
+one	O
+of	O
+the	O
+two	O
+biggest	O
+ranchers	O
+and	O
+sheep-raisers	O
+of	O
+the	O
+white	O
+mountain	O
+ranges	O
+.	O
+
+# id = litbank-1984
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = what was the meaning of a rendezvous between snake anson and beasley ?
+what	O
+was	O
+the	O
+meaning	O
+of	O
+a	O
+rendezvous	O
+between	O
+snake	B-CHARACTER
+anson	I-CHARACTER
+and	O
+beasley	B-CHARACTER
+?	O
+
+# id = litbank-1985
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = milt dale answered that question to beasley 's discredit ; and many strange matters pertaining to sheep and herders , always a mystery to the little village of pine , now became as clear as daylight .
+milt	B-CHARACTER
+dale	I-CHARACTER
+answered	O
+that	O
+question	O
+to	O
+beasley	B-CHARACTER
+'s	O
+discredit	O
+;	O
+and	O
+many	O
+strange	O
+matters	O
+pertaining	O
+to	O
+sheep	O
+and	O
+herders	O
+,	O
+always	O
+a	O
+mystery	O
+to	O
+the	O
+little	O
+village	O
+of	O
+pine	O
+,	O
+now	O
+became	O
+as	O
+clear	O
+as	O
+daylight	O
+.	O
+
+# id = litbank-1986
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ jim , hyar 's a chunk of pine log , dry as punk , ” said another .
+“	O
+jim	B-CHARACTER
+,	O
+hyar	O
+'s	O
+a	O
+chunk	O
+of	O
+pine	O
+log	O
+,	O
+dry	O
+as	O
+punk	O
+,	O
+”	O
+said	O
+another	O
+.	O
+
+# id = litbank-1987
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = rustlings and slow footsteps , and then heavy thuds attested to the probability that jim was knocking the end of a log upon the ground to split off a corner whereby a handful of dry splinters could be procured .
+rustlings	O
+and	O
+slow	O
+footsteps	O
+,	O
+and	O
+then	O
+heavy	O
+thuds	O
+attested	O
+to	O
+the	O
+probability	O
+that	O
+jim	B-CHARACTER
+was	O
+knocking	O
+the	O
+end	O
+of	O
+a	O
+log	O
+upon	O
+the	O
+ground	O
+to	O
+split	O
+off	O
+a	O
+corner	O
+whereby	O
+a	O
+handful	O
+of	O
+dry	O
+splinters	O
+could	O
+be	O
+procured	O
+.	O
+
+# id = litbank-1988
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ snake , lem me your pipe , an ' i 'll hev a fire in a jiffy . ”
+“	O
+snake	B-CHARACTER
+,	O
+lem	O
+me	O
+your	O
+pipe	O
+,	O
+an	O
+'	O
+i	O
+'ll	O
+hev	O
+a	O
+fire	O
+in	O
+a	O
+jiffy	O
+.	O
+”	O
+
+# id = litbank-1989
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ wal , i want my terbacco an ' i ai n't carin ' about no fire , ” replied snake .
+“	O
+wal	O
+,	O
+i	O
+want	O
+my	O
+terbacco	O
+an	O
+'	O
+i	O
+ai	O
+n't	O
+carin	O
+'	O
+about	O
+no	O
+fire	O
+,	O
+”	O
+replied	O
+snake	B-CHARACTER
+.	O
+
+# id = litbank-1990
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ reckon you 're the meanest cuss in these woods , ” drawled jim .
+“	O
+reckon	O
+you	O
+'re	O
+the	O
+meanest	O
+cuss	O
+in	O
+these	O
+woods	O
+,	O
+”	O
+drawled	O
+jim	B-CHARACTER
+.	O
+
+# id = litbank-1991
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = sharp click of steel on flint -- many times -- and then a sound of hard blowing and sputtering told of jim 's efforts to start a fire .
+sharp	O
+click	O
+of	O
+steel	O
+on	O
+flint	O
+--	O
+many	O
+times	O
+--	O
+and	O
+then	O
+a	O
+sound	O
+of	O
+hard	O
+blowing	O
+and	O
+sputtering	O
+told	O
+of	O
+jim	B-CHARACTER
+'s	O
+efforts	O
+to	O
+start	O
+a	O
+fire	O
+.	O
+
+# id = litbank-1992
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = as it chanced , dale lay face down upon the floor of the loft , and right near his eyes there were cracks between the boughs .
+as	O
+it	O
+chanced	O
+,	O
+dale	B-CHARACTER
+lay	O
+face	O
+down	O
+upon	O
+the	O
+floor	O
+of	O
+the	O
+loft	O
+,	O
+and	O
+right	O
+near	O
+his	O
+eyes	O
+there	O
+were	O
+cracks	O
+between	O
+the	O
+boughs	O
+.	O
+
+# id = litbank-1993
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = the only one he had ever seen was jim wilson , who had been well known at pine before snake anson had ever been heard of .
+the	O
+only	O
+one	O
+he	O
+had	O
+ever	O
+seen	O
+was	O
+jim	B-CHARACTER
+wilson	I-CHARACTER
+,	O
+who	O
+had	O
+been	O
+well	O
+known	O
+at	O
+pine	O
+before	O
+snake	B-CHARACTER
+anson	I-CHARACTER
+had	O
+ever	O
+been	O
+heard	O
+of	O
+.	O
+
+# id = litbank-1994
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = jim was the best of a bad lot , and he had friends among the honest people .
+jim	B-CHARACTER
+was	O
+the	O
+best	O
+of	O
+a	O
+bad	O
+lot	O
+,	O
+and	O
+he	O
+had	O
+friends	O
+among	O
+the	O
+honest	O
+people	O
+.	O
+
+# id = litbank-1995
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = it was rumored that he and snake did not pull well together .
+it	O
+was	O
+rumored	O
+that	O
+he	O
+and	O
+snake	B-CHARACTER
+did	O
+not	O
+pull	O
+well	O
+together	O
+.	O
+
+# id = litbank-1996
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ fire feels good , ” said the burly moze , who appeared as broad as he was black-visaged .
+“	O
+fire	O
+feels	O
+good	O
+,	O
+”	O
+said	O
+the	O
+burly	O
+moze	B-CHARACTER
+,	O
+who	O
+appeared	O
+as	O
+broad	O
+as	O
+he	O
+was	O
+black-visaged	O
+.	O
+
+# id = litbank-1997
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ moze , there 's a hunk of deer meat in my saddle-bag , an ' if you git it you can have half , ” spoke up another voice .
+“	O
+moze	B-CHARACTER
+,	O
+there	O
+'s	O
+a	O
+hunk	O
+of	O
+deer	O
+meat	O
+in	O
+my	O
+saddle-bag	O
+,	O
+an	O
+'	O
+if	O
+you	O
+git	O
+it	O
+you	O
+can	O
+have	O
+half	O
+,	O
+”	O
+spoke	O
+up	O
+another	O
+voice	O
+.	O
+
+# id = litbank-1998
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = moze shuffled out with alacrity .
+moze	B-CHARACTER
+shuffled	O
+out	O
+with	O
+alacrity	O
+.	O
+
+# id = litbank-1999
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = in the firelight snake anson 's face looked lean and serpent-like , his eyes glittered , and his long neck and all of his long length carried out the analogy of his name .
+in	O
+the	O
+firelight	O
+snake	B-CHARACTER
+anson	I-CHARACTER
+'s	O
+face	O
+looked	O
+lean	O
+and	O
+serpent-like	O
+,	O
+his	O
+eyes	O
+glittered	O
+,	O
+and	O
+his	O
+long	O
+neck	O
+and	O
+all	O
+of	O
+his	O
+long	O
+length	O
+carried	O
+out	O
+the	O
+analogy	O
+of	O
+his	O
+name	O
+.	O
+
+# id = litbank-2000
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ snake , what 's this here deal with beasley ? ” inquired jim .
+“	O
+snake	B-CHARACTER
+,	O
+what	O
+'s	O
+this	O
+here	O
+deal	O
+with	O
+beasley	B-CHARACTER
+?	O
+”	O
+inquired	O
+jim	B-CHARACTER
+.	O
+
+# id = litbank-2001
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ you 're dead right , burt -- an ' that 's my stand , ” replied the man who had sent moze out .
+“	O
+you	O
+'re	O
+dead	O
+right	O
+,	O
+burt	B-CHARACTER
+--	O
+an	O
+'	O
+that	O
+'s	O
+my	O
+stand	O
+,	O
+”	O
+replied	O
+the	O
+man	O
+who	O
+had	O
+sent	O
+moze	B-CHARACTER
+out	O
+.	O
+
+# id = litbank-2002
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ snake , snow 'll be flyin ' round these woods before long , ” said jim wilson .
+“	O
+snake	B-CHARACTER
+,	O
+snow	O
+'ll	O
+be	O
+flyin	O
+'	O
+round	O
+these	O
+woods	O
+before	O
+long	O
+,	O
+”	O
+said	O
+jim	B-CHARACTER
+wilson	I-CHARACTER
+.	O
+
+# id = litbank-2003
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ reckon we 'll do some tall ridin ' before we strike south , ” replied snake , gruffly .
+“	O
+reckon	O
+we	O
+'ll	O
+do	O
+some	O
+tall	O
+ridin	O
+'	O
+before	O
+we	O
+strike	O
+south	O
+,	O
+”	O
+replied	O
+snake	B-CHARACTER
+,	O
+gruffly	O
+.	O
+
+# id = litbank-2004
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = at the juncture moze returned .
+at	O
+the	O
+juncture	O
+moze	B-CHARACTER
+returned	O
+.	O
+
+# id = litbank-2005
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = snake rose and stood at the door , listening .
+snake	B-CHARACTER
+rose	O
+and	O
+stood	O
+at	O
+the	O
+door	O
+,	O
+listening	O
+.	O
+
+# id = litbank-2006
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ a-huh ! ” exclaimed snake , in relief .
+“	O
+a-huh	O
+!	O
+”	O
+exclaimed	O
+snake	B-CHARACTER
+,	O
+in	O
+relief	O
+.	O
+
+# id = litbank-2007
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = silence ensued then for a moment , at the end of which interval dale heard a rapid clip-clop on the rocky trail outside .
+silence	O
+ensued	O
+then	O
+for	O
+a	O
+moment	O
+,	O
+at	O
+the	O
+end	O
+of	O
+which	O
+interval	O
+dale	B-CHARACTER
+heard	O
+a	O
+rapid	O
+clip-clop	O
+on	O
+the	O
+rocky	O
+trail	O
+outside	O
+.	O
+
+# id = litbank-2008
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = snake anson stepped back from before the door with an action that expressed both doubt and caution .
+snake	B-CHARACTER
+anson	I-CHARACTER
+stepped	O
+back	O
+from	O
+before	O
+the	O
+door	O
+with	O
+an	O
+action	O
+that	O
+expressed	O
+both	O
+doubt	O
+and	O
+caution	O
+.	O
+
+# id = litbank-2009
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ ho yourself ! ” replied anson .
+“	O
+ho	O
+yourself	O
+!	O
+”	O
+replied	O
+anson	B-CHARACTER
+.	O
+
+# id = litbank-2010
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ that you , snake ? ” quickly followed the query .
+“	O
+that	O
+you	O
+,	O
+snake	B-CHARACTER
+?	O
+”	O
+quickly	O
+followed	O
+the	O
+query	O
+.	O
+
+# id = litbank-2011
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ reckon so , ” returned anson , showing himself .
+“	O
+reckon	O
+so	O
+,	O
+”	O
+returned	O
+anson	B-CHARACTER
+,	O
+showing	O
+himself	O
+.	O
+
+# id = litbank-2012
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ hullo , snake !
+“	O
+hullo	O
+,	O
+snake	B-CHARACTER
+!	O
+
+# id = litbank-2013
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = hullo , wilson ! ” he said .
+hullo	O
+,	O
+wilson	B-CHARACTER
+!	O
+”	O
+he	O
+said	O
+.	O
+
+# id = litbank-2014
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = ejaculated anson , dubiously .
+ejaculated	O
+anson	B-CHARACTER
+,	O
+dubiously	O
+.	O
+
+# id = litbank-2015
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = moze , you an ' shady an ' burt go wait outside .
+moze	B-CHARACTER
+,	O
+you	O
+an	O
+'	O
+shady	B-CHARACTER
+an	O
+'	O
+burt	B-CHARACTER
+go	O
+wait	O
+outside	O
+.	O
+
+# id = litbank-1962
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = chapter i at sunset hour the forest was still , lonely , sweet with tang of fir and spruce , blazing in gold and red and green ; and the man who glided on under the great trees seemed to blend with the colors and , disappearing , to have become a part of the wild woodland .
+chapter	O
+i	O
+at	O
+sunset	O
+hour	O
+the	O
+forest	O
+was	O
+still	O
+,	O
+lonely	O
+,	O
+sweet	O
+with	O
+tang	O
+of	O
+fir	O
+and	O
+spruce	O
+,	O
+blazing	O
+in	O
+gold	O
+and	O
+red	O
+and	O
+green	O
+;	O
+and	O
+the	O
+man	O
+who	O
+glided	O
+on	O
+under	O
+the	O
+great	O
+trees	O
+seemed	O
+to	O
+blend	O
+with	O
+the	O
+colors	O
+and	O
+,	O
+disappearing	O
+,	O
+to	O
+have	O
+become	O
+a	O
+part	O
+of	O
+the	O
+wild	O
+woodland	O
+.	O
+
+# id = litbank-1963
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = old baldy , highest of the white mountains , stood up round and bare , rimmed bright gold in the last glow of the setting sun .
+old	O
+baldy	O
+,	O
+highest	O
+of	O
+the	O
+white	O
+mountains	O
+,	O
+stood	O
+up	O
+round	O
+and	O
+bare	O
+,	O
+rimmed	O
+bright	O
+gold	O
+in	O
+the	O
+last	O
+glow	O
+of	O
+the	O
+setting	O
+sun	O
+.	O
+
+# id = litbank-1964
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = then , as the fire dropped behind the domed peak , a change , a cold and darkening blight , passed down the black spear-pointed slopes over all that mountain world .
+then	O
+,	O
+as	O
+the	O
+fire	O
+dropped	O
+behind	O
+the	O
+domed	O
+peak	O
+,	O
+a	O
+change	O
+,	O
+a	O
+cold	O
+and	O
+darkening	O
+blight	O
+,	O
+passed	O
+down	O
+the	O
+black	O
+spear-pointed	O
+slopes	O
+over	O
+all	O
+that	O
+mountain	O
+world	O
+.	O
+
+# id = litbank-1965
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = it was a wild , richly timbered , and abundantly watered region of dark forests and grassy parks , ten thousand feet above sea-level , isolated on all sides by the southern arizona desert -- the virgin home of elk and deer , of bear and lion , of wolf and fox , and the birthplace as well as the hiding-place of the fierce apache .
+it	O
+was	O
+a	O
+wild	O
+,	O
+richly	O
+timbered	O
+,	O
+and	O
+abundantly	O
+watered	O
+region	O
+of	O
+dark	O
+forests	O
+and	O
+grassy	O
+parks	O
+,	O
+ten	O
+thousand	O
+feet	O
+above	O
+sea-level	O
+,	O
+isolated	O
+on	O
+all	O
+sides	O
+by	O
+the	O
+southern	O
+arizona	O
+desert	O
+--	O
+the	O
+virgin	O
+home	O
+of	O
+elk	O
+and	O
+deer	O
+,	O
+of	O
+bear	O
+and	O
+lion	O
+,	O
+of	O
+wolf	O
+and	O
+fox	O
+,	O
+and	O
+the	O
+birthplace	O
+as	O
+well	O
+as	O
+the	O
+hiding-place	O
+of	O
+the	O
+fierce	O
+apache	O
+.	O
+
+# id = litbank-1966
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = september in that latitude was marked by the sudden cool night breeze following shortly after sundown .
+september	O
+in	O
+that	O
+latitude	O
+was	O
+marked	O
+by	O
+the	O
+sudden	O
+cool	O
+night	O
+breeze	O
+following	O
+shortly	O
+after	O
+sundown	O
+.	O
+

@@ -1,0 +1,2089 @@
+# id = litbank-2453
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = _ chapter i _ miss marjoribanks lost her mother when she was only fifteen , and when , to add to the misfortune , she was absent at school , and could not have it in her power to soothe her dear mamma 's last moments , as she herself said .
+_	O
+chapter	O
+i	O
+_	O
+miss	B-CHARACTER
+marjoribanks	I-CHARACTER
+lost	O
+her	O
+mother	O
+when	O
+she	O
+was	O
+only	O
+fifteen	O
+,	O
+and	O
+when	O
+,	O
+to	O
+add	O
+to	O
+the	O
+misfortune	O
+,	O
+she	O
+was	O
+absent	O
+at	O
+school	O
+,	O
+and	O
+could	O
+not	O
+have	O
+it	O
+in	O
+her	O
+power	O
+to	O
+soothe	O
+her	O
+dear	O
+mamma	O
+'s	O
+last	O
+moments	O
+,	O
+as	O
+she	O
+herself	O
+said	O
+.	O
+
+# id = litbank-2455
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = mrs marjoribanks , poor lady , had been an invalid for many years ; she had grown a little peevish in her loneliness , not feeling herself of much account in this world .
+mrs	B-CHARACTER
+marjoribanks	I-CHARACTER
+,	O
+poor	O
+lady	O
+,	O
+had	O
+been	O
+an	O
+invalid	O
+for	O
+many	O
+years	O
+;	O
+she	O
+had	O
+grown	O
+a	O
+little	O
+peevish	O
+in	O
+her	O
+loneliness	O
+,	O
+not	O
+feeling	O
+herself	O
+of	O
+much	O
+account	O
+in	O
+this	O
+world	O
+.	O
+
+# id = litbank-2459
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = but dr marjoribanks was too busy a man to waste his feelings on a mere sentiment .
+but	O
+dr	B-CHARACTER
+marjoribanks	I-CHARACTER
+was	O
+too	O
+busy	O
+a	O
+man	O
+to	O
+waste	O
+his	O
+feelings	O
+on	O
+a	O
+mere	O
+sentiment	O
+.	O
+
+# id = litbank-2461
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = all the way home she revolved the situation in her mind , which was considerably enlightened by novels and popular philosophy -- for the lady at the head of miss marjoribanks school was a devoted admirer of _ friends in council _ , and was fond of bestowing that work as a prize , with pencil-marks on the margin -- so that lucilla 's mind had been cultivated , and was brimful of the best of sentiments .
+all	O
+the	O
+way	O
+home	O
+she	O
+revolved	O
+the	O
+situation	O
+in	O
+her	O
+mind	O
+,	O
+which	O
+was	O
+considerably	O
+enlightened	O
+by	O
+novels	O
+and	O
+popular	O
+philosophy	O
+--	O
+for	O
+the	O
+lady	O
+at	O
+the	O
+head	O
+of	O
+miss	B-CHARACTER
+marjoribanks	I-CHARACTER
+school	O
+was	O
+a	O
+devoted	O
+admirer	O
+of	O
+_	O
+friends	O
+in	O
+council	O
+_	O
+,	O
+and	O
+was	O
+fond	O
+of	O
+bestowing	O
+that	O
+work	O
+as	O
+a	O
+prize	O
+,	O
+with	O
+pencil-marks	O
+on	O
+the	O
+margin	O
+--	O
+so	O
+that	O
+lucilla	B-CHARACTER
+'s	O
+mind	O
+had	O
+been	O
+cultivated	O
+,	O
+and	O
+was	O
+brimful	O
+of	O
+the	O
+best	O
+of	O
+sentiments	O
+.	O
+
+# id = litbank-2462
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = miss marjoribanks had a lively mind , and was capable of grasping all the circumstances of the situation at a glance .
+miss	B-CHARACTER
+marjoribanks	I-CHARACTER
+had	O
+a	O
+lively	O
+mind	O
+,	O
+and	O
+was	O
+capable	O
+of	O
+grasping	O
+all	O
+the	O
+circumstances	O
+of	O
+the	O
+situation	O
+at	O
+a	O
+glance	O
+.	O
+
+# id = litbank-2463
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = miss marjoribanks sketched to herself , as she lay back in the corner of the railway carriage , with her veil down , how she would wind herself up to the duty of presiding at her papa 's dinner-parties , and charming everybody by her good humour , and brightness , and devotion to his comfort ; and how , when it was all over , she would withdraw and cry her eyes out in her own room , and be found in the morning languid and worn-out , but always heroical , ready to go downstairs and assist at dear papa 's breakfast , and keep up her smiles for him till he had gone out to his patients .
+miss	B-CHARACTER
+marjoribanks	I-CHARACTER
+sketched	O
+to	O
+herself	O
+,	O
+as	O
+she	O
+lay	O
+back	O
+in	O
+the	O
+corner	O
+of	O
+the	O
+railway	O
+carriage	O
+,	O
+with	O
+her	O
+veil	O
+down	O
+,	O
+how	O
+she	O
+would	O
+wind	O
+herself	O
+up	O
+to	O
+the	O
+duty	O
+of	O
+presiding	O
+at	O
+her	O
+papa	O
+'s	O
+dinner-parties	O
+,	O
+and	O
+charming	O
+everybody	O
+by	O
+her	O
+good	O
+humour	O
+,	O
+and	O
+brightness	O
+,	O
+and	O
+devotion	O
+to	O
+his	O
+comfort	O
+;	O
+and	O
+how	O
+,	O
+when	O
+it	O
+was	O
+all	O
+over	O
+,	O
+she	O
+would	O
+withdraw	O
+and	O
+cry	O
+her	O
+eyes	O
+out	O
+in	O
+her	O
+own	O
+room	O
+,	O
+and	O
+be	O
+found	O
+in	O
+the	O
+morning	O
+languid	O
+and	O
+worn-out	O
+,	O
+but	O
+always	O
+heroical	O
+,	O
+ready	O
+to	O
+go	O
+downstairs	O
+and	O
+assist	O
+at	O
+dear	O
+papa	O
+'s	O
+breakfast	O
+,	O
+and	O
+keep	O
+up	O
+her	O
+smiles	O
+for	O
+him	O
+till	O
+he	O
+had	O
+gone	O
+out	O
+to	O
+his	O
+patients	O
+.	O
+
+# id = litbank-2464
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = altogether the picture was a very pretty one ; and , considering that a great many young ladies in deep mourning put force upon their feelings in novels , and maintain a smile for the benefit of the unobservant male creatures of whom they have the charge , the idea was not at all extravagant , considering that miss marjoribanks was but fifteen .
+altogether	O
+the	O
+picture	O
+was	O
+a	O
+very	O
+pretty	O
+one	O
+;	O
+and	O
+,	O
+considering	O
+that	O
+a	O
+great	O
+many	O
+young	O
+ladies	O
+in	O
+deep	O
+mourning	O
+put	O
+force	O
+upon	O
+their	O
+feelings	O
+in	O
+novels	O
+,	O
+and	O
+maintain	O
+a	O
+smile	O
+for	O
+the	O
+benefit	O
+of	O
+the	O
+unobservant	O
+male	O
+creatures	O
+of	O
+whom	O
+they	O
+have	O
+the	O
+charge	O
+,	O
+the	O
+idea	O
+was	O
+not	O
+at	O
+all	O
+extravagant	O
+,	O
+considering	O
+that	O
+miss	B-CHARACTER
+marjoribanks	I-CHARACTER
+was	O
+but	O
+fifteen	O
+.	O
+
+# id = litbank-2465
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = when her schoolfellows talked of her to their friends -- for lucilla was already an important personage at mount pleasant -- the most common description they gave her was , that she was " a large girl " ; and there was great truth in the adjective .
+when	O
+her	O
+schoolfellows	O
+talked	O
+of	O
+her	O
+to	O
+their	O
+friends	O
+--	O
+for	O
+lucilla	B-CHARACTER
+was	O
+already	O
+an	O
+important	O
+personage	O
+at	O
+mount	O
+pleasant	O
+--	O
+the	O
+most	O
+common	O
+description	O
+they	O
+gave	O
+her	O
+was	O
+,	O
+that	O
+she	O
+was	O
+"	O
+a	O
+large	O
+girl	O
+"	O
+;	O
+and	O
+there	O
+was	O
+great	O
+truth	O
+in	O
+the	O
+adjective	O
+.	O
+
+# id = litbank-2466
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = miss marjoribanks was not vain ; but the word had taken possession of her imagination , as was natural , and solaced her much when she made the painful discovery that her gloves were half a number larger , and her shoes a hair-breadth broader , than those of any of her companions ; but the hands and feet were both perfectly well shaped ; and being at the same time well clothed and plump , were much more presentable and pleasant to look upon than the lean rudimentary schoolgirl hands with which they were surrounded .
+miss	B-CHARACTER
+marjoribanks	I-CHARACTER
+was	O
+not	O
+vain	O
+;	O
+but	O
+the	O
+word	O
+had	O
+taken	O
+possession	O
+of	O
+her	O
+imagination	O
+,	O
+as	O
+was	O
+natural	O
+,	O
+and	O
+solaced	O
+her	O
+much	O
+when	O
+she	O
+made	O
+the	O
+painful	O
+discovery	O
+that	O
+her	O
+gloves	O
+were	O
+half	O
+a	O
+number	O
+larger	O
+,	O
+and	O
+her	O
+shoes	O
+a	O
+hair-breadth	O
+broader	O
+,	O
+than	O
+those	O
+of	O
+any	O
+of	O
+her	O
+companions	O
+;	O
+but	O
+the	O
+hands	O
+and	O
+feet	O
+were	O
+both	O
+perfectly	O
+well	O
+shaped	O
+;	O
+and	O
+being	O
+at	O
+the	O
+same	O
+time	O
+well	O
+clothed	O
+and	O
+plump	O
+,	O
+were	O
+much	O
+more	O
+presentable	O
+and	O
+pleasant	O
+to	O
+look	O
+upon	O
+than	O
+the	O
+lean	O
+rudimentary	O
+schoolgirl	O
+hands	O
+with	O
+which	O
+they	O
+were	O
+surrounded	O
+.	O
+
+# id = litbank-2467
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = to add to these excellences , lucilla had a mass of hair which , if it could but have been cleared a little in its tint , would have been golden , though at present it was nothing more than tawny , and curly to exasperation .
+to	O
+add	O
+to	O
+these	O
+excellences	O
+,	O
+lucilla	B-CHARACTER
+had	O
+a	O
+mass	O
+of	O
+hair	O
+which	O
+,	O
+if	O
+it	O
+could	O
+but	O
+have	O
+been	O
+cleared	O
+a	O
+little	O
+in	O
+its	O
+tint	O
+,	O
+would	O
+have	O
+been	O
+golden	O
+,	O
+though	O
+at	O
+present	O
+it	O
+was	O
+nothing	O
+more	O
+than	O
+tawny	O
+,	O
+and	O
+curly	O
+to	O
+exasperation	O
+.	O
+
+# id = litbank-2468
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = first , she meant to fall into her father 's arms -- forgetting , with that singular facility for overlooking the peculiarities of others which belongs to such a character , that dr marjoribanks was very little given to embracing , and that a hasty kiss on her forehead was the warmest caress he had ever given his daughter -- and then to rush up to the chamber of death and weep over dear mamma .
+first	O
+,	O
+she	O
+meant	O
+to	O
+fall	O
+into	O
+her	O
+father	O
+'s	O
+arms	O
+--	O
+forgetting	O
+,	O
+with	O
+that	O
+singular	O
+facility	O
+for	O
+overlooking	O
+the	O
+peculiarities	O
+of	O
+others	O
+which	O
+belongs	O
+to	O
+such	O
+a	O
+character	O
+,	O
+that	O
+dr	B-CHARACTER
+marjoribanks	I-CHARACTER
+was	O
+very	O
+little	O
+given	O
+to	O
+embracing	O
+,	O
+and	O
+that	O
+a	O
+hasty	O
+kiss	O
+on	O
+her	O
+forehead	O
+was	O
+the	O
+warmest	O
+caress	O
+he	O
+had	O
+ever	O
+given	O
+his	O
+daughter	O
+--	O
+and	O
+then	O
+to	O
+rush	O
+up	O
+to	O
+the	O
+chamber	O
+of	O
+death	O
+and	O
+weep	O
+over	O
+dear	O
+mamma	O
+.	O
+
+# id = litbank-2469
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = lucilla said to herself , with a sob , and with feelings sufficiently real in their way .
+lucilla	B-CHARACTER
+said	O
+to	O
+herself	O
+,	O
+with	O
+a	O
+sob	O
+,	O
+and	O
+with	O
+feelings	O
+sufficiently	O
+real	O
+in	O
+their	O
+way	O
+.	O
+
+# id = litbank-2470
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = perhaps , if great emotion should make him tearless , as such cases had been known , miss marjoribanks would steal into his arms unawares , and so surprise him into weeping .
+perhaps	O
+,	O
+if	O
+great	O
+emotion	O
+should	O
+make	O
+him	O
+tearless	O
+,	O
+as	O
+such	O
+cases	O
+had	O
+been	O
+known	O
+,	O
+miss	B-CHARACTER
+marjoribanks	I-CHARACTER
+would	O
+steal	O
+into	O
+his	O
+arms	O
+unawares	O
+,	O
+and	O
+so	O
+surprise	O
+him	O
+into	O
+weeping	O
+.	O
+
+# id = litbank-2471
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = when miss marjoribanks reached home her mother had been dead for twenty-four hours ; and her father was not at the door to receive her as she had expected , but by the bedside of a patient in extremity , who could not consent to go out of the world without the doctor .
+when	O
+miss	B-CHARACTER
+marjoribanks	I-CHARACTER
+reached	O
+home	O
+her	O
+mother	O
+had	O
+been	O
+dead	O
+for	O
+twenty-four	O
+hours	O
+;	O
+and	O
+her	O
+father	O
+was	O
+not	O
+at	O
+the	O
+door	O
+to	O
+receive	O
+her	O
+as	O
+she	O
+had	O
+expected	O
+,	O
+but	O
+by	O
+the	O
+bedside	O
+of	O
+a	O
+patient	O
+in	O
+extremity	O
+,	O
+who	O
+could	O
+not	O
+consent	O
+to	O
+go	O
+out	O
+of	O
+the	O
+world	O
+without	O
+the	O
+doctor	O
+.	O
+
+# id = litbank-2472
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = this was a sad reversal of her intentions , but lucilla was not the woman to be disconcerted .
+this	O
+was	O
+a	O
+sad	O
+reversal	O
+of	O
+her	O
+intentions	O
+,	O
+but	O
+lucilla	B-CHARACTER
+was	O
+not	O
+the	O
+woman	O
+to	O
+be	O
+disconcerted	O
+.	O
+
+# id = litbank-2473
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = she carried out the second part of her programme without either interference or sympathy , except from mrs marjoribanks 's maid , who had some hopes from the moment of her arrival .
+she	O
+carried	O
+out	O
+the	O
+second	O
+part	O
+of	O
+her	O
+programme	O
+without	O
+either	O
+interference	O
+or	O
+sympathy	O
+,	O
+except	O
+from	O
+mrs	B-CHARACTER
+marjoribanks	I-CHARACTER
+'s	O
+maid	O
+,	O
+who	O
+had	O
+some	O
+hopes	O
+from	O
+the	O
+moment	O
+of	O
+her	O
+arrival	O
+.	O
+
+# id = litbank-2474
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = " ah , ellis , " cried miss marjoribanks , reposing her sorrow in the arms of this anxious attendant , " we must try to be a comfort to poor papa ! "
+"	O
+ah	O
+,	O
+ellis	B-CHARACTER
+,	O
+"	O
+cried	O
+miss	B-CHARACTER
+marjoribanks	I-CHARACTER
+,	O
+reposing	O
+her	O
+sorrow	O
+in	O
+the	O
+arms	O
+of	O
+this	O
+anxious	O
+attendant	O
+,	O
+"	O
+we	O
+must	O
+try	O
+to	O
+be	O
+a	O
+comfort	O
+to	O
+poor	O
+papa	O
+!	O
+"	O
+
+# id = litbank-2475
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = with this end lucilla made herself very troublesome to the sober-minded doctor during those few dim days before the faint and daily lessening shadow of poor mrs marjoribanks was removed altogether from the house .
+with	O
+this	O
+end	O
+lucilla	B-CHARACTER
+made	O
+herself	O
+very	O
+troublesome	O
+to	O
+the	O
+sober-minded	O
+doctor	O
+during	O
+those	O
+few	O
+dim	O
+days	O
+before	O
+the	O
+faint	O
+and	O
+daily	O
+lessening	O
+shadow	O
+of	O
+poor	O
+mrs	B-CHARACTER
+marjoribanks	I-CHARACTER
+was	O
+removed	O
+altogether	O
+from	O
+the	O
+house	O
+.	O
+
+# id = litbank-2476
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = when that sad ceremony had taken place , and the doctor returned , serious enough , heaven knows , to the great house , where the faded helpless woman , who had notwithstanding been his love and his bride in other days , lay no longer on the familiar sofa , the crisis arrived which miss marjoribanks had rehearsed so often , but after quite a different fashion .
+when	O
+that	O
+sad	O
+ceremony	O
+had	O
+taken	O
+place	O
+,	O
+and	O
+the	O
+doctor	O
+returned	O
+,	O
+serious	O
+enough	O
+,	O
+heaven	O
+knows	O
+,	O
+to	O
+the	O
+great	O
+house	O
+,	O
+where	O
+the	O
+faded	O
+helpless	O
+woman	O
+,	O
+who	O
+had	O
+notwithstanding	O
+been	O
+his	O
+love	O
+and	O
+his	O
+bride	O
+in	O
+other	O
+days	O
+,	O
+lay	O
+no	O
+longer	O
+on	O
+the	O
+familiar	O
+sofa	O
+,	O
+the	O
+crisis	O
+arrived	O
+which	O
+miss	B-CHARACTER
+marjoribanks	I-CHARACTER
+had	O
+rehearsed	O
+so	O
+often	O
+,	O
+but	O
+after	O
+quite	O
+a	O
+different	O
+fashion	O
+.	O
+
+# id = litbank-2477
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = on the contrary , a painful heaviness possessed him when he became aware how little real sorrow was in his mind , and how small an actual loss was this loss of his wife , which bulked before the world as an event of just as much magnitude as the loss , for example , which poor mr lake , the drawing-master , was at the same moment suffering .
+on	O
+the	O
+contrary	O
+,	O
+a	O
+painful	O
+heaviness	O
+possessed	O
+him	O
+when	O
+he	O
+became	O
+aware	O
+how	O
+little	O
+real	O
+sorrow	O
+was	O
+in	O
+his	O
+mind	O
+,	O
+and	O
+how	O
+small	O
+an	O
+actual	O
+loss	O
+was	O
+this	O
+loss	O
+of	O
+his	O
+wife	O
+,	O
+which	O
+bulked	O
+before	O
+the	O
+world	O
+as	O
+an	O
+event	O
+of	O
+just	O
+as	O
+much	O
+magnitude	O
+as	O
+the	O
+loss	O
+,	O
+for	O
+example	O
+,	O
+which	O
+poor	O
+mr	B-CHARACTER
+lake	I-CHARACTER
+,	O
+the	O
+drawing-master	O
+,	O
+was	O
+at	O
+the	O
+same	O
+moment	O
+suffering	O
+.	O
+
+# id = litbank-2478
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = as for the pretty creature whom dr marjoribanks had married , she had vanished into thin air years and years ago .
+as	O
+for	O
+the	O
+pretty	O
+creature	O
+whom	O
+dr	B-CHARACTER
+marjoribanks	I-CHARACTER
+had	O
+married	O
+,	O
+she	O
+had	O
+vanished	O
+into	O
+thin	O
+air	O
+years	O
+and	O
+years	O
+ago	O
+.	O
+
+# id = litbank-2479
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = it was may , and the weather was warm for the season ; but lucilla had caused the fire to be lighted in the large gloomy library where dr marjoribanks always sat in the evenings , with the idea that it would be " a comfort " to him ; and , for the same reason , she had ordered tea to be served there , instead of the dinner , for which her father , as she imagined , could have little appetite .
+it	O
+was	O
+may	O
+,	O
+and	O
+the	O
+weather	O
+was	O
+warm	O
+for	O
+the	O
+season	O
+;	O
+but	O
+lucilla	B-CHARACTER
+had	O
+caused	O
+the	O
+fire	O
+to	O
+be	O
+lighted	O
+in	O
+the	O
+large	O
+gloomy	O
+library	O
+where	O
+dr	B-CHARACTER
+marjoribanks	I-CHARACTER
+always	O
+sat	O
+in	O
+the	O
+evenings	O
+,	O
+with	O
+the	O
+idea	O
+that	O
+it	O
+would	O
+be	O
+"	O
+a	O
+comfort	O
+"	O
+to	O
+him	O
+;	O
+and	O
+,	O
+for	O
+the	O
+same	O
+reason	O
+,	O
+she	O
+had	O
+ordered	O
+tea	O
+to	O
+be	O
+served	O
+there	O
+,	O
+instead	O
+of	O
+the	O
+dinner	O
+,	O
+for	O
+which	O
+her	O
+father	O
+,	O
+as	O
+she	O
+imagined	O
+,	O
+could	O
+have	O
+little	O
+appetite	O
+.	O
+
+# id = litbank-2480
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = he had longed for the quiet and the coolness and the solitude of his library , apart from everybody ; and when he found it radiant with firelight , tea set on the table , and lucilla crying by the fire , in her new crape , the effect upon a temper by no means perfect may be imagined .
+he	O
+had	O
+longed	O
+for	O
+the	O
+quiet	O
+and	O
+the	O
+coolness	O
+and	O
+the	O
+solitude	O
+of	O
+his	O
+library	O
+,	O
+apart	O
+from	O
+everybody	O
+;	O
+and	O
+when	O
+he	O
+found	O
+it	O
+radiant	O
+with	O
+firelight	O
+,	O
+tea	O
+set	O
+on	O
+the	O
+table	O
+,	O
+and	O
+lucilla	B-CHARACTER
+crying	O
+by	O
+the	O
+fire	O
+,	O
+in	O
+her	O
+new	O
+crape	O
+,	O
+the	O
+effect	O
+upon	O
+a	O
+temper	O
+by	O
+no	O
+means	O
+perfect	O
+may	O
+be	O
+imagined	O
+.	O
+
+# id = litbank-2481
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = " let me know when dinner is ready , " he said , in a voice like thunder ; " and if miss marjoribanks wants a fire , let it be lighted in the drawing-room . "
+"	O
+let	O
+me	O
+know	O
+when	O
+dinner	O
+is	O
+ready	O
+,	O
+"	O
+he	O
+said	O
+,	O
+in	O
+a	O
+voice	O
+like	O
+thunder	O
+;	O
+"	O
+and	O
+if	O
+miss	B-CHARACTER
+marjoribanks	I-CHARACTER
+wants	O
+a	O
+fire	O
+,	O
+let	O
+it	O
+be	O
+lighted	O
+in	O
+the	O
+drawing-room	O
+.	O
+"	O
+
+# id = litbank-2482
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = lucilla was so much taken by surprise by this sudden overthrow of her programme , that she submitted , as a girl of much less spirit might have done , and suffered herself and her fire and her tea-things to be dismissed upstairs , where she wept still more at sight of dear mamma 's sofa , and where ellis came to mingle her tears with those of her young mistress , and to beg dear miss lucilla , for the sake of her precious ' elth and her dear papa , to be persuaded to take some tea .
+lucilla	B-CHARACTER
+was	O
+so	O
+much	O
+taken	O
+by	O
+surprise	O
+by	O
+this	O
+sudden	O
+overthrow	O
+of	O
+her	O
+programme	O
+,	O
+that	O
+she	O
+submitted	O
+,	O
+as	O
+a	O
+girl	O
+of	O
+much	O
+less	O
+spirit	O
+might	O
+have	O
+done	O
+,	O
+and	O
+suffered	O
+herself	O
+and	O
+her	O
+fire	O
+and	O
+her	O
+tea-things	O
+to	O
+be	O
+dismissed	O
+upstairs	O
+,	O
+where	O
+she	O
+wept	O
+still	O
+more	O
+at	O
+sight	O
+of	O
+dear	O
+mamma	O
+'s	O
+sofa	O
+,	O
+and	O
+where	O
+ellis	B-CHARACTER
+came	O
+to	O
+mingle	O
+her	O
+tears	O
+with	O
+those	O
+of	O
+her	O
+young	O
+mistress	O
+,	O
+and	O
+to	O
+beg	O
+dear	O
+miss	B-CHARACTER
+lucilla	I-CHARACTER
+,	O
+for	O
+the	O
+sake	O
+of	O
+her	O
+precious	O
+'	O
+elth	O
+and	O
+her	O
+dear	O
+papa	O
+,	O
+to	O
+be	O
+persuaded	O
+to	O
+take	O
+some	O
+tea	O
+.	O
+
+# id = litbank-2483
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = about an hour afterwards he went upstairs to the drawing-room , where miss marjoribanks was waiting for him , much less at ease than she had expected to be .
+about	O
+an	O
+hour	O
+afterwards	O
+he	O
+went	O
+upstairs	O
+to	O
+the	O
+drawing-room	O
+,	O
+where	O
+miss	B-CHARACTER
+marjoribanks	I-CHARACTER
+was	O
+waiting	O
+for	O
+him	O
+,	O
+much	O
+less	O
+at	O
+ease	O
+than	O
+she	O
+had	O
+expected	O
+to	O
+be	O
+.	O
+
+# id = litbank-2484
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = though he gave a little sigh at the sight of his wife 's sofa , he did not hesitate to sit down upon it , and even to draw it a little out of its position , which , as lucilla described afterwards , was like a knife going into her heart .
+though	O
+he	O
+gave	O
+a	O
+little	O
+sigh	O
+at	O
+the	O
+sight	O
+of	O
+his	O
+wife	O
+'s	O
+sofa	O
+,	O
+he	O
+did	O
+not	O
+hesitate	O
+to	O
+sit	O
+down	O
+upon	O
+it	O
+,	O
+and	O
+even	O
+to	O
+draw	O
+it	O
+a	O
+little	O
+out	O
+of	O
+its	O
+position	O
+,	O
+which	O
+,	O
+as	O
+lucilla	B-CHARACTER
+described	O
+afterwards	O
+,	O
+was	O
+like	O
+a	O
+knife	O
+going	O
+into	O
+her	O
+heart	O
+.	O
+
+# id = litbank-2485
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = as for the doctor , though miss marjoribanks thought him insensible , his heart was heavy enough .
+as	O
+for	O
+the	O
+doctor	O
+,	O
+though	O
+miss	B-CHARACTER
+marjoribanks	I-CHARACTER
+thought	O
+him	O
+insensible	O
+,	O
+his	O
+heart	O
+was	O
+heavy	O
+enough	O
+.	O
+
+# id = litbank-2486
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = it would have been a satisfaction to him just then to have been left to himself , and permitted to work on quietly at his profession , and to write his papers for the _ lancet _ , and to see his friends now and then when he chose ; for dr marjoribanks was not a man who had any great need of sympathy by nature , or who was at all addicted to demonstrations of feeling ; consequently , he drew his wife 's sofa a little farther from the fire , and took his seat on it soberly , quite unaware that , by so doing , he was putting a knife into his daughter 's heart .
+it	O
+would	O
+have	O
+been	O
+a	O
+satisfaction	O
+to	O
+him	O
+just	O
+then	O
+to	O
+have	O
+been	O
+left	O
+to	O
+himself	O
+,	O
+and	O
+permitted	O
+to	O
+work	O
+on	O
+quietly	O
+at	O
+his	O
+profession	O
+,	O
+and	O
+to	O
+write	O
+his	O
+papers	O
+for	O
+the	O
+_	O
+lancet	O
+_	O
+,	O
+and	O
+to	O
+see	O
+his	O
+friends	O
+now	O
+and	O
+then	O
+when	O
+he	O
+chose	O
+;	O
+for	O
+dr	B-CHARACTER
+marjoribanks	I-CHARACTER
+was	O
+not	O
+a	O
+man	O
+who	O
+had	O
+any	O
+great	O
+need	O
+of	O
+sympathy	O
+by	O
+nature	O
+,	O
+or	O
+who	O
+was	O
+at	O
+all	O
+addicted	O
+to	O
+demonstrations	O
+of	O
+feeling	O
+;	O
+consequently	O
+,	O
+he	O
+drew	O
+his	O
+wife	O
+'s	O
+sofa	O
+a	O
+little	O
+farther	O
+from	O
+the	O
+fire	O
+,	O
+and	O
+took	O
+his	O
+seat	O
+on	O
+it	O
+soberly	O
+,	O
+quite	O
+unaware	O
+that	O
+,	O
+by	O
+so	O
+doing	O
+,	O
+he	O
+was	O
+putting	O
+a	O
+knife	O
+into	O
+his	O
+daughter	O
+'s	O
+heart	O
+.	O
+
+# id = litbank-2454
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = words are sometimes very poor exponents of such an event : but it happens now and then , on the other hand , that a plain intimation expresses too much , and suggests emotion and suffering which , in reality , have but little , if any , existence .
+words	O
+are	O
+sometimes	O
+very	O
+poor	O
+exponents	O
+of	O
+such	O
+an	O
+event	O
+:	O
+but	O
+it	O
+happens	O
+now	O
+and	O
+then	O
+,	O
+on	O
+the	O
+other	O
+hand	O
+,	O
+that	O
+a	O
+plain	O
+intimation	O
+expresses	O
+too	O
+much	O
+,	O
+and	O
+suggests	O
+emotion	O
+and	O
+suffering	O
+which	O
+,	O
+in	O
+reality	O
+,	O
+have	O
+but	O
+little	O
+,	O
+if	O
+any	O
+,	O
+existence	O
+.	O
+
+# id = litbank-2456
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = there are some rare natures that are content to acquiesce in the general neglect , and forget themselves when they find themselves forgotten ; but it is unfortunately much more usual to take the plan adopted by mrs marjoribanks , who devoted all her powers , during the last ten years of her life , to the solacement and care of that poor self which other people neglected .
+there	O
+are	O
+some	O
+rare	O
+natures	O
+that	O
+are	O
+content	O
+to	O
+acquiesce	O
+in	O
+the	O
+general	O
+neglect	O
+,	O
+and	O
+forget	O
+themselves	O
+when	O
+they	O
+find	O
+themselves	O
+forgotten	O
+;	O
+but	O
+it	O
+is	O
+unfortunately	O
+much	O
+more	O
+usual	O
+to	O
+take	O
+the	O
+plan	O
+adopted	O
+by	O
+mrs	O
+marjoribanks	O
+,	O
+who	O
+devoted	O
+all	O
+her	O
+powers	O
+,	O
+during	O
+the	O
+last	O
+ten	O
+years	O
+of	O
+her	O
+life	O
+,	O
+to	O
+the	O
+solacement	O
+and	O
+care	O
+of	O
+that	O
+poor	O
+self	O
+which	O
+other	O
+people	O
+neglected	O
+.	O
+
+# id = litbank-2457
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = the consequence was , that when she disappeared from her sofa -- except for the mere physical fact that she was no longer there -- no one , except her maid , whose occupation was gone , could have found out much difference .
+the	O
+consequence	O
+was	O
+,	O
+that	O
+when	O
+she	O
+disappeared	O
+from	O
+her	O
+sofa	O
+--	O
+except	O
+for	O
+the	O
+mere	O
+physical	O
+fact	O
+that	O
+she	O
+was	O
+no	O
+longer	O
+there	O
+--	O
+no	O
+one	O
+,	O
+except	O
+her	O
+maid	O
+,	O
+whose	O
+occupation	O
+was	O
+gone	O
+,	O
+could	O
+have	O
+found	O
+out	O
+much	O
+difference	O
+.	O
+
+# id = litbank-2458
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = her husband , it is true , who had , somewhere , hidden deep in some secret corner of his physical organisation , the remains of a heart , experienced a certain sentiment of sadness when he re-entered the house from which she had gone away for ever .
+her	O
+husband	O
+,	O
+it	O
+is	O
+true	O
+,	O
+who	O
+had	O
+,	O
+somewhere	O
+,	O
+hidden	O
+deep	O
+in	O
+some	O
+secret	O
+corner	O
+of	O
+his	O
+physical	O
+organisation	O
+,	O
+the	O
+remains	O
+of	O
+a	O
+heart	O
+,	O
+experienced	O
+a	O
+certain	O
+sentiment	O
+of	O
+sadness	O
+when	O
+he	O
+re-entered	O
+the	O
+house	O
+from	O
+which	O
+she	O
+had	O
+gone	O
+away	O
+for	O
+ever	O
+.	O
+
+# id = litbank-2460
+# source = LitBank
+# book = Miss Marjoribanks
+# book_id = 41286_miss_marjoribanks
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/41286_miss_marjoribanks_brat.tsv
+# text = his daughter , however , was only fifteen , and had floods of tears at her command , as was natural at that age .
+his	O
+daughter	O
+,	O
+however	O
+,	O
+was	O
+only	O
+fifteen	O
+,	O
+and	O
+had	O
+floods	O
+of	O
+tears	O
+at	O
+her	O
+command	O
+,	O
+as	O
+was	O
+natural	O
+at	O
+that	O
+age	O
+.	O
+

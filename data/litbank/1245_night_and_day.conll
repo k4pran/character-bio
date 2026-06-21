@@ -1,0 +1,1704 @@
+# id = litbank-1502
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = chapter i it was a sunday evening in october , and in common with many other young ladies of her class , katharine hilbery was pouring out tea .
+chapter	O
+i	O
+it	O
+was	O
+a	O
+sunday	O
+evening	O
+in	O
+october	O
+,	O
+and	O
+in	O
+common	O
+with	O
+many	O
+other	O
+young	O
+ladies	O
+of	O
+her	O
+class	O
+,	O
+katharine	B-CHARACTER
+hilbery	I-CHARACTER
+was	O
+pouring	O
+out	O
+tea	O
+.	O
+
+# id = litbank-1505
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = a single glance was enough to show that mrs. hilbery was so rich in the gifts which make tea-parties of elderly distinguished people successful , that she scarcely needed any help from her daughter , provided that the tiresome business of teacups and bread and butter was discharged for her .
+a	O
+single	O
+glance	O
+was	O
+enough	O
+to	O
+show	O
+that	O
+mrs.	B-CHARACTER
+hilbery	I-CHARACTER
+was	O
+so	O
+rich	O
+in	O
+the	O
+gifts	O
+which	O
+make	O
+tea-parties	O
+of	O
+elderly	O
+distinguished	O
+people	O
+successful	O
+,	O
+that	O
+she	O
+scarcely	O
+needed	O
+any	O
+help	O
+from	O
+her	O
+daughter	O
+,	O
+provided	O
+that	O
+the	O
+tiresome	O
+business	O
+of	O
+teacups	O
+and	O
+bread	O
+and	O
+butter	O
+was	O
+discharged	O
+for	O
+her	O
+.	O
+
+# id = litbank-1507
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = it suddenly came into katharine ’s mind that if some one opened the door at this moment he would think that they were enjoying themselves ; he would think , “ what an extremely nice house to come into ! ”
+it	O
+suddenly	O
+came	O
+into	O
+katharine	B-CHARACTER
+’s	O
+mind	O
+that	O
+if	O
+some	O
+one	O
+opened	O
+the	O
+door	O
+at	O
+this	O
+moment	O
+he	O
+would	O
+think	O
+that	O
+they	O
+were	O
+enjoying	O
+themselves	O
+;	O
+he	O
+would	O
+think	O
+,	O
+“	O
+what	O
+an	O
+extremely	O
+nice	O
+house	O
+to	O
+come	O
+into	O
+!	O
+”	O
+
+# id = litbank-1510
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = katharine , as she shook hands with him , asked him , in her own mind , “ now , do you think we ’re enjoying ourselves enormously ? ”
+katharine	B-CHARACTER
+,	O
+as	O
+she	O
+shook	O
+hands	O
+with	O
+him	O
+,	O
+asked	O
+him	O
+,	O
+in	O
+her	O
+own	O
+mind	O
+,	O
+“	O
+now	O
+,	O
+do	O
+you	O
+think	O
+we	O
+’re	O
+enjoying	O
+ourselves	O
+enormously	O
+?	O
+”	O
+
+# id = litbank-1511
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = ... “ mr. denham , mother , ” she said aloud , for she saw that her mother had forgotten his name .
+...	O
+“	O
+mr.	B-CHARACTER
+denham	I-CHARACTER
+,	O
+mother	O
+,	O
+”	O
+she	O
+said	O
+aloud	O
+,	O
+for	O
+she	O
+saw	O
+that	O
+her	O
+mother	O
+had	O
+forgotten	O
+his	O
+name	O
+.	O
+
+# id = litbank-1512
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = that fact was perceptible to mr. denham also , and increased the awkwardness which inevitably attends the entrance of a stranger into a room full of people much at their ease , and all launched upon sentences .
+that	O
+fact	O
+was	O
+perceptible	O
+to	O
+mr.	B-CHARACTER
+denham	I-CHARACTER
+also	O
+,	O
+and	O
+increased	O
+the	O
+awkwardness	O
+which	O
+inevitably	O
+attends	O
+the	O
+entrance	O
+of	O
+a	O
+stranger	O
+into	O
+a	O
+room	O
+full	O
+of	O
+people	O
+much	O
+at	O
+their	O
+ease	O
+,	O
+and	O
+all	O
+launched	O
+upon	O
+sentences	O
+.	O
+
+# id = litbank-1513
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = at the same time , it seemed to mr. denham as if a thousand softly padded doors had closed between him and the street outside .
+at	O
+the	O
+same	O
+time	O
+,	O
+it	O
+seemed	O
+to	O
+mr.	B-CHARACTER
+denham	I-CHARACTER
+as	O
+if	O
+a	O
+thousand	O
+softly	O
+padded	O
+doors	O
+had	O
+closed	O
+between	O
+him	O
+and	O
+the	O
+street	O
+outside	O
+.	O
+
+# id = litbank-1514
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = mr. denham had come in as mr. fortescue , the eminent novelist , reached the middle of a very long sentence .
+mr.	B-CHARACTER
+denham	I-CHARACTER
+had	O
+come	O
+in	O
+as	O
+mr.	B-CHARACTER
+fortescue	I-CHARACTER
+,	O
+the	O
+eminent	O
+novelist	O
+,	O
+reached	O
+the	O
+middle	O
+of	O
+a	O
+very	O
+long	O
+sentence	O
+.	O
+
+# id = litbank-1515
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = he kept this suspended while the newcomer sat down , and mrs. hilbery deftly joined the severed parts by leaning towards him and remarking : “ now , what would you do if you were married to an engineer , and had to live in manchester , mr. denham ? ”
+he	O
+kept	O
+this	O
+suspended	O
+while	O
+the	O
+newcomer	O
+sat	O
+down	O
+,	O
+and	O
+mrs.	B-CHARACTER
+hilbery	I-CHARACTER
+deftly	O
+joined	O
+the	O
+severed	O
+parts	O
+by	O
+leaning	O
+towards	O
+him	O
+and	O
+remarking	O
+:	O
+“	O
+now	O
+,	O
+what	O
+would	O
+you	O
+do	O
+if	O
+you	O
+were	O
+married	O
+to	O
+an	O
+engineer	O
+,	O
+and	O
+had	O
+to	O
+live	O
+in	O
+manchester	O
+,	O
+mr.	B-CHARACTER
+denham	I-CHARACTER
+?	O
+”	O
+
+# id = litbank-1516
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = “ a cousin of ours has married and gone to live in manchester , ” katharine explained .
+“	O
+a	O
+cousin	O
+of	O
+ours	O
+has	O
+married	O
+and	O
+gone	O
+to	O
+live	O
+in	O
+manchester	O
+,	O
+”	O
+katharine	B-CHARACTER
+explained	O
+.	O
+
+# id = litbank-1517
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = mr. denham muttered something , which was indeed all that was required of him , and the novelist went on where he had left off .
+mr.	B-CHARACTER
+denham	I-CHARACTER
+muttered	O
+something	O
+,	O
+which	O
+was	O
+indeed	O
+all	O
+that	O
+was	O
+required	O
+of	O
+him	O
+,	O
+and	O
+the	O
+novelist	O
+went	O
+on	O
+where	O
+he	O
+had	O
+left	O
+off	O
+.	O
+
+# id = litbank-1518
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = privately , mr. denham cursed himself very sharply for having exchanged the freedom of the street for this sophisticated drawing-room , where , among other disagreeables , he certainly would not appear at his best .
+privately	O
+,	O
+mr.	B-CHARACTER
+denham	I-CHARACTER
+cursed	O
+himself	O
+very	O
+sharply	O
+for	O
+having	O
+exchanged	O
+the	O
+freedom	O
+of	O
+the	O
+street	O
+for	O
+this	O
+sophisticated	O
+drawing-room	O
+,	O
+where	O
+,	O
+among	O
+other	O
+disagreeables	O
+,	O
+he	O
+certainly	O
+would	O
+not	O
+appear	O
+at	O
+his	O
+best	O
+.	O
+
+# id = litbank-1519
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = he glanced round him , and saw that , save for katharine , they were all over forty , the only consolation being that mr. fortescue was a considerable celebrity , so that to-morrow one might be glad to have met him .
+he	O
+glanced	O
+round	O
+him	O
+,	O
+and	O
+saw	O
+that	O
+,	O
+save	O
+for	O
+katharine	B-CHARACTER
+,	O
+they	O
+were	O
+all	O
+over	O
+forty	O
+,	O
+the	O
+only	O
+consolation	O
+being	O
+that	O
+mr.	B-CHARACTER
+fortescue	I-CHARACTER
+was	O
+a	O
+considerable	O
+celebrity	O
+,	O
+so	O
+that	O
+to-morrow	O
+one	O
+might	O
+be	O
+glad	O
+to	O
+have	O
+met	O
+him	O
+.	O
+
+# id = litbank-1520
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = he asked katharine .
+he	O
+asked	O
+katharine	B-CHARACTER
+.	O
+
+# id = litbank-1521
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = katharine stirred her tea , and seemed to speculate , so denham thought , upon the duty of filling somebody else ’s cup , but she was really wondering how she was going to keep this strange young man in harmony with the rest .
+katharine	B-CHARACTER
+stirred	O
+her	O
+tea	O
+,	O
+and	O
+seemed	O
+to	O
+speculate	O
+,	O
+so	O
+denham	B-CHARACTER
+thought	O
+,	O
+upon	O
+the	O
+duty	O
+of	O
+filling	O
+somebody	O
+else	O
+’s	O
+cup	O
+,	O
+but	O
+she	O
+was	O
+really	O
+wondering	O
+how	O
+she	O
+was	O
+going	O
+to	O
+keep	O
+this	O
+strange	O
+young	O
+man	O
+in	O
+harmony	O
+with	O
+the	O
+rest	O
+.	O
+
+# id = litbank-1522
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = mr. fortescue had been observing her for a moment or two , as novelists are inclined to observe , and at this remark he smiled , and made it the text for a little further speculation .
+mr.	B-CHARACTER
+fortescue	I-CHARACTER
+had	O
+been	O
+observing	O
+her	O
+for	O
+a	O
+moment	O
+or	O
+two	O
+,	O
+as	O
+novelists	O
+are	O
+inclined	O
+to	O
+observe	O
+,	O
+and	O
+at	O
+this	O
+remark	O
+he	O
+smiled	O
+,	O
+and	O
+made	O
+it	O
+the	O
+text	O
+for	O
+a	O
+little	O
+further	O
+speculation	O
+.	O
+
+# id = litbank-1523
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = “ in spite of a slight tendency to exaggeration , katharine decidedly hits the mark , ” he said , and lying back in his chair , with his opaque contemplative eyes fixed on the ceiling , and the tips of his fingers pressed together , he depicted , first the horrors of the streets of manchester , and then the bare , immense moors on the outskirts of the town , and then the scrubby little house in which the girl would live , and then the professors and the miserable young students devoted to the more strenuous works of our younger dramatists , who would visit her , and how her appearance would change by degrees , and how she would fly to london , and how katharine would have to lead her about , as one leads an eager dog on a chain , past rows of clamorous butchers ’ shops , poor dear creature .
+“	O
+in	O
+spite	O
+of	O
+a	O
+slight	O
+tendency	O
+to	O
+exaggeration	O
+,	O
+katharine	B-CHARACTER
+decidedly	O
+hits	O
+the	O
+mark	O
+,	O
+”	O
+he	O
+said	O
+,	O
+and	O
+lying	O
+back	O
+in	O
+his	O
+chair	O
+,	O
+with	O
+his	O
+opaque	O
+contemplative	O
+eyes	O
+fixed	O
+on	O
+the	O
+ceiling	O
+,	O
+and	O
+the	O
+tips	O
+of	O
+his	O
+fingers	O
+pressed	O
+together	O
+,	O
+he	O
+depicted	O
+,	O
+first	O
+the	O
+horrors	O
+of	O
+the	O
+streets	O
+of	O
+manchester	O
+,	O
+and	O
+then	O
+the	O
+bare	O
+,	O
+immense	O
+moors	O
+on	O
+the	O
+outskirts	O
+of	O
+the	O
+town	O
+,	O
+and	O
+then	O
+the	O
+scrubby	O
+little	O
+house	O
+in	O
+which	O
+the	O
+girl	O
+would	O
+live	O
+,	O
+and	O
+then	O
+the	O
+professors	O
+and	O
+the	O
+miserable	O
+young	O
+students	O
+devoted	O
+to	O
+the	O
+more	O
+strenuous	O
+works	O
+of	O
+our	O
+younger	O
+dramatists	O
+,	O
+who	O
+would	O
+visit	O
+her	O
+,	O
+and	O
+how	O
+her	O
+appearance	O
+would	O
+change	O
+by	O
+degrees	O
+,	O
+and	O
+how	O
+she	O
+would	O
+fly	O
+to	O
+london	O
+,	O
+and	O
+how	O
+katharine	B-CHARACTER
+would	O
+have	O
+to	O
+lead	O
+her	O
+about	O
+,	O
+as	O
+one	O
+leads	O
+an	O
+eager	O
+dog	O
+on	O
+a	O
+chain	O
+,	O
+past	O
+rows	O
+of	O
+clamorous	O
+butchers	O
+’	O
+shops	O
+,	O
+poor	O
+dear	O
+creature	O
+.	O
+
+# id = litbank-1524
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = “ oh , mr. fortescue , ” exclaimed mrs. hilbery , as he finished , “ i had just written to say how i envied her !
+“	O
+oh	O
+,	O
+mr.	B-CHARACTER
+fortescue	I-CHARACTER
+,	O
+”	O
+exclaimed	O
+mrs.	B-CHARACTER
+hilbery	I-CHARACTER
+,	O
+as	O
+he	O
+finished	O
+,	O
+“	O
+i	O
+had	O
+just	O
+written	O
+to	O
+say	O
+how	O
+i	O
+envied	O
+her	O
+!	O
+
+# id = litbank-1525
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = “ i know there are moors there , because i read about them in a book the other day , ” said katharine .
+“	O
+i	O
+know	O
+there	O
+are	O
+moors	O
+there	O
+,	O
+because	O
+i	O
+read	O
+about	O
+them	O
+in	O
+a	O
+book	O
+the	O
+other	O
+day	O
+,	O
+”	O
+said	O
+katharine	B-CHARACTER
+.	O
+
+# id = litbank-1526
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = “ i am grieved and amazed at the ignorance of my family , ” mr. hilbery remarked .
+“	O
+i	O
+am	O
+grieved	O
+and	O
+amazed	O
+at	O
+the	O
+ignorance	O
+of	O
+my	O
+family	O
+,	O
+”	O
+mr.	B-CHARACTER
+hilbery	I-CHARACTER
+remarked	O
+.	O
+
+# id = litbank-1527
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = katharine , so denham decided , while mr. fortescue built up another rounded structure of words , had a likeness to each of her parents , but these elements were rather oddly blended .
+katharine	B-CHARACTER
+,	O
+so	O
+denham	B-CHARACTER
+decided	O
+,	O
+while	O
+mr.	B-CHARACTER
+fortescue	I-CHARACTER
+built	O
+up	O
+another	O
+rounded	O
+structure	O
+of	O
+words	O
+,	O
+had	O
+a	O
+likeness	O
+to	O
+each	O
+of	O
+her	O
+parents	O
+,	O
+but	O
+these	O
+elements	O
+were	O
+rather	O
+oddly	O
+blended	O
+.	O
+
+# id = litbank-1528
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = denham noticed that , although silent , she kept sufficient control of the situation to answer immediately her mother appealed to her for help , and yet it was obvious to him that she attended only with the surface skin of her mind .
+denham	B-CHARACTER
+noticed	O
+that	O
+,	O
+although	O
+silent	O
+,	O
+she	O
+kept	O
+sufficient	O
+control	O
+of	O
+the	O
+situation	O
+to	O
+answer	O
+immediately	O
+her	O
+mother	O
+appealed	O
+to	O
+her	O
+for	O
+help	O
+,	O
+and	O
+yet	O
+it	O
+was	O
+obvious	O
+to	O
+him	O
+that	O
+she	O
+attended	O
+only	O
+with	O
+the	O
+surface	O
+skin	O
+of	O
+her	O
+mind	O
+.	O
+
+# id = litbank-1529
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = “ would it be the battle of trafalgar or the spanish armada , katharine ? ”
+“	O
+would	O
+it	O
+be	O
+the	O
+battle	O
+of	O
+trafalgar	O
+or	O
+the	O
+spanish	O
+armada	O
+,	O
+katharine	B-CHARACTER
+?	O
+”	O
+
+# id = litbank-1530
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = another cup of tea , with a thin slice of lemon in it , and then , dear mr. fortescue , please explain my absurd little puzzle .
+another	O
+cup	O
+of	O
+tea	O
+,	O
+with	O
+a	O
+thin	O
+slice	O
+of	O
+lemon	O
+in	O
+it	O
+,	O
+and	O
+then	O
+,	O
+dear	O
+mr.	B-CHARACTER
+fortescue	I-CHARACTER
+,	O
+please	O
+explain	O
+my	O
+absurd	O
+little	O
+puzzle	O
+.	O
+
+# id = litbank-1531
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = mr. hilbery here interposed so far as denham was concerned , and talked a great deal of sense about the solicitors ’ profession , and the changes which he had seen in his lifetime .
+mr.	B-CHARACTER
+hilbery	I-CHARACTER
+here	O
+interposed	O
+so	O
+far	O
+as	O
+denham	B-CHARACTER
+was	O
+concerned	O
+,	O
+and	O
+talked	O
+a	O
+great	O
+deal	O
+of	O
+sense	O
+about	O
+the	O
+solicitors	O
+’	O
+profession	O
+,	O
+and	O
+the	O
+changes	O
+which	O
+he	O
+had	O
+seen	O
+in	O
+his	O
+lifetime	O
+.	O
+
+# id = litbank-1532
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = indeed , denham properly fell to his lot , owing to the fact that an article by denham upon some legal matter , published by mr. hilbery in his review , had brought them acquainted .
+indeed	O
+,	O
+denham	B-CHARACTER
+properly	O
+fell	O
+to	O
+his	O
+lot	O
+,	O
+owing	O
+to	O
+the	O
+fact	O
+that	O
+an	O
+article	O
+by	O
+denham	B-CHARACTER
+upon	O
+some	O
+legal	O
+matter	O
+,	O
+published	O
+by	O
+mr.	B-CHARACTER
+hilbery	I-CHARACTER
+in	O
+his	O
+review	O
+,	O
+had	O
+brought	O
+them	O
+acquainted	O
+.	O
+
+# id = litbank-1533
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = but when a moment later mrs. sutton bailey was announced , he turned to her , and mr. denham found himself sitting silent , rejecting possible things to say , beside katharine , who was silent too .
+but	O
+when	O
+a	O
+moment	O
+later	O
+mrs.	B-CHARACTER
+sutton	I-CHARACTER
+bailey	I-CHARACTER
+was	O
+announced	O
+,	O
+he	O
+turned	O
+to	O
+her	O
+,	O
+and	O
+mr.	B-CHARACTER
+denham	I-CHARACTER
+found	O
+himself	O
+sitting	O
+silent	O
+,	O
+rejecting	O
+possible	O
+things	O
+to	O
+say	O
+,	O
+beside	O
+katharine	B-CHARACTER
+,	O
+who	O
+was	O
+silent	O
+too	O
+.	O
+
+# id = litbank-1534
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = they were further silenced by katharine ’s rather malicious determination not to help this young man , in whose upright and resolute bearing she detected something hostile to her surroundings , by any of the usual feminine amenities .
+they	O
+were	O
+further	O
+silenced	O
+by	O
+katharine	B-CHARACTER
+’s	O
+rather	O
+malicious	O
+determination	O
+not	O
+to	O
+help	O
+this	O
+young	O
+man	O
+,	O
+in	O
+whose	O
+upright	O
+and	O
+resolute	O
+bearing	O
+she	O
+detected	O
+something	O
+hostile	O
+to	O
+her	O
+surroundings	O
+,	O
+by	O
+any	O
+of	O
+the	O
+usual	O
+feminine	O
+amenities	O
+.	O
+
+# id = litbank-1535
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = they therefore sat silent , denham controlling his desire to say something abrupt and explosive , which should shock her into life .
+they	O
+therefore	O
+sat	O
+silent	O
+,	O
+denham	B-CHARACTER
+controlling	O
+his	O
+desire	O
+to	O
+say	O
+something	O
+abrupt	O
+and	O
+explosive	O
+,	O
+which	O
+should	O
+shock	O
+her	O
+into	O
+life	O
+.	O
+
+# id = litbank-1536
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = but mrs. hilbery was immediately sensitive to any silence in the drawing-room , as of a dumb note in a sonorous scale , and leaning across the table she observed , in the curiously tentative detached manner which always gave her phrases the likeness of butterflies flaunting from one sunny spot to another , “ d’you know , mr. denham , you remind me so much of dear mr. ruskin ... .
+but	O
+mrs.	B-CHARACTER
+hilbery	I-CHARACTER
+was	O
+immediately	O
+sensitive	O
+to	O
+any	O
+silence	O
+in	O
+the	O
+drawing-room	O
+,	O
+as	O
+of	O
+a	O
+dumb	O
+note	O
+in	O
+a	O
+sonorous	O
+scale	O
+,	O
+and	O
+leaning	O
+across	O
+the	O
+table	O
+she	O
+observed	O
+,	O
+in	O
+the	O
+curiously	O
+tentative	O
+detached	O
+manner	O
+which	O
+always	O
+gave	O
+her	O
+phrases	O
+the	O
+likeness	O
+of	O
+butterflies	O
+flaunting	O
+from	O
+one	O
+sunny	O
+spot	O
+to	O
+another	O
+,	O
+“	O
+d’you	O
+know	O
+,	O
+mr.	B-CHARACTER
+denham	I-CHARACTER
+,	O
+you	O
+remind	O
+me	O
+so	O
+much	O
+of	O
+dear	O
+mr.	B-CHARACTER
+ruskin	I-CHARACTER
+...	O
+.	O
+
+# id = litbank-1537
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = is it his tie , katharine , or his hair , or the way he sits in his chair ?
+is	O
+it	O
+his	O
+tie	O
+,	O
+katharine	B-CHARACTER
+,	O
+or	O
+his	O
+hair	O
+,	O
+or	O
+the	O
+way	O
+he	O
+sits	O
+in	O
+his	O
+chair	O
+?	O
+
+# id = litbank-1538
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = do tell me , mr. denham , are you an admirer of ruskin ?
+do	O
+tell	O
+me	O
+,	O
+mr.	B-CHARACTER
+denham	I-CHARACTER
+,	O
+are	O
+you	O
+an	O
+admirer	O
+of	O
+ruskin	O
+?	O
+
+# id = litbank-1539
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = some one , the other day , said to me , ‘ oh , no , we do n’t read ruskin , mrs. hilbery . ’
+some	O
+one	O
+,	O
+the	O
+other	O
+day	O
+,	O
+said	O
+to	O
+me	O
+,	O
+‘	O
+oh	O
+,	O
+no	O
+,	O
+we	O
+do	O
+n’t	O
+read	O
+ruskin	O
+,	O
+mrs.	B-CHARACTER
+hilbery	I-CHARACTER
+.	O
+’	O
+
+# id = litbank-1503
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = perhaps a fifth part of her mind was thus occupied , and the remaining parts leapt over the little barrier of day which interposed between monday morning and this rather subdued moment , and played with the things one does voluntarily and normally in the daylight .
+perhaps	O
+a	O
+fifth	O
+part	O
+of	O
+her	O
+mind	O
+was	O
+thus	O
+occupied	O
+,	O
+and	O
+the	O
+remaining	O
+parts	O
+leapt	O
+over	O
+the	O
+little	O
+barrier	O
+of	O
+day	O
+which	O
+interposed	O
+between	O
+monday	O
+morning	O
+and	O
+this	O
+rather	O
+subdued	O
+moment	O
+,	O
+and	O
+played	O
+with	O
+the	O
+things	O
+one	O
+does	O
+voluntarily	O
+and	O
+normally	O
+in	O
+the	O
+daylight	O
+.	O
+
+# id = litbank-1504
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = but although she was silent , she was evidently mistress of a situation which was familiar enough to her , and inclined to let it take its way for the six hundredth time , perhaps , without bringing into play any of her unoccupied faculties .
+but	O
+although	O
+she	O
+was	O
+silent	O
+,	O
+she	O
+was	O
+evidently	O
+mistress	O
+of	O
+a	O
+situation	O
+which	O
+was	O
+familiar	O
+enough	O
+to	O
+her	O
+,	O
+and	O
+inclined	O
+to	O
+let	O
+it	O
+take	O
+its	O
+way	O
+for	O
+the	O
+six	O
+hundredth	O
+time	O
+,	O
+perhaps	O
+,	O
+without	O
+bringing	O
+into	O
+play	O
+any	O
+of	O
+her	O
+unoccupied	O
+faculties	O
+.	O
+
+# id = litbank-1506
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = considering that the little party had been seated round the tea-table for less than twenty minutes , the animation observable on their faces , and the amount of sound they were producing collectively , were very creditable to the hostess .
+considering	O
+that	O
+the	O
+little	O
+party	O
+had	O
+been	O
+seated	O
+round	O
+the	O
+tea-table	O
+for	O
+less	O
+than	O
+twenty	O
+minutes	O
+,	O
+the	O
+animation	O
+observable	O
+on	O
+their	O
+faces	O
+,	O
+and	O
+the	O
+amount	O
+of	O
+sound	O
+they	O
+were	O
+producing	O
+collectively	O
+,	O
+were	O
+very	O
+creditable	O
+to	O
+the	O
+hostess	O
+.	O
+
+# id = litbank-1508
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = and instinctively she laughed , and said something to increase the noise , for the credit of the house presumably , since she herself had not been feeling exhilarated .
+and	O
+instinctively	O
+she	O
+laughed	O
+,	O
+and	O
+said	O
+something	O
+to	O
+increase	O
+the	O
+noise	O
+,	O
+for	O
+the	O
+credit	O
+of	O
+the	O
+house	O
+presumably	O
+,	O
+since	O
+she	O
+herself	O
+had	O
+not	O
+been	O
+feeling	O
+exhilarated	O
+.	O
+
+# id = litbank-1509
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = at the very same moment , rather to her amusement , the door was flung open , and a young man entered the room .
+at	O
+the	O
+very	O
+same	O
+moment	O
+,	O
+rather	O
+to	O
+her	O
+amusement	O
+,	O
+the	O
+door	O
+was	O
+flung	O
+open	O
+,	O
+and	O
+a	O
+young	O
+man	O
+entered	O
+the	O
+room	O
+.	O
+

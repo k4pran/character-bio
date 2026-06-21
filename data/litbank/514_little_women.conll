@@ -1,0 +1,1771 @@
+# id = litbank-1030
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = chapter one playing pilgrims " christmas wo n't be christmas without any presents , " grumbled jo , lying on the rug .
+chapter	O
+one	O
+playing	O
+pilgrims	O
+"	O
+christmas	O
+wo	O
+n't	O
+be	O
+christmas	O
+without	O
+any	O
+presents	O
+,	O
+"	O
+grumbled	O
+jo	B-CHARACTER
+,	O
+lying	O
+on	O
+the	O
+rug	O
+.	O
+
+# id = litbank-1032
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = sighed meg , looking down at her old dress .
+sighed	O
+meg	B-CHARACTER
+,	O
+looking	O
+down	O
+at	O
+her	O
+old	O
+dress	O
+.	O
+
+# id = litbank-1033
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " i do n't think it 's fair for some girls to have plenty of pretty things , and other girls nothing at all , " added little amy , with an injured sniff .
+"	O
+i	O
+do	O
+n't	O
+think	O
+it	O
+'s	O
+fair	O
+for	O
+some	O
+girls	O
+to	O
+have	O
+plenty	O
+of	O
+pretty	O
+things	O
+,	O
+and	O
+other	O
+girls	O
+nothing	O
+at	O
+all	O
+,	O
+"	O
+added	O
+little	O
+amy	B-CHARACTER
+,	O
+with	O
+an	O
+injured	O
+sniff	O
+.	O
+
+# id = litbank-1034
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " we 've got father and mother , and each other , " said beth contentedly from her corner .
+"	O
+we	O
+'ve	O
+got	O
+father	O
+and	O
+mother	O
+,	O
+and	O
+each	O
+other	O
+,	O
+"	O
+said	O
+beth	B-CHARACTER
+contentedly	O
+from	O
+her	O
+corner	O
+.	O
+
+# id = litbank-1035
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = the four young faces on which the firelight shone brightened at the cheerful words , but darkened again as jo said sadly , " we have n't got father , and shall not have him for a long time . "
+the	O
+four	O
+young	O
+faces	O
+on	O
+which	O
+the	O
+firelight	O
+shone	O
+brightened	O
+at	O
+the	O
+cheerful	O
+words	O
+,	O
+but	O
+darkened	O
+again	O
+as	O
+jo	B-CHARACTER
+said	O
+sadly	O
+,	O
+"	O
+we	O
+have	O
+n't	O
+got	O
+father	O
+,	O
+and	O
+shall	O
+not	O
+have	O
+him	O
+for	O
+a	O
+long	O
+time	O
+.	O
+"	O
+
+# id = litbank-1037
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = nobody spoke for a minute ; then meg said in an altered tone , " you know the reason mother proposed not having any presents this christmas was because it is going to be a hard winter for everyone ; and she thinks we ought not to spend money for pleasure , when our men are suffering so in the army .
+nobody	O
+spoke	O
+for	O
+a	O
+minute	O
+;	O
+then	O
+meg	B-CHARACTER
+said	O
+in	O
+an	O
+altered	O
+tone	O
+,	O
+"	O
+you	O
+know	O
+the	O
+reason	O
+mother	O
+proposed	O
+not	O
+having	O
+any	O
+presents	O
+this	O
+christmas	O
+was	O
+because	O
+it	O
+is	O
+going	O
+to	O
+be	O
+a	O
+hard	O
+winter	O
+for	O
+everyone	O
+;	O
+and	O
+she	O
+thinks	O
+we	O
+ought	O
+not	O
+to	O
+spend	O
+money	O
+for	O
+pleasure	O
+,	O
+when	O
+our	O
+men	O
+are	O
+suffering	O
+so	O
+in	O
+the	O
+army	O
+.	O
+
+# id = litbank-1039
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = but i am afraid i do n't , " and meg shook her head , as she thought regretfully of all the pretty things she wanted .
+but	O
+i	O
+am	O
+afraid	O
+i	O
+do	O
+n't	O
+,	O
+"	O
+and	O
+meg	B-CHARACTER
+shook	O
+her	O
+head	O
+,	O
+as	O
+she	O
+thought	O
+regretfully	O
+of	O
+all	O
+the	O
+pretty	O
+things	O
+she	O
+wanted	O
+.	O
+
+# id = litbank-1042
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = i 've wanted it so long , " said jo , who was a bookworm .
+i	O
+'ve	O
+wanted	O
+it	O
+so	O
+long	O
+,	O
+"	O
+said	O
+jo	B-CHARACTER
+,	O
+who	O
+was	O
+a	O
+bookworm	O
+.	O
+
+# id = litbank-1043
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " i planned to spend mine in new music , " said beth , with a little sigh , which no one heard but the hearth brush and kettle-holder .
+"	O
+i	O
+planned	O
+to	O
+spend	O
+mine	O
+in	O
+new	O
+music	O
+,	O
+"	O
+said	O
+beth	B-CHARACTER
+,	O
+with	O
+a	O
+little	O
+sigh	O
+,	O
+which	O
+no	O
+one	O
+heard	O
+but	O
+the	O
+hearth	O
+brush	O
+and	O
+kettle-holder	O
+.	O
+
+# id = litbank-1044
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " i shall get a nice box of faber 's drawing pencils ; i really need them , " said amy decidedly .
+"	O
+i	O
+shall	O
+get	O
+a	O
+nice	O
+box	O
+of	O
+faber	O
+'s	O
+drawing	O
+pencils	O
+;	O
+i	O
+really	O
+need	O
+them	O
+,	O
+"	O
+said	O
+amy	B-CHARACTER
+decidedly	O
+.	O
+
+# id = litbank-1045
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = let 's each buy what we want , and have a little fun ; i 'm sure we work hard enough to earn it , " cried jo , examining the heels of her shoes in a gentlemanly manner .
+let	O
+'s	O
+each	O
+buy	O
+what	O
+we	O
+want	O
+,	O
+and	O
+have	O
+a	O
+little	O
+fun	O
+;	O
+i	O
+'m	O
+sure	O
+we	O
+work	O
+hard	O
+enough	O
+to	O
+earn	O
+it	O
+,	O
+"	O
+cried	O
+jo	B-CHARACTER
+,	O
+examining	O
+the	O
+heels	O
+of	O
+her	O
+shoes	O
+in	O
+a	O
+gentlemanly	O
+manner	O
+.	O
+
+# id = litbank-1046
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " i know i do -- teaching those tiresome children nearly all day , when i 'm longing to enjoy myself at home , " began meg , in the complaining tone again .
+"	O
+i	O
+know	O
+i	O
+do	O
+--	O
+teaching	O
+those	O
+tiresome	O
+children	O
+nearly	O
+all	O
+day	O
+,	O
+when	O
+i	O
+'m	O
+longing	O
+to	O
+enjoy	O
+myself	O
+at	O
+home	O
+,	O
+"	O
+began	O
+meg	B-CHARACTER
+,	O
+in	O
+the	O
+complaining	O
+tone	O
+again	O
+.	O
+
+# id = litbank-1047
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " you do n't have half such a hard time as i do , " said jo .
+"	O
+you	O
+do	O
+n't	O
+have	O
+half	O
+such	O
+a	O
+hard	O
+time	O
+as	O
+i	O
+do	O
+,	O
+"	O
+said	O
+jo	B-CHARACTER
+.	O
+
+# id = litbank-1048
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = and beth looked at her rough hands with a sigh that any one could hear that time .
+and	O
+beth	B-CHARACTER
+looked	O
+at	O
+her	O
+rough	O
+hands	O
+with	O
+a	O
+sigh	O
+that	O
+any	O
+one	O
+could	O
+hear	O
+that	O
+time	O
+.	O
+
+# id = litbank-1049
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " i do n't believe any of you suffer as i do , " cried amy , " for you do n't have to go to school with impertinent girls , who plague you if you do n't know your lessons , and laugh at your dresses , and label your father if he is n't rich , and insult you when your nose is n't nice . "
+"	O
+i	O
+do	O
+n't	O
+believe	O
+any	O
+of	O
+you	O
+suffer	O
+as	O
+i	O
+do	O
+,	O
+"	O
+cried	O
+amy	B-CHARACTER
+,	O
+"	O
+for	O
+you	O
+do	O
+n't	O
+have	O
+to	O
+go	O
+to	O
+school	O
+with	O
+impertinent	O
+girls	O
+,	O
+who	O
+plague	O
+you	O
+if	O
+you	O
+do	O
+n't	O
+know	O
+your	O
+lessons	O
+,	O
+and	O
+laugh	O
+at	O
+your	O
+dresses	O
+,	O
+and	O
+label	O
+your	O
+father	O
+if	O
+he	O
+is	O
+n't	O
+rich	O
+,	O
+and	O
+insult	O
+you	O
+when	O
+your	O
+nose	O
+is	O
+n't	O
+nice	O
+.	O
+"	O
+
+# id = litbank-1050
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " if you mean libel , i 'd say so , and not talk about labels , as if papa was a pickle bottle , " advised jo , laughing .
+"	O
+if	O
+you	O
+mean	O
+libel	O
+,	O
+i	O
+'d	O
+say	O
+so	O
+,	O
+and	O
+not	O
+talk	O
+about	O
+labels	O
+,	O
+as	O
+if	O
+papa	O
+was	O
+a	O
+pickle	O
+bottle	O
+,	O
+"	O
+advised	O
+jo	B-CHARACTER
+,	O
+laughing	O
+.	O
+
+# id = litbank-1051
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = it 's proper to use good words , and improve your vocabilary , " returned amy , with dignity .
+it	O
+'s	O
+proper	O
+to	O
+use	O
+good	O
+words	O
+,	O
+and	O
+improve	O
+your	O
+vocabilary	O
+,	O
+"	O
+returned	O
+amy	B-CHARACTER
+,	O
+with	O
+dignity	O
+.	O
+
+# id = litbank-1052
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = do n't you wish we had the money papa lost when we were little , jo ?
+do	O
+n't	O
+you	O
+wish	O
+we	O
+had	O
+the	O
+money	O
+papa	O
+lost	O
+when	O
+we	O
+were	O
+little	O
+,	O
+jo	B-CHARACTER
+?	O
+
+# id = litbank-1053
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = said meg , who could remember better times .
+said	O
+meg	B-CHARACTER
+,	O
+who	O
+could	O
+remember	O
+better	O
+times	O
+.	O
+
+# id = litbank-1054
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " so i did , beth .
+"	O
+so	O
+i	O
+did	O
+,	O
+beth	B-CHARACTER
+.	O
+
+# id = litbank-1055
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = for though we do have to work , we make fun of ourselves , and are a pretty jolly set , as jo would say . "
+for	O
+though	O
+we	O
+do	O
+have	O
+to	O
+work	O
+,	O
+we	O
+make	O
+fun	O
+of	O
+ourselves	O
+,	O
+and	O
+are	O
+a	O
+pretty	O
+jolly	O
+set	O
+,	O
+as	O
+jo	B-CHARACTER
+would	O
+say	O
+.	O
+"	O
+
+# id = litbank-1056
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " jo does use such slang words ! "
+"	O
+jo	B-CHARACTER
+does	O
+use	O
+such	O
+slang	O
+words	O
+!	O
+"	O
+
+# id = litbank-1057
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = observed amy , with a reproving look at the long figure stretched on the rug .
+observed	O
+amy	B-CHARACTER
+,	O
+with	O
+a	O
+reproving	O
+look	O
+at	O
+the	O
+long	O
+figure	O
+stretched	O
+on	O
+the	O
+rug	O
+.	O
+
+# id = litbank-1058
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = jo immediately sat up , put her hands in her pockets , and began to whistle .
+jo	B-CHARACTER
+immediately	O
+sat	O
+up	O
+,	O
+put	O
+her	O
+hands	O
+in	O
+her	O
+pockets	O
+,	O
+and	O
+began	O
+to	O
+whistle	O
+.	O
+
+# id = litbank-1059
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " do n't , jo .
+"	O
+do	O
+n't	O
+,	O
+jo	B-CHARACTER
+.	O
+
+# id = litbank-1060
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " birds in their little nests agree , " sang beth , the peacemaker , with such a funny face that both sharp voices softened to a laugh , and the " pecking " ended for that time .
+"	O
+birds	O
+in	O
+their	O
+little	O
+nests	O
+agree	O
+,	O
+"	O
+sang	O
+beth	B-CHARACTER
+,	O
+the	O
+peacemaker	O
+,	O
+with	O
+such	O
+a	O
+funny	O
+face	O
+that	O
+both	O
+sharp	O
+voices	O
+softened	O
+to	O
+a	O
+laugh	O
+,	O
+and	O
+the	O
+"	O
+pecking	O
+"	O
+ended	O
+for	O
+that	O
+time	O
+.	O
+
+# id = litbank-1061
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " really , girls , you are both to be blamed , " said meg , beginning to lecture in her elder-sisterly fashion .
+"	O
+really	O
+,	O
+girls	O
+,	O
+you	O
+are	O
+both	O
+to	O
+be	O
+blamed	O
+,	O
+"	O
+said	O
+meg	B-CHARACTER
+,	O
+beginning	O
+to	O
+lecture	O
+in	O
+her	O
+elder-sisterly	O
+fashion	O
+.	O
+
+# id = litbank-1062
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " you are old enough to leave off boyish tricks , and to behave better , josephine .
+"	O
+you	O
+are	O
+old	O
+enough	O
+to	O
+leave	O
+off	O
+boyish	O
+tricks	O
+,	O
+and	O
+to	O
+behave	O
+better	O
+,	O
+josephine	B-CHARACTER
+.	O
+
+# id = litbank-1063
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = and if turning up my hair makes me one , i 'll wear it in two tails till i 'm twenty , " cried jo , pulling off her net , and shaking down a chestnut mane .
+and	O
+if	O
+turning	O
+up	O
+my	O
+hair	O
+makes	O
+me	O
+one	O
+,	O
+i	O
+'ll	O
+wear	O
+it	O
+in	O
+two	O
+tails	O
+till	O
+i	O
+'m	O
+twenty	O
+,	O
+"	O
+cried	O
+jo	B-CHARACTER
+,	O
+pulling	O
+off	O
+her	O
+net	O
+,	O
+and	O
+shaking	O
+down	O
+a	O
+chestnut	O
+mane	O
+.	O
+
+# id = litbank-1064
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " i hate to think i 've got to grow up , and be miss march , and wear long gowns , and look as prim as a china aster !
+"	O
+i	O
+hate	O
+to	O
+think	O
+i	O
+'ve	O
+got	O
+to	O
+grow	O
+up	O
+,	O
+and	O
+be	O
+miss	B-CHARACTER
+march	I-CHARACTER
+,	O
+and	O
+wear	O
+long	O
+gowns	O
+,	O
+and	O
+look	O
+as	O
+prim	O
+as	O
+a	O
+china	O
+aster	O
+!	O
+
+# id = litbank-1065
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = and jo shook the blue army sock till the needles rattled like castanets , and her ball bounded across the room .
+and	O
+jo	B-CHARACTER
+shook	O
+the	O
+blue	O
+army	O
+sock	O
+till	O
+the	O
+needles	O
+rattled	O
+like	O
+castanets	O
+,	O
+and	O
+her	O
+ball	O
+bounded	O
+across	O
+the	O
+room	O
+.	O
+
+# id = litbank-1066
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " poor jo !
+"	O
+poor	O
+jo	B-CHARACTER
+!	O
+
+# id = litbank-1067
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = so you must try to be contented with making your name boyish , and playing brother to us girls , " said beth , stroking the rough head with a hand that all the dish washing and dusting in the world could not make ungentle in its touch .
+so	O
+you	O
+must	O
+try	O
+to	O
+be	O
+contented	O
+with	O
+making	O
+your	O
+name	O
+boyish	O
+,	O
+and	O
+playing	O
+brother	O
+to	O
+us	O
+girls	O
+,	O
+"	O
+said	O
+beth	B-CHARACTER
+,	O
+stroking	O
+the	O
+rough	O
+head	O
+with	O
+a	O
+hand	O
+that	O
+all	O
+the	O
+dish	O
+washing	O
+and	O
+dusting	O
+in	O
+the	O
+world	O
+could	O
+not	O
+make	O
+ungentle	O
+in	O
+its	O
+touch	O
+.	O
+
+# id = litbank-1068
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " as for you , amy , " continued meg , " you are altogether too particular and prim .
+"	O
+as	O
+for	O
+you	O
+,	O
+amy	B-CHARACTER
+,	O
+"	O
+continued	O
+meg	B-CHARACTER
+,	O
+"	O
+you	O
+are	O
+altogether	O
+too	O
+particular	O
+and	O
+prim	O
+.	O
+
+# id = litbank-1069
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = but your absurd words are as bad as jo 's slang . "
+but	O
+your	O
+absurd	O
+words	O
+are	O
+as	O
+bad	O
+as	O
+jo	B-CHARACTER
+'s	O
+slang	O
+.	O
+"	O
+
+# id = litbank-1070
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " if jo is a tomboy and amy a goose , what am i , please ? "
+"	O
+if	O
+jo	B-CHARACTER
+is	O
+a	O
+tomboy	O
+and	O
+amy	B-CHARACTER
+a	O
+goose	O
+,	O
+what	O
+am	O
+i	O
+,	O
+please	O
+?	O
+"	O
+
+# id = litbank-1071
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = asked beth , ready to share the lecture .
+asked	O
+beth	B-CHARACTER
+,	O
+ready	O
+to	O
+share	O
+the	O
+lecture	O
+.	O
+
+# id = litbank-1072
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " you 're a dear , and nothing else , " answered meg warmly , and no one contradicted her , for the ' mouse ' was the pet of the family .
+"	O
+you	O
+'re	O
+a	O
+dear	O
+,	O
+and	O
+nothing	O
+else	O
+,	O
+"	O
+answered	O
+meg	B-CHARACTER
+warmly	O
+,	O
+and	O
+no	O
+one	O
+contradicted	O
+her	O
+,	O
+for	O
+the	O
+'	O
+mouse	O
+'	O
+was	O
+the	O
+pet	O
+of	O
+the	O
+family	O
+.	O
+
+# id = litbank-1073
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = margaret , the eldest of the four , was sixteen , and very pretty , being plump and fair , with large eyes , plenty of soft brown hair , a sweet mouth , and white hands , of which she was rather vain .
+margaret	B-CHARACTER
+,	O
+the	O
+eldest	O
+of	O
+the	O
+four	O
+,	O
+was	O
+sixteen	O
+,	O
+and	O
+very	O
+pretty	O
+,	O
+being	O
+plump	O
+and	O
+fair	O
+,	O
+with	O
+large	O
+eyes	O
+,	O
+plenty	O
+of	O
+soft	O
+brown	O
+hair	O
+,	O
+a	O
+sweet	O
+mouth	O
+,	O
+and	O
+white	O
+hands	O
+,	O
+of	O
+which	O
+she	O
+was	O
+rather	O
+vain	O
+.	O
+
+# id = litbank-1074
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = fifteen-year-old jo was very tall , thin , and brown , and reminded one of a colt , for she never seemed to know what to do with her long limbs , which were very much in her way .
+fifteen-year-old	O
+jo	B-CHARACTER
+was	O
+very	O
+tall	O
+,	O
+thin	O
+,	O
+and	O
+brown	O
+,	O
+and	O
+reminded	O
+one	O
+of	O
+a	O
+colt	O
+,	O
+for	O
+she	O
+never	O
+seemed	O
+to	O
+know	O
+what	O
+to	O
+do	O
+with	O
+her	O
+long	O
+limbs	O
+,	O
+which	O
+were	O
+very	O
+much	O
+in	O
+her	O
+way	O
+.	O
+
+# id = litbank-1075
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = round shoulders had jo , big hands and feet , a flyaway look to her clothes , and the uncomfortable appearance of a girl who was rapidly shooting up into a woman and did n't like it .
+round	O
+shoulders	O
+had	O
+jo	B-CHARACTER
+,	O
+big	O
+hands	O
+and	O
+feet	O
+,	O
+a	O
+flyaway	O
+look	O
+to	O
+her	O
+clothes	O
+,	O
+and	O
+the	O
+uncomfortable	O
+appearance	O
+of	O
+a	O
+girl	O
+who	O
+was	O
+rapidly	O
+shooting	O
+up	O
+into	O
+a	O
+woman	O
+and	O
+did	O
+n't	O
+like	O
+it	O
+.	O
+
+# id = litbank-1076
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = elizabeth , or beth , as everyone called her , was a rosy , smooth-haired , bright-eyed girl of thirteen , with a shy manner , a timid voice , and a peaceful expression which was seldom disturbed .
+elizabeth	B-CHARACTER
+,	O
+or	O
+beth	B-CHARACTER
+,	O
+as	O
+everyone	O
+called	O
+her	O
+,	O
+was	O
+a	O
+rosy	O
+,	O
+smooth-haired	O
+,	O
+bright-eyed	O
+girl	O
+of	O
+thirteen	O
+,	O
+with	O
+a	O
+shy	O
+manner	O
+,	O
+a	O
+timid	O
+voice	O
+,	O
+and	O
+a	O
+peaceful	O
+expression	O
+which	O
+was	O
+seldom	O
+disturbed	O
+.	O
+
+# id = litbank-1077
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = amy , though the youngest , was a most important person , in her own opinion at least .
+amy	B-CHARACTER
+,	O
+though	O
+the	O
+youngest	O
+,	O
+was	O
+a	O
+most	O
+important	O
+person	O
+,	O
+in	O
+her	O
+own	O
+opinion	O
+at	O
+least	O
+.	O
+
+# id = litbank-1078
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = the clock struck six and , having swept up the hearth , beth put a pair of slippers down to warm .
+the	O
+clock	O
+struck	O
+six	O
+and	O
+,	O
+having	O
+swept	O
+up	O
+the	O
+hearth	O
+,	O
+beth	B-CHARACTER
+put	O
+a	O
+pair	O
+of	O
+slippers	O
+down	O
+to	O
+warm	O
+.	O
+
+# id = litbank-1079
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = meg stopped lecturing , and lighted the lamp , amy got out of the easy chair without being asked , and jo forgot how tired she was as she sat up to hold the slippers nearer to the blaze .
+meg	B-CHARACTER
+stopped	O
+lecturing	O
+,	O
+and	O
+lighted	O
+the	O
+lamp	O
+,	O
+amy	B-CHARACTER
+got	O
+out	O
+of	O
+the	O
+easy	O
+chair	O
+without	O
+being	O
+asked	O
+,	O
+and	O
+jo	B-CHARACTER
+forgot	O
+how	O
+tired	O
+she	O
+was	O
+as	O
+she	O
+sat	O
+up	O
+to	O
+hold	O
+the	O
+slippers	O
+nearer	O
+to	O
+the	O
+blaze	O
+.	O
+
+# id = litbank-1080
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = marmee must have a new pair . "
+marmee	B-CHARACTER
+must	O
+have	O
+a	O
+new	O
+pair	O
+.	O
+"	O
+
+# id = litbank-1081
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " i thought i 'd get her some with my dollar , " said beth .
+"	O
+i	O
+thought	O
+i	O
+'d	O
+get	O
+her	O
+some	O
+with	O
+my	O
+dollar	O
+,	O
+"	O
+said	O
+beth	B-CHARACTER
+.	O
+
+# id = litbank-1031
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " it 's so dreadful to be poor ! "
+"	O
+it	O
+'s	O
+so	O
+dreadful	O
+to	O
+be	O
+poor	O
+!	O
+"	O
+
+# id = litbank-1036
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = she did n't say " perhaps never , " but each silently added it , thinking of father far away , where the fighting was .
+she	O
+did	O
+n't	O
+say	O
+"	O
+perhaps	O
+never	O
+,	O
+"	O
+but	O
+each	O
+silently	O
+added	O
+it	O
+,	O
+thinking	O
+of	O
+father	O
+far	O
+away	O
+,	O
+where	O
+the	O
+fighting	O
+was	O
+.	O
+
+# id = litbank-1038
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = we ca n't do much , but we can make our little sacrifices , and ought to do it gladly .
+we	O
+ca	O
+n't	O
+do	O
+much	O
+,	O
+but	O
+we	O
+can	O
+make	O
+our	O
+little	O
+sacrifices	O
+,	O
+and	O
+ought	O
+to	O
+do	O
+it	O
+gladly	O
+.	O
+
+# id = litbank-1040
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = " but i do n't think the little we should spend would do any good .
+"	O
+but	O
+i	O
+do	O
+n't	O
+think	O
+the	O
+little	O
+we	O
+should	O
+spend	O
+would	O
+do	O
+any	O
+good	O
+.	O
+
+# id = litbank-1041
+# source = LitBank
+# book = Little Women
+# book_id = 514_little_women
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/514_little_women_brat.tsv
+# text = we 've each got a dollar , and the army would n't be much helped by our giving that .
+we	O
+'ve	O
+each	O
+got	O
+a	O
+dollar	O
+,	O
+and	O
+the	O
+army	O
+would	O
+n't	O
+be	O
+much	O
+helped	O
+by	O
+our	O
+giving	O
+that	O
+.	O
+

@@ -1,0 +1,1096 @@
+# id = litbank-1667
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = chapter i a red-haired girl the residence of mr. peter pett , the well-known financier , on riverside drive is one of the leading eyesores of that breezy and expensive boulevard .
+chapter	O
+i	O
+a	O
+red-haired	O
+girl	O
+the	O
+residence	O
+of	O
+mr.	B-CHARACTER
+peter	I-CHARACTER
+pett	I-CHARACTER
+,	O
+the	O
+well-known	O
+financier	O
+,	O
+on	O
+riverside	O
+drive	O
+is	O
+one	O
+of	O
+the	O
+leading	O
+eyesores	O
+of	O
+that	O
+breezy	O
+and	O
+expensive	O
+boulevard	O
+.	O
+
+# id = litbank-1672
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = it is a house which is impossible to overlook : and it was probably for this reason that mrs. pett insisted on her husband buying it , for she was a woman who liked to be noticed .
+it	O
+is	O
+a	O
+house	O
+which	O
+is	O
+impossible	O
+to	O
+overlook	O
+:	O
+and	O
+it	O
+was	O
+probably	O
+for	O
+this	O
+reason	O
+that	O
+mrs.	B-CHARACTER
+pett	I-CHARACTER
+insisted	O
+on	O
+her	O
+husband	O
+buying	O
+it	O
+,	O
+for	O
+she	O
+was	O
+a	O
+woman	O
+who	O
+liked	O
+to	O
+be	O
+noticed	O
+.	O
+
+# id = litbank-1673
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = through the rich interior of this mansion mr. pett , its nominal proprietor , was wandering like a lost spirit .
+through	O
+the	O
+rich	O
+interior	O
+of	O
+this	O
+mansion	O
+mr.	B-CHARACTER
+pett	I-CHARACTER
+,	O
+its	O
+nominal	O
+proprietor	O
+,	O
+was	O
+wandering	O
+like	O
+a	O
+lost	O
+spirit	O
+.	O
+
+# id = litbank-1675
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = there was a strong literary virus in mrs. pett 's system .
+there	O
+was	O
+a	O
+strong	O
+literary	O
+virus	O
+in	O
+mrs.	B-CHARACTER
+pett	I-CHARACTER
+'s	O
+system	O
+.	O
+
+# id = litbank-1676
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = she not only wrote voluminously herself -- the name nesta ford pett is familiar to all lovers of sensational fiction -- but aimed at maintaining a salon .
+she	O
+not	O
+only	O
+wrote	O
+voluminously	O
+herself	O
+--	O
+the	O
+name	O
+nesta	B-CHARACTER
+ford	I-CHARACTER
+pett	I-CHARACTER
+is	O
+familiar	O
+to	O
+all	O
+lovers	O
+of	O
+sensational	O
+fiction	O
+--	O
+but	O
+aimed	O
+at	O
+maintaining	O
+a	O
+salon	O
+.	O
+
+# id = litbank-1677
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = starting , in pursuance of this aim , with a single specimen , -- her nephew , willie partridge , who was working on a new explosive which would eventually revolutionise war -- she had gradually added to her collections , until now she gave shelter beneath her terra-cotta roof to no fewer than six young and unrecognised geniuses .
+starting	O
+,	O
+in	O
+pursuance	O
+of	O
+this	O
+aim	O
+,	O
+with	O
+a	O
+single	O
+specimen	O
+,	O
+--	O
+her	O
+nephew	O
+,	O
+willie	B-CHARACTER
+partridge	I-CHARACTER
+,	O
+who	O
+was	O
+working	O
+on	O
+a	O
+new	O
+explosive	O
+which	O
+would	O
+eventually	O
+revolutionise	O
+war	O
+--	O
+she	O
+had	O
+gradually	O
+added	O
+to	O
+her	O
+collections	O
+,	O
+until	O
+now	O
+she	O
+gave	O
+shelter	O
+beneath	O
+her	O
+terra-cotta	O
+roof	O
+to	O
+no	O
+fewer	O
+than	O
+six	O
+young	O
+and	O
+unrecognised	O
+geniuses	O
+.	O
+
+# id = litbank-1678
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = six brilliant youths , mostly novelists who had not yet started and poets who were about to begin , cluttered up mr. pett 's rooms on this fair june morning , while he , clutching his sunday paper , wandered about , finding , like the dove in genesis , no rest .
+six	O
+brilliant	O
+youths	O
+,	O
+mostly	O
+novelists	O
+who	O
+had	O
+not	O
+yet	O
+started	O
+and	O
+poets	O
+who	O
+were	O
+about	O
+to	O
+begin	O
+,	O
+cluttered	O
+up	O
+mr.	B-CHARACTER
+pett	I-CHARACTER
+'s	O
+rooms	O
+on	O
+this	O
+fair	O
+june	O
+morning	O
+,	O
+while	O
+he	O
+,	O
+clutching	O
+his	O
+sunday	O
+paper	O
+,	O
+wandered	O
+about	O
+,	O
+finding	O
+,	O
+like	O
+the	O
+dove	O
+in	O
+genesis	O
+,	O
+no	O
+rest	O
+.	O
+
+# id = litbank-1679
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = it was at such times that he was almost inclined to envy his wife 's first husband , a business friend of his named elmer ford , who had perished suddenly of an apoplectic seizure : and the pity which he generally felt for the deceased tended to shift its focus .
+it	O
+was	O
+at	O
+such	O
+times	O
+that	O
+he	O
+was	O
+almost	O
+inclined	O
+to	O
+envy	O
+his	O
+wife	O
+'s	O
+first	O
+husband	O
+,	O
+a	O
+business	O
+friend	O
+of	O
+his	O
+named	O
+elmer	B-CHARACTER
+ford	I-CHARACTER
+,	O
+who	O
+had	O
+perished	O
+suddenly	O
+of	O
+an	O
+apoplectic	O
+seizure	O
+:	O
+and	O
+the	O
+pity	O
+which	O
+he	O
+generally	O
+felt	O
+for	O
+the	O
+deceased	O
+tended	O
+to	O
+shift	O
+its	O
+focus	O
+.	O
+
+# id = litbank-1680
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = marriage had certainly complicated life for mr. pett , as it frequently does for the man who waits fifty years before trying it .
+marriage	O
+had	O
+certainly	O
+complicated	O
+life	O
+for	O
+mr.	B-CHARACTER
+pett	I-CHARACTER
+,	O
+as	O
+it	O
+frequently	O
+does	O
+for	O
+the	O
+man	O
+who	O
+waits	O
+fifty	O
+years	O
+before	O
+trying	O
+it	O
+.	O
+
+# id = litbank-1681
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = in addition to the geniuses , mrs. pett had brought with her to her new home her only son , ogden , a fourteen-year-old boy of a singularly unloveable type .
+in	O
+addition	O
+to	O
+the	O
+geniuses	O
+,	O
+mrs.	B-CHARACTER
+pett	I-CHARACTER
+had	O
+brought	O
+with	O
+her	O
+to	O
+her	O
+new	O
+home	O
+her	O
+only	O
+son	O
+,	O
+ogden	B-CHARACTER
+,	O
+a	O
+fourteen-year-old	O
+boy	O
+of	O
+a	O
+singularly	O
+unloveable	O
+type	O
+.	O
+
+# id = litbank-1682
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = to mr. pett , never at his ease with boys , ogden ford was a constant irritant .
+to	O
+mr.	B-CHARACTER
+pett	I-CHARACTER
+,	O
+never	O
+at	O
+his	O
+ease	O
+with	O
+boys	O
+,	O
+ogden	B-CHARACTER
+ford	I-CHARACTER
+was	O
+a	O
+constant	O
+irritant	O
+.	O
+
+# id = litbank-1683
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = mr. pett resumed his journey .
+mr.	B-CHARACTER
+pett	I-CHARACTER
+resumed	O
+his	O
+journey	O
+.	O
+
+# id = litbank-1684
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = mr. pett did not read old books himself , but he liked to be among them , and it is proof of his pessimism that he had not tried the library first .
+mr.	B-CHARACTER
+pett	I-CHARACTER
+did	O
+not	O
+read	O
+old	O
+books	O
+himself	O
+,	O
+but	O
+he	O
+liked	O
+to	O
+be	O
+among	O
+them	O
+,	O
+and	O
+it	O
+is	O
+proof	O
+of	O
+his	O
+pessimism	O
+that	O
+he	O
+had	O
+not	O
+tried	O
+the	O
+library	O
+first	O
+.	O
+
+# id = litbank-1685
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = ogden ford was sprawling in a deep chair in the shadows .
+ogden	B-CHARACTER
+ford	I-CHARACTER
+was	O
+sprawling	O
+in	O
+a	O
+deep	O
+chair	O
+in	O
+the	O
+shadows	O
+.	O
+
+# id = litbank-1686
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = mr. pett stood in the doorway , regarding his step-son with a sombre eye .
+mr.	B-CHARACTER
+pett	I-CHARACTER
+stood	O
+in	O
+the	O
+doorway	O
+,	O
+regarding	O
+his	O
+step-son	O
+with	O
+a	O
+sombre	O
+eye	O
+.	O
+
+# id = litbank-1687
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = ogden ford was round and blobby and looked overfed .
+ogden	B-CHARACTER
+ford	I-CHARACTER
+was	O
+round	O
+and	O
+blobby	O
+and	O
+looked	O
+overfed	O
+.	O
+
+# id = litbank-1688
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = " what are you eating , boy ? " demanded mr. pett , his disappointment turning to irritability .
+"	O
+what	O
+are	O
+you	O
+eating	O
+,	O
+boy	O
+?	O
+"	O
+demanded	O
+mr.	B-CHARACTER
+pett	I-CHARACTER
+,	O
+his	O
+disappointment	O
+turning	O
+to	O
+irritability	O
+.	O
+
+# id = litbank-1689
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = " mother gave it to me , " said ogden simply .
+"	O
+mother	O
+gave	O
+it	O
+to	O
+me	O
+,	O
+"	O
+said	O
+ogden	B-CHARACTER
+simply	O
+.	O
+
+# id = litbank-1690
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = mr. pett grunted , but made no verbal comment .
+mr.	B-CHARACTER
+pett	I-CHARACTER
+grunted	O
+,	O
+but	O
+made	O
+no	O
+verbal	O
+comment	O
+.	O
+
+# id = litbank-1691
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = ogden celebrated his victory by putting another piece of candy in his mouth .
+ogden	B-CHARACTER
+celebrated	O
+his	O
+victory	O
+by	O
+putting	O
+another	O
+piece	O
+of	O
+candy	O
+in	O
+his	O
+mouth	O
+.	O
+
+# id = litbank-1692
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = mr. pett was sniffing suspiciously .
+mr.	B-CHARACTER
+pett	I-CHARACTER
+was	O
+sniffing	O
+suspiciously	O
+.	O
+
+# id = litbank-1693
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = a sense of helplessness came upon mr. pett .
+a	O
+sense	O
+of	O
+helplessness	O
+came	O
+upon	O
+mr.	B-CHARACTER
+pett	I-CHARACTER
+.	O
+
+# id = litbank-1694
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = " i -- i have other things to do , " said mr. pett , recoiling from the prospect .
+"	O
+i	O
+--	O
+i	O
+have	O
+other	O
+things	O
+to	O
+do	O
+,	O
+"	O
+said	O
+mr.	B-CHARACTER
+pett	I-CHARACTER
+,	O
+recoiling	O
+from	O
+the	O
+prospect	O
+.	O
+
+# id = litbank-1695
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = " i am not a martyr to lumbago , " said mr. pett , who was touchy on the subject .
+"	O
+i	O
+am	O
+not	O
+a	O
+martyr	O
+to	O
+lumbago	O
+,	O
+"	O
+said	O
+mr.	B-CHARACTER
+pett	I-CHARACTER
+,	O
+who	O
+was	O
+touchy	O
+on	O
+the	O
+subject	O
+.	O
+
+# id = litbank-1696
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = ogden made further researches in the candy box .
+ogden	B-CHARACTER
+made	O
+further	O
+researches	O
+in	O
+the	O
+candy	O
+box	O
+.	O
+
+# id = litbank-1697
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = mr. pett retired , fermenting .
+mr.	B-CHARACTER
+pett	I-CHARACTER
+retired	O
+,	O
+fermenting	O
+.	O
+
+# id = litbank-1698
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = from behind this door , as from behind those below , sounds proceeded , but this time they did not seem to discourage mr. pett .
+from	O
+behind	O
+this	O
+door	O
+,	O
+as	O
+from	O
+behind	O
+those	O
+below	O
+,	O
+sounds	O
+proceeded	O
+,	O
+but	O
+this	O
+time	O
+they	O
+did	O
+not	O
+seem	O
+to	O
+discourage	O
+mr.	B-CHARACTER
+pett	I-CHARACTER
+.	O
+
+# id = litbank-1699
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = the room in which mr. pett found himself was small but cosy , and its cosiness -- oddly , considering the sex of its owner -- had that peculiar quality which belongs as a rule to the dens of men .
+the	O
+room	O
+in	O
+which	O
+mr.	B-CHARACTER
+pett	I-CHARACTER
+found	O
+himself	O
+was	O
+small	O
+but	O
+cosy	O
+,	O
+and	O
+its	O
+cosiness	O
+--	O
+oddly	O
+,	O
+considering	O
+the	O
+sex	O
+of	O
+its	O
+owner	O
+--	O
+had	O
+that	O
+peculiar	O
+quality	O
+which	O
+belongs	O
+as	O
+a	O
+rule	O
+to	O
+the	O
+dens	O
+of	O
+men	O
+.	O
+
+# id = litbank-1700
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = she turned as mr. pett entered , and smiled over her shoulder .
+she	O
+turned	O
+as	O
+mr.	B-CHARACTER
+pett	I-CHARACTER
+entered	O
+,	O
+and	O
+smiled	O
+over	O
+her	O
+shoulder	O
+.	O
+
+# id = litbank-1668
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = as you pass by in your limousine , or while enjoying ten cents worth of fresh air on top of a green omnibus , it jumps out and bites at you .
+as	O
+you	O
+pass	O
+by	O
+in	O
+your	O
+limousine	O
+,	O
+or	O
+while	O
+enjoying	O
+ten	O
+cents	O
+worth	O
+of	O
+fresh	O
+air	O
+on	O
+top	O
+of	O
+a	O
+green	O
+omnibus	O
+,	O
+it	O
+jumps	O
+out	O
+and	O
+bites	O
+at	O
+you	O
+.	O
+
+# id = litbank-1669
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = architects , confronted with it , reel and throw up their hands defensively , and even the lay observer has a sense of shock .
+architects	O
+,	O
+confronted	O
+with	O
+it	O
+,	O
+reel	O
+and	O
+throw	O
+up	O
+their	O
+hands	O
+defensively	O
+,	O
+and	O
+even	O
+the	O
+lay	O
+observer	O
+has	O
+a	O
+sense	O
+of	O
+shock	O
+.	O
+
+# id = litbank-1670
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = the place resembles in almost equal proportions a cathedral , a suburban villa , a hotel and a chinese pagoda .
+the	O
+place	O
+resembles	O
+in	O
+almost	O
+equal	O
+proportions	O
+a	O
+cathedral	O
+,	O
+a	O
+suburban	O
+villa	O
+,	O
+a	O
+hotel	O
+and	O
+a	O
+chinese	O
+pagoda	O
+.	O
+
+# id = litbank-1671
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = many of its windows are of stained glass , and above the porch stand two terra-cotta lions , considerably more repulsive even than the complacent animals which guard new york 's public library .
+many	O
+of	O
+its	O
+windows	O
+are	O
+of	O
+stained	O
+glass	O
+,	O
+and	O
+above	O
+the	O
+porch	O
+stand	O
+two	O
+terra-cotta	O
+lions	O
+,	O
+considerably	O
+more	O
+repulsive	O
+even	O
+than	O
+the	O
+complacent	O
+animals	O
+which	O
+guard	O
+new	O
+york	O
+'s	O
+public	O
+library	O
+.	O
+
+# id = litbank-1674
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = the hour was about ten of a fine sunday morning , but the sabbath calm which was upon the house had not communicated itself to him .
+the	O
+hour	O
+was	O
+about	O
+ten	O
+of	O
+a	O
+fine	O
+sunday	O
+morning	O
+,	O
+but	O
+the	O
+sabbath	O
+calm	O
+which	O
+was	O
+upon	O
+the	O
+house	O
+had	O
+not	O
+communicated	O
+itself	O
+to	O
+him	O
+.	O
+

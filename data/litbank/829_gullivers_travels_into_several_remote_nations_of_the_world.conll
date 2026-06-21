@@ -1,0 +1,571 @@
+# id = litbank-1302
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = he sent me to emanuel college in cambridge at fourteen years old , where i resided three years , and applied myself close to my studies ; but the charge of maintaining me , although i had a very scanty allowance , being too great for a narrow fortune , i was bound apprentice to mr. james bates , an eminent surgeon in london , with whom i continued four years .
+he	O
+sent	O
+me	O
+to	O
+emanuel	O
+college	O
+in	O
+cambridge	O
+at	O
+fourteen	O
+years	O
+old	O
+,	O
+where	O
+i	O
+resided	O
+three	O
+years	O
+,	O
+and	O
+applied	O
+myself	O
+close	O
+to	O
+my	O
+studies	O
+;	O
+but	O
+the	O
+charge	O
+of	O
+maintaining	O
+me	O
+,	O
+although	O
+i	O
+had	O
+a	O
+very	O
+scanty	O
+allowance	O
+,	O
+being	O
+too	O
+great	O
+for	O
+a	O
+narrow	O
+fortune	O
+,	O
+i	O
+was	O
+bound	O
+apprentice	O
+to	O
+mr.	B-CHARACTER
+james	I-CHARACTER
+bates	I-CHARACTER
+,	O
+an	O
+eminent	O
+surgeon	O
+in	O
+london	O
+,	O
+with	O
+whom	O
+i	O
+continued	O
+four	O
+years	O
+.	O
+
+# id = litbank-1304
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = when i left mr. bates , i went down to my father : where , by the assistance of him and my uncle john , and some other relations , i got forty pounds , and a promise of thirty pounds a year to maintain me at leyden : there i studied physic two years and seven months , knowing it would be useful in long voyages .
+when	O
+i	O
+left	O
+mr.	B-CHARACTER
+bates	I-CHARACTER
+,	O
+i	O
+went	O
+down	O
+to	O
+my	O
+father	O
+:	O
+where	O
+,	O
+by	O
+the	O
+assistance	O
+of	O
+him	O
+and	O
+my	O
+uncle	O
+john	B-CHARACTER
+,	O
+and	O
+some	O
+other	O
+relations	O
+,	O
+i	O
+got	O
+forty	O
+pounds	O
+,	O
+and	O
+a	O
+promise	O
+of	O
+thirty	O
+pounds	O
+a	O
+year	O
+to	O
+maintain	O
+me	O
+at	O
+leyden	O
+:	O
+there	O
+i	O
+studied	O
+physic	O
+two	O
+years	O
+and	O
+seven	O
+months	O
+,	O
+knowing	O
+it	O
+would	O
+be	O
+useful	O
+in	O
+long	O
+voyages	O
+.	O
+
+# id = litbank-1305
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = soon after my return from leyden , i was recommended by my good master , mr. bates , to be surgeon to the swallow , captain abraham pannel , commander ; with whom i continued three years and a half , making a voyage or two into the levant , and some other parts .
+soon	O
+after	O
+my	O
+return	O
+from	O
+leyden	O
+,	O
+i	O
+was	O
+recommended	O
+by	O
+my	O
+good	O
+master	O
+,	O
+mr.	B-CHARACTER
+bates	I-CHARACTER
+,	O
+to	O
+be	O
+surgeon	O
+to	O
+the	O
+swallow	B-CHARACTER
+,	O
+captain	B-CHARACTER
+abraham	I-CHARACTER
+pannel	I-CHARACTER
+,	O
+commander	O
+;	O
+with	O
+whom	O
+i	O
+continued	O
+three	O
+years	O
+and	O
+a	O
+half	O
+,	O
+making	O
+a	O
+voyage	O
+or	O
+two	O
+into	O
+the	O
+levant	O
+,	O
+and	O
+some	O
+other	O
+parts	O
+.	O
+
+# id = litbank-1306
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = when i came back i resolved to settle in london ; to which mr. bates , my master , encouraged me , and by him i was recommended to several patients .
+when	O
+i	O
+came	O
+back	O
+i	O
+resolved	O
+to	O
+settle	O
+in	O
+london	O
+;	O
+to	O
+which	O
+mr.	B-CHARACTER
+bates	I-CHARACTER
+,	O
+my	O
+master	O
+,	O
+encouraged	O
+me	O
+,	O
+and	O
+by	O
+him	O
+i	O
+was	O
+recommended	O
+to	O
+several	O
+patients	O
+.	O
+
+# id = litbank-1307
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = i took part of a small house in the old jewry ; and being advised to alter my condition , i married mrs. mary burton , second daughter to mr. edmund burton , hosier , in newgate-street , with whom i received four hundred pounds for a portion .
+i	O
+took	O
+part	O
+of	O
+a	O
+small	O
+house	O
+in	O
+the	O
+old	O
+jewry	O
+;	O
+and	O
+being	O
+advised	O
+to	O
+alter	O
+my	O
+condition	O
+,	O
+i	O
+married	O
+mrs.	B-CHARACTER
+mary	I-CHARACTER
+burton	I-CHARACTER
+,	O
+second	O
+daughter	O
+to	O
+mr.	B-CHARACTER
+edmund	I-CHARACTER
+burton	I-CHARACTER
+,	O
+hosier	O
+,	O
+in	O
+newgate-street	O
+,	O
+with	O
+whom	O
+i	O
+received	O
+four	O
+hundred	O
+pounds	O
+for	O
+a	O
+portion	O
+.	O
+
+# id = litbank-1308
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = but my good master bates dying in two years after , and i having few friends , my business began to fail ; for my conscience would not suffer me to imitate the bad practice of too many among my brethren .
+but	O
+my	O
+good	O
+master	O
+bates	B-CHARACTER
+dying	O
+in	O
+two	O
+years	O
+after	O
+,	O
+and	O
+i	O
+having	O
+few	O
+friends	O
+,	O
+my	O
+business	O
+began	O
+to	O
+fail	O
+;	O
+for	O
+my	O
+conscience	O
+would	O
+not	O
+suffer	O
+me	O
+to	O
+imitate	O
+the	O
+bad	O
+practice	O
+of	O
+too	O
+many	O
+among	O
+my	O
+brethren	O
+.	O
+
+# id = litbank-1309
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = after three years expectation that things would mend , i accepted an advantageous offer from captain william prichard , master of the antelope , who was making a voyage to the south sea .
+after	O
+three	O
+years	O
+expectation	O
+that	O
+things	O
+would	O
+mend	O
+,	O
+i	O
+accepted	O
+an	O
+advantageous	O
+offer	O
+from	O
+captain	B-CHARACTER
+william	I-CHARACTER
+prichard	I-CHARACTER
+,	O
+master	O
+of	O
+the	O
+antelope	O
+,	O
+who	O
+was	O
+making	O
+a	O
+voyage	O
+to	O
+the	O
+south	O
+sea	O
+.	O
+
+# id = litbank-1298
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = the author gives some account of himself and family .
+the	O
+author	O
+gives	O
+some	O
+account	O
+of	O
+himself	O
+and	O
+family	O
+.	O
+
+# id = litbank-1299
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = he is shipwrecked , and swims for his life .
+he	O
+is	O
+shipwrecked	O
+,	O
+and	O
+swims	O
+for	O
+his	O
+life	O
+.	O
+
+# id = litbank-1300
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = gets safe on shore in the country of lilliput ; is made a prisoner , and carried up the country .
+gets	O
+safe	O
+on	O
+shore	O
+in	O
+the	O
+country	O
+of	O
+lilliput	O
+;	O
+is	O
+made	O
+a	O
+prisoner	O
+,	O
+and	O
+carried	O
+up	O
+the	O
+country	O
+.	O
+
+# id = litbank-1301
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = my father had a small estate in nottinghamshire : i was the third of five sons .
+my	O
+father	O
+had	O
+a	O
+small	O
+estate	O
+in	O
+nottinghamshire	O
+:	O
+i	O
+was	O
+the	O
+third	O
+of	O
+five	O
+sons	O
+.	O
+
+# id = litbank-1303
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = my father now and then sending me small sums of money , i laid them out in learning navigation , and other parts of the mathematics , useful to those who intend to travel , as i always believed it would be , some time or other , my fortune to do .
+my	O
+father	O
+now	O
+and	O
+then	O
+sending	O
+me	O
+small	O
+sums	O
+of	O
+money	O
+,	O
+i	O
+laid	O
+them	O
+out	O
+in	O
+learning	O
+navigation	O
+,	O
+and	O
+other	O
+parts	O
+of	O
+the	O
+mathematics	O
+,	O
+useful	O
+to	O
+those	O
+who	O
+intend	O
+to	O
+travel	O
+,	O
+as	O
+i	O
+always	O
+believed	O
+it	O
+would	O
+be	O
+,	O
+some	O
+time	O
+or	O
+other	O
+,	O
+my	O
+fortune	O
+to	O
+do	O
+.	O
+

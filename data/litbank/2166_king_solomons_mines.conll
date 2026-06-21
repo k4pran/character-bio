@@ -1,0 +1,659 @@
+# id = litbank-1752
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = chapter i i meet sir henry curtis it is a curious thing that at my age -- fifty-five last birthday -- i should find myself taking up a pen to try to write a history .
+chapter	O
+i	O
+i	O
+meet	O
+sir	B-CHARACTER
+henry	I-CHARACTER
+curtis	I-CHARACTER
+it	O
+is	O
+a	O
+curious	O
+thing	O
+that	O
+at	O
+my	O
+age	O
+--	O
+fifty-five	O
+last	O
+birthday	O
+--	O
+i	O
+should	O
+find	O
+myself	O
+taking	O
+up	O
+a	O
+pen	O
+to	O
+try	O
+to	O
+write	O
+a	O
+history	O
+.	O
+
+# id = litbank-1758
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = first reason : because sir henry curtis and captain john good asked me .
+first	O
+reason	O
+:	O
+because	O
+sir	B-CHARACTER
+henry	I-CHARACTER
+curtis	I-CHARACTER
+and	O
+captain	B-CHARACTER
+john	I-CHARACTER
+good	I-CHARACTER
+asked	O
+me	O
+.	O
+
+# id = litbank-1759
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = third reason : because i want my boy harry , who is over there at the hospital in london studying to become a doctor , to have something to amuse him and keep him out of mischief for a week or so .
+third	O
+reason	O
+:	O
+because	O
+i	O
+want	O
+my	O
+boy	O
+harry	B-CHARACTER
+,	O
+who	O
+is	O
+over	O
+there	O
+at	O
+the	O
+hospital	O
+in	O
+london	O
+studying	O
+to	O
+become	O
+a	O
+doctor	O
+,	O
+to	O
+have	O
+something	O
+to	O
+amuse	O
+him	O
+and	O
+keep	O
+him	O
+out	O
+of	O
+mischief	O
+for	O
+a	O
+week	O
+or	O
+so	O
+.	O
+
+# id = litbank-1760
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = hospital work must sometimes pall and grow rather dull , for even of cutting up dead bodies there may come satiety , and as this history will not be dull , whatever else it may be , it will put a little life into things for a day or two while harry is reading of our adventures .
+hospital	O
+work	O
+must	O
+sometimes	O
+pall	O
+and	O
+grow	O
+rather	O
+dull	O
+,	O
+for	O
+even	O
+of	O
+cutting	O
+up	O
+dead	O
+bodies	O
+there	O
+may	O
+come	O
+satiety	O
+,	O
+and	O
+as	O
+this	O
+history	O
+will	O
+not	O
+be	O
+dull	O
+,	O
+whatever	O
+else	O
+it	O
+may	O
+be	O
+,	O
+it	O
+will	O
+put	O
+a	O
+little	O
+life	O
+into	O
+things	O
+for	O
+a	O
+day	O
+or	O
+two	O
+while	O
+harry	B-CHARACTER
+is	O
+reading	O
+of	O
+our	O
+adventures	O
+.	O
+
+# id = litbank-1761
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = it may seem a queer thing to say , especially considering that there is no woman in it -- except foulata .
+it	O
+may	O
+seem	O
+a	O
+queer	O
+thing	O
+to	O
+say	O
+,	O
+especially	O
+considering	O
+that	O
+there	O
+is	O
+no	O
+woman	O
+in	O
+it	O
+--	O
+except	O
+foulata	B-CHARACTER
+.	O
+
+# id = litbank-1762
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = there is gagaoola , if she was a woman , and not a fiend .
+there	O
+is	O
+gagaoola	B-CHARACTER
+,	O
+if	O
+she	O
+was	O
+a	O
+woman	O
+,	O
+and	O
+not	O
+a	O
+fiend	O
+.	O
+
+# id = litbank-1763
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = i , allan quatermain , of durban , natal , gentleman , make oath and say -- that 's how i headed my deposition before the magistrate about poor khiva 's and ventvögel 's sad deaths ; but somehow it does n't seem quite the right way to begin a book .
+i	O
+,	O
+allan	B-CHARACTER
+quatermain	I-CHARACTER
+,	O
+of	O
+durban	O
+,	O
+natal	O
+,	O
+gentleman	O
+,	O
+make	O
+oath	O
+and	O
+say	O
+--	O
+that	O
+'s	O
+how	O
+i	O
+headed	O
+my	O
+deposition	O
+before	O
+the	O
+magistrate	O
+about	O
+poor	O
+khiva	B-CHARACTER
+'s	O
+and	O
+ventvögel	B-CHARACTER
+'s	O
+sad	O
+deaths	O
+;	O
+but	O
+somehow	O
+it	O
+does	O
+n't	O
+seem	O
+quite	O
+the	O
+right	O
+way	O
+to	O
+begin	O
+a	O
+book	O
+.	O
+
+# id = litbank-1764
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = i 've known natives who _ are _ , and so you will say , harry , my boy , before you have done with this tale , and i have known mean whites with lots of money and fresh out from home , too , who _ are not _ .
+i	O
+'ve	O
+known	O
+natives	O
+who	O
+_	O
+are	O
+_	O
+,	O
+and	O
+so	O
+you	O
+will	O
+say	O
+,	O
+harry	B-CHARACTER
+,	O
+my	O
+boy	O
+,	O
+before	O
+you	O
+have	O
+done	O
+with	O
+this	O
+tale	O
+,	O
+and	O
+i	O
+have	O
+known	O
+mean	O
+whites	O
+with	O
+lots	O
+of	O
+money	O
+and	O
+fresh	O
+out	O
+from	O
+home	O
+,	O
+too	O
+,	O
+who	O
+_	O
+are	O
+not	O
+_	O
+.	O
+
+# id = litbank-1765
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = well , it is eighteen months or so ago since first i met sir henry curtis and captain good .
+well	O
+,	O
+it	O
+is	O
+eighteen	O
+months	O
+or	O
+so	O
+ago	O
+since	O
+first	O
+i	O
+met	O
+sir	B-CHARACTER
+henry	I-CHARACTER
+curtis	I-CHARACTER
+and	O
+captain	B-CHARACTER
+good	I-CHARACTER
+.	O
+
+# id = litbank-1766
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = and by the way it is a curious thing , and just shows how the blood will out , i discovered afterwards that sir henry curtis , for that was the big man 's name , is of danish blood .
+and	O
+by	O
+the	O
+way	O
+it	O
+is	O
+a	O
+curious	O
+thing	O
+,	O
+and	O
+just	O
+shows	O
+how	O
+the	O
+blood	O
+will	O
+out	O
+,	O
+i	O
+discovered	O
+afterwards	O
+that	O
+sir	B-CHARACTER
+henry	I-CHARACTER
+curtis	I-CHARACTER
+,	O
+for	O
+that	O
+was	O
+the	O
+big	O
+man	O
+'s	O
+name	O
+,	O
+is	O
+of	O
+danish	O
+blood	O
+.	O
+
+# id = litbank-1767
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = the other man , who stood talking to sir henry , was stout and dark , and of quite a different cut .
+the	O
+other	O
+man	O
+,	O
+who	O
+stood	O
+talking	O
+to	O
+sir	B-CHARACTER
+henry	I-CHARACTER
+,	O
+was	O
+stout	O
+and	O
+dark	O
+,	O
+and	O
+of	O
+quite	O
+a	O
+different	O
+cut	O
+.	O
+
+# id = litbank-1768
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = the officer 's name i found out -- by referring to the passengers ' lists -- was good -- captain john good .
+the	O
+officer	O
+'s	O
+name	O
+i	O
+found	O
+out	O
+--	O
+by	O
+referring	O
+to	O
+the	O
+passengers	O
+'	O
+lists	O
+--	O
+was	O
+good	O
+--	O
+captain	B-CHARACTER
+john	I-CHARACTER
+good	I-CHARACTER
+.	O
+
+# id = litbank-1753
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = i wonder what sort of a history it will be when i have finished it , if ever i come to the end of the trip !
+i	O
+wonder	O
+what	O
+sort	O
+of	O
+a	O
+history	O
+it	O
+will	O
+be	O
+when	O
+i	O
+have	O
+finished	O
+it	O
+,	O
+if	O
+ever	O
+i	O
+come	O
+to	O
+the	O
+end	O
+of	O
+the	O
+trip	O
+!	O
+
+# id = litbank-1754
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = i have done a good many things in my life , which seems a long one to me , owing to my having begun work so young , perhaps .
+i	O
+have	O
+done	O
+a	O
+good	O
+many	O
+things	O
+in	O
+my	O
+life	O
+,	O
+which	O
+seems	O
+a	O
+long	O
+one	O
+to	O
+me	O
+,	O
+owing	O
+to	O
+my	O
+having	O
+begun	O
+work	O
+so	O
+young	O
+,	O
+perhaps	O
+.	O
+
+# id = litbank-1755
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = at an age when other boys are at school i was earning my living as a trader in the old colony .
+at	O
+an	O
+age	O
+when	O
+other	O
+boys	O
+are	O
+at	O
+school	O
+i	O
+was	O
+earning	O
+my	O
+living	O
+as	O
+a	O
+trader	O
+in	O
+the	O
+old	O
+colony	O
+.	O
+
+# id = litbank-1756
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = i have been trading , hunting , fighting , or mining ever since .
+i	O
+have	O
+been	O
+trading	O
+,	O
+hunting	O
+,	O
+fighting	O
+,	O
+or	O
+mining	O
+ever	O
+since	O
+.	O
+
+# id = litbank-1757
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = and yet it is only eight months ago that i made my pile .
+and	O
+yet	O
+it	O
+is	O
+only	O
+eight	O
+months	O
+ago	O
+that	O
+i	O
+made	O
+my	O
+pile	O
+.	O
+

@@ -1,0 +1,296 @@
+# id = litbank-1083
+# source = LitBank
+# book = The Life and Adventures of Robinson Crusoe
+# book_id = 521_the_life_and_adventures_of_robinson_crusoe
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/521_the_life_and_adventures_of_robinson_crusoe_brat.tsv
+# text = he got a good estate by merchandise , and leaving off his trade , lived afterwards at york , from whence he had married my mother , whose relations were named robinson , a very good family in that country , and from whom i was called robinson kreutznaer ; but , by the usual corruption of words in england , we are now called — nay we call ourselves and write our name — crusoe ; and so my companions always called me .
+he	O
+got	O
+a	O
+good	O
+estate	O
+by	O
+merchandise	O
+,	O
+and	O
+leaving	O
+off	O
+his	O
+trade	O
+,	O
+lived	O
+afterwards	O
+at	O
+york	O
+,	O
+from	O
+whence	O
+he	O
+had	O
+married	O
+my	O
+mother	O
+,	O
+whose	O
+relations	O
+were	O
+named	O
+robinson	B-CHARACTER
+,	O
+a	O
+very	O
+good	O
+family	O
+in	O
+that	O
+country	O
+,	O
+and	O
+from	O
+whom	O
+i	O
+was	O
+called	O
+robinson	B-CHARACTER
+kreutznaer	I-CHARACTER
+;	O
+but	O
+,	O
+by	O
+the	O
+usual	O
+corruption	O
+of	O
+words	O
+in	O
+england	O
+,	O
+we	O
+are	O
+now	O
+called	O
+—	O
+nay	O
+we	O
+call	O
+ourselves	O
+and	O
+write	O
+our	O
+name	O
+—	O
+crusoe	B-CHARACTER
+;	O
+and	O
+so	O
+my	O
+companions	O
+always	O
+called	O
+me	O
+.	O
+
+# id = litbank-1082
+# source = LitBank
+# book = The Life and Adventures of Robinson Crusoe
+# book_id = 521_the_life_and_adventures_of_robinson_crusoe
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/521_the_life_and_adventures_of_robinson_crusoe_brat.tsv
+# text = chapter i — start in life i was born in the year 1632 , in the city of york , of a good family , though not of that country , my father being a foreigner of bremen , who settled first at hull .
+chapter	O
+i	O
+—	O
+start	O
+in	O
+life	O
+i	O
+was	O
+born	O
+in	O
+the	O
+year	O
+1632	O
+,	O
+in	O
+the	O
+city	O
+of	O
+york	O
+,	O
+of	O
+a	O
+good	O
+family	O
+,	O
+though	O
+not	O
+of	O
+that	O
+country	O
+,	O
+my	O
+father	O
+being	O
+a	O
+foreigner	O
+of	O
+bremen	O
+,	O
+who	O
+settled	O
+first	O
+at	O
+hull	O
+.	O
+
+# id = litbank-1084
+# source = LitBank
+# book = The Life and Adventures of Robinson Crusoe
+# book_id = 521_the_life_and_adventures_of_robinson_crusoe
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/521_the_life_and_adventures_of_robinson_crusoe_brat.tsv
+# text = i had two elder brothers , one of whom was lieutenant-colonel to an english regiment of foot in flanders , formerly commanded by the famous colonel lockhart , and was killed at the battle near dunkirk against the spaniards .
+i	O
+had	O
+two	O
+elder	O
+brothers	O
+,	O
+one	O
+of	O
+whom	O
+was	O
+lieutenant-colonel	O
+to	O
+an	O
+english	O
+regiment	O
+of	O
+foot	O
+in	O
+flanders	O
+,	O
+formerly	O
+commanded	O
+by	O
+the	O
+famous	O
+colonel	O
+lockhart	O
+,	O
+and	O
+was	O
+killed	O
+at	O
+the	O
+battle	O
+near	O
+dunkirk	O
+against	O
+the	O
+spaniards	O
+.	O
+
+# id = litbank-1085
+# source = LitBank
+# book = The Life and Adventures of Robinson Crusoe
+# book_id = 521_the_life_and_adventures_of_robinson_crusoe
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/521_the_life_and_adventures_of_robinson_crusoe_brat.tsv
+# text = what became of my second brother i never knew , any more than my father or mother knew what became of me .
+what	O
+became	O
+of	O
+my	O
+second	O
+brother	O
+i	O
+never	O
+knew	O
+,	O
+any	O
+more	O
+than	O
+my	O
+father	O
+or	O
+mother	O
+knew	O
+what	O
+became	O
+of	O
+me	O
+.	O
+
+# id = litbank-1086
+# source = LitBank
+# book = The Life and Adventures of Robinson Crusoe
+# book_id = 521_the_life_and_adventures_of_robinson_crusoe
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/521_the_life_and_adventures_of_robinson_crusoe_brat.tsv
+# text = being the third son of the family and not bred to any trade , my head began to be filled very early with rambling thoughts .
+being	O
+the	O
+third	O
+son	O
+of	O
+the	O
+family	O
+and	O
+not	O
+bred	O
+to	O
+any	O
+trade	O
+,	O
+my	O
+head	O
+began	O
+to	O
+be	O
+filled	O
+very	O
+early	O
+with	O
+rambling	O
+thoughts	O
+.	O
+
+# id = litbank-1087
+# source = LitBank
+# book = The Life and Adventures of Robinson Crusoe
+# book_id = 521_the_life_and_adventures_of_robinson_crusoe
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/521_the_life_and_adventures_of_robinson_crusoe_brat.tsv
+# text = my father , a wise and grave man , gave me serious and excellent counsel against what he foresaw was my design .
+my	O
+father	O
+,	O
+a	O
+wise	O
+and	O
+grave	O
+man	O
+,	O
+gave	O
+me	O
+serious	O
+and	O
+excellent	O
+counsel	O
+against	O
+what	O
+he	O
+foresaw	O
+was	O
+my	O
+design	O
+.	O
+

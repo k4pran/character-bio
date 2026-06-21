@@ -1,0 +1,1095 @@
+# id = litbank-2053
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = the moocow came down the road where betty byrne lived : she sold lemon platt .
+the	O
+moocow	O
+came	O
+down	O
+the	O
+road	O
+where	O
+betty	B-CHARACTER
+byrne	I-CHARACTER
+lived	O
+:	O
+she	O
+sold	O
+lemon	O
+platt	O
+.	O
+
+# id = litbank-2058
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = uncle charles and dante clapped .
+uncle	B-CHARACTER
+charles	I-CHARACTER
+and	O
+dante	B-CHARACTER
+clapped	O
+.	O
+
+# id = litbank-2059
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = they were older than his father and mother but uncle charles was older than dante .
+they	O
+were	O
+older	O
+than	O
+his	O
+father	O
+and	O
+mother	O
+but	O
+uncle	B-CHARACTER
+charles	I-CHARACTER
+was	O
+older	O
+than	O
+dante	B-CHARACTER
+.	O
+
+# id = litbank-2060
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = dante had two brushes in her press .
+dante	B-CHARACTER
+had	O
+two	O
+brushes	O
+in	O
+her	O
+press	O
+.	O
+
+# id = litbank-2061
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = dante gave him a cachou every time he brought her a piece of tissue paper .
+dante	B-CHARACTER
+gave	O
+him	O
+a	O
+cachou	O
+every	O
+time	O
+he	O
+brought	O
+her	O
+a	O
+piece	O
+of	O
+tissue	O
+paper	O
+.	O
+
+# id = litbank-2062
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = they were eileen 's father and mother .
+they	O
+were	O
+eileen	B-CHARACTER
+'s	O
+father	O
+and	O
+mother	O
+.	O
+
+# id = litbank-2063
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = when they were grown up he was going to marry eileen .
+when	O
+they	O
+were	O
+grown	O
+up	O
+he	O
+was	O
+going	O
+to	O
+marry	O
+eileen	B-CHARACTER
+.	O
+
+# id = litbank-2064
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = his mother said : -- o , stephen will apologize .
+his	O
+mother	O
+said	O
+:	O
+--	O
+o	O
+,	O
+stephen	B-CHARACTER
+will	O
+apologize	O
+.	O
+
+# id = litbank-2065
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = dante said : -- o , if not , the eagles will come and pull out his eyes .
+dante	B-CHARACTER
+said	O
+:	O
+--	O
+o	O
+,	O
+if	O
+not	O
+,	O
+the	O
+eagles	O
+will	O
+come	O
+and	O
+pull	O
+out	O
+his	O
+eyes	O
+.	O
+
+# id = litbank-2066
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = rody kickham was not like that : he would be captain of the third line all the fellows said .
+rody	B-CHARACTER
+kickham	I-CHARACTER
+was	O
+not	O
+like	O
+that	O
+:	O
+he	O
+would	O
+be	O
+captain	O
+of	O
+the	O
+third	O
+line	O
+all	O
+the	O
+fellows	O
+said	O
+.	O
+
+# id = litbank-2067
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = rody kickham was a decent fellow but nasty roche was a stink .
+rody	B-CHARACTER
+kickham	I-CHARACTER
+was	O
+a	O
+decent	O
+fellow	O
+but	O
+nasty	B-CHARACTER
+roche	I-CHARACTER
+was	O
+a	O
+stink	O
+.	O
+
+# id = litbank-2068
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = rody kickham had greaves in his number and a hamper in the refectory .
+rody	B-CHARACTER
+kickham	I-CHARACTER
+had	O
+greaves	O
+in	O
+his	O
+number	O
+and	O
+a	O
+hamper	O
+in	O
+the	O
+refectory	O
+.	O
+
+# id = litbank-2069
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = nasty roche had big hands .
+nasty	B-CHARACTER
+roche	I-CHARACTER
+had	O
+big	O
+hands	O
+.	O
+
+# id = litbank-2070
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = stephen had answered : stephen dedalus .
+stephen	B-CHARACTER
+had	O
+answered	O
+:	O
+stephen	B-CHARACTER
+dedalus	I-CHARACTER
+.	O
+
+# id = litbank-2071
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = then nasty roche had said : -- what kind of a name is that ?
+then	O
+nasty	B-CHARACTER
+roche	I-CHARACTER
+had	O
+said	O
+:	O
+--	O
+what	O
+kind	O
+of	O
+a	O
+name	O
+is	O
+that	O
+?	O
+
+# id = litbank-2072
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = and when stephen had not been able to answer nasty roche had asked : -- what is your father ?
+and	O
+when	O
+stephen	B-CHARACTER
+had	O
+not	O
+been	O
+able	O
+to	O
+answer	O
+nasty	B-CHARACTER
+roche	I-CHARACTER
+had	O
+asked	O
+:	O
+--	O
+what	O
+is	O
+your	O
+father	O
+?	O
+
+# id = litbank-2073
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = stephen had answered : -- a gentleman .
+stephen	B-CHARACTER
+had	O
+answered	O
+:	O
+--	O
+a	O
+gentleman	O
+.	O
+
+# id = litbank-2074
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = then nasty roche had asked : -- is he a magistrate ?
+then	O
+nasty	B-CHARACTER
+roche	I-CHARACTER
+had	O
+asked	O
+:	O
+--	O
+is	O
+he	O
+a	O
+magistrate	O
+?	O
+
+# id = litbank-2075
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = one day a fellow said to cantwell : -- i 'd give you such a belt in a second .
+one	O
+day	O
+a	O
+fellow	O
+said	O
+to	O
+cantwell	B-CHARACTER
+:	O
+--	O
+i	O
+'d	O
+give	O
+you	O
+such	O
+a	O
+belt	O
+in	O
+a	O
+second	O
+.	O
+
+# id = litbank-2076
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = cantwell had answered : -- go and fight your match .
+cantwell	B-CHARACTER
+had	O
+answered	O
+:	O
+--	O
+go	O
+and	O
+fight	O
+your	O
+match	O
+.	O
+
+# id = litbank-2077
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = give cecil thunder a belt .
+give	O
+cecil	B-CHARACTER
+thunder	I-CHARACTER
+a	O
+belt	O
+.	O
+
+# id = litbank-2078
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = they had cried to him from the car , waving their hands : -- goodbye , stephen , goodbye !
+they	O
+had	O
+cried	O
+to	O
+him	O
+from	O
+the	O
+car	O
+,	O
+waving	O
+their	O
+hands	O
+:	O
+--	O
+goodbye	O
+,	O
+stephen	B-CHARACTER
+,	O
+goodbye	O
+!	O
+
+# id = litbank-2079
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = -- goodbye , stephen , goodbye !
+--	O
+goodbye	O
+,	O
+stephen	B-CHARACTER
+,	O
+goodbye	O
+!	O
+
+# id = litbank-2080
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = then jack lawton 's yellow boots dodged out the ball and all the other boots and legs ran after .
+then	O
+jack	B-CHARACTER
+lawton	I-CHARACTER
+'s	O
+yellow	O
+boots	O
+dodged	O
+out	O
+the	O
+ball	O
+and	O
+all	O
+the	O
+other	O
+boots	O
+and	O
+legs	O
+ran	O
+after	O
+.	O
+
+# id = litbank-2081
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = that was mean of wells to shoulder him into the square ditch because he would not swop his little snuff box for wells 's seasoned hacking chestnut , the conqueror of forty .
+that	O
+was	O
+mean	O
+of	O
+wells	B-CHARACTER
+to	O
+shoulder	O
+him	O
+into	O
+the	O
+square	O
+ditch	O
+because	O
+he	O
+would	O
+not	O
+swop	O
+his	O
+little	O
+snuff	O
+box	O
+for	O
+wells	B-CHARACTER
+'s	O
+seasoned	O
+hacking	O
+chestnut	O
+,	O
+the	O
+conqueror	O
+of	O
+forty	O
+.	O
+
+# id = litbank-2082
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = mother was sitting at the fire with dante waiting for brigid to bring in the tea .
+mother	O
+was	O
+sitting	O
+at	O
+the	O
+fire	O
+with	O
+dante	B-CHARACTER
+waiting	O
+for	O
+brigid	B-CHARACTER
+to	O
+bring	O
+in	O
+the	O
+tea	O
+.	O
+
+# id = litbank-2083
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = dante knew a lot of things .
+dante	B-CHARACTER
+knew	O
+a	O
+lot	O
+of	O
+things	O
+.	O
+
+# id = litbank-2084
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = father arnall knew more than dante because he was a priest but both his father and uncle charles said that dante was a clever woman and a well-read woman .
+father	O
+arnall	O
+knew	O
+more	O
+than	O
+dante	B-CHARACTER
+because	O
+he	O
+was	O
+a	O
+priest	O
+but	O
+both	O
+his	O
+father	O
+and	O
+uncle	B-CHARACTER
+charles	I-CHARACTER
+said	O
+that	O
+dante	B-CHARACTER
+was	O
+a	O
+clever	O
+woman	O
+and	O
+a	O
+well-read	O
+woman	O
+.	O
+
+# id = litbank-2085
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = and when dante made that noise after dinner and then put up her hand to her mouth : that was heartburn .
+and	O
+when	O
+dante	B-CHARACTER
+made	O
+that	O
+noise	O
+after	O
+dinner	O
+and	O
+then	O
+put	O
+up	O
+her	O
+hand	O
+to	O
+her	O
+mouth	O
+:	O
+that	O
+was	O
+heartburn	O
+.	O
+
+# id = litbank-2086
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = rody kickham held the ball by its greasy lace .
+rody	B-CHARACTER
+kickham	I-CHARACTER
+held	O
+the	O
+ball	O
+by	O
+its	O
+greasy	O
+lace	O
+.	O
+
+# id = litbank-2087
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = simon moonan told him not to because the prefect was looking .
+simon	B-CHARACTER
+moonan	I-CHARACTER
+told	O
+him	O
+not	O
+to	O
+because	O
+the	O
+prefect	O
+was	O
+looking	O
+.	O
+
+# id = litbank-2088
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = the fellow turned to simon moonan and said : -- we all know why you speak .
+the	O
+fellow	O
+turned	O
+to	O
+simon	B-CHARACTER
+moonan	I-CHARACTER
+and	O
+said	O
+:	O
+--	O
+we	O
+all	O
+know	O
+why	O
+you	O
+speak	O
+.	O
+
+# id = litbank-2089
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = you are mcglade 's suck .
+you	O
+are	O
+mcglade	B-CHARACTER
+'s	O
+suck	O
+.	O
+
+# id = litbank-2090
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = the fellow called simon moonan that name because simon moonan used to tie the prefect 's false sleeves behind his back and the prefect used to let on to be angry .
+the	O
+fellow	O
+called	O
+simon	B-CHARACTER
+moonan	I-CHARACTER
+that	O
+name	O
+because	O
+simon	B-CHARACTER
+moonan	I-CHARACTER
+used	O
+to	O
+tie	O
+the	O
+prefect	O
+'s	O
+false	O
+sleeves	O
+behind	O
+his	O
+back	O
+and	O
+the	O
+prefect	O
+used	O
+to	O
+let	O
+on	O
+to	O
+be	O
+angry	O
+.	O
+
+# id = litbank-2091
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = stephen tried his best , but the sum was too hard and he felt confused .
+stephen	B-CHARACTER
+tried	O
+his	O
+best	O
+,	O
+but	O
+the	O
+sum	O
+was	O
+too	O
+hard	O
+and	O
+he	O
+felt	O
+confused	O
+.	O
+
+# id = litbank-2092
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = then jack lawton cracked his fingers and father arnall looked at his copybook and said : -- right .
+then	O
+jack	B-CHARACTER
+lawton	I-CHARACTER
+cracked	O
+his	O
+fingers	O
+and	O
+father	O
+arnall	O
+looked	O
+at	O
+his	O
+copybook	O
+and	O
+said	O
+:	O
+--	O
+right	O
+.	O
+
+# id = litbank-2093
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = jack lawton looked over from his side .
+jack	B-CHARACTER
+lawton	I-CHARACTER
+looked	O
+over	O
+from	O
+his	O
+side	O
+.	O
+
+# id = litbank-2094
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = stephen felt his own face red too , thinking of all the bets about who would get first place in elements , jack lawton or he .
+stephen	B-CHARACTER
+felt	O
+his	O
+own	O
+face	O
+red	O
+too	O
+,	O
+thinking	O
+of	O
+all	O
+the	O
+bets	O
+about	O
+who	O
+would	O
+get	O
+first	O
+place	O
+in	O
+elements	O
+,	O
+jack	B-CHARACTER
+lawton	I-CHARACTER
+or	O
+he	O
+.	O
+
+# id = litbank-2095
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = some weeks jack lawton got the card for first and some weeks he got the card for first .
+some	O
+weeks	O
+jack	B-CHARACTER
+lawton	I-CHARACTER
+got	O
+the	O
+card	O
+for	O
+first	O
+and	O
+some	O
+weeks	O
+he	O
+got	O
+the	O
+card	O
+for	O
+first	O
+.	O
+
+# id = litbank-2052
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = chapter 1 once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo ... his father told him that story : his father looked at him through a glass : he had a hairy face .
+chapter	O
+1	O
+once	O
+upon	O
+a	O
+time	O
+and	O
+a	O
+very	O
+good	O
+time	O
+it	O
+was	O
+there	O
+was	O
+a	O
+moocow	O
+coming	O
+down	O
+along	O
+the	O
+road	O
+and	O
+this	O
+moocow	O
+that	O
+was	O
+coming	O
+down	O
+along	O
+the	O
+road	O
+met	O
+a	O
+nicens	O
+little	O
+boy	O
+named	O
+baby	O
+tuckoo	O
+...	O
+his	O
+father	O
+told	O
+him	O
+that	O
+story	O
+:	O
+his	O
+father	O
+looked	O
+at	O
+him	O
+through	O
+a	O
+glass	O
+:	O
+he	O
+had	O
+a	O
+hairy	O
+face	O
+.	O
+
+# id = litbank-2054
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = o , the wild rose blossoms on the little green place .
+o	O
+,	O
+the	O
+wild	O
+rose	O
+blossoms	O
+on	O
+the	O
+little	O
+green	O
+place	O
+.	O
+
+# id = litbank-2055
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = when you wet the bed first it is warm then it gets cold .
+when	O
+you	O
+wet	O
+the	O
+bed	O
+first	O
+it	O
+is	O
+warm	O
+then	O
+it	O
+gets	O
+cold	O
+.	O
+
+# id = litbank-2056
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = his mother had a nicer smell than his father .
+his	O
+mother	O
+had	O
+a	O
+nicer	O
+smell	O
+than	O
+his	O
+father	O
+.	O
+
+# id = litbank-2057
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = she played on the piano the sailor 's hornpipe for him to dance .
+she	O
+played	O
+on	O
+the	O
+piano	O
+the	O
+sailor	O
+'s	O
+hornpipe	O
+for	O
+him	O
+to	O
+dance	O
+.	O
+

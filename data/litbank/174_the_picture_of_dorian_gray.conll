@@ -1,0 +1,1093 @@
+# id = litbank-0663
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = from the corner of the divan of persian saddle-bags on which he was lying , smoking , as was his custom , innumerable cigarettes , lord henry wotton could just catch the gleam of the honey-sweet and honey-coloured blossoms of a laburnum , whose tremulous branches seemed hardly able to bear the burden of a beauty so flamelike as theirs ; and now and then the fantastic shadows of birds in flight flitted across the long tussore-silk curtains that were stretched in front of the huge window , producing a kind of momentary japanese effect , and making him think of those pallid , jade-faced painters of tokyo who , through the medium of an art that is necessarily immobile , seek to convey the sense of swiftness and motion .
+from	O
+the	O
+corner	O
+of	O
+the	O
+divan	O
+of	O
+persian	O
+saddle-bags	O
+on	O
+which	O
+he	O
+was	O
+lying	O
+,	O
+smoking	O
+,	O
+as	O
+was	O
+his	O
+custom	O
+,	O
+innumerable	O
+cigarettes	O
+,	O
+lord	B-CHARACTER
+henry	I-CHARACTER
+wotton	I-CHARACTER
+could	O
+just	O
+catch	O
+the	O
+gleam	O
+of	O
+the	O
+honey-sweet	O
+and	O
+honey-coloured	O
+blossoms	O
+of	O
+a	O
+laburnum	O
+,	O
+whose	O
+tremulous	O
+branches	O
+seemed	O
+hardly	O
+able	O
+to	O
+bear	O
+the	O
+burden	O
+of	O
+a	O
+beauty	O
+so	O
+flamelike	O
+as	O
+theirs	O
+;	O
+and	O
+now	O
+and	O
+then	O
+the	O
+fantastic	O
+shadows	O
+of	O
+birds	O
+in	O
+flight	O
+flitted	O
+across	O
+the	O
+long	O
+tussore-silk	O
+curtains	O
+that	O
+were	O
+stretched	O
+in	O
+front	O
+of	O
+the	O
+huge	O
+window	O
+,	O
+producing	O
+a	O
+kind	O
+of	O
+momentary	O
+japanese	O
+effect	O
+,	O
+and	O
+making	O
+him	O
+think	O
+of	O
+those	O
+pallid	O
+,	O
+jade-faced	O
+painters	O
+of	O
+tokyo	O
+who	O
+,	O
+through	O
+the	O
+medium	O
+of	O
+an	O
+art	O
+that	O
+is	O
+necessarily	O
+immobile	O
+,	O
+seek	O
+to	O
+convey	O
+the	O
+sense	O
+of	O
+swiftness	O
+and	O
+motion	O
+.	O
+
+# id = litbank-0666
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = in the centre of the room , clamped to an upright easel , stood the full-length portrait of a young man of extraordinary personal beauty , and in front of it , some little distance away , was sitting the artist himself , basil hallward , whose sudden disappearance some years ago caused , at the time , such public excitement and gave rise to so many strange conjectures .
+in	O
+the	O
+centre	O
+of	O
+the	O
+room	O
+,	O
+clamped	O
+to	O
+an	O
+upright	O
+easel	O
+,	O
+stood	O
+the	O
+full-length	O
+portrait	O
+of	O
+a	O
+young	O
+man	O
+of	O
+extraordinary	O
+personal	O
+beauty	O
+,	O
+and	O
+in	O
+front	O
+of	O
+it	O
+,	O
+some	O
+little	O
+distance	O
+away	O
+,	O
+was	O
+sitting	O
+the	O
+artist	O
+himself	O
+,	O
+basil	B-CHARACTER
+hallward	I-CHARACTER
+,	O
+whose	O
+sudden	O
+disappearance	O
+some	O
+years	O
+ago	O
+caused	O
+,	O
+at	O
+the	O
+time	O
+,	O
+such	O
+public	O
+excitement	O
+and	O
+gave	O
+rise	O
+to	O
+so	O
+many	O
+strange	O
+conjectures	O
+.	O
+
+# id = litbank-0669
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = " it is your best work , basil , the best thing you have ever done , " said lord henry languidly .
+"	O
+it	O
+is	O
+your	O
+best	O
+work	O
+,	O
+basil	B-CHARACTER
+,	O
+the	O
+best	O
+thing	O
+you	O
+have	O
+ever	O
+done	O
+,	O
+"	O
+said	O
+lord	B-CHARACTER
+henry	I-CHARACTER
+languidly	O
+.	O
+
+# id = litbank-0670
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = lord henry elevated his eyebrows and looked at him in amazement through the thin blue wreaths of smoke that curled up in such fanciful whorls from his heavy , opium-tainted cigarette .
+lord	B-CHARACTER
+henry	I-CHARACTER
+elevated	O
+his	O
+eyebrows	O
+and	O
+looked	O
+at	O
+him	O
+in	O
+amazement	O
+through	O
+the	O
+thin	O
+blue	O
+wreaths	O
+of	O
+smoke	O
+that	O
+curled	O
+up	O
+in	O
+such	O
+fanciful	O
+whorls	O
+from	O
+his	O
+heavy	O
+,	O
+opium-tainted	O
+cigarette	O
+.	O
+
+# id = litbank-0671
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = lord henry stretched himself out on the divan and laughed .
+lord	B-CHARACTER
+henry	I-CHARACTER
+stretched	O
+himself	O
+out	O
+on	O
+the	O
+divan	O
+and	O
+laughed	O
+.	O
+
+# id = litbank-0672
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = upon my word , basil , i did n't know you were so vain ; and i really ca n't see any resemblance between you , with your rugged strong face and your coal-black hair , and this young adonis , who looks as if he was made out of ivory and rose-leaves .
+upon	O
+my	O
+word	O
+,	O
+basil	B-CHARACTER
+,	O
+i	O
+did	O
+n't	O
+know	O
+you	O
+were	O
+so	O
+vain	O
+;	O
+and	O
+i	O
+really	O
+ca	O
+n't	O
+see	O
+any	O
+resemblance	O
+between	O
+you	O
+,	O
+with	O
+your	O
+rugged	O
+strong	O
+face	O
+and	O
+your	O
+coal-black	O
+hair	O
+,	O
+and	O
+this	O
+young	O
+adonis	O
+,	O
+who	O
+looks	O
+as	O
+if	O
+he	O
+was	O
+made	O
+out	O
+of	O
+ivory	O
+and	O
+rose-leaves	O
+.	O
+
+# id = litbank-0673
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = why , my dear basil , he is a narcissus , and you -- well , of course you have an intellectual expression and all that .
+why	O
+,	O
+my	O
+dear	O
+basil	B-CHARACTER
+,	O
+he	O
+is	O
+a	O
+narcissus	O
+,	O
+and	O
+you	O
+--	O
+well	O
+,	O
+of	O
+course	O
+you	O
+have	O
+an	O
+intellectual	O
+expression	O
+and	O
+all	O
+that	O
+.	O
+
+# id = litbank-0674
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = do n't flatter yourself , basil : you are not in the least like him . "
+do	O
+n't	O
+flatter	O
+yourself	O
+,	O
+basil	B-CHARACTER
+:	O
+you	O
+are	O
+not	O
+in	O
+the	O
+least	O
+like	O
+him	O
+.	O
+"	O
+
+# id = litbank-0675
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = " you do n't understand me , harry , " answered the artist .
+"	O
+you	O
+do	O
+n't	O
+understand	O
+me	O
+,	O
+harry	B-CHARACTER
+,	O
+"	O
+answered	O
+the	O
+artist	O
+.	O
+
+# id = litbank-0676
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = your rank and wealth , harry ; my brains , such as they are -- my art , whatever it may be worth ; dorian gray 's good looks -- we shall all suffer for what the gods have given us , suffer terribly . "
+your	O
+rank	O
+and	O
+wealth	O
+,	O
+harry	B-CHARACTER
+;	O
+my	O
+brains	O
+,	O
+such	O
+as	O
+they	O
+are	O
+--	O
+my	O
+art	O
+,	O
+whatever	O
+it	O
+may	O
+be	O
+worth	O
+;	O
+dorian	B-CHARACTER
+gray	I-CHARACTER
+'s	O
+good	O
+looks	O
+--	O
+we	O
+shall	O
+all	O
+suffer	O
+for	O
+what	O
+the	O
+gods	O
+have	O
+given	O
+us	O
+,	O
+suffer	O
+terribly	O
+.	O
+"	O
+
+# id = litbank-0677
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = " dorian gray ?
+"	O
+dorian	B-CHARACTER
+gray	I-CHARACTER
+?	O
+
+# id = litbank-0678
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = asked lord henry , walking across the studio towards basil hallward .
+asked	O
+lord	B-CHARACTER
+henry	I-CHARACTER
+,	O
+walking	O
+across	O
+the	O
+studio	O
+towards	O
+basil	B-CHARACTER
+hallward	I-CHARACTER
+.	O
+
+# id = litbank-0679
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = " not at all , " answered lord henry , " not at all , my dear basil .
+"	O
+not	O
+at	O
+all	O
+,	O
+"	O
+answered	O
+lord	B-CHARACTER
+henry	I-CHARACTER
+,	O
+"	O
+not	O
+at	O
+all	O
+,	O
+my	O
+dear	O
+basil	B-CHARACTER
+.	O
+
+# id = litbank-0680
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = " i hate the way you talk about your married life , harry , " said basil hallward , strolling towards the door that led into the garden .
+"	O
+i	O
+hate	O
+the	O
+way	O
+you	O
+talk	O
+about	O
+your	O
+married	O
+life	O
+,	O
+harry	B-CHARACTER
+,	O
+"	O
+said	O
+basil	B-CHARACTER
+hallward	I-CHARACTER
+,	O
+strolling	O
+towards	O
+the	O
+door	O
+that	O
+led	O
+into	O
+the	O
+garden	O
+.	O
+
+# id = litbank-0681
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = " being natural is simply a pose , and the most irritating pose i know , " cried lord henry , laughing ; and the two young men went out into the garden together and ensconced themselves on a long bamboo seat that stood in the shade of a tall laurel bush .
+"	O
+being	O
+natural	O
+is	O
+simply	O
+a	O
+pose	O
+,	O
+and	O
+the	O
+most	O
+irritating	O
+pose	O
+i	O
+know	O
+,	O
+"	O
+cried	O
+lord	B-CHARACTER
+henry	I-CHARACTER
+,	O
+laughing	O
+;	O
+and	O
+the	O
+two	O
+young	O
+men	O
+went	O
+out	O
+into	O
+the	O
+garden	O
+together	O
+and	O
+ensconced	O
+themselves	O
+on	O
+a	O
+long	O
+bamboo	O
+seat	O
+that	O
+stood	O
+in	O
+the	O
+shade	O
+of	O
+a	O
+tall	O
+laurel	O
+bush	O
+.	O
+
+# id = litbank-0682
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = after a pause , lord henry pulled out his watch .
+after	O
+a	O
+pause	O
+,	O
+lord	B-CHARACTER
+henry	I-CHARACTER
+pulled	O
+out	O
+his	O
+watch	O
+.	O
+
+# id = litbank-0683
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = " i am afraid i must be going , basil , " he murmured , " and before i go , i insist on your answering a question i put to you some time ago . "
+"	O
+i	O
+am	O
+afraid	O
+i	O
+must	O
+be	O
+going	O
+,	O
+basil	B-CHARACTER
+,	O
+"	O
+he	O
+murmured	O
+,	O
+"	O
+and	O
+before	O
+i	O
+go	O
+,	O
+i	O
+insist	O
+on	O
+your	O
+answering	O
+a	O
+question	O
+i	O
+put	O
+to	O
+you	O
+some	O
+time	O
+ago	O
+.	O
+"	O
+
+# id = litbank-0684
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = " i do not , harry . "
+"	O
+i	O
+do	O
+not	O
+,	O
+harry	B-CHARACTER
+.	O
+"	O
+
+# id = litbank-0685
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = i want you to explain to me why you wo n't exhibit dorian gray 's picture .
+i	O
+want	O
+you	O
+to	O
+explain	O
+to	O
+me	O
+why	O
+you	O
+wo	O
+n't	O
+exhibit	O
+dorian	B-CHARACTER
+gray	I-CHARACTER
+'s	O
+picture	O
+.	O
+
+# id = litbank-0686
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = " harry , " said basil hallward , looking him straight in the face , " every portrait that is painted with feeling is a portrait of the artist , not of the sitter .
+"	O
+harry	B-CHARACTER
+,	O
+"	O
+said	O
+basil	B-CHARACTER
+hallward	I-CHARACTER
+,	O
+looking	O
+him	O
+straight	O
+in	O
+the	O
+face	O
+,	O
+"	O
+every	O
+portrait	O
+that	O
+is	O
+painted	O
+with	O
+feeling	O
+is	O
+a	O
+portrait	O
+of	O
+the	O
+artist	O
+,	O
+not	O
+of	O
+the	O
+sitter	O
+.	O
+
+# id = litbank-0687
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = lord henry laughed .
+lord	B-CHARACTER
+henry	I-CHARACTER
+laughed	O
+.	O
+
+# id = litbank-0688
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = " i will tell you , " said hallward ; but an expression of perplexity came over his face .
+"	O
+i	O
+will	O
+tell	O
+you	O
+,	O
+"	O
+said	O
+hallward	B-CHARACTER
+;	O
+but	O
+an	O
+expression	O
+of	O
+perplexity	O
+came	O
+over	O
+his	O
+face	O
+.	O
+
+# id = litbank-0662
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = chapter 1 the studio was filled with the rich odour of roses , and when the light summer wind stirred amidst the trees of the garden , there came through the open door the heavy scent of the lilac , or the more delicate perfume of the pink-flowering thorn .
+chapter	O
+1	O
+the	O
+studio	O
+was	O
+filled	O
+with	O
+the	O
+rich	O
+odour	O
+of	O
+roses	O
+,	O
+and	O
+when	O
+the	O
+light	O
+summer	O
+wind	O
+stirred	O
+amidst	O
+the	O
+trees	O
+of	O
+the	O
+garden	O
+,	O
+there	O
+came	O
+through	O
+the	O
+open	O
+door	O
+the	O
+heavy	O
+scent	O
+of	O
+the	O
+lilac	O
+,	O
+or	O
+the	O
+more	O
+delicate	O
+perfume	O
+of	O
+the	O
+pink-flowering	O
+thorn	O
+.	O
+
+# id = litbank-0664
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = the sullen murmur of the bees shouldering their way through the long unmown grass , or circling with monotonous insistence round the dusty gilt horns of the straggling woodbine , seemed to make the stillness more oppressive .
+the	O
+sullen	O
+murmur	O
+of	O
+the	O
+bees	O
+shouldering	O
+their	O
+way	O
+through	O
+the	O
+long	O
+unmown	O
+grass	O
+,	O
+or	O
+circling	O
+with	O
+monotonous	O
+insistence	O
+round	O
+the	O
+dusty	O
+gilt	O
+horns	O
+of	O
+the	O
+straggling	O
+woodbine	O
+,	O
+seemed	O
+to	O
+make	O
+the	O
+stillness	O
+more	O
+oppressive	O
+.	O
+
+# id = litbank-0665
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = the dim roar of london was like the bourdon note of a distant organ .
+the	O
+dim	O
+roar	O
+of	O
+london	O
+was	O
+like	O
+the	O
+bourdon	O
+note	O
+of	O
+a	O
+distant	O
+organ	O
+.	O
+
+# id = litbank-0667
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = as the painter looked at the gracious and comely form he had so skilfully mirrored in his art , a smile of pleasure passed across his face , and seemed about to linger there .
+as	O
+the	O
+painter	O
+looked	O
+at	O
+the	O
+gracious	O
+and	O
+comely	O
+form	O
+he	O
+had	O
+so	O
+skilfully	O
+mirrored	O
+in	O
+his	O
+art	O
+,	O
+a	O
+smile	O
+of	O
+pleasure	O
+passed	O
+across	O
+his	O
+face	O
+,	O
+and	O
+seemed	O
+about	O
+to	O
+linger	O
+there	O
+.	O
+
+# id = litbank-0668
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = but he suddenly started up , and closing his eyes , placed his fingers upon the lids , as though he sought to imprison within his brain some curious dream from which he feared he might awake .
+but	O
+he	O
+suddenly	O
+started	O
+up	O
+,	O
+and	O
+closing	O
+his	O
+eyes	O
+,	O
+placed	O
+his	O
+fingers	O
+upon	O
+the	O
+lids	O
+,	O
+as	O
+though	O
+he	O
+sought	O
+to	O
+imprison	O
+within	O
+his	O
+brain	O
+some	O
+curious	O
+dream	O
+from	O
+which	O
+he	O
+feared	O
+he	O
+might	O
+awake	O
+.	O
+

@@ -1,0 +1,414 @@
+# id = litbank-0763
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = mrs. morel was not anxious to move into the bottoms , which was already twelve years old and on the downward path , when she descended to it from bestwood .
+mrs.	B-CHARACTER
+morel	I-CHARACTER
+was	O
+not	O
+anxious	O
+to	O
+move	O
+into	O
+the	O
+bottoms	O
+,	O
+which	O
+was	O
+already	O
+twelve	O
+years	O
+old	O
+and	O
+on	O
+the	O
+downward	O
+path	O
+,	O
+when	O
+she	O
+descended	O
+to	O
+it	O
+from	O
+bestwood	O
+.	O
+
+# id = litbank-0764
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = but this superiority in station was not much consolation to mrs. morel .
+but	O
+this	O
+superiority	O
+in	O
+station	O
+was	O
+not	O
+much	O
+consolation	O
+to	O
+mrs.	B-CHARACTER
+morel	I-CHARACTER
+.	O
+
+# id = litbank-0765
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = morel , she knew , was sure to make a holiday of it .
+morel	B-CHARACTER
+,	O
+she	O
+knew	O
+,	O
+was	O
+sure	O
+to	O
+make	O
+a	O
+holiday	O
+of	O
+it	O
+.	O
+
+# id = litbank-0766
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = william , a boy of seven , fled off immediately after breakfast , to prowl round the wakes ground , leaving annie , who was only five , to whine all morning to go also .
+william	B-CHARACTER
+,	O
+a	O
+boy	O
+of	O
+seven	O
+,	O
+fled	O
+off	O
+immediately	O
+after	O
+breakfast	O
+,	O
+to	O
+prowl	O
+round	O
+the	O
+wakes	O
+ground	O
+,	O
+leaving	O
+annie	B-CHARACTER
+,	O
+who	O
+was	O
+only	O
+five	O
+,	O
+to	O
+whine	O
+all	O
+morning	O
+to	O
+go	O
+also	O
+.	O
+
+# id = litbank-0767
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = mrs. morel did her work .
+mrs.	B-CHARACTER
+morel	I-CHARACTER
+did	O
+her	O
+work	O
+.	O
+
+# id = litbank-0768
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = william appeared at half-past twelve .
+william	B-CHARACTER
+appeared	O
+at	O
+half-past	O
+twelve	O
+.	O
+
+# id = litbank-0769
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = “ i want to go , i want to go , ” said annie , beginning to cry .
+“	O
+i	O
+want	O
+to	O
+go	O
+,	O
+i	O
+want	O
+to	O
+go	O
+,	O
+”	O
+said	O
+annie	B-CHARACTER
+,	O
+beginning	O
+to	O
+cry	O
+.	O
+
+# id = litbank-0770
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = mrs. morel did not like the wakes .
+mrs.	B-CHARACTER
+morel	I-CHARACTER
+did	O
+not	O
+like	O
+the	O
+wakes	O
+.	O
+
+# id = litbank-0771
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = she left him alone , and went to get annie a spin of toffee .
+she	O
+left	O
+him	O
+alone	O
+,	O
+and	O
+went	O
+to	O
+get	O
+annie	B-CHARACTER
+a	O
+spin	O
+of	O
+toffee	O
+.	O
+
+# id = litbank-0758
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = part one chapter i the early married life of the morels “ the bottoms ” succeeded to “ hell row ” .
+part	O
+one	O
+chapter	O
+i	O
+the	O
+early	O
+married	O
+life	O
+of	O
+the	O
+morels	O
+“	O
+the	O
+bottoms	O
+”	O
+succeeded	O
+to	O
+“	O
+hell	O
+row	O
+”	O
+.	O
+
+# id = litbank-0759
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = hell row was a block of thatched , bulging cottages that stood by the brookside on greenhill lane .
+hell	O
+row	O
+was	O
+a	O
+block	O
+of	O
+thatched	O
+,	O
+bulging	O
+cottages	O
+that	O
+stood	O
+by	O
+the	O
+brookside	O
+on	O
+greenhill	O
+lane	O
+.	O
+
+# id = litbank-0760
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = there lived the colliers who worked in the little gin-pits two fields away .
+there	O
+lived	O
+the	O
+colliers	O
+who	O
+worked	O
+in	O
+the	O
+little	O
+gin-pits	O
+two	O
+fields	O
+away	O
+.	O
+
+# id = litbank-0761
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = the brook ran under the alder trees , scarcely soiled by these small mines , whose coal was drawn to the surface by donkeys that plodded wearily in a circle round a gin .
+the	O
+brook	O
+ran	O
+under	O
+the	O
+alder	O
+trees	O
+,	O
+scarcely	O
+soiled	O
+by	O
+these	O
+small	O
+mines	O
+,	O
+whose	O
+coal	O
+was	O
+drawn	O
+to	O
+the	O
+surface	O
+by	O
+donkeys	O
+that	O
+plodded	O
+wearily	O
+in	O
+a	O
+circle	O
+round	O
+a	O
+gin	O
+.	O
+
+# id = litbank-0762
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = and all over the countryside were these same pits , some of which had been worked in the time of charles ii , the few colliers and the donkeys burrowing down like ants into the earth , making queer mounds and little black places among the corn-fields and the meadows .
+and	O
+all	O
+over	O
+the	O
+countryside	O
+were	O
+these	O
+same	O
+pits	O
+,	O
+some	O
+of	O
+which	O
+had	O
+been	O
+worked	O
+in	O
+the	O
+time	O
+of	O
+charles	O
+ii	O
+,	O
+the	O
+few	O
+colliers	O
+and	O
+the	O
+donkeys	O
+burrowing	O
+down	O
+like	O
+ants	O
+into	O
+the	O
+earth	O
+,	O
+making	O
+queer	O
+mounds	O
+and	O
+little	O
+black	O
+places	O
+among	O
+the	O
+corn-fields	O
+and	O
+the	O
+meadows	O
+.	O
+

@@ -190,9 +190,12 @@ def load_conll_file(path: Path, label2id: dict) -> List[dict]:
     return rows
 
 
-def find_conll_files(data_dir: Path, filename: str) -> List[Path]:
+EVAL_SPLIT_CONLL_FILENAMES = {"validation.conll", "test.conll"}
+
+
+def find_conll_files(data_dir: Path, pattern: str = "*.conll") -> List[Path]:
     return sorted(
-        path for path in data_dir.rglob(filename)
+        path for path in data_dir.rglob(pattern)
         if path.is_file()
     )
 
@@ -201,14 +204,25 @@ def load_split_rows(data_dir: Path, split_name: str, label2id: dict) -> List[dic
     """
     Load a split in this order:
 
-    1. For train: recursively load every **/train.conll
+    1. For train: recursively load every **/*.conll
     2. For validation/test: recursively load every **/validation.conll or **/test.conll
     3. If no conll files found, fallback to data_dir/<split>.jsonl
     """
-    conll_files = find_conll_files(data_dir, f"{split_name}.conll")
+    if split_name == "train":
+        conll_pattern = "*.conll"
+        conll_files = [
+            path for path in find_conll_files(data_dir, conll_pattern)
+            if path.name not in EVAL_SPLIT_CONLL_FILENAMES
+        ]
+    else:
+        conll_pattern = f"{split_name}.conll"
+        conll_files = find_conll_files(data_dir, conll_pattern)
 
     if conll_files:
-        print(f"\nFound {len(conll_files)} {split_name}.conll file(s):")
+        print(
+            f"\nFound {len(conll_files)} CoNLL file(s) for {split_name} "
+            f"using pattern **/{conll_pattern}:"
+        )
         for file in conll_files:
             print(f"  - {file}")
 
@@ -226,23 +240,93 @@ def load_split_rows(data_dir: Path, split_name: str, label2id: dict) -> List[dic
 
     return []
 
+def print_rows_summary(name: str, rows: List[dict]):
+    token_count = sum(len(row["tokens"]) for row in rows)
+    character_span_count = sum(
+        1
+        for row in rows
+        for label in row["labels"]
+        if label.startswith("B-")
+    )
 
-def build_dataset_dict(data_dir: Path, label2id: dict, seed: int = 42) -> DatasetDict:
+    print(
+        f"{name}: "
+        f"{len(rows)} rows, "
+        f"{token_count} tokens, "
+        f"{character_span_count} character spans"
+    )
+
+def build_dataset_dict(
+    data_dir: Path,
+    label2id: dict,
+    seed: int = 42,
+    split_from_train: bool = False,
+    validation_ratio: float = 0.1,
+    test_ratio: float = 0.1,
+) -> DatasetDict:
     train_rows = load_split_rows(data_dir, "train", label2id)
-    validation_rows = load_split_rows(data_dir, "validation", label2id)
-    test_rows = load_split_rows(data_dir, "test", label2id)
 
     if not train_rows:
         raise ValueError(
-            f"No training data found. Expected at least one train.conll under {data_dir} "
-            f"or {data_dir / 'train.jsonl'}"
+            f"No training data found. Expected at least one .conll file under {data_dir} "
+            f"or {data_dir / 'gpt_generated.jsonl'}"
         )
 
-    print(f"\nLoaded train rows: {len(train_rows)}")
-    print(f"Loaded validation rows: {len(validation_rows)}")
-    print(f"Loaded test rows: {len(test_rows)}")
+    if split_from_train:
+        print(
+            "\n--split_from_train enabled. "
+            "Ignoring validation/test files and splitting from merged train rows."
+        )
 
-    # If validation and test exist, use them directly.
+        total_eval_ratio = validation_ratio + test_ratio
+
+        if total_eval_ratio <= 0 or total_eval_ratio >= 1:
+            raise ValueError(
+                f"validation_ratio + test_ratio must be > 0 and < 1. "
+                f"Got {validation_ratio} + {test_ratio} = {total_eval_ratio}"
+            )
+
+        full = Dataset.from_list(train_rows)
+
+        train_temp = full.train_test_split(
+            test_size=total_eval_ratio,
+            seed=seed,
+            shuffle=True,
+        )
+
+        relative_test_ratio = test_ratio / total_eval_ratio
+
+        validation_test = train_temp["test"].train_test_split(
+            test_size=relative_test_ratio,
+            seed=seed,
+            shuffle=True,
+        )
+
+        train_dataset = train_temp["train"]
+        validation_dataset = validation_test["train"]
+        test_dataset = validation_test["test"]
+
+        print("\nFinal dataset split:")
+        print(f"train:      {len(train_dataset)} rows")
+        print(f"validation: {len(validation_dataset)} rows")
+        print(f"test:       {len(test_dataset)} rows")
+
+        return DatasetDict(
+            {
+                "train": train_dataset,
+                "validation": validation_dataset,
+                "test": test_dataset,
+            }
+        )
+
+    validation_rows = load_split_rows(data_dir, "validation", label2id)
+    test_rows = load_split_rows(data_dir, "test", label2id)
+
+    print("\nLoaded rows before dataset creation:")
+    print_rows_summary("train", train_rows)
+    print_rows_summary("validation", validation_rows)
+    print_rows_summary("test", test_rows)
+
     if validation_rows and test_rows:
         return DatasetDict(
             {
@@ -252,7 +336,6 @@ def build_dataset_dict(data_dir: Path, label2id: dict, seed: int = 42) -> Datase
             }
         )
 
-    # Otherwise, auto-split the merged train data.
     print(
         "\nNo complete validation/test split found. "
         "Auto-splitting merged train data into 80% train, 10% validation, 10% test."
@@ -427,6 +510,9 @@ def main():
     parser.add_argument("--epochs", type=float, default=5)
     parser.add_argument("--batch_size", type=int, default=16)
     parser.add_argument("--learning_rate", type=float, default=5e-5)
+    parser.add_argument("--split_from_train", action="store_true")
+    parser.add_argument("--validation_ratio", type=float, default=0.1)
+    parser.add_argument("--test_ratio", type=float, default=0.1)
     args = parser.parse_args()
 
     data_dir = Path(args.data_dir)
@@ -439,7 +525,15 @@ def main():
         data_dir=data_dir,
         label2id=label2id,
         seed=42,
+        split_from_train=args.split_from_train,
+        validation_ratio=args.validation_ratio,
+        test_ratio=args.test_ratio,
     )
+
+    print("\nDataset used for training:")
+    print(f"train:      {len(dataset['train'])} rows")
+    print(f"validation: {len(dataset['validation'])} rows")
+    print(f"test:       {len(dataset['test'])} rows")
 
     tokenizer = AutoTokenizer.from_pretrained(args.model_name)
 

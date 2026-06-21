@@ -1,0 +1,970 @@
+# id = litbank-0793
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = dear judy : your letter is here .
+dear	O
+judy	B-CHARACTER
+:	O
+your	O
+letter	O
+is	O
+here	O
+.	O
+
+# id = litbank-0795
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = do i understand that jervis has given you , for a christmas present , the making over of the john grier home into a model institution , and that you have chosen me to disburse the money ?
+do	O
+i	O
+understand	O
+that	O
+jervis	B-CHARACTER
+has	O
+given	O
+you	O
+,	O
+for	O
+a	O
+christmas	O
+present	O
+,	O
+the	O
+making	O
+over	O
+of	O
+the	O
+john	B-CHARACTER
+grier	I-CHARACTER
+home	O
+into	O
+a	O
+model	O
+institution	O
+,	O
+and	O
+that	O
+you	O
+have	O
+chosen	O
+me	O
+to	O
+disburse	O
+the	O
+money	O
+?	O
+
+# id = litbank-0796
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = me -- i , sallie mcbride , the head of an orphan asylum !
+me	O
+--	O
+i	O
+,	O
+sallie	B-CHARACTER
+mcbride	I-CHARACTER
+,	O
+the	O
+head	O
+of	O
+an	O
+orphan	O
+asylum	O
+!	O
+
+# id = litbank-0800
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = my dear judy , -- likewise my dear jervis , -- i see through you !
+my	O
+dear	O
+judy	B-CHARACTER
+,	O
+--	O
+likewise	O
+my	O
+dear	O
+jervis	B-CHARACTER
+,	O
+--	O
+i	O
+see	O
+through	O
+you	O
+!	O
+
+# id = litbank-0801
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = " is n't it a pity that sallie has n't amounted to more since she left college ?
+"	O
+is	O
+n't	O
+it	O
+a	O
+pity	O
+that	O
+sallie	B-CHARACTER
+has	O
+n't	O
+amounted	O
+to	O
+more	O
+since	O
+she	O
+left	O
+college	O
+?	O
+
+# id = litbank-0802
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = also [ jervis speaks ] she is getting interested in that confounded young hallock , too good-looking and fascinating and erratic ; i never did like politicians .
+also	O
+[	O
+jervis	B-CHARACTER
+speaks	O
+]	O
+she	O
+is	O
+getting	O
+interested	O
+in	O
+that	O
+confounded	O
+young	O
+hallock	B-CHARACTER
+,	O
+too	O
+good-looking	O
+and	O
+fascinating	O
+and	O
+erratic	O
+;	O
+i	O
+never	O
+did	O
+like	O
+politicians	O
+.	O
+
+# id = litbank-0803
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = we will put her in charge of the john grier home . "
+we	O
+will	O
+put	O
+her	O
+in	O
+charge	O
+of	O
+the	O
+john	B-CHARACTER
+grier	I-CHARACTER
+home	O
+.	O
+"	O
+
+# id = litbank-0804
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = on the occasion of my last visit in your delectable household jervis and i had a very solemn conversation in regard to ( 1 ) marriage , ( 2 ) the low ideals of politicians , ( 3 ) the frivolous , useless lives that society women lead .
+on	O
+the	O
+occasion	O
+of	O
+my	O
+last	O
+visit	O
+in	O
+your	O
+delectable	O
+household	O
+jervis	B-CHARACTER
+and	O
+i	O
+had	O
+a	O
+very	O
+solemn	O
+conversation	O
+in	O
+regard	O
+to	O
+(	O
+1	O
+)	O
+marriage	O
+,	O
+(	O
+2	O
+)	O
+the	O
+low	O
+ideals	O
+of	O
+politicians	O
+,	O
+(	O
+3	O
+)	O
+the	O
+frivolous	O
+,	O
+useless	O
+lives	O
+that	O
+society	O
+women	O
+lead	O
+.	O
+
+# id = litbank-0805
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = also let me assure you that the politician is not dangerously imminent ; and that , anyway , he is a very desirable politician , even though his views on tariff and single tax and trade-unionism do not exactly coincide with jervis 's .
+also	O
+let	O
+me	O
+assure	O
+you	O
+that	O
+the	O
+politician	O
+is	O
+not	O
+dangerously	O
+imminent	O
+;	O
+and	O
+that	O
+,	O
+anyway	O
+,	O
+he	O
+is	O
+a	O
+very	O
+desirable	O
+politician	O
+,	O
+even	O
+though	O
+his	O
+views	O
+on	O
+tariff	O
+and	O
+single	O
+tax	O
+and	O
+trade-unionism	O
+do	O
+not	O
+exactly	O
+coincide	O
+with	O
+jervis	B-CHARACTER
+'s	O
+.	O
+
+# id = litbank-0806
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = i dash to pack them ; so telegraph fast if you do n't wish to see me for myself alone , but only as a successor to mrs. lippett .
+i	O
+dash	O
+to	O
+pack	O
+them	O
+;	O
+so	O
+telegraph	O
+fast	O
+if	O
+you	O
+do	O
+n't	O
+wish	O
+to	O
+see	O
+me	O
+for	O
+myself	O
+alone	O
+,	O
+but	O
+only	O
+as	O
+a	O
+successor	O
+to	O
+mrs.	B-CHARACTER
+lippett	I-CHARACTER
+.	O
+
+# id = litbank-0807
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = yours as ever , entirely frivolous , and intending to remain so , sallie mcbride .
+yours	O
+as	O
+ever	O
+,	O
+entirely	O
+frivolous	O
+,	O
+and	O
+intending	O
+to	O
+remain	O
+so	O
+,	O
+sallie	B-CHARACTER
+mcbride	I-CHARACTER
+.	O
+
+# id = litbank-0808
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = a charming young politician named gordon hallock is to be in new york next week .
+a	O
+charming	O
+young	O
+politician	O
+named	O
+gordon	B-CHARACTER
+hallock	I-CHARACTER
+is	O
+to	O
+be	O
+in	O
+new	O
+york	O
+next	O
+week	O
+.	O
+
+# id = litbank-0809
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = sallie taking her afternoon walk as judy would like to see her : i ask you again , have you both gone mad ?
+sallie	B-CHARACTER
+taking	O
+her	O
+afternoon	O
+walk	O
+as	O
+judy	B-CHARACTER
+would	O
+like	O
+to	O
+see	O
+her	O
+:	O
+i	O
+ask	O
+you	O
+again	O
+,	O
+have	O
+you	O
+both	O
+gone	O
+mad	O
+?	O
+
+# id = litbank-0810
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = the john grier home , february 15 .
+the	O
+john	B-CHARACTER
+grier	I-CHARACTER
+home	O
+,	O
+february	O
+15	O
+.	O
+
+# id = litbank-0811
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = dear judy : we arrived in a snowstorm at eleven last night , singapore and jane and i .
+dear	O
+judy	B-CHARACTER
+:	O
+we	O
+arrived	O
+in	O
+a	O
+snowstorm	O
+at	O
+eleven	O
+last	O
+night	O
+,	O
+singapore	O
+and	O
+jane	B-CHARACTER
+and	O
+i	O
+.	O
+
+# id = litbank-0812
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = jane did not fare much better .
+jane	B-CHARACTER
+did	O
+not	O
+fare	O
+much	O
+better	O
+.	O
+
+# id = litbank-0813
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = really , judy , i never knew there was any spot in the world so entirely ugly ; and when i saw those rows and rows of pale , listless , blue-uniformed children , the whole dismal business suddenly struck me with such a shock that i almost collapsed .
+really	O
+,	O
+judy	B-CHARACTER
+,	O
+i	O
+never	O
+knew	O
+there	O
+was	O
+any	O
+spot	O
+in	O
+the	O
+world	O
+so	O
+entirely	O
+ugly	O
+;	O
+and	O
+when	O
+i	O
+saw	O
+those	O
+rows	O
+and	O
+rows	O
+of	O
+pale	O
+,	O
+listless	O
+,	O
+blue-uniformed	O
+children	O
+,	O
+the	O
+whole	O
+dismal	O
+business	O
+suddenly	O
+struck	O
+me	O
+with	O
+such	O
+a	O
+shock	O
+that	O
+i	O
+almost	O
+collapsed	O
+.	O
+
+# id = litbank-0814
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = i plunged into this thing lightly enough , partly because you were too persuasive , and mostly , i honestly think , because that scurrilous gordon hallock laughed so uproariously at the idea of my being able to manage an asylum .
+i	O
+plunged	O
+into	O
+this	O
+thing	O
+lightly	O
+enough	O
+,	O
+partly	O
+because	O
+you	O
+were	O
+too	O
+persuasive	O
+,	O
+and	O
+mostly	O
+,	O
+i	O
+honestly	O
+think	O
+,	O
+because	O
+that	O
+scurrilous	O
+gordon	B-CHARACTER
+hallock	I-CHARACTER
+laughed	O
+so	O
+uproariously	O
+at	O
+the	O
+idea	O
+of	O
+my	O
+being	O
+able	O
+to	O
+manage	O
+an	O
+asylum	O
+.	O
+
+# id = litbank-0815
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = jane says dinner 's ready .
+jane	B-CHARACTER
+says	O
+dinner	O
+'s	O
+ready	O
+.	O
+
+# id = litbank-0816
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = it dealt with all the wonderful new changes that are to come to the john grier home through the generosity of mr. jervis pendleton , the president of our board of trustees , and of mrs. pendleton , the dear " aunt judy " of every little boy and girl here .
+it	O
+dealt	O
+with	O
+all	O
+the	O
+wonderful	O
+new	O
+changes	O
+that	O
+are	O
+to	O
+come	O
+to	O
+the	O
+john	B-CHARACTER
+grier	I-CHARACTER
+home	O
+through	O
+the	O
+generosity	O
+of	O
+mr.	B-CHARACTER
+jervis	I-CHARACTER
+pendleton	I-CHARACTER
+,	O
+the	O
+president	O
+of	O
+our	O
+board	O
+of	O
+trustees	O
+,	O
+and	O
+of	O
+mrs.	B-CHARACTER
+pendleton	I-CHARACTER
+,	O
+the	O
+dear	O
+"	O
+aunt	O
+judy	O
+"	O
+of	O
+every	O
+little	O
+boy	O
+and	O
+girl	O
+here	O
+.	O
+
+# id = litbank-0817
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = i have n't seen jervis 's wonderful scotch doctor yet , but i assure you that he will have to be very wonderful to make up for the rest of these people , especially the kindergarten teacher .
+i	O
+have	O
+n't	O
+seen	O
+jervis	B-CHARACTER
+'s	O
+wonderful	O
+scotch	O
+doctor	O
+yet	O
+,	O
+but	O
+i	O
+assure	O
+you	O
+that	O
+he	O
+will	O
+have	O
+to	O
+be	O
+very	O
+wonderful	O
+to	O
+make	O
+up	O
+for	O
+the	O
+rest	O
+of	O
+these	O
+people	O
+,	O
+especially	O
+the	O
+kindergarten	O
+teacher	O
+.	O
+
+# id = litbank-0818
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = miss snaith and i clashed early on the subject of fresh air ; but i intend to get rid of this dreadful institution smell , if i freeze every child into a little ice statue .
+miss	B-CHARACTER
+snaith	I-CHARACTER
+and	O
+i	O
+clashed	O
+early	O
+on	O
+the	O
+subject	O
+of	O
+fresh	O
+air	O
+;	O
+but	O
+i	O
+intend	O
+to	O
+get	O
+rid	O
+of	O
+this	O
+dreadful	O
+institution	O
+smell	O
+,	O
+if	O
+i	O
+freeze	O
+every	O
+child	O
+into	O
+a	O
+little	O
+ice	O
+statue	O
+.	O
+
+# id = litbank-0819
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = there are a million things i want to grumble about , but it 's half-past ten , and jane says i must go to bed .
+there	O
+are	O
+a	O
+million	O
+things	O
+i	O
+want	O
+to	O
+grumble	O
+about	O
+,	O
+but	O
+it	O
+'s	O
+half-past	O
+ten	O
+,	O
+and	O
+jane	B-CHARACTER
+says	O
+i	O
+must	O
+go	O
+to	O
+bed	O
+.	O
+
+# id = litbank-0820
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = yours in command , sallie mcbride .
+yours	O
+in	O
+command	O
+,	O
+sallie	B-CHARACTER
+mcbride	I-CHARACTER
+.	O
+
+# id = litbank-0821
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = miss snaith softly closing the windows in the babies ' dormitory !
+miss	B-CHARACTER
+snaith	I-CHARACTER
+softly	O
+closing	O
+the	O
+windows	O
+in	O
+the	O
+babies	O
+'	O
+dormitory	O
+!	O
+
+# id = litbank-0792
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = stone gate , worcester , massachusetts , december 27 .
+stone	O
+gate	O
+,	O
+worcester	O
+,	O
+massachusetts	O
+,	O
+december	O
+27	O
+.	O
+
+# id = litbank-0794
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = i have read it twice , and with amazement .
+i	O
+have	O
+read	O
+it	O
+twice	O
+,	O
+and	O
+with	O
+amazement	O
+.	O
+
+# id = litbank-0797
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = my poor people , have you lost your senses , or have you become addicted to the use of opium , and is this the raving of two fevered imaginations ?
+my	O
+poor	O
+people	O
+,	O
+have	O
+you	O
+lost	O
+your	O
+senses	O
+,	O
+or	O
+have	O
+you	O
+become	O
+addicted	O
+to	O
+the	O
+use	O
+of	O
+opium	O
+,	O
+and	O
+is	O
+this	O
+the	O
+raving	O
+of	O
+two	O
+fevered	O
+imaginations	O
+?	O
+
+# id = litbank-0798
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = i am exactly as well fitted to take care of one hundred children as to become the curator of a zoo .
+i	O
+am	O
+exactly	O
+as	O
+well	O
+fitted	O
+to	O
+take	O
+care	O
+of	O
+one	O
+hundred	O
+children	O
+as	O
+to	O
+become	O
+the	O
+curator	O
+of	O
+a	O
+zoo	O
+.	O
+
+# id = litbank-0799
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = and you offer as bait an interesting scotch doctor ?
+and	O
+you	O
+offer	O
+as	O
+bait	O
+an	O
+interesting	O
+scotch	O
+doctor	O
+?	O
+

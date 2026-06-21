@@ -1,0 +1,1959 @@
+# id = litbank-1145
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = chapter i chiswick mall while the present century was in its teens , and on one sunshiny morning in june , there drove up to the great iron gate of miss pinkerton 's academy for young ladies , on chiswick mall , a large family coach , with two fat horses in blazing harness , driven by a fat coachman in a three-cornered hat and wig , at the rate of four miles an hour .
+chapter	O
+i	O
+chiswick	O
+mall	O
+while	O
+the	O
+present	O
+century	O
+was	O
+in	O
+its	O
+teens	O
+,	O
+and	O
+on	O
+one	O
+sunshiny	O
+morning	O
+in	O
+june	O
+,	O
+there	O
+drove	O
+up	O
+to	O
+the	O
+great	O
+iron	O
+gate	O
+of	O
+miss	B-CHARACTER
+pinkerton	I-CHARACTER
+'s	O
+academy	O
+for	O
+young	O
+ladies	O
+,	O
+on	O
+chiswick	O
+mall	O
+,	O
+a	O
+large	O
+family	O
+coach	O
+,	O
+with	O
+two	O
+fat	O
+horses	O
+in	O
+blazing	O
+harness	O
+,	O
+driven	O
+by	O
+a	O
+fat	O
+coachman	O
+in	O
+a	O
+three-cornered	O
+hat	O
+and	O
+wig	O
+,	O
+at	O
+the	O
+rate	O
+of	O
+four	O
+miles	O
+an	O
+hour	O
+.	O
+
+# id = litbank-1146
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = a black servant , who reposed on the box beside the fat coachman , uncurled his bandy legs as soon as the equipage drew up opposite miss pinkerton 's shining brass plate , and as he pulled the bell at least a score of young heads were seen peering out of the narrow windows of the stately old brick house .
+a	O
+black	O
+servant	O
+,	O
+who	O
+reposed	O
+on	O
+the	O
+box	O
+beside	O
+the	O
+fat	O
+coachman	O
+,	O
+uncurled	O
+his	O
+bandy	O
+legs	O
+as	O
+soon	O
+as	O
+the	O
+equipage	O
+drew	O
+up	O
+opposite	O
+miss	B-CHARACTER
+pinkerton	I-CHARACTER
+'s	O
+shining	O
+brass	O
+plate	O
+,	O
+and	O
+as	O
+he	O
+pulled	O
+the	O
+bell	O
+at	O
+least	O
+a	O
+score	O
+of	O
+young	O
+heads	O
+were	O
+seen	O
+peering	O
+out	O
+of	O
+the	O
+narrow	O
+windows	O
+of	O
+the	O
+stately	O
+old	O
+brick	O
+house	O
+.	O
+
+# id = litbank-1147
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = nay , the acute observer might have recognized the little red nose of good-natured miss jemima pinkerton herself , rising over some geranium pots in the window of that lady 's own drawing-room .
+nay	O
+,	O
+the	O
+acute	O
+observer	O
+might	O
+have	O
+recognized	O
+the	O
+little	O
+red	O
+nose	O
+of	O
+good-natured	O
+miss	B-CHARACTER
+jemima	I-CHARACTER
+pinkerton	I-CHARACTER
+herself	O
+,	O
+rising	O
+over	O
+some	O
+geranium	O
+pots	O
+in	O
+the	O
+window	O
+of	O
+that	O
+lady	O
+'s	O
+own	O
+drawing-room	O
+.	O
+
+# id = litbank-1148
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = " it is mrs. sedley 's coach , sister , " said miss jemima .
+"	O
+it	O
+is	O
+mrs.	B-CHARACTER
+sedley	I-CHARACTER
+'s	O
+coach	O
+,	O
+sister	O
+,	O
+"	O
+said	O
+miss	B-CHARACTER
+jemima	I-CHARACTER
+.	O
+
+# id = litbank-1149
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = " sambo , the black servant , has just rung the bell ; and the coachman has a new red waistcoat . "
+"	O
+sambo	B-CHARACTER
+,	O
+the	O
+black	O
+servant	O
+,	O
+has	O
+just	O
+rung	O
+the	O
+bell	O
+;	O
+and	O
+the	O
+coachman	O
+has	O
+a	O
+new	O
+red	O
+waistcoat	O
+.	O
+"	O
+
+# id = litbank-1150
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = " have you completed all the necessary preparations incident to miss sedley 's departure , miss jemima ? "
+"	O
+have	O
+you	O
+completed	O
+all	O
+the	O
+necessary	O
+preparations	O
+incident	O
+to	O
+miss	B-CHARACTER
+sedley	I-CHARACTER
+'s	O
+departure	O
+,	O
+miss	B-CHARACTER
+jemima	I-CHARACTER
+?	O
+"	O
+
+# id = litbank-1151
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = asked miss pinkerton herself , that majestic lady ; the semiramis of hammersmith , the friend of doctor johnson , the correspondent of mrs. chapone herself .
+asked	O
+miss	B-CHARACTER
+pinkerton	I-CHARACTER
+herself	O
+,	O
+that	O
+majestic	O
+lady	O
+;	O
+the	O
+semiramis	O
+of	O
+hammersmith	O
+,	O
+the	O
+friend	O
+of	O
+doctor	O
+johnson	O
+,	O
+the	O
+correspondent	O
+of	O
+mrs.	O
+chapone	O
+herself	O
+.	O
+
+# id = litbank-1152
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = " the girls were up at four this morning , packing her trunks , sister , " replied miss jemima ; " we have made her a bow-pot . "
+"	O
+the	O
+girls	O
+were	O
+up	O
+at	O
+four	O
+this	O
+morning	O
+,	O
+packing	O
+her	O
+trunks	O
+,	O
+sister	O
+,	O
+"	O
+replied	O
+miss	B-CHARACTER
+jemima	I-CHARACTER
+;	O
+"	O
+we	O
+have	O
+made	O
+her	O
+a	O
+bow-pot	O
+.	O
+"	O
+
+# id = litbank-1153
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = " say a bouquet , sister jemima , 't is more genteel . "
+"	O
+say	O
+a	O
+bouquet	O
+,	O
+sister	O
+jemima	B-CHARACTER
+,	O
+'t	O
+is	O
+more	O
+genteel	O
+.	O
+"	O
+
+# id = litbank-1154
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = " well , a booky as big almost as a haystack ; i have put up two bottles of the gillyflower water for mrs. sedley , and the receipt for making it , in amelia 's box . "
+"	O
+well	O
+,	O
+a	O
+booky	O
+as	O
+big	O
+almost	O
+as	O
+a	O
+haystack	O
+;	O
+i	O
+have	O
+put	O
+up	O
+two	O
+bottles	O
+of	O
+the	O
+gillyflower	O
+water	O
+for	O
+mrs.	B-CHARACTER
+sedley	I-CHARACTER
+,	O
+and	O
+the	O
+receipt	O
+for	O
+making	O
+it	O
+,	O
+in	O
+amelia	B-CHARACTER
+'s	O
+box	O
+.	O
+"	O
+
+# id = litbank-1155
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = " and i trust , miss jemima , you have made a copy of miss sedley 's account .
+"	O
+and	O
+i	O
+trust	O
+,	O
+miss	B-CHARACTER
+jemima	I-CHARACTER
+,	O
+you	O
+have	O
+made	O
+a	O
+copy	O
+of	O
+miss	B-CHARACTER
+sedley	I-CHARACTER
+'s	O
+account	O
+.	O
+
+# id = litbank-1157
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = be kind enough to address it to john sedley , esquire , and to seal this billet which i have written to his lady . "
+be	O
+kind	O
+enough	O
+to	O
+address	O
+it	O
+to	O
+john	B-CHARACTER
+sedley	I-CHARACTER
+,	O
+esquire	O
+,	O
+and	O
+to	O
+seal	O
+this	O
+billet	O
+which	O
+i	O
+have	O
+written	O
+to	O
+his	O
+lady	O
+.	O
+"	O
+
+# id = litbank-1158
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = in miss jemima 's eyes an autograph letter of her sister , miss pinkerton , was an object of as deep veneration as would have been a letter from a sovereign .
+in	O
+miss	B-CHARACTER
+jemima	I-CHARACTER
+'s	O
+eyes	O
+an	O
+autograph	O
+letter	O
+of	O
+her	O
+sister	O
+,	O
+miss	B-CHARACTER
+pinkerton	I-CHARACTER
+,	O
+was	O
+an	O
+object	O
+of	O
+as	O
+deep	O
+veneration	O
+as	O
+would	O
+have	O
+been	O
+a	O
+letter	O
+from	O
+a	O
+sovereign	O
+.	O
+
+# id = litbank-1159
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = only when her pupils quitted the establishment , or when they were about to be married , and once , when poor miss birch died of the scarlet fever , was miss pinkerton known to write personally to the parents of her pupils ; and it was jemima 's opinion that if anything could console mrs. birch for her daughter 's loss , it would be that pious and eloquent composition in which miss pinkerton announced the event .
+only	O
+when	O
+her	O
+pupils	O
+quitted	O
+the	O
+establishment	O
+,	O
+or	O
+when	O
+they	O
+were	O
+about	O
+to	O
+be	O
+married	O
+,	O
+and	O
+once	O
+,	O
+when	O
+poor	O
+miss	B-CHARACTER
+birch	I-CHARACTER
+died	O
+of	O
+the	O
+scarlet	O
+fever	O
+,	O
+was	O
+miss	B-CHARACTER
+pinkerton	I-CHARACTER
+known	O
+to	O
+write	O
+personally	O
+to	O
+the	O
+parents	O
+of	O
+her	O
+pupils	O
+;	O
+and	O
+it	O
+was	O
+jemima	B-CHARACTER
+'s	O
+opinion	O
+that	O
+if	O
+anything	O
+could	O
+console	O
+mrs.	B-CHARACTER
+birch	I-CHARACTER
+for	O
+her	O
+daughter	O
+'s	O
+loss	O
+,	O
+it	O
+would	O
+be	O
+that	O
+pious	O
+and	O
+eloquent	O
+composition	O
+in	O
+which	O
+miss	B-CHARACTER
+pinkerton	I-CHARACTER
+announced	O
+the	O
+event	O
+.	O
+
+# id = litbank-1160
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = in the present instance miss pinkerton 's " billet " was to the following effect : -- the mall , chiswick , june 15 , 18 madam , -- after her six years ' residence at the mall , i have the honour and happiness of presenting miss amelia sedley to her parents , as a young lady not unworthy to occupy a fitting position in their polished and refined circle .
+in	O
+the	O
+present	O
+instance	O
+miss	B-CHARACTER
+pinkerton	I-CHARACTER
+'s	O
+"	O
+billet	O
+"	O
+was	O
+to	O
+the	O
+following	O
+effect	O
+:	O
+--	O
+the	O
+mall	O
+,	O
+chiswick	O
+,	O
+june	O
+15	O
+,	O
+18	O
+madam	O
+,	O
+--	O
+after	O
+her	O
+six	O
+years	O
+'	O
+residence	O
+at	O
+the	O
+mall	O
+,	O
+i	O
+have	O
+the	O
+honour	O
+and	O
+happiness	O
+of	O
+presenting	O
+miss	B-CHARACTER
+amelia	I-CHARACTER
+sedley	I-CHARACTER
+to	O
+her	O
+parents	O
+,	O
+as	O
+a	O
+young	O
+lady	O
+not	O
+unworthy	O
+to	O
+occupy	O
+a	O
+fitting	O
+position	O
+in	O
+their	O
+polished	O
+and	O
+refined	O
+circle	O
+.	O
+
+# id = litbank-1161
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = those virtues which characterize the young english gentlewoman , those accomplishments which become her birth and station , will not be found wanting in the amiable miss sedley , whose industry and obedience have endeared her to her instructors , and whose delightful sweetness of temper has charmed her aged and her youthful companions .
+those	O
+virtues	O
+which	O
+characterize	O
+the	O
+young	O
+english	O
+gentlewoman	O
+,	O
+those	O
+accomplishments	O
+which	O
+become	O
+her	O
+birth	O
+and	O
+station	O
+,	O
+will	O
+not	O
+be	O
+found	O
+wanting	O
+in	O
+the	O
+amiable	O
+miss	B-CHARACTER
+sedley	I-CHARACTER
+,	O
+whose	O
+industry	O
+and	O
+obedience	O
+have	O
+endeared	O
+her	O
+to	O
+her	O
+instructors	O
+,	O
+and	O
+whose	O
+delightful	O
+sweetness	O
+of	O
+temper	O
+has	O
+charmed	O
+her	O
+aged	O
+and	O
+her	O
+youthful	O
+companions	O
+.	O
+
+# id = litbank-1164
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = in the principles of religion and morality , miss sedley will be found worthy of an establishment which has been honoured by the presence of the great lexicographer , and the patronage of the admirable mrs. chapone .
+in	O
+the	O
+principles	O
+of	O
+religion	O
+and	O
+morality	O
+,	O
+miss	B-CHARACTER
+sedley	I-CHARACTER
+will	O
+be	O
+found	O
+worthy	O
+of	O
+an	O
+establishment	O
+which	O
+has	O
+been	O
+honoured	O
+by	O
+the	O
+presence	O
+of	O
+the	O
+great	O
+lexicographer	O
+,	O
+and	O
+the	O
+patronage	O
+of	O
+the	O
+admirable	O
+mrs.	O
+chapone	O
+.	O
+
+# id = litbank-1165
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = in leaving the mall , miss amelia carries with her the hearts of her companions , and the affectionate regards of her mistress , who has the honour to subscribe herself , madam , your most obliged humble servant , barbara pinkerton p.s. -- miss sharp accompanies miss sedley .
+in	O
+leaving	O
+the	O
+mall	O
+,	O
+miss	B-CHARACTER
+amelia	I-CHARACTER
+carries	O
+with	O
+her	O
+the	O
+hearts	O
+of	O
+her	O
+companions	O
+,	O
+and	O
+the	O
+affectionate	O
+regards	O
+of	O
+her	O
+mistress	O
+,	O
+who	O
+has	O
+the	O
+honour	O
+to	O
+subscribe	O
+herself	O
+,	O
+madam	O
+,	O
+your	O
+most	O
+obliged	O
+humble	O
+servant	O
+,	O
+barbara	B-CHARACTER
+pinkerton	I-CHARACTER
+p.s.	O
+--	O
+miss	B-CHARACTER
+sharp	I-CHARACTER
+accompanies	O
+miss	B-CHARACTER
+sedley	I-CHARACTER
+.	O
+
+# id = litbank-1166
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = it is particularly requested that miss sharp 's stay in russell square may not exceed ten days .
+it	O
+is	O
+particularly	O
+requested	O
+that	O
+miss	B-CHARACTER
+sharp	I-CHARACTER
+'s	O
+stay	O
+in	O
+russell	O
+square	O
+may	O
+not	O
+exceed	O
+ten	O
+days	O
+.	O
+
+# id = litbank-1168
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = this letter completed , miss pinkerton proceeded to write her own name , and miss sedley 's , in the fly-leaf of a johnson 's dictionary -- the interesting work which she invariably presented to her scholars , on their departure from the mall .
+this	O
+letter	O
+completed	O
+,	O
+miss	B-CHARACTER
+pinkerton	I-CHARACTER
+proceeded	O
+to	O
+write	O
+her	O
+own	O
+name	O
+,	O
+and	O
+miss	B-CHARACTER
+sedley	I-CHARACTER
+'s	O
+,	O
+in	O
+the	O
+fly-leaf	O
+of	O
+a	O
+johnson	O
+'s	O
+dictionary	O
+--	O
+the	O
+interesting	O
+work	O
+which	O
+she	O
+invariably	O
+presented	O
+to	O
+her	O
+scholars	O
+,	O
+on	O
+their	O
+departure	O
+from	O
+the	O
+mall	O
+.	O
+
+# id = litbank-1169
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = on the cover was inserted a copy of " lines addressed to a young lady on quitting miss pinkerton 's school , at the mall ; by the late revered doctor samuel johnson . "
+on	O
+the	O
+cover	O
+was	O
+inserted	O
+a	O
+copy	O
+of	O
+"	O
+lines	O
+addressed	O
+to	O
+a	O
+young	O
+lady	O
+on	O
+quitting	O
+miss	B-CHARACTER
+pinkerton	I-CHARACTER
+'s	O
+school	O
+,	O
+at	O
+the	O
+mall	O
+;	O
+by	O
+the	O
+late	O
+revered	O
+doctor	O
+samuel	O
+johnson	O
+.	O
+"	O
+
+# id = litbank-1171
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = being commanded by her elder sister to get " the dictionary " from the cupboard , miss jemima had extracted two copies of the book from the receptacle in question .
+being	O
+commanded	O
+by	O
+her	O
+elder	O
+sister	O
+to	O
+get	O
+"	O
+the	O
+dictionary	O
+"	O
+from	O
+the	O
+cupboard	O
+,	O
+miss	B-CHARACTER
+jemima	I-CHARACTER
+had	O
+extracted	O
+two	O
+copies	O
+of	O
+the	O
+book	O
+from	O
+the	O
+receptacle	O
+in	O
+question	O
+.	O
+
+# id = litbank-1172
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = when miss pinkerton had finished the inscription in the first , jemima , with rather a dubious and timid air , handed her the second .
+when	O
+miss	B-CHARACTER
+pinkerton	I-CHARACTER
+had	O
+finished	O
+the	O
+inscription	O
+in	O
+the	O
+first	O
+,	O
+jemima	B-CHARACTER
+,	O
+with	O
+rather	O
+a	O
+dubious	O
+and	O
+timid	O
+air	O
+,	O
+handed	O
+her	O
+the	O
+second	O
+.	O
+
+# id = litbank-1173
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = " for whom is this , miss jemima ? "
+"	O
+for	O
+whom	O
+is	O
+this	O
+,	O
+miss	B-CHARACTER
+jemima	I-CHARACTER
+?	O
+"	O
+
+# id = litbank-1174
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = said miss pinkerton , with awful coldness .
+said	O
+miss	B-CHARACTER
+pinkerton	I-CHARACTER
+,	O
+with	O
+awful	O
+coldness	O
+.	O
+
+# id = litbank-1175
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = " for becky sharp , " answered jemima , trembling very much , and blushing over her withered face and neck , as she turned her back on her sister .
+"	O
+for	O
+becky	B-CHARACTER
+sharp	I-CHARACTER
+,	O
+"	O
+answered	O
+jemima	B-CHARACTER
+,	O
+trembling	O
+very	O
+much	O
+,	O
+and	O
+blushing	O
+over	O
+her	O
+withered	O
+face	O
+and	O
+neck	O
+,	O
+as	O
+she	O
+turned	O
+her	O
+back	O
+on	O
+her	O
+sister	O
+.	O
+
+# id = litbank-1176
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = " for becky sharp : she 's going too . "
+"	O
+for	O
+becky	B-CHARACTER
+sharp	I-CHARACTER
+:	O
+she	O
+'s	O
+going	O
+too	O
+.	O
+"	O
+
+# id = litbank-1177
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = " miss jemima ! "
+"	O
+miss	B-CHARACTER
+jemima	I-CHARACTER
+!	O
+"	O
+
+# id = litbank-1178
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = exclaimed miss pinkerton , in the largest capitals .
+exclaimed	O
+miss	B-CHARACTER
+pinkerton	I-CHARACTER
+,	O
+in	O
+the	O
+largest	O
+capitals	O
+.	O
+
+# id = litbank-1179
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = " well , sister , it 's only two-and-ninepence , and poor becky will be miserable if she do n't get one . "
+"	O
+well	O
+,	O
+sister	O
+,	O
+it	O
+'s	O
+only	O
+two-and-ninepence	O
+,	O
+and	O
+poor	O
+becky	B-CHARACTER
+will	O
+be	O
+miserable	O
+if	O
+she	O
+do	O
+n't	O
+get	O
+one	O
+.	O
+"	O
+
+# id = litbank-1180
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = " send miss sedley instantly to me , " said miss pinkerton .
+"	O
+send	O
+miss	B-CHARACTER
+sedley	I-CHARACTER
+instantly	O
+to	O
+me	O
+,	O
+"	O
+said	O
+miss	B-CHARACTER
+pinkerton	I-CHARACTER
+.	O
+
+# id = litbank-1181
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = and so venturing not to say another word , poor jemima trotted off , exceedingly flurried and nervous .
+and	O
+so	O
+venturing	O
+not	O
+to	O
+say	O
+another	O
+word	O
+,	O
+poor	O
+jemima	B-CHARACTER
+trotted	O
+off	O
+,	O
+exceedingly	O
+flurried	O
+and	O
+nervous	O
+.	O
+
+# id = litbank-1182
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = miss sedley 's papa was a merchant in london , and a man of some wealth ; whereas miss sharp was an articled pupil , for whom miss pinkerton had done , as she thought , quite enough , without conferring upon her at parting the high honour of the dixonary .
+miss	B-CHARACTER
+sedley	I-CHARACTER
+'s	O
+papa	O
+was	O
+a	O
+merchant	O
+in	O
+london	O
+,	O
+and	O
+a	O
+man	O
+of	O
+some	O
+wealth	O
+;	O
+whereas	O
+miss	B-CHARACTER
+sharp	I-CHARACTER
+was	O
+an	O
+articled	O
+pupil	O
+,	O
+for	O
+whom	O
+miss	B-CHARACTER
+pinkerton	I-CHARACTER
+had	O
+done	O
+,	O
+as	O
+she	O
+thought	O
+,	O
+quite	O
+enough	O
+,	O
+without	O
+conferring	O
+upon	O
+her	O
+at	O
+parting	O
+the	O
+high	O
+honour	O
+of	O
+the	O
+dixonary	O
+.	O
+
+# id = litbank-1183
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = now , miss amelia sedley was a young lady of this singular species ; and deserved not only all that miss pinkerton said in her praise , but had many charming qualities which that pompous old minerva of a woman could not see , from the differences of rank and age between her pupil and herself .
+now	O
+,	O
+miss	B-CHARACTER
+amelia	I-CHARACTER
+sedley	I-CHARACTER
+was	O
+a	O
+young	O
+lady	O
+of	O
+this	O
+singular	O
+species	O
+;	O
+and	O
+deserved	O
+not	O
+only	O
+all	O
+that	O
+miss	B-CHARACTER
+pinkerton	I-CHARACTER
+said	O
+in	O
+her	O
+praise	O
+,	O
+but	O
+had	O
+many	O
+charming	O
+qualities	O
+which	O
+that	O
+pompous	O
+old	O
+minerva	O
+of	O
+a	O
+woman	O
+could	O
+not	O
+see	O
+,	O
+from	O
+the	O
+differences	O
+of	O
+rank	O
+and	O
+age	O
+between	O
+her	O
+pupil	O
+and	O
+herself	O
+.	O
+
+# id = litbank-1184
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = even envious miss briggs never spoke ill of her ; high and mighty miss saltire ( lord dexter 's granddaughter ) allowed that her figure was genteel ; and as for miss swartz , the rich woolly-haired mulatto from st. kitt 's , on the day amelia went away , she was in such a passion of tears that they were obliged to send for dr. floss , and half tipsify her with salvolatile .
+even	O
+envious	O
+miss	B-CHARACTER
+briggs	I-CHARACTER
+never	O
+spoke	O
+ill	O
+of	O
+her	O
+;	O
+high	O
+and	O
+mighty	O
+miss	B-CHARACTER
+saltire	I-CHARACTER
+(	O
+lord	B-CHARACTER
+dexter	I-CHARACTER
+'s	O
+granddaughter	O
+)	O
+allowed	O
+that	O
+her	O
+figure	O
+was	O
+genteel	O
+;	O
+and	O
+as	O
+for	O
+miss	B-CHARACTER
+swartz	I-CHARACTER
+,	O
+the	O
+rich	O
+woolly-haired	O
+mulatto	O
+from	O
+st.	O
+kitt	O
+'s	O
+,	O
+on	O
+the	O
+day	O
+amelia	B-CHARACTER
+went	O
+away	O
+,	O
+she	O
+was	O
+in	O
+such	O
+a	O
+passion	O
+of	O
+tears	O
+that	O
+they	O
+were	O
+obliged	O
+to	O
+send	O
+for	O
+dr.	B-CHARACTER
+floss	I-CHARACTER
+,	O
+and	O
+half	O
+tipsify	O
+her	O
+with	O
+salvolatile	O
+.	O
+
+# id = litbank-1185
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = miss pinkerton 's attachment was , as may be supposed from the high position and eminent virtues of that lady , calm and dignified ; but miss jemima had already whimpered several times at the idea of amelia 's departure ; and , but for fear of her sister , would have gone off in downright hysterics , like the heiress ( who paid double ) of st. kitt 's .
+miss	B-CHARACTER
+pinkerton	I-CHARACTER
+'s	O
+attachment	O
+was	O
+,	O
+as	O
+may	O
+be	O
+supposed	O
+from	O
+the	O
+high	O
+position	O
+and	O
+eminent	O
+virtues	O
+of	O
+that	O
+lady	O
+,	O
+calm	O
+and	O
+dignified	O
+;	O
+but	O
+miss	B-CHARACTER
+jemima	I-CHARACTER
+had	O
+already	O
+whimpered	O
+several	O
+times	O
+at	O
+the	O
+idea	O
+of	O
+amelia	B-CHARACTER
+'s	O
+departure	O
+;	O
+and	O
+,	O
+but	O
+for	O
+fear	O
+of	O
+her	O
+sister	O
+,	O
+would	O
+have	O
+gone	O
+off	O
+in	O
+downright	O
+hysterics	O
+,	O
+like	O
+the	O
+heiress	O
+(	O
+who	O
+paid	O
+double	O
+)	O
+of	O
+st.	O
+kitt	O
+'s	O
+.	O
+
+# id = litbank-1186
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = honest jemima had all the bills , and the washing , and the mending , and the puddings , and the plate and crockery , and the servants to superintend .
+honest	O
+jemima	B-CHARACTER
+had	O
+all	O
+the	O
+bills	O
+,	O
+and	O
+the	O
+washing	O
+,	O
+and	O
+the	O
+mending	O
+,	O
+and	O
+the	O
+puddings	O
+,	O
+and	O
+the	O
+plate	O
+and	O
+crockery	O
+,	O
+and	O
+the	O
+servants	O
+to	O
+superintend	O
+.	O
+
+# id = litbank-1187
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = but as we are to see a great deal of amelia , there is no harm in saying , at the outset of our acquaintance , that she was a dear little creature ; and a great mercy it is , both in life and in novels , which ( and the latter especially ) abound in villains of the most sombre sort , that we are to have for a constant companion so guileless and good-natured a person .
+but	O
+as	O
+we	O
+are	O
+to	O
+see	O
+a	O
+great	O
+deal	O
+of	O
+amelia	B-CHARACTER
+,	O
+there	O
+is	O
+no	O
+harm	O
+in	O
+saying	O
+,	O
+at	O
+the	O
+outset	O
+of	O
+our	O
+acquaintance	O
+,	O
+that	O
+she	O
+was	O
+a	O
+dear	O
+little	O
+creature	O
+;	O
+and	O
+a	O
+great	O
+mercy	O
+it	O
+is	O
+,	O
+both	O
+in	O
+life	O
+and	O
+in	O
+novels	O
+,	O
+which	O
+(	O
+and	O
+the	O
+latter	O
+especially	O
+)	O
+abound	O
+in	O
+villains	O
+of	O
+the	O
+most	O
+sombre	O
+sort	O
+,	O
+that	O
+we	O
+are	O
+to	O
+have	O
+for	O
+a	O
+constant	O
+companion	O
+so	O
+guileless	O
+and	O
+good-natured	O
+a	O
+person	O
+.	O
+
+# id = litbank-1188
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = even miss pinkerton , that austere and godlike woman , ceased scolding her after the first time , and though she no more comprehended sensibility than she did algebra , gave all masters and teachers particular orders to treat miss sedley with the utmost gentleness , as harsh treatment was injurious to her .
+even	O
+miss	B-CHARACTER
+pinkerton	I-CHARACTER
+,	O
+that	O
+austere	O
+and	O
+godlike	O
+woman	O
+,	O
+ceased	O
+scolding	O
+her	O
+after	O
+the	O
+first	O
+time	O
+,	O
+and	O
+though	O
+she	O
+no	O
+more	O
+comprehended	O
+sensibility	O
+than	O
+she	O
+did	O
+algebra	O
+,	O
+gave	O
+all	O
+masters	O
+and	O
+teachers	O
+particular	O
+orders	O
+to	O
+treat	O
+miss	B-CHARACTER
+sedley	I-CHARACTER
+with	O
+the	O
+utmost	O
+gentleness	O
+,	O
+as	O
+harsh	O
+treatment	O
+was	O
+injurious	O
+to	O
+her	O
+.	O
+
+# id = litbank-1156
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = very good -- ninety-three pounds , four shillings .
+very	O
+good	O
+--	O
+ninety-three	O
+pounds	O
+,	O
+four	O
+shillings	O
+.	O
+
+# id = litbank-1162
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = in music , in dancing , in orthography , in every variety of embroidery and needlework , she will be found to have realized her friends ' fondest wishes .
+in	O
+music	O
+,	O
+in	O
+dancing	O
+,	O
+in	O
+orthography	O
+,	O
+in	O
+every	O
+variety	O
+of	O
+embroidery	O
+and	O
+needlework	O
+,	O
+she	O
+will	O
+be	O
+found	O
+to	O
+have	O
+realized	O
+her	O
+friends	O
+'	O
+fondest	O
+wishes	O
+.	O
+
+# id = litbank-1163
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = in geography there is still much to be desired ; and a careful and undeviating use of the backboard , for four hours daily during the next three years , is recommended as necessary to the acquirement of that dignified deportment and carriage , so requisite for every young lady of fashion .
+in	O
+geography	O
+there	O
+is	O
+still	O
+much	O
+to	O
+be	O
+desired	O
+;	O
+and	O
+a	O
+careful	O
+and	O
+undeviating	O
+use	O
+of	O
+the	O
+backboard	O
+,	O
+for	O
+four	O
+hours	O
+daily	O
+during	O
+the	O
+next	O
+three	O
+years	O
+,	O
+is	O
+recommended	O
+as	O
+necessary	O
+to	O
+the	O
+acquirement	O
+of	O
+that	O
+dignified	O
+deportment	O
+and	O
+carriage	O
+,	O
+so	O
+requisite	O
+for	O
+every	O
+young	O
+lady	O
+of	O
+fashion	O
+.	O
+
+# id = litbank-1167
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = the family of distinction with whom she is engaged , desire to avail themselves of her services as soon as possible .
+the	O
+family	O
+of	O
+distinction	O
+with	O
+whom	O
+she	O
+is	O
+engaged	O
+,	O
+desire	O
+to	O
+avail	O
+themselves	O
+of	O
+her	O
+services	O
+as	O
+soon	O
+as	O
+possible	O
+.	O
+
+# id = litbank-1170
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = in fact , the lexicographer 's name was always on the lips of this majestic woman , and a visit he had paid to her was the cause of her reputation and her fortune .
+in	O
+fact	O
+,	O
+the	O
+lexicographer	O
+'s	O
+name	O
+was	O
+always	O
+on	O
+the	O
+lips	O
+of	O
+this	O
+majestic	O
+woman	O
+,	O
+and	O
+a	O
+visit	O
+he	O
+had	O
+paid	O
+to	O
+her	O
+was	O
+the	O
+cause	O
+of	O
+her	O
+reputation	O
+and	O
+her	O
+fortune	O
+.	O
+

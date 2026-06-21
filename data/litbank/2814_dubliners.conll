@@ -1,0 +1,573 @@
+# id = litbank-1861
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = old cotter was sitting at the fire , smoking , when i came downstairs to supper .
+old	O
+cotter	B-CHARACTER
+was	O
+sitting	O
+at	O
+the	O
+fire	O
+,	O
+smoking	O
+,	O
+when	O
+i	O
+came	O
+downstairs	O
+to	O
+supper	O
+.	O
+
+# id = litbank-1862
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = “ mr cotter here has just told us .
+“	O
+mr	B-CHARACTER
+cotter	I-CHARACTER
+here	O
+has	O
+just	O
+told	O
+us	O
+.	O
+
+# id = litbank-1863
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = my uncle explained to old cotter .
+my	O
+uncle	O
+explained	O
+to	O
+old	O
+cotter	B-CHARACTER
+.	O
+
+# id = litbank-1864
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = old cotter looked at me for a while .
+old	O
+cotter	B-CHARACTER
+looked	O
+at	O
+me	O
+for	O
+a	O
+while	O
+.	O
+
+# id = litbank-1865
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = “ how do you mean , mr cotter ? ”
+“	O
+how	O
+do	O
+you	O
+mean	O
+,	O
+mr	B-CHARACTER
+cotter	I-CHARACTER
+?	O
+”	O
+
+# id = litbank-1866
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = “ what i mean is , ” said old cotter , “ it ’s bad for children .
+“	O
+what	O
+i	O
+mean	O
+is	O
+,	O
+”	O
+said	O
+old	O
+cotter	B-CHARACTER
+,	O
+“	O
+it	O
+’s	O
+bad	O
+for	O
+children	O
+.	O
+
+# id = litbank-1867
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = am i right , jack ? ”
+am	O
+i	O
+right	O
+,	O
+jack	B-CHARACTER
+?	O
+”	O
+
+# id = litbank-1868
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = mr cotter might take a pick of that leg mutton , ” he added to my aunt .
+mr	B-CHARACTER
+cotter	I-CHARACTER
+might	O
+take	O
+a	O
+pick	O
+of	O
+that	O
+leg	O
+mutton	O
+,	O
+”	O
+he	O
+added	O
+to	O
+my	O
+aunt	O
+.	O
+
+# id = litbank-1869
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = “ no , no , not for me , ” said old cotter .
+“	O
+no	O
+,	O
+no	O
+,	O
+not	O
+for	O
+me	O
+,	O
+”	O
+said	O
+old	O
+cotter	B-CHARACTER
+.	O
+
+# id = litbank-1870
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = “ but why do you think it ’s not good for children , mr cotter ? ”
+“	O
+but	O
+why	O
+do	O
+you	O
+think	O
+it	O
+’s	O
+not	O
+good	O
+for	O
+children	O
+,	O
+mr	B-CHARACTER
+cotter	I-CHARACTER
+?	O
+”	O
+
+# id = litbank-1871
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = “ it ’s bad for children , ” said old cotter , “ because their minds are so impressionable .
+“	O
+it	O
+’s	O
+bad	O
+for	O
+children	O
+,	O
+”	O
+said	O
+old	O
+cotter	B-CHARACTER
+,	O
+“	O
+because	O
+their	O
+minds	O
+are	O
+so	O
+impressionable	O
+.	O
+
+# id = litbank-1872
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = though i was angry with old cotter for alluding to me as a child , i puzzled my head to extract meaning from his unfinished sentences .
+though	O
+i	O
+was	O
+angry	O
+with	O
+old	O
+cotter	B-CHARACTER
+for	O
+alluding	O
+to	O
+me	O
+as	O
+a	O
+child	O
+,	O
+i	O
+puzzled	O
+my	O
+head	O
+to	O
+extract	O
+meaning	O
+from	O
+his	O
+unfinished	O
+sentences	O
+.	O
+
+# id = litbank-1873
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = i also approached and read : july 1st , 1895 the rev. james flynn ( formerly of s. catherine ’s church , meath street ) , aged sixty-five years .
+i	O
+also	O
+approached	O
+and	O
+read	O
+:	O
+july	O
+1st	O
+,	O
+1895	O
+the	O
+rev.	O
+james	B-CHARACTER
+flynn	I-CHARACTER
+(	O
+formerly	O
+of	O
+s.	O
+catherine	O
+’s	O
+church	O
+,	O
+meath	O
+street	O
+)	O
+,	O
+aged	O
+sixty-five	O
+years	O
+.	O
+
+# id = litbank-1874
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = as i walked along in the sun i remembered old cotter ’s words and tried to remember what had happened afterwards in the dream .
+as	O
+i	O
+walked	O
+along	O
+in	O
+the	O
+sun	O
+i	O
+remembered	O
+old	O
+cotter	B-CHARACTER
+’s	O
+words	O
+and	O
+tried	O
+to	O
+remember	O
+what	O
+had	O
+happened	O
+afterwards	O
+in	O
+the	O
+dream	O
+.	O
+
+# id = litbank-1875
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = nannie received us in the hall ; and , as it would have been unseemly to have shouted at her , my aunt shook hands with her for all .
+nannie	B-CHARACTER
+received	O
+us	O
+in	O
+the	O
+hall	O
+;	O
+and	O
+,	O
+as	O
+it	O
+would	O
+have	O
+been	O
+unseemly	O
+to	O
+have	O
+shouted	O
+at	O
+her	O
+,	O
+my	O
+aunt	O
+shook	O
+hands	O
+with	O
+her	O
+for	O
+all	O
+.	O
+
+# id = litbank-1856
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = the sisters there was no hope for him this time : it was the third stroke .
+the	O
+sisters	O
+there	O
+was	O
+no	O
+hope	O
+for	O
+him	O
+this	O
+time	O
+:	O
+it	O
+was	O
+the	O
+third	O
+stroke	O
+.	O
+
+# id = litbank-1857
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = night after night i had passed the house ( it was vacation time ) and studied the lighted square of window : and night after night i had found it lighted in the same way , faintly and evenly .
+night	O
+after	O
+night	O
+i	O
+had	O
+passed	O
+the	O
+house	O
+(	O
+it	O
+was	O
+vacation	O
+time	O
+)	O
+and	O
+studied	O
+the	O
+lighted	O
+square	O
+of	O
+window	O
+:	O
+and	O
+night	O
+after	O
+night	O
+i	O
+had	O
+found	O
+it	O
+lighted	O
+in	O
+the	O
+same	O
+way	O
+,	O
+faintly	O
+and	O
+evenly	O
+.	O
+
+# id = litbank-1858
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = if he was dead , i thought , i would see the reflection of candles on the darkened blind for i knew that two candles must be set at the head of a corpse .
+if	O
+he	O
+was	O
+dead	O
+,	O
+i	O
+thought	O
+,	O
+i	O
+would	O
+see	O
+the	O
+reflection	O
+of	O
+candles	O
+on	O
+the	O
+darkened	O
+blind	O
+for	O
+i	O
+knew	O
+that	O
+two	O
+candles	O
+must	O
+be	O
+set	O
+at	O
+the	O
+head	O
+of	O
+a	O
+corpse	O
+.	O
+
+# id = litbank-1859
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = he had often said to me : “ i am not long for this world , ” and i had thought his words idle .
+he	O
+had	O
+often	O
+said	O
+to	O
+me	O
+:	O
+“	O
+i	O
+am	O
+not	O
+long	O
+for	O
+this	O
+world	O
+,	O
+”	O
+and	O
+i	O
+had	O
+thought	O
+his	O
+words	O
+idle	O
+.	O
+
+# id = litbank-1860
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = every night as i gazed up at the window i said softly to myself the word paralysis .
+every	O
+night	O
+as	O
+i	O
+gazed	O
+up	O
+at	O
+the	O
+window	O
+i	O
+said	O
+softly	O
+to	O
+myself	O
+the	O
+word	O
+paralysis	O
+.	O
+

@@ -1,0 +1,932 @@
+# id = litbank-1820
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = my wife and i knew captain and mrs ashburnham as well as it was possible to know anybody , and yet , in another sense , we knew nothing at all about them .
+my	O
+wife	O
+and	O
+i	O
+knew	O
+captain	O
+and	O
+mrs	B-CHARACTER
+ashburnham	I-CHARACTER
+as	O
+well	O
+as	O
+it	O
+was	O
+possible	O
+to	O
+know	O
+anybody	O
+,	O
+and	O
+yet	O
+,	O
+in	O
+another	O
+sense	O
+,	O
+we	O
+knew	O
+nothing	O
+at	O
+all	O
+about	O
+them	O
+.	O
+
+# id = litbank-1824
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = captain ashburnham also had a heart .
+captain	B-CHARACTER
+ashburnham	I-CHARACTER
+also	O
+had	O
+a	O
+heart	O
+.	O
+
+# id = litbank-1825
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = but , whereas a yearly month or so at nauheim tuned him up to exactly the right pitch for the rest of the twelvemonth , the two months or so were only just enough to keep poor florence alive from year to year .
+but	O
+,	O
+whereas	O
+a	O
+yearly	O
+month	O
+or	O
+so	O
+at	O
+nauheim	O
+tuned	O
+him	O
+up	O
+to	O
+exactly	O
+the	O
+right	O
+pitch	O
+for	O
+the	O
+rest	O
+of	O
+the	O
+twelvemonth	O
+,	O
+the	O
+two	O
+months	O
+or	O
+so	O
+were	O
+only	O
+just	O
+enough	O
+to	O
+keep	O
+poor	O
+florence	B-CHARACTER
+alive	O
+from	O
+year	O
+to	O
+year	O
+.	O
+
+# id = litbank-1826
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = the reason for poor florence 's broken years was a storm at sea upon our first crossing to europe , and the immediate reasons for our imprisonment in that continent were doctor 's orders .
+the	O
+reason	O
+for	O
+poor	O
+florence	B-CHARACTER
+'s	O
+broken	O
+years	O
+was	O
+a	O
+storm	O
+at	O
+sea	O
+upon	O
+our	O
+first	O
+crossing	O
+to	O
+europe	O
+,	O
+and	O
+the	O
+immediate	O
+reasons	O
+for	O
+our	O
+imprisonment	O
+in	O
+that	O
+continent	O
+were	O
+doctor	O
+'s	O
+orders	O
+.	O
+
+# id = litbank-1827
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = when we all first met , captain ashburnham , home on sick leave from an india to which he was never to return , was thirty-three ; mrs ashburnham leonora -- was thirty-one .
+when	O
+we	O
+all	O
+first	O
+met	O
+,	O
+captain	B-CHARACTER
+ashburnham	I-CHARACTER
+,	O
+home	O
+on	O
+sick	O
+leave	O
+from	O
+an	O
+india	O
+to	O
+which	O
+he	O
+was	O
+never	O
+to	O
+return	O
+,	O
+was	O
+thirty-three	O
+;	O
+mrs	B-CHARACTER
+ashburnham	I-CHARACTER
+leonora	I-CHARACTER
+--	O
+was	O
+thirty-one	O
+.	O
+
+# id = litbank-1828
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = i was thirty-six and poor florence thirty .
+i	O
+was	O
+thirty-six	O
+and	O
+poor	O
+florence	B-CHARACTER
+thirty	O
+.	O
+
+# id = litbank-1829
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = thus today florence would have been thirty-nine and captain ashburnham forty-two ; whereas i am forty-five and leonora forty .
+thus	O
+today	O
+florence	B-CHARACTER
+would	O
+have	O
+been	O
+thirty-nine	O
+and	O
+captain	B-CHARACTER
+ashburnham	I-CHARACTER
+forty-two	O
+;	O
+whereas	O
+i	O
+am	O
+forty-five	O
+and	O
+leonora	B-CHARACTER
+forty	O
+.	O
+
+# id = litbank-1830
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = they were descended , as you will probably expect , from the ashburnham who accompanied charles i to the scaffold , and , as you must also expect with this class of english people , you would never have noticed it .
+they	O
+were	O
+descended	O
+,	O
+as	O
+you	O
+will	O
+probably	O
+expect	O
+,	O
+from	O
+the	O
+ashburnham	B-CHARACTER
+who	O
+accompanied	O
+charles	O
+i	O
+to	O
+the	O
+scaffold	O
+,	O
+and	O
+,	O
+as	O
+you	O
+must	O
+also	O
+expect	O
+with	O
+this	O
+class	O
+of	O
+english	O
+people	O
+,	O
+you	O
+would	O
+never	O
+have	O
+noticed	O
+it	O
+.	O
+
+# id = litbank-1831
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = mrs ashburnham was a powys ; florence was a hurlbird of stamford , connecticut , where , as you know , they are more old-fashioned than even the inhabitants of cranford , england , could have been .
+mrs	B-CHARACTER
+ashburnham	I-CHARACTER
+was	O
+a	O
+powys	O
+;	O
+florence	B-CHARACTER
+was	O
+a	O
+hurlbird	O
+of	O
+stamford	O
+,	O
+connecticut	O
+,	O
+where	O
+,	O
+as	O
+you	O
+know	O
+,	O
+they	O
+are	O
+more	O
+old-fashioned	O
+than	O
+even	O
+the	O
+inhabitants	O
+of	O
+cranford	O
+,	O
+england	O
+,	O
+could	O
+have	O
+been	O
+.	O
+
+# id = litbank-1832
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = i myself am a dowell of philadelphia , pa. , where , it is historically true , there are more old english families than you would find in any six english counties taken together .
+i	O
+myself	O
+am	O
+a	O
+dowell	B-CHARACTER
+of	O
+philadelphia	O
+,	O
+pa.	O
+,	O
+where	O
+,	O
+it	O
+is	O
+historically	O
+true	O
+,	O
+there	O
+are	O
+more	O
+old	O
+english	O
+families	O
+than	O
+you	O
+would	O
+find	O
+in	O
+any	O
+six	O
+english	O
+counties	O
+taken	O
+together	O
+.	O
+
+# id = litbank-1833
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = these title deeds are of wampum , the grant of an indian chief to the first dowell , who left farnham in surrey in company with william penn .
+these	O
+title	O
+deeds	O
+are	O
+of	O
+wampum	O
+,	O
+the	O
+grant	O
+of	O
+an	O
+indian	O
+chief	O
+to	O
+the	O
+first	O
+dowell	B-CHARACTER
+,	O
+who	O
+left	O
+farnham	O
+in	O
+surrey	O
+in	O
+company	O
+with	O
+william	O
+penn	O
+.	O
+
+# id = litbank-1834
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = florence 's people , as is so often the case with the inhabitants of connecticut , came from the neighbourhood of fordingbridge , where the ashburnhams ' place is .
+florence	B-CHARACTER
+'s	O
+people	O
+,	O
+as	O
+is	O
+so	O
+often	O
+the	O
+case	O
+with	O
+the	O
+inhabitants	O
+of	O
+connecticut	O
+,	O
+came	O
+from	O
+the	O
+neighbourhood	O
+of	O
+fordingbridge	O
+,	O
+where	O
+the	O
+ashburnhams	O
+'	O
+place	O
+is	O
+.	O
+
+# id = litbank-1835
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = so it may well be with edward ashburnham , with leonora his wife and with poor dear florence .
+so	O
+it	O
+may	O
+well	O
+be	O
+with	O
+edward	B-CHARACTER
+ashburnham	I-CHARACTER
+,	O
+with	O
+leonora	B-CHARACTER
+his	O
+wife	O
+and	O
+with	O
+poor	O
+dear	O
+florence	B-CHARACTER
+.	O
+
+# id = litbank-1836
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = -- well , there was florence : i believe that for the twelve years her life lasted , after the storm that seemed irretrievably to have weakened her heart -- i do n't believe that for one minute she was out of my sight , except when she was safely tucked up in bed and i should be downstairs , talking to some good fellow or other in some lounge or smoking-room or taking my final turn with a cigar before going to bed .
+--	O
+well	O
+,	O
+there	O
+was	O
+florence	B-CHARACTER
+:	O
+i	O
+believe	O
+that	O
+for	O
+the	O
+twelve	O
+years	O
+her	O
+life	O
+lasted	O
+,	O
+after	O
+the	O
+storm	O
+that	O
+seemed	O
+irretrievably	O
+to	O
+have	O
+weakened	O
+her	O
+heart	O
+--	O
+i	O
+do	O
+n't	O
+believe	O
+that	O
+for	O
+one	O
+minute	O
+she	O
+was	O
+out	O
+of	O
+my	O
+sight	O
+,	O
+except	O
+when	O
+she	O
+was	O
+safely	O
+tucked	O
+up	O
+in	O
+bed	O
+and	O
+i	O
+should	O
+be	O
+downstairs	O
+,	O
+talking	O
+to	O
+some	O
+good	O
+fellow	O
+or	O
+other	O
+in	O
+some	O
+lounge	O
+or	O
+smoking-room	O
+or	O
+taking	O
+my	O
+final	O
+turn	O
+with	O
+a	O
+cigar	O
+before	O
+going	O
+to	O
+bed	O
+.	O
+
+# id = litbank-1837
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = i do n't , you understand , blame florence .
+i	O
+do	O
+n't	O
+,	O
+you	O
+understand	O
+,	O
+blame	O
+florence	B-CHARACTER
+.	O
+
+# id = litbank-1838
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = yet even that ca n't have been enough time to get the tremendously long conversations full of worldly wisdom that leonora has reported to me since their deaths .
+yet	O
+even	O
+that	O
+ca	O
+n't	O
+have	O
+been	O
+enough	O
+time	O
+to	O
+get	O
+the	O
+tremendously	O
+long	O
+conversations	O
+full	O
+of	O
+worldly	O
+wisdom	O
+that	O
+leonora	B-CHARACTER
+has	O
+reported	O
+to	O
+me	O
+since	O
+their	O
+deaths	O
+.	O
+
+# id = litbank-1839
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = and is it possible to imagine that during our prescribed walks in nauheim and the neighbourhood she found time to carry on the protracted negotiations which she did carry on between edward ashburnham and his wife ?
+and	O
+is	O
+it	O
+possible	O
+to	O
+imagine	O
+that	O
+during	O
+our	O
+prescribed	O
+walks	O
+in	O
+nauheim	O
+and	O
+the	O
+neighbourhood	O
+she	O
+found	O
+time	O
+to	O
+carry	O
+on	O
+the	O
+protracted	O
+negotiations	O
+which	O
+she	O
+did	O
+carry	O
+on	O
+between	O
+edward	B-CHARACTER
+ashburnham	I-CHARACTER
+and	O
+his	O
+wife	O
+?	O
+
+# id = litbank-1840
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = and is n't it incredible that during all that time edward and leonora never spoke a word to each other in private ?
+and	O
+is	O
+n't	O
+it	O
+incredible	O
+that	O
+during	O
+all	O
+that	O
+time	O
+edward	B-CHARACTER
+and	O
+leonora	B-CHARACTER
+never	O
+spoke	O
+a	O
+word	O
+to	O
+each	O
+other	O
+in	O
+private	O
+?	O
+
+# id = litbank-1841
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = yes , leonora was extraordinarily fair and so extraordinarily the real thing that she seemed too good to be true .
+yes	O
+,	O
+leonora	B-CHARACTER
+was	O
+extraordinarily	O
+fair	O
+and	O
+so	O
+extraordinarily	O
+the	O
+real	O
+thing	O
+that	O
+she	O
+seemed	O
+too	O
+good	O
+to	O
+be	O
+true	O
+.	O
+
+# id = litbank-1818
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = part i i this is the saddest story i have ever heard .
+part	O
+i	O
+i	O
+this	O
+is	O
+the	O
+saddest	O
+story	O
+i	O
+have	O
+ever	O
+heard	O
+.	O
+
+# id = litbank-1819
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = we had known the ashburnhams for nine seasons of the town of nauheim with an extreme intimacy -- or , rather with an acquaintanceship as loose and easy and yet as close as a good glove 's with your hand .
+we	O
+had	O
+known	O
+the	O
+ashburnhams	O
+for	O
+nine	O
+seasons	O
+of	O
+the	O
+town	O
+of	O
+nauheim	O
+with	O
+an	O
+extreme	O
+intimacy	O
+--	O
+or	O
+,	O
+rather	O
+with	O
+an	O
+acquaintanceship	O
+as	O
+loose	O
+and	O
+easy	O
+and	O
+yet	O
+as	O
+close	O
+as	O
+a	O
+good	O
+glove	O
+'s	O
+with	O
+your	O
+hand	O
+.	O
+
+# id = litbank-1821
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = this is , i believe , a state of things only possible with english people of whom , till today , when i sit down to puzzle out what i know of this sad affair , i knew nothing whatever .
+this	O
+is	O
+,	O
+i	O
+believe	O
+,	O
+a	O
+state	O
+of	O
+things	O
+only	O
+possible	O
+with	O
+english	O
+people	O
+of	O
+whom	O
+,	O
+till	O
+today	O
+,	O
+when	O
+i	O
+sit	O
+down	O
+to	O
+puzzle	O
+out	O
+what	O
+i	O
+know	O
+of	O
+this	O
+sad	O
+affair	O
+,	O
+i	O
+knew	O
+nothing	O
+whatever	O
+.	O
+
+# id = litbank-1822
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = six months ago i had never been to england , and , certainly , i had never sounded the depths of an english heart .
+six	O
+months	O
+ago	O
+i	O
+had	O
+never	O
+been	O
+to	O
+england	O
+,	O
+and	O
+,	O
+certainly	O
+,	O
+i	O
+had	O
+never	O
+sounded	O
+the	O
+depths	O
+of	O
+an	O
+english	O
+heart	O
+.	O
+
+# id = litbank-1823
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = i do n't mean to say that we were not acquainted with many english people .
+i	O
+do	O
+n't	O
+mean	O
+to	O
+say	O
+that	O
+we	O
+were	O
+not	O
+acquainted	O
+with	O
+many	O
+english	O
+people	O
+.	O
+

@@ -1,0 +1,659 @@
+# id = litbank-1651
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = and mr. lucian gregory , the red-haired poet , was really ( in some sense ) a man worth listening to , even if one only laughed at the end of it .
+and	O
+mr.	B-CHARACTER
+lucian	I-CHARACTER
+gregory	I-CHARACTER
+,	O
+the	O
+red-haired	O
+poet	O
+,	O
+was	O
+really	O
+(	O
+in	O
+some	O
+sense	O
+)	O
+a	O
+man	O
+worth	O
+listening	O
+to	O
+,	O
+even	O
+if	O
+one	O
+only	O
+laughed	O
+at	O
+the	O
+end	O
+of	O
+it	O
+.	O
+
+# id = litbank-1652
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = the new poet , who introduced himself by the name of gabriel syme was a very mild-looking mortal , with a fair , pointed beard and faint , yellow hair .
+the	O
+new	O
+poet	O
+,	O
+who	O
+introduced	O
+himself	O
+by	O
+the	O
+name	O
+of	O
+gabriel	B-CHARACTER
+syme	I-CHARACTER
+was	O
+a	O
+very	O
+mild-looking	O
+mortal	O
+,	O
+with	O
+a	O
+fair	O
+,	O
+pointed	O
+beard	O
+and	O
+faint	O
+,	O
+yellow	O
+hair	O
+.	O
+
+# id = litbank-1653
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = he signalised his entrance by differing with the established poet , gregory , upon the whole nature of poetry .
+he	O
+signalised	O
+his	O
+entrance	O
+by	O
+differing	O
+with	O
+the	O
+established	O
+poet	O
+,	O
+gregory	B-CHARACTER
+,	O
+upon	O
+the	O
+whole	O
+nature	O
+of	O
+poetry	O
+.	O
+
+# id = litbank-1654
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = he said that he ( syme ) was poet of law , a poet of order ; nay , he said he was a poet of respectability .
+he	O
+said	O
+that	O
+he	O
+(	O
+syme	B-CHARACTER
+)	O
+was	O
+poet	O
+of	O
+law	O
+,	O
+a	O
+poet	O
+of	O
+order	O
+;	O
+nay	O
+,	O
+he	O
+said	O
+he	O
+was	O
+a	O
+poet	O
+of	O
+respectability	O
+.	O
+
+# id = litbank-1655
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = in fact , mr. lucian gregory , the anarchic poet , connected the two events .
+in	O
+fact	O
+,	O
+mr.	B-CHARACTER
+lucian	I-CHARACTER
+gregory	I-CHARACTER
+,	O
+the	O
+anarchic	O
+poet	O
+,	O
+connected	O
+the	O
+two	O
+events	O
+.	O
+
+# id = litbank-1656
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = the third party of the group , gregory ’s sister rosamond , who had her brother ’s braids of red hair , but a kindlier face underneath them , laughed with such mixture of admiration and disapproval as she gave commonly to the family oracle .
+the	O
+third	O
+party	O
+of	O
+the	O
+group	O
+,	O
+gregory	B-CHARACTER
+’s	O
+sister	O
+rosamond	B-CHARACTER
+,	O
+who	O
+had	O
+her	O
+brother	O
+’s	O
+braids	O
+of	O
+red	O
+hair	O
+,	O
+but	O
+a	O
+kindlier	O
+face	O
+underneath	O
+them	O
+,	O
+laughed	O
+with	O
+such	O
+mixture	O
+of	O
+admiration	O
+and	O
+disapproval	O
+as	O
+she	O
+gave	O
+commonly	O
+to	O
+the	O
+family	O
+oracle	O
+.	O
+
+# id = litbank-1657
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = gregory resumed in high oratorical good humour .
+gregory	B-CHARACTER
+resumed	O
+in	O
+high	O
+oratorical	O
+good	O
+humour	O
+.	O
+
+# id = litbank-1658
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = “ so it is , ” said mr. syme .
+“	O
+so	O
+it	O
+is	O
+,	O
+”	O
+said	O
+mr.	B-CHARACTER
+syme	I-CHARACTER
+.	O
+
+# id = litbank-1659
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = “ nonsense ! ” said gregory , who was very rational when anyone else attempted paradox .
+“	O
+nonsense	O
+!	O
+”	O
+said	O
+gregory	B-CHARACTER
+,	O
+who	O
+was	O
+very	O
+rational	O
+when	O
+anyone	O
+else	O
+attempted	O
+paradox	O
+.	O
+
+# id = litbank-1660
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = “ it is you who are unpoetical , ” replied the poet syme .
+“	O
+it	O
+is	O
+you	O
+who	O
+are	O
+unpoetical	O
+,	O
+”	O
+replied	O
+the	O
+poet	O
+syme	B-CHARACTER
+.	O
+
+# id = litbank-1661
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = take your byron , who commemorates the defeats of man ; give me bradshaw , who commemorates his victories .
+take	O
+your	O
+byron	O
+,	O
+who	O
+commemorates	O
+the	O
+defeats	O
+of	O
+man	O
+;	O
+give	O
+me	O
+bradshaw	B-CHARACTER
+,	O
+who	O
+commemorates	O
+his	O
+victories	O
+.	O
+
+# id = litbank-1662
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = give me bradshaw , i say ! ”
+give	O
+me	O
+bradshaw	B-CHARACTER
+,	O
+i	O
+say	O
+!	O
+”	O
+
+# id = litbank-1663
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = “ must you go ? ” inquired gregory sarcastically .
+“	O
+must	O
+you	O
+go	O
+?	O
+”	O
+inquired	O
+gregory	B-CHARACTER
+sarcastically	O
+.	O
+
+# id = litbank-1664
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = “ i tell you , ” went on syme with passion , “ that every time a train comes in i feel that it has broken past batteries of besiegers , and that man has won a battle against chaos .
+“	O
+i	O
+tell	O
+you	O
+,	O
+”	O
+went	O
+on	O
+syme	B-CHARACTER
+with	O
+passion	O
+,	O
+“	O
+that	O
+every	O
+time	O
+a	O
+train	O
+comes	O
+in	O
+i	O
+feel	O
+that	O
+it	O
+has	O
+broken	O
+past	O
+batteries	O
+of	O
+besiegers	O
+,	O
+and	O
+that	O
+man	O
+has	O
+won	O
+a	O
+battle	O
+against	O
+chaos	O
+.	O
+
+# id = litbank-1665
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = gregory wagged his heavy , red head with a slow and sad smile .
+gregory	B-CHARACTER
+wagged	O
+his	O
+heavy	O
+,	O
+red	O
+head	O
+with	O
+a	O
+slow	O
+and	O
+sad	O
+smile	O
+.	O
+
+# id = litbank-1666
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = “ there again , ” said syme irritably , “ what is there poetical about being in revolt ?
+“	O
+there	O
+again	O
+,	O
+”	O
+said	O
+syme	B-CHARACTER
+irritably	O
+,	O
+“	O
+what	O
+is	O
+there	O
+poetical	O
+about	O
+being	O
+in	O
+revolt	O
+?	O
+
+# id = litbank-1646
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = the two poets of saffron park the suburb of saffron park lay on the sunset side of london , as red and ragged as a cloud of sunset .
+the	O
+two	O
+poets	O
+of	O
+saffron	O
+park	O
+the	O
+suburb	O
+of	O
+saffron	O
+park	O
+lay	O
+on	O
+the	O
+sunset	O
+side	O
+of	O
+london	O
+,	O
+as	O
+red	O
+and	O
+ragged	O
+as	O
+a	O
+cloud	O
+of	O
+sunset	O
+.	O
+
+# id = litbank-1647
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = it was built of a bright brick throughout ; its sky-line was fantastic , and even its ground plan was wild .
+it	O
+was	O
+built	O
+of	O
+a	O
+bright	O
+brick	O
+throughout	O
+;	O
+its	O
+sky-line	O
+was	O
+fantastic	O
+,	O
+and	O
+even	O
+its	O
+ground	O
+plan	O
+was	O
+wild	O
+.	O
+
+# id = litbank-1648
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = it had been the outburst of a speculative builder , faintly tinged with art , who called its architecture sometimes elizabethan and sometimes queen anne , apparently under the impression that the two sovereigns were identical .
+it	O
+had	O
+been	O
+the	O
+outburst	O
+of	O
+a	O
+speculative	O
+builder	O
+,	O
+faintly	O
+tinged	O
+with	O
+art	O
+,	O
+who	O
+called	O
+its	O
+architecture	O
+sometimes	O
+elizabethan	O
+and	O
+sometimes	O
+queen	O
+anne	O
+,	O
+apparently	O
+under	O
+the	O
+impression	O
+that	O
+the	O
+two	O
+sovereigns	O
+were	O
+identical	O
+.	O
+
+# id = litbank-1649
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = it was described with some justice as an artistic colony , though it never in any definable way produced any art .
+it	O
+was	O
+described	O
+with	O
+some	O
+justice	O
+as	O
+an	O
+artistic	O
+colony	O
+,	O
+though	O
+it	O
+never	O
+in	O
+any	O
+definable	O
+way	O
+produced	O
+any	O
+art	O
+.	O
+
+# id = litbank-1650
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = but although its pretensions to be an intellectual centre were a little vague , its pretensions to be a pleasant place were quite indisputable .
+but	O
+although	O
+its	O
+pretensions	O
+to	O
+be	O
+an	O
+intellectual	O
+centre	O
+were	O
+a	O
+little	O
+vague	O
+,	O
+its	O
+pretensions	O
+to	O
+be	O
+a	O
+pleasant	O
+place	O
+were	O
+quite	O
+indisputable	O
+.	O
+

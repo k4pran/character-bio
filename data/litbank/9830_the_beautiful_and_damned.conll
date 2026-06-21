@@ -1,0 +1,1206 @@
+# id = litbank-2302
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = book one chapter i anthony patch in 1913 , when anthony patch was twenty-five , two years were already gone since irony , the holy ghost of this later day , had , theoretically at least , descended upon him .
+book	O
+one	O
+chapter	O
+i	O
+anthony	B-CHARACTER
+patch	I-CHARACTER
+in	O
+1913	O
+,	O
+when	O
+anthony	B-CHARACTER
+patch	I-CHARACTER
+was	O
+twenty-five	O
+,	O
+two	O
+years	O
+were	O
+already	O
+gone	O
+since	O
+irony	O
+,	O
+the	O
+holy	O
+ghost	O
+of	O
+this	O
+later	O
+day	O
+,	O
+had	O
+,	O
+theoretically	O
+at	O
+least	O
+,	O
+descended	O
+upon	O
+him	O
+.	O
+
+# id = litbank-2308
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = until the time came for this effort he would be anthony patch -- not a portrait of a man but a distinct and dynamic personality , opinionated , contemptuous , functioning from within outward -- a man who was aware that there could be no honor and yet had honor , who knew the sophistry of courage and yet was brave .
+until	O
+the	O
+time	O
+came	O
+for	O
+this	O
+effort	O
+he	O
+would	O
+be	O
+anthony	B-CHARACTER
+patch	I-CHARACTER
+--	O
+not	O
+a	O
+portrait	O
+of	O
+a	O
+man	O
+but	O
+a	O
+distinct	O
+and	O
+dynamic	O
+personality	O
+,	O
+opinionated	O
+,	O
+contemptuous	O
+,	O
+functioning	O
+from	O
+within	O
+outward	O
+--	O
+a	O
+man	O
+who	O
+was	O
+aware	O
+that	O
+there	O
+could	O
+be	O
+no	O
+honor	O
+and	O
+yet	O
+had	O
+honor	O
+,	O
+who	O
+knew	O
+the	O
+sophistry	O
+of	O
+courage	O
+and	O
+yet	O
+was	O
+brave	O
+.	O
+
+# id = litbank-2309
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = a worthy man and his gifted son anthony drew as much consciousness of social security from being the grandson of adam j. patch as he would have had from tracing his line over the sea to the crusaders .
+a	O
+worthy	O
+man	O
+and	O
+his	O
+gifted	O
+son	O
+anthony	B-CHARACTER
+drew	O
+as	O
+much	O
+consciousness	O
+of	O
+social	O
+security	O
+from	O
+being	O
+the	O
+grandson	O
+of	O
+adam	B-CHARACTER
+j.	I-CHARACTER
+patch	I-CHARACTER
+as	O
+he	O
+would	O
+have	O
+had	O
+from	O
+tracing	O
+his	O
+line	O
+over	O
+the	O
+sea	O
+to	O
+the	O
+crusaders	O
+.	O
+
+# id = litbank-2310
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = now adam j. patch , more familiarly known as " cross patch , " left his father 's farm in tarrytown early in sixty-one to join a new york cavalry regiment .
+now	O
+adam	B-CHARACTER
+j.	I-CHARACTER
+patch	I-CHARACTER
+,	O
+more	O
+familiarly	O
+known	O
+as	O
+"	O
+cross	B-CHARACTER
+patch	I-CHARACTER
+,	O
+"	O
+left	O
+his	O
+father	O
+'s	O
+farm	O
+in	O
+tarrytown	O
+early	O
+in	O
+sixty-one	O
+to	O
+join	O
+a	O
+new	O
+york	O
+cavalry	O
+regiment	O
+.	O
+
+# id = litbank-2311
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = the year in which this story opens found him wearying ; his campaign had grown desultory ; 1861 was creeping up slowly on 1895 ; his thoughts ran a great deal on the civil war , somewhat on his dead wife and son , almost infinitesimally on his grandson anthony .
+the	O
+year	O
+in	O
+which	O
+this	O
+story	O
+opens	O
+found	O
+him	O
+wearying	O
+;	O
+his	O
+campaign	O
+had	O
+grown	O
+desultory	O
+;	O
+1861	O
+was	O
+creeping	O
+up	O
+slowly	O
+on	O
+1895	O
+;	O
+his	O
+thoughts	O
+ran	O
+a	O
+great	O
+deal	O
+on	O
+the	O
+civil	O
+war	O
+,	O
+somewhat	O
+on	O
+his	O
+dead	O
+wife	O
+and	O
+son	O
+,	O
+almost	O
+infinitesimally	O
+on	O
+his	O
+grandson	O
+anthony	B-CHARACTER
+.	O
+
+# id = litbank-2312
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = early in his career adam patch had married an anemic lady of thirty , alicia withers , who brought him one hundred thousand dollars and an impeccable entré into the banking circles of new york .
+early	O
+in	O
+his	O
+career	O
+adam	B-CHARACTER
+patch	I-CHARACTER
+had	O
+married	O
+an	O
+anemic	O
+lady	O
+of	O
+thirty	O
+,	O
+alicia	B-CHARACTER
+withers	I-CHARACTER
+,	O
+who	O
+brought	O
+him	O
+one	O
+hundred	O
+thousand	O
+dollars	O
+and	O
+an	O
+impeccable	O
+entré	O
+into	O
+the	O
+banking	O
+circles	O
+of	O
+new	O
+york	O
+.	O
+
+# id = litbank-2313
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = the boy , adam ulysses patch , became an inveterate joiner of clubs , connoisseur of good form , and driver of tandems -- at the astonishing age of twenty-six he began his memoirs under the title " new york society as i have seen it . "
+the	O
+boy	O
+,	O
+adam	B-CHARACTER
+ulysses	I-CHARACTER
+patch	I-CHARACTER
+,	O
+became	O
+an	O
+inveterate	O
+joiner	O
+of	O
+clubs	O
+,	O
+connoisseur	O
+of	O
+good	O
+form	O
+,	O
+and	O
+driver	O
+of	O
+tandems	O
+--	O
+at	O
+the	O
+astonishing	O
+age	O
+of	O
+twenty-six	O
+he	O
+began	O
+his	O
+memoirs	O
+under	O
+the	O
+title	O
+"	O
+new	O
+york	O
+society	O
+as	O
+i	O
+have	O
+seen	O
+it	O
+.	O
+"	O
+
+# id = litbank-2314
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = his wife was henrietta lebrune , the boston " society contralto , " and the single child of the union was , at the request of his grandfather , christened anthony comstock patch .
+his	O
+wife	O
+was	O
+henrietta	B-CHARACTER
+lebrune	I-CHARACTER
+,	O
+the	O
+boston	O
+"	O
+society	O
+contralto	O
+,	O
+"	O
+and	O
+the	O
+single	O
+child	O
+of	O
+the	O
+union	O
+was	O
+,	O
+at	O
+the	O
+request	O
+of	O
+his	O
+grandfather	O
+,	O
+christened	O
+anthony	B-CHARACTER
+comstock	I-CHARACTER
+patch	I-CHARACTER
+.	O
+
+# id = litbank-2315
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = young anthony had one picture of his father and mother together -- so often had it faced his eyes in childhood that it had acquired the impersonality of furniture , but every one who came into his bedroom regarded it with interest .
+young	O
+anthony	B-CHARACTER
+had	O
+one	O
+picture	O
+of	O
+his	O
+father	O
+and	O
+mother	O
+together	O
+--	O
+so	O
+often	O
+had	O
+it	O
+faced	O
+his	O
+eyes	O
+in	O
+childhood	O
+that	O
+it	O
+had	O
+acquired	O
+the	O
+impersonality	O
+of	O
+furniture	O
+,	O
+but	O
+every	O
+one	O
+who	O
+came	O
+into	O
+his	O
+bedroom	O
+regarded	O
+it	O
+with	O
+interest	O
+.	O
+
+# id = litbank-2316
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = this was anthony at five , the year of his mother 's death .
+this	O
+was	O
+anthony	B-CHARACTER
+at	O
+five	O
+,	O
+the	O
+year	O
+of	O
+his	O
+mother	O
+'s	O
+death	O
+.	O
+
+# id = litbank-2317
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = she was a lady who sang , sang , sang , in the music room of their house on washington square -- sometimes with guests scattered all about her , the men with their arms folded , balanced breathlessly on the edges of sofas , the women with their hands in their laps , occasionally making little whispers to the men and always clapping very briskly and uttering cooing cries after each song -- and often she sang to anthony alone , in italian or french or in a strange and terrible dialect which she imagined to be the speech of the southern negro .
+she	O
+was	O
+a	O
+lady	O
+who	O
+sang	O
+,	O
+sang	O
+,	O
+sang	O
+,	O
+in	O
+the	O
+music	O
+room	O
+of	O
+their	O
+house	O
+on	O
+washington	O
+square	O
+--	O
+sometimes	O
+with	O
+guests	O
+scattered	O
+all	O
+about	O
+her	O
+,	O
+the	O
+men	O
+with	O
+their	O
+arms	O
+folded	O
+,	O
+balanced	O
+breathlessly	O
+on	O
+the	O
+edges	O
+of	O
+sofas	O
+,	O
+the	O
+women	O
+with	O
+their	O
+hands	O
+in	O
+their	O
+laps	O
+,	O
+occasionally	O
+making	O
+little	O
+whispers	O
+to	O
+the	O
+men	O
+and	O
+always	O
+clapping	O
+very	O
+briskly	O
+and	O
+uttering	O
+cooing	O
+cries	O
+after	O
+each	O
+song	O
+--	O
+and	O
+often	O
+she	O
+sang	O
+to	O
+anthony	B-CHARACTER
+alone	O
+,	O
+in	O
+italian	O
+or	O
+french	O
+or	O
+in	O
+a	O
+strange	O
+and	O
+terrible	O
+dialect	O
+which	O
+she	O
+imagined	O
+to	O
+be	O
+the	O
+speech	O
+of	O
+the	O
+southern	O
+negro	O
+.	O
+
+# id = litbank-2318
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = his recollections of the gallant ulysses , the first man in america to roll the lapels of his coat , were much more vivid .
+his	O
+recollections	O
+of	O
+the	O
+gallant	O
+ulysses	B-CHARACTER
+,	O
+the	O
+first	O
+man	O
+in	O
+america	O
+to	O
+roll	O
+the	O
+lapels	O
+of	O
+his	O
+coat	O
+,	O
+were	O
+much	O
+more	O
+vivid	O
+.	O
+
+# id = litbank-2319
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = after henrietta lebrune patch had " joined another choir , " as her widower huskily remarked from time to time , father and son lived up at grampa 's in tarrytown , and ulysses came daily to anthony 's nursery and expelled pleasant , thick-smelling words for sometimes as much as an hour .
+after	O
+henrietta	B-CHARACTER
+lebrune	I-CHARACTER
+patch	I-CHARACTER
+had	O
+"	O
+joined	O
+another	O
+choir	O
+,	O
+"	O
+as	O
+her	O
+widower	O
+huskily	O
+remarked	O
+from	O
+time	O
+to	O
+time	O
+,	O
+father	O
+and	O
+son	O
+lived	O
+up	O
+at	O
+grampa	O
+'s	O
+in	O
+tarrytown	O
+,	O
+and	O
+ulysses	B-CHARACTER
+came	O
+daily	O
+to	O
+anthony	B-CHARACTER
+'s	O
+nursery	O
+and	O
+expelled	O
+pleasant	O
+,	O
+thick-smelling	O
+words	O
+for	O
+sometimes	O
+as	O
+much	O
+as	O
+an	O
+hour	O
+.	O
+
+# id = litbank-2320
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = he was continually promising anthony hunting trips and fishing trips and excursions to atlantic city , " oh , some time soon now " ; but none of them ever materialized .
+he	O
+was	O
+continually	O
+promising	O
+anthony	B-CHARACTER
+hunting	O
+trips	O
+and	O
+fishing	O
+trips	O
+and	O
+excursions	O
+to	O
+atlantic	O
+city	O
+,	O
+"	O
+oh	O
+,	O
+some	O
+time	O
+soon	O
+now	O
+"	O
+;	O
+but	O
+none	O
+of	O
+them	O
+ever	O
+materialized	O
+.	O
+
+# id = litbank-2321
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = one trip they did take ; when anthony was eleven they went abroad , to england and switzerland , and there in the best hotel in lucerne his father died with much sweating and grunting and crying aloud for air .
+one	O
+trip	O
+they	O
+did	O
+take	O
+;	O
+when	O
+anthony	B-CHARACTER
+was	O
+eleven	O
+they	O
+went	O
+abroad	O
+,	O
+to	O
+england	O
+and	O
+switzerland	O
+,	O
+and	O
+there	O
+in	O
+the	O
+best	O
+hotel	O
+in	O
+lucerne	O
+his	O
+father	O
+died	O
+with	O
+much	O
+sweating	O
+and	O
+grunting	O
+and	O
+crying	O
+aloud	O
+for	O
+air	O
+.	O
+
+# id = litbank-2322
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = in a panic of despair and terror anthony was brought back to america , wedded to a vague melancholy that was to stay beside him through the rest of his life .
+in	O
+a	O
+panic	O
+of	O
+despair	O
+and	O
+terror	O
+anthony	B-CHARACTER
+was	O
+brought	O
+back	O
+to	O
+america	O
+,	O
+wedded	O
+to	O
+a	O
+vague	O
+melancholy	O
+that	O
+was	O
+to	O
+stay	O
+beside	O
+him	O
+through	O
+the	O
+rest	O
+of	O
+his	O
+life	O
+.	O
+
+# id = litbank-2323
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = so to anthony life was a struggle against death , that waited at every corner .
+so	O
+to	O
+anthony	B-CHARACTER
+life	O
+was	O
+a	O
+struggle	O
+against	O
+death	O
+,	O
+that	O
+waited	O
+at	O
+every	O
+corner	O
+.	O
+
+# id = litbank-2324
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = so anthony kept up a correspondence with a half dozen " stamp and coin " companies and it was rare that the mail failed to bring him new stamp-books or packages of glittering approval sheets -- there was a mysterious fascination in transferring his acquisitions interminably from one book to another .
+so	O
+anthony	B-CHARACTER
+kept	O
+up	O
+a	O
+correspondence	O
+with	O
+a	O
+half	O
+dozen	O
+"	O
+stamp	O
+and	O
+coin	O
+"	O
+companies	O
+and	O
+it	O
+was	O
+rare	O
+that	O
+the	O
+mail	O
+failed	O
+to	O
+bring	O
+him	O
+new	O
+stamp-books	O
+or	O
+packages	O
+of	O
+glittering	O
+approval	O
+sheets	O
+--	O
+there	O
+was	O
+a	O
+mysterious	O
+fascination	O
+in	O
+transferring	O
+his	O
+acquisitions	O
+interminably	O
+from	O
+one	O
+book	O
+to	O
+another	O
+.	O
+
+# id = litbank-2325
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = maury noble , from philadelphia , for instance , remained two months , and together they realized the peculiar charm of latin women and had a delightful sense of being very young and free in a civilization that was very old and free .
+maury	B-CHARACTER
+noble	I-CHARACTER
+,	O
+from	O
+philadelphia	O
+,	O
+for	O
+instance	O
+,	O
+remained	O
+two	O
+months	O
+,	O
+and	O
+together	O
+they	O
+realized	O
+the	O
+peculiar	O
+charm	O
+of	O
+latin	O
+women	O
+and	O
+had	O
+a	O
+delightful	O
+sense	O
+of	O
+being	O
+very	O
+young	O
+and	O
+free	O
+in	O
+a	O
+civilization	O
+that	O
+was	O
+very	O
+old	O
+and	O
+free	O
+.	O
+
+# id = litbank-2303
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = irony was the final polish of the shoe , the ultimate dab of the clothes-brush , a sort of intellectual " there ! "
+irony	O
+was	O
+the	O
+final	O
+polish	O
+of	O
+the	O
+shoe	O
+,	O
+the	O
+ultimate	O
+dab	O
+of	O
+the	O
+clothes-brush	O
+,	O
+a	O
+sort	O
+of	O
+intellectual	O
+"	O
+there	O
+!	O
+"	O
+
+# id = litbank-2304
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = -- yet at the brink of this story he has as yet gone no further than the conscious stage .
+--	O
+yet	O
+at	O
+the	O
+brink	O
+of	O
+this	O
+story	O
+he	O
+has	O
+as	O
+yet	O
+gone	O
+no	O
+further	O
+than	O
+the	O
+conscious	O
+stage	O
+.	O
+
+# id = litbank-2305
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = as you first see him he wonders frequently whether he is not without honor and slightly mad , a shameful and obscene thinness glistening on the surface of the world like oil on a clean pond , these occasions being varied , of course , with those in which he thinks himself rather an exceptional young man , thoroughly sophisticated , well adjusted to his environment , and somewhat more significant than any one else he knows .
+as	O
+you	O
+first	O
+see	O
+him	O
+he	O
+wonders	O
+frequently	O
+whether	O
+he	O
+is	O
+not	O
+without	O
+honor	O
+and	O
+slightly	O
+mad	O
+,	O
+a	O
+shameful	O
+and	O
+obscene	O
+thinness	O
+glistening	O
+on	O
+the	O
+surface	O
+of	O
+the	O
+world	O
+like	O
+oil	O
+on	O
+a	O
+clean	O
+pond	O
+,	O
+these	O
+occasions	O
+being	O
+varied	O
+,	O
+of	O
+course	O
+,	O
+with	O
+those	O
+in	O
+which	O
+he	O
+thinks	O
+himself	O
+rather	O
+an	O
+exceptional	O
+young	O
+man	O
+,	O
+thoroughly	O
+sophisticated	O
+,	O
+well	O
+adjusted	O
+to	O
+his	O
+environment	O
+,	O
+and	O
+somewhat	O
+more	O
+significant	O
+than	O
+any	O
+one	O
+else	O
+he	O
+knows	O
+.	O
+
+# id = litbank-2306
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = this was his healthy state and it made him cheerful , pleasant , and very attractive to intelligent men and to all women .
+this	O
+was	O
+his	O
+healthy	O
+state	O
+and	O
+it	O
+made	O
+him	O
+cheerful	O
+,	O
+pleasant	O
+,	O
+and	O
+very	O
+attractive	O
+to	O
+intelligent	O
+men	O
+and	O
+to	O
+all	O
+women	O
+.	O
+
+# id = litbank-2307
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = in this state he considered that he would one day accomplish some quiet subtle thing that the elect would deem worthy and , passing on , would join the dimmer stars in a nebulous , indeterminate heaven half-way between death and immortality .
+in	O
+this	O
+state	O
+he	O
+considered	O
+that	O
+he	O
+would	O
+one	O
+day	O
+accomplish	O
+some	O
+quiet	O
+subtle	O
+thing	O
+that	O
+the	O
+elect	O
+would	O
+deem	O
+worthy	O
+and	O
+,	O
+passing	O
+on	O
+,	O
+would	O
+join	O
+the	O
+dimmer	O
+stars	O
+in	O
+a	O
+nebulous	O
+,	O
+indeterminate	O
+heaven	O
+half-way	O
+between	O
+death	O
+and	O
+immortality	O
+.	O
+

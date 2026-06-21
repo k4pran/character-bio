@@ -1,0 +1,696 @@
+# id = litbank-0542
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = my object is to explain the motive which has induced me to refuse the right hand of friendship to my cousin , john herncastle .
+my	O
+object	O
+is	O
+to	O
+explain	O
+the	O
+motive	O
+which	O
+has	O
+induced	O
+me	O
+to	O
+refuse	O
+the	O
+right	O
+hand	O
+of	O
+friendship	O
+to	O
+my	O
+cousin	O
+,	O
+john	B-CHARACTER
+herncastle	I-CHARACTER
+.	O
+
+# id = litbank-0546
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = the private difference between my cousin and me took its rise in a great public event in which we were both concerned -- the storming of seringapatam , under general baird , on the 4th of may , 1799 .
+the	O
+private	O
+difference	O
+between	O
+my	O
+cousin	O
+and	O
+me	O
+took	O
+its	O
+rise	O
+in	O
+a	O
+great	O
+public	O
+event	O
+in	O
+which	O
+we	O
+were	O
+both	O
+concerned	O
+--	O
+the	O
+storming	O
+of	O
+seringapatam	O
+,	O
+under	O
+general	B-CHARACTER
+baird	I-CHARACTER
+,	O
+on	O
+the	O
+4th	O
+of	O
+may	O
+,	O
+1799	O
+.	O
+
+# id = litbank-0548
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = the diamond fell into the possession of tippoo , sultan of seringapatam , who caused it to be placed as an ornament in the handle of a dagger , and who commanded it to be kept among the choicest treasures of his armoury .
+the	O
+diamond	O
+fell	O
+into	O
+the	O
+possession	O
+of	O
+tippoo	B-CHARACTER
+,	O
+sultan	O
+of	O
+seringapatam	O
+,	O
+who	O
+caused	O
+it	O
+to	O
+be	O
+placed	O
+as	O
+an	O
+ornament	O
+in	O
+the	O
+handle	O
+of	O
+a	O
+dagger	O
+,	O
+and	O
+who	O
+commanded	O
+it	O
+to	O
+be	O
+kept	O
+among	O
+the	O
+choicest	O
+treasures	O
+of	O
+his	O
+armoury	O
+.	O
+
+# id = litbank-0549
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = there were three officers of tippoo ’s household , strangers to the rest , who had won their master ’s confidence by conforming , or appearing to conform , to the mussulman faith ; and to those three men report pointed as the three priests in disguise .
+there	O
+were	O
+three	O
+officers	O
+of	O
+tippoo	B-CHARACTER
+’s	O
+household	O
+,	O
+strangers	O
+to	O
+the	O
+rest	O
+,	O
+who	O
+had	O
+won	O
+their	O
+master	O
+’s	O
+confidence	O
+by	O
+conforming	O
+,	O
+or	O
+appearing	O
+to	O
+conform	O
+,	O
+to	O
+the	O
+mussulman	O
+faith	O
+;	O
+and	O
+to	O
+those	O
+three	O
+men	O
+report	O
+pointed	O
+as	O
+the	O
+three	O
+priests	O
+in	O
+disguise	O
+.	O
+
+# id = litbank-0550
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = a foolish wrangle followed ; and herncastle ’s unlucky temper got the better of him .
+a	O
+foolish	O
+wrangle	O
+followed	O
+;	O
+and	O
+herncastle	B-CHARACTER
+’s	O
+unlucky	O
+temper	O
+got	O
+the	O
+better	O
+of	O
+him	O
+.	O
+
+# id = litbank-0551
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = it was only at dusk , when the place was ours , and after general baird himself had found the dead body of tippoo under a heap of the slain , that herncastle and i met .
+it	O
+was	O
+only	O
+at	O
+dusk	O
+,	O
+when	O
+the	O
+place	O
+was	O
+ours	O
+,	O
+and	O
+after	O
+general	B-CHARACTER
+baird	I-CHARACTER
+himself	O
+had	O
+found	O
+the	O
+dead	O
+body	O
+of	O
+tippoo	B-CHARACTER
+under	O
+a	O
+heap	O
+of	O
+the	O
+slain	O
+,	O
+that	O
+herncastle	B-CHARACTER
+and	O
+i	O
+met	O
+.	O
+
+# id = litbank-0552
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = herncastle ’s fiery temper had been , as i could plainly see , exasperated to a kind of frenzy by the terrible slaughter through which we had passed .
+herncastle	B-CHARACTER
+’s	O
+fiery	O
+temper	O
+had	O
+been	O
+,	O
+as	O
+i	O
+could	O
+plainly	O
+see	O
+,	O
+exasperated	O
+to	O
+a	O
+kind	O
+of	O
+frenzy	O
+by	O
+the	O
+terrible	O
+slaughter	O
+through	O
+which	O
+we	O
+had	O
+passed	O
+.	O
+
+# id = litbank-0553
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = the man turned at the instant when i came in , and i saw john herncastle , with a torch in one hand , and a dagger dripping with blood in the other .
+the	O
+man	O
+turned	O
+at	O
+the	O
+instant	O
+when	O
+i	O
+came	O
+in	O
+,	O
+and	O
+i	O
+saw	O
+john	B-CHARACTER
+herncastle	I-CHARACTER
+,	O
+with	O
+a	O
+torch	O
+in	O
+one	O
+hand	O
+,	O
+and	O
+a	O
+dagger	O
+dripping	O
+with	O
+blood	O
+in	O
+the	O
+other	O
+.	O
+
+# id = litbank-0554
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = the dying indian sank to his knees , pointed to the dagger in herncastle ’s hand , and said , in his native language -- “ the moonstone will have its vengeance yet on you and yours ! ”
+the	O
+dying	O
+indian	O
+sank	O
+to	O
+his	O
+knees	O
+,	O
+pointed	O
+to	O
+the	O
+dagger	O
+in	O
+herncastle	B-CHARACTER
+’s	O
+hand	O
+,	O
+and	O
+said	O
+,	O
+in	O
+his	O
+native	O
+language	O
+--	O
+“	O
+the	O
+moonstone	O
+will	O
+have	O
+its	O
+vengeance	O
+yet	O
+on	O
+you	O
+and	O
+yours	O
+!	O
+”	O
+
+# id = litbank-0555
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = early in the morning , the plunder still going on , general baird announced publicly by beat of drum , that any thief detected in the fact , be he whom he might , should be hung .
+early	O
+in	O
+the	O
+morning	O
+,	O
+the	O
+plunder	O
+still	O
+going	O
+on	O
+,	O
+general	B-CHARACTER
+baird	I-CHARACTER
+announced	O
+publicly	O
+by	O
+beat	O
+of	O
+drum	O
+,	O
+that	O
+any	O
+thief	O
+detected	O
+in	O
+the	O
+fact	O
+,	O
+be	O
+he	O
+whom	O
+he	O
+might	O
+,	O
+should	O
+be	O
+hung	O
+.	O
+
+# id = litbank-0556
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = the provost-marshal was in attendance , to prove that the general was in earnest ; and in the throng that followed the proclamation , herncastle and i met again .
+the	O
+provost-marshal	O
+was	O
+in	O
+attendance	O
+,	O
+to	O
+prove	O
+that	O
+the	O
+general	O
+was	O
+in	O
+earnest	O
+;	O
+and	O
+in	O
+the	O
+throng	O
+that	O
+followed	O
+the	O
+proclamation	O
+,	O
+herncastle	B-CHARACTER
+and	O
+i	O
+met	O
+again	O
+.	O
+
+# id = litbank-0557
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = “ the indian met his death , as i suppose , by a mortal wound , ” said herncastle .
+“	O
+the	O
+indian	O
+met	O
+his	O
+death	O
+,	O
+as	O
+i	O
+suppose	O
+,	O
+by	O
+a	O
+mortal	O
+wound	O
+,	O
+”	O
+said	O
+herncastle	B-CHARACTER
+.	O
+
+# id = litbank-0541
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = prologue the storming of seringapatam ( 1799 ) extracted from a family paper i address these lines -- written in india -- to my relatives in england .
+prologue	O
+the	O
+storming	O
+of	O
+seringapatam	O
+(	O
+1799	O
+)	O
+extracted	O
+from	O
+a	O
+family	O
+paper	O
+i	O
+address	O
+these	O
+lines	O
+--	O
+written	O
+in	O
+india	O
+--	O
+to	O
+my	O
+relatives	O
+in	O
+england	O
+.	O
+
+# id = litbank-0543
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = the reserve which i have hitherto maintained in this matter has been misinterpreted by members of my family whose good opinion i can not consent to forfeit .
+the	O
+reserve	O
+which	O
+i	O
+have	O
+hitherto	O
+maintained	O
+in	O
+this	O
+matter	O
+has	O
+been	O
+misinterpreted	O
+by	O
+members	O
+of	O
+my	O
+family	O
+whose	O
+good	O
+opinion	O
+i	O
+can	O
+not	O
+consent	O
+to	O
+forfeit	O
+.	O
+
+# id = litbank-0544
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = i request them to suspend their decision until they have read my narrative .
+i	O
+request	O
+them	O
+to	O
+suspend	O
+their	O
+decision	O
+until	O
+they	O
+have	O
+read	O
+my	O
+narrative	O
+.	O
+
+# id = litbank-0545
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = and i declare , on my word of honour , that what i am now about to write is , strictly and literally , the truth .
+and	O
+i	O
+declare	O
+,	O
+on	O
+my	O
+word	O
+of	O
+honour	O
+,	O
+that	O
+what	O
+i	O
+am	O
+now	O
+about	O
+to	O
+write	O
+is	O
+,	O
+strictly	O
+and	O
+literally	O
+,	O
+the	O
+truth	O
+.	O
+
+# id = litbank-0547
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = in order that the circumstances may be clearly understood , i must revert for a moment to the period before the assault , and to the stories current in our camp of the treasure in jewels and gold stored up in the palace of seringapatam .
+in	O
+order	O
+that	O
+the	O
+circumstances	O
+may	O
+be	O
+clearly	O
+understood	O
+,	O
+i	O
+must	O
+revert	O
+for	O
+a	O
+moment	O
+to	O
+the	O
+period	O
+before	O
+the	O
+assault	O
+,	O
+and	O
+to	O
+the	O
+stories	O
+current	O
+in	O
+our	O
+camp	O
+of	O
+the	O
+treasure	O
+in	O
+jewels	O
+and	O
+gold	O
+stored	O
+up	O
+in	O
+the	O
+palace	O
+of	O
+seringapatam	O
+.	O
+

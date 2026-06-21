@@ -1,0 +1,800 @@
+# id = litbank-1189
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = chapter i the consul ’s yarn a week had passed since the funeral of my poor boy harry , and one evening i was in my room walking up and down and thinking , when there was a ring at the outer door .
+chapter	O
+i	O
+the	O
+consul	O
+’s	O
+yarn	O
+a	O
+week	O
+had	O
+passed	O
+since	O
+the	O
+funeral	O
+of	O
+my	O
+poor	O
+boy	O
+harry	B-CHARACTER
+,	O
+and	O
+one	O
+evening	O
+i	O
+was	O
+in	O
+my	O
+room	O
+walking	O
+up	O
+and	O
+down	O
+and	O
+thinking	O
+,	O
+when	O
+there	O
+was	O
+a	O
+ring	O
+at	O
+the	O
+outer	O
+door	O
+.	O
+
+# id = litbank-1190
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = going down the steps i opened it myself , and in came my old friends sir henry curtis and captain john good , rn .
+going	O
+down	O
+the	O
+steps	O
+i	O
+opened	O
+it	O
+myself	O
+,	O
+and	O
+in	O
+came	O
+my	O
+old	O
+friends	O
+sir	B-CHARACTER
+henry	I-CHARACTER
+curtis	I-CHARACTER
+and	O
+captain	B-CHARACTER
+john	I-CHARACTER
+good	I-CHARACTER
+,	O
+rn	O
+.	O
+
+# id = litbank-1193
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = they said nothing , but sir henry slowly filled his pipe and lit it with a burning ember .
+they	O
+said	O
+nothing	O
+,	O
+but	O
+sir	B-CHARACTER
+henry	I-CHARACTER
+slowly	O
+filled	O
+his	O
+pipe	O
+and	O
+lit	O
+it	O
+with	O
+a	O
+burning	O
+ember	O
+.	O
+
+# id = litbank-1197
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = indeed , sir henry ’s girth is so great that , though he is six feet two high , he does not strike one as a tall man .
+indeed	O
+,	O
+sir	B-CHARACTER
+henry	I-CHARACTER
+’s	O
+girth	O
+is	O
+so	O
+great	O
+that	O
+,	O
+though	O
+he	O
+is	O
+six	O
+feet	O
+two	O
+high	O
+,	O
+he	O
+does	O
+not	O
+strike	O
+one	O
+as	O
+a	O
+tall	O
+man	O
+.	O
+
+# id = litbank-1198
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = imagine to yourself a small , withered , yellow-faced man of sixty-three , with thin hands , large brown eyes , a head of grizzled hair cut short and standing up like a half-worn scrubbing-brush -- total weight in my clothes , nine stone six -- and you will get a very fair idea of allan quatermain , commonly called hunter quatermain , or by the natives ‘ macumazahn ’ -- anglicè , he who keeps a bright look-out at night , or , in vulgar english , a sharp fellow who is not to be taken in .
+imagine	O
+to	O
+yourself	O
+a	O
+small	O
+,	O
+withered	O
+,	O
+yellow-faced	O
+man	O
+of	O
+sixty-three	O
+,	O
+with	O
+thin	O
+hands	O
+,	O
+large	O
+brown	O
+eyes	O
+,	O
+a	O
+head	O
+of	O
+grizzled	O
+hair	O
+cut	O
+short	O
+and	O
+standing	O
+up	O
+like	O
+a	O
+half-worn	O
+scrubbing-brush	O
+--	O
+total	O
+weight	O
+in	O
+my	O
+clothes	O
+,	O
+nine	O
+stone	O
+six	O
+--	O
+and	O
+you	O
+will	O
+get	O
+a	O
+very	O
+fair	O
+idea	O
+of	O
+allan	B-CHARACTER
+quatermain	I-CHARACTER
+,	O
+commonly	O
+called	O
+hunter	B-CHARACTER
+quatermain	I-CHARACTER
+,	O
+or	O
+by	O
+the	O
+natives	O
+‘	O
+macumazahn	B-CHARACTER
+’	O
+--	O
+anglicè	O
+,	O
+he	O
+who	O
+keeps	O
+a	O
+bright	O
+look-out	O
+at	O
+night	O
+,	O
+or	O
+,	O
+in	O
+vulgar	O
+english	O
+,	O
+a	O
+sharp	O
+fellow	O
+who	O
+is	O
+not	O
+to	O
+be	O
+taken	O
+in	O
+.	O
+
+# id = litbank-1199
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = sir henry tells him that it comes from idleness and over-feeding , and good does not like it at all , though he can not deny it .
+sir	B-CHARACTER
+henry	I-CHARACTER
+tells	O
+him	O
+that	O
+it	O
+comes	O
+from	O
+idleness	O
+and	O
+over-feeding	O
+,	O
+and	O
+good	O
+does	O
+not	O
+like	O
+it	O
+at	O
+all	O
+,	O
+though	O
+he	O
+can	O
+not	O
+deny	O
+it	O
+.	O
+
+# id = litbank-1200
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = all this while curtis and good had been silent , feeling , i suppose , that they had nothing to say that could do me any good , and content to give me the comfort of their presence and unspoken sympathy ; for it was only their second visit since the funeral .
+all	O
+this	O
+while	O
+curtis	B-CHARACTER
+and	O
+good	O
+had	O
+been	O
+silent	O
+,	O
+feeling	O
+,	O
+i	O
+suppose	O
+,	O
+that	O
+they	O
+had	O
+nothing	O
+to	O
+say	O
+that	O
+could	O
+do	O
+me	O
+any	O
+good	O
+,	O
+and	O
+content	O
+to	O
+give	O
+me	O
+the	O
+comfort	O
+of	O
+their	O
+presence	O
+and	O
+unspoken	O
+sympathy	O
+;	O
+for	O
+it	O
+was	O
+only	O
+their	O
+second	O
+visit	O
+since	O
+the	O
+funeral	O
+.	O
+
+# id = litbank-1201
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = sir henry laid his head back in his arm-chair and laughed one of his deep laughs .
+sir	B-CHARACTER
+henry	I-CHARACTER
+laid	O
+his	O
+head	O
+back	O
+in	O
+his	O
+arm-chair	O
+and	O
+laughed	O
+one	O
+of	O
+his	O
+deep	O
+laughs	O
+.	O
+
+# id = litbank-1202
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = said sir henry ; ‘ then i will explain .
+said	O
+sir	B-CHARACTER
+henry	I-CHARACTER
+;	O
+‘	O
+then	O
+i	O
+will	O
+explain	O
+.	O
+
+# id = litbank-1203
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = asked sir henry .
+asked	O
+sir	B-CHARACTER
+henry	I-CHARACTER
+.	O
+
+# id = litbank-1204
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = ‘ listen , old fellow , ’ went on sir henry , with considerable animation of manner .
+‘	O
+listen	O
+,	O
+old	O
+fellow	O
+,	O
+’	O
+went	O
+on	O
+sir	B-CHARACTER
+henry	I-CHARACTER
+,	O
+with	O
+considerable	O
+animation	O
+of	O
+manner	O
+.	O
+
+# id = litbank-1205
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = i am always dreaming of kukuanaland and gagool and king solomon ’s mines .
+i	O
+am	O
+always	O
+dreaming	O
+of	O
+kukuanaland	O
+and	O
+gagool	B-CHARACTER
+and	O
+king	O
+solomon	O
+’s	O
+mines	O
+.	O
+
+# id = litbank-1206
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = if anything happens to me the baronetcy will go to my brother george and his boy , as it would ultimately do in any case .
+if	O
+anything	O
+happens	O
+to	O
+me	O
+the	O
+baronetcy	O
+will	O
+go	O
+to	O
+my	O
+brother	O
+george	B-CHARACTER
+and	O
+his	O
+boy	O
+,	O
+as	O
+it	O
+would	O
+ultimately	O
+do	O
+in	O
+any	O
+case	O
+.	O
+
+# id = litbank-1207
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = said sir henry .
+said	O
+sir	B-CHARACTER
+henry	I-CHARACTER
+.	O
+
+# id = litbank-1208
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = ‘ and now , quatermain , tell us , where do you propose going to ? ’
+‘	O
+and	O
+now	O
+,	O
+quatermain	B-CHARACTER
+,	O
+tell	O
+us	O
+,	O
+where	O
+do	O
+you	O
+propose	O
+going	O
+to	O
+?	O
+’	O
+
+# id = litbank-1209
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = ‘ it ’s a big order , ’ said sir henry , reflectively .
+‘	O
+it	O
+’s	O
+a	O
+big	O
+order	O
+,	O
+’	O
+said	O
+sir	B-CHARACTER
+henry	I-CHARACTER
+,	O
+reflectively	O
+.	O
+
+# id = litbank-1210
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = ‘ i ’m your man , though i do n’t believe in your white race , ’ said sir henry curtis , rising and placing his arm upon my shoulder .
+‘	O
+i	O
+’m	O
+your	O
+man	O
+,	O
+though	O
+i	O
+do	O
+n’t	O
+believe	O
+in	O
+your	O
+white	O
+race	O
+,	O
+’	O
+said	O
+sir	B-CHARACTER
+henry	I-CHARACTER
+curtis	I-CHARACTER
+,	O
+rising	O
+and	O
+placing	O
+his	O
+arm	O
+upon	O
+my	O
+shoulder	O
+.	O
+
+# id = litbank-1211
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = asked sir henry .
+asked	O
+sir	B-CHARACTER
+henry	I-CHARACTER
+.	O
+
+# id = litbank-1191
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = they entered the vestibule and sat themselves down before the wide hearth , where , i remember , a particularly good fire of logs was burning .
+they	O
+entered	O
+the	O
+vestibule	O
+and	O
+sat	O
+themselves	O
+down	O
+before	O
+the	O
+wide	O
+hearth	O
+,	O
+where	O
+,	O
+i	O
+remember	O
+,	O
+a	O
+particularly	O
+good	O
+fire	O
+of	O
+logs	O
+was	O
+burning	O
+.	O
+
+# id = litbank-1192
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = ‘ it is very kind of you to come round , ’ i said by way of making a remark ; ‘ it must have been heavy walking in the snow . ’
+‘	O
+it	O
+is	O
+very	O
+kind	O
+of	O
+you	O
+to	O
+come	O
+round	O
+,	O
+’	O
+i	O
+said	O
+by	O
+way	O
+of	O
+making	O
+a	O
+remark	O
+;	O
+‘	O
+it	O
+must	O
+have	O
+been	O
+heavy	O
+walking	O
+in	O
+the	O
+snow	O
+.	O
+’	O
+
+# id = litbank-1194
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = as he leant forward to do so the fire got hold of a gassy bit of pine and flared up brightly , throwing the whole scene into strong relief , and i thought , what a splendid-looking man he is !
+as	O
+he	O
+leant	O
+forward	O
+to	O
+do	O
+so	O
+the	O
+fire	O
+got	O
+hold	O
+of	O
+a	O
+gassy	O
+bit	O
+of	O
+pine	O
+and	O
+flared	O
+up	O
+brightly	O
+,	O
+throwing	O
+the	O
+whole	O
+scene	O
+into	O
+strong	O
+relief	O
+,	O
+and	O
+i	O
+thought	O
+,	O
+what	O
+a	O
+splendid-looking	O
+man	O
+he	O
+is	O
+!	O
+
+# id = litbank-1195
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = calm , powerful face , clear-cut features , large grey eyes , yellow beard and hair -- altogether a magnificent specimen of the higher type of humanity .
+calm	O
+,	O
+powerful	O
+face	O
+,	O
+clear-cut	O
+features	O
+,	O
+large	O
+grey	O
+eyes	O
+,	O
+yellow	O
+beard	O
+and	O
+hair	O
+--	O
+altogether	O
+a	O
+magnificent	O
+specimen	O
+of	O
+the	O
+higher	O
+type	O
+of	O
+humanity	O
+.	O
+
+# id = litbank-1196
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = nor did his form belie his face .
+nor	O
+did	O
+his	O
+form	O
+belie	O
+his	O
+face	O
+.	O
+
