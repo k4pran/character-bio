@@ -1,4 +1,53 @@
-# id = litbank-0465
+# id = litbank-0533
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = phase the first : the maiden i on an evening in the latter part of may a middle-aged man was walking homeward from shaston to the village of marlott , in the adjoining vale of blakemore , or blackmoor .
+phase	O
+the	O
+first	O
+:	O
+the	O
+maiden	O
+i	O
+on	O
+an	O
+evening	O
+in	O
+the	O
+latter	O
+part	O
+of	O
+may	O
+a	O
+middle-aged	O
+man	O
+was	O
+walking	O
+homeward	O
+from	O
+shaston	B-LOCATION
+to	O
+the	O
+village	O
+of	O
+marlott	B-LOCATION
+,	O
+in	O
+the	O
+adjoining	O
+vale	B-LOCATION
+of	I-LOCATION
+blakemore	I-LOCATION
+,	O
+or	O
+blackmoor	B-LOCATION
+.	O
+
+# id = litbank-0539
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -19,7 +68,7 @@ the	O
 parson	O
 .	O
 
-# id = litbank-0466
+# id = litbank-0540
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -74,7 +123,7 @@ now	O
 .	O
 "	O
 
-# id = litbank-0467
+# id = litbank-0541
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -112,7 +161,7 @@ haggler	O
 ?	O
 "	O
 
-# id = litbank-0468
+# id = litbank-0542
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -129,11 +178,11 @@ the	O
 antiquary	O
 ,	O
 of	O
-stagfoot	O
-lane	O
+stagfoot	B-LOCATION
+lane	I-LOCATION
 .	O
 
-# id = litbank-0469
+# id = litbank-0543
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -180,7 +229,7 @@ knight	O
 who	O
 came	O
 from	O
-normandy	O
+normandy	B-LOCATION
 with	O
 william	O
 the	O
@@ -195,7 +244,125 @@ roll	O
 ?	O
 "	O
 
-# id = litbank-0470
+# id = litbank-0544
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = your ancestor was one of the twelve knights who assisted the lord of estremavilla in normandy in his conquest of glamorganshire .
+your	O
+ancestor	O
+was	O
+one	O
+of	O
+the	O
+twelve	O
+knights	O
+who	O
+assisted	O
+the	O
+lord	O
+of	O
+estremavilla	B-LOCATION
+in	O
+normandy	B-LOCATION
+in	O
+his	O
+conquest	O
+of	O
+glamorganshire	B-LOCATION
+.	O
+
+# id = litbank-0545
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = branches of your family held manors over all this part of england ; their names appear in the pipe rolls in the time of king stephen .
+branches	O
+of	O
+your	O
+family	O
+held	O
+manors	O
+over	O
+all	O
+this	O
+part	O
+of	O
+england	B-LOCATION
+;	O
+their	O
+names	O
+appear	O
+in	O
+the	O
+pipe	O
+rolls	O
+in	O
+the	O
+time	O
+of	O
+king	O
+stephen	O
+.	O
+
+# id = litbank-0546
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = in the reign of king john one of them was rich enough to give a manor to the knights hospitallers ; and in edward the second 's time your forefather brian was summoned to westminster to attend the great council there .
+in	O
+the	O
+reign	O
+of	O
+king	O
+john	O
+one	O
+of	O
+them	O
+was	O
+rich	O
+enough	O
+to	O
+give	O
+a	O
+manor	O
+to	O
+the	O
+knights	O
+hospitallers	O
+;	O
+and	O
+in	O
+edward	O
+the	O
+second	O
+'s	O
+time	O
+your	O
+forefather	O
+brian	O
+was	O
+summoned	O
+to	O
+westminster	B-LOCATION
+to	O
+attend	O
+the	O
+great	O
+council	O
+there	O
+.	O
+
+# id = litbank-0547
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -251,7 +418,44 @@ now	O
 .	O
 "	O
 
-# id = litbank-0471
+# id = litbank-0548
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = " in short , " concluded the parson , decisively smacking his leg with his switch , " there 's hardly such another family in england . "
+"	O
+in	O
+short	O
+,	O
+"	O
+concluded	O
+the	O
+parson	O
+,	O
+decisively	O
+smacking	O
+his	O
+leg	O
+with	O
+his	O
+switch	O
+,	O
+"	O
+there	O
+'s	O
+hardly	O
+such	O
+another	O
+family	O
+in	O
+england	B-LOCATION
+.	O
+"	O
+
+# id = litbank-0549
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -263,7 +467,7 @@ said	O
 durbeyfield	B-CHARACTER
 .	O
 
-# id = litbank-0472
+# id = litbank-0550
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -330,7 +534,115 @@ the	O
 subject	O
 .	O
 
-# id = litbank-0473
+# id = litbank-0551
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = " well , i have heard once or twice , 't is true , that my family had seen better days afore they came to blackmoor .
+"	O
+well	O
+,	O
+i	O
+have	O
+heard	O
+once	O
+or	O
+twice	O
+,	O
+'t	O
+is	O
+true	O
+,	O
+that	O
+my	O
+family	O
+had	O
+seen	O
+better	O
+days	O
+afore	O
+they	O
+came	O
+to	O
+blackmoor	B-LOCATION
+.	O
+
+# id = litbank-0552
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = " at kingsbere-sub-greenhill : rows and rows of you in your vaults , with your effigies under purbeck-marble canopies . "
+"	O
+at	O
+kingsbere-sub-greenhill	B-LOCATION
+:	O
+rows	O
+and	O
+rows	O
+of	O
+you	O
+in	O
+your	O
+vaults	O
+,	O
+with	O
+your	O
+effigies	O
+under	O
+purbeck-marble	O
+canopies	O
+.	O
+"	O
+
+# id = litbank-0553
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = in this county there was a seat of yours at kingsbere , and another at sherton , and another in millpond , and another at lullstead , and another at wellbridge . "
+in	O
+this	O
+county	O
+there	O
+was	O
+a	O
+seat	O
+of	O
+yours	O
+at	O
+kingsbere	B-LOCATION
+,	O
+and	O
+another	O
+at	O
+sherton	B-LOCATION
+,	O
+and	O
+another	O
+in	O
+millpond	B-LOCATION
+,	O
+and	O
+another	O
+at	O
+lullstead	B-LOCATION
+,	O
+and	O
+another	O
+at	O
+wellbridge	B-LOCATION
+.	O
+"	O
+
+# id = litbank-0554
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -346,7 +658,44 @@ a	O
 pause	O
 .	O
 
-# id = litbank-0474
+# id = litbank-0555
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = there 's a very pretty brew in tap at the pure drop -- though , to be sure , not so good as at rolliver 's . "
+there	O
+'s	O
+a	O
+very	O
+pretty	O
+brew	O
+in	O
+tap	O
+at	O
+the	O
+pure	B-LOCATION
+drop	I-LOCATION
+--	O
+though	O
+,	O
+to	O
+be	O
+sure	O
+,	O
+not	O
+so	O
+good	O
+as	O
+at	O
+rolliver	B-LOCATION
+'s	O
+.	O
+"	O
+
+# id = litbank-0556
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -367,7 +716,7 @@ evening	O
 durbeyfield	B-CHARACTER
 .	O
 
-# id = litbank-0475
+# id = litbank-0557
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -409,7 +758,7 @@ before	O
 him	O
 .	O
 
-# id = litbank-0476
+# id = litbank-0558
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -443,7 +792,7 @@ by	O
 durbeyfield	B-CHARACTER
 .	O
 
-# id = litbank-0477
+# id = litbank-0559
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -473,7 +822,7 @@ boy	O
 '	O
 ?	O
 
-# id = litbank-0478
+# id = litbank-0560
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -564,7 +913,7 @@ the	O
 daisies	O
 .	O
 
-# id = litbank-0479
+# id = litbank-0561
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -588,7 +937,7 @@ to	O
 toe	O
 .	O
 
-# id = litbank-0480
+# id = litbank-0562
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -614,7 +963,118 @@ prostrate	O
 man	O
 .	O
 
-# id = litbank-0481
+# id = litbank-0563
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = dost know of such a place , lad , as kingsbere-sub-greenhill ? "
+dost	O
+know	O
+of	O
+such	O
+a	O
+place	O
+,	O
+lad	O
+,	O
+as	O
+kingsbere-sub-greenhill	B-LOCATION
+?	O
+"	O
+
+# id = litbank-0564
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = there 's not a man in the county o ' south-wessex that 's got grander and nobler skillentons in his family than i. " " oh ? "
+there	O
+'s	O
+not	O
+a	O
+man	O
+in	O
+the	O
+county	O
+o	O
+'	O
+south-wessex	B-LOCATION
+that	O
+'s	O
+got	O
+grander	O
+and	O
+nobler	O
+skillentons	O
+in	O
+his	O
+family	O
+than	O
+i.	O
+"	O
+"	O
+oh	O
+?	O
+"	O
+
+# id = litbank-0565
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = " now take up that basket , and goo on to marlott , and when you 've come to the pure drop inn , tell 'em to send a horse and carriage to me immed ' ately , to carry me hwome .
+"	O
+now	O
+take	O
+up	O
+that	O
+basket	O
+,	O
+and	O
+goo	O
+on	O
+to	O
+marlott	B-LOCATION
+,	O
+and	O
+when	O
+you	O
+'ve	O
+come	O
+to	O
+the	O
+pure	B-LOCATION
+drop	I-LOCATION
+inn	I-LOCATION
+,	O
+tell	O
+'em	O
+to	O
+send	O
+a	O
+horse	O
+and	O
+carriage	O
+to	O
+me	O
+immed	O
+'	O
+ately	O
+,	O
+to	O
+carry	O
+me	O
+hwome	O
+.	O
+
+# id = litbank-0566
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -654,56 +1114,7 @@ he	O
 possessed	O
 .	O
 
-# id = litbank-0460
-# source = LitBank
-# book = Tess of the d'Urbervilles
-# book_id = 110_tess_of_the_durbervilles_a_pure_woman
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
-# text = phase the first : the maiden i on an evening in the latter part of may a middle-aged man was walking homeward from shaston to the village of marlott , in the adjoining vale of blakemore , or blackmoor .
-phase	O
-the	O
-first	O
-:	O
-the	O
-maiden	O
-i	O
-on	O
-an	O
-evening	O
-in	O
-the	O
-latter	O
-part	O
-of	O
-may	O
-a	O
-middle-aged	O
-man	O
-was	O
-walking	O
-homeward	O
-from	O
-shaston	O
-to	O
-the	O
-village	O
-of	O
-marlott	O
-,	O
-in	O
-the	O
-adjoining	O
-vale	O
-of	O
-blakemore	O
-,	O
-or	O
-blackmoor	O
-.	O
-
-# id = litbank-0461
+# id = litbank-0534
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -742,7 +1153,7 @@ straight	O
 line	O
 .	O
 
-# id = litbank-0462
+# id = litbank-0535
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -776,7 +1187,7 @@ in	O
 particular	O
 .	O
 
-# id = litbank-0463
+# id = litbank-0536
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -820,7 +1231,7 @@ it	O
 off	O
 .	O
 
-# id = litbank-0464
+# id = litbank-0537
 # source = LitBank
 # book = Tess of the d'Urbervilles
 # book_id = 110_tess_of_the_durbervilles_a_pure_woman
@@ -852,5 +1263,29 @@ hummed	O
 a	O
 wandering	O
 tune	O
+.	O
+
+# id = litbank-0538
+# source = LitBank
+# book = Tess of the d'Urbervilles
+# book_id = 110_tess_of_the_durbervilles_a_pure_woman
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/110_tess_of_the_durbervilles_a_pure_woman_brat.tsv
+# text = " good night t ' ee , " said the man with the basket .
+"	O
+good	O
+night	O
+t	O
+'	O
+ee	O
+,	O
+"	O
+said	O
+the	O
+man	O
+with	O
+the	O
+basket	O
 .	O
 

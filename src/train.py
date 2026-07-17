@@ -1,4 +1,5 @@
 import argparse
+import inspect
 import json
 from pathlib import Path
 from typing import List, Tuple, Set
@@ -13,14 +14,6 @@ from transformers import (
     Trainer,
     TrainingArguments,
 )
-
-print("torch version:", torch.__version__)
-print("cuda available:", torch.cuda.is_available())
-
-if torch.cuda.is_available():
-    print("device:", torch.cuda.get_device_name(0))
-else:
-    print("device: CPU")
 
 
 def load_label_maps(data_dir: Path):
@@ -196,7 +189,7 @@ EVAL_SPLIT_CONLL_FILENAMES = {"validation.conll", "test.conll"}
 def find_conll_files(data_dir: Path, pattern: str = "*.conll") -> List[Path]:
     return sorted(
         path for path in data_dir.rglob(pattern)
-        if path.is_file()
+        if path.is_file() and ".cache" not in path.parts
     )
 
 
@@ -242,7 +235,7 @@ def load_split_rows(data_dir: Path, split_name: str, label2id: dict) -> List[dic
 
 def print_rows_summary(name: str, rows: List[dict]):
     token_count = sum(len(row["tokens"]) for row in rows)
-    character_span_count = sum(
+    entity_span_count = sum(
         1
         for row in rows
         for label in row["labels"]
@@ -253,7 +246,7 @@ def print_rows_summary(name: str, rows: List[dict]):
         f"{name}: "
         f"{len(rows)} rows, "
         f"{token_count} tokens, "
-        f"{character_span_count} character spans"
+        f"{entity_span_count} entity spans"
     )
 
 def build_dataset_dict(
@@ -501,6 +494,53 @@ def make_compute_metrics(id2label):
     return compute_metrics
 
 
+def print_device_summary(device_mode: str):
+    cuda_available = torch.cuda.is_available()
+    rocm_version = getattr(torch.version, "hip", None)
+
+    print("torch version:", torch.__version__)
+    print("pytorch backend:", "ROCm/HIP" if rocm_version else "CUDA/CPU")
+    if rocm_version:
+        print("rocm/hip version:", rocm_version)
+    print("gpu available through torch.cuda API:", cuda_available)
+    print("requested device:", device_mode)
+
+    if device_mode == "cpu":
+        print("training device: CPU")
+        return
+
+    if cuda_available:
+        print(f"training device: GPU - {torch.cuda.get_device_name(0)}")
+        print(f"gpu count: {torch.cuda.device_count()}")
+        return
+
+    if device_mode == "gpu":
+        raise RuntimeError(
+            "--device gpu was requested, but PyTorch does not see a CUDA/ROCm GPU. "
+            "Use --device cpu to force CPU or --device auto to fall back automatically."
+        )
+
+    print("training device: CPU (no CUDA/ROCm GPU visible to PyTorch)")
+
+
+def training_args_device_kwargs(device_mode: str) -> dict:
+    if device_mode != "cpu":
+        return {}
+
+    signature = inspect.signature(TrainingArguments.__init__)
+
+    if "use_cpu" in signature.parameters:
+        return {"use_cpu": True}
+
+    if "no_cuda" in signature.parameters:
+        return {"no_cuda": True}
+
+    raise RuntimeError(
+        "This transformers version does not expose a recognized CPU-only "
+        "TrainingArguments option."
+    )
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--data_dir", default="data")
@@ -513,7 +553,18 @@ def main():
     parser.add_argument("--split_from_train", action="store_true")
     parser.add_argument("--validation_ratio", type=float, default=0.1)
     parser.add_argument("--test_ratio", type=float, default=0.1)
+    parser.add_argument(
+        "--device",
+        choices=["auto", "cpu", "gpu"],
+        default="auto",
+        help=(
+            "Device selection. auto uses a CUDA/ROCm GPU when PyTorch can see one "
+            "and otherwise falls back to CPU; cpu forces CPU; gpu requires a visible GPU."
+        ),
+    )
     args = parser.parse_args()
+
+    print_device_summary(args.device)
 
     data_dir = Path(args.data_dir)
     output_dir = Path(args.output_dir)
@@ -572,7 +623,9 @@ def main():
         greater_is_better=True,
         report_to="none",
         seed=42,
+        **training_args_device_kwargs(args.device),
     )
+    print("trainer device:", training_args.device)
 
     trainer = Trainer(
         model=model,

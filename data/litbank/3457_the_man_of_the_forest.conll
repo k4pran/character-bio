@@ -1,4 +1,115 @@
-# id = litbank-1967
+# id = litbank-2417
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = old baldy , highest of the white mountains , stood up round and bare , rimmed bright gold in the last glow of the setting sun .
+old	O
+baldy	B-LOCATION
+,	O
+highest	O
+of	O
+the	O
+white	O
+mountains	O
+,	O
+stood	O
+up	O
+round	O
+and	O
+bare	O
+,	O
+rimmed	O
+bright	O
+gold	O
+in	O
+the	O
+last	O
+glow	O
+of	O
+the	O
+setting	O
+sun	O
+.	O
+
+# id = litbank-2419
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = it was a wild , richly timbered , and abundantly watered region of dark forests and grassy parks , ten thousand feet above sea-level , isolated on all sides by the southern arizona desert -- the virgin home of elk and deer , of bear and lion , of wolf and fox , and the birthplace as well as the hiding-place of the fierce apache .
+it	O
+was	O
+a	O
+wild	O
+,	O
+richly	O
+timbered	O
+,	O
+and	O
+abundantly	O
+watered	O
+region	O
+of	O
+dark	O
+forests	O
+and	O
+grassy	O
+parks	O
+,	O
+ten	O
+thousand	O
+feet	O
+above	O
+sea-level	O
+,	O
+isolated	O
+on	O
+all	O
+sides	O
+by	O
+the	O
+southern	O
+arizona	B-LOCATION
+desert	O
+--	O
+the	O
+virgin	O
+home	O
+of	O
+elk	O
+and	O
+deer	O
+,	O
+of	O
+bear	O
+and	O
+lion	O
+,	O
+of	O
+wolf	O
+and	O
+fox	O
+,	O
+and	O
+the	O
+birthplace	O
+as	O
+well	O
+as	O
+the	O
+hiding-place	O
+of	O
+the	O
+fierce	O
+apache	B-LOCATION
+.	O
+
+# id = litbank-2422
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -30,7 +141,7 @@ to	O
 watch	O
 .	O
 
-# id = litbank-1968
+# id = litbank-2424
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -60,7 +171,7 @@ of	O
 forestland	O
 .	O
 
-# id = litbank-1969
+# id = litbank-2425
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -92,7 +203,7 @@ to	O
 meet	O
 .	O
 
-# id = litbank-1970
+# id = litbank-2426
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -142,7 +253,7 @@ the	O
 sky	O
 .	O
 
-# id = litbank-1971
+# id = litbank-2427
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -190,7 +301,7 @@ pale	O
 clouds	O
 .	O
 
-# id = litbank-1972
+# id = litbank-2428
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -218,7 +329,7 @@ the	O
 valley	O
 .	O
 
-# id = litbank-1973
+# id = litbank-2429
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -253,7 +364,7 @@ his	O
 face	O
 .	O
 
-# id = litbank-1974
+# id = litbank-2430
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -276,7 +387,7 @@ loom	O
 close	O
 .	O
 
-# id = litbank-1975
+# id = litbank-2431
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -300,7 +411,7 @@ loud	O
 voice	O
 .	O
 
-# id = litbank-1976
+# id = litbank-2432
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -322,7 +433,7 @@ he	O
 called	O
 .	O
 
-# id = litbank-1977
+# id = litbank-2433
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -337,7 +448,7 @@ up	O
 moze	B-CHARACTER
 .	O
 
-# id = litbank-1978
+# id = litbank-2434
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -364,7 +475,7 @@ this	O
 newcomer	O
 .	O
 
-# id = litbank-1979
+# id = litbank-2435
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -379,7 +490,7 @@ so	O
 jim	B-CHARACTER
 .	O
 
-# id = litbank-1980
+# id = litbank-2436
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -398,7 +509,7 @@ long	O
 .	O
 ”	O
 
-# id = litbank-1981
+# id = litbank-2437
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -427,7 +538,7 @@ thrilling	O
 wave	O
 .	O
 
-# id = litbank-1982
+# id = litbank-2438
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -472,7 +583,7 @@ settled	O
 country	O
 .	O
 
-# id = litbank-1983
+# id = litbank-2439
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -502,7 +613,7 @@ mountain	O
 ranges	O
 .	O
 
-# id = litbank-1984
+# id = litbank-2440
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -524,7 +635,7 @@ and	O
 beasley	B-CHARACTER
 ?	O
 
-# id = litbank-1985
+# id = litbank-2441
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -560,7 +671,7 @@ the	O
 little	O
 village	O
 of	O
-pine	O
+pine	B-LOCATION
 ,	O
 now	O
 became	O
@@ -570,7 +681,7 @@ as	O
 daylight	O
 .	O
 
-# id = litbank-1986
+# id = litbank-2442
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -598,7 +709,7 @@ said	O
 another	O
 .	O
 
-# id = litbank-1987
+# id = litbank-2443
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -647,7 +758,7 @@ be	O
 procured	O
 .	O
 
-# id = litbank-1988
+# id = litbank-2444
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -676,7 +787,7 @@ jiffy	O
 .	O
 ”	O
 
-# id = litbank-1989
+# id = litbank-2445
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -707,7 +818,7 @@ replied	O
 snake	B-CHARACTER
 .	O
 
-# id = litbank-1990
+# id = litbank-2446
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -731,7 +842,7 @@ drawled	O
 jim	B-CHARACTER
 .	O
 
-# id = litbank-1991
+# id = litbank-2447
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -769,7 +880,7 @@ a	O
 fire	O
 .	O
 
-# id = litbank-1992
+# id = litbank-2448
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -805,7 +916,7 @@ the	O
 boughs	O
 .	O
 
-# id = litbank-1993
+# id = litbank-2449
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -830,7 +941,7 @@ been	O
 well	O
 known	O
 at	O
-pine	O
+pine	B-LOCATION
 before	O
 snake	B-CHARACTER
 anson	I-CHARACTER
@@ -841,7 +952,7 @@ heard	O
 of	O
 .	O
 
-# id = litbank-1994
+# id = litbank-2450
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -868,7 +979,7 @@ honest	O
 people	O
 .	O
 
-# id = litbank-1995
+# id = litbank-2451
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -890,7 +1001,7 @@ well	O
 together	O
 .	O
 
-# id = litbank-1996
+# id = litbank-2452
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -919,7 +1030,7 @@ was	O
 black-visaged	O
 .	O
 
-# id = litbank-1997
+# id = litbank-2453
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -959,7 +1070,7 @@ another	O
 voice	O
 .	O
 
-# id = litbank-1998
+# id = litbank-2454
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -974,7 +1085,7 @@ with	O
 alacrity	O
 .	O
 
-# id = litbank-1999
+# id = litbank-2455
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1017,7 +1128,7 @@ his	O
 name	O
 .	O
 
-# id = litbank-2000
+# id = litbank-2456
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1041,7 +1152,7 @@ inquired	O
 jim	B-CHARACTER
 .	O
 
-# id = litbank-2001
+# id = litbank-2457
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1075,7 +1186,7 @@ moze	B-CHARACTER
 out	O
 .	O
 
-# id = litbank-2002
+# id = litbank-2458
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1103,7 +1214,35 @@ jim	B-CHARACTER
 wilson	I-CHARACTER
 .	O
 
-# id = litbank-2003
+# id = litbank-2459
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = “ are we goin ' to winter down in the tonto basin or over on the gila ? ”
+“	O
+are	O
+we	O
+goin	O
+'	O
+to	O
+winter	O
+down	O
+in	O
+the	O
+tonto	B-LOCATION
+basin	I-LOCATION
+or	O
+over	O
+on	O
+the	O
+gila	B-LOCATION
+?	O
+”	O
+
+# id = litbank-2460
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1132,7 +1271,7 @@ snake	B-CHARACTER
 gruffly	O
 .	O
 
-# id = litbank-2004
+# id = litbank-2461
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1147,7 +1286,7 @@ moze	B-CHARACTER
 returned	O
 .	O
 
-# id = litbank-2005
+# id = litbank-2462
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1166,7 +1305,7 @@ door	O
 listening	O
 .	O
 
-# id = litbank-2006
+# id = litbank-2463
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1185,7 +1324,7 @@ in	O
 relief	O
 .	O
 
-# id = litbank-2007
+# id = litbank-2464
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1218,7 +1357,7 @@ trail	O
 outside	O
 .	O
 
-# id = litbank-2008
+# id = litbank-2465
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1245,7 +1384,7 @@ and	O
 caution	O
 .	O
 
-# id = litbank-2009
+# id = litbank-2466
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1262,7 +1401,7 @@ replied	O
 anson	B-CHARACTER
 .	O
 
-# id = litbank-2010
+# id = litbank-2467
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1283,7 +1422,7 @@ the	O
 query	O
 .	O
 
-# id = litbank-2011
+# id = litbank-2468
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1303,7 +1442,7 @@ showing	O
 himself	O
 .	O
 
-# id = litbank-2012
+# id = litbank-2469
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1317,7 +1456,7 @@ hullo	O
 snake	B-CHARACTER
 !	O
 
-# id = litbank-2013
+# id = litbank-2470
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1334,7 +1473,7 @@ he	O
 said	O
 .	O
 
-# id = litbank-2014
+# id = litbank-2471
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1348,7 +1487,7 @@ anson	B-CHARACTER
 dubiously	O
 .	O
 
-# id = litbank-2015
+# id = litbank-2472
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1370,7 +1509,7 @@ wait	O
 outside	O
 .	O
 
-# id = litbank-1962
+# id = litbank-2416
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1437,43 +1576,7 @@ wild	O
 woodland	O
 .	O
 
-# id = litbank-1963
-# source = LitBank
-# book = The Man of the Forest
-# book_id = 3457_the_man_of_the_forest
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
-# text = old baldy , highest of the white mountains , stood up round and bare , rimmed bright gold in the last glow of the setting sun .
-old	O
-baldy	O
-,	O
-highest	O
-of	O
-the	O
-white	O
-mountains	O
-,	O
-stood	O
-up	O
-round	O
-and	O
-bare	O
-,	O
-rimmed	O
-bright	O
-gold	O
-in	O
-the	O
-last	O
-glow	O
-of	O
-the	O
-setting	O
-sun	O
-.	O
-
-# id = litbank-1964
+# id = litbank-2418
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1514,82 +1617,7 @@ mountain	O
 world	O
 .	O
 
-# id = litbank-1965
-# source = LitBank
-# book = The Man of the Forest
-# book_id = 3457_the_man_of_the_forest
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
-# text = it was a wild , richly timbered , and abundantly watered region of dark forests and grassy parks , ten thousand feet above sea-level , isolated on all sides by the southern arizona desert -- the virgin home of elk and deer , of bear and lion , of wolf and fox , and the birthplace as well as the hiding-place of the fierce apache .
-it	O
-was	O
-a	O
-wild	O
-,	O
-richly	O
-timbered	O
-,	O
-and	O
-abundantly	O
-watered	O
-region	O
-of	O
-dark	O
-forests	O
-and	O
-grassy	O
-parks	O
-,	O
-ten	O
-thousand	O
-feet	O
-above	O
-sea-level	O
-,	O
-isolated	O
-on	O
-all	O
-sides	O
-by	O
-the	O
-southern	O
-arizona	O
-desert	O
---	O
-the	O
-virgin	O
-home	O
-of	O
-elk	O
-and	O
-deer	O
-,	O
-of	O
-bear	O
-and	O
-lion	O
-,	O
-of	O
-wolf	O
-and	O
-fox	O
-,	O
-and	O
-the	O
-birthplace	O
-as	O
-well	O
-as	O
-the	O
-hiding-place	O
-of	O
-the	O
-fierce	O
-apache	O
-.	O
-
-# id = litbank-1966
+# id = litbank-2420
 # source = LitBank
 # book = The Man of the Forest
 # book_id = 3457_the_man_of_the_forest
@@ -1613,5 +1641,64 @@ following	O
 shortly	O
 after	O
 sundown	O
+.	O
+
+# id = litbank-2421
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = twilight appeared to come on its wings , as did faint sounds , not distinguishable before in the stillness .
+twilight	O
+appeared	O
+to	O
+come	O
+on	O
+its	O
+wings	O
+,	O
+as	O
+did	O
+faint	O
+sounds	O
+,	O
+not	O
+distinguishable	O
+before	O
+in	O
+the	O
+stillness	O
+.	O
+
+# id = litbank-2423
+# source = LitBank
+# book = The Man of the Forest
+# book_id = 3457_the_man_of_the_forest
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/3457_the_man_of_the_forest_brat.tsv
+# text = beneath him lay a narrow valley , open and grassy , from which rose a faint murmur of running water .
+beneath	O
+him	O
+lay	O
+a	O
+narrow	O
+valley	O
+,	O
+open	O
+and	O
+grassy	O
+,	O
+from	O
+which	O
+rose	O
+a	O
+faint	O
+murmur	O
+of	O
+running	O
+water	O
 .	O
 

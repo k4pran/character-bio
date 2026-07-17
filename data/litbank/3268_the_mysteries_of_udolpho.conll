@@ -1,4 +1,48 @@
-# id = litbank-1943
+# id = litbank-2390
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = volume 1 chapter i home is the resort of love , of joy , of peace and plenty , where , supporting and supported , polish 'd friends and dear relations mingle into bliss .
+volume	O
+1	O
+chapter	O
+i	O
+home	O
+is	O
+the	O
+resort	O
+of	O
+love	O
+,	O
+of	O
+joy	O
+,	O
+of	O
+peace	O
+and	O
+plenty	O
+,	O
+where	O
+,	O
+supporting	B-LOCATION
+and	O
+supported	O
+,	O
+polish	O
+'d	O
+friends	O
+and	O
+dear	O
+relations	O
+mingle	O
+into	O
+bliss	O
+.	O
+
+# id = litbank-2391
 # source = LitBank
 # book = The Mysteries of Udolpho
 # book_id = 3268_the_mysteries_of_udolpho
@@ -15,13 +59,13 @@ pleasant	O
 banks	O
 of	O
 the	O
-garonne	O
+garonne	B-LOCATION
 ,	O
 in	O
 the	O
 province	O
 of	O
-gascony	O
+gascony	B-LOCATION
 ,	O
 stood	O
 ,	O
@@ -38,7 +82,166 @@ st.	I-CHARACTER
 aubert	I-CHARACTER
 .	O
 
-# id = litbank-1948
+# id = litbank-2392
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = from its windows were seen the pastoral landscapes of guienne and gascony stretching along the river , gay with luxuriant woods and vine , and plantations of olives .
+from	O
+its	O
+windows	O
+were	O
+seen	O
+the	O
+pastoral	O
+landscapes	O
+of	O
+guienne	B-LOCATION
+and	O
+gascony	O
+stretching	O
+along	O
+the	O
+river	O
+,	O
+gay	O
+with	O
+luxuriant	O
+woods	O
+and	O
+vine	O
+,	O
+and	O
+plantations	O
+of	O
+olives	O
+.	O
+
+# id = litbank-2393
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = to the south , the view was bounded by the majestic pyrenees , whose summits , veiled in clouds , or exhibiting awful forms , seen , and lost again , as the partial vapours rolled along , were sometimes barren , and gleamed through the blue tinge of air , and sometimes frowned with forests of gloomy pine , that swept downward to their base .
+to	O
+the	O
+south	O
+,	O
+the	O
+view	O
+was	O
+bounded	O
+by	O
+the	O
+majestic	O
+pyrenees	B-LOCATION
+,	O
+whose	O
+summits	O
+,	O
+veiled	O
+in	O
+clouds	O
+,	O
+or	O
+exhibiting	O
+awful	O
+forms	O
+,	O
+seen	O
+,	O
+and	O
+lost	O
+again	O
+,	O
+as	O
+the	O
+partial	O
+vapours	O
+rolled	O
+along	O
+,	O
+were	O
+sometimes	O
+barren	O
+,	O
+and	O
+gleamed	O
+through	O
+the	O
+blue	O
+tinge	O
+of	O
+air	O
+,	O
+and	O
+sometimes	O
+frowned	O
+with	O
+forests	O
+of	O
+gloomy	O
+pine	O
+,	O
+that	O
+swept	O
+downward	O
+to	O
+their	O
+base	O
+.	O
+
+# id = litbank-2395
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = to the north , and to the east , the plains of guienne and languedoc were lost in the mist of distance ; on the west , gascony was bounded by the waters of biscay .
+to	O
+the	O
+north	O
+,	O
+and	O
+to	O
+the	O
+east	O
+,	O
+the	O
+plains	O
+of	O
+guienne	B-LOCATION
+and	O
+languedoc	O
+were	O
+lost	O
+in	O
+the	O
+mist	O
+of	O
+distance	O
+;	O
+on	O
+the	O
+west	O
+,	O
+gascony	B-LOCATION
+was	O
+bounded	O
+by	O
+the	O
+waters	O
+of	O
+biscay	B-LOCATION
+.	O
+
+# id = litbank-2396
 # source = LitBank
 # book = The Mysteries of Udolpho
 # book_id = 3268_the_mysteries_of_udolpho
@@ -64,7 +267,7 @@ the	O
 margin	O
 of	O
 the	O
-garonne	O
+garonne	B-LOCATION
 ,	O
 and	O
 to	O
@@ -79,7 +282,7 @@ its	O
 waves	O
 .	O
 
-# id = litbank-1949
+# id = litbank-2400
 # source = LitBank
 # book = The Mysteries of Udolpho
 # book_id = 3268_the_mysteries_of_udolpho
@@ -124,7 +327,7 @@ of	O
 wealth	O
 .	O
 
-# id = litbank-1950
+# id = litbank-2402
 # source = LitBank
 # book = The Mysteries of Udolpho
 # book_id = 3268_the_mysteries_of_udolpho
@@ -194,7 +397,7 @@ a	O
 small	O
 estate	O
 in	O
-gascony	O
+gascony	B-LOCATION
 ,	O
 where	O
 conjugal	O
@@ -219,7 +422,7 @@ of	O
 genius	O
 .	O
 
-# id = litbank-1951
+# id = litbank-2403
 # source = LitBank
 # book = The Mysteries of Udolpho
 # book_id = 3268_the_mysteries_of_udolpho
@@ -316,7 +519,7 @@ and	O
 regret	O
 .	O
 
-# id = litbank-1952
+# id = litbank-2404
 # source = LitBank
 # book = The Mysteries of Udolpho
 # book_id = 3268_the_mysteries_of_udolpho
@@ -383,7 +586,7 @@ elegant	O
 residence	O
 .	O
 
-# id = litbank-1953
+# id = litbank-2405
 # source = LitBank
 # book = The Mysteries of Udolpho
 # book_id = 3268_the_mysteries_of_udolpho
@@ -433,7 +636,87 @@ its	O
 inhabitants	O
 .	O
 
-# id = litbank-1954
+# id = litbank-2406
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = this room opened upon a grove , which stood on the brow of a gentle declivity , that fell towards the river , and the tall trees gave it a melancholy and pleasing shade ; while from the windows the eye caught , beneath the spreading branches , the gay and luxuriant landscape stretching to the west , and overlooked on the left by the bold precipices of the pyrenees .
+this	O
+room	O
+opened	O
+upon	O
+a	O
+grove	O
+,	O
+which	O
+stood	O
+on	O
+the	O
+brow	O
+of	O
+a	O
+gentle	O
+declivity	O
+,	O
+that	O
+fell	O
+towards	O
+the	O
+river	O
+,	O
+and	O
+the	O
+tall	O
+trees	O
+gave	O
+it	O
+a	O
+melancholy	O
+and	O
+pleasing	O
+shade	O
+;	O
+while	O
+from	O
+the	O
+windows	O
+the	O
+eye	O
+caught	O
+,	O
+beneath	O
+the	O
+spreading	O
+branches	O
+,	O
+the	O
+gay	O
+and	O
+luxuriant	O
+landscape	O
+stretching	O
+to	O
+the	O
+west	O
+,	O
+and	O
+overlooked	O
+on	O
+the	O
+left	O
+by	O
+the	O
+bold	O
+precipices	O
+of	O
+the	O
+pyrenees	B-LOCATION
+.	O
+
+# id = litbank-2407
 # source = LitBank
 # book = The Mysteries of Udolpho
 # book_id = 3268_the_mysteries_of_udolpho
@@ -501,7 +784,7 @@ favourite	O
 science	O
 .	O
 
-# id = litbank-1955
+# id = litbank-2408
 # source = LitBank
 # book = The Mysteries of Udolpho
 # book_id = 3268_the_mysteries_of_udolpho
@@ -589,7 +872,7 @@ stupendous	O
 works	O
 .	O
 
-# id = litbank-1956
+# id = litbank-2409
 # source = LitBank
 # book = The Mysteries of Udolpho
 # book_id = 3268_the_mysteries_of_udolpho
@@ -610,7 +893,7 @@ towards	O
 the	O
 plains	O
 of	O
-languedoc	O
+languedoc	B-LOCATION
 ,	O
 was	O
 a	O
@@ -642,7 +925,7 @@ and	O
 plants	O
 .	O
 
-# id = litbank-1957
+# id = litbank-2410
 # source = LitBank
 # book = The Mysteries of Udolpho
 # book_id = 3268_the_mysteries_of_udolpho
@@ -693,7 +976,69 @@ early	O
 proficient	O
 .	O
 
-# id = litbank-1958
+# id = litbank-2411
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = the windows of this room were particularly pleasant ; they descended to the floor , and , opening upon the little lawn that surrounded the house , the eye was led between groves of almond , palm-trees , flowering-ash , and myrtle , to the distant landscape , where the garonne wandered .
+the	O
+windows	O
+of	O
+this	O
+room	O
+were	O
+particularly	O
+pleasant	O
+;	O
+they	O
+descended	O
+to	O
+the	O
+floor	O
+,	O
+and	O
+,	O
+opening	O
+upon	O
+the	O
+little	O
+lawn	O
+that	O
+surrounded	O
+the	O
+house	O
+,	O
+the	O
+eye	O
+was	O
+led	O
+between	O
+groves	O
+of	O
+almond	O
+,	O
+palm-trees	O
+,	O
+flowering-ash	O
+,	O
+and	O
+myrtle	O
+,	O
+to	O
+the	O
+distant	O
+landscape	O
+,	O
+where	O
+the	O
+garonne	B-LOCATION
+wandered	O
+.	O
+
+# id = litbank-2412
 # source = LitBank
 # book = The Mysteries of Udolpho
 # book_id = 3268_the_mysteries_of_udolpho
@@ -742,7 +1087,7 @@ to	O
 sentiment	O
 .	O
 
-# id = litbank-1959
+# id = litbank-2413
 # source = LitBank
 # book = The Mysteries of Udolpho
 # book_id = 3268_the_mysteries_of_udolpho
@@ -787,7 +1132,7 @@ their	O
 fall	O
 .	O
 
-# id = litbank-1960
+# id = litbank-2414
 # source = LitBank
 # book = The Mysteries of Udolpho
 # book_id = 3268_the_mysteries_of_udolpho
@@ -871,7 +1216,7 @@ sober	O
 grey	O
 .	O
 
-# id = litbank-1961
+# id = litbank-2415
 # source = LitBank
 # book = The Mysteries of Udolpho
 # book_id = 3268_the_mysteries_of_udolpho
@@ -923,165 +1268,7 @@ and	O
 nature	O
 .	O
 
-# id = litbank-1942
-# source = LitBank
-# book = The Mysteries of Udolpho
-# book_id = 3268_the_mysteries_of_udolpho
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
-# text = volume 1 chapter i home is the resort of love , of joy , of peace and plenty , where , supporting and supported , polish 'd friends and dear relations mingle into bliss .
-volume	O
-1	O
-chapter	O
-i	O
-home	O
-is	O
-the	O
-resort	O
-of	O
-love	O
-,	O
-of	O
-joy	O
-,	O
-of	O
-peace	O
-and	O
-plenty	O
-,	O
-where	O
-,	O
-supporting	O
-and	O
-supported	O
-,	O
-polish	O
-'d	O
-friends	O
-and	O
-dear	O
-relations	O
-mingle	O
-into	O
-bliss	O
-.	O
-
-# id = litbank-1944
-# source = LitBank
-# book = The Mysteries of Udolpho
-# book_id = 3268_the_mysteries_of_udolpho
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
-# text = from its windows were seen the pastoral landscapes of guienne and gascony stretching along the river , gay with luxuriant woods and vine , and plantations of olives .
-from	O
-its	O
-windows	O
-were	O
-seen	O
-the	O
-pastoral	O
-landscapes	O
-of	O
-guienne	O
-and	O
-gascony	O
-stretching	O
-along	O
-the	O
-river	O
-,	O
-gay	O
-with	O
-luxuriant	O
-woods	O
-and	O
-vine	O
-,	O
-and	O
-plantations	O
-of	O
-olives	O
-.	O
-
-# id = litbank-1945
-# source = LitBank
-# book = The Mysteries of Udolpho
-# book_id = 3268_the_mysteries_of_udolpho
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
-# text = to the south , the view was bounded by the majestic pyrenees , whose summits , veiled in clouds , or exhibiting awful forms , seen , and lost again , as the partial vapours rolled along , were sometimes barren , and gleamed through the blue tinge of air , and sometimes frowned with forests of gloomy pine , that swept downward to their base .
-to	O
-the	O
-south	O
-,	O
-the	O
-view	O
-was	O
-bounded	O
-by	O
-the	O
-majestic	O
-pyrenees	O
-,	O
-whose	O
-summits	O
-,	O
-veiled	O
-in	O
-clouds	O
-,	O
-or	O
-exhibiting	O
-awful	O
-forms	O
-,	O
-seen	O
-,	O
-and	O
-lost	O
-again	O
-,	O
-as	O
-the	O
-partial	O
-vapours	O
-rolled	O
-along	O
-,	O
-were	O
-sometimes	O
-barren	O
-,	O
-and	O
-gleamed	O
-through	O
-the	O
-blue	O
-tinge	O
-of	O
-air	O
-,	O
-and	O
-sometimes	O
-frowned	O
-with	O
-forests	O
-of	O
-gloomy	O
-pine	O
-,	O
-that	O
-swept	O
-downward	O
-to	O
-their	O
-base	O
-.	O
-
-# id = litbank-1946
+# id = litbank-2394
 # source = LitBank
 # book = The Mysteries of Udolpho
 # book_id = 3268_the_mysteries_of_udolpho
@@ -1135,48 +1322,214 @@ to	O
 repose	O
 .	O
 
-# id = litbank-1947
+# id = litbank-2397
 # source = LitBank
 # book = The Mysteries of Udolpho
 # book_id = 3268_the_mysteries_of_udolpho
 # chapter = unknown
 # sample_type = negative
 # source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
-# text = to the north , and to the east , the plains of guienne and languedoc were lost in the mist of distance ; on the west , gascony was bounded by the waters of biscay .
-to	O
-the	O
-north	O
-,	O
-and	O
-to	O
-the	O
-east	O
-,	O
-the	O
-plains	O
+# text = he had known life in other forms than those of pastoral simplicity , having mingled in the gay and in the busy scenes of the world ; but the flattering portrait of mankind , which his heart had delineated in early youth , his experience had too sorrowfully corrected .
+he	O
+had	O
+known	O
+life	O
+in	O
+other	O
+forms	O
+than	O
+those	O
 of	O
-guienne	O
-and	O
-languedoc	O
-were	O
-lost	O
+pastoral	O
+simplicity	O
+,	O
+having	O
+mingled	O
 in	O
 the	O
-mist	O
+gay	O
+and	O
+in	O
+the	O
+busy	O
+scenes	O
 of	O
-distance	O
+the	O
+world	O
 ;	O
-on	O
+but	O
 the	O
-west	O
-,	O
-gascony	O
-was	O
-bounded	O
-by	O
-the	O
-waters	O
+flattering	O
+portrait	O
 of	O
-biscay	O
+mankind	O
+,	O
+which	O
+his	O
+heart	O
+had	O
+delineated	O
+in	O
+early	O
+youth	O
+,	O
+his	O
+experience	O
+had	O
+too	O
+sorrowfully	O
+corrected	O
+.	O
+
+# id = litbank-2398
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = yet , amidst the changing visions of life , his principles remained unshaken , his benevolence unchilled ; and he retired from the multitude ' more in pity than in anger , ' to scenes of simple nature , to the pure delights of literature , and to the exercise of domestic virtues .
+yet	O
+,	O
+amidst	O
+the	O
+changing	O
+visions	O
+of	O
+life	O
+,	O
+his	O
+principles	O
+remained	O
+unshaken	O
+,	O
+his	O
+benevolence	O
+unchilled	O
+;	O
+and	O
+he	O
+retired	O
+from	O
+the	O
+multitude	O
+'	O
+more	O
+in	O
+pity	O
+than	O
+in	O
+anger	O
+,	O
+'	O
+to	O
+scenes	O
+of	O
+simple	O
+nature	O
+,	O
+to	O
+the	O
+pure	O
+delights	O
+of	O
+literature	O
+,	O
+and	O
+to	O
+the	O
+exercise	O
+of	O
+domestic	O
+virtues	O
+.	O
+
+# id = litbank-2399
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = he was a descendant from the younger branch of an illustrious family , and it was designed , that the deficiency of his patrimonial wealth should be supplied either by a splendid alliance in marriage , or by success in the intrigues of public affairs .
+he	O
+was	O
+a	O
+descendant	O
+from	O
+the	O
+younger	O
+branch	O
+of	O
+an	O
+illustrious	O
+family	O
+,	O
+and	O
+it	O
+was	O
+designed	O
+,	O
+that	O
+the	O
+deficiency	O
+of	O
+his	O
+patrimonial	O
+wealth	O
+should	O
+be	O
+supplied	O
+either	O
+by	O
+a	O
+splendid	O
+alliance	O
+in	O
+marriage	O
+,	O
+or	O
+by	O
+success	O
+in	O
+the	O
+intrigues	O
+of	O
+public	O
+affairs	O
+.	O
+
+# id = litbank-2401
+# source = LitBank
+# book = The Mysteries of Udolpho
+# book_id = 3268_the_mysteries_of_udolpho
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/3268_the_mysteries_of_udolpho_brat.tsv
+# text = after the death of his father he married a very amiable woman , his equal in birth , and not his superior in fortune .
+after	O
+the	O
+death	O
+of	O
+his	O
+father	O
+he	O
+married	O
+a	O
+very	O
+amiable	O
+woman	O
+,	O
+his	O
+equal	O
+in	O
+birth	O
+,	O
+and	O
+not	O
+his	O
+superior	O
+in	O
+fortune	O
 .	O
 

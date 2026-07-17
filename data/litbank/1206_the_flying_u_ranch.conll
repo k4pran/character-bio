@@ -1,4 +1,69 @@
-# id = litbank-1470
+# id = litbank-1805
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = the coming of a native son the happy family , waiting for the sunday supper call , were grouped around the open door of the bunk-house , gossiping idly of things purely local , when the old man returned from the stock association at helena ; beside him on the buggy seat sat a stranger .
+the	O
+coming	O
+of	O
+a	O
+native	O
+son	O
+the	O
+happy	O
+family	O
+,	O
+waiting	O
+for	O
+the	O
+sunday	O
+supper	O
+call	O
+,	O
+were	O
+grouped	O
+around	O
+the	O
+open	O
+door	O
+of	O
+the	O
+bunk-house	O
+,	O
+gossiping	O
+idly	O
+of	O
+things	O
+purely	O
+local	O
+,	O
+when	O
+the	O
+old	O
+man	O
+returned	O
+from	O
+the	O
+stock	O
+association	O
+at	O
+helena	B-LOCATION
+;	O
+beside	O
+him	O
+on	O
+the	O
+buggy	O
+seat	O
+sat	O
+a	O
+stranger	O
+.	O
+
+# id = litbank-1806
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -57,11 +122,11 @@ peeler	O
 straight	O
 from	O
 the	O
-golden	O
-gate	O
+golden	B-LOCATION
+gate	I-LOCATION
 .	O
 
-# id = litbank-1471
+# id = litbank-1807
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -95,7 +160,7 @@ down	O
 .	O
 ”	O
 
-# id = litbank-1472
+# id = litbank-1808
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -144,7 +209,7 @@ foreign	O
 element	O
 .	O
 
-# id = litbank-1474
+# id = litbank-1810
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -176,7 +241,7 @@ of	O
 display	O
 .	O
 
-# id = litbank-1475
+# id = litbank-1811
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -204,7 +269,7 @@ cal	B-CHARACTER
 emmett	I-CHARACTER
 .	O
 
-# id = litbank-1476
+# id = litbank-1812
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -252,7 +317,7 @@ a	O
 rival	O
 .	O
 
-# id = litbank-1477
+# id = litbank-1813
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -269,7 +334,7 @@ the	O
 inspection	O
 .	O
 
-# id = litbank-1481
+# id = litbank-1818
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -287,7 +352,7 @@ beside	O
 him	O
 .	O
 
-# id = litbank-1482
+# id = litbank-1819
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -334,7 +399,7 @@ a	O
 degree	O
 .	O
 
-# id = litbank-1483
+# id = litbank-1820
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -385,7 +450,7 @@ first	O
 glance	O
 .	O
 
-# id = litbank-1484
+# id = litbank-1821
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -431,7 +496,41 @@ cobbler	O
 craft	O
 .	O
 
-# id = litbank-1485
+# id = litbank-1822
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = also , the lower half of him was incased in chaps the like of which had never before been brought into flying u coulee .
+also	O
+,	O
+the	O
+lower	O
+half	O
+of	O
+him	O
+was	O
+incased	O
+in	O
+chaps	O
+the	O
+like	O
+of	O
+which	O
+had	O
+never	O
+before	O
+been	O
+brought	O
+into	O
+flying	B-LOCATION
+u	I-LOCATION
+coulee	O
+.	O
+
+# id = litbank-1823
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -473,7 +572,7 @@ with	O
 desire	O
 .	O
 
-# id = litbank-1486
+# id = litbank-1824
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -510,7 +609,7 @@ interloper	O
 scornfully	O
 .	O
 
-# id = litbank-1487
+# id = litbank-1825
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -551,7 +650,7 @@ stated	O
 solemnly	O
 .	O
 
-# id = litbank-1488
+# id = litbank-1826
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -591,7 +690,7 @@ given	O
 him	O
 .	O
 
-# id = litbank-1489
+# id = litbank-1827
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -618,7 +717,7 @@ come	O
 from	O
 .	O
 
-# id = litbank-1490
+# id = litbank-1828
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -632,7 +731,7 @@ generous	O
 tribute	O
 .	O
 
-# id = litbank-1491
+# id = litbank-1829
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -661,7 +760,7 @@ and	O
 diamonds	O
 .	O
 
-# id = litbank-1492
+# id = litbank-1830
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -713,7 +812,7 @@ swell	O
 rig	O
 .	O
 
-# id = litbank-1493
+# id = litbank-1831
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -738,7 +837,7 @@ intense	O
 disgust	O
 .	O
 
-# id = litbank-1494
+# id = litbank-1832
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -750,7 +849,7 @@ irish	B-CHARACTER
 laughed	O
 .	O
 
-# id = litbank-1495
+# id = litbank-1833
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -775,7 +874,7 @@ natiff	O
 son	O
 .	O
 
-# id = litbank-1496
+# id = litbank-1834
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -799,7 +898,7 @@ stated	O
 authoritatively	O
 .	O
 
-# id = litbank-1497
+# id = litbank-1835
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -817,7 +916,71 @@ dazzling	O
 miguel	B-CHARACTER
 .	O
 
-# id = litbank-1498
+# id = litbank-1836
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = i 've saw lots of 'em , only i never saw one so far away from the promised land before .
+i	O
+'ve	O
+saw	O
+lots	O
+of	O
+'em	O
+,	O
+only	O
+i	O
+never	O
+saw	O
+one	O
+so	O
+far	O
+away	O
+from	O
+the	O
+promised	B-LOCATION
+land	I-LOCATION
+before	O
+.	O
+
+# id = litbank-1837
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = natiff sons -- the real ones , like him -- are as scarce outside calyforny as buffalo are right here in this coulee . ”
+natiff	O
+sons	O
+--	O
+the	O
+real	O
+ones	O
+,	O
+like	O
+him	O
+--	O
+are	O
+as	O
+scarce	O
+outside	O
+calyforny	B-LOCATION
+as	O
+buffalo	O
+are	O
+right	O
+here	O
+in	O
+this	O
+coulee	O
+.	O
+”	O
+
+# id = litbank-1838
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -842,7 +1005,7 @@ irish	B-CHARACTER
 agreed	O
 .	O
 
-# id = litbank-1499
+# id = litbank-1839
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -874,7 +1037,7 @@ seen	O
 .	O
 ”	O
 
-# id = litbank-1500
+# id = litbank-1840
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -937,7 +1100,7 @@ by	O
 cripes	O
 !	O
 
-# id = litbank-1501
+# id = litbank-1841
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -975,72 +1138,7 @@ a	O
 match	O
 .	O
 
-# id = litbank-1469
-# source = LitBank
-# book = The Flying U Ranch
-# book_id = 1206_the_flying_u_ranch
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
-# text = the coming of a native son the happy family , waiting for the sunday supper call , were grouped around the open door of the bunk-house , gossiping idly of things purely local , when the old man returned from the stock association at helena ; beside him on the buggy seat sat a stranger .
-the	O
-coming	O
-of	O
-a	O
-native	O
-son	O
-the	O
-happy	O
-family	O
-,	O
-waiting	O
-for	O
-the	O
-sunday	O
-supper	O
-call	O
-,	O
-were	O
-grouped	O
-around	O
-the	O
-open	O
-door	O
-of	O
-the	O
-bunk-house	O
-,	O
-gossiping	O
-idly	O
-of	O
-things	O
-purely	O
-local	O
-,	O
-when	O
-the	O
-old	O
-man	O
-returned	O
-from	O
-the	O
-stock	O
-association	O
-at	O
-helena	O
-;	O
-beside	O
-him	O
-on	O
-the	O
-buggy	O
-seat	O
-sat	O
-a	O
-stranger	O
-.	O
-
-# id = litbank-1473
+# id = litbank-1809
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -1117,7 +1215,7 @@ the	O
 result	O
 .	O
 
-# id = litbank-1478
+# id = litbank-1814
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -1182,7 +1280,7 @@ finger	O
 extended	O
 .	O
 
-# id = litbank-1479
+# id = litbank-1815
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -1233,7 +1331,7 @@ long	O
 breath	O
 .	O
 
-# id = litbank-1480
+# id = litbank-1816
 # source = LitBank
 # book = The Flying U Ranch
 # book_id = 1206_the_flying_u_ranch
@@ -1279,5 +1377,43 @@ incuriously	O
 while	O
 he	O
 smoked	O
+.	O
+
+# id = litbank-1817
+# source = LitBank
+# book = The Flying U Ranch
+# book_id = 1206_the_flying_u_ranch
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1206_the_flying_u_ranch_brat.tsv
+# text = “ any pretty girls up this way ? ” he inquired languidly , after a moment , fanning a thin smoke-cloud from before his face while he spoke .
+“	O
+any	O
+pretty	O
+girls	O
+up	O
+this	O
+way	O
+?	O
+”	O
+he	O
+inquired	O
+languidly	O
+,	O
+after	O
+a	O
+moment	O
+,	O
+fanning	O
+a	O
+thin	O
+smoke-cloud	O
+from	O
+before	O
+his	O
+face	O
+while	O
+he	O
+spoke	O
 .	O
 

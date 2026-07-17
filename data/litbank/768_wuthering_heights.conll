@@ -1,4 +1,38 @@
-# id = litbank-1249
+# id = litbank-1515
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = in all england , i do not believe that i could have fixed on a situation so completely removed from the stir of society .
+in	O
+all	O
+england	B-LOCATION
+,	O
+i	O
+do	O
+not	O
+believe	O
+that	O
+i	O
+could	O
+have	O
+fixed	O
+on	O
+a	O
+situation	O
+so	O
+completely	O
+removed	O
+from	O
+the	O
+stir	O
+of	O
+society	O
+.	O
+
+# id = litbank-1516
 # source = LitBank
 # book = Wuthering Heights
 # book_id = 768_wuthering_heights
@@ -30,7 +64,7 @@ between	O
 us	O
 .	O
 
-# id = litbank-1251
+# id = litbank-1518
 # source = LitBank
 # book = Wuthering Heights
 # book_id = 768_wuthering_heights
@@ -44,7 +78,7 @@ heathcliff	I-CHARACTER
 ?	O
 '	O
 
-# id = litbank-1252
+# id = litbank-1519
 # source = LitBank
 # book = Wuthering Heights
 # book_id = 768_wuthering_heights
@@ -63,7 +97,78 @@ tenant	O
 sir	O
 .	O
 
-# id = litbank-1255
+# id = litbank-1520
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = i do myself the honour of calling as soon as possible after my arrival , to express the hope that i have not inconvenienced you by my perseverance in soliciting the occupation of thrushcross grange : i heard yesterday you had had some thoughts -- ' ' thrushcross grange is my own , sir , ' he interrupted , wincing . '
+i	O
+do	O
+myself	O
+the	O
+honour	O
+of	O
+calling	O
+as	O
+soon	O
+as	O
+possible	O
+after	O
+my	O
+arrival	O
+,	O
+to	O
+express	O
+the	O
+hope	O
+that	O
+i	O
+have	O
+not	O
+inconvenienced	O
+you	O
+by	O
+my	O
+perseverance	O
+in	O
+soliciting	O
+the	O
+occupation	O
+of	O
+thrushcross	B-LOCATION
+grange	I-LOCATION
+:	O
+i	O
+heard	O
+yesterday	O
+you	O
+had	O
+had	O
+some	O
+thoughts	O
+--	O
+'	O
+'	O
+thrushcross	B-LOCATION
+grange	I-LOCATION
+is	O
+my	O
+own	O
+,	O
+sir	O
+,	O
+'	O
+he	O
+interrupted	O
+,	O
+wincing	O
+.	O
+'	O
+
+# id = litbank-1523
 # source = LitBank
 # book = Wuthering Heights
 # book_id = 768_wuthering_heights
@@ -128,7 +233,7 @@ wine	O
 .	O
 '	O
 
-# id = litbank-1256
+# id = litbank-1525
 # source = LitBank
 # book = Wuthering Heights
 # book_id = 768_wuthering_heights
@@ -158,7 +263,7 @@ and	O
 sinewy	O
 .	O
 
-# id = litbank-1257
+# id = litbank-1526
 # source = LitBank
 # book = Wuthering Heights
 # book_id = 768_wuthering_heights
@@ -166,8 +271,8 @@ sinewy	O
 # sample_type = positive
 # source_file = entities/tsv/768_wuthering_heights_brat.tsv
 # text = wuthering heights is the name of mr. heathcliff 's dwelling .
-wuthering	O
-heights	O
+wuthering	B-LOCATION
+heights	I-LOCATION
 is	O
 the	O
 name	O
@@ -178,7 +283,7 @@ heathcliff	I-CHARACTER
 dwelling	O
 .	O
 
-# id = litbank-1258
+# id = litbank-1527
 # source = LitBank
 # book = Wuthering Heights
 # book_id = 768_wuthering_heights
@@ -243,7 +348,91 @@ earnshaw	I-CHARACTER
 .	O
 '	O
 
-# id = litbank-1259
+# id = litbank-1528
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = it includes kitchen and parlour , generally ; but i believe at wuthering heights the kitchen is forced to retreat altogether into another quarter : at least i distinguished a chatter of tongues , and a clatter of culinary utensils , deep within ; and i observed no signs of roasting , boiling , or baking , about the huge fireplace ; nor any glitter of copper saucepans and tin cullenders on the walls .
+it	O
+includes	O
+kitchen	O
+and	O
+parlour	O
+,	O
+generally	O
+;	O
+but	O
+i	O
+believe	O
+at	O
+wuthering	B-LOCATION
+heights	I-LOCATION
+the	O
+kitchen	O
+is	O
+forced	O
+to	O
+retreat	O
+altogether	O
+into	O
+another	O
+quarter	O
+:	O
+at	O
+least	O
+i	O
+distinguished	O
+a	O
+chatter	O
+of	O
+tongues	O
+,	O
+and	O
+a	O
+clatter	O
+of	O
+culinary	O
+utensils	O
+,	O
+deep	O
+within	O
+;	O
+and	O
+i	O
+observed	O
+no	O
+signs	O
+of	O
+roasting	O
+,	O
+boiling	O
+,	O
+or	O
+baking	O
+,	O
+about	O
+the	O
+huge	O
+fireplace	O
+;	O
+nor	O
+any	O
+glitter	O
+of	O
+copper	O
+saucepans	O
+and	O
+tin	O
+cullenders	O
+on	O
+the	O
+walls	O
+.	O
+
+# id = litbank-1529
 # source = LitBank
 # book = Wuthering Heights
 # book_id = 768_wuthering_heights
@@ -267,7 +456,7 @@ of	O
 living	O
 .	O
 
-# id = litbank-1260
+# id = litbank-1530
 # source = LitBank
 # book = Wuthering Heights
 # book_id = 768_wuthering_heights
@@ -304,7 +493,7 @@ actuate	O
 me	O
 .	O
 
-# id = litbank-1261
+# id = litbank-1531
 # source = LitBank
 # book = Wuthering Heights
 # book_id = 768_wuthering_heights
@@ -339,7 +528,7 @@ his	O
 foot	O
 .	O
 
-# id = litbank-1262
+# id = litbank-1532
 # source = LitBank
 # book = Wuthering Heights
 # book_id = 768_wuthering_heights
@@ -364,7 +553,7 @@ joseph	B-CHARACTER
 !	O
 '	O
 
-# id = litbank-1263
+# id = litbank-1533
 # source = LitBank
 # book = Wuthering Heights
 # book_id = 768_wuthering_heights
@@ -426,7 +615,7 @@ my	O
 movements	O
 .	O
 
-# id = litbank-1264
+# id = litbank-1534
 # source = LitBank
 # book = Wuthering Heights
 # book_id = 768_wuthering_heights
@@ -472,7 +661,7 @@ and	O
 yelping	O
 .	O
 
-# id = litbank-1247
+# id = litbank-1514
 # source = LitBank
 # book = Wuthering Heights
 # book_id = 768_wuthering_heights
@@ -503,41 +692,7 @@ troubled	O
 with	O
 .	O
 
-# id = litbank-1248
-# source = LitBank
-# book = Wuthering Heights
-# book_id = 768_wuthering_heights
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/768_wuthering_heights_brat.tsv
-# text = in all england , i do not believe that i could have fixed on a situation so completely removed from the stir of society .
-in	O
-all	O
-england	O
-,	O
-i	O
-do	O
-not	O
-believe	O
-that	O
-i	O
-could	O
-have	O
-fixed	O
-on	O
-a	O
-situation	O
-so	O
-completely	O
-removed	O
-from	O
-the	O
-stir	O
-of	O
-society	O
-.	O
-
-# id = litbank-1250
+# id = litbank-1517
 # source = LitBank
 # book = Wuthering Heights
 # book_id = 768_wuthering_heights
@@ -597,78 +752,7 @@ my	O
 name	O
 .	O
 
-# id = litbank-1253
-# source = LitBank
-# book = Wuthering Heights
-# book_id = 768_wuthering_heights
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/768_wuthering_heights_brat.tsv
-# text = i do myself the honour of calling as soon as possible after my arrival , to express the hope that i have not inconvenienced you by my perseverance in soliciting the occupation of thrushcross grange : i heard yesterday you had had some thoughts -- ' ' thrushcross grange is my own , sir , ' he interrupted , wincing . '
-i	O
-do	O
-myself	O
-the	O
-honour	O
-of	O
-calling	O
-as	O
-soon	O
-as	O
-possible	O
-after	O
-my	O
-arrival	O
-,	O
-to	O
-express	O
-the	O
-hope	O
-that	O
-i	O
-have	O
-not	O
-inconvenienced	O
-you	O
-by	O
-my	O
-perseverance	O
-in	O
-soliciting	O
-the	O
-occupation	O
-of	O
-thrushcross	O
-grange	O
-:	O
-i	O
-heard	O
-yesterday	O
-you	O
-had	O
-had	O
-some	O
-thoughts	O
---	O
-'	O
-'	O
-thrushcross	O
-grange	O
-is	O
-my	O
-own	O
-,	O
-sir	O
-,	O
-'	O
-he	O
-interrupted	O
-,	O
-wincing	O
-.	O
-'	O
-
-# id = litbank-1254
+# id = litbank-1521
 # source = LitBank
 # book = Wuthering Heights
 # book_id = 768_wuthering_heights
@@ -696,4 +780,109 @@ walk	O
 in	O
 !	O
 '	O
+
+# id = litbank-1522
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = the ' walk in ' was uttered with closed teeth , and expressed the sentiment , ' go to the deuce : ' even the gate over which he leant manifested no sympathising movement to the words ; and i think that circumstance determined me to accept the invitation : i felt interested in a man who seemed more exaggeratedly reserved than myself .
+the	O
+'	O
+walk	O
+in	O
+'	O
+was	O
+uttered	O
+with	O
+closed	O
+teeth	O
+,	O
+and	O
+expressed	O
+the	O
+sentiment	O
+,	O
+'	O
+go	O
+to	O
+the	O
+deuce	O
+:	O
+'	O
+even	O
+the	O
+gate	O
+over	O
+which	O
+he	O
+leant	O
+manifested	O
+no	O
+sympathising	O
+movement	O
+to	O
+the	O
+words	O
+;	O
+and	O
+i	O
+think	O
+that	O
+circumstance	O
+determined	O
+me	O
+to	O
+accept	O
+the	O
+invitation	O
+:	O
+i	O
+felt	O
+interested	O
+in	O
+a	O
+man	O
+who	O
+seemed	O
+more	O
+exaggeratedly	O
+reserved	O
+than	O
+myself	O
+.	O
+
+# id = litbank-1524
+# source = LitBank
+# book = Wuthering Heights
+# book_id = 768_wuthering_heights
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/768_wuthering_heights_brat.tsv
+# text = ' here we have the whole establishment of domestics , i suppose , ' was the reflection suggested by this compound order .
+'	O
+here	O
+we	O
+have	O
+the	O
+whole	O
+establishment	O
+of	O
+domestics	O
+,	O
+i	O
+suppose	O
+,	O
+'	O
+was	O
+the	O
+reflection	O
+suggested	O
+by	O
+this	O
+compound	O
+order	O
+.	O
 

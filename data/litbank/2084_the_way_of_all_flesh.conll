@@ -1,4 +1,48 @@
-# id = litbank-1704
+# id = litbank-2080
+# source = LitBank
+# book = The Way of All Flesh
+# book_id = 2084_the_way_of_all_flesh
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2084_the_way_of_all_flesh_brat.tsv
+# text = a few white locks hung about his ears , his shoulders were bent and his knees feeble , but he was still hale , and was much respected in our little world of paleham .
+a	O
+few	O
+white	O
+locks	O
+hung	O
+about	O
+his	O
+ears	O
+,	O
+his	O
+shoulders	O
+were	O
+bent	O
+and	O
+his	O
+knees	O
+feeble	O
+,	O
+but	O
+he	O
+was	O
+still	O
+hale	O
+,	O
+and	O
+was	O
+much	O
+respected	O
+in	O
+our	O
+little	O
+world	O
+of	O
+paleham	B-LOCATION
+.	O
+
+# id = litbank-2081
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -12,7 +56,7 @@ was	O
 pontifex	B-CHARACTER
 .	O
 
-# id = litbank-1706
+# id = litbank-2083
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -66,7 +110,7 @@ wooed	O
 him	O
 .	O
 
-# id = litbank-1707
+# id = litbank-2084
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -104,7 +148,7 @@ stormy	O
 moods	O
 .	O
 
-# id = litbank-1708
+# id = litbank-2085
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -157,7 +201,7 @@ own	O
 hands	O
 .	O
 
-# id = litbank-1710
+# id = litbank-2088
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -218,7 +262,7 @@ early	O
 master	O
 .	O
 
-# id = litbank-1711
+# id = litbank-2089
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -243,7 +287,7 @@ a	O
 musician	O
 .	O
 
-# id = litbank-1712
+# id = litbank-2090
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -285,7 +329,98 @@ in	O
 consequence	O
 .	O
 
-# id = litbank-1713
+# id = litbank-2091
+# source = LitBank
+# book = The Way of All Flesh
+# book_id = 2084_the_way_of_all_flesh
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2084_the_way_of_all_flesh_brat.tsv
+# text = towards the close of the eighteenth century and not long before my father came to paleham , he had taken a farm of about ninety acres , thus making a considerable rise in life .
+towards	O
+the	O
+close	O
+of	O
+the	O
+eighteenth	O
+century	O
+and	O
+not	O
+long	O
+before	O
+my	O
+father	O
+came	O
+to	O
+paleham	B-LOCATION
+,	O
+he	O
+had	O
+taken	O
+a	O
+farm	O
+of	O
+about	O
+ninety	O
+acres	O
+,	O
+thus	O
+making	O
+a	O
+considerable	O
+rise	O
+in	O
+life	O
+.	O
+
+# id = litbank-2092
+# source = LitBank
+# book = The Way of All Flesh
+# book_id = 2084_the_way_of_all_flesh
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2084_the_way_of_all_flesh_brat.tsv
+# text = the carpenter 's business was now carried on in one of the outhouses that had once been part of some conventual buildings , the remains of which could be seen in what was called the abbey close .
+the	O
+carpenter	O
+'s	O
+business	O
+was	O
+now	O
+carried	O
+on	O
+in	O
+one	O
+of	O
+the	O
+outhouses	O
+that	O
+had	O
+once	O
+been	O
+part	O
+of	O
+some	O
+conventual	O
+buildings	O
+,	O
+the	O
+remains	O
+of	O
+which	O
+could	O
+be	O
+seen	O
+in	O
+what	O
+was	O
+called	O
+the	O
+abbey	B-LOCATION
+close	I-LOCATION
+.	O
+
+# id = litbank-2093
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -314,7 +449,7 @@ believe	O
 it	O
 .	O
 
-# id = litbank-1714
+# id = litbank-2094
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -453,7 +588,7 @@ bay	O
 salt	O
 .	O
 
-# id = litbank-1715
+# id = litbank-2095
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -535,7 +670,7 @@ our	O
 papa	O
 .	O
 
-# id = litbank-1716
+# id = litbank-2096
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -584,7 +719,7 @@ his	O
 appearance	O
 .	O
 
-# id = litbank-1717
+# id = litbank-2097
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -626,7 +761,7 @@ his	O
 boy	O
 .	O
 
-# id = litbank-1718
+# id = litbank-2098
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -787,7 +922,7 @@ perfectly	O
 well	O
 .	O
 
-# id = litbank-1719
+# id = litbank-2099
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -811,7 +946,7 @@ was	O
 mentioned	O
 .	O
 
-# id = litbank-1720
+# id = litbank-2100
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -859,7 +994,107 @@ knew	O
 .	O
 "	O
 
-# id = litbank-1721
+# id = litbank-2101
+# source = LitBank
+# book = The Way of All Flesh
+# book_id = 2084_the_way_of_all_flesh
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2084_the_way_of_all_flesh_brat.tsv
+# text = he could draw a little , but could he to save his life have got a picture into the royal academy exhibition ?
+he	O
+could	O
+draw	O
+a	O
+little	O
+,	O
+but	O
+could	O
+he	O
+to	O
+save	O
+his	O
+life	O
+have	O
+got	O
+a	O
+picture	O
+into	O
+the	O
+royal	B-LOCATION
+academy	I-LOCATION
+exhibition	O
+?	O
+
+# id = litbank-2102
+# source = LitBank
+# book = The Way of All Flesh
+# book_id = 2084_the_way_of_all_flesh
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2084_the_way_of_all_flesh_brat.tsv
+# text = could giotto or filippo lippi , think you , have got a picture into the exhibition ?
+could	O
+giotto	O
+or	O
+filippo	O
+lippi	O
+,	O
+think	O
+you	O
+,	O
+have	O
+got	O
+a	O
+picture	O
+into	O
+the	O
+exhibition	B-LOCATION
+?	O
+
+# id = litbank-2103
+# source = LitBank
+# book = The Way of All Flesh
+# book_id = 2084_the_way_of_all_flesh
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2084_the_way_of_all_flesh_brat.tsv
+# text = would a single one of those frescoes we went to see when we were at padua have the remotest chance of being hung , if it were sent in for exhibition now ?
+would	O
+a	O
+single	O
+one	O
+of	O
+those	O
+frescoes	O
+we	O
+went	O
+to	O
+see	O
+when	O
+we	O
+were	O
+at	O
+padua	B-LOCATION
+have	O
+the	O
+remotest	O
+chance	O
+of	O
+being	O
+hung	O
+,	O
+if	O
+it	O
+were	O
+sent	O
+in	O
+for	O
+exhibition	O
+now	O
+?	O
+
+# id = litbank-2104
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -950,7 +1185,7 @@ life	O
 .	O
 "	O
 
-# id = litbank-1722
+# id = litbank-2105
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -986,7 +1221,7 @@ time	O
 .	O
 "	O
 
-# id = litbank-1723
+# id = litbank-2106
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -1039,7 +1274,7 @@ to	O
 do	O
 .	O
 
-# id = litbank-1724
+# id = litbank-2107
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -1124,7 +1359,7 @@ knew	O
 .	O
 "	O
 
-# id = litbank-1701
+# id = litbank-2078
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -1177,7 +1412,7 @@ a	O
 stick	O
 .	O
 
-# id = litbank-1702
+# id = litbank-2079
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -1218,51 +1453,7 @@ in	O
 1802	O
 .	O
 
-# id = litbank-1703
-# source = LitBank
-# book = The Way of All Flesh
-# book_id = 2084_the_way_of_all_flesh
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/2084_the_way_of_all_flesh_brat.tsv
-# text = a few white locks hung about his ears , his shoulders were bent and his knees feeble , but he was still hale , and was much respected in our little world of paleham .
-a	O
-few	O
-white	O
-locks	O
-hung	O
-about	O
-his	O
-ears	O
-,	O
-his	O
-shoulders	O
-were	O
-bent	O
-and	O
-his	O
-knees	O
-feeble	O
-,	O
-but	O
-he	O
-was	O
-still	O
-hale	O
-,	O
-and	O
-was	O
-much	O
-respected	O
-in	O
-our	O
-little	O
-world	O
-of	O
-paleham	O
-.	O
-
-# id = litbank-1705
+# id = litbank-2082
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -1299,7 +1490,7 @@ been	O
 much	O
 .	O
 
-# id = litbank-1709
+# id = litbank-2086
 # source = LitBank
 # book = The Way of All Flesh
 # book_id = 2084_the_way_of_all_flesh
@@ -1317,5 +1508,35 @@ taught	O
 himself	O
 to	O
 draw	O
+.	O
+
+# id = litbank-2087
+# source = LitBank
+# book = The Way of All Flesh
+# book_id = 2084_the_way_of_all_flesh
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2084_the_way_of_all_flesh_brat.tsv
+# text = i do not say he drew well , but it was surprising he should draw as well as he did .
+i	O
+do	O
+not	O
+say	O
+he	O
+drew	O
+well	O
+,	O
+but	O
+it	O
+was	O
+surprising	O
+he	O
+should	O
+draw	O
+as	O
+well	O
+as	O
+he	O
+did	O
 .	O
 

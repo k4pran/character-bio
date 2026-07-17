@@ -1,4 +1,188 @@
-# id = litbank-0107
+# id = litbank-0110
+# source = LitBank
+# book = The Scarlet Letter
+# book_id = 33_the_scarlet_letter
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/33_the_scarlet_letter_brat.tsv
+# text = in accordance with this rule it may safely be assumed that the forefathers of boston had built the first prison-house somewhere in the vicinity of cornhill , almost as seasonably as they marked out the first burial-ground , on isaac johnson 's lot , and round about his grave , which subsequently became the nucleus of all the congregated sepulchres in the old churchyard of king 's chapel .
+in	O
+accordance	O
+with	O
+this	O
+rule	O
+it	O
+may	O
+safely	O
+be	O
+assumed	O
+that	O
+the	O
+forefathers	O
+of	O
+boston	B-LOCATION
+had	O
+built	O
+the	O
+first	O
+prison-house	O
+somewhere	O
+in	O
+the	O
+vicinity	O
+of	O
+cornhill	B-LOCATION
+,	O
+almost	O
+as	O
+seasonably	O
+as	O
+they	O
+marked	O
+out	O
+the	O
+first	O
+burial-ground	O
+,	O
+on	O
+isaac	B-LOCATION
+johnson	I-LOCATION
+'s	O
+lot	O
+,	O
+and	O
+round	O
+about	O
+his	O
+grave	O
+,	O
+which	O
+subsequently	O
+became	O
+the	O
+nucleus	O
+of	O
+all	O
+the	O
+congregated	O
+sepulchres	O
+in	O
+the	O
+old	O
+churchyard	O
+of	O
+king	O
+'s	O
+chapel	O
+.	O
+
+# id = litbank-0114
+# source = LitBank
+# book = The Scarlet Letter
+# book_id = 33_the_scarlet_letter
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/33_the_scarlet_letter_brat.tsv
+# text = the market-place the grass-plot before the jail , in prison lane , on a certain summer morning , not less than two centuries ago , was occupied by a pretty large number of the inhabitants of boston , all with their eyes intently fastened on the iron-clamped oaken door .
+the	O
+market-place	B-LOCATION
+the	O
+grass-plot	O
+before	O
+the	O
+jail	O
+,	O
+in	O
+prison	O
+lane	O
+,	O
+on	O
+a	O
+certain	O
+summer	O
+morning	O
+,	O
+not	O
+less	O
+than	O
+two	O
+centuries	O
+ago	O
+,	O
+was	O
+occupied	O
+by	O
+a	O
+pretty	O
+large	O
+number	O
+of	O
+the	O
+inhabitants	O
+of	O
+boston	B-LOCATION
+,	O
+all	O
+with	O
+their	O
+eyes	O
+intently	O
+fastened	O
+on	O
+the	O
+iron-clamped	O
+oaken	O
+door	O
+.	O
+
+# id = litbank-0115
+# source = LitBank
+# book = The Scarlet Letter
+# book_id = 33_the_scarlet_letter
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/33_the_scarlet_letter_brat.tsv
+# text = amongst any other population , or at a later period in the history of new england , the grim rigidity that petrified the bearded physiognomies of these good people would have augured some awful business in hand .
+amongst	O
+any	O
+other	O
+population	O
+,	O
+or	O
+at	O
+a	O
+later	O
+period	O
+in	O
+the	O
+history	O
+of	O
+new	B-LOCATION
+england	I-LOCATION
+,	O
+the	O
+grim	O
+rigidity	O
+that	O
+petrified	O
+the	O
+bearded	O
+physiognomies	O
+of	O
+these	O
+good	O
+people	O
+would	O
+have	O
+augured	O
+some	O
+awful	O
+business	O
+in	O
+hand	O
+.	O
+
+# id = litbank-0116
 # source = LitBank
 # book = The Scarlet Letter
 # book_id = 33_the_scarlet_letter
@@ -36,7 +220,61 @@ the	O
 gallows	O
 .	O
 
-# id = litbank-0108
+# id = litbank-0117
+# source = LitBank
+# book = The Scarlet Letter
+# book_id = 33_the_scarlet_letter
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/33_the_scarlet_letter_brat.tsv
+# text = the bright morning sun , therefore , shone on broad shoulders and well-developed busts , and on round and ruddy cheeks , that had ripened in the far-off island , and had hardly yet grown paler or thinner in the atmosphere of new england .
+the	O
+bright	O
+morning	O
+sun	O
+,	O
+therefore	O
+,	O
+shone	O
+on	O
+broad	O
+shoulders	O
+and	O
+well-developed	O
+busts	O
+,	O
+and	O
+on	O
+round	O
+and	O
+ruddy	O
+cheeks	O
+,	O
+that	O
+had	O
+ripened	O
+in	O
+the	O
+far-off	O
+island	O
+,	O
+and	O
+had	O
+hardly	O
+yet	O
+grown	O
+paler	O
+or	O
+thinner	O
+in	O
+the	O
+atmosphere	O
+of	O
+new	B-LOCATION
+england	I-LOCATION
+.	O
+
+# id = litbank-0118
 # source = LitBank
 # book = The Scarlet Letter
 # book_id = 33_the_scarlet_letter
@@ -79,7 +317,7 @@ hester	B-CHARACTER
 prynne	I-CHARACTER
 .	O
 
-# id = litbank-0109
+# id = litbank-0119
 # source = LitBank
 # book = The Scarlet Letter
 # book_id = 33_the_scarlet_letter
@@ -125,7 +363,7 @@ congregation	O
 .	O
 "	O
 
-# id = litbank-0110
+# id = litbank-0120
 # source = LitBank
 # book = The Scarlet Letter
 # book_id = 33_the_scarlet_letter
@@ -156,7 +394,7 @@ prynne	I-CHARACTER
 forehead	O
 .	O
 
-# id = litbank-0111
+# id = litbank-0121
 # source = LitBank
 # book = The Scarlet Letter
 # book_id = 33_the_scarlet_letter
@@ -177,7 +415,7 @@ warrant	O
 me	O
 .	O
 
-# id = litbank-0112
+# id = litbank-0122
 # source = LitBank
 # book = The Scarlet Letter
 # book_id = 33_the_scarlet_letter
@@ -207,7 +445,7 @@ herself	O
 .	O
 "	O
 
-# id = litbank-0102
+# id = litbank-0108
 # source = LitBank
 # book = The Scarlet Letter
 # book_id = 33_the_scarlet_letter
@@ -270,7 +508,7 @@ iron	O
 spikes	O
 .	O
 
-# id = litbank-0103
+# id = litbank-0109
 # source = LitBank
 # book = The Scarlet Letter
 # book_id = 33_the_scarlet_letter
@@ -329,85 +567,7 @@ a	O
 prison	O
 .	O
 
-# id = litbank-0104
-# source = LitBank
-# book = The Scarlet Letter
-# book_id = 33_the_scarlet_letter
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/33_the_scarlet_letter_brat.tsv
-# text = in accordance with this rule it may safely be assumed that the forefathers of boston had built the first prison-house somewhere in the vicinity of cornhill , almost as seasonably as they marked out the first burial-ground , on isaac johnson 's lot , and round about his grave , which subsequently became the nucleus of all the congregated sepulchres in the old churchyard of king 's chapel .
-in	O
-accordance	O
-with	O
-this	O
-rule	O
-it	O
-may	O
-safely	O
-be	O
-assumed	O
-that	O
-the	O
-forefathers	O
-of	O
-boston	O
-had	O
-built	O
-the	O
-first	O
-prison-house	O
-somewhere	O
-in	O
-the	O
-vicinity	O
-of	O
-cornhill	O
-,	O
-almost	O
-as	O
-seasonably	O
-as	O
-they	O
-marked	O
-out	O
-the	O
-first	O
-burial-ground	O
-,	O
-on	O
-isaac	O
-johnson	O
-'s	O
-lot	O
-,	O
-and	O
-round	O
-about	O
-his	O
-grave	O
-,	O
-which	O
-subsequently	O
-became	O
-the	O
-nucleus	O
-of	O
-all	O
-the	O
-congregated	O
-sepulchres	O
-in	O
-the	O
-old	O
-churchyard	O
-of	O
-king	O
-'s	O
-chapel	O
-.	O
-
-# id = litbank-0105
+# id = litbank-0111
 # source = LitBank
 # book = The Scarlet Letter
 # book_id = 33_the_scarlet_letter
@@ -460,7 +620,7 @@ gloomy	O
 front	O
 .	O
 
-# id = litbank-0106
+# id = litbank-0112
 # source = LitBank
 # book = The Scarlet Letter
 # book_id = 33_the_scarlet_letter
@@ -488,5 +648,31 @@ in	O
 the	O
 new	O
 world	O
+.	O
+
+# id = litbank-0113
+# source = LitBank
+# book = The Scarlet Letter
+# book_id = 33_the_scarlet_letter
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/33_the_scarlet_letter_brat.tsv
+# text = like all that pertains to crime , it seemed never to have known a youthful era .
+like	O
+all	O
+that	O
+pertains	O
+to	O
+crime	O
+,	O
+it	O
+seemed	O
+never	O
+to	O
+have	O
+known	O
+a	O
+youthful	O
+era	O
 .	O
 

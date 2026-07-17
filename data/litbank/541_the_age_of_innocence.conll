@@ -1,4 +1,113 @@
-# id = litbank-1093
+# id = litbank-1322
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = book i i. on a january evening of the early seventies , christine nilsson was singing in faust at the academy of music in new york .
+book	O
+i	O
+i.	O
+on	O
+a	O
+january	O
+evening	O
+of	O
+the	O
+early	O
+seventies	O
+,	O
+christine	O
+nilsson	O
+was	O
+singing	O
+in	O
+faust	O
+at	O
+the	O
+academy	O
+of	O
+music	B-LOCATION
+in	O
+new	B-LOCATION
+york	I-LOCATION
+.	O
+
+# id = litbank-1324
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = conservatives cherished it for being small and inconvenient , and thus keeping out the " new people " whom new york was beginning to dread and yet be drawn to ; and the sentimental clung to it for its historic associations , and the musical for its excellent acoustics , always so problematic a quality in halls built for the hearing of music .
+conservatives	O
+cherished	O
+it	O
+for	O
+being	O
+small	O
+and	O
+inconvenient	O
+,	O
+and	O
+thus	O
+keeping	O
+out	O
+the	O
+"	O
+new	O
+people	O
+"	O
+whom	O
+new	B-LOCATION
+york	I-LOCATION
+was	O
+beginning	O
+to	O
+dread	O
+and	O
+yet	O
+be	O
+drawn	O
+to	O
+;	O
+and	O
+the	O
+sentimental	O
+clung	O
+to	O
+it	O
+for	O
+its	O
+historic	O
+associations	O
+,	O
+and	O
+the	O
+musical	O
+for	O
+its	O
+excellent	O
+acoustics	O
+,	O
+always	O
+so	O
+problematic	O
+a	O
+quality	O
+in	O
+halls	O
+built	O
+for	O
+the	O
+hearing	O
+of	O
+music	O
+.	O
+
+# id = litbank-1328
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -31,7 +140,7 @@ garden	O
 scene	O
 .	O
 
-# id = litbank-1094
+# id = litbank-1329
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -100,7 +209,7 @@ allowed	O
 smoking	O
 .	O
 
-# id = litbank-1095
+# id = litbank-1330
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -115,8 +224,8 @@ the	O
 first	O
 place	O
 ,	O
-new	O
-york	O
+new	B-LOCATION
+york	I-LOCATION
 was	O
 a	O
 metropolis	O
@@ -181,7 +290,7 @@ years	O
 ago	O
 .	O
 
-# id = litbank-1096
+# id = litbank-1332
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -247,7 +356,7 @@ his	O
 buttonhole	O
 .	O
 
-# id = litbank-1097
+# id = litbank-1333
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -286,7 +395,7 @@ the	O
 house	O
 .	O
 
-# id = litbank-1098
+# id = litbank-1334
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -341,7 +450,7 @@ the	O
 family	O
 .	O
 
-# id = litbank-1099
+# id = litbank-1335
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -397,7 +506,7 @@ the	O
 stagelovers	O
 .	O
 
-# id = litbank-1100
+# id = litbank-1336
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -432,7 +541,48 @@ flowers	O
 softly	O
 .	O
 
-# id = litbank-1101
+# id = litbank-1337
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = no expense had been spared on the setting , which was acknowledged to be very beautiful even by people who shared his acquaintance with the opera houses of paris and vienna .
+no	O
+expense	O
+had	O
+been	O
+spared	O
+on	O
+the	O
+setting	O
+,	O
+which	O
+was	O
+acknowledged	O
+to	O
+be	O
+very	O
+beautiful	O
+even	O
+by	O
+people	O
+who	O
+shared	O
+his	O
+acquaintance	O
+with	O
+the	O
+opera	O
+houses	O
+of	O
+paris	B-LOCATION
+and	O
+vienna	B-LOCATION
+.	O
+
+# id = litbank-1338
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -457,7 +607,7 @@ the	O
 lilies-of-the-valley	O
 .	O
 
-# id = litbank-1102
+# id = litbank-1339
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -483,8 +633,8 @@ she	O
 cared	O
 "	O
 (	O
-new	O
-york	O
+new	B-LOCATION
+york	I-LOCATION
 's	O
 consecrated	O
 phrase	O
@@ -528,7 +678,7 @@ european	O
 witchery	O
 .	O
 
-# id = litbank-1103
+# id = litbank-1340
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -554,7 +704,7 @@ a	O
 simpleton	O
 .	O
 
-# id = litbank-1104
+# id = litbank-1341
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -613,7 +763,50 @@ the	O
 number	O
 .	O
 
-# id = litbank-1105
+# id = litbank-1342
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = singly they betrayed their inferiority ; but grouped together they represented " new york , " and the habit of masculine solidarity made him accept their doctrine on all the issues called moral .
+singly	O
+they	O
+betrayed	O
+their	O
+inferiority	O
+;	O
+but	O
+grouped	O
+together	O
+they	O
+represented	O
+"	O
+new	B-LOCATION
+york	I-LOCATION
+,	O
+"	O
+and	O
+the	O
+habit	O
+of	O
+masculine	O
+solidarity	O
+made	O
+him	O
+accept	O
+their	O
+doctrine	O
+on	O
+all	O
+the	O
+issues	O
+called	O
+moral	O
+.	O
+
+# id = litbank-1343
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -635,7 +828,7 @@ the	O
 stage	O
 .	O
 
-# id = litbank-1106
+# id = litbank-1344
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -659,11 +852,11 @@ on	O
 form	O
 "	O
 in	O
-new	O
-york	O
+new	B-LOCATION
+york	I-LOCATION
 .	O
 
-# id = litbank-1107
+# id = litbank-1345
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -710,7 +903,7 @@ lefferts	I-CHARACTER
 .	O
 "	O
 
-# id = litbank-1108
+# id = litbank-1346
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -732,43 +925,7 @@ sillerton	B-CHARACTER
 jackson	I-CHARACTER
 .	O
 
-# id = litbank-1088
-# source = LitBank
-# book = The Age of Innocence
-# book_id = 541_the_age_of_innocence
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
-# text = book i i. on a january evening of the early seventies , christine nilsson was singing in faust at the academy of music in new york .
-book	O
-i	O
-i.	O
-on	O
-a	O
-january	O
-evening	O
-of	O
-the	O
-early	O
-seventies	O
-,	O
-christine	O
-nilsson	O
-was	O
-singing	O
-in	O
-faust	O
-at	O
-the	O
-academy	O
-of	O
-music	O
-in	O
-new	O
-york	O
-.	O
-
-# id = litbank-1089
+# id = litbank-1323
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -840,80 +997,7 @@ old	O
 academy	O
 .	O
 
-# id = litbank-1090
-# source = LitBank
-# book = The Age of Innocence
-# book_id = 541_the_age_of_innocence
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
-# text = conservatives cherished it for being small and inconvenient , and thus keeping out the " new people " whom new york was beginning to dread and yet be drawn to ; and the sentimental clung to it for its historic associations , and the musical for its excellent acoustics , always so problematic a quality in halls built for the hearing of music .
-conservatives	O
-cherished	O
-it	O
-for	O
-being	O
-small	O
-and	O
-inconvenient	O
-,	O
-and	O
-thus	O
-keeping	O
-out	O
-the	O
-"	O
-new	O
-people	O
-"	O
-whom	O
-new	O
-york	O
-was	O
-beginning	O
-to	O
-dread	O
-and	O
-yet	O
-be	O
-drawn	O
-to	O
-;	O
-and	O
-the	O
-sentimental	O
-clung	O
-to	O
-it	O
-for	O
-its	O
-historic	O
-associations	O
-,	O
-and	O
-the	O
-musical	O
-for	O
-its	O
-excellent	O
-acoustics	O
-,	O
-always	O
-so	O
-problematic	O
-a	O
-quality	O
-in	O
-halls	O
-built	O
-for	O
-the	O
-hearing	O
-of	O
-music	O
-.	O
-
-# id = litbank-1091
+# id = litbank-1325
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -984,7 +1068,7 @@ coupe	O
 .	O
 "	O
 
-# id = litbank-1092
+# id = litbank-1326
 # source = LitBank
 # book = The Age of Innocence
 # book_id = 541_the_age_of_innocence
@@ -1069,5 +1153,67 @@ portico	O
 of	O
 the	O
 academy	O
+.	O
+
+# id = litbank-1327
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = it was one of the great livery-stableman 's most masterly intuitions to have discovered that americans want to get away from amusement even more quickly than they want to get to it .
+it	O
+was	O
+one	O
+of	O
+the	O
+great	O
+livery-stableman	O
+'s	O
+most	O
+masterly	O
+intuitions	O
+to	O
+have	O
+discovered	O
+that	O
+americans	O
+want	O
+to	O
+get	O
+away	O
+from	O
+amusement	O
+even	O
+more	O
+quickly	O
+than	O
+they	O
+want	O
+to	O
+get	O
+to	O
+it	O
+.	O
+
+# id = litbank-1331
+# source = LitBank
+# book = The Age of Innocence
+# book_id = 541_the_age_of_innocence
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/541_the_age_of_innocence_brat.tsv
+# text = the second reason for his delay was a personal one .
+the	O
+second	O
+reason	O
+for	O
+his	O
+delay	O
+was	O
+a	O
+personal	O
+one	O
 .	O
 

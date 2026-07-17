@@ -1,4 +1,4 @@
-# id = litbank-0280
+# id = litbank-0327
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -13,7 +13,7 @@ tom	B-CHARACTER
 !	O
 ”	O
 
-# id = litbank-0281
+# id = litbank-0328
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -26,7 +26,7 @@ tom	B-CHARACTER
 !	O
 ”	O
 
-# id = litbank-0283
+# id = litbank-0330
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -39,7 +39,7 @@ tom	B-CHARACTER
 !	O
 ”	O
 
-# id = litbank-0288
+# id = litbank-0335
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -51,7 +51,7 @@ no	O
 tom	B-CHARACTER
 .	O
 
-# id = litbank-0289
+# id = litbank-0336
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -80,7 +80,7 @@ tom	B-CHARACTER
 !	O
 ”	O
 
-# id = litbank-0290
+# id = litbank-0337
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -105,7 +105,7 @@ gentle	O
 laugh	O
 .	O
 
-# id = litbank-0291
+# id = litbank-0338
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -127,7 +127,7 @@ good	O
 time	O
 .	O
 
-# id = litbank-0292
+# id = litbank-0339
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -184,7 +184,7 @@ the	O
 work	O
 .	O
 
-# id = litbank-0293
+# id = litbank-0340
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -233,7 +233,7 @@ trouble-some	O
 ways	O
 .	O
 
-# id = litbank-0294
+# id = litbank-0341
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -281,7 +281,7 @@ damaging	O
 revealments	O
 .	O
 
-# id = litbank-0295
+# id = litbank-0342
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -308,7 +308,7 @@ it	O
 ?	O
 ”	O
 
-# id = litbank-0296
+# id = litbank-0343
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -330,7 +330,7 @@ tom	B-CHARACTER
 ?	O
 ”	O
 
-# id = litbank-0297
+# id = litbank-0344
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -352,7 +352,7 @@ him	O
 nothing	O
 .	O
 
-# id = litbank-0298
+# id = litbank-0345
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -389,7 +389,7 @@ though	O
 .	O
 ”	O
 
-# id = litbank-0299
+# id = litbank-0346
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -413,7 +413,7 @@ lay	O
 now	O
 .	O
 
-# id = litbank-0300
+# id = litbank-0347
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -442,7 +442,7 @@ a	O
 trick	O
 .	O
 
-# id = litbank-0301
+# id = litbank-0348
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -484,7 +484,7 @@ did	O
 you	O
 ?	O
 
-# id = litbank-0302
+# id = litbank-0349
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -502,7 +502,7 @@ tom	B-CHARACTER
 face	O
 .	O
 
-# id = litbank-0303
+# id = litbank-0350
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -518,7 +518,7 @@ ye	O
 tom	B-CHARACTER
 .	O
 
-# id = litbank-0304
+# id = litbank-0351
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -549,7 +549,7 @@ for	O
 once	O
 .	O
 
-# id = litbank-0305
+# id = litbank-0352
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -586,7 +586,7 @@ black	O
 .	O
 ”	O
 
-# id = litbank-0306
+# id = litbank-0353
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -598,7 +598,7 @@ tom	B-CHARACTER
 !	O
 ”	O
 
-# id = litbank-0307
+# id = litbank-0354
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -616,7 +616,7 @@ the	O
 rest	O
 .	O
 
-# id = litbank-0308
+# id = litbank-0355
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -646,7 +646,7 @@ that	O
 .	O
 ”	O
 
-# id = litbank-0309
+# id = litbank-0356
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -691,7 +691,7 @@ other	O
 black	O
 .	O
 
-# id = litbank-0310
+# id = litbank-0357
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -716,7 +716,7 @@ for	O
 sid	B-CHARACTER
 .	O
 
-# id = litbank-0311
+# id = litbank-0358
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -736,7 +736,7 @@ for	O
 that	O
 .	O
 
-# id = litbank-0312
+# id = litbank-0359
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -751,7 +751,38 @@ his	O
 whistle	O
 .	O
 
-# id = litbank-0313
+# id = litbank-0360
+# source = LitBank
+# book = The Adventures of Tom Sawyer
+# book_id = 74_the_adventures_of_tom_sawyer
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/74_the_adventures_of_tom_sawyer_brat.tsv
+# text = a new-comer of any age or either sex was an im-pressive curiosity in the poor little shabby village of st. petersburg .
+a	O
+new-comer	O
+of	O
+any	O
+age	O
+or	O
+either	O
+sex	O
+was	O
+an	O
+im-pressive	O
+curiosity	O
+in	O
+the	O
+poor	O
+little	O
+shabby	O
+village	O
+of	O
+st.	B-LOCATION
+petersburg	I-LOCATION
+.	O
+
+# id = litbank-0361
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -774,7 +805,7 @@ tom	B-CHARACTER
 vitals	O
 .	O
 
-# id = litbank-0314
+# id = litbank-0362
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -816,7 +847,7 @@ to	O
 grow	O
 .	O
 
-# id = litbank-0315
+# id = litbank-0363
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -836,7 +867,7 @@ you	O
 !	O
 ”	O
 
-# id = litbank-0282
+# id = litbank-0329
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -856,7 +887,7 @@ i	O
 wonder	O
 ?	O
 
-# id = litbank-0284
+# id = litbank-0331
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -891,7 +922,7 @@ under	O
 them	O
 .	O
 
-# id = litbank-0285
+# id = litbank-0332
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -954,7 +985,7 @@ as	O
 well	O
 .	O
 
-# id = litbank-0286
+# id = litbank-0333
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer
@@ -1035,7 +1066,7 @@ punches	O
 with	O
 .	O
 
-# id = litbank-0287
+# id = litbank-0334
 # source = LitBank
 # book = The Adventures of Tom Sawyer
 # book_id = 74_the_adventures_of_tom_sawyer

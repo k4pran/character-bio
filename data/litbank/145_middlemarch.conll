@@ -1,4 +1,4 @@
-# id = litbank-0514
+# id = litbank-0605
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -12,7 +12,7 @@ miss	B-CHARACTER
 brooke	I-CHARACTER
 .	O
 
-# id = litbank-0517
+# id = litbank-0608
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -39,7 +39,7 @@ poor	O
 dress	O
 .	O
 
-# id = litbank-0518
+# id = litbank-0609
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -70,7 +70,7 @@ more	O
 common-sense	O
 .	O
 
-# id = litbank-0519
+# id = litbank-0610
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -133,7 +133,7 @@ sister	O
 shared	O
 .	O
 
-# id = litbank-0522
+# id = litbank-0613
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -203,7 +203,7 @@ eccentric	O
 agitation	O
 .	O
 
-# id = litbank-0523
+# id = litbank-0614
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -254,7 +254,225 @@ for	O
 bedlam	O
 .	O
 
-# id = litbank-0525
+# id = litbank-0616
+# source = LitBank
+# book = Middlemarch
+# book_id = 145_middlemarch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/145_middlemarch_brat.tsv
+# text = her mind was theoretic , and yearned by its nature after some lofty conception of the world which might frankly include the parish of tipton and her own rule of conduct there ; she was enamoured of intensity and greatness , and rash in embracing whatever seemed to her to have those aspects ; likely to seek martyrdom , to make retractations , and then to incur martyrdom after all in a quarter where she had not sought it .
+her	O
+mind	O
+was	O
+theoretic	O
+,	O
+and	O
+yearned	O
+by	O
+its	O
+nature	O
+after	O
+some	O
+lofty	O
+conception	O
+of	O
+the	O
+world	O
+which	O
+might	O
+frankly	O
+include	O
+the	O
+parish	O
+of	O
+tipton	B-LOCATION
+and	O
+her	O
+own	O
+rule	O
+of	O
+conduct	O
+there	O
+;	O
+she	O
+was	O
+enamoured	O
+of	O
+intensity	O
+and	O
+greatness	O
+,	O
+and	O
+rash	O
+in	O
+embracing	O
+whatever	O
+seemed	O
+to	O
+her	O
+to	O
+have	O
+those	O
+aspects	O
+;	O
+likely	O
+to	O
+seek	O
+martyrdom	O
+,	O
+to	O
+make	O
+retractations	O
+,	O
+and	O
+then	O
+to	O
+incur	O
+martyrdom	O
+after	O
+all	O
+in	O
+a	O
+quarter	O
+where	O
+she	O
+had	O
+not	O
+sought	O
+it	O
+.	O
+
+# id = litbank-0617
+# source = LitBank
+# book = Middlemarch
+# book_id = 145_middlemarch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/145_middlemarch_brat.tsv
+# text = with all this , she , the elder of the sisters , was not yet twenty , and they had both been educated , since they were about twelve years old and had lost their parents , on plans at once narrow and promiscuous , first in an english family and afterwards in a swiss family at lausanne , their bachelor uncle and guardian trying in this way to remedy the disadvantages of their orphaned condition .
+with	O
+all	O
+this	O
+,	O
+she	O
+,	O
+the	O
+elder	O
+of	O
+the	O
+sisters	O
+,	O
+was	O
+not	O
+yet	O
+twenty	O
+,	O
+and	O
+they	O
+had	O
+both	O
+been	O
+educated	O
+,	O
+since	O
+they	O
+were	O
+about	O
+twelve	O
+years	O
+old	O
+and	O
+had	O
+lost	O
+their	O
+parents	O
+,	O
+on	O
+plans	O
+at	O
+once	O
+narrow	O
+and	O
+promiscuous	O
+,	O
+first	O
+in	O
+an	O
+english	O
+family	O
+and	O
+afterwards	O
+in	O
+a	O
+swiss	O
+family	O
+at	O
+lausanne	B-LOCATION
+,	O
+their	O
+bachelor	O
+uncle	O
+and	O
+guardian	O
+trying	O
+in	O
+this	O
+way	O
+to	O
+remedy	O
+the	O
+disadvantages	O
+of	O
+their	O
+orphaned	O
+condition	O
+.	O
+
+# id = litbank-0618
+# source = LitBank
+# book = Middlemarch
+# book_id = 145_middlemarch
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/145_middlemarch_brat.tsv
+# text = it was hardly a year since they had come to live at tipton grange with their uncle , a man nearly sixty , of acquiescent temper , miscellaneous opinions , and uncertain vote .
+it	O
+was	O
+hardly	O
+a	O
+year	O
+since	O
+they	O
+had	O
+come	O
+to	O
+live	O
+at	O
+tipton	B-LOCATION
+grange	I-LOCATION
+with	O
+their	O
+uncle	O
+,	O
+a	O
+man	O
+nearly	O
+sixty	O
+,	O
+of	O
+acquiescent	O
+temper	O
+,	O
+miscellaneous	O
+opinions	O
+,	O
+and	O
+uncertain	O
+vote	O
+.	O
+
+# id = litbank-0619
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -305,7 +523,7 @@ them	O
 out	O
 .	O
 
-# id = litbank-0526
+# id = litbank-0620
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -389,7 +607,7 @@ generous	O
 schemes	O
 .	O
 
-# id = litbank-0527
+# id = litbank-0621
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -486,7 +704,7 @@ genteel	O
 life	O
 .	O
 
-# id = litbank-0528
+# id = litbank-0622
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -502,7 +720,7 @@ not	O
 marry	O
 ?	O
 
-# id = litbank-0529
+# id = litbank-0623
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -556,7 +774,7 @@ and	O
 striking	O
 .	O
 
-# id = litbank-0530
+# id = litbank-0624
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -568,7 +786,7 @@ poor	O
 dorothea	B-CHARACTER
 !	O
 
-# id = litbank-0531
+# id = litbank-0625
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -611,7 +829,7 @@ for	O
 it	O
 .	O
 
-# id = litbank-0532
+# id = litbank-0626
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -646,7 +864,7 @@ with	O
 it	O
 .	O
 
-# id = litbank-0533
+# id = litbank-0627
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -698,7 +916,7 @@ to	O
 come	O
 to	O
 the	O
-grange	O
+grange	B-LOCATION
 from	O
 some	O
 other	O
@@ -753,7 +971,7 @@ accept	O
 him	O
 .	O
 
-# id = litbank-0534
+# id = litbank-0628
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -782,7 +1000,7 @@ about	O
 marriage	O
 .	O
 
-# id = litbank-0535
+# id = litbank-0629
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -823,7 +1041,7 @@ his	O
 nieces	O
 .	O
 
-# id = litbank-0536
+# id = litbank-0630
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -902,10 +1120,10 @@ the	O
 northeast	O
 corner	O
 of	O
-loamshire	O
+loamshire	B-LOCATION
 .	O
 
-# id = litbank-0537
+# id = litbank-0631
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -942,7 +1160,7 @@ to	O
 it	O
 .	O
 
-# id = litbank-0538
+# id = litbank-0632
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -981,7 +1199,7 @@ venerating	O
 expectation	O
 .	O
 
-# id = litbank-0539
+# id = litbank-0633
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -1057,7 +1275,7 @@ his	O
 book	O
 .	O
 
-# id = litbank-0540
+# id = litbank-0634
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -1141,7 +1359,7 @@ something	O
 said	O
 --	O
 
-# id = litbank-0515
+# id = litbank-0606
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -1172,7 +1390,7 @@ near	O
 it	O
 .	O
 
-# id = litbank-0516
+# id = litbank-0607
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -1191,7 +1409,7 @@ and	O
 fletcher	O
 .	O
 
-# id = litbank-0520
+# id = litbank-0611
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -1235,7 +1453,7 @@ huckster	O
 daughter	O
 .	O
 
-# id = litbank-0521
+# id = litbank-0612
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch
@@ -1278,7 +1496,7 @@ of	O
 rank	O
 .	O
 
-# id = litbank-0524
+# id = litbank-0615
 # source = LitBank
 # book = Middlemarch
 # book_id = 145_middlemarch

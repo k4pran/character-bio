@@ -1,4 +1,4 @@
-# id = litbank-0055
+# id = litbank-0059
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -68,7 +68,7 @@ rising	O
 sun	O
 .	O
 
-# id = litbank-0056
+# id = litbank-0060
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -107,7 +107,7 @@ good	O
 character	O
 .	O
 
-# id = litbank-0058
+# id = litbank-0062
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -157,7 +157,7 @@ that	O
 way	O
 .	O
 
-# id = litbank-0059
+# id = litbank-0063
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -209,7 +209,7 @@ to	O
 size	O
 .	O
 
-# id = litbank-0060
+# id = litbank-0064
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -242,7 +242,7 @@ at	O
 all	O
 .	O
 
-# id = litbank-0062
+# id = litbank-0066
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -315,7 +315,7 @@ timekeepers	O
 within	O
 .	O
 
-# id = litbank-0063
+# id = litbank-0067
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -413,7 +413,7 @@ a	O
 well	O
 .	O
 
-# id = litbank-0064
+# id = litbank-0068
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -459,7 +459,7 @@ than	O
 these	O
 .	O
 
-# id = litbank-0068
+# id = litbank-0072
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -517,7 +517,7 @@ the	O
 shoulders	O
 .	O
 
-# id = litbank-0069
+# id = litbank-0073
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -560,7 +560,56 @@ did	O
 not	O
 .	O
 
-# id = litbank-0070
+# id = litbank-0074
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = the field he was in this morning sloped to a ridge called norcombe hill .
+the	O
+field	O
+he	O
+was	O
+in	O
+this	O
+morning	O
+sloped	O
+to	O
+a	O
+ridge	O
+called	O
+norcombe	B-LOCATION
+hill	I-LOCATION
+.	O
+
+# id = litbank-0075
+# source = LitBank
+# book = Far from the Madding Crowd
+# book_id = 27_far_from_the_madding_crowd
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/27_far_from_the_madding_crowd_brat.tsv
+# text = through a spur of this hill ran the highway between emminster and chalk - newton .
+through	O
+a	O
+spur	O
+of	O
+this	O
+hill	O
+ran	O
+the	O
+highway	O
+between	O
+emminster	B-LOCATION
+and	O
+chalk	B-LOCATION
+-	I-LOCATION
+newton	I-LOCATION
+.	O
+
+# id = litbank-0076
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -608,7 +657,7 @@ whip	O
 perpendicularly	O
 .	O
 
-# id = litbank-0071
+# id = litbank-0077
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -643,7 +692,7 @@ his	O
 eyes	O
 .	O
 
-# id = litbank-0072
+# id = litbank-0078
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -674,7 +723,7 @@ have	O
 been	O
 .	O
 
-# id = litbank-0073
+# id = litbank-0079
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -733,7 +782,7 @@ of	O
 toll	O
 .	O
 
-# id = litbank-0074
+# id = litbank-0080
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -759,7 +808,7 @@ a	O
 reverie	O
 .	O
 
-# id = litbank-0075
+# id = litbank-0081
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -822,7 +871,7 @@ or	O
 notoriety	O
 .	O
 
-# id = litbank-0076
+# id = litbank-0082
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -882,7 +931,7 @@ that	O
 kind	O
 .	O
 
-# id = litbank-0077
+# id = litbank-0083
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -910,7 +959,7 @@ faults	O
 .	O
 "	O
 
-# id = litbank-0078
+# id = litbank-0084
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -922,7 +971,7 @@ said	O
 gabriel	B-CHARACTER
 .	O
 
-# id = litbank-0079
+# id = litbank-0085
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -964,7 +1013,7 @@ vanity	O
 .	O
 "	O
 
-# id = litbank-0057
+# id = litbank-0061
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -1037,7 +1086,7 @@ pepper-and-salt	O
 mixture	O
 .	O
 
-# id = litbank-0061
+# id = litbank-0065
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -1084,7 +1133,7 @@ belonged	O
 to	O
 .	O
 
-# id = litbank-0065
+# id = litbank-0069
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -1127,7 +1176,7 @@ the	O
 boy	O
 .	O
 
-# id = litbank-0066
+# id = litbank-0070
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd
@@ -1158,7 +1207,7 @@ due	O
 consideration	O
 .	O
 
-# id = litbank-0067
+# id = litbank-0071
 # source = LitBank
 # book = Far from the Madding Crowd
 # book_id = 27_far_from_the_madding_crowd

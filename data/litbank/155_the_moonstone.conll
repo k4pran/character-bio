@@ -1,4 +1,41 @@
-# id = litbank-0542
+# id = litbank-0635
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = prologue the storming of seringapatam ( 1799 ) extracted from a family paper i address these lines -- written in india -- to my relatives in england .
+prologue	O
+the	O
+storming	O
+of	O
+seringapatam	B-LOCATION
+(	O
+1799	O
+)	O
+extracted	O
+from	O
+a	O
+family	O
+paper	O
+i	O
+address	O
+these	O
+lines	O
+--	O
+written	O
+in	O
+india	B-LOCATION
+--	O
+to	O
+my	O
+relatives	O
+in	O
+england	B-LOCATION
+.	O
+
+# id = litbank-0636
 # source = LitBank
 # book = The Moonstone
 # book_id = 155_the_moonstone
@@ -32,7 +69,7 @@ john	B-CHARACTER
 herncastle	I-CHARACTER
 .	O
 
-# id = litbank-0546
+# id = litbank-0640
 # source = LitBank
 # book = The Moonstone
 # book_id = 155_the_moonstone
@@ -66,7 +103,7 @@ concerned	O
 the	O
 storming	O
 of	O
-seringapatam	O
+seringapatam	B-LOCATION
 ,	O
 under	O
 general	B-CHARACTER
@@ -81,7 +118,372 @@ may	O
 1799	O
 .	O
 
-# id = litbank-0548
+# id = litbank-0641
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = in order that the circumstances may be clearly understood , i must revert for a moment to the period before the assault , and to the stories current in our camp of the treasure in jewels and gold stored up in the palace of seringapatam .
+in	O
+order	O
+that	O
+the	O
+circumstances	O
+may	O
+be	O
+clearly	O
+understood	O
+,	O
+i	O
+must	O
+revert	O
+for	O
+a	O
+moment	O
+to	O
+the	O
+period	O
+before	O
+the	O
+assault	O
+,	O
+and	O
+to	O
+the	O
+stories	O
+current	O
+in	O
+our	O
+camp	O
+of	O
+the	O
+treasure	O
+in	O
+jewels	O
+and	O
+gold	O
+stored	O
+up	O
+in	O
+the	O
+palace	O
+of	O
+seringapatam	B-LOCATION
+.	O
+
+# id = litbank-0642
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = ii one of the wildest of these stories related to a yellow diamond -- a famous gem in the native annals of india .
+ii	O
+one	O
+of	O
+the	O
+wildest	O
+of	O
+these	O
+stories	O
+related	O
+to	O
+a	O
+yellow	O
+diamond	O
+--	O
+a	O
+famous	O
+gem	O
+in	O
+the	O
+native	O
+annals	O
+of	O
+india	B-LOCATION
+.	O
+
+# id = litbank-0644
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = partly from its peculiar colour , partly from a superstition which represented it as feeling the influence of the deity whom it adorned , and growing and lessening in lustre with the waxing and waning of the moon , it first gained the name by which it continues to be known in india to this day -- the name of the moonstone .
+partly	O
+from	O
+its	O
+peculiar	O
+colour	O
+,	O
+partly	O
+from	O
+a	O
+superstition	O
+which	O
+represented	O
+it	O
+as	O
+feeling	O
+the	O
+influence	O
+of	O
+the	O
+deity	O
+whom	O
+it	O
+adorned	O
+,	O
+and	O
+growing	O
+and	O
+lessening	O
+in	O
+lustre	O
+with	O
+the	O
+waxing	O
+and	O
+waning	O
+of	O
+the	O
+moon	O
+,	O
+it	O
+first	O
+gained	O
+the	O
+name	O
+by	O
+which	O
+it	O
+continues	O
+to	O
+be	O
+known	O
+in	O
+india	B-LOCATION
+to	O
+this	O
+day	O
+--	O
+the	O
+name	O
+of	O
+the	O
+moonstone	O
+.	O
+
+# id = litbank-0645
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = a similar superstition was once prevalent , as i have heard , in ancient greece and rome ; not applying , however ( as in india ) , to a diamond devoted to the service of a god , but to a semi-transparent stone of the inferior order of gems , supposed to be affected by the lunar influences -- the moon , in this latter case also , giving the name by which the stone is still known to collectors in our own time .
+a	O
+similar	O
+superstition	O
+was	O
+once	O
+prevalent	O
+,	O
+as	O
+i	O
+have	O
+heard	O
+,	O
+in	O
+ancient	O
+greece	B-LOCATION
+and	O
+rome	B-LOCATION
+;	O
+not	O
+applying	O
+,	O
+however	O
+(	O
+as	O
+in	O
+india	B-LOCATION
+)	O
+,	O
+to	O
+a	O
+diamond	O
+devoted	O
+to	O
+the	O
+service	O
+of	O
+a	O
+god	O
+,	O
+but	O
+to	O
+a	O
+semi-transparent	O
+stone	O
+of	O
+the	O
+inferior	O
+order	O
+of	O
+gems	O
+,	O
+supposed	O
+to	O
+be	O
+affected	O
+by	O
+the	O
+lunar	O
+influences	O
+--	O
+the	O
+moon	O
+,	O
+in	O
+this	O
+latter	O
+case	O
+also	O
+,	O
+giving	O
+the	O
+name	O
+by	O
+which	O
+the	O
+stone	O
+is	O
+still	O
+known	O
+to	O
+collectors	O
+in	O
+our	O
+own	O
+time	O
+.	O
+
+# id = litbank-0647
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = at that date , the mohammedan conqueror , mahmoud of ghizni , crossed india ; seized on the holy city of somnauth ; and stripped of its treasures the famous temple , which had stood for centuries -- the shrine of hindoo pilgrimage , and the wonder of the eastern world .
+at	O
+that	O
+date	O
+,	O
+the	O
+mohammedan	O
+conqueror	O
+,	O
+mahmoud	O
+of	O
+ghizni	O
+,	O
+crossed	O
+india	B-LOCATION
+;	O
+seized	O
+on	O
+the	O
+holy	O
+city	O
+of	O
+somnauth	B-LOCATION
+;	O
+and	O
+stripped	O
+of	O
+its	O
+treasures	O
+the	O
+famous	O
+temple	O
+,	O
+which	O
+had	O
+stood	O
+for	O
+centuries	O
+--	O
+the	O
+shrine	O
+of	O
+hindoo	O
+pilgrimage	O
+,	O
+and	O
+the	O
+wonder	O
+of	O
+the	O
+eastern	O
+world	O
+.	O
+
+# id = litbank-0648
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = preserved by three brahmins , the inviolate deity , bearing the yellow diamond in its forehead , was removed by night , and was transported to the second of the sacred cities of india -- the city of benares .
+preserved	O
+by	O
+three	O
+brahmins	O
+,	O
+the	O
+inviolate	O
+deity	O
+,	O
+bearing	O
+the	O
+yellow	O
+diamond	O
+in	O
+its	O
+forehead	O
+,	O
+was	O
+removed	O
+by	O
+night	O
+,	O
+and	O
+was	O
+transported	O
+to	O
+the	O
+second	O
+of	O
+the	O
+sacred	O
+cities	O
+of	O
+india	B-LOCATION
+--	O
+the	O
+city	O
+of	O
+benares	B-LOCATION
+.	O
+
+# id = litbank-0649
 # source = LitBank
 # book = The Moonstone
 # book_id = 155_the_moonstone
@@ -100,7 +502,7 @@ tippoo	B-CHARACTER
 ,	O
 sultan	O
 of	O
-seringapatam	O
+seringapatam	B-LOCATION
 ,	O
 who	O
 caused	O
@@ -134,7 +536,38 @@ his	O
 armoury	O
 .	O
 
-# id = litbank-0549
+# id = litbank-0650
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = even then -- in the palace of the sultan himself -- the three guardian priests still kept their watch in secret .
+even	O
+then	O
+--	O
+in	O
+the	O
+palace	O
+of	O
+the	O
+sultan	B-LOCATION
+himself	O
+--	O
+the	O
+three	O
+guardian	O
+priests	O
+still	O
+kept	O
+their	O
+watch	O
+in	O
+secret	O
+.	O
+
+# id = litbank-0651
 # source = LitBank
 # book = The Moonstone
 # book_id = 155_the_moonstone
@@ -191,7 +624,45 @@ in	O
 disguise	O
 .	O
 
-# id = litbank-0550
+# id = litbank-0652
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = on the night before the assault on seringapatam , he was absurdly angry with me , and with others , for treating the whole thing as a fable .
+on	O
+the	O
+night	O
+before	O
+the	O
+assault	O
+on	O
+seringapatam	B-LOCATION
+,	O
+he	O
+was	O
+absurdly	O
+angry	O
+with	O
+me	O
+,	O
+and	O
+with	O
+others	O
+,	O
+for	O
+treating	O
+the	O
+whole	O
+thing	O
+as	O
+a	O
+fable	O
+.	O
+
+# id = litbank-0653
 # source = LitBank
 # book = The Moonstone
 # book_id = 155_the_moonstone
@@ -216,7 +687,7 @@ of	O
 him	O
 .	O
 
-# id = litbank-0551
+# id = litbank-0654
 # source = LitBank
 # book = The Moonstone
 # book_id = 155_the_moonstone
@@ -262,7 +733,7 @@ i	O
 met	O
 .	O
 
-# id = litbank-0552
+# id = litbank-0655
 # source = LitBank
 # book = The Moonstone
 # book_id = 155_the_moonstone
@@ -300,7 +771,7 @@ had	O
 passed	O
 .	O
 
-# id = litbank-0553
+# id = litbank-0656
 # source = LitBank
 # book = The Moonstone
 # book_id = 155_the_moonstone
@@ -343,7 +814,7 @@ the	O
 other	O
 .	O
 
-# id = litbank-0554
+# id = litbank-0657
 # source = LitBank
 # book = The Moonstone
 # book_id = 155_the_moonstone
@@ -391,7 +862,7 @@ yours	O
 !	O
 ”	O
 
-# id = litbank-0555
+# id = litbank-0658
 # source = LitBank
 # book = The Moonstone
 # book_id = 155_the_moonstone
@@ -438,7 +909,7 @@ be	O
 hung	O
 .	O
 
-# id = litbank-0556
+# id = litbank-0659
 # source = LitBank
 # book = The Moonstone
 # book_id = 155_the_moonstone
@@ -477,7 +948,7 @@ met	O
 again	O
 .	O
 
-# id = litbank-0557
+# id = litbank-0660
 # source = LitBank
 # book = The Moonstone
 # book_id = 155_the_moonstone
@@ -506,44 +977,7 @@ said	O
 herncastle	B-CHARACTER
 .	O
 
-# id = litbank-0541
-# source = LitBank
-# book = The Moonstone
-# book_id = 155_the_moonstone
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/155_the_moonstone_brat.tsv
-# text = prologue the storming of seringapatam ( 1799 ) extracted from a family paper i address these lines -- written in india -- to my relatives in england .
-prologue	O
-the	O
-storming	O
-of	O
-seringapatam	O
-(	O
-1799	O
-)	O
-extracted	O
-from	O
-a	O
-family	O
-paper	O
-i	O
-address	O
-these	O
-lines	O
---	O
-written	O
-in	O
-india	O
---	O
-to	O
-my	O
-relatives	O
-in	O
-england	O
-.	O
-
-# id = litbank-0543
+# id = litbank-0637
 # source = LitBank
 # book = The Moonstone
 # book_id = 155_the_moonstone
@@ -580,7 +1014,7 @@ to	O
 forfeit	O
 .	O
 
-# id = litbank-0544
+# id = litbank-0638
 # source = LitBank
 # book = The Moonstone
 # book_id = 155_the_moonstone
@@ -603,7 +1037,7 @@ my	O
 narrative	O
 .	O
 
-# id = litbank-0545
+# id = litbank-0639
 # source = LitBank
 # book = The Moonstone
 # book_id = 155_the_moonstone
@@ -639,58 +1073,61 @@ the	O
 truth	O
 .	O
 
-# id = litbank-0547
+# id = litbank-0643
 # source = LitBank
 # book = The Moonstone
 # book_id = 155_the_moonstone
 # chapter = unknown
 # sample_type = negative
 # source_file = entities/tsv/155_the_moonstone_brat.tsv
-# text = in order that the circumstances may be clearly understood , i must revert for a moment to the period before the assault , and to the stories current in our camp of the treasure in jewels and gold stored up in the palace of seringapatam .
+# text = the earliest known traditions describe the stone as having been set in the forehead of the four-handed indian god who typifies the moon .
+the	O
+earliest	O
+known	O
+traditions	O
+describe	O
+the	O
+stone	O
+as	O
+having	O
+been	O
+set	O
 in	O
-order	O
-that	O
 the	O
-circumstances	O
-may	O
-be	O
-clearly	O
-understood	O
-,	O
-i	O
-must	O
-revert	O
-for	O
-a	O
-moment	O
-to	O
-the	O
-period	O
-before	O
-the	O
-assault	O
-,	O
-and	O
-to	O
-the	O
-stories	O
-current	O
-in	O
-our	O
-camp	O
+forehead	O
 of	O
 the	O
-treasure	O
-in	O
-jewels	O
-and	O
-gold	O
-stored	O
-up	O
-in	O
+four-handed	O
+indian	O
+god	O
+who	O
+typifies	O
 the	O
-palace	O
+moon	O
+.	O
+
+# id = litbank-0646
+# source = LitBank
+# book = The Moonstone
+# book_id = 155_the_moonstone
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/155_the_moonstone_brat.tsv
+# text = the adventures of the yellow diamond begin with the eleventh century of the christian era .
+the	O
+adventures	O
 of	O
-seringapatam	O
+the	O
+yellow	O
+diamond	O
+begin	O
+with	O
+the	O
+eleventh	O
+century	O
+of	O
+the	O
+christian	O
+era	O
 .	O
 

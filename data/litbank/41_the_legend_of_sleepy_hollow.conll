@@ -1,4 +1,4 @@
-# id = litbank-0123
+# id = litbank-0144
 # source = LitBank
 # book = The Legend of Sleepy Hollow
 # book_id = 41_the_legend_of_sleepy_hollow
@@ -17,7 +17,270 @@ diedrich	B-CHARACTER
 knickerbocker	I-CHARACTER
 .	O
 
-# id = litbank-0129
+# id = litbank-0146
+# source = LitBank
+# book = The Legend of Sleepy Hollow
+# book_id = 41_the_legend_of_sleepy_hollow
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41_the_legend_of_sleepy_hollow_brat.tsv
+# text = in the bosom of one of those spacious coves which indent the eastern shore of the hudson , at that broad expansion of the river denominated by the ancient dutch navigators the tappan zee , and where they always prudently shortened sail and implored the protection of st. nicholas when they crossed , there lies a small market town or rural port , which by some is called greensburgh , but which is more generally and properly known by the name of tarry town .
+in	O
+the	O
+bosom	O
+of	O
+one	O
+of	O
+those	O
+spacious	O
+coves	O
+which	O
+indent	O
+the	O
+eastern	O
+shore	O
+of	O
+the	O
+hudson	B-LOCATION
+,	O
+at	O
+that	O
+broad	O
+expansion	O
+of	O
+the	O
+river	O
+denominated	O
+by	O
+the	O
+ancient	O
+dutch	O
+navigators	O
+the	O
+tappan	B-LOCATION
+zee	I-LOCATION
+,	O
+and	O
+where	O
+they	O
+always	O
+prudently	O
+shortened	O
+sail	O
+and	O
+implored	O
+the	O
+protection	O
+of	O
+st.	O
+nicholas	O
+when	O
+they	O
+crossed	O
+,	O
+there	O
+lies	O
+a	O
+small	O
+market	O
+town	O
+or	O
+rural	O
+port	O
+,	O
+which	O
+by	O
+some	O
+is	O
+called	O
+greensburgh	B-LOCATION
+,	O
+but	O
+which	O
+is	O
+more	O
+generally	O
+and	O
+properly	O
+known	O
+by	O
+the	O
+name	O
+of	O
+tarry	B-LOCATION
+town	I-LOCATION
+.	O
+
+# id = litbank-0151
+# source = LitBank
+# book = The Legend of Sleepy Hollow
+# book_id = 41_the_legend_of_sleepy_hollow
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41_the_legend_of_sleepy_hollow_brat.tsv
+# text = from the listless repose of the place , and the peculiar character of its inhabitants , who are descendants from the original dutch settlers , this sequestered glen has long been known by the name of sleepy hollow , and its rustic lads are called the sleepy hollow boys throughout all the neighboring country .
+from	O
+the	O
+listless	O
+repose	O
+of	O
+the	O
+place	O
+,	O
+and	O
+the	O
+peculiar	O
+character	O
+of	O
+its	O
+inhabitants	O
+,	O
+who	O
+are	O
+descendants	O
+from	O
+the	O
+original	O
+dutch	O
+settlers	O
+,	O
+this	O
+sequestered	O
+glen	O
+has	O
+long	O
+been	O
+known	O
+by	O
+the	O
+name	O
+of	O
+sleepy	B-LOCATION
+hollow	I-LOCATION
+,	O
+and	O
+its	O
+rustic	O
+lads	O
+are	O
+called	O
+the	O
+sleepy	O
+hollow	O
+boys	O
+throughout	O
+all	O
+the	O
+neighboring	O
+country	O
+.	O
+
+# id = litbank-0152
+# source = LitBank
+# book = The Legend of Sleepy Hollow
+# book_id = 41_the_legend_of_sleepy_hollow
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41_the_legend_of_sleepy_hollow_brat.tsv
+# text = indeed , certain of the most authentic historians of those parts , who have been careful in collecting and collating the floating facts concerning this spectre , allege that the body of the trooper having been buried in the churchyard , the ghost rides forth to the scene of battle in nightly quest of his head , and that the rushing speed with which he sometimes passes along the hollow , like a midnight blast , is owing to his being belated , and in a hurry to get back to the churchyard before daybreak .
+indeed	O
+,	O
+certain	O
+of	O
+the	O
+most	O
+authentic	O
+historians	O
+of	O
+those	O
+parts	O
+,	O
+who	O
+have	O
+been	O
+careful	O
+in	O
+collecting	O
+and	O
+collating	O
+the	O
+floating	O
+facts	O
+concerning	O
+this	O
+spectre	O
+,	O
+allege	O
+that	O
+the	O
+body	O
+of	O
+the	O
+trooper	O
+having	O
+been	O
+buried	O
+in	O
+the	O
+churchyard	O
+,	O
+the	O
+ghost	O
+rides	O
+forth	O
+to	O
+the	O
+scene	O
+of	O
+battle	O
+in	O
+nightly	O
+quest	O
+of	O
+his	O
+head	O
+,	O
+and	O
+that	O
+the	O
+rushing	O
+speed	O
+with	O
+which	O
+he	O
+sometimes	O
+passes	O
+along	O
+the	O
+hollow	B-LOCATION
+,	O
+like	O
+a	O
+midnight	O
+blast	O
+,	O
+is	O
+owing	O
+to	O
+his	O
+being	O
+belated	O
+,	O
+and	O
+in	O
+a	O
+hurry	O
+to	O
+get	O
+back	O
+to	O
+the	O
+churchyard	O
+before	O
+daybreak	O
+.	O
+
+# id = litbank-0153
 # source = LitBank
 # book = The Legend of Sleepy Hollow
 # book_id = 41_the_legend_of_sleepy_hollow
@@ -73,7 +336,53 @@ sleepy	I-CHARACTER
 hollow	I-CHARACTER
 .	O
 
-# id = litbank-0130
+# id = litbank-0154
+# source = LitBank
+# book = The Legend of Sleepy Hollow
+# book_id = 41_the_legend_of_sleepy_hollow
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41_the_legend_of_sleepy_hollow_brat.tsv
+# text = though many years have elapsed since i trod the drowsy shades of sleepy hollow , yet i question whether i should not still find the same trees and the same families vegetating in its sheltered bosom .
+though	O
+many	O
+years	O
+have	O
+elapsed	O
+since	O
+i	O
+trod	O
+the	O
+drowsy	O
+shades	O
+of	O
+sleepy	B-LOCATION
+hollow	I-LOCATION
+,	O
+yet	O
+i	O
+question	O
+whether	O
+i	O
+should	O
+not	O
+still	O
+find	O
+the	O
+same	O
+trees	O
+and	O
+the	O
+same	O
+families	O
+vegetating	O
+in	O
+its	O
+sheltered	O
+bosom	O
+.	O
+
+# id = litbank-0155
 # source = LitBank
 # book = The Legend of Sleepy Hollow
 # book_id = 41_the_legend_of_sleepy_hollow
@@ -132,8 +441,8 @@ tarried	O
 ,	O
 ”	O
 in	O
-sleepy	O
-hollow	O
+sleepy	B-LOCATION
+hollow	I-LOCATION
 ,	O
 for	O
 the	O
@@ -147,7 +456,54 @@ the	O
 vicinity	O
 .	O
 
-# id = litbank-0131
+# id = litbank-0156
+# source = LitBank
+# book = The Legend of Sleepy Hollow
+# book_id = 41_the_legend_of_sleepy_hollow
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/41_the_legend_of_sleepy_hollow_brat.tsv
+# text = he was a native of connecticut , a state which supplies the union with pioneers for the mind as well as for the forest , and sends forth yearly its legions of frontier woodmen and country schoolmasters .
+he	O
+was	O
+a	O
+native	O
+of	O
+connecticut	B-LOCATION
+,	O
+a	O
+state	O
+which	O
+supplies	O
+the	O
+union	O
+with	O
+pioneers	O
+for	O
+the	O
+mind	O
+as	O
+well	O
+as	O
+for	O
+the	O
+forest	O
+,	O
+and	O
+sends	O
+forth	O
+yearly	O
+its	O
+legions	O
+of	O
+frontier	O
+woodmen	O
+and	O
+country	O
+schoolmasters	O
+.	O
+
+# id = litbank-0157
 # source = LitBank
 # book = The Legend of Sleepy Hollow
 # book_id = 41_the_legend_of_sleepy_hollow
@@ -167,7 +523,7 @@ his	O
 person	O
 .	O
 
-# id = litbank-0132
+# id = litbank-0158
 # source = LitBank
 # book = The Legend of Sleepy Hollow
 # book_id = 41_the_legend_of_sleepy_hollow
@@ -246,7 +602,7 @@ an	O
 eelpot	O
 .	O
 
-# id = litbank-0133
+# id = litbank-0159
 # source = LitBank
 # book = The Legend of Sleepy Hollow
 # book_id = 41_the_legend_of_sleepy_hollow
@@ -264,7 +620,7 @@ not	O
 spoiled	O
 .	O
 
-# id = litbank-0124
+# id = litbank-0145
 # source = LitBank
 # book = The Legend of Sleepy Hollow
 # book_id = 41_the_legend_of_sleepy_hollow
@@ -308,7 +664,7 @@ summer	O
 sky	O
 .	O
 
-# id = litbank-0125
+# id = litbank-0147
 # source = LitBank
 # book = The Legend of Sleepy Hollow
 # book_id = 41_the_legend_of_sleepy_hollow
@@ -356,7 +712,7 @@ market	O
 days	O
 .	O
 
-# id = litbank-0126
+# id = litbank-0148
 # source = LitBank
 # book = The Legend of Sleepy Hollow
 # book_id = 41_the_legend_of_sleepy_hollow
@@ -394,7 +750,7 @@ and	O
 authentic	O
 .	O
 
-# id = litbank-0127
+# id = litbank-0149
 # source = LitBank
 # book = The Legend of Sleepy Hollow
 # book_id = 41_the_legend_of_sleepy_hollow
@@ -440,7 +796,7 @@ whole	O
 world	O
 .	O
 
-# id = litbank-0128
+# id = litbank-0150
 # source = LitBank
 # book = The Legend of Sleepy Hollow
 # book_id = 41_the_legend_of_sleepy_hollow

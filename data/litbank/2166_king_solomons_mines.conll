@@ -1,4 +1,4 @@
-# id = litbank-1752
+# id = litbank-2138
 # source = LitBank
 # book = King Solomon's Mines
 # book_id = 2166_king_solomons_mines
@@ -43,7 +43,7 @@ a	O
 history	O
 .	O
 
-# id = litbank-1758
+# id = litbank-2144
 # source = LitBank
 # book = King Solomon's Mines
 # book_id = 2166_king_solomons_mines
@@ -66,7 +66,35 @@ asked	O
 me	O
 .	O
 
-# id = litbank-1759
+# id = litbank-2145
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = second reason : because i am laid up here at durban with the pain in my left leg .
+second	O
+reason	O
+:	O
+because	O
+i	O
+am	O
+laid	O
+up	O
+here	O
+at	O
+durban	B-LOCATION
+with	O
+the	O
+pain	O
+in	O
+my	O
+left	O
+leg	O
+.	O
+
+# id = litbank-2146
 # source = LitBank
 # book = King Solomon's Mines
 # book_id = 2166_king_solomons_mines
@@ -92,7 +120,7 @@ at	O
 the	O
 hospital	O
 in	O
-london	O
+london	B-LOCATION
 studying	O
 to	O
 become	O
@@ -118,7 +146,7 @@ or	O
 so	O
 .	O
 
-# id = litbank-1760
+# id = litbank-2147
 # source = LitBank
 # book = King Solomon's Mines
 # book_id = 2166_king_solomons_mines
@@ -185,7 +213,7 @@ our	O
 adventures	O
 .	O
 
-# id = litbank-1761
+# id = litbank-2148
 # source = LitBank
 # book = King Solomon's Mines
 # book_id = 2166_king_solomons_mines
@@ -216,7 +244,7 @@ except	O
 foulata	B-CHARACTER
 .	O
 
-# id = litbank-1762
+# id = litbank-2149
 # source = LitBank
 # book = King Solomon's Mines
 # book_id = 2166_king_solomons_mines
@@ -240,7 +268,7 @@ a	O
 fiend	O
 .	O
 
-# id = litbank-1763
+# id = litbank-2150
 # source = LitBank
 # book = King Solomon's Mines
 # book_id = 2166_king_solomons_mines
@@ -254,9 +282,9 @@ allan	B-CHARACTER
 quatermain	I-CHARACTER
 ,	O
 of	O
-durban	O
+durban	B-LOCATION
 ,	O
-natal	O
+natal	B-LOCATION
 ,	O
 gentleman	O
 ,	O
@@ -301,7 +329,7 @@ a	O
 book	O
 .	O
 
-# id = litbank-1764
+# id = litbank-2151
 # source = LitBank
 # book = King Solomon's Mines
 # book_id = 2166_king_solomons_mines
@@ -362,7 +390,7 @@ not	O
 _	O
 .	O
 
-# id = litbank-1765
+# id = litbank-2152
 # source = LitBank
 # book = King Solomon's Mines
 # book_id = 2166_king_solomons_mines
@@ -391,7 +419,222 @@ captain	B-CHARACTER
 good	I-CHARACTER
 .	O
 
-# id = litbank-1766
+# id = litbank-2153
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = i had been up elephant hunting beyond bamangwato , and had met with bad luck .
+i	O
+had	O
+been	O
+up	O
+elephant	O
+hunting	O
+beyond	O
+bamangwato	B-LOCATION
+,	O
+and	O
+had	O
+met	O
+with	O
+bad	O
+luck	O
+.	O
+
+# id = litbank-2154
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = so soon as i was well enough i trekked down to the diamond fields , sold such ivory as i had , together with my wagon and oxen , discharged my hunters , and took the post-cart to the cape .
+so	O
+soon	O
+as	O
+i	O
+was	O
+well	O
+enough	O
+i	O
+trekked	O
+down	O
+to	O
+the	O
+diamond	B-LOCATION
+fields	I-LOCATION
+,	O
+sold	O
+such	O
+ivory	O
+as	O
+i	O
+had	O
+,	O
+together	O
+with	O
+my	O
+wagon	O
+and	O
+oxen	O
+,	O
+discharged	O
+my	O
+hunters	O
+,	O
+and	O
+took	O
+the	O
+post-cart	O
+to	O
+the	O
+cape	B-LOCATION
+.	O
+
+# id = litbank-2155
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = after spending a week in cape town , finding that they overcharged me at the hotel , and having seen everything there was to see , including the botanical gardens , which seem to me likely to confer a great benefit on the country , and the new houses of parliament , which i expect will do nothing of the sort , i determined to go back to natal by the _ dunkeld _ , then lying at the docks waiting for the _ edinburgh castle _ due in from england .
+after	O
+spending	O
+a	O
+week	O
+in	O
+cape	B-LOCATION
+town	I-LOCATION
+,	O
+finding	O
+that	O
+they	O
+overcharged	O
+me	O
+at	O
+the	O
+hotel	O
+,	O
+and	O
+having	O
+seen	O
+everything	O
+there	O
+was	O
+to	O
+see	O
+,	O
+including	O
+the	O
+botanical	O
+gardens	O
+,	O
+which	O
+seem	O
+to	O
+me	O
+likely	O
+to	O
+confer	O
+a	O
+great	O
+benefit	O
+on	O
+the	O
+country	O
+,	O
+and	O
+the	O
+new	O
+houses	O
+of	O
+parliament	O
+,	O
+which	O
+i	O
+expect	O
+will	O
+do	O
+nothing	O
+of	O
+the	O
+sort	O
+,	O
+i	O
+determined	O
+to	O
+go	O
+back	O
+to	O
+natal	B-LOCATION
+by	O
+the	O
+_	O
+dunkeld	B-LOCATION
+_	O
+,	O
+then	O
+lying	O
+at	O
+the	O
+docks	O
+waiting	O
+for	O
+the	O
+_	O
+edinburgh	B-LOCATION
+castle	O
+_	O
+due	O
+in	O
+from	O
+england	B-LOCATION
+.	O
+
+# id = litbank-2156
+# source = LitBank
+# book = King Solomon's Mines
+# book_id = 2166_king_solomons_mines
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2166_king_solomons_mines_brat.tsv
+# text = i took my berth and went aboard , and that afternoon the natal passengers from the _ edinburgh castle _ transhipped , and we weighed and put to sea .
+i	O
+took	O
+my	O
+berth	O
+and	O
+went	O
+aboard	O
+,	O
+and	O
+that	O
+afternoon	O
+the	O
+natal	O
+passengers	O
+from	O
+the	O
+_	O
+edinburgh	B-LOCATION
+castle	O
+_	O
+transhipped	O
+,	O
+and	O
+we	O
+weighed	O
+and	O
+put	O
+to	O
+sea	O
+.	O
+
+# id = litbank-2157
 # source = LitBank
 # book = King Solomon's Mines
 # book_id = 2166_king_solomons_mines
@@ -441,7 +684,7 @@ danish	O
 blood	O
 .	O
 
-# id = litbank-1767
+# id = litbank-2158
 # source = LitBank
 # book = King Solomon's Mines
 # book_id = 2166_king_solomons_mines
@@ -473,7 +716,7 @@ different	O
 cut	O
 .	O
 
-# id = litbank-1768
+# id = litbank-2159
 # source = LitBank
 # book = King Solomon's Mines
 # book_id = 2166_king_solomons_mines
@@ -505,7 +748,7 @@ john	I-CHARACTER
 good	I-CHARACTER
 .	O
 
-# id = litbank-1753
+# id = litbank-2139
 # source = LitBank
 # book = King Solomon's Mines
 # book_id = 2166_king_solomons_mines
@@ -541,7 +784,7 @@ the	O
 trip	O
 !	O
 
-# id = litbank-1754
+# id = litbank-2140
 # source = LitBank
 # book = King Solomon's Mines
 # book_id = 2166_king_solomons_mines
@@ -580,7 +823,7 @@ young	O
 perhaps	O
 .	O
 
-# id = litbank-1755
+# id = litbank-2141
 # source = LitBank
 # book = King Solomon's Mines
 # book_id = 2166_king_solomons_mines
@@ -611,7 +854,7 @@ old	O
 colony	O
 .	O
 
-# id = litbank-1756
+# id = litbank-2142
 # source = LitBank
 # book = King Solomon's Mines
 # book_id = 2166_king_solomons_mines
@@ -634,7 +877,7 @@ ever	O
 since	O
 .	O
 
-# id = litbank-1757
+# id = litbank-2143
 # source = LitBank
 # book = King Solomon's Mines
 # book_id = 2166_king_solomons_mines

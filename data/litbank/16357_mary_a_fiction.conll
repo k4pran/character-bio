@@ -1,4 +1,4 @@
-# id = litbank-2385
+# id = litbank-2905
 # source = LitBank
 # book = Mary: A Fiction
 # book_id = 16357_mary_a_fiction
@@ -59,7 +59,93 @@ that	O
 stamp	O
 .	O
 
-# id = litbank-2391
+# id = litbank-2908
+# source = LitBank
+# book = Mary: A Fiction
+# book_id = 16357_mary_a_fiction
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/16357_mary_a_fiction_brat.tsv
+# text = while they resided in london , they lived in the usual fashionable style , and seldom saw each other ; nor were they much more sociable when they wooed rural felicity for more than half the year , in a delightful country , where nature , with lavish hand , had scattered beauties around ; for the master , with brute , unconscious gaze , passed them by unobserved , and sought amusement in country sports .
+while	O
+they	O
+resided	O
+in	O
+london	B-LOCATION
+,	O
+they	O
+lived	O
+in	O
+the	O
+usual	O
+fashionable	O
+style	O
+,	O
+and	O
+seldom	O
+saw	O
+each	O
+other	O
+;	O
+nor	O
+were	O
+they	O
+much	O
+more	O
+sociable	O
+when	O
+they	O
+wooed	O
+rural	O
+felicity	O
+for	O
+more	O
+than	O
+half	O
+the	O
+year	O
+,	O
+in	O
+a	O
+delightful	O
+country	O
+,	O
+where	O
+nature	O
+,	O
+with	O
+lavish	O
+hand	O
+,	O
+had	O
+scattered	O
+beauties	O
+around	O
+;	O
+for	O
+the	O
+master	O
+,	O
+with	O
+brute	O
+,	O
+unconscious	O
+gaze	O
+,	O
+passed	O
+them	O
+by	O
+unobserved	O
+,	O
+and	O
+sought	O
+amusement	O
+in	O
+country	O
+sports	O
+.	O
+
+# id = litbank-2912
 # source = LitBank
 # book = Mary: A Fiction
 # book_id = 16357_mary_a_fiction
@@ -85,7 +171,7 @@ with	O
 eagerness	O
 .	O
 
-# id = litbank-2392
+# id = litbank-2913
 # source = LitBank
 # book = Mary: A Fiction
 # book_id = 16357_mary_a_fiction
@@ -121,7 +207,7 @@ thing	O
 away	O
 .	O
 
-# id = litbank-2393
+# id = litbank-2914
 # source = LitBank
 # book = Mary: A Fiction
 # book_id = 16357_mary_a_fiction
@@ -198,7 +284,7 @@ through	O
 life	O
 .	O
 
-# id = litbank-2386
+# id = litbank-2906
 # source = LitBank
 # book = Mary: A Fiction
 # book_id = 16357_mary_a_fiction
@@ -236,7 +322,7 @@ approved	O
 of	O
 .	O
 
-# id = litbank-2387
+# id = litbank-2907
 # source = LitBank
 # book = Mary: A Fiction
 # book_id = 16357_mary_a_fiction
@@ -313,93 +399,7 @@ duty	O
 bound	O
 .	O
 
-# id = litbank-2388
-# source = LitBank
-# book = Mary: A Fiction
-# book_id = 16357_mary_a_fiction
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/16357_mary_a_fiction_brat.tsv
-# text = while they resided in london , they lived in the usual fashionable style , and seldom saw each other ; nor were they much more sociable when they wooed rural felicity for more than half the year , in a delightful country , where nature , with lavish hand , had scattered beauties around ; for the master , with brute , unconscious gaze , passed them by unobserved , and sought amusement in country sports .
-while	O
-they	O
-resided	O
-in	O
-london	O
-,	O
-they	O
-lived	O
-in	O
-the	O
-usual	O
-fashionable	O
-style	O
-,	O
-and	O
-seldom	O
-saw	O
-each	O
-other	O
-;	O
-nor	O
-were	O
-they	O
-much	O
-more	O
-sociable	O
-when	O
-they	O
-wooed	O
-rural	O
-felicity	O
-for	O
-more	O
-than	O
-half	O
-the	O
-year	O
-,	O
-in	O
-a	O
-delightful	O
-country	O
-,	O
-where	O
-nature	O
-,	O
-with	O
-lavish	O
-hand	O
-,	O
-had	O
-scattered	O
-beauties	O
-around	O
-;	O
-for	O
-the	O
-master	O
-,	O
-with	O
-brute	O
-,	O
-unconscious	O
-gaze	O
-,	O
-passed	O
-them	O
-by	O
-unobserved	O
-,	O
-and	O
-sought	O
-amusement	O
-in	O
-country	O
-sports	O
-.	O
-
-# id = litbank-2389
+# id = litbank-2909
 # source = LitBank
 # book = Mary: A Fiction
 # book_id = 16357_mary_a_fiction
@@ -485,7 +485,7 @@ preference	O
 to	O
 .	O
 
-# id = litbank-2390
+# id = litbank-2910
 # source = LitBank
 # book = Mary: A Fiction
 # book_id = 16357_mary_a_fiction
@@ -511,5 +511,45 @@ sickly	O
 ,	O
 die-away	O
 languor	O
+.	O
+
+# id = litbank-2911
+# source = LitBank
+# book = Mary: A Fiction
+# book_id = 16357_mary_a_fiction
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/16357_mary_a_fiction_brat.tsv
+# text = her voice was but the shadow of a sound , and she had , to complete her delicacy , so relaxed her nerves , that she became a mere nothing .
+her	O
+voice	O
+was	O
+but	O
+the	O
+shadow	O
+of	O
+a	O
+sound	O
+,	O
+and	O
+she	O
+had	O
+,	O
+to	O
+complete	O
+her	O
+delicacy	O
+,	O
+so	O
+relaxed	O
+her	O
+nerves	O
+,	O
+that	O
+she	O
+became	O
+a	O
+mere	O
+nothing	O
 .	O
 

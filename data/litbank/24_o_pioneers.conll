@@ -1,4 +1,46 @@
-# id = litbank-0035
+# id = litbank-0031
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = the wild land i one january day , thirty years ago , the little town of hanover , anchored on a windy nebraska tableland , was trying not to be blown away .
+the	O
+wild	O
+land	O
+i	O
+one	O
+january	O
+day	O
+,	O
+thirty	O
+years	O
+ago	O
+,	O
+the	O
+little	O
+town	O
+of	O
+hanover	B-LOCATION
+,	O
+anchored	O
+on	O
+a	O
+windy	O
+nebraska	B-LOCATION
+tableland	O
+,	O
+was	O
+trying	O
+not	O
+to	O
+be	O
+blown	O
+away	O
+.	O
+
+# id = litbank-0037
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -12,7 +54,7 @@ why	O
 emil	B-CHARACTER
 !	O
 
-# id = litbank-0036
+# id = litbank-0038
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -26,7 +68,7 @@ oh	O
 emil	B-CHARACTER
 !	O
 
-# id = litbank-0037
+# id = litbank-0039
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -40,7 +82,7 @@ away	O
 decidedly	O
 .	O
 
-# id = litbank-0038
+# id = litbank-0040
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -60,7 +102,7 @@ find	O
 carl	B-CHARACTER
 .	O
 
-# id = litbank-0039
+# id = litbank-0041
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -96,7 +138,41 @@ carl	B-CHARACTER
 linstrum	I-CHARACTER
 .	O
 
-# id = litbank-0040
+# id = litbank-0042
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = there he was , turning over a portfolio of chromo “ studies ” which the druggist sold to the hanover women who did china-painting .
+there	O
+he	O
+was	O
+,	O
+turning	O
+over	O
+a	O
+portfolio	O
+of	O
+chromo	O
+“	O
+studies	O
+”	O
+which	O
+the	O
+druggist	O
+sold	O
+to	O
+the	O
+hanover	B-LOCATION
+women	O
+who	O
+did	O
+china-painting	O
+.	O
+
+# id = litbank-0043
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -127,7 +203,7 @@ the	O
 pole	O
 .	O
 
-# id = litbank-0041
+# id = litbank-0044
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -148,7 +224,7 @@ her	O
 alexandra	B-CHARACTER
 .	O
 
-# id = litbank-0042
+# id = litbank-0045
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -179,7 +255,7 @@ north	O
 wind	O
 .	O
 
-# id = litbank-0043
+# id = litbank-0046
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -207,7 +283,7 @@ his	O
 overcoat	O
 .	O
 
-# id = litbank-0044
+# id = litbank-0047
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -234,7 +310,7 @@ his	O
 ascent	O
 .	O
 
-# id = litbank-0045
+# id = litbank-0048
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -257,7 +333,7 @@ the	O
 ground	O
 .	O
 
-# id = litbank-0046
+# id = litbank-0049
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -290,7 +366,7 @@ her	O
 hold	O
 .	O
 
-# id = litbank-0047
+# id = litbank-0050
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -315,7 +391,7 @@ warm	O
 .	O
 ”	O
 
-# id = litbank-0048
+# id = litbank-0051
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -331,7 +407,7 @@ minute	O
 alexandra	B-CHARACTER
 .	O
 
-# id = litbank-0049
+# id = litbank-0052
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -352,7 +428,7 @@ his	O
 sympathy	O
 .	O
 
-# id = litbank-0050
+# id = litbank-0053
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -377,7 +453,7 @@ team	O
 .	O
 ”	O
 
-# id = litbank-0051
+# id = litbank-0054
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -414,7 +490,7 @@ cold	O
 drive	O
 .	O
 
-# id = litbank-0052
+# id = litbank-0055
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -449,7 +525,7 @@ carpet	O
 department	O
 .	O
 
-# id = litbank-0053
+# id = litbank-0056
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -484,7 +560,7 @@ a	O
 bonnet	O
 .	O
 
-# id = litbank-0054
+# id = litbank-0057
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -503,7 +579,7 @@ country	O
 having	O
 come	O
 from	O
-omaha	O
+omaha	B-LOCATION
 with	O
 her	O
 mother	O
@@ -516,49 +592,48 @@ joe	B-CHARACTER
 tovesky	I-CHARACTER
 .	O
 
-# id = litbank-0030
+# id = litbank-0058
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
 # chapter = unknown
-# sample_type = negative
+# sample_type = positive
 # source_file = entities/tsv/24_o_pioneers_brat.tsv
-# text = the wild land i one january day , thirty years ago , the little town of hanover , anchored on a windy nebraska tableland , was trying not to be blown away .
-the	O
-wild	O
-land	O
-i	O
+# text = every one noticed her eyes ; the brown iris had golden glints that made them look like gold-stone , or , in softer lights , like that colorado mineral called tiger-eye .
+every	O
 one	O
-january	O
-day	O
-,	O
-thirty	O
-years	O
-ago	O
-,	O
+noticed	O
+her	O
+eyes	O
+;	O
 the	O
-little	O
-town	O
-of	O
-hanover	O
+brown	O
+iris	O
+had	O
+golden	O
+glints	O
+that	O
+made	O
+them	O
+look	O
+like	O
+gold-stone	O
 ,	O
-anchored	O
-on	O
-a	O
-windy	O
-nebraska	O
-tableland	O
+or	O
 ,	O
-was	O
-trying	O
-not	O
-to	O
-be	O
-blown	O
-away	O
+in	O
+softer	O
+lights	O
+,	O
+like	O
+that	O
+colorado	B-LOCATION
+mineral	O
+called	O
+tiger-eye	O
 .	O
 
-# id = litbank-0031
+# id = litbank-0032
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -594,7 +669,7 @@ gray	O
 sky	O
 .	O
 
-# id = litbank-0032
+# id = litbank-0033
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -646,7 +721,7 @@ open	O
 plain	O
 .	O
 
-# id = litbank-0033
+# id = litbank-0034
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -677,7 +752,7 @@ over	O
 them	O
 .	O
 
-# id = litbank-0034
+# id = litbank-0035
 # source = LitBank
 # book = O Pioneers!
 # book_id = 24_o_pioneers
@@ -731,5 +806,51 @@ at	O
 the	O
 south	O
 end	O
+.	O
+
+# id = litbank-0036
+# source = LitBank
+# book = O Pioneers!
+# book_id = 24_o_pioneers
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/24_o_pioneers_brat.tsv
+# text = on either side of this road straggled two uneven rows of wooden buildings ; the general merchandise stores , the two banks , the drug store , the feed store , the saloon , the post-office .
+on	O
+either	O
+side	O
+of	O
+this	O
+road	O
+straggled	O
+two	O
+uneven	O
+rows	O
+of	O
+wooden	O
+buildings	O
+;	O
+the	O
+general	O
+merchandise	O
+stores	O
+,	O
+the	O
+two	O
+banks	O
+,	O
+the	O
+drug	O
+store	O
+,	O
+the	O
+feed	O
+store	O
+,	O
+the	O
+saloon	O
+,	O
+the	O
+post-office	O
 .	O
 

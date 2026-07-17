@@ -1,4 +1,58 @@
-# id = litbank-1083
+# id = litbank-1311
+# source = LitBank
+# book = The Life and Adventures of Robinson Crusoe
+# book_id = 521_the_life_and_adventures_of_robinson_crusoe
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/521_the_life_and_adventures_of_robinson_crusoe_brat.tsv
+# text = chapter i — start in life i was born in the year 1632 , in the city of york , of a good family , though not of that country , my father being a foreigner of bremen , who settled first at hull .
+chapter	O
+i	O
+—	O
+start	O
+in	O
+life	O
+i	O
+was	O
+born	O
+in	O
+the	O
+year	O
+1632	O
+,	O
+in	O
+the	O
+city	O
+of	O
+york	B-LOCATION
+,	O
+of	O
+a	O
+good	O
+family	O
+,	O
+though	O
+not	O
+of	O
+that	O
+country	O
+,	O
+my	O
+father	O
+being	O
+a	O
+foreigner	O
+of	O
+bremen	B-LOCATION
+,	O
+who	O
+settled	O
+first	O
+at	O
+hull	B-LOCATION
+.	O
+
+# id = litbank-1312
 # source = LitBank
 # book = The Life and Adventures of Robinson Crusoe
 # book_id = 521_the_life_and_adventures_of_robinson_crusoe
@@ -23,7 +77,7 @@ trade	O
 lived	O
 afterwards	O
 at	O
-york	O
+york	B-LOCATION
 ,	O
 from	O
 whence	O
@@ -65,7 +119,7 @@ corruption	O
 of	O
 words	O
 in	O
-england	O
+england	B-LOCATION
 ,	O
 we	O
 are	O
@@ -92,66 +146,12 @@ called	O
 me	O
 .	O
 
-# id = litbank-1082
+# id = litbank-1313
 # source = LitBank
 # book = The Life and Adventures of Robinson Crusoe
 # book_id = 521_the_life_and_adventures_of_robinson_crusoe
 # chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/521_the_life_and_adventures_of_robinson_crusoe_brat.tsv
-# text = chapter i — start in life i was born in the year 1632 , in the city of york , of a good family , though not of that country , my father being a foreigner of bremen , who settled first at hull .
-chapter	O
-i	O
-—	O
-start	O
-in	O
-life	O
-i	O
-was	O
-born	O
-in	O
-the	O
-year	O
-1632	O
-,	O
-in	O
-the	O
-city	O
-of	O
-york	O
-,	O
-of	O
-a	O
-good	O
-family	O
-,	O
-though	O
-not	O
-of	O
-that	O
-country	O
-,	O
-my	O
-father	O
-being	O
-a	O
-foreigner	O
-of	O
-bremen	O
-,	O
-who	O
-settled	O
-first	O
-at	O
-hull	O
-.	O
-
-# id = litbank-1084
-# source = LitBank
-# book = The Life and Adventures of Robinson Crusoe
-# book_id = 521_the_life_and_adventures_of_robinson_crusoe
-# chapter = unknown
-# sample_type = negative
+# sample_type = positive
 # source_file = entities/tsv/521_the_life_and_adventures_of_robinson_crusoe_brat.tsv
 # text = i had two elder brothers , one of whom was lieutenant-colonel to an english regiment of foot in flanders , formerly commanded by the famous colonel lockhart , and was killed at the battle near dunkirk against the spaniards .
 i	O
@@ -172,7 +172,7 @@ regiment	O
 of	O
 foot	O
 in	O
-flanders	O
+flanders	B-LOCATION
 ,	O
 formerly	O
 commanded	O
@@ -189,13 +189,544 @@ at	O
 the	O
 battle	O
 near	O
-dunkirk	O
+dunkirk	B-LOCATION
 against	O
 the	O
-spaniards	O
+spaniards	B-LOCATION
 .	O
 
-# id = litbank-1085
+# id = litbank-1319
+# source = LitBank
+# book = The Life and Adventures of Robinson Crusoe
+# book_id = 521_the_life_and_adventures_of_robinson_crusoe
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/521_the_life_and_adventures_of_robinson_crusoe_brat.tsv
+# text = after this he pressed me earnestly , and in the most affectionate manner , not to play the young man , nor to precipitate myself into miseries which nature , and the station of life i was born in , seemed to have provided against ; that i was under no necessity of seeking my bread ; that he would do well for me , and endeavour to enter me fairly into the station of life which he had just been recommending to me ; and that if i was not very easy and happy in the world , it must be my mere fate or fault that must hinder it ; and that he should have nothing to answer for , having thus discharged his duty in warning me against measures which he knew would be to my hurt ; in a word , that as he would do very kind things for me if i would stay and settle at home as he directed , so he would not have so much hand in my misfortunes as to give me any encouragement to go away ; and to close all , he told me i had my elder brother for an example , to whom he had used the same earnest persuasions to keep him from going into the low country wars , but could not prevail , his young desires prompting him to run into the army , where he was killed ; and though he said he would not cease to pray for me , yet he would venture to say to me , that if i did take this foolish step , god would not bless me , and i should have leisure hereafter to reflect upon having neglected his counsel when there might be none to assist in my recovery .
+after	O
+this	O
+he	O
+pressed	O
+me	O
+earnestly	O
+,	O
+and	O
+in	O
+the	O
+most	O
+affectionate	O
+manner	O
+,	O
+not	O
+to	O
+play	O
+the	O
+young	O
+man	O
+,	O
+nor	O
+to	O
+precipitate	O
+myself	O
+into	O
+miseries	O
+which	O
+nature	O
+,	O
+and	O
+the	O
+station	O
+of	O
+life	O
+i	O
+was	O
+born	O
+in	O
+,	O
+seemed	O
+to	O
+have	O
+provided	O
+against	O
+;	O
+that	O
+i	O
+was	O
+under	O
+no	O
+necessity	O
+of	O
+seeking	O
+my	O
+bread	O
+;	O
+that	O
+he	O
+would	O
+do	O
+well	O
+for	O
+me	O
+,	O
+and	O
+endeavour	O
+to	O
+enter	O
+me	O
+fairly	O
+into	O
+the	O
+station	O
+of	O
+life	O
+which	O
+he	O
+had	O
+just	O
+been	O
+recommending	O
+to	O
+me	O
+;	O
+and	O
+that	O
+if	O
+i	O
+was	O
+not	O
+very	O
+easy	O
+and	O
+happy	O
+in	O
+the	O
+world	O
+,	O
+it	O
+must	O
+be	O
+my	O
+mere	O
+fate	O
+or	O
+fault	O
+that	O
+must	O
+hinder	O
+it	O
+;	O
+and	O
+that	O
+he	O
+should	O
+have	O
+nothing	O
+to	O
+answer	O
+for	O
+,	O
+having	O
+thus	O
+discharged	O
+his	O
+duty	O
+in	O
+warning	O
+me	O
+against	O
+measures	O
+which	O
+he	O
+knew	O
+would	O
+be	O
+to	O
+my	O
+hurt	O
+;	O
+in	O
+a	O
+word	O
+,	O
+that	O
+as	O
+he	O
+would	O
+do	O
+very	O
+kind	O
+things	O
+for	O
+me	O
+if	O
+i	O
+would	O
+stay	O
+and	O
+settle	O
+at	O
+home	O
+as	O
+he	O
+directed	O
+,	O
+so	O
+he	O
+would	O
+not	O
+have	O
+so	O
+much	O
+hand	O
+in	O
+my	O
+misfortunes	O
+as	O
+to	O
+give	O
+me	O
+any	O
+encouragement	O
+to	O
+go	O
+away	O
+;	O
+and	O
+to	O
+close	O
+all	O
+,	O
+he	O
+told	O
+me	O
+i	O
+had	O
+my	O
+elder	O
+brother	O
+for	O
+an	O
+example	O
+,	O
+to	O
+whom	O
+he	O
+had	O
+used	O
+the	O
+same	O
+earnest	O
+persuasions	O
+to	O
+keep	O
+him	O
+from	O
+going	O
+into	O
+the	O
+low	B-LOCATION
+country	I-LOCATION
+wars	O
+,	O
+but	O
+could	O
+not	O
+prevail	O
+,	O
+his	O
+young	O
+desires	O
+prompting	O
+him	O
+to	O
+run	O
+into	O
+the	O
+army	O
+,	O
+where	O
+he	O
+was	O
+killed	O
+;	O
+and	O
+though	O
+he	O
+said	O
+he	O
+would	O
+not	O
+cease	O
+to	O
+pray	O
+for	O
+me	O
+,	O
+yet	O
+he	O
+would	O
+venture	O
+to	O
+say	O
+to	O
+me	O
+,	O
+that	O
+if	O
+i	O
+did	O
+take	O
+this	O
+foolish	O
+step	O
+,	O
+god	O
+would	O
+not	O
+bless	O
+me	O
+,	O
+and	O
+i	O
+should	O
+have	O
+leisure	O
+hereafter	O
+to	O
+reflect	O
+upon	O
+having	O
+neglected	O
+his	O
+counsel	O
+when	O
+there	O
+might	O
+be	O
+none	O
+to	O
+assist	O
+in	O
+my	O
+recovery	O
+.	O
+
+# id = litbank-1320
+# source = LitBank
+# book = The Life and Adventures of Robinson Crusoe
+# book_id = 521_the_life_and_adventures_of_robinson_crusoe
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/521_the_life_and_adventures_of_robinson_crusoe_brat.tsv
+# text = but being one day at hull , where i went casually , and without any purpose of making an elopement at that time ; but , i say , being there , and one of my companions being about to sail to london in his father ’s ship , and prompting me to go with them with the common allurement of seafaring men , that it should cost me nothing for my passage , i consulted neither father nor mother any more , nor so much as sent them word of it ; but leaving them to hear of it as they might , without asking god ’s blessing or my father ’s , without any consideration of circumstances or consequences , and in an ill hour , god knows , on the 1st of september 1651 , i went on board a ship bound for london .
+but	O
+being	O
+one	O
+day	O
+at	O
+hull	B-LOCATION
+,	O
+where	O
+i	O
+went	O
+casually	O
+,	O
+and	O
+without	O
+any	O
+purpose	O
+of	O
+making	O
+an	O
+elopement	O
+at	O
+that	O
+time	O
+;	O
+but	O
+,	O
+i	O
+say	O
+,	O
+being	O
+there	O
+,	O
+and	O
+one	O
+of	O
+my	O
+companions	O
+being	O
+about	O
+to	O
+sail	O
+to	O
+london	B-LOCATION
+in	O
+his	O
+father	O
+’s	O
+ship	O
+,	O
+and	O
+prompting	O
+me	O
+to	O
+go	O
+with	O
+them	O
+with	O
+the	O
+common	O
+allurement	O
+of	O
+seafaring	O
+men	O
+,	O
+that	O
+it	O
+should	O
+cost	O
+me	O
+nothing	O
+for	O
+my	O
+passage	O
+,	O
+i	O
+consulted	O
+neither	O
+father	O
+nor	O
+mother	O
+any	O
+more	O
+,	O
+nor	O
+so	O
+much	O
+as	O
+sent	O
+them	O
+word	O
+of	O
+it	O
+;	O
+but	O
+leaving	O
+them	O
+to	O
+hear	O
+of	O
+it	O
+as	O
+they	O
+might	O
+,	O
+without	O
+asking	O
+god	O
+’s	O
+blessing	O
+or	O
+my	O
+father	O
+’s	O
+,	O
+without	O
+any	O
+consideration	O
+of	O
+circumstances	O
+or	O
+consequences	O
+,	O
+and	O
+in	O
+an	O
+ill	O
+hour	O
+,	O
+god	O
+knows	O
+,	O
+on	O
+the	O
+1st	O
+of	O
+september	O
+1651	O
+,	O
+i	O
+went	O
+on	O
+board	O
+a	O
+ship	O
+bound	O
+for	O
+london	B-LOCATION
+.	O
+
+# id = litbank-1321
+# source = LitBank
+# book = The Life and Adventures of Robinson Crusoe
+# book_id = 521_the_life_and_adventures_of_robinson_crusoe
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/521_the_life_and_adventures_of_robinson_crusoe_brat.tsv
+# text = the ship was no sooner out of the humber than the wind began to blow and the sea to rise in a most frightful manner ; and , as i had never been at sea before , i was most inexpressibly sick in body and terrified in mind .
+the	O
+ship	O
+was	O
+no	O
+sooner	O
+out	O
+of	O
+the	O
+humber	B-LOCATION
+than	O
+the	O
+wind	O
+began	O
+to	O
+blow	O
+and	O
+the	O
+sea	O
+to	O
+rise	O
+in	O
+a	O
+most	O
+frightful	O
+manner	O
+;	O
+and	O
+,	O
+as	O
+i	O
+had	O
+never	O
+been	O
+at	O
+sea	O
+before	O
+,	O
+i	O
+was	O
+most	O
+inexpressibly	O
+sick	O
+in	O
+body	O
+and	O
+terrified	O
+in	O
+mind	O
+.	O
+
+# id = litbank-1314
 # source = LitBank
 # book = The Life and Adventures of Robinson Crusoe
 # book_id = 521_the_life_and_adventures_of_robinson_crusoe
@@ -227,7 +758,7 @@ of	O
 me	O
 .	O
 
-# id = litbank-1086
+# id = litbank-1315
 # source = LitBank
 # book = The Life and Adventures of Robinson Crusoe
 # book_id = 521_the_life_and_adventures_of_robinson_crusoe
@@ -262,7 +793,7 @@ rambling	O
 thoughts	O
 .	O
 
-# id = litbank-1087
+# id = litbank-1316
 # source = LitBank
 # book = The Life and Adventures of Robinson Crusoe
 # book_id = 521_the_life_and_adventures_of_robinson_crusoe
@@ -292,5 +823,103 @@ foresaw	O
 was	O
 my	O
 design	O
+.	O
+
+# id = litbank-1317
+# source = LitBank
+# book = The Life and Adventures of Robinson Crusoe
+# book_id = 521_the_life_and_adventures_of_robinson_crusoe
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/521_the_life_and_adventures_of_robinson_crusoe_brat.tsv
+# text = he called me one morning into his chamber , where he was confined by the gout , and expostulated very warmly with me upon this subject .
+he	O
+called	O
+me	O
+one	O
+morning	O
+into	O
+his	O
+chamber	O
+,	O
+where	O
+he	O
+was	O
+confined	O
+by	O
+the	O
+gout	O
+,	O
+and	O
+expostulated	O
+very	O
+warmly	O
+with	O
+me	O
+upon	O
+this	O
+subject	O
+.	O
+
+# id = litbank-1318
+# source = LitBank
+# book = The Life and Adventures of Robinson Crusoe
+# book_id = 521_the_life_and_adventures_of_robinson_crusoe
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/521_the_life_and_adventures_of_robinson_crusoe_brat.tsv
+# text = he asked me what reasons , more than a mere wandering inclination , i had for leaving father ’s house and my native country , where i might be well introduced , and had a prospect of raising my fortune by application and industry , with a life of ease and pleasure .
+he	O
+asked	O
+me	O
+what	O
+reasons	O
+,	O
+more	O
+than	O
+a	O
+mere	O
+wandering	O
+inclination	O
+,	O
+i	O
+had	O
+for	O
+leaving	O
+father	O
+’s	O
+house	O
+and	O
+my	O
+native	O
+country	O
+,	O
+where	O
+i	O
+might	O
+be	O
+well	O
+introduced	O
+,	O
+and	O
+had	O
+a	O
+prospect	O
+of	O
+raising	O
+my	O
+fortune	O
+by	O
+application	O
+and	O
+industry	O
+,	O
+with	O
+a	O
+life	O
+of	O
+ease	O
+and	O
+pleasure	O
 .	O
 

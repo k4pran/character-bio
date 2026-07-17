@@ -1,4 +1,145 @@
-# id = litbank-0967
+# id = litbank-1183
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = i a stranger from south carolina time touches all things with destroying hand ; and if he seem now and then to bestow the bloom of youth , the sap of spring , it is but a brief mockery , to be surely and swiftly followed by the wrinkles of old age , the dry leaves and bare branches of winter .
+i	O
+a	O
+stranger	O
+from	O
+south	B-LOCATION
+carolina	I-LOCATION
+time	O
+touches	O
+all	O
+things	O
+with	O
+destroying	O
+hand	O
+;	O
+and	O
+if	O
+he	O
+seem	O
+now	O
+and	O
+then	O
+to	O
+bestow	O
+the	O
+bloom	O
+of	O
+youth	O
+,	O
+the	O
+sap	O
+of	O
+spring	O
+,	O
+it	O
+is	O
+but	O
+a	O
+brief	O
+mockery	O
+,	O
+to	O
+be	O
+surely	O
+and	O
+swiftly	O
+followed	O
+by	O
+the	O
+wrinkles	O
+of	O
+old	O
+age	O
+,	O
+the	O
+dry	O
+leaves	O
+and	O
+bare	O
+branches	O
+of	O
+winter	O
+.	O
+
+# id = litbank-1187
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = some such trite reflection -- as apposite to the subject as most random reflections are -- passed through the mind of a young man who came out of the front door of the patesville hotel about nine o'clock one fine morning in spring , a few years after the civil war , and started down front street toward the market-house .
+some	O
+such	O
+trite	O
+reflection	O
+--	O
+as	O
+apposite	O
+to	O
+the	O
+subject	O
+as	O
+most	O
+random	O
+reflections	O
+are	O
+--	O
+passed	O
+through	O
+the	O
+mind	O
+of	O
+a	O
+young	O
+man	O
+who	O
+came	O
+out	O
+of	O
+the	O
+front	O
+door	O
+of	O
+the	O
+patesville	B-LOCATION
+hotel	I-LOCATION
+about	O
+nine	O
+o'clock	O
+one	O
+fine	O
+morning	O
+in	O
+spring	O
+,	O
+a	O
+few	O
+years	O
+after	O
+the	O
+civil	O
+war	O
+,	O
+and	O
+started	O
+down	O
+front	O
+street	O
+toward	O
+the	O
+market-house	O
+.	O
+
+# id = litbank-1190
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -51,14 +192,85 @@ entry	O
 john	B-CHARACTER
 warwick	I-CHARACTER
 ,	O
-clarence	O
+clarence	B-LOCATION
 ,	O
-south	O
-carolina	O
+south	B-LOCATION
+carolina	I-LOCATION
 .	O
 '	O
 
-# id = litbank-0968
+# id = litbank-1191
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = " one of the south ca ' lina bigbugs , i reckon -- probably in cotton , or turpentine . "
+"	O
+one	O
+of	O
+the	O
+south	B-LOCATION
+ca	I-LOCATION
+'	O
+lina	O
+bigbugs	O
+,	O
+i	O
+reckon	O
+--	O
+probably	O
+in	O
+cotton	O
+,	O
+or	O
+turpentine	O
+.	O
+"	O
+
+# id = litbank-1192
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = the gentleman from south carolina , walking down the street , glanced about him with an eager look , in which curiosity and affection were mingled with a touch of bitterness .
+the	O
+gentleman	O
+from	O
+south	B-LOCATION
+carolina	I-LOCATION
+,	O
+walking	O
+down	O
+the	O
+street	O
+,	O
+glanced	O
+about	O
+him	O
+with	O
+an	O
+eager	O
+look	O
+,	O
+in	O
+which	O
+curiosity	O
+and	O
+affection	O
+were	O
+mingled	O
+with	O
+a	O
+touch	O
+of	O
+bitterness	O
+.	O
+
+# id = litbank-1193
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -96,7 +308,7 @@ the	O
 central	O
 feature	O
 of	O
-patesville	O
+patesville	B-LOCATION
 ,	O
 from	O
 both	O
@@ -110,7 +322,7 @@ of	O
 view	O
 .	O
 
-# id = litbank-0969
+# id = litbank-1194
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -130,7 +342,7 @@ the	O
 market-house	O
 .	O
 
-# id = litbank-0970
+# id = litbank-1195
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -192,7 +404,7 @@ or	O
 whipping	O
 ?	O
 
-# id = litbank-0971
+# id = litbank-1196
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -245,7 +457,7 @@ so	O
 tenderly	O
 .	O
 
-# id = litbank-0972
+# id = litbank-1197
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -272,7 +484,7 @@ leisurely	O
 step	O
 .	O
 
-# id = litbank-0973
+# id = litbank-1198
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -365,7 +577,7 @@ the	O
 market-house	O
 .	O
 
-# id = litbank-0974
+# id = litbank-1199
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -384,7 +596,7 @@ rung	O
 out	O
 .	O
 
-# id = litbank-0975
+# id = litbank-1200
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -429,7 +641,7 @@ a	O
 misdemeanor	O
 .	O
 
-# id = litbank-0976
+# id = litbank-1201
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -460,7 +672,7 @@ next	O
 corner	O
 .	O
 
-# id = litbank-0977
+# id = litbank-1202
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -506,7 +718,7 @@ straight	I-CHARACTER
 lawyer	O
 .	O
 
-# id = litbank-0978
+# id = litbank-1203
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -537,7 +749,7 @@ professional	O
 gravity	O
 .	O
 
-# id = litbank-0979
+# id = litbank-1204
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -553,7 +765,7 @@ answered	O
 warwick	B-CHARACTER
 .	O
 
-# id = litbank-0980
+# id = litbank-1205
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -576,7 +788,7 @@ hours	O
 ?	O
 "	O
 
-# id = litbank-0981
+# id = litbank-1206
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -621,7 +833,7 @@ living	O
 '	O
 "	O
 
-# id = litbank-0982
+# id = litbank-1207
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -657,7 +869,112 @@ affectionate	O
 glance	O
 .	O
 
-# id = litbank-0983
+# id = litbank-1208
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = a few rods farther led him past the old black presbyterian church , with its square tower , embowered in a stately grove ; past the catholic church , with its many crosses , and a painted wooden figure of st. james in a recess beneath the gable ; and past the old jefferson house , once the leading hotel of the town , in front of which political meetings had been held , and political speeches made , and political hard cider drunk , in the days of " tippecanoe and tyler too . "
+a	O
+few	O
+rods	O
+farther	O
+led	O
+him	O
+past	O
+the	O
+old	O
+black	O
+presbyterian	B-LOCATION
+church	I-LOCATION
+,	O
+with	O
+its	O
+square	O
+tower	O
+,	O
+embowered	O
+in	O
+a	O
+stately	O
+grove	O
+;	O
+past	O
+the	O
+catholic	B-LOCATION
+church	I-LOCATION
+,	O
+with	O
+its	O
+many	O
+crosses	O
+,	O
+and	O
+a	O
+painted	O
+wooden	O
+figure	O
+of	O
+st.	O
+james	O
+in	O
+a	O
+recess	O
+beneath	O
+the	O
+gable	O
+;	O
+and	O
+past	O
+the	O
+old	O
+jefferson	B-LOCATION
+house	I-LOCATION
+,	O
+once	O
+the	O
+leading	O
+hotel	O
+of	O
+the	O
+town	O
+,	O
+in	O
+front	O
+of	O
+which	O
+political	O
+meetings	O
+had	O
+been	O
+held	O
+,	O
+and	O
+political	O
+speeches	O
+made	O
+,	O
+and	O
+political	O
+hard	O
+cider	O
+drunk	O
+,	O
+in	O
+the	O
+days	O
+of	O
+"	O
+tippecanoe	O
+and	O
+tyler	O
+too	O
+.	O
+"	O
+
+# id = litbank-1209
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -698,8 +1015,8 @@ junction	O
 ,	O
 known	O
 as	O
-liberty	O
-point	O
+liberty	B-LOCATION
+point	I-LOCATION
 ,	O
 --	O
 perhaps	O
@@ -717,7 +1034,7 @@ old	O
 days	O
 .	O
 
-# id = litbank-0984
+# id = litbank-1210
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -729,8 +1046,8 @@ just	O
 before	O
 warwick	B-CHARACTER
 reached	O
-liberty	O
-point	O
+liberty	B-LOCATION
+point	I-LOCATION
 ,	O
 a	O
 young	O
@@ -747,7 +1064,7 @@ the	O
 market-house	O
 .	O
 
-# id = litbank-0985
+# id = litbank-1211
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -782,7 +1099,7 @@ this	O
 direction	O
 .	O
 
-# id = litbank-0986
+# id = litbank-1212
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -814,78 +1131,7 @@ seldom	O
 encountered	O
 .	O
 
-# id = litbank-0962
-# source = LitBank
-# book = The House Behind the Cedars
-# book_id = 472_the_house_behind_the_cedars
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
-# text = i a stranger from south carolina time touches all things with destroying hand ; and if he seem now and then to bestow the bloom of youth , the sap of spring , it is but a brief mockery , to be surely and swiftly followed by the wrinkles of old age , the dry leaves and bare branches of winter .
-i	O
-a	O
-stranger	O
-from	O
-south	O
-carolina	O
-time	O
-touches	O
-all	O
-things	O
-with	O
-destroying	O
-hand	O
-;	O
-and	O
-if	O
-he	O
-seem	O
-now	O
-and	O
-then	O
-to	O
-bestow	O
-the	O
-bloom	O
-of	O
-youth	O
-,	O
-the	O
-sap	O
-of	O
-spring	O
-,	O
-it	O
-is	O
-but	O
-a	O
-brief	O
-mockery	O
-,	O
-to	O
-be	O
-surely	O
-and	O
-swiftly	O
-followed	O
-by	O
-the	O
-wrinkles	O
-of	O
-old	O
-age	O
-,	O
-the	O
-dry	O
-leaves	O
-and	O
-bare	O
-branches	O
-of	O
-winter	O
-.	O
-
-# id = litbank-0963
+# id = litbank-1184
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -923,7 +1169,7 @@ evil	O
 day	O
 .	O
 
-# id = litbank-0964
+# id = litbank-1185
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -953,7 +1199,7 @@ of	O
 youth	O
 ?	O
 
-# id = litbank-0965
+# id = litbank-1186
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
@@ -987,73 +1233,102 @@ perceptible	O
 decline	O
 ?	O
 
-# id = litbank-0966
+# id = litbank-1188
 # source = LitBank
 # book = The House Behind the Cedars
 # book_id = 472_the_house_behind_the_cedars
 # chapter = unknown
 # sample_type = negative
 # source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
-# text = some such trite reflection -- as apposite to the subject as most random reflections are -- passed through the mind of a young man who came out of the front door of the patesville hotel about nine o'clock one fine morning in spring , a few years after the civil war , and started down front street toward the market-house .
-some	O
-such	O
-trite	O
-reflection	O
---	O
-as	O
-apposite	O
-to	O
+# text = arriving at the town late the previous evening , he had been driven up from the steamboat in a carriage , from which he had been able to distinguish only the shadowy outlines of the houses along the street ; so that this morning walk was his first opportunity to see the town by daylight .
+arriving	O
+at	O
 the	O
-subject	O
-as	O
-most	O
-random	O
-reflections	O
-are	O
---	O
-passed	O
-through	O
+town	O
+late	O
 the	O
-mind	O
-of	O
-a	O
-young	O
-man	O
-who	O
-came	O
-out	O
-of	O
-the	O
-front	O
-door	O
-of	O
-the	O
-patesville	O
-hotel	O
-about	O
-nine	O
-o'clock	O
-one	O
-fine	O
-morning	O
-in	O
-spring	O
+previous	O
+evening	O
 ,	O
-a	O
-few	O
-years	O
-after	O
+he	O
+had	O
+been	O
+driven	O
+up	O
+from	O
 the	O
-civil	O
-war	O
+steamboat	O
+in	O
+a	O
+carriage	O
+,	O
+from	O
+which	O
+he	O
+had	O
+been	O
+able	O
+to	O
+distinguish	O
+only	O
+the	O
+shadowy	O
+outlines	O
+of	O
+the	O
+houses	O
+along	O
+the	O
+street	O
+;	O
+so	O
+that	O
+this	O
+morning	O
+walk	O
+was	O
+his	O
+first	O
+opportunity	O
+to	O
+see	O
+the	O
+town	O
+by	O
+daylight	O
+.	O
+
+# id = litbank-1189
+# source = LitBank
+# book = The House Behind the Cedars
+# book_id = 472_the_house_behind_the_cedars
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/472_the_house_behind_the_cedars_brat.tsv
+# text = he was dressed in a suit of linen duck -- the day was warm -- a panama straw hat , and patent leather shoes .
+he	O
+was	O
+dressed	O
+in	O
+a	O
+suit	O
+of	O
+linen	O
+duck	O
+--	O
+the	O
+day	O
+was	O
+warm	O
+--	O
+a	O
+panama	O
+straw	O
+hat	O
 ,	O
 and	O
-started	O
-down	O
-front	O
-street	O
-toward	O
-the	O
-market-house	O
+patent	O
+leather	O
+shoes	O
 .	O
 

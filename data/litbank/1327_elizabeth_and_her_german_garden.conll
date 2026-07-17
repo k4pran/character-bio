@@ -1,4 +1,49 @@
-# id = litbank-1565
+# id = litbank-1918
+# source = LitBank
+# book = Elizabeth and Her German Garden
+# book_id = 1327_elizabeth_and_her_german_garden
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1327_elizabeth_and_her_german_garden_brat.tsv
+# text = gustavus adolphus and his swedes passed through more than once , as is duly recorded in archives still preserved , for we are on what was then the high-road between sweden and brandenburg the unfortunate .
+gustavus	O
+adolphus	O
+and	O
+his	O
+swedes	O
+passed	O
+through	O
+more	O
+than	O
+once	O
+,	O
+as	O
+is	O
+duly	O
+recorded	O
+in	O
+archives	O
+still	O
+preserved	O
+,	O
+for	O
+we	O
+are	O
+on	O
+what	O
+was	O
+then	O
+the	O
+high-road	O
+between	O
+sweden	B-LOCATION
+and	O
+brandenburg	B-LOCATION
+the	O
+unfortunate	O
+.	O
+
+# id = litbank-1913
 # source = LitBank
 # book = Elizabeth and Her German Garden
 # book_id = 1327_elizabeth_and_her_german_garden
@@ -48,7 +93,7 @@ cold	O
 shower	O
 .	O
 
-# id = litbank-1566
+# id = litbank-1914
 # source = LitBank
 # book = Elizabeth and Her German Garden
 # book_id = 1327_elizabeth_and_her_german_garden
@@ -82,7 +127,7 @@ of	O
 nightingales	O
 .	O
 
-# id = litbank-1567
+# id = litbank-1915
 # source = LitBank
 # book = Elizabeth and Her German Garden
 # book_id = 1327_elizabeth_and_her_german_garden
@@ -144,7 +189,7 @@ german	O
 she-owl	O
 .	O
 
-# id = litbank-1568
+# id = litbank-1916
 # source = LitBank
 # book = Elizabeth and Her German Garden
 # book_id = 1327_elizabeth_and_her_german_garden
@@ -190,7 +235,7 @@ of	O
 owls	O
 .	O
 
-# id = litbank-1569
+# id = litbank-1917
 # source = LitBank
 # book = Elizabeth and Her German Garden
 # book_id = 1327_elizabeth_and_her_german_garden

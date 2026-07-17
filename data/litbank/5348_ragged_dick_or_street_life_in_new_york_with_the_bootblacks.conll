@@ -1,4 +1,4 @@
-# id = litbank-2215
+# id = litbank-2697
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -29,7 +29,7 @@ rough	O
 voice	O
 .	O
 
-# id = litbank-2216
+# id = litbank-2698
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -63,7 +63,7 @@ get	O
 up	O
 .	O
 
-# id = litbank-2219
+# id = litbank-2701
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -75,7 +75,81 @@ asked	O
 dick	B-CHARACTER
 .	O
 
-# id = litbank-2223
+# id = litbank-2704
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = i went to the old bowery last night , and did n't turn in till past twelve . "
+i	O
+went	O
+to	O
+the	O
+old	O
+bowery	B-LOCATION
+last	O
+night	O
+,	O
+and	O
+did	O
+n't	O
+turn	O
+in	O
+till	O
+past	O
+twelve	O
+.	O
+"	O
+
+# id = litbank-2705
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = " you went to the old bowery ?
+"	O
+you	O
+went	O
+to	O
+the	O
+old	O
+bowery	B-LOCATION
+?	O
+
+# id = litbank-2707
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = asked the man , who was a porter in the employ of a firm doing business on spruce street .
+asked	O
+the	O
+man	O
+,	O
+who	O
+was	O
+a	O
+porter	O
+in	O
+the	O
+employ	O
+of	O
+a	O
+firm	O
+doing	O
+business	O
+on	O
+spruce	B-LOCATION
+street	I-LOCATION
+.	O
+
+# id = litbank-2708
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -104,7 +178,7 @@ said	O
 dick	B-CHARACTER
 .	O
 
-# id = litbank-2224
+# id = litbank-2709
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -116,7 +190,7 @@ said	O
 dick	B-CHARACTER
 .	O
 
-# id = litbank-2225
+# id = litbank-2710
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -146,7 +220,7 @@ at	O
 first	O
 .	O
 
-# id = litbank-2226
+# id = litbank-2711
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -168,7 +242,7 @@ got	O
 up	O
 .	O
 
-# id = litbank-2227
+# id = litbank-2712
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -190,7 +264,7 @@ rather	O
 peculiar	O
 .	O
 
-# id = litbank-2228
+# id = litbank-2713
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -220,7 +294,7 @@ such	O
 refinement	O
 .	O
 
-# id = litbank-2229
+# id = litbank-2714
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -246,7 +320,7 @@ was	O
 attractive	O
 .	O
 
-# id = litbank-2230
+# id = litbank-2715
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -282,7 +356,7 @@ a	O
 favorite	O
 .	O
 
-# id = litbank-2231
+# id = litbank-2716
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -298,7 +372,7 @@ had	O
 commenced	O
 .	O
 
-# id = litbank-2232
+# id = litbank-2717
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -341,7 +415,7 @@ his	O
 profession	O
 .	O
 
-# id = litbank-2233
+# id = litbank-2718
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -372,7 +446,7 @@ to	O
 work	O
 .	O
 
-# id = litbank-2234
+# id = litbank-2719
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -408,7 +482,7 @@ dick	B-CHARACTER
 coat	O
 .	O
 
-# id = litbank-2235
+# id = litbank-2720
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -444,8 +518,8 @@ my	O
 manshun	O
 up	O
 on	O
-fifth	O
-avenoo	O
+fifth	B-LOCATION
+avenoo	I-LOCATION
 ,	O
 that	O
 i	O
@@ -462,7 +536,28 @@ a	O
 shine	O
 .	O
 
-# id = litbank-2236
+# id = litbank-2721
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = so your house is on fifth avenue , is it ? "
+so	O
+your	O
+house	O
+is	O
+on	O
+fifth	B-LOCATION
+avenue	I-LOCATION
+,	O
+is	O
+it	O
+?	O
+"	O
+
+# id = litbank-2722
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -489,7 +584,7 @@ truth	O
 there	O
 .	O
 
-# id = litbank-2237
+# id = litbank-2723
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -507,7 +602,7 @@ dick	B-CHARACTER
 attire	O
 .	O
 
-# id = litbank-2238
+# id = litbank-2724
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -521,7 +616,7 @@ dick	B-CHARACTER
 shrewdly	O
 .	O
 
-# id = litbank-2239
+# id = litbank-2725
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -545,7 +640,7 @@ dick	B-CHARACTER
 comically	O
 .	O
 
-# id = litbank-2240
+# id = litbank-2726
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -566,7 +661,7 @@ said	O
 dick	B-CHARACTER
 .	O
 
-# id = litbank-2241
+# id = litbank-2727
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -584,7 +679,43 @@ said	O
 dick	B-CHARACTER
 .	O
 
-# id = litbank-2242
+# id = litbank-2728
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = " all my money 's invested in the erie railroad . "
+"	O
+all	O
+my	O
+money	O
+'s	O
+invested	O
+in	O
+the	O
+erie	B-LOCATION
+railroad	I-LOCATION
+.	O
+"	O
+
+# id = litbank-2729
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = " no. 125 fulton street .
+"	O
+no.	O
+125	O
+fulton	B-LOCATION
+street	I-LOCATION
+.	O
+
+# id = litbank-2730
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -603,7 +734,7 @@ floor	O
 .	O
 "	O
 
-# id = litbank-2243
+# id = litbank-2731
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -635,7 +766,7 @@ walked	O
 away	O
 .	O
 
-# id = litbank-2244
+# id = litbank-2732
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -651,7 +782,65 @@ understand	O
 dick	B-CHARACTER
 .	O
 
-# id = litbank-2245
+# id = litbank-2733
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = a clergyman in search of the cooper institute he once directed to the tombs prison , and , following him unobserved , was highly delighted when the unsuspicious stranger walked up the front steps of the great stone building on centre street , and tried to obtain admission .
+a	O
+clergyman	O
+in	O
+search	O
+of	O
+the	O
+cooper	B-LOCATION
+institute	I-LOCATION
+he	O
+once	O
+directed	O
+to	O
+the	O
+tombs	B-LOCATION
+prison	I-LOCATION
+,	O
+and	O
+,	O
+following	O
+him	O
+unobserved	O
+,	O
+was	O
+highly	O
+delighted	O
+when	O
+the	O
+unsuspicious	O
+stranger	O
+walked	O
+up	O
+the	O
+front	O
+steps	O
+of	O
+the	O
+great	O
+stone	O
+building	O
+on	O
+centre	B-LOCATION
+street	I-LOCATION
+,	O
+and	O
+tried	O
+to	O
+obtain	O
+admission	O
+.	O
+
+# id = litbank-2734
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -686,7 +875,7 @@ his	O
 pants	O
 .	O
 
-# id = litbank-2246
+# id = litbank-2735
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -704,7 +893,7 @@ his	O
 extravagance	O
 .	O
 
-# id = litbank-2247
+# id = litbank-2736
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -749,7 +938,7 @@ exceeded	O
 his	O
 .	O
 
-# id = litbank-2248
+# id = litbank-2737
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -766,7 +955,69 @@ his	O
 earnings	O
 .	O
 
-# id = litbank-2249
+# id = litbank-2738
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = he was fond of going to the old bowery theatre , and to tony pastor 's , and if he had any money left afterwards , he would invite some of his friends in somewhere to have an oyster-stew ; so it seldom happened that he commenced the day with a penny .
+he	O
+was	O
+fond	O
+of	O
+going	O
+to	O
+the	O
+old	O
+bowery	B-LOCATION
+theatre	I-LOCATION
+,	O
+and	O
+to	O
+tony	B-LOCATION
+pastor	I-LOCATION
+'s	O
+,	O
+and	O
+if	O
+he	O
+had	O
+any	O
+money	O
+left	O
+afterwards	O
+,	O
+he	O
+would	O
+invite	O
+some	O
+of	O
+his	O
+friends	O
+in	O
+somewhere	O
+to	O
+have	O
+an	O
+oyster-stew	O
+;	O
+so	O
+it	O
+seldom	O
+happened	O
+that	O
+he	O
+commenced	O
+the	O
+day	O
+with	O
+a	O
+penny	O
+.	O
+
+# id = litbank-2739
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -790,7 +1041,7 @@ of	O
 smoking	O
 .	O
 
-# id = litbank-2250
+# id = litbank-2740
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -820,7 +1071,7 @@ the	O
 cheapest	O
 .	O
 
-# id = litbank-2251
+# id = litbank-2741
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -840,7 +1091,67 @@ lost	O
 money	O
 .	O
 
-# id = litbank-2252
+# id = litbank-2742
+# source = LitBank
+# book = Ragged Dick
+# book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
+# text = there was a noted gambling-house on baxter street , which in the evening was sometimes crowded with these juvenile gamesters , who staked their hard earnings , generally losing of course , and refreshing themselves from time to time with a vile mixture of liquor at two cents a glass .
+there	O
+was	O
+a	O
+noted	O
+gambling-house	O
+on	O
+baxter	B-LOCATION
+street	I-LOCATION
+,	O
+which	O
+in	O
+the	O
+evening	O
+was	O
+sometimes	O
+crowded	O
+with	O
+these	O
+juvenile	O
+gamesters	O
+,	O
+who	O
+staked	O
+their	O
+hard	O
+earnings	O
+,	O
+generally	O
+losing	O
+of	O
+course	O
+,	O
+and	O
+refreshing	O
+themselves	O
+from	O
+time	O
+to	O
+time	O
+with	O
+a	O
+vile	O
+mixture	O
+of	O
+liquor	O
+at	O
+two	O
+cents	O
+a	O
+glass	O
+.	O
+
+# id = litbank-2743
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -861,7 +1172,7 @@ the	O
 rest	O
 .	O
 
-# id = litbank-2253
+# id = litbank-2744
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -899,7 +1210,7 @@ model	O
 boy	O
 .	O
 
-# id = litbank-2217
+# id = litbank-2699
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -917,7 +1228,7 @@ vagabond	O
 !	O
 "	O
 
-# id = litbank-2218
+# id = litbank-2700
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -951,7 +1262,7 @@ you	O
 .	O
 "	O
 
-# id = litbank-2220
+# id = litbank-2702
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -969,7 +1280,7 @@ hour	O
 ago	O
 .	O
 
-# id = litbank-2221
+# id = litbank-2703
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
@@ -989,31 +1300,20 @@ precious	O
 sleepy	O
 .	O
 
-# id = litbank-2222
+# id = litbank-2706
 # source = LitBank
 # book = Ragged Dick
 # book_id = 5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks
 # chapter = unknown
 # sample_type = negative
 # source_file = entities/tsv/5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat.tsv
-# text = i went to the old bowery last night , and did n't turn in till past twelve . "
-i	O
-went	O
-to	O
-the	O
-old	O
-bowery	O
-last	O
-night	O
-,	O
-and	O
-did	O
-n't	O
-turn	O
-in	O
-till	O
-past	O
-twelve	O
-.	O
+# text = where 'd you get your money ? "
+where	O
+'d	O
+you	O
+get	O
+your	O
+money	O
+?	O
 "	O
 

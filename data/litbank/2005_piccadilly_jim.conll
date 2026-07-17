@@ -1,4 +1,4 @@
-# id = litbank-1667
+# id = litbank-2038
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -23,8 +23,8 @@ well-known	O
 financier	O
 ,	O
 on	O
-riverside	O
-drive	O
+riverside	B-LOCATION
+drive	I-LOCATION
 is	O
 one	O
 of	O
@@ -39,7 +39,80 @@ expensive	O
 boulevard	O
 .	O
 
-# id = litbank-1672
+# id = litbank-2041
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = the place resembles in almost equal proportions a cathedral , a suburban villa , a hotel and a chinese pagoda .
+the	O
+place	O
+resembles	O
+in	O
+almost	O
+equal	O
+proportions	O
+a	O
+cathedral	O
+,	O
+a	O
+suburban	O
+villa	O
+,	O
+a	O
+hotel	O
+and	O
+a	O
+chinese	B-LOCATION
+pagoda	O
+.	O
+
+# id = litbank-2042
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = many of its windows are of stained glass , and above the porch stand two terra-cotta lions , considerably more repulsive even than the complacent animals which guard new york 's public library .
+many	O
+of	O
+its	O
+windows	O
+are	O
+of	O
+stained	O
+glass	O
+,	O
+and	O
+above	O
+the	O
+porch	O
+stand	O
+two	O
+terra-cotta	O
+lions	O
+,	O
+considerably	O
+more	O
+repulsive	O
+even	O
+than	O
+the	O
+complacent	O
+animals	O
+which	O
+guard	O
+new	B-LOCATION
+york	I-LOCATION
+'s	O
+public	O
+library	O
+.	O
+
+# id = litbank-2043
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -86,7 +159,7 @@ be	O
 noticed	O
 .	O
 
-# id = litbank-1673
+# id = litbank-2044
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -116,7 +189,47 @@ lost	O
 spirit	O
 .	O
 
-# id = litbank-1675
+# id = litbank-2046
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = there was a look of exasperation on his usually patient face , and a muttered oath , picked up no doubt on the godless stock exchange , escaped his lips .
+there	O
+was	O
+a	O
+look	O
+of	O
+exasperation	O
+on	O
+his	O
+usually	O
+patient	O
+face	O
+,	O
+and	O
+a	O
+muttered	O
+oath	O
+,	O
+picked	O
+up	O
+no	O
+doubt	O
+on	O
+the	O
+godless	O
+stock	B-LOCATION
+exchange	I-LOCATION
+,	O
+escaped	O
+his	O
+lips	O
+.	O
+
+# id = litbank-2049
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -137,7 +250,7 @@ pett	I-CHARACTER
 system	O
 .	O
 
-# id = litbank-1676
+# id = litbank-2050
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -174,7 +287,7 @@ a	O
 salon	O
 .	O
 
-# id = litbank-1677
+# id = litbank-2051
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -243,7 +356,7 @@ unrecognised	O
 geniuses	O
 .	O
 
-# id = litbank-1678
+# id = litbank-2052
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -305,7 +418,7 @@ no	O
 rest	O
 .	O
 
-# id = litbank-1679
+# id = litbank-2053
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -366,7 +479,7 @@ its	O
 focus	O
 .	O
 
-# id = litbank-1680
+# id = litbank-2054
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -399,7 +512,7 @@ trying	O
 it	O
 .	O
 
-# id = litbank-1681
+# id = litbank-2055
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -439,7 +552,7 @@ unloveable	O
 type	O
 .	O
 
-# id = litbank-1682
+# id = litbank-2056
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -466,7 +579,7 @@ constant	O
 irritant	O
 .	O
 
-# id = litbank-1683
+# id = litbank-2057
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -481,7 +594,7 @@ his	O
 journey	O
 .	O
 
-# id = litbank-1684
+# id = litbank-2058
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -523,7 +636,7 @@ library	O
 first	O
 .	O
 
-# id = litbank-1685
+# id = litbank-2059
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -544,7 +657,7 @@ the	O
 shadows	O
 .	O
 
-# id = litbank-1686
+# id = litbank-2060
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -568,7 +681,7 @@ sombre	O
 eye	O
 .	O
 
-# id = litbank-1687
+# id = litbank-2061
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -587,7 +700,7 @@ looked	O
 overfed	O
 .	O
 
-# id = litbank-1688
+# id = litbank-2062
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -615,7 +728,7 @@ to	O
 irritability	O
 .	O
 
-# id = litbank-1689
+# id = litbank-2063
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -636,7 +749,7 @@ ogden	B-CHARACTER
 simply	O
 .	O
 
-# id = litbank-1690
+# id = litbank-2064
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -655,7 +768,7 @@ verbal	O
 comment	O
 .	O
 
-# id = litbank-1691
+# id = litbank-2065
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -678,7 +791,7 @@ his	O
 mouth	O
 .	O
 
-# id = litbank-1692
+# id = litbank-2066
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -693,7 +806,7 @@ sniffing	O
 suspiciously	O
 .	O
 
-# id = litbank-1693
+# id = litbank-2067
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -711,7 +824,7 @@ mr.	B-CHARACTER
 pett	I-CHARACTER
 .	O
 
-# id = litbank-1694
+# id = litbank-2068
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -740,7 +853,7 @@ the	O
 prospect	O
 .	O
 
-# id = litbank-1695
+# id = litbank-2069
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -770,7 +883,7 @@ the	O
 subject	O
 .	O
 
-# id = litbank-1696
+# id = litbank-2070
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -788,7 +901,7 @@ candy	O
 box	O
 .	O
 
-# id = litbank-1697
+# id = litbank-2071
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -803,7 +916,83 @@ retired	O
 fermenting	O
 .	O
 
-# id = litbank-1698
+# id = litbank-2072
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = why should he be a totally different man on riverside drive from the person he was in pine street ?
+why	O
+should	O
+he	O
+be	O
+a	O
+totally	O
+different	O
+man	O
+on	O
+riverside	B-LOCATION
+drive	I-LOCATION
+from	O
+the	O
+person	O
+he	O
+was	O
+in	O
+pine	B-LOCATION
+street	I-LOCATION
+?	O
+
+# id = litbank-2073
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = why should he be able to hold his own in pine street with grown men -- whiskered , square-jawed financiers -- and yet be unable on riverside drive to eject a fourteen-year-old boy from an easy chair ?
+why	O
+should	O
+he	O
+be	O
+able	O
+to	O
+hold	O
+his	O
+own	O
+in	O
+pine	B-LOCATION
+street	I-LOCATION
+with	O
+grown	O
+men	O
+--	O
+whiskered	O
+,	O
+square-jawed	O
+financiers	O
+--	O
+and	O
+yet	O
+be	O
+unable	O
+on	O
+riverside	B-LOCATION
+drive	I-LOCATION
+to	O
+eject	O
+a	O
+fourteen-year-old	O
+boy	O
+from	O
+an	O
+easy	O
+chair	O
+?	O
+
+# id = litbank-2074
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -838,7 +1027,7 @@ mr.	B-CHARACTER
 pett	I-CHARACTER
 .	O
 
-# id = litbank-1699
+# id = litbank-2075
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -888,7 +1077,48 @@ of	O
 men	O
 .	O
 
-# id = litbank-1700
+# id = litbank-2076
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = through a window to the left , healthfully open at the bottom , the sun streamed in , bringing with it the pleasantly subdued whirring of automobiles out on the drive .
+through	O
+a	O
+window	O
+to	O
+the	O
+left	O
+,	O
+healthfully	O
+open	O
+at	O
+the	O
+bottom	O
+,	O
+the	O
+sun	O
+streamed	O
+in	O
+,	O
+bringing	O
+with	O
+it	O
+the	O
+pleasantly	O
+subdued	O
+whirring	O
+of	O
+automobiles	O
+out	O
+on	O
+the	O
+drive	B-LOCATION
+.	O
+
+# id = litbank-2077
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -910,7 +1140,7 @@ her	O
 shoulder	O
 .	O
 
-# id = litbank-1668
+# id = litbank-2039
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -951,7 +1181,7 @@ at	O
 you	O
 .	O
 
-# id = litbank-1669
+# id = litbank-2040
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -985,80 +1215,7 @@ of	O
 shock	O
 .	O
 
-# id = litbank-1670
-# source = LitBank
-# book = Piccadilly Jim
-# book_id = 2005_piccadilly_jim
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
-# text = the place resembles in almost equal proportions a cathedral , a suburban villa , a hotel and a chinese pagoda .
-the	O
-place	O
-resembles	O
-in	O
-almost	O
-equal	O
-proportions	O
-a	O
-cathedral	O
-,	O
-a	O
-suburban	O
-villa	O
-,	O
-a	O
-hotel	O
-and	O
-a	O
-chinese	O
-pagoda	O
-.	O
-
-# id = litbank-1671
-# source = LitBank
-# book = Piccadilly Jim
-# book_id = 2005_piccadilly_jim
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
-# text = many of its windows are of stained glass , and above the porch stand two terra-cotta lions , considerably more repulsive even than the complacent animals which guard new york 's public library .
-many	O
-of	O
-its	O
-windows	O
-are	O
-of	O
-stained	O
-glass	O
-,	O
-and	O
-above	O
-the	O
-porch	O
-stand	O
-two	O
-terra-cotta	O
-lions	O
-,	O
-considerably	O
-more	O
-repulsive	O
-even	O
-than	O
-the	O
-complacent	O
-animals	O
-which	O
-guard	O
-new	O
-york	O
-'s	O
-public	O
-library	O
-.	O
-
-# id = litbank-1674
+# id = litbank-2045
 # source = LitBank
 # book = Piccadilly Jim
 # book_id = 2005_piccadilly_jim
@@ -1092,5 +1249,47 @@ communicated	O
 itself	O
 to	O
 him	O
+.	O
+
+# id = litbank-2047
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = he was afflicted by a sense of the pathos of his position .
+he	O
+was	O
+afflicted	O
+by	O
+a	O
+sense	O
+of	O
+the	O
+pathos	O
+of	O
+his	O
+position	O
+.	O
+
+# id = litbank-2048
+# source = LitBank
+# book = Piccadilly Jim
+# book_id = 2005_piccadilly_jim
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2005_piccadilly_jim_brat.tsv
+# text = it was not as if he demanded much from life .
+it	O
+was	O
+not	O
+as	O
+if	O
+he	O
+demanded	O
+much	O
+from	O
+life	O
 .	O
 

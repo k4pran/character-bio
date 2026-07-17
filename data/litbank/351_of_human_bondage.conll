@@ -1,4 +1,4 @@
-# id = litbank-0855
+# id = litbank-1060
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -17,7 +17,7 @@ she	O
 said	O
 .	O
 
-# id = litbank-0857
+# id = litbank-1062
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -37,7 +37,7 @@ she	O
 said	O
 .	O
 
-# id = litbank-0858
+# id = litbank-1063
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -61,7 +61,7 @@ you	O
 ?	O
 "	O
 
-# id = litbank-0859
+# id = litbank-1064
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -82,7 +82,7 @@ sir	O
 .	O
 "	O
 
-# id = litbank-0860
+# id = litbank-1065
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -103,7 +103,7 @@ sir	O
 ?	O
 "	O
 
-# id = litbank-0861
+# id = litbank-1066
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -126,11 +126,64 @@ watkin	I-CHARACTER
 's	O
 house	O
 in	O
-onslow	O
+onslow	B-LOCATION
 gardens	O
 .	O
 
-# id = litbank-0862
+# id = litbank-1067
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = all these he had taken and , with the help of the gilt rout chairs , light and easy to move , had made an elaborate cave in which he could hide himself from the red indians who were lurking behind the curtains .
+all	O
+these	O
+he	O
+had	O
+taken	O
+and	O
+,	O
+with	O
+the	O
+help	O
+of	O
+the	O
+gilt	O
+rout	O
+chairs	O
+,	O
+light	O
+and	O
+easy	O
+to	O
+move	O
+,	O
+had	O
+made	O
+an	O
+elaborate	O
+cave	O
+in	O
+which	O
+he	O
+could	O
+hide	O
+himself	O
+from	O
+the	O
+red	B-LOCATION
+indians	O
+who	O
+were	O
+lurking	O
+behind	O
+the	O
+curtains	O
+.	O
+
+# id = litbank-1068
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -153,7 +206,7 @@ you	O
 .	O
 "	O
 
-# id = litbank-0863
+# id = litbank-1069
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -168,7 +221,7 @@ emma	B-CHARACTER
 !	O
 "	O
 
-# id = litbank-0864
+# id = litbank-1070
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -185,7 +238,7 @@ she	O
 meant	O
 .	O
 
-# id = litbank-0865
+# id = litbank-1071
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -212,7 +265,7 @@ cried	O
 too	O
 .	O
 
-# id = litbank-0866
+# id = litbank-1072
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -236,7 +289,40 @@ large	O
 features	O
 .	O
 
-# id = litbank-0867
+# id = litbank-1073
+# source = LitBank
+# book = Of Human Bondage
+# book_id = 351_of_human_bondage
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/351_of_human_bondage_brat.tsv
+# text = she came from devonshire and , notwithstanding her many years of service in london , had never lost the breadth of her accent .
+she	O
+came	O
+from	O
+devonshire	B-LOCATION
+and	O
+,	O
+notwithstanding	O
+her	O
+many	O
+years	O
+of	O
+service	O
+in	O
+london	B-LOCATION
+,	O
+had	O
+never	O
+lost	O
+the	O
+breadth	O
+of	O
+her	O
+accent	O
+.	O
+
+# id = litbank-1074
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -260,7 +346,7 @@ she	O
 said	O
 .	O
 
-# id = litbank-0868
+# id = litbank-1075
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -285,7 +371,7 @@ home	O
 .	O
 "	O
 
-# id = litbank-0869
+# id = litbank-1076
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -312,7 +398,7 @@ the	O
 hall	O
 .	O
 
-# id = litbank-0870
+# id = litbank-1077
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -358,7 +444,7 @@ for	O
 him	O
 .	O
 
-# id = litbank-0871
+# id = litbank-1078
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -381,7 +467,7 @@ watkin	I-CHARACTER
 .	O
 "	O
 
-# id = litbank-0872
+# id = litbank-1079
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -401,7 +487,7 @@ said	O
 emma	B-CHARACTER
 .	O
 
-# id = litbank-0873
+# id = litbank-1080
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -419,7 +505,7 @@ walked	O
 in	O
 .	O
 
-# id = litbank-0874
+# id = litbank-1081
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -441,7 +527,7 @@ miss	O
 .	O
 "	O
 
-# id = litbank-0875
+# id = litbank-1082
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -464,7 +550,7 @@ limped	O
 in	O
 .	O
 
-# id = litbank-0876
+# id = litbank-1083
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -488,7 +574,7 @@ dyed	O
 hair	O
 .	O
 
-# id = litbank-0877
+# id = litbank-1084
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -522,7 +608,7 @@ changed	O
 colour	O
 .	O
 
-# id = litbank-0878
+# id = litbank-1085
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -550,7 +636,7 @@ him	O
 curiously	O
 .	O
 
-# id = litbank-0879
+# id = litbank-1086
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -573,7 +659,7 @@ her	O
 arms	O
 .	O
 
-# id = litbank-0880
+# id = litbank-1087
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -601,7 +687,7 @@ black	O
 dress	O
 .	O
 
-# id = litbank-0881
+# id = litbank-1088
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -625,7 +711,7 @@ at	O
 last	O
 .	O
 
-# id = litbank-0882
+# id = litbank-1089
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -649,7 +735,7 @@ him	O
 again	O
 .	O
 
-# id = litbank-0883
+# id = litbank-1090
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -704,7 +790,7 @@ for	O
 him	O
 .	O
 
-# id = litbank-0884
+# id = litbank-1091
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -735,7 +821,7 @@ the	O
 landing	O
 .	O
 
-# id = litbank-0885
+# id = litbank-1092
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -751,7 +837,7 @@ watkin	I-CHARACTER
 voice	O
 .	O
 
-# id = litbank-0886
+# id = litbank-1093
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -765,7 +851,7 @@ came	O
 back	O
 .	O
 
-# id = litbank-0887
+# id = litbank-1094
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -794,14 +880,14 @@ dreary	O
 respectable	O
 street	O
 between	O
-notting	O
-hill	O
-gate	O
+notting	B-LOCATION
+hill	I-LOCATION
+gate	I-LOCATION
 and	O
-high	O
-street	O
+high	B-LOCATION
+street	I-LOCATION
 ,	O
-kensington	O
+kensington	B-LOCATION
 --	O
 emma	B-CHARACTER
 led	O
@@ -811,7 +897,7 @@ the	O
 drawing-room	O
 .	O
 
-# id = litbank-0888
+# id = litbank-1095
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -830,7 +916,7 @@ said	O
 emma	B-CHARACTER
 .	O
 
-# id = litbank-0851
+# id = litbank-1056
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -847,7 +933,7 @@ and	O
 dull	O
 .	O
 
-# id = litbank-0852
+# id = litbank-1057
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -873,7 +959,7 @@ suggested	O
 snow	O
 .	O
 
-# id = litbank-0853
+# id = litbank-1058
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -900,7 +986,7 @@ the	O
 curtains	O
 .	O
 
-# id = litbank-0854
+# id = litbank-1059
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage
@@ -932,7 +1018,7 @@ child	O
 bed	O
 .	O
 
-# id = litbank-0856
+# id = litbank-1061
 # source = LitBank
 # book = Of Human Bondage
 # book_id = 351_of_human_bondage

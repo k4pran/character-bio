@@ -1,4 +1,4 @@
-torch
+# Install torch separately so CPU and ROCm environments can use the right wheel.
 transformers
 datasets
 accelerate

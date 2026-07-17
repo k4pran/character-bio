@@ -1,4 +1,441 @@
-# id = litbank-0217
+# id = litbank-0244
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = chapter i paris : september , 1792 a surging , seething , murmuring crowd of beings that are human only in name , for to the eye and ear they seem naught but savage creatures , animated by vile passions and by the lust of vengeance and of hate .
+chapter	O
+i	O
+paris	B-LOCATION
+:	O
+september	O
+,	O
+1792	O
+a	O
+surging	O
+,	O
+seething	O
+,	O
+murmuring	O
+crowd	O
+of	O
+beings	O
+that	O
+are	O
+human	O
+only	O
+in	O
+name	O
+,	O
+for	O
+to	O
+the	O
+eye	O
+and	O
+ear	O
+they	O
+seem	O
+naught	O
+but	O
+savage	O
+creatures	O
+,	O
+animated	O
+by	O
+vile	O
+passions	O
+and	O
+by	O
+the	O
+lust	O
+of	O
+vengeance	O
+and	O
+of	O
+hate	O
+.	O
+
+# id = litbank-0246
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = during the greater part of the day the guillotine had been kept busy at its ghastly work : all that france had boasted of in the past centuries , of ancient names , and blue blood , had paid toll to her desire for liberty and for fraternity .
+during	O
+the	O
+greater	O
+part	O
+of	O
+the	O
+day	O
+the	O
+guillotine	O
+had	O
+been	O
+kept	O
+busy	O
+at	O
+its	O
+ghastly	O
+work	O
+:	O
+all	O
+that	O
+france	B-LOCATION
+had	O
+boasted	O
+of	O
+in	O
+the	O
+past	O
+centuries	O
+,	O
+of	O
+ancient	O
+names	O
+,	O
+and	O
+blue	O
+blood	O
+,	O
+had	O
+paid	O
+toll	O
+to	O
+her	O
+desire	O
+for	O
+liberty	O
+and	O
+for	O
+fraternity	O
+.	O
+
+# id = litbank-0248
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = and so the crowd rushed away from the place de la greve and made for the various barricades in order to watch this interesting and amusing sight .
+and	O
+so	O
+the	O
+crowd	O
+rushed	O
+away	O
+from	O
+the	O
+place	O
+de	O
+la	O
+greve	B-LOCATION
+and	O
+made	O
+for	O
+the	O
+various	O
+barricades	O
+in	O
+order	O
+to	O
+watch	O
+this	O
+interesting	O
+and	O
+amusing	O
+sight	O
+.	O
+
+# id = litbank-0250
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = they were traitors to the people of course , all of them , men , women , and children , who happened to be descendants of the great men who since the crusades had made the glory of france : her old noblesse .
+they	O
+were	O
+traitors	O
+to	O
+the	O
+people	O
+of	O
+course	O
+,	O
+all	O
+of	O
+them	O
+,	O
+men	O
+,	O
+women	O
+,	O
+and	O
+children	O
+,	O
+who	O
+happened	O
+to	O
+be	O
+descendants	O
+of	O
+the	O
+great	O
+men	O
+who	O
+since	O
+the	O
+crusades	O
+had	O
+made	O
+the	O
+glory	O
+of	O
+france	B-LOCATION
+:	O
+her	O
+old	O
+noblesse	O
+.	O
+
+# id = litbank-0251
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = their ancestors had oppressed the people , had crushed them under the scarlet heels of their dainty buckled shoes , and now the people had become the rulers of france and crushed their former masters -- not beneath their heel , for they went shoeless mostly in these days -- but a more effectual weight , the knife of the guillotine .
+their	O
+ancestors	O
+had	O
+oppressed	O
+the	O
+people	O
+,	O
+had	O
+crushed	O
+them	O
+under	O
+the	O
+scarlet	O
+heels	O
+of	O
+their	O
+dainty	O
+buckled	O
+shoes	O
+,	O
+and	O
+now	O
+the	O
+people	O
+had	O
+become	O
+the	O
+rulers	O
+of	O
+france	B-LOCATION
+and	O
+crushed	O
+their	O
+former	O
+masters	O
+--	O
+not	O
+beneath	O
+their	O
+heel	O
+,	O
+for	O
+they	O
+went	O
+shoeless	O
+mostly	O
+in	O
+these	O
+days	O
+--	O
+but	O
+a	O
+more	O
+effectual	O
+weight	O
+,	O
+the	O
+knife	O
+of	O
+the	O
+guillotine	O
+.	O
+
+# id = litbank-0253
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = but this was as it should be : were not the people now the rulers of france ?
+but	O
+this	O
+was	O
+as	O
+it	O
+should	O
+be	O
+:	O
+were	O
+not	O
+the	O
+people	O
+now	O
+the	O
+rulers	O
+of	O
+france	B-LOCATION
+?	O
+
+# id = litbank-0255
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = in various disguises , under various pretexts , they tried to slip through the barriers , which were so well guarded by citizen soldiers of the republic .
+in	O
+various	O
+disguises	O
+,	O
+under	O
+various	O
+pretexts	O
+,	O
+they	O
+tried	O
+to	O
+slip	O
+through	O
+the	O
+barriers	O
+,	O
+which	O
+were	O
+so	O
+well	O
+guarded	O
+by	O
+citizen	O
+soldiers	O
+of	O
+the	O
+republic	B-LOCATION
+.	O
+
+# id = litbank-0256
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = men in women 's clothes , women in male attire , children disguised in beggars ' rags : there were some of all sorts : ci-devant counts , marquises , even dukes , who wanted to fly from france , reach england or some other equally accursed country , and there try to rouse foreign feelings against the glorious revolution , or to raise an army in order to liberate the wretched prisoners in the temple , who had once called themselves sovereigns of france .
+men	O
+in	O
+women	O
+'s	O
+clothes	O
+,	O
+women	O
+in	O
+male	O
+attire	O
+,	O
+children	O
+disguised	O
+in	O
+beggars	O
+'	O
+rags	O
+:	O
+there	O
+were	O
+some	O
+of	O
+all	O
+sorts	O
+:	O
+ci-devant	O
+counts	O
+,	O
+marquises	O
+,	O
+even	O
+dukes	O
+,	O
+who	O
+wanted	O
+to	O
+fly	O
+from	O
+france	B-LOCATION
+,	O
+reach	O
+england	B-LOCATION
+or	O
+some	O
+other	O
+equally	O
+accursed	O
+country	O
+,	O
+and	O
+there	O
+try	O
+to	O
+rouse	O
+foreign	O
+feelings	O
+against	O
+the	O
+glorious	O
+revolution	O
+,	O
+or	O
+to	O
+raise	O
+an	O
+army	O
+in	O
+order	O
+to	O
+liberate	O
+the	O
+wretched	O
+prisoners	O
+in	O
+the	O
+temple	B-LOCATION
+,	O
+who	O
+had	O
+once	O
+called	O
+themselves	O
+sovereigns	O
+of	O
+france	B-LOCATION
+.	O
+
+# id = litbank-0257
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -38,7 +475,7 @@ perfect	O
 disguise	O
 .	O
 
-# id = litbank-0218
+# id = litbank-0258
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -103,7 +540,7 @@ or	O
 count	O
 .	O
 
-# id = litbank-0219
+# id = litbank-0259
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -154,7 +591,7 @@ the	O
 people	O
 .	O
 
-# id = litbank-0220
+# id = litbank-0260
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -193,7 +630,7 @@ had	O
 escaped	O
 out	O
 of	O
-paris	O
+paris	B-LOCATION
 ,	O
 and	O
 might	O
@@ -204,7 +641,7 @@ reach	O
 the	O
 coast	O
 of	O
-england	O
+england	B-LOCATION
 in	O
 safety	O
 ,	O
@@ -243,7 +680,7 @@ his	O
 disguise	O
 .	O
 
-# id = litbank-0221
+# id = litbank-0261
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -314,7 +751,7 @@ la	O
 guillotine	O
 .	O
 
-# id = litbank-0222
+# id = litbank-0262
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -343,7 +780,7 @@ and	O
 excited	O
 .	O
 
-# id = litbank-0223
+# id = litbank-0263
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -380,7 +817,63 @@ his	O
 command	O
 .	O
 
-# id = litbank-0224
+# id = litbank-0264
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = those cursed aristos were becoming terrified and tried their hardest to slip out of paris : men , women and children , whose ancestors , even in remote ages , had served those traitorous bourbons , were all traitors themselves and right food for the guillotine .
+those	O
+cursed	O
+aristos	O
+were	O
+becoming	O
+terrified	O
+and	O
+tried	O
+their	O
+hardest	O
+to	O
+slip	O
+out	O
+of	O
+paris	B-LOCATION
+:	O
+men	O
+,	O
+women	O
+and	O
+children	O
+,	O
+whose	O
+ancestors	O
+,	O
+even	O
+in	O
+remote	O
+ages	O
+,	O
+had	O
+served	O
+those	O
+traitorous	O
+bourbons	O
+,	O
+were	O
+all	O
+traitors	O
+themselves	O
+and	O
+right	O
+food	O
+for	O
+the	O
+guillotine	O
+.	O
+
+# id = litbank-0265
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -425,7 +918,7 @@ citoyen	B-CHARACTER
 foucquier-tinville	I-CHARACTER
 .	O
 
-# id = litbank-0225
+# id = litbank-0266
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -467,7 +960,36 @@ the	O
 guillotine	O
 .	O
 
-# id = litbank-0226
+# id = litbank-0267
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = recently a very great number of aristos had succeeded in escaping out of france and in reaching england safely .
+recently	O
+a	O
+very	O
+great	O
+number	O
+of	O
+aristos	O
+had	O
+succeeded	O
+in	O
+escaping	O
+out	O
+of	O
+france	B-LOCATION
+and	O
+in	O
+reaching	O
+england	B-LOCATION
+safely	O
+.	O
+
+# id = litbank-0268
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -503,7 +1025,7 @@ very	O
 nose	O
 .	O
 
-# id = litbank-0227
+# id = litbank-0269
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -573,7 +1095,113 @@ public	O
 safety	O
 .	O
 
-# id = litbank-0228
+# id = litbank-0270
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = the paper always contained a brief notice that the band of meddlesome englishmen were at work , and it was always signed with a device drawn in red -- a little star-shaped flower , which we in england call the scarlet pimpernel .
+the	O
+paper	O
+always	O
+contained	O
+a	O
+brief	O
+notice	O
+that	O
+the	O
+band	O
+of	O
+meddlesome	O
+englishmen	O
+were	O
+at	O
+work	O
+,	O
+and	O
+it	O
+was	O
+always	O
+signed	O
+with	O
+a	O
+device	O
+drawn	O
+in	O
+red	O
+--	O
+a	O
+little	O
+star-shaped	O
+flower	O
+,	O
+which	O
+we	O
+in	O
+england	B-LOCATION
+call	O
+the	O
+scarlet	O
+pimpernel	O
+.	O
+
+# id = litbank-0271
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = within a few hours of the receipt of this impudent notice , the citoyens of the committee of public safety would hear that so many royalists and aristocrats had succeeded in reaching the coast , and were on their way to england and safety .
+within	O
+a	O
+few	O
+hours	O
+of	O
+the	O
+receipt	O
+of	O
+this	O
+impudent	O
+notice	O
+,	O
+the	O
+citoyens	O
+of	O
+the	O
+committee	O
+of	O
+public	O
+safety	O
+would	O
+hear	O
+that	O
+so	O
+many	O
+royalists	O
+and	O
+aristocrats	O
+had	O
+succeeded	O
+in	O
+reaching	O
+the	O
+coast	O
+,	O
+and	O
+were	O
+on	O
+their	O
+way	O
+to	O
+england	B-LOCATION
+and	O
+safety	O
+.	O
+
+# id = litbank-0272
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -605,7 +1233,7 @@ scarlet	B-CHARACTER
 pimpernel	I-CHARACTER
 .	O
 
-# id = litbank-0229
+# id = litbank-0273
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -677,7 +1305,7 @@ mysterious	O
 englishman	O
 .	O
 
-# id = litbank-0230
+# id = litbank-0274
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -704,7 +1332,7 @@ a	O
 fool	O
 !	O
 
-# id = litbank-0231
+# id = litbank-0275
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -745,7 +1373,7 @@ comrade	O
 stupidity	O
 .	O
 
-# id = litbank-0232
+# id = litbank-0276
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -785,7 +1413,7 @@ his	O
 narrative	O
 .	O
 
-# id = litbank-0233
+# id = litbank-0277
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -809,7 +1437,7 @@ scarlet	B-CHARACTER
 pimpernel	I-CHARACTER
 .	O
 
-# id = litbank-0234
+# id = litbank-0278
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -824,7 +1452,7 @@ a	O
 fool	O
 .	O
 
-# id = litbank-0235
+# id = litbank-0279
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -873,7 +1501,7 @@ through	O
 .	O
 ”	O
 
-# id = litbank-0236
+# id = litbank-0280
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -902,7 +1530,7 @@ citoyen	B-CHARACTER
 bibot	I-CHARACTER
 .	O
 
-# id = litbank-0237
+# id = litbank-0281
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -918,7 +1546,7 @@ grospierre	B-CHARACTER
 breathlessly	O
 .	O
 
-# id = litbank-0238
+# id = litbank-0282
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -942,7 +1570,7 @@ ago	O
 .	O
 '	O
 
-# id = litbank-0239
+# id = litbank-0283
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -966,7 +1594,7 @@ family	O
 !	O
 '	O
 
-# id = litbank-0240
+# id = litbank-0284
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -980,7 +1608,7 @@ grospierre	B-CHARACTER
 aghast	O
 .	O
 
-# id = litbank-0241
+# id = litbank-0285
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -1006,7 +1634,7 @@ pimpernel	I-CHARACTER
 '	O
 ”	O
 
-# id = litbank-0242
+# id = litbank-0286
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -1031,66 +1659,7 @@ a	O
 fool	O
 !	O
 
-# id = litbank-0212
-# source = LitBank
-# book = The Scarlet Pimpernel
-# book_id = 60_the_scarlet_pimpernel
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
-# text = chapter i paris : september , 1792 a surging , seething , murmuring crowd of beings that are human only in name , for to the eye and ear they seem naught but savage creatures , animated by vile passions and by the lust of vengeance and of hate .
-chapter	O
-i	O
-paris	O
-:	O
-september	O
-,	O
-1792	O
-a	O
-surging	O
-,	O
-seething	O
-,	O
-murmuring	O
-crowd	O
-of	O
-beings	O
-that	O
-are	O
-human	O
-only	O
-in	O
-name	O
-,	O
-for	O
-to	O
-the	O
-eye	O
-and	O
-ear	O
-they	O
-seem	O
-naught	O
-but	O
-savage	O
-creatures	O
-,	O
-animated	O
-by	O
-vile	O
-passions	O
-and	O
-by	O
-the	O
-lust	O
-of	O
-vengeance	O
-and	O
-of	O
-hate	O
-.	O
-
-# id = litbank-0213
+# id = litbank-0245
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -1143,65 +1712,7 @@ own	O
 vanity	O
 .	O
 
-# id = litbank-0214
-# source = LitBank
-# book = The Scarlet Pimpernel
-# book_id = 60_the_scarlet_pimpernel
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
-# text = during the greater part of the day the guillotine had been kept busy at its ghastly work : all that france had boasted of in the past centuries , of ancient names , and blue blood , had paid toll to her desire for liberty and for fraternity .
-during	O
-the	O
-greater	O
-part	O
-of	O
-the	O
-day	O
-the	O
-guillotine	O
-had	O
-been	O
-kept	O
-busy	O
-at	O
-its	O
-ghastly	O
-work	O
-:	O
-all	O
-that	O
-france	O
-had	O
-boasted	O
-of	O
-in	O
-the	O
-past	O
-centuries	O
-,	O
-of	O
-ancient	O
-names	O
-,	O
-and	O
-blue	O
-blood	O
-,	O
-had	O
-paid	O
-toll	O
-to	O
-her	O
-desire	O
-for	O
-liberty	O
-and	O
-for	O
-fraternity	O
-.	O
-
-# id = litbank-0215
+# id = litbank-0247
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
@@ -1249,40 +1760,162 @@ the	O
 night	O
 .	O
 
-# id = litbank-0216
+# id = litbank-0249
 # source = LitBank
 # book = The Scarlet Pimpernel
 # book_id = 60_the_scarlet_pimpernel
 # chapter = unknown
 # sample_type = negative
 # source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
-# text = and so the crowd rushed away from the place de la greve and made for the various barricades in order to watch this interesting and amusing sight .
-and	O
-so	O
-the	O
-crowd	O
-rushed	O
-away	O
-from	O
-the	O
-place	O
-de	O
-la	O
-greve	O
-and	O
-made	O
-for	O
-the	O
-various	O
-barricades	O
-in	O
-order	O
+# text = it was to be seen every day , for those aristos were such fools !
+it	O
+was	O
 to	O
-watch	O
-this	O
-interesting	O
+be	O
+seen	O
+every	O
+day	O
+,	O
+for	O
+those	O
+aristos	O
+were	O
+such	O
+fools	O
+!	O
+
+# id = litbank-0252
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = and daily , hourly , the hideous instrument of torture claimed its many victims -- old men , young women , tiny children until the day when it would finally demand the head of a king and of a beautiful young queen .
 and	O
-amusing	O
-sight	O
+daily	O
+,	O
+hourly	O
+,	O
+the	O
+hideous	O
+instrument	O
+of	O
+torture	O
+claimed	O
+its	O
+many	O
+victims	O
+--	O
+old	O
+men	O
+,	O
+young	O
+women	O
+,	O
+tiny	O
+children	O
+until	O
+the	O
+day	O
+when	O
+it	O
+would	O
+finally	O
+demand	O
+the	O
+head	O
+of	O
+a	O
+king	O
+and	O
+of	O
+a	O
+beautiful	O
+young	O
+queen	O
+.	O
+
+# id = litbank-0254
+# source = LitBank
+# book = The Scarlet Pimpernel
+# book_id = 60_the_scarlet_pimpernel
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/60_the_scarlet_pimpernel_brat.tsv
+# text = every aristocrat was a traitor , as his ancestors had been before him : for two hundred years now the people had sweated , and toiled , and starved , to keep a lustful court in lavish extravagance ; now the descendants of those who had helped to make those courts brilliant had to hide for their lives -- to fly , if they wished to avoid the tardy vengeance of the people .
+every	O
+aristocrat	O
+was	O
+a	O
+traitor	O
+,	O
+as	O
+his	O
+ancestors	O
+had	O
+been	O
+before	O
+him	O
+:	O
+for	O
+two	O
+hundred	O
+years	O
+now	O
+the	O
+people	O
+had	O
+sweated	O
+,	O
+and	O
+toiled	O
+,	O
+and	O
+starved	O
+,	O
+to	O
+keep	O
+a	O
+lustful	O
+court	O
+in	O
+lavish	O
+extravagance	O
+;	O
+now	O
+the	O
+descendants	O
+of	O
+those	O
+who	O
+had	O
+helped	O
+to	O
+make	O
+those	O
+courts	O
+brilliant	O
+had	O
+to	O
+hide	O
+for	O
+their	O
+lives	O
+--	O
+to	O
+fly	O
+,	O
+if	O
+they	O
+wished	O
+to	O
+avoid	O
+the	O
+tardy	O
+vengeance	O
+of	O
+the	O
+people	O
 .	O
 

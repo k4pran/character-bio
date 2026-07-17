@@ -1,4 +1,356 @@
-# id = litbank-0118
+# id = litbank-0127
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = at most terrestrial men fancied there might be other men upon mars , perhaps inferior to themselves and ready to welcome a missionary enterprise .
+at	O
+most	O
+terrestrial	O
+men	O
+fancied	O
+there	O
+might	O
+be	O
+other	O
+men	O
+upon	O
+mars	B-LOCATION
+,	O
+perhaps	O
+inferior	O
+to	O
+themselves	O
+and	O
+ready	O
+to	O
+welcome	O
+a	O
+missionary	O
+enterprise	O
+.	O
+
+# id = litbank-0129
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = the planet mars , i scarcely need remind the reader , revolves about the sun at a mean distance of 140,000,000 miles , and the light and heat it receives from the sun is barely half of that received by this world .
+the	O
+planet	O
+mars	B-LOCATION
+,	O
+i	O
+scarcely	O
+need	O
+remind	O
+the	O
+reader	O
+,	O
+revolves	O
+about	O
+the	O
+sun	O
+at	O
+a	O
+mean	O
+distance	O
+of	O
+140,000,000	O
+miles	O
+,	O
+and	O
+the	O
+light	O
+and	O
+heat	O
+it	O
+receives	O
+from	O
+the	O
+sun	O
+is	O
+barely	O
+half	O
+of	O
+that	O
+received	O
+by	O
+this	O
+world	O
+.	O
+
+# id = litbank-0130
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = nor was it generally understood that since mars is older than our earth , with scarcely a quarter of the superficial area and remoter from the sun , it necessarily follows that it is not only more distant from time 's beginning but nearer its end .
+nor	O
+was	O
+it	O
+generally	O
+understood	O
+that	O
+since	O
+mars	B-LOCATION
+is	O
+older	O
+than	O
+our	O
+earth	O
+,	O
+with	O
+scarcely	O
+a	O
+quarter	O
+of	O
+the	O
+superficial	O
+area	O
+and	O
+remoter	O
+from	O
+the	O
+sun	O
+,	O
+it	O
+necessarily	O
+follows	O
+that	O
+it	O
+is	O
+not	O
+only	O
+more	O
+distant	O
+from	O
+time	O
+'s	O
+beginning	O
+but	O
+nearer	O
+its	O
+end	O
+.	O
+
+# id = litbank-0131
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = that last stage of exhaustion , which to us is still incredibly remote , has become a present-day problem for the inhabitants of mars .
+that	O
+last	O
+stage	O
+of	O
+exhaustion	O
+,	O
+which	O
+to	O
+us	O
+is	O
+still	O
+incredibly	O
+remote	O
+,	O
+has	O
+become	O
+a	O
+present-day	O
+problem	O
+for	O
+the	O
+inhabitants	O
+of	O
+mars	B-LOCATION
+.	O
+
+# id = litbank-0132
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = the intellectual side of man already admits that life is an incessant struggle for existence , and it would seem that this too is the belief of the minds upon mars .
+the	O
+intellectual	O
+side	O
+of	O
+man	O
+already	O
+admits	O
+that	O
+life	O
+is	O
+an	O
+incessant	O
+struggle	O
+for	O
+existence	O
+,	O
+and	O
+it	O
+would	O
+seem	O
+that	O
+this	O
+too	O
+is	O
+the	O
+belief	O
+of	O
+the	O
+minds	O
+upon	O
+mars	B-LOCATION
+.	O
+
+# id = litbank-0133
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = men like schiaparelli watched the red planet -- it is odd , by-the-bye , that for countless centuries mars has been the star of war -- but failed to interpret the fluctuating appearances of the markings they mapped so well .
+men	O
+like	O
+schiaparelli	O
+watched	O
+the	O
+red	O
+planet	O
+--	O
+it	O
+is	O
+odd	O
+,	O
+by-the-bye	O
+,	O
+that	O
+for	O
+countless	O
+centuries	O
+mars	B-LOCATION
+has	O
+been	O
+the	O
+star	O
+of	O
+war	O
+--	O
+but	O
+failed	O
+to	O
+interpret	O
+the	O
+fluctuating	O
+appearances	O
+of	O
+the	O
+markings	O
+they	O
+mapped	O
+so	O
+well	O
+.	O
+
+# id = litbank-0134
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = during the opposition of 1894 a great light was seen on the illuminated part of the disk , first at the lick observatory , then by perrotin of nice , and then by other observers .
+during	O
+the	O
+opposition	O
+of	O
+1894	O
+a	O
+great	O
+light	O
+was	O
+seen	O
+on	O
+the	O
+illuminated	O
+part	O
+of	O
+the	O
+disk	O
+,	O
+first	O
+at	O
+the	O
+lick	B-LOCATION
+observatory	I-LOCATION
+,	O
+then	O
+by	O
+perrotin	O
+of	O
+nice	B-LOCATION
+,	O
+and	O
+then	O
+by	O
+other	O
+observers	O
+.	O
+
+# id = litbank-0135
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = as mars approached opposition , lavelle of java set the wires of the astronomical exchange palpitating with the amazing intelligence of a huge outbreak of incandescent gas upon the planet .
+as	O
+mars	B-LOCATION
+approached	O
+opposition	O
+,	O
+lavelle	O
+of	O
+java	B-LOCATION
+set	O
+the	O
+wires	O
+of	O
+the	O
+astronomical	O
+exchange	O
+palpitating	O
+with	O
+the	O
+amazing	O
+intelligence	O
+of	O
+a	O
+huge	O
+outbreak	O
+of	O
+incandescent	O
+gas	O
+upon	O
+the	O
+planet	O
+.	O
+
+# id = litbank-0136
 # source = LitBank
 # book = The War of the Worlds
 # book_id = 36_the_war_of_the_worlds
@@ -27,10 +379,10 @@ well-known	O
 astronomer	O
 ,	O
 at	O
-ottershaw	O
+ottershaw	B-LOCATION
 .	O
 
-# id = litbank-0119
+# id = litbank-0137
 # source = LitBank
 # book = The War of the Worlds
 # book_id = 36_the_war_of_the_worlds
@@ -47,7 +399,7 @@ but	O
 audible	O
 .	O
 
-# id = litbank-0120
+# id = litbank-0138
 # source = LitBank
 # book = The War of the Worlds
 # book_id = 36_the_war_of_the_worlds
@@ -88,7 +440,7 @@ my	O
 place	O
 .	O
 
-# id = litbank-0121
+# id = litbank-0139
 # source = LitBank
 # book = The War of the Worlds
 # book_id = 36_the_war_of_the_worlds
@@ -144,7 +496,44 @@ towards	O
 us	O
 .	O
 
-# id = litbank-0122
+# id = litbank-0140
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = that night another invisible missile started on its way to the earth from mars , just a second or so under twenty-four hours after the first one .
+that	O
+night	O
+another	O
+invisible	O
+missile	O
+started	O
+on	O
+its	O
+way	O
+to	O
+the	O
+earth	O
+from	O
+mars	B-LOCATION
+,	O
+just	O
+a	O
+second	O
+or	O
+so	O
+under	O
+twenty-four	O
+hours	O
+after	O
+the	O
+first	O
+one	O
+.	O
+
+# id = litbank-0141
 # source = LitBank
 # book = The War of the Worlds
 # book_id = 36_the_war_of_the_worlds
@@ -176,7 +565,73 @@ his	O
 house	O
 .	O
 
-# id = litbank-0113
+# id = litbank-0142
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = down below in the darkness were ottershaw and chertsey and all their hundreds of people , sleeping in peace .
+down	O
+below	O
+in	O
+the	O
+darkness	O
+were	O
+ottershaw	B-LOCATION
+and	O
+chertsey	B-LOCATION
+and	O
+all	O
+their	O
+hundreds	O
+of	O
+people	O
+,	O
+sleeping	O
+in	O
+peace	O
+.	O
+
+# id = litbank-0143
+# source = LitBank
+# book = The War of the Worlds
+# book_id = 36_the_war_of_the_worlds
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
+# text = he was full of speculation that night about the condition of mars , and scoffed at the vulgar idea of its having inhabitants who were signalling us .
+he	O
+was	O
+full	O
+of	O
+speculation	O
+that	O
+night	O
+about	O
+the	O
+condition	O
+of	O
+mars	B-LOCATION
+,	O
+and	O
+scoffed	O
+at	O
+the	O
+vulgar	O
+idea	O
+of	O
+its	O
+having	O
+inhabitants	O
+who	O
+were	O
+signalling	O
+us	O
+.	O
+
+# id = litbank-0123
 # source = LitBank
 # book = The War of the Worlds
 # book_id = 36_the_war_of_the_worlds
@@ -211,7 +666,7 @@ over	O
 matter	O
 .	O
 
-# id = litbank-0114
+# id = litbank-0124
 # source = LitBank
 # book = The War of the Worlds
 # book_id = 36_the_war_of_the_worlds
@@ -233,7 +688,7 @@ the	O
 same	O
 .	O
 
-# id = litbank-0115
+# id = litbank-0125
 # source = LitBank
 # book = The War of the Worlds
 # book_id = 36_the_war_of_the_worlds
@@ -277,7 +732,7 @@ or	O
 improbable	O
 .	O
 
-# id = litbank-0116
+# id = litbank-0126
 # source = LitBank
 # book = The War of the Worlds
 # book_id = 36_the_war_of_the_worlds
@@ -301,37 +756,60 @@ departed	O
 days	O
 .	O
 
-# id = litbank-0117
+# id = litbank-0128
 # source = LitBank
 # book = The War of the Worlds
 # book_id = 36_the_war_of_the_worlds
 # chapter = unknown
 # sample_type = negative
 # source_file = entities/tsv/36_the_war_of_the_worlds_brat.tsv
-# text = at most terrestrial men fancied there might be other men upon mars , perhaps inferior to themselves and ready to welcome a missionary enterprise .
-at	O
-most	O
-terrestrial	O
-men	O
-fancied	O
-there	O
-might	O
-be	O
-other	O
-men	O
-upon	O
-mars	O
+# text = yet across the gulf of space , minds that are to our minds as ours are to those of the beasts that perish , intellects vast and cool and unsympathetic , regarded this earth with envious eyes , and slowly and surely drew their plans against us .
+yet	O
+across	O
+the	O
+gulf	O
+of	O
+space	O
 ,	O
-perhaps	O
-inferior	O
+minds	O
+that	O
+are	O
 to	O
-themselves	O
+our	O
+minds	O
+as	O
+ours	O
+are	O
+to	O
+those	O
+of	O
+the	O
+beasts	O
+that	O
+perish	O
+,	O
+intellects	O
+vast	O
 and	O
-ready	O
-to	O
-welcome	O
-a	O
-missionary	O
-enterprise	O
+cool	O
+and	O
+unsympathetic	O
+,	O
+regarded	O
+this	O
+earth	O
+with	O
+envious	O
+eyes	O
+,	O
+and	O
+slowly	O
+and	O
+surely	O
+drew	O
+their	O
+plans	O
+against	O
+us	O
 .	O
 

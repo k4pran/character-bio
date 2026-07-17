@@ -1,4 +1,4 @@
-# id = litbank-2328
+# id = litbank-2841
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -40,7 +40,7 @@ heard	O
 of	O
 .	O
 
-# id = litbank-2329
+# id = litbank-2842
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -70,7 +70,7 @@ be	O
 done	O
 .	O
 
-# id = litbank-2332
+# id = litbank-2845
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -106,7 +106,7 @@ very	O
 small	O
 .	O
 
-# id = litbank-2333
+# id = litbank-2846
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -148,7 +148,54 @@ the	O
 sequel	O
 .	O
 
-# id = litbank-2335
+# id = litbank-2848
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = the good old office , now extinct in the state of new york , of a master in chancery , had been conferred upon me .
+the	O
+good	O
+old	O
+office	O
+,	O
+now	O
+extinct	O
+in	O
+the	O
+state	O
+of	O
+new	B-LOCATION
+york	I-LOCATION
+,	O
+of	O
+a	O
+master	O
+in	O
+chancery	O
+,	O
+had	O
+been	O
+conferred	O
+upon	O
+me	O
+.	O
+
+# id = litbank-2849
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = -- wall-street .
+--	O
+wall-street	B-LOCATION
+.	O
+
+# id = litbank-2850
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -185,7 +232,7 @@ an	O
 office-boy	O
 .	O
 
-# id = litbank-2336
+# id = litbank-2851
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -207,7 +254,7 @@ ginger	B-CHARACTER
 nut	I-CHARACTER
 .	O
 
-# id = litbank-2337
+# id = litbank-2852
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -238,7 +285,7 @@ from	O
 sixty	O
 .	O
 
-# id = litbank-2338
+# id = litbank-2853
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -317,7 +364,7 @@ twenty-four	O
 hours	O
 .	O
 
-# id = litbank-2339
+# id = litbank-2854
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -347,7 +394,7 @@ right-hand	O
 man	O
 .	O
 
-# id = litbank-2340
+# id = litbank-2855
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -386,7 +433,7 @@ and	O
 twenty	O
 .	O
 
-# id = litbank-2341
+# id = litbank-2856
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -413,7 +460,7 @@ suit	O
 him	O
 .	O
 
-# id = litbank-2342
+# id = litbank-2857
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -439,7 +486,58 @@ he	O
 wanted	O
 .	O
 
-# id = litbank-2343
+# id = litbank-2858
+# source = LitBank
+# book = Bartleby, the Scrivener
+# book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11231_bartleby_the_scrivener_a_story_of_wallstreet_brat.tsv
+# text = indeed i was aware that not only was he , at times , considerable of a ward-politician , but he occasionally did a little business at the justices ' courts , and was not unknown on the steps of the tombs .
+indeed	O
+i	O
+was	O
+aware	O
+that	O
+not	O
+only	O
+was	O
+he	O
+,	O
+at	O
+times	O
+,	O
+considerable	O
+of	O
+a	O
+ward-politician	O
+,	O
+but	O
+he	O
+occasionally	O
+did	O
+a	O
+little	O
+business	O
+at	O
+the	O
+justices	O
+'	O
+courts	O
+,	O
+and	O
+was	O
+not	O
+unknown	O
+on	O
+the	O
+steps	O
+of	O
+the	O
+tombs	B-LOCATION
+.	O
+
+# id = litbank-2859
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -499,7 +597,7 @@ of	O
 deportment	O
 .	O
 
-# id = litbank-2344
+# id = litbank-2860
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -528,7 +626,7 @@ to	O
 me	O
 .	O
 
-# id = litbank-2345
+# id = litbank-2861
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -551,7 +649,7 @@ red	O
 ink	O
 .	O
 
-# id = litbank-2346
+# id = litbank-2862
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -598,7 +696,7 @@ the	O
 neck	O
 .	O
 
-# id = litbank-2347
+# id = litbank-2863
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -624,7 +722,7 @@ of	O
 afternoons	O
 .	O
 
-# id = litbank-2348
+# id = litbank-2864
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -656,7 +754,7 @@ his	O
 coat	O
 .	O
 
-# id = litbank-2326
+# id = litbank-2839
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -718,7 +816,7 @@ or	O
 scriveners	O
 .	O
 
-# id = litbank-2327
+# id = litbank-2840
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -762,7 +860,7 @@ might	O
 weep	O
 .	O
 
-# id = litbank-2330
+# id = litbank-2843
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -787,7 +885,7 @@ this	O
 man	O
 .	O
 
-# id = litbank-2331
+# id = litbank-2844
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet
@@ -804,7 +902,7 @@ to	O
 literature	O
 .	O
 
-# id = litbank-2334
+# id = litbank-2847
 # source = LitBank
 # book = Bartleby, the Scrivener
 # book_id = 11231_bartleby_the_scrivener_a_story_of_wallstreet

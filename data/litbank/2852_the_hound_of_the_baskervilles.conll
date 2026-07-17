@@ -1,4 +1,4 @@
-# id = litbank-1876
+# id = litbank-2311
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -43,7 +43,7 @@ breakfast	O
 table	O
 .	O
 
-# id = litbank-1880
+# id = litbank-2315
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -79,7 +79,7 @@ date	O
 .	O
 ”	O
 
-# id = litbank-1882
+# id = litbank-2317
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -101,7 +101,7 @@ it	O
 ?	O
 ”	O
 
-# id = litbank-1883
+# id = litbank-2318
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -130,7 +130,7 @@ my	O
 occupation	O
 .	O
 
-# id = litbank-1885
+# id = litbank-2320
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -157,7 +157,7 @@ visitor	O
 stick	O
 ?	O
 
-# id = litbank-1886
+# id = litbank-2321
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -213,7 +213,7 @@ appreciation	O
 .	O
 ”	O
 
-# id = litbank-1887
+# id = litbank-2322
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -229,7 +229,7 @@ said	O
 holmes	B-CHARACTER
 .	O
 
-# id = litbank-1888
+# id = litbank-2323
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -246,7 +246,7 @@ said	O
 holmes	B-CHARACTER
 .	O
 
-# id = litbank-1889
+# id = litbank-2324
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -277,7 +277,7 @@ a	O
 cigarette	O
 .	O
 
-# id = litbank-1890
+# id = litbank-2325
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -303,7 +303,7 @@ were	O
 erroneous	O
 .	O
 
-# id = litbank-1891
+# id = litbank-2326
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -329,7 +329,7 @@ means	O
 all	O
 .	O
 
-# id = litbank-1892
+# id = litbank-2327
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -361,7 +361,61 @@ for	O
 himself	O
 .	O
 
-# id = litbank-1893
+# id = litbank-2328
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = “ now , you will observe that he could not have been on the staff of the hospital , since only a man well-established in a london practice could hold such a position , and such a one would not drift into the country .
+“	O
+now	O
+,	O
+you	O
+will	O
+observe	O
+that	O
+he	O
+could	O
+not	O
+have	O
+been	O
+on	O
+the	O
+staff	O
+of	O
+the	O
+hospital	O
+,	O
+since	O
+only	O
+a	O
+man	O
+well-established	O
+in	O
+a	O
+london	B-LOCATION
+practice	O
+could	O
+hold	O
+such	O
+a	O
+position	O
+,	O
+and	O
+such	O
+a	O
+one	O
+would	O
+not	O
+drift	O
+into	O
+the	O
+country	O
+.	O
+
+# id = litbank-2329
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -427,7 +481,7 @@ mastiff	O
 .	O
 ”	O
 
-# id = litbank-1894
+# id = litbank-2330
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -459,7 +513,7 @@ the	O
 ceiling	O
 .	O
 
-# id = litbank-1895
+# id = litbank-2331
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -483,7 +537,52 @@ dartmoor	O
 devon	O
 .	O
 
-# id = litbank-1896
+# id = litbank-2332
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = house-surgeon , from 1882 to 1884 , at charing cross hospital .
+house-surgeon	O
+,	O
+from	O
+1882	O
+to	O
+1884	O
+,	O
+at	O
+charing	B-LOCATION
+cross	I-LOCATION
+hospital	I-LOCATION
+.	O
+
+# id = litbank-2333
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = medical officer for the parishes of grimpen , thorsley , and high barrow . ”
+medical	O
+officer	O
+for	O
+the	O
+parishes	O
+of	O
+grimpen	B-LOCATION
+,	O
+thorsley	B-LOCATION
+,	O
+and	O
+high	B-LOCATION
+barrow	I-LOCATION
+.	O
+”	O
+
+# id = litbank-2334
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -522,7 +621,69 @@ astutely	O
 observed	O
 .	O
 
-# id = litbank-1897
+# id = litbank-2335
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = it is my experience that it is only an amiable man in this world who receives testimonials , only an unambitious one who abandons a london career for the country , and only an absent-minded one who leaves his stick and not his visiting-card after waiting an hour in your room . ”
+it	O
+is	O
+my	O
+experience	O
+that	O
+it	O
+is	O
+only	O
+an	O
+amiable	O
+man	O
+in	O
+this	O
+world	O
+who	O
+receives	O
+testimonials	O
+,	O
+only	O
+an	O
+unambitious	O
+one	O
+who	O
+abandons	O
+a	O
+london	B-LOCATION
+career	O
+for	O
+the	O
+country	O
+,	O
+and	O
+only	O
+an	O
+absent-minded	O
+one	O
+who	O
+leaves	O
+his	O
+stick	O
+and	O
+not	O
+his	O
+visiting-card	O
+after	O
+waiting	O
+an	O
+hour	O
+in	O
+your	O
+room	O
+.	O
+”	O
+
+# id = litbank-2336
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -541,7 +702,7 @@ you	O
 watson	B-CHARACTER
 .	O
 
-# id = litbank-1898
+# id = litbank-2337
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -585,7 +746,7 @@ or	O
 ill	O
 .	O
 
-# id = litbank-1899
+# id = litbank-2338
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -615,7 +776,7 @@ in	O
 crime	O
 ?	O
 
-# id = litbank-1900
+# id = litbank-2339
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -649,7 +810,33 @@ of	O
 joy	O
 .	O
 
-# id = litbank-1877
+# id = litbank-2340
+# source = LitBank
+# book = The Hound of the Baskervilles
+# book_id = 2852_the_hound_of_the_baskervilles
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2852_the_hound_of_the_baskervilles_brat.tsv
+# text = “ i was not sure whether i had left it here or in the shipping office .
+“	O
+i	O
+was	O
+not	O
+sure	O
+whether	O
+i	O
+had	O
+left	O
+it	O
+here	O
+or	O
+in	O
+the	O
+shipping	B-LOCATION
+office	I-LOCATION
+.	O
+
+# id = litbank-2312
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -679,7 +866,7 @@ night	O
 before	O
 .	O
 
-# id = litbank-1878
+# id = litbank-2313
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -713,7 +900,7 @@ lawyer	O
 .	O
 ”	O
 
-# id = litbank-1879
+# id = litbank-2314
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -736,7 +923,7 @@ inch	O
 across	O
 .	O
 
-# id = litbank-1881
+# id = litbank-2316
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles
@@ -767,7 +954,7 @@ and	O
 reassuring	O
 .	O
 
-# id = litbank-1884
+# id = litbank-2319
 # source = LitBank
 # book = The Hound of the Baskervilles
 # book_id = 2852_the_hound_of_the_baskervilles

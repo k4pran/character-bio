@@ -13,32 +13,38 @@ def load_id2label(model_dir: Path):
     return {int(k): v for k, v in raw.items()}
 
 
-def merge_character_spans(words, labels):
-    characters = []
+def merge_entity_spans(words, labels, entity_type):
+    entities = []
     current_tokens = []
+    begin_label = f"B-{entity_type}"
+    inside_label = f"I-{entity_type}"
 
     for word, label in zip(words, labels):
-        if label == "B-CHARACTER":
+        if label == begin_label:
             if current_tokens:
-                characters.append(" ".join(current_tokens))
+                entities.append(" ".join(current_tokens))
             current_tokens = [word]
 
-        elif label == "I-CHARACTER":
+        elif label == inside_label:
             if current_tokens:
                 current_tokens.append(word)
             else:
-                # Stray I-CHARACTER; treat as a new span.
+                # Treat a stray I-* as the start of a recoverable span.
                 current_tokens = [word]
 
         else:
             if current_tokens:
-                characters.append(" ".join(current_tokens))
+                entities.append(" ".join(current_tokens))
                 current_tokens = []
 
     if current_tokens:
-        characters.append(" ".join(current_tokens))
+        entities.append(" ".join(current_tokens))
 
-    return characters
+    return entities
+
+
+def merge_character_spans(words, labels):
+    return merge_entity_spans(words, labels, "CHARACTER")
 
 
 def predict(text: str, model_dir: Path, max_length: int = 128):
@@ -88,11 +94,13 @@ def predict(text: str, model_dir: Path, max_length: int = 128):
         word_labels[word_id] = id2label[int(prediction_ids[token_index])]
 
     characters = merge_character_spans(words, word_labels)
+    locations = merge_entity_spans(words, word_labels, "LOCATION")
 
     return {
         "words": words,
         "labels": word_labels,
         "characters": characters,
+        "locations": locations,
     }
 
 
@@ -116,6 +124,10 @@ def main():
     print("\nDetected characters:")
     for character in result["characters"]:
         print(f"- {character}")
+
+    print("\nDetected locations:")
+    for location in result["locations"]:
+        print(f"- {location}")
 
 
 if __name__ == "__main__":

@@ -1,4 +1,4 @@
-# id = litbank-0909
+# id = litbank-1119
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -45,7 +45,61 @@ wholly	O
 disconcerted	O
 .	O
 
-# id = litbank-0911
+# id = litbank-1120
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = a telegram from him bespeaking a room " only if not noisy , " reply paid , was produced for the enquirer at the office , so that the understanding they should meet at chester rather than at liverpool remained to that extent sound .
+a	O
+telegram	O
+from	O
+him	O
+bespeaking	O
+a	O
+room	O
+"	O
+only	O
+if	O
+not	O
+noisy	O
+,	O
+"	O
+reply	O
+paid	O
+,	O
+was	O
+produced	O
+for	O
+the	O
+enquirer	O
+at	O
+the	O
+office	O
+,	O
+so	O
+that	O
+the	O
+understanding	O
+they	O
+should	O
+meet	O
+at	O
+chester	B-LOCATION
+rather	O
+than	O
+at	O
+liverpool	B-LOCATION
+remained	O
+to	O
+that	O
+extent	O
+sound	O
+.	O
+
+# id = litbank-1121
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -105,7 +159,7 @@ without	O
 disappointment	O
 .	O
 
-# id = litbank-0912
+# id = litbank-1122
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -160,7 +214,100 @@ each	O
 other	O
 .	O
 
-# id = litbank-0913
+# id = litbank-1123
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = the principle i have just mentioned as operating had been , with the most newly disembarked of the two men , wholly instinctive -- the fruit of a sharp sense that , delightful as it would be to find himself looking , after so much separation , into his comrade 's face , his business would be a trifle bungled should he simply arrange for this countenance to present itself to the nearing steamer as the first " note , " of europe .
+the	O
+principle	O
+i	O
+have	O
+just	O
+mentioned	O
+as	O
+operating	O
+had	O
+been	O
+,	O
+with	O
+the	O
+most	O
+newly	O
+disembarked	O
+of	O
+the	O
+two	O
+men	O
+,	O
+wholly	O
+instinctive	O
+--	O
+the	O
+fruit	O
+of	O
+a	O
+sharp	O
+sense	O
+that	O
+,	O
+delightful	O
+as	O
+it	O
+would	O
+be	O
+to	O
+find	O
+himself	O
+looking	O
+,	O
+after	O
+so	O
+much	O
+separation	O
+,	O
+into	O
+his	O
+comrade	O
+'s	O
+face	O
+,	O
+his	O
+business	O
+would	O
+be	O
+a	O
+trifle	O
+bungled	O
+should	O
+he	O
+simply	O
+arrange	O
+for	O
+this	O
+countenance	O
+to	O
+present	O
+itself	O
+to	O
+the	O
+nearing	O
+steamer	O
+as	O
+the	O
+first	O
+"	O
+note	O
+,	O
+"	O
+of	O
+europe	B-LOCATION
+.	O
+
+# id = litbank-1124
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -195,7 +342,7 @@ prove	O
 the	O
 note	O
 of	O
-europe	O
+europe	B-LOCATION
 in	O
 quite	O
 a	O
@@ -203,7 +350,207 @@ sufficient	O
 degree	O
 .	O
 
-# id = litbank-0916
+# id = litbank-1126
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = there were people on the ship with whom he had easily consorted -- so far as ease could up to now be imputed to him -- and who for the most part plunged straight into the current that set from the landing-stage to london ; there were others who had invited him to a tryst at the inn and had even invoked his aid for a " look round " at the beauties of liverpool ; but he had stolen away from every one alike , had kept no appointment and renewed no acquaintance , had been indifferently aware of the number of persons who esteemed themselves fortunate in being , unlike himself , " met , " and had even independently , unsociably , alone , without encounter or relapse and by mere quiet evasion , given his afternoon and evening to the immediate and the sensible .
+there	O
+were	O
+people	O
+on	O
+the	O
+ship	O
+with	O
+whom	O
+he	O
+had	O
+easily	O
+consorted	O
+--	O
+so	O
+far	O
+as	O
+ease	O
+could	O
+up	O
+to	O
+now	O
+be	O
+imputed	O
+to	O
+him	O
+--	O
+and	O
+who	O
+for	O
+the	O
+most	O
+part	O
+plunged	O
+straight	O
+into	O
+the	O
+current	O
+that	O
+set	O
+from	O
+the	O
+landing-stage	O
+to	O
+london	B-LOCATION
+;	O
+there	O
+were	O
+others	O
+who	O
+had	O
+invited	O
+him	O
+to	O
+a	O
+tryst	O
+at	O
+the	O
+inn	O
+and	O
+had	O
+even	O
+invoked	O
+his	O
+aid	O
+for	O
+a	O
+"	O
+look	O
+round	O
+"	O
+at	O
+the	O
+beauties	O
+of	O
+liverpool	B-LOCATION
+;	O
+but	O
+he	O
+had	O
+stolen	O
+away	O
+from	O
+every	O
+one	O
+alike	O
+,	O
+had	O
+kept	O
+no	O
+appointment	O
+and	O
+renewed	O
+no	O
+acquaintance	O
+,	O
+had	O
+been	O
+indifferently	O
+aware	O
+of	O
+the	O
+number	O
+of	O
+persons	O
+who	O
+esteemed	O
+themselves	O
+fortunate	O
+in	O
+being	O
+,	O
+unlike	O
+himself	O
+,	O
+"	O
+met	O
+,	O
+"	O
+and	O
+had	O
+even	O
+independently	O
+,	O
+unsociably	O
+,	O
+alone	O
+,	O
+without	O
+encounter	O
+or	O
+relapse	O
+and	O
+by	O
+mere	O
+quiet	O
+evasion	O
+,	O
+given	O
+his	O
+afternoon	O
+and	O
+evening	O
+to	O
+the	O
+immediate	O
+and	O
+the	O
+sensible	O
+.	O
+
+# id = litbank-1127
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = they formed a qualified draught of europe , an afternoon and an evening on the banks of the mersey , but such as it was he took his potion at least undiluted .
+they	O
+formed	O
+a	O
+qualified	O
+draught	O
+of	O
+europe	B-LOCATION
+,	O
+an	O
+afternoon	O
+and	O
+an	O
+evening	O
+on	O
+the	O
+banks	O
+of	O
+the	O
+mersey	B-LOCATION
+,	O
+but	O
+such	O
+as	O
+it	O
+was	O
+he	O
+took	O
+his	O
+potion	O
+at	O
+least	O
+undiluted	O
+.	O
+
+# id = litbank-1128
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -227,7 +574,7 @@ might	O
 be	O
 already	O
 at	O
-chester	O
+chester	B-LOCATION
 ;	O
 he	O
 reflected	O
@@ -299,7 +646,7 @@ of	O
 spending	O
 .	O
 
-# id = litbank-0917
+# id = litbank-1129
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -371,7 +718,7 @@ the	O
 simplest	O
 .	O
 
-# id = litbank-0918
+# id = litbank-1130
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -404,7 +751,7 @@ double	O
 consciousness	O
 .	O
 
-# id = litbank-0921
+# id = litbank-1135
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -451,8 +798,8 @@ of	O
 mr.	B-CHARACTER
 waymarsh	I-CHARACTER
 of	O
-milrose	O
-connecticut	O
+milrose	B-LOCATION
+connecticut	B-LOCATION
 --	O
 mr.	B-CHARACTER
 waymarsh	I-CHARACTER
@@ -461,7 +808,37 @@ american	O
 lawyer	O
 .	O
 
-# id = litbank-0922
+# id = litbank-1136
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = he 's to meet me here , coming up from malvern , and i supposed he 'd already have arrived .
+he	O
+'s	O
+to	O
+meet	O
+me	O
+here	O
+,	O
+coming	O
+up	O
+from	O
+malvern	B-LOCATION
+,	O
+and	O
+i	O
+supposed	O
+he	O
+'d	O
+already	O
+have	O
+arrived	O
+.	O
+
+# id = litbank-1137
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -474,7 +851,55 @@ wound	O
 up	O
 .	O
 
-# id = litbank-0923
+# id = litbank-1138
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = " i 've met him at milrose -- where i used sometimes , a good while ago , to stay ; i had friends there who were friends of his , and i 've been at his house .
+"	O
+i	O
+'ve	O
+met	O
+him	O
+at	O
+milrose	B-LOCATION
+--	O
+where	O
+i	O
+used	O
+sometimes	O
+,	O
+a	O
+good	O
+while	O
+ago	O
+,	O
+to	O
+stay	O
+;	O
+i	O
+had	O
+friends	O
+there	O
+who	O
+were	O
+friends	O
+of	O
+his	O
+,	O
+and	O
+i	O
+'ve	O
+been	O
+at	O
+his	O
+house	O
+.	O
+
+# id = litbank-1139
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -512,7 +937,7 @@ see	O
 him	O
 .	O
 
-# id = litbank-0924
+# id = litbank-1140
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -546,7 +971,7 @@ be	O
 seen	O
 .	O
 
-# id = litbank-0925
+# id = litbank-1141
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -579,10 +1004,10 @@ seen	O
 her	O
 with	O
 at	O
-liverpool	O
+liverpool	B-LOCATION
 .	O
 
-# id = litbank-0926
+# id = litbank-1142
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -614,7 +1039,7 @@ a	O
 garden	O
 .	O
 
-# id = litbank-0927
+# id = litbank-1143
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -667,7 +1092,7 @@ of	O
 caution	O
 .	O
 
-# id = litbank-0928
+# id = litbank-1144
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -704,7 +1129,7 @@ glass	O
 cage	O
 .	O
 
-# id = litbank-0929
+# id = litbank-1145
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -782,7 +1207,7 @@ strether	B-CHARACTER
 appointment	O
 .	O
 
-# id = litbank-0930
+# id = litbank-1146
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -832,61 +1257,33 @@ and	O
 then	O
 .	O
 
-# id = litbank-0910
+# id = litbank-1147
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
 # chapter = unknown
-# sample_type = negative
+# sample_type = positive
 # source_file = entities/tsv/432_the_ambassadors_brat.tsv
-# text = a telegram from him bespeaking a room " only if not noisy , " reply paid , was produced for the enquirer at the office , so that the understanding they should meet at chester rather than at liverpool remained to that extent sound .
-a	O
-telegram	O
-from	O
-him	O
-bespeaking	O
-a	O
-room	O
-"	O
-only	O
-if	O
-not	O
-noisy	O
-,	O
-"	O
-reply	O
-paid	O
-,	O
+# text = he was about to go up to london , so that hat and necktie might wait .
+he	O
 was	O
-produced	O
-for	O
-the	O
-enquirer	O
-at	O
-the	O
-office	O
+about	O
+to	O
+go	O
+up	O
+to	O
+london	B-LOCATION
 ,	O
 so	O
 that	O
-the	O
-understanding	O
-they	O
-should	O
-meet	O
-at	O
-chester	O
-rather	O
-than	O
-at	O
-liverpool	O
-remained	O
-to	O
-that	O
-extent	O
-sound	O
+hat	O
+and	O
+necktie	O
+might	O
+wait	O
 .	O
 
-# id = litbank-0914
+# id = litbank-1125
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -966,49 +1363,7 @@ cool	O
 success	O
 .	O
 
-# id = litbank-0915
-# source = LitBank
-# book = The Ambassadors
-# book_id = 432_the_ambassadors
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/432_the_ambassadors_brat.tsv
-# text = they formed a qualified draught of europe , an afternoon and an evening on the banks of the mersey , but such as it was he took his potion at least undiluted .
-they	O
-formed	O
-a	O
-qualified	O
-draught	O
-of	O
-europe	O
-,	O
-an	O
-afternoon	O
-and	O
-an	O
-evening	O
-on	O
-the	O
-banks	O
-of	O
-the	O
-mersey	O
-,	O
-but	O
-such	O
-as	O
-it	O
-was	O
-he	O
-took	O
-his	O
-potion	O
-at	O
-least	O
-undiluted	O
-.	O
-
-# id = litbank-0919
+# id = litbank-1131
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -1029,7 +1384,7 @@ his	O
 indifference	O
 .	O
 
-# id = litbank-0920
+# id = litbank-1132
 # source = LitBank
 # book = The Ambassadors
 # book_id = 432_the_ambassadors
@@ -1086,5 +1441,87 @@ own	O
 ship	O
 's	O
 company	O
+.	O
+
+# id = litbank-1133
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = nothing had actually passed between them , and he would as little have been able to say what had been the sign of her face for him on the first occasion as to name the ground of his present recognition .
+nothing	O
+had	O
+actually	O
+passed	O
+between	O
+them	O
+,	O
+and	O
+he	O
+would	O
+as	O
+little	O
+have	O
+been	O
+able	O
+to	O
+say	O
+what	O
+had	O
+been	O
+the	O
+sign	O
+of	O
+her	O
+face	O
+for	O
+him	O
+on	O
+the	O
+first	O
+occasion	O
+as	O
+to	O
+name	O
+the	O
+ground	O
+of	O
+his	O
+present	O
+recognition	O
+.	O
+
+# id = litbank-1134
+# source = LitBank
+# book = The Ambassadors
+# book_id = 432_the_ambassadors
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/432_the_ambassadors_brat.tsv
+# text = recognition at any rate appeared to prevail on her own side as well -- which would only have added to the mystery .
+recognition	O
+at	O
+any	O
+rate	O
+appeared	O
+to	O
+prevail	O
+on	O
+her	O
+own	O
+side	O
+as	O
+well	O
+--	O
+which	O
+would	O
+only	O
+have	O
+added	O
+to	O
+the	O
+mystery	O
 .	O
 

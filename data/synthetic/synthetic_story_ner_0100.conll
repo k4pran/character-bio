@@ -1,0 +1,1309 @@
+# id = synthetic-story-ner-0001
+# source = synthetic_titled_characters
+# text = alaric the pale entered the room before the pale light faded
+
+alaric	B-CHARACTER
+the	I-CHARACTER
+pale	I-CHARACTER
+entered	O
+the	O
+room	O
+before	O
+the	O
+pale	O
+light	O
+faded	O
+
+# id = synthetic-story-ner-0002
+# source = synthetic_titled_characters
+# text = the pale man bowed but alaric the pale did not answer
+
+the	O
+pale	O
+man	O
+bowed	O
+but	O
+alaric	B-CHARACTER
+the	I-CHARACTER
+pale	I-CHARACTER
+did	O
+not	O
+answer	O
+
+# id = synthetic-story-ner-0003
+# source = synthetic_titled_characters
+# text = mira of ash crossed the ash covered yard without looking back
+
+mira	B-CHARACTER
+of	I-CHARACTER
+ash	I-CHARACTER
+crossed	O
+the	O
+ash	O
+covered	O
+yard	O
+without	O
+looking	O
+back	O
+
+# id = synthetic-story-ner-0004
+# source = synthetic_titled_characters
+# text = old ash fell from the roof while mira of ash watched
+
+old	O
+ash	O
+fell	O
+from	O
+the	O
+roof	O
+while	O
+mira	B-CHARACTER
+of	I-CHARACTER
+ash	I-CHARACTER
+watched	O
+
+# id = synthetic-story-ner-0005
+# source = synthetic_titled_characters
+# text = captain voss ordered the captain to seal the gate
+
+captain	B-CHARACTER
+voss	I-CHARACTER
+ordered	O
+the	O
+captain	O
+to	O
+seal	O
+the	O
+gate	O
+
+# id = synthetic-story-ner-0006
+# source = synthetic_titled_characters
+# text = the captain hesitated until captain voss raised his hand
+
+the	O
+captain	O
+hesitated	O
+until	O
+captain	B-CHARACTER
+voss	I-CHARACTER
+raised	O
+his	O
+hand	O
+
+# id = synthetic-story-ner-0007
+# source = synthetic_titled_characters
+# text = lady ren heard the lady behind her laugh
+
+lady	B-CHARACTER
+ren	I-CHARACTER
+heard	O
+the	O
+lady	O
+behind	O
+her	O
+laugh	O
+
+# id = synthetic-story-ner-0008
+# source = synthetic_titled_characters
+# text = ren hid her knife when lady ren entered the hall
+
+ren	B-CHARACTER
+hid	O
+her	O
+knife	O
+when	O
+lady	B-CHARACTER
+ren	I-CHARACTER
+entered	O
+the	O
+hall	O
+
+# id = synthetic-story-ner-0009
+# source = synthetic_titled_characters
+# text = brother caldus prayed beside his brother in silence
+
+brother	B-CHARACTER
+caldus	I-CHARACTER
+prayed	O
+beside	O
+his	O
+brother	O
+in	O
+silence	O
+
+# id = synthetic-story-ner-0010
+# source = synthetic_titled_characters
+# text = the brother was older but brother caldus was crueler
+
+the	O
+brother	O
+was	O
+older	O
+but	O
+brother	B-CHARACTER
+caldus	I-CHARACTER
+was	O
+crueler	O
+
+# id = synthetic-story-ner-0011
+# source = synthetic_titled_characters
+# text = queen isolde left the queen stone on the table
+
+queen	B-CHARACTER
+isolde	I-CHARACTER
+left	O
+the	O
+queen	O
+stone	O
+on	O
+the	O
+table	O
+
+# id = synthetic-story-ner-0012
+# source = synthetic_titled_characters
+# text = isilde the red stared at the red banner
+
+isilde	B-CHARACTER
+the	I-CHARACTER
+red	I-CHARACTER
+stared	O
+at	O
+the	O
+red	O
+banner	O
+
+# id = synthetic-story-ner-0013
+# source = synthetic_titled_characters
+# text = the red banner fell as isilde the red rode past
+
+the	O
+red	O
+banner	O
+fell	O
+as	O
+isilde	B-CHARACTER
+the	I-CHARACTER
+red	I-CHARACTER
+rode	O
+past	O
+
+# id = synthetic-story-ner-0014
+# source = synthetic_titled_characters
+# text = warden pell guarded the warden door alone
+
+warden	B-CHARACTER
+pell	I-CHARACTER
+guarded	O
+the	O
+warden	O
+door	O
+alone	O
+
+# id = synthetic-story-ner-0015
+# source = synthetic_titled_characters
+# text = a silent warden watched warden pell unlock the cell
+
+a	O
+silent	O
+warden	O
+watched	O
+warden	B-CHARACTER
+pell	I-CHARACTER
+unlock	O
+the	O
+cell	O
+
+# id = synthetic-story-ner-0016
+# source = synthetic_titled_characters
+# text = saint oria was no saint when the candles went out
+
+saint	B-CHARACTER
+oria	I-CHARACTER
+was	O
+no	O
+saint	O
+when	O
+the	O
+candles	O
+went	O
+out	O
+
+# id = synthetic-story-ner-0017
+# source = synthetic_titled_characters
+# text = the saint statue cracked but saint oria smiled
+
+the	O
+saint	O
+statue	O
+cracked	O
+but	O
+saint	B-CHARACTER
+oria	I-CHARACTER
+smiled	O
+
+# id = synthetic-story-ner-0018
+# source = synthetic_titled_characters
+# text = thane mor sent three men to find mor
+
+thane	B-CHARACTER
+mor	I-CHARACTER
+sent	O
+three	O
+men	O
+to	O
+find	O
+mor	B-CHARACTER
+
+# id = synthetic-story-ner-0019
+# source = synthetic_titled_characters
+# text = young mor denied knowing thane mor at all
+
+young	O
+mor	B-CHARACTER
+denied	O
+knowing	O
+thane	B-CHARACTER
+mor	I-CHARACTER
+at	O
+all	O
+
+# id = synthetic-story-ner-0020
+# source = synthetic_titled_characters
+# text = black rain fell as black renna opened the stable
+
+black	O
+rain	O
+fell	O
+as	O
+black	B-CHARACTER
+renna	I-CHARACTER
+opened	O
+the	O
+stable	O
+
+# id = synthetic-story-ner-0021
+# source = synthetic_locations
+# text = roos left whitebridge before the bells rang
+
+roos	B-CHARACTER
+left	O
+whitebridge	B-LOCATION
+before	O
+the	O
+bells	O
+rang	O
+
+# id = synthetic-story-ner-0022
+# source = synthetic_locations
+# text = the white bridge was broken but whitebridge still stood
+
+the	O
+white	O
+bridge	O
+was	O
+broken	O
+but	O
+whitebridge	B-LOCATION
+still	O
+stood	O
+
+# id = synthetic-story-ner-0023
+# source = synthetic_locations
+# text = andrews remembered the summer markets of fall reach
+
+andrews	B-CHARACTER
+remembered	O
+the	O
+summer	O
+markets	O
+of	O
+fall	B-LOCATION
+reach	I-LOCATION
+
+# id = synthetic-story-ner-0024
+# source = synthetic_locations
+# text = leaves fall near the reach but fall reach never sleeps
+
+leaves	O
+fall	O
+near	O
+the	O
+reach	O
+but	O
+fall	B-LOCATION
+reach	I-LOCATION
+never	O
+sleeps	O
+
+# id = synthetic-story-ner-0025
+# source = synthetic_locations
+# text = mira found shelter in the glass city
+
+mira	B-CHARACTER
+found	O
+shelter	O
+in	O
+the	B-LOCATION
+glass	I-LOCATION
+city	I-LOCATION
+
+# id = synthetic-story-ner-0026
+# source = synthetic_locations
+# text = the glass on the floor cut his boots inside the glass city
+
+the	O
+glass	O
+on	O
+the	O
+floor	O
+cut	O
+his	O
+boots	O
+inside	O
+the	B-LOCATION
+glass	I-LOCATION
+city	I-LOCATION
+
+# id = synthetic-story-ner-0027
+# source = synthetic_locations
+# text = alaric was born under the walls of north barrow
+
+alaric	B-CHARACTER
+was	O
+born	O
+under	O
+the	O
+walls	O
+of	O
+north	B-LOCATION
+barrow	I-LOCATION
+
+# id = synthetic-story-ner-0028
+# source = synthetic_locations
+# text = north winds carried smoke toward north barrow
+
+north	O
+winds	O
+carried	O
+smoke	O
+toward	O
+north	B-LOCATION
+barrow	I-LOCATION
+
+# id = synthetic-story-ner-0029
+# source = synthetic_locations
+# text = captain voss sent scouts toward redwater
+
+captain	B-CHARACTER
+voss	I-CHARACTER
+sent	O
+scouts	O
+toward	O
+redwater	B-LOCATION
+
+# id = synthetic-story-ner-0030
+# source = synthetic_locations
+# text = the water turned red downstream from redwater
+
+the	O
+water	O
+turned	O
+red	O
+downstream	O
+from	O
+redwater	B-LOCATION
+
+# id = synthetic-story-ner-0031
+# source = synthetic_locations
+# text = lady ren feared the old roads beneath karth
+
+lady	B-CHARACTER
+ren	I-CHARACTER
+feared	O
+the	O
+old	O
+roads	O
+beneath	O
+karth	B-LOCATION
+
+# id = synthetic-story-ner-0032
+# source = synthetic_locations
+# text = old karth was quiet except for the market bells
+
+old	O
+karth	B-LOCATION
+was	O
+quiet	O
+except	O
+for	O
+the	O
+market	O
+bells	O
+
+# id = synthetic-story-ner-0033
+# source = synthetic_locations
+# text = brother caldus crossed the salt plain at dawn
+
+brother	B-CHARACTER
+caldus	I-CHARACTER
+crossed	O
+the	O
+salt	B-LOCATION
+plain	I-LOCATION
+at	O
+dawn	O
+
+# id = synthetic-story-ner-0034
+# source = synthetic_locations
+# text = salt stung his eyes on the salt plain
+
+salt	O
+stung	O
+his	O
+eyes	O
+on	O
+the	O
+salt	B-LOCATION
+plain	I-LOCATION
+
+# id = synthetic-story-ner-0035
+# source = synthetic_locations
+# text = queen isolde sent her envoys to crown harbor
+
+queen	B-CHARACTER
+isolde	I-CHARACTER
+sent	O
+her	O
+envoys	O
+to	O
+crown	B-LOCATION
+harbor	I-LOCATION
+
+# id = synthetic-story-ner-0036
+# source = synthetic_locations
+# text = a rusted crown hung above the gate of crown harbor
+
+a	O
+rusted	O
+crown	O
+hung	O
+above	O
+the	O
+gate	O
+of	O
+crown	B-LOCATION
+harbor	I-LOCATION
+
+# id = synthetic-story-ner-0037
+# source = synthetic_locations
+# text = warden pell kept the keys to greyspire
+
+warden	B-CHARACTER
+pell	I-CHARACTER
+kept	O
+the	O
+keys	O
+to	O
+greyspire	B-LOCATION
+
+# id = synthetic-story-ner-0038
+# source = synthetic_locations
+# text = the grey spire rose behind greyspire
+
+the	O
+grey	O
+spire	O
+rose	O
+behind	O
+greyspire	B-LOCATION
+
+# id = synthetic-story-ner-0039
+# source = synthetic_locations
+# text = saint oria vanished near moon gate
+
+saint	B-CHARACTER
+oria	I-CHARACTER
+vanished	O
+near	O
+moon	B-LOCATION
+gate	I-LOCATION
+
+# id = synthetic-story-ner-0040
+# source = synthetic_locations
+# text = the moon was hidden when moon gate opened
+
+the	O
+moon	O
+was	O
+hidden	O
+when	O
+moon	B-LOCATION
+gate	I-LOCATION
+opened	O
+
+# id = synthetic-story-ner-0041
+# source = synthetic_quotes
+# text = roos said we leave before sunrise
+
+roos	B-CHARACTER
+said	O
+we	B-QUOTE
+leave	I-QUOTE
+before	I-QUOTE
+sunrise	I-QUOTE
+
+# id = synthetic-story-ner-0042
+# source = synthetic_quotes
+# text = we leave before sunrise said roos
+
+we	B-QUOTE
+leave	I-QUOTE
+before	I-QUOTE
+sunrise	I-QUOTE
+said	O
+roos	B-CHARACTER
+
+# id = synthetic-story-ner-0043
+# source = synthetic_quotes
+# text = andrews whispered do not trust the captain
+
+andrews	B-CHARACTER
+whispered	O
+do	B-QUOTE
+not	I-QUOTE
+trust	I-QUOTE
+the	I-QUOTE
+captain	I-QUOTE
+
+# id = synthetic-story-ner-0044
+# source = synthetic_quotes
+# text = do not trust him andrews muttered
+
+do	B-QUOTE
+not	I-QUOTE
+trust	I-QUOTE
+him	I-QUOTE
+andrews	B-CHARACTER
+muttered	O
+
+# id = synthetic-story-ner-0045
+# source = synthetic_quotes
+# text = mira asked where is the glass city
+
+mira	B-CHARACTER
+asked	O
+where	B-QUOTE
+is	I-QUOTE
+the	I-QUOTE
+glass	I-QUOTE
+city	I-QUOTE
+
+# id = synthetic-story-ner-0046
+# source = synthetic_quotes
+# text = where is the glass city asked mira
+
+where	B-QUOTE
+is	I-QUOTE
+the	I-QUOTE
+glass	I-QUOTE
+city	I-QUOTE
+asked	O
+mira	B-CHARACTER
+
+# id = synthetic-story-ner-0047
+# source = synthetic_quotes
+# text = captain voss shouted hold the line
+
+captain	B-CHARACTER
+voss	I-CHARACTER
+shouted	O
+hold	B-QUOTE
+the	I-QUOTE
+line	I-QUOTE
+
+# id = synthetic-story-ner-0048
+# source = synthetic_quotes
+# text = hold the line voss shouted again
+
+hold	B-QUOTE
+the	I-QUOTE
+line	I-QUOTE
+voss	B-CHARACTER
+shouted	O
+again	O
+
+# id = synthetic-story-ner-0049
+# source = synthetic_quotes
+# text = lady ren said i know who betrayed us
+
+lady	B-CHARACTER
+ren	I-CHARACTER
+said	O
+i	B-QUOTE
+know	I-QUOTE
+who	I-QUOTE
+betrayed	I-QUOTE
+us	I-QUOTE
+
+# id = synthetic-story-ner-0050
+# source = synthetic_quotes
+# text = i know the way said lady ren
+
+i	B-QUOTE
+know	I-QUOTE
+the	I-QUOTE
+way	I-QUOTE
+said	O
+lady	B-CHARACTER
+ren	I-CHARACTER
+
+# id = synthetic-story-ner-0051
+# source = synthetic_quotes
+# text = brother caldus replied mercy is not ours to give
+
+brother	B-CHARACTER
+caldus	I-CHARACTER
+replied	O
+mercy	B-QUOTE
+is	I-QUOTE
+not	I-QUOTE
+ours	I-QUOTE
+to	I-QUOTE
+give	I-QUOTE
+
+# id = synthetic-story-ner-0052
+# source = synthetic_quotes
+# text = mercy is a door caldus said
+
+mercy	B-QUOTE
+is	I-QUOTE
+a	I-QUOTE
+door	I-QUOTE
+caldus	B-CHARACTER
+said	O
+
+# id = synthetic-story-ner-0053
+# source = synthetic_quotes
+# text = queen isold said bring me the map
+
+queen	B-CHARACTER
+isold	I-CHARACTER
+said	O
+bring	B-QUOTE
+me	I-QUOTE
+the	I-QUOTE
+map	I-QUOTE
+
+# id = synthetic-story-ner-0054
+# source = synthetic_quotes
+# text = bring me the crown queen isold said
+
+bring	B-QUOTE
+me	I-QUOTE
+the	I-QUOTE
+crown	I-QUOTE
+queen	B-CHARACTER
+isold	I-CHARACTER
+said	O
+
+# id = synthetic-story-ner-0055
+# source = synthetic_quotes
+# text = warden pell growled no one leaves greyspire
+
+warden	B-CHARACTER
+pell	I-CHARACTER
+growled	O
+no	B-QUOTE
+one	I-QUOTE
+leaves	I-QUOTE
+greyspire	I-QUOTE
+
+# id = synthetic-story-ner-0056
+# source = synthetic_quotes
+# text = no one leaves pell growled
+
+no	B-QUOTE
+one	I-QUOTE
+leaves	I-QUOTE
+pell	B-CHARACTER
+growled	O
+
+# id = synthetic-story-ner-0057
+# source = synthetic_quotes
+# text = saint oria said the gate remembers blood
+
+saint	B-CHARACTER
+oria	I-CHARACTER
+said	O
+the	B-QUOTE
+gate	I-QUOTE
+remembers	I-QUOTE
+blood	I-QUOTE
+
+# id = synthetic-story-ner-0058
+# source = synthetic_quotes
+# text = the gate remembers blood oria said softly
+
+the	B-QUOTE
+gate	I-QUOTE
+remembers	I-QUOTE
+blood	I-QUOTE
+oria	B-CHARACTER
+said	O
+softly	O
+
+# id = synthetic-story-ner-0059
+# source = synthetic_quotes
+# text = black renna laughed you are already lost
+
+black	B-CHARACTER
+renna	I-CHARACTER
+laughed	O
+you	B-QUOTE
+are	I-QUOTE
+already	I-QUOTE
+lost	I-QUOTE
+
+# id = synthetic-story-ner-0060
+# source = synthetic_quotes
+# text = you are late renna said
+
+you	B-QUOTE
+are	I-QUOTE
+late	I-QUOTE
+renna	B-CHARACTER
+said	O
+
+# id = synthetic-story-ner-0061
+# source = synthetic_noisy_stt
+# text = his ego was so bright it shone from him while roos watched
+
+his	O
+ego	O
+was	O
+so	O
+bright	O
+it	O
+shone	O
+from	O
+him	O
+while	O
+roos	B-CHARACTER
+watched	O
+
+# id = synthetic-story-ner-0062
+# source = synthetic_noisy_stt
+# text = his ego was so bright it sean from him like a lantern
+
+his	O
+ego	O
+was	O
+so	O
+bright	O
+it	O
+sean	O
+from	O
+him	O
+like	O
+a	O
+lantern	O
+
+# id = synthetic-story-ner-0063
+# source = synthetic_noisy_stt
+# text = ne would have thought andrews knew better
+
+ne	O
+would	O
+have	O
+thought	O
+andrews	B-CHARACTER
+knew	O
+better	O
+
+# id = synthetic-story-ner-0064
+# source = synthetic_noisy_stt
+# text = he and ne were nothing but broken words
+
+he	O
+and	O
+ne	O
+were	O
+nothing	O
+but	O
+broken	O
+words	O
+
+# id = synthetic-story-ner-0065
+# source = synthetic_noisy_stt
+# text = the pale light was gone when alaric the pale returned
+
+the	O
+pale	O
+light	O
+was	O
+gone	O
+when	O
+alaric	B-CHARACTER
+the	I-CHARACTER
+pale	I-CHARACTER
+returned	O
+
+# id = synthetic-story-ner-0066
+# source = synthetic_noisy_stt
+# text = the red one was not isilde the red but a banner
+
+the	O
+red	O
+one	O
+was	O
+not	O
+isilde	B-CHARACTER
+the	I-CHARACTER
+red	I-CHARACTER
+but	O
+a	O
+banner	O
+
+# id = synthetic-story-ner-0067
+# source = synthetic_noisy_stt
+# text = near fall reach andrews heard someone say run
+
+near	O
+fall	B-LOCATION
+reach	I-LOCATION
+andrews	B-CHARACTER
+heard	O
+someone	O
+say	O
+run	B-QUOTE
+
+# id = synthetic-story-ner-0068
+# source = synthetic_noisy_stt
+# text = the men heard fall reach for the rope but no one moved
+
+the	O
+men	O
+heard	O
+fall	O
+reach	O
+for	O
+the	O
+rope	O
+but	O
+no	O
+one	O
+moved	O
+
+# id = synthetic-story-ner-0069
+# source = synthetic_noisy_stt
+# text = mira said come with me to whitebridge
+
+mira	B-CHARACTER
+said	O
+come	B-QUOTE
+with	I-QUOTE
+me	I-QUOTE
+to	I-QUOTE
+whitebridge	I-QUOTE
+
+# id = synthetic-story-ner-0070
+# source = synthetic_noisy_stt
+# text = come with the bridge crew and fix the white bridge
+
+come	O
+with	O
+the	O
+bridge	O
+crew	O
+and	O
+fix	O
+the	O
+white	O
+bridge	O
+
+# id = synthetic-story-ner-0071
+# source = synthetic_noisy_stt
+# text = queen isolde heard a queen bee strike the window
+
+queen	B-CHARACTER
+isolde	I-CHARACTER
+heard	O
+a	O
+queen	O
+bee	O
+strike	O
+the	O
+window	O
+
+# id = synthetic-story-ner-0072
+# source = synthetic_noisy_stt
+# text = a queen bee circled isold until ren laughed
+
+a	O
+queen	O
+bee	O
+circled	O
+isold	B-CHARACTER
+until	O
+ren	B-CHARACTER
+laughed	O
+
+# id = synthetic-story-ner-0073
+# source = synthetic_noisy_stt
+# text = the captain said captain voss is dead
+
+the	O
+captain	O
+said	O
+captain	B-CHARACTER
+voss	I-CHARACTER
+is	O
+dead	O
+
+# id = synthetic-story-ner-0074
+# source = synthetic_noisy_stt
+# text = captain of the guard was a title not a name
+
+captain	O
+of	O
+the	O
+guard	O
+was	O
+a	O
+title	O
+not	O
+a	O
+name	O
+
+# id = synthetic-story-ner-0075
+# source = synthetic_noisy_stt
+# text = saint oria passed the saint road after midnight
+
+saint	B-CHARACTER
+oria	I-CHARACTER
+passed	O
+the	O
+saint	O
+road	O
+after	O
+midnight	O
+
+# id = synthetic-story-ner-0076
+# source = synthetic_noisy_stt
+# text = the saint road was empty and cold
+
+the	O
+saint	O
+road	O
+was	O
+empty	O
+and	O
+cold	O
+
+# id = synthetic-story-ner-0077
+# source = synthetic_noisy_stt
+# text = ren ran from redwater after someone called her name
+
+ren	B-CHARACTER
+ran	O
+from	O
+redwater	B-LOCATION
+after	O
+someone	O
+called	O
+her	O
+name	O
+
+# id = synthetic-story-ner-0078
+# source = synthetic_noisy_stt
+# text = the red water ran through the ditch
+
+the	O
+red	O
+water	O
+ran	O
+through	O
+the	O
+ditch	O
+
+# id = synthetic-story-ner-0079
+# source = synthetic_noisy_stt
+# text = morr said i am not mor
+
+morr	B-CHARACTER
+said	O
+i	B-QUOTE
+am	I-QUOTE
+not	I-QUOTE
+mor	I-QUOTE
+
+# id = synthetic-story-ner-0080
+# source = synthetic_noisy_stt
+# text = more men came but mor did not turn
+
+more	O
+men	O
+came	O
+but	O
+mor	B-CHARACTER
+did	O
+not	O
+turn	O
+
+# id = synthetic-story-ner-0081
+# source = synthetic_mixed_story
+# text = roos met andrews outside crown harbor
+
+roos	B-CHARACTER
+met	O
+andrews	B-CHARACTER
+outside	O
+crown	B-LOCATION
+harbor	I-LOCATION
+
+# id = synthetic-story-ner-0082
+# source = synthetic_mixed_story
+# text = outside the harbor roos said andrews knows the truth
+
+outside	O
+the	O
+harbor	O
+roos	B-CHARACTER
+said	O
+andrews	B-QUOTE
+knows	I-QUOTE
+the	I-QUOTE
+truth	I-QUOTE
+
+# id = synthetic-story-ner-0083
+# source = synthetic_mixed_story
+# text = andrews answered roos knows nothing
+
+andrews	B-CHARACTER
+answered	O
+roos	B-QUOTE
+knows	I-QUOTE
+nothing	I-QUOTE
+
+# id = synthetic-story-ner-0084
+# source = synthetic_mixed_story
+# text = mira of ash guided lady ren through old karth
+
+mira	B-CHARACTER
+of	I-CHARACTER
+ash	I-CHARACTER
+guided	O
+lady	B-CHARACTER
+ren	I-CHARACTER
+through	O
+old	B-LOCATION
+karth	I-LOCATION
+
+# id = synthetic-story-ner-0085
+# source = synthetic_mixed_story
+# text = old karth changed after ren burned the ledger
+
+old	O
+karth	B-LOCATION
+changed	O
+after	O
+ren	B-CHARACTER
+burned	O
+the	O
+ledger	O
+
+# id = synthetic-story-ner-0086
+# source = synthetic_mixed_story
+# text = lady ren said mira saved my life
+
+lady	B-CHARACTER
+ren	I-CHARACTER
+said	O
+mira	B-QUOTE
+saved	I-QUOTE
+my	I-QUOTE
+life	I-QUOTE
+
+# id = synthetic-story-ner-0087
+# source = synthetic_mixed_story
+# text = captain voss waited at moon gate for black renna
+
+captain	B-CHARACTER
+voss	I-CHARACTER
+waited	O
+at	O
+moon	B-LOCATION
+gate	I-LOCATION
+for	O
+black	B-CHARACTER
+renna	I-CHARACTER
+
+# id = synthetic-story-ner-0088
+# source = synthetic_mixed_story
+# text = black renna said moon gate opens only once
+
+black	B-CHARACTER
+renna	I-CHARACTER
+said	O
+moon	B-QUOTE
+gate	I-QUOTE
+opens	I-QUOTE
+only	I-QUOTE
+once	I-QUOTE
+
+# id = synthetic-story-ner-0089
+# source = synthetic_mixed_story
+# text = voss did not believe renna until the gate opened
+
+voss	B-CHARACTER
+did	O
+not	O
+believe	O
+renna	B-CHARACTER
+until	O
+the	O
+gate	O
+opened	O
+
+# id = synthetic-story-ner-0090
+# source = synthetic_mixed_story
+# text = brother caldus and saint oria argued on the salt plain
+
+brother	B-CHARACTER
+caldus	I-CHARACTER
+and	O
+saint	B-CHARACTER
+oria	I-CHARACTER
+argued	O
+on	O
+the	O
+salt	B-LOCATION
+plain	I-LOCATION
+
+# id = synthetic-story-ner-0091
+# source = synthetic_mixed_story
+# text = oria said caldus will betray us
+
+oria	B-CHARACTER
+said	O
+caldus	B-QUOTE
+will	I-QUOTE
+betray	I-QUOTE
+us	I-QUOTE
+
+# id = synthetic-story-ner-0092
+# source = synthetic_mixed_story
+# text = caldus said oria has seen too much
+
+caldus	B-CHARACTER
+said	O
+oria	B-QUOTE
+has	I-QUOTE
+seen	I-QUOTE
+too	I-QUOTE
+much	I-QUOTE
+
+# id = synthetic-story-ner-0093
+# source = synthetic_mixed_story
+# text = queen isolde sent warden pell to greyspire
+
+queen	B-CHARACTER
+isolde	I-CHARACTER
+sent	O
+warden	B-CHARACTER
+pell	I-CHARACTER
+to	O
+greyspire	B-LOCATION
+
+# id = synthetic-story-ner-0094
+# source = synthetic_mixed_story
+# text = pell said greyspire belongs to the queen
+
+pell	B-CHARACTER
+said	O
+greyspire	B-QUOTE
+belongs	I-QUOTE
+to	I-QUOTE
+the	I-QUOTE
+queen	I-QUOTE
+
+# id = synthetic-story-ner-0095
+# source = synthetic_mixed_story
+# text = the queen waited but queen isolde never forgave pell
+
+the	O
+queen	O
+waited	O
+but	O
+queen	B-CHARACTER
+isolde	I-CHARACTER
+never	O
+forgave	O
+pell	B-CHARACTER
+
+# id = synthetic-story-ner-0096
+# source = synthetic_mixed_story
+# text = alaric the pale followed thane mor to north barrow
+
+alaric	B-CHARACTER
+the	I-CHARACTER
+pale	I-CHARACTER
+followed	O
+thane	B-CHARACTER
+mor	I-CHARACTER
+to	O
+north	B-LOCATION
+barrow	I-LOCATION
+
+# id = synthetic-story-ner-0097
+# source = synthetic_mixed_story
+# text = thane mor warned alaric the pale will die here
+
+thane	B-CHARACTER
+mor	I-CHARACTER
+warned	O
+alaric	B-QUOTE
+the	I-QUOTE
+pale	I-QUOTE
+will	I-QUOTE
+die	I-QUOTE
+here	I-QUOTE
+
+# id = synthetic-story-ner-0098
+# source = synthetic_mixed_story
+# text = alaric said mor fears the barrow
+
+alaric	B-CHARACTER
+said	O
+mor	B-QUOTE
+fears	I-QUOTE
+the	I-QUOTE
+barrow	I-QUOTE
+
+# id = synthetic-story-ner-0099
+# source = synthetic_mixed_story
+# text = mira and roos returned from whitebridge with no horses
+
+mira	B-CHARACTER
+and	O
+roos	B-CHARACTER
+returned	O
+from	O
+whitebridge	B-LOCATION
+with	O
+no	O
+horses	O
+
+# id = synthetic-story-ner-0100
+# source = synthetic_mixed_story
+# text = roos said whitebridge is lost and andrews knows why
+
+roos	B-CHARACTER
+said	O
+whitebridge	B-QUOTE
+is	I-QUOTE
+lost	I-QUOTE
+and	I-QUOTE
+andrews	I-QUOTE
+knows	I-QUOTE
+why	I-QUOTE

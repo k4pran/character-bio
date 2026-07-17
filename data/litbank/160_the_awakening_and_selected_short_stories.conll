@@ -1,4 +1,4 @@
-# id = litbank-0598
+# id = litbank-0705
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -31,7 +31,38 @@ of	O
 disgust	O
 .	O
 
-# id = litbank-0601
+# id = litbank-0706
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = he walked down the gallery and across the narrow “ bridges ” which connected the lebrun cottages one with the other .
+he	O
+walked	O
+down	O
+the	O
+gallery	O
+and	O
+across	O
+the	O
+narrow	O
+“	O
+bridges	O
+”	O
+which	O
+connected	O
+the	O
+lebrun	B-LOCATION
+cottages	O
+one	O
+with	O
+the	O
+other	O
+.	O
+
+# id = litbank-0708
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -65,7 +96,7 @@ they	O
 wished	O
 .	O
 
-# id = litbank-0602
+# id = litbank-0709
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -90,7 +121,71 @@ be	O
 entertaining	O
 .	O
 
-# id = litbank-0604
+# id = litbank-0712
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = the sunday papers had not yet reached grand isle .
+the	O
+sunday	O
+papers	O
+had	O
+not	O
+yet	O
+reached	O
+grand	B-LOCATION
+isle	I-LOCATION
+.	O
+
+# id = litbank-0713
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = he was already acquainted with the market reports , and he glanced restlessly over the editorials and bits of news which he had not had time to read before quitting new orleans the day before .
+he	O
+was	O
+already	O
+acquainted	O
+with	O
+the	O
+market	O
+reports	O
+,	O
+and	O
+he	O
+glanced	O
+restlessly	O
+over	O
+the	O
+editorials	O
+and	O
+bits	O
+of	O
+news	O
+which	O
+he	O
+had	O
+not	O
+had	O
+time	O
+to	O
+read	O
+before	O
+quitting	O
+new	B-LOCATION
+orleans	I-LOCATION
+the	O
+day	O
+before	O
+.	O
+
+# id = litbank-0714
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -104,7 +199,7 @@ wore	O
 eye-glasses	O
 .	O
 
-# id = litbank-0605
+# id = litbank-0715
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -133,7 +228,7 @@ the	O
 piano	O
 .	O
 
-# id = litbank-0606
+# id = litbank-0716
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -182,7 +277,38 @@ got	O
 outside	O
 .	O
 
-# id = litbank-0607
+# id = litbank-0717
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = a good many persons of the pension had gone over to the cheniere caminada in beaudelet 's lugger to hear mass .
+a	O
+good	O
+many	O
+persons	O
+of	O
+the	O
+pension	O
+had	O
+gone	O
+over	O
+to	O
+the	O
+cheniere	B-LOCATION
+caminada	I-LOCATION
+in	O
+beaudelet	O
+'s	O
+lugger	O
+to	O
+hear	O
+mass	O
+.	O
+
+# id = litbank-0718
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -207,7 +333,7 @@ and	O
 five	O
 .	O
 
-# id = litbank-0608
+# id = litbank-0719
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -236,7 +362,7 @@ his	O
 hand	O
 .	O
 
-# id = litbank-0609
+# id = litbank-0720
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -261,7 +387,7 @@ robert	B-CHARACTER
 lebrun	I-CHARACTER
 .	O
 
-# id = litbank-0610
+# id = litbank-0721
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -274,7 +400,7 @@ mr.	B-CHARACTER
 pontellier	I-CHARACTER
 .	O
 
-# id = litbank-0611
+# id = litbank-0722
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -305,7 +431,7 @@ to	O
 laugh	O
 .	O
 
-# id = litbank-0612
+# id = litbank-0723
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -327,7 +453,7 @@ the	O
 other	O
 .	O
 
-# id = litbank-0613
+# id = litbank-0724
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -346,7 +472,7 @@ mr.	B-CHARACTER
 pontellier	I-CHARACTER
 .	O
 
-# id = litbank-0614
+# id = litbank-0725
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -380,7 +506,7 @@ of	O
 billiards	O
 .	O
 
-# id = litbank-0615
+# id = litbank-0726
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -402,7 +528,7 @@ to	O
 robert	B-CHARACTER
 .	O
 
-# id = litbank-0616
+# id = litbank-0727
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -430,7 +556,7 @@ mrs.	B-CHARACTER
 pontellier	I-CHARACTER
 .	O
 
-# id = litbank-0617
+# id = litbank-0728
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -464,7 +590,7 @@ to	O
 leave	O
 .	O
 
-# id = litbank-0618
+# id = litbank-0729
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -495,7 +621,7 @@ game	O
 .	O
 ”	O
 
-# id = litbank-0619
+# id = litbank-0730
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -527,7 +653,7 @@ her	O
 hair	O
 .	O
 
-# id = litbank-0620
+# id = litbank-0731
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -541,7 +667,7 @@ a	O
 cigarette	O
 .	O
 
-# id = litbank-0621
+# id = litbank-0732
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -575,7 +701,7 @@ after-dinner	O
 smoke	O
 .	O
 
-# id = litbank-0622
+# id = litbank-0733
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -615,7 +741,7 @@ his	O
 cigarette	O
 .	O
 
-# id = litbank-0623
+# id = litbank-0734
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -663,7 +789,7 @@ had	O
 gone	O
 to	O
 the	O
-cheniere	O
+cheniere	B-LOCATION
 ;	O
 about	O
 the	O
@@ -695,7 +821,7 @@ peasant	O
 .	O
 ”	O
 
-# id = litbank-0624
+# id = litbank-0735
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -712,7 +838,7 @@ about	O
 himself	O
 .	O
 
-# id = litbank-0625
+# id = litbank-0736
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -733,7 +859,7 @@ same	O
 reason	O
 .	O
 
-# id = litbank-0626
+# id = litbank-0737
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -749,7 +875,7 @@ intention	O
 to	O
 go	O
 to	O
-mexico	O
+mexico	B-LOCATION
 in	O
 the	O
 autumn	O
@@ -760,7 +886,106 @@ awaited	O
 him	O
 .	O
 
-# id = litbank-0627
+# id = litbank-0738
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = he was always intending to go to mexico , but some way never got there .
+he	O
+was	O
+always	O
+intending	O
+to	O
+go	O
+to	O
+mexico	B-LOCATION
+,	O
+but	O
+some	O
+way	O
+never	O
+got	O
+there	O
+.	O
+
+# id = litbank-0739
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = meanwhile he held on to his modest position in a mercantile house in new orleans , where an equal familiarity with english , french and spanish gave him no small value as a clerk and correspondent .
+meanwhile	O
+he	O
+held	O
+on	O
+to	O
+his	O
+modest	O
+position	O
+in	O
+a	O
+mercantile	O
+house	O
+in	O
+new	B-LOCATION
+orleans	I-LOCATION
+,	O
+where	O
+an	O
+equal	O
+familiarity	O
+with	O
+english	O
+,	O
+french	O
+and	O
+spanish	O
+gave	O
+him	O
+no	O
+small	O
+value	O
+as	O
+a	O
+clerk	O
+and	O
+correspondent	O
+.	O
+
+# id = litbank-0740
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = he was spending his summer vacation , as he always did , with his mother at grand isle .
+he	O
+was	O
+spending	O
+his	O
+summer	O
+vacation	O
+,	O
+as	O
+he	O
+always	O
+did	O
+,	O
+with	O
+his	O
+mother	O
+at	O
+grand	B-LOCATION
+isle	I-LOCATION
+.	O
+
+# id = litbank-0741
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -791,7 +1016,7 @@ the	O
 lebruns	O
 .	O
 
-# id = litbank-0628
+# id = litbank-0742
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -819,8 +1044,8 @@ visitors	O
 from	O
 the	O
 “	O
-quartier	O
-francais	O
+quartier	B-LOCATION
+francais	I-LOCATION
 ,	O
 ”	O
 it	O
@@ -842,7 +1067,7 @@ her	O
 birthright	O
 .	O
 
-# id = litbank-0629
+# id = litbank-0743
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -857,7 +1082,7 @@ about	O
 her	O
 father	O
 's	O
-mississippi	O
+mississippi	B-LOCATION
 plantation	O
 and	O
 her	O
@@ -866,12 +1091,12 @@ home	O
 in	O
 the	O
 old	O
-kentucky	O
+kentucky	B-LOCATION
 bluegrass	O
 country	O
 .	O
 
-# id = litbank-0630
+# id = litbank-0744
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -901,7 +1126,7 @@ in	O
 dilution	O
 .	O
 
-# id = litbank-0631
+# id = litbank-0745
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -941,7 +1166,7 @@ been	O
 dead	O
 .	O
 
-# id = litbank-0632
+# id = litbank-0746
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -968,7 +1193,7 @@ early	O
 dinner	O
 .	O
 
-# id = litbank-0633
+# id = litbank-0747
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -1002,7 +1227,7 @@ had	O
 disappeared	O
 .	O
 
-# id = litbank-0634
+# id = litbank-0748
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -1022,8 +1247,8 @@ were	O
 a	O
 good	O
 many	O
-new	O
-orleans	O
+new	B-LOCATION
+orleans	I-LOCATION
 club	O
 men	O
 over	O
@@ -1032,7 +1257,7 @@ klein	B-CHARACTER
 's	O
 .	O
 
-# id = litbank-0635
+# id = litbank-0749
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -1089,7 +1314,7 @@ of	O
 him	O
 .	O
 
-# id = litbank-0636
+# id = litbank-0750
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -1114,7 +1339,7 @@ klein	B-CHARACTER
 hotel	O
 .	O
 
-# id = litbank-0596
+# id = litbank-0703
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -1149,7 +1374,7 @@ allez	O
 vous-en	O
 !	O
 
-# id = litbank-0597
+# id = litbank-0704
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -1200,38 +1425,7 @@ maddening	O
 persistence	O
 .	O
 
-# id = litbank-0599
-# source = LitBank
-# book = The Awakening and Selected Short Stories
-# book_id = 160_the_awakening_and_selected_short_stories
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
-# text = he walked down the gallery and across the narrow “ bridges ” which connected the lebrun cottages one with the other .
-he	O
-walked	O
-down	O
-the	O
-gallery	O
-and	O
-across	O
-the	O
-narrow	O
-“	O
-bridges	O
-”	O
-which	O
-connected	O
-the	O
-lebrun	O
-cottages	O
-one	O
-with	O
-the	O
-other	O
-.	O
-
-# id = litbank-0600
+# id = litbank-0707
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -1252,7 +1446,7 @@ main	O
 house	O
 .	O
 
-# id = litbank-0603
+# id = litbank-0710
 # source = LitBank
 # book = The Awakening and Selected Short Stories
 # book_id = 160_the_awakening_and_selected_short_stories
@@ -1284,5 +1478,37 @@ next	O
 to	O
 the	O
 last	O
+.	O
+
+# id = litbank-0711
+# source = LitBank
+# book = The Awakening and Selected Short Stories
+# book_id = 160_the_awakening_and_selected_short_stories
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/160_the_awakening_and_selected_short_stories_brat.tsv
+# text = seating himself in a wicker rocker which was there , he once more applied himself to the task of reading the newspaper .
+seating	O
+himself	O
+in	O
+a	O
+wicker	O
+rocker	O
+which	O
+was	O
+there	O
+,	O
+he	O
+once	O
+more	O
+applied	O
+himself	O
+to	O
+the	O
+task	O
+of	O
+reading	O
+the	O
+newspaper	O
 .	O
 

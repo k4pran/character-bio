@@ -1,4 +1,4 @@
-# id = litbank-1134
+# id = litbank-1384
 # source = LitBank
 # book = Silas Marner
 # book_id = 550_silas_marner
@@ -40,7 +40,7 @@ near	O
 the	O
 village	O
 of	O
-raveloe	O
+raveloe	B-LOCATION
 ,	O
 and	O
 not	O
@@ -54,7 +54,7 @@ deserted	O
 stone-pit	O
 .	O
 
-# id = litbank-1135
+# id = litbank-1385
 # source = LitBank
 # book = Silas Marner
 # book_id = 550_silas_marner
@@ -161,7 +161,7 @@ the	O
 weaver	O
 .	O
 
-# id = litbank-1136
+# id = litbank-1386
 # source = LitBank
 # book = Silas Marner
 # book_id = 550_silas_marner
@@ -241,7 +241,7 @@ in	O
 terror	O
 .	O
 
-# id = litbank-1137
+# id = litbank-1387
 # source = LitBank
 # book = Silas Marner
 # book_id = 550_silas_marner
@@ -310,7 +310,7 @@ the	O
 rear	O
 ?	O
 
-# id = litbank-1138
+# id = litbank-1388
 # source = LitBank
 # book = Silas Marner
 # book_id = 550_silas_marner
@@ -372,7 +372,258 @@ the	O
 doctor	O
 .	O
 
-# id = litbank-1139
+# id = litbank-1389
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = and raveloe was a village where many of the old echoes lingered , undrowned by new voices .
+and	O
+raveloe	B-LOCATION
+was	O
+a	O
+village	O
+where	O
+many	O
+of	O
+the	O
+old	O
+echoes	O
+lingered	O
+,	O
+undrowned	O
+by	O
+new	O
+voices	O
+.	O
+
+# id = litbank-1390
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = not that it was one of those barren parishes lying on the outskirts of civilization -- inhabited by meagre sheep and thinly-scattered shepherds : on the contrary , it lay in the rich central plain of what we are pleased to call merry england , and held farms which , speaking from a spiritual point of view , paid highly-desirable tithes .
+not	O
+that	O
+it	O
+was	O
+one	O
+of	O
+those	O
+barren	O
+parishes	O
+lying	O
+on	O
+the	O
+outskirts	O
+of	O
+civilization	O
+--	O
+inhabited	O
+by	O
+meagre	O
+sheep	O
+and	O
+thinly-scattered	O
+shepherds	O
+:	O
+on	O
+the	O
+contrary	O
+,	O
+it	O
+lay	O
+in	O
+the	O
+rich	O
+central	O
+plain	O
+of	O
+what	O
+we	O
+are	O
+pleased	O
+to	O
+call	O
+merry	B-LOCATION
+england	I-LOCATION
+,	O
+and	O
+held	O
+farms	O
+which	O
+,	O
+speaking	O
+from	O
+a	O
+spiritual	O
+point	O
+of	O
+view	O
+,	O
+paid	O
+highly-desirable	O
+tithes	O
+.	O
+
+# id = litbank-1391
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = it was an important-looking village , with a fine old church and large churchyard in the heart of it , and two or three large brick-and-stone homesteads , with well-walled orchards and ornamental weathercocks , standing close upon the road , and lifting more imposing fronts than the rectory , which peeped from among the trees on the other side of the churchyard : -- a village which showed at once the summits of its social life , and told the practised eye that there was no great park and manor-house in the vicinity , but that there were several chiefs in raveloe who could farm badly quite at their ease , drawing enough money from their bad farming , in those war times , to live in a rollicking fashion , and keep a jolly christmas , whitsun , and easter tide .
+it	O
+was	O
+an	O
+important-looking	O
+village	O
+,	O
+with	O
+a	O
+fine	O
+old	O
+church	O
+and	O
+large	O
+churchyard	O
+in	O
+the	O
+heart	O
+of	O
+it	O
+,	O
+and	O
+two	O
+or	O
+three	O
+large	O
+brick-and-stone	O
+homesteads	O
+,	O
+with	O
+well-walled	O
+orchards	O
+and	O
+ornamental	O
+weathercocks	O
+,	O
+standing	O
+close	O
+upon	O
+the	O
+road	O
+,	O
+and	O
+lifting	O
+more	O
+imposing	O
+fronts	O
+than	O
+the	O
+rectory	O
+,	O
+which	O
+peeped	O
+from	O
+among	O
+the	O
+trees	O
+on	O
+the	O
+other	O
+side	O
+of	O
+the	O
+churchyard	O
+:	O
+--	O
+a	O
+village	O
+which	O
+showed	O
+at	O
+once	O
+the	O
+summits	O
+of	O
+its	O
+social	O
+life	O
+,	O
+and	O
+told	O
+the	O
+practised	O
+eye	O
+that	O
+there	O
+was	O
+no	O
+great	O
+park	O
+and	O
+manor-house	O
+in	O
+the	O
+vicinity	O
+,	O
+but	O
+that	O
+there	O
+were	O
+several	O
+chiefs	O
+in	O
+raveloe	B-LOCATION
+who	O
+could	O
+farm	O
+badly	O
+quite	O
+at	O
+their	O
+ease	O
+,	O
+drawing	O
+enough	O
+money	O
+from	O
+their	O
+bad	O
+farming	O
+,	O
+in	O
+those	O
+war	O
+times	O
+,	O
+to	O
+live	O
+in	O
+a	O
+rollicking	O
+fashion	O
+,	O
+and	O
+keep	O
+a	O
+jolly	O
+christmas	O
+,	O
+whitsun	O
+,	O
+and	O
+easter	O
+tide	O
+.	O
+
+# id = litbank-1392
 # source = LitBank
 # book = Silas Marner
 # book_id = 550_silas_marner
@@ -391,7 +642,7 @@ had	O
 first	O
 come	O
 to	O
-raveloe	O
+raveloe	B-LOCATION
 ;	O
 he	O
 was	O
@@ -463,7 +714,126 @@ ard	O
 "	O
 .	O
 
-# id = litbank-1140
+# id = litbank-1393
+# source = LitBank
+# book = Silas Marner
+# book_id = 550_silas_marner
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/550_silas_marner_brat.tsv
+# text = so had his way of life : -- he invited no comer to step across his door-sill , and he never strolled into the village to drink a pint at the rainbow , or to gossip at the wheelwright 's : he sought no man or woman , save for the purposes of his calling , or in order to supply himself with necessaries ; and it was soon clear to the raveloe lasses that he would never urge one of them to accept him against her will -- quite as if he had heard them declare that they would never marry a dead man come to life again .
+so	O
+had	O
+his	O
+way	O
+of	O
+life	O
+:	O
+--	O
+he	O
+invited	O
+no	O
+comer	O
+to	O
+step	O
+across	O
+his	O
+door-sill	O
+,	O
+and	O
+he	O
+never	O
+strolled	O
+into	O
+the	O
+village	O
+to	O
+drink	O
+a	O
+pint	O
+at	O
+the	O
+rainbow	B-LOCATION
+,	O
+or	O
+to	O
+gossip	O
+at	O
+the	O
+wheelwright	O
+'s	O
+:	O
+he	O
+sought	O
+no	O
+man	O
+or	O
+woman	O
+,	O
+save	O
+for	O
+the	O
+purposes	O
+of	O
+his	O
+calling	O
+,	O
+or	O
+in	O
+order	O
+to	O
+supply	O
+himself	O
+with	O
+necessaries	O
+;	O
+and	O
+it	O
+was	O
+soon	O
+clear	O
+to	O
+the	O
+raveloe	B-LOCATION
+lasses	O
+that	O
+he	O
+would	O
+never	O
+urge	O
+one	O
+of	O
+them	O
+to	O
+accept	O
+him	O
+against	O
+her	O
+will	O
+--	O
+quite	O
+as	O
+if	O
+he	O
+had	O
+heard	O
+them	O
+declare	O
+that	O
+they	O
+would	O
+never	O
+marry	O
+a	O
+dead	O
+man	O
+come	O
+to	O
+life	O
+again	O
+.	O
+
+# id = litbank-1394
 # source = LitBank
 # book = Silas Marner
 # book_id = 550_silas_marner
@@ -641,7 +1011,7 @@ walked	O
 off	O
 .	O
 
-# id = litbank-1141
+# id = litbank-1395
 # source = LitBank
 # book = Silas Marner
 # book_id = 550_silas_marner
@@ -683,7 +1053,7 @@ old	O
 saw-pit	O
 .	O
 
-# id = litbank-1142
+# id = litbank-1396
 # source = LitBank
 # book = Silas Marner
 # book_id = 550_silas_marner
@@ -747,7 +1117,7 @@ fall	O
 down	O
 .	O
 
-# id = litbank-1143
+# id = litbank-1397
 # source = LitBank
 # book = Silas Marner
 # book_id = 550_silas_marner
@@ -780,7 +1150,7 @@ them	O
 away	O
 ?	O
 
-# id = litbank-1144
+# id = litbank-1398
 # source = LitBank
 # book = Silas Marner
 # book_id = 550_silas_marner
@@ -850,7 +1220,7 @@ doctor	O
 care	O
 .	O
 
-# id = litbank-1129
+# id = litbank-1379
 # source = LitBank
 # book = Silas Marner
 # book_id = 550_silas_marner
@@ -937,7 +1307,7 @@ disinherited	O
 race	O
 .	O
 
-# id = litbank-1130
+# id = litbank-1380
 # source = LitBank
 # book = Silas Marner
 # book_id = 550_silas_marner
@@ -982,7 +1352,7 @@ heavy	O
 bag	O
 ?	O
 
-# id = litbank-1131
+# id = litbank-1381
 # source = LitBank
 # book = Silas Marner
 # book_id = 550_silas_marner
@@ -1004,7 +1374,7 @@ mysterious	O
 burden	O
 .	O
 
-# id = litbank-1132
+# id = litbank-1382
 # source = LitBank
 # book = Silas Marner
 # book_id = 550_silas_marner
@@ -1074,7 +1444,7 @@ evil	O
 one	O
 .	O
 
-# id = litbank-1133
+# id = litbank-1383
 # source = LitBank
 # book = Silas Marner
 # book_id = 550_silas_marner

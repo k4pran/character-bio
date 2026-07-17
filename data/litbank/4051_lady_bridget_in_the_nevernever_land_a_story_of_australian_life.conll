@@ -1,4 +1,4 @@
-# id = litbank-2016
+# id = litbank-2473
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -28,12 +28,52 @@ of	O
 her	O
 cottage	O
 in	O
-leichardt	O
+leichardt	B-LOCATION
 's	O
 town	O
 .	O
 
-# id = litbank-2020
+# id = litbank-2474
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = it was a primitive cottage of the old style , standing in a garden and built on the cliff -- the emu point side -- overlooking the broad leichardt river .
+it	O
+was	O
+a	O
+primitive	O
+cottage	O
+of	O
+the	O
+old	O
+style	O
+,	O
+standing	O
+in	O
+a	O
+garden	O
+and	O
+built	O
+on	O
+the	O
+cliff	O
+--	O
+the	O
+emu	B-LOCATION
+point	I-LOCATION
+side	O
+--	O
+overlooking	O
+the	O
+broad	O
+leichardt	B-LOCATION
+river	I-LOCATION
+.	O
+
+# id = litbank-2477
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -66,8 +106,8 @@ a	O
 pretty	O
 sum	O
 in	O
-covent	O
-garden	O
+covent	B-LOCATION
+garden	I-LOCATION
 ,	O
 and	O
 ,	O
@@ -88,7 +128,7 @@ entrance	O
 steps	O
 .	O
 
-# id = litbank-2021
+# id = litbank-2478
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -138,7 +178,7 @@ boarded	O
 floor	O
 .	O
 
-# id = litbank-2024
+# id = litbank-2482
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -167,11 +207,69 @@ river	O
 where	O
 it	O
 circles	O
-emu	O
-point	O
+emu	B-LOCATION
+point	I-LOCATION
 .	O
 
-# id = litbank-2025
+# id = litbank-2483
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = for , as is known to all who know leichardt 's town , the river winds in two great loops girdling two low points , so that , in striking a bee-line across the whole town , business and residential , one must cross the river three times .
+for	O
+,	O
+as	O
+is	O
+known	O
+to	O
+all	O
+who	O
+know	O
+leichardt	B-LOCATION
+'s	O
+town	O
+,	O
+the	O
+river	O
+winds	O
+in	O
+two	O
+great	O
+loops	O
+girdling	O
+two	O
+low	O
+points	O
+,	O
+so	O
+that	O
+,	O
+in	O
+striking	O
+a	O
+bee-line	O
+across	O
+the	O
+whole	O
+town	O
+,	O
+business	O
+and	O
+residential	O
+,	O
+one	O
+must	O
+cross	O
+the	O
+river	O
+three	O
+times	O
+.	O
+
+# id = litbank-2484
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -191,8 +289,8 @@ main	O
 street	O
 in	O
 the	O
-middle	O
-point	O
+middle	B-LOCATION
+point	I-LOCATION
 and	O
 the	O
 roofs	O
@@ -202,7 +300,83 @@ and	O
 offices	O
 .	O
 
-# id = litbank-2026
+# id = litbank-2485
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = the busy wharves of the leichardt 's land steam navigation company -- familiarly , the l.l.s.n. co. -- lay opposite on her right , while leftward , across the water , she could trace , as far as the grape-vine would allow , the boundary of the botanical gardens and get a sight of the white stone and grey slate end of the big parliamentary buildings .
+the	O
+busy	O
+wharves	O
+of	O
+the	O
+leichardt	B-LOCATION
+'s	O
+land	O
+steam	O
+navigation	O
+company	O
+--	O
+familiarly	O
+,	O
+the	O
+l.l.s.n.	O
+co.	O
+--	O
+lay	O
+opposite	O
+on	O
+her	O
+right	O
+,	O
+while	O
+leftward	O
+,	O
+across	O
+the	O
+water	O
+,	O
+she	O
+could	O
+trace	O
+,	O
+as	O
+far	O
+as	O
+the	O
+grape-vine	O
+would	O
+allow	O
+,	O
+the	O
+boundary	O
+of	O
+the	O
+botanical	B-LOCATION
+gardens	I-LOCATION
+and	O
+get	O
+a	O
+sight	O
+of	O
+the	O
+white	O
+stone	O
+and	O
+grey	O
+slate	O
+end	O
+of	O
+the	O
+big	O
+parliamentary	B-LOCATION
+buildings	I-LOCATION
+.	O
+
+# id = litbank-2486
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -286,7 +460,7 @@ early	O
 illusions	O
 .	O
 
-# id = litbank-2027
+# id = litbank-2487
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -356,7 +530,7 @@ the	O
 day	O
 .	O
 
-# id = litbank-2028
+# id = litbank-2488
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -398,7 +572,7 @@ and	O
 social	O
 aspects	O
 of	O
-australia	O
+australia	B-LOCATION
 ,	O
 and	O
 upon	O
@@ -416,7 +590,7 @@ her	O
 route	O
 .	O
 
-# id = litbank-2029
+# id = litbank-2489
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -466,7 +640,7 @@ decided	O
 that	O
 imperialism	O
 in	O
-australia	O
+australia	B-LOCATION
 demanded	O
 his	O
 special	O
@@ -476,7 +650,60 @@ immediate	O
 attention	O
 .	O
 
-# id = litbank-2030
+# id = litbank-2490
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = for this story dates back to the time when mr joseph chamberlain was in office ; when imperialism , free trade and yellow labour were the catch words of a party , and before the great australian commonwealth had become an historical fact .
+for	O
+this	O
+story	O
+dates	O
+back	O
+to	O
+the	O
+time	O
+when	O
+mr	O
+joseph	O
+chamberlain	O
+was	O
+in	O
+office	O
+;	O
+when	O
+imperialism	O
+,	O
+free	O
+trade	O
+and	O
+yellow	O
+labour	O
+were	O
+the	O
+catch	O
+words	O
+of	O
+a	O
+party	O
+,	O
+and	O
+before	O
+the	O
+great	O
+australian	O
+commonwealth	B-LOCATION
+had	O
+become	O
+an	O
+historical	O
+fact	O
+.	O
+
+# id = litbank-2491
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -496,7 +723,7 @@ up	O
 ...	O
 .	O
 
-# id = litbank-2031
+# id = litbank-2492
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -517,7 +744,7 @@ idea	O
 ....	O
 .	O
 
-# id = litbank-2032
+# id = litbank-2493
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -535,7 +762,7 @@ join	O
 me	O
 !	O
 
-# id = litbank-2033
+# id = litbank-2494
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -598,7 +825,7 @@ was	O
 covered	O
 .	O
 
-# id = litbank-2034
+# id = litbank-2495
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -630,10 +857,10 @@ of	I-CHARACTER
 gaverick	I-CHARACTER
 ,	O
 upper	O
-brook	O
-street	O
+brook	B-LOCATION
+street	I-LOCATION
 ,	O
-london	O
+london	B-LOCATION
 ,	O
 w.	O
 on	O
@@ -655,7 +882,7 @@ be	O
 sent	O
 .	O
 
-# id = litbank-2035
+# id = litbank-2496
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -677,7 +904,7 @@ you	O
 !	O
 '	O
 
-# id = litbank-2036
+# id = litbank-2497
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -720,7 +947,7 @@ of	O
 mrs	B-CHARACTER
 gildea	I-CHARACTER
 's	O
-london	O
+london	B-LOCATION
 flat	O
 ,	O
 some	O
@@ -747,7 +974,7 @@ his	O
 round	O
 .	O
 
-# id = litbank-2037
+# id = litbank-2498
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -778,7 +1005,85 @@ they	O
 !	O
 '	O
 
-# id = litbank-2038
+# id = litbank-2499
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = for the envelopes were covered with directions , some in japanese and chinese hieroglyphics , some in official red ink from various postoffices , a few with the distinctive markings of british legations and government houses where the special correspondent should have stayed , but did not -- only her own name showing through the obliterations , and a final re-addressing by the bank of leichardt 's land .
+for	O
+the	O
+envelopes	O
+were	O
+covered	O
+with	O
+directions	O
+,	O
+some	O
+in	O
+japanese	O
+and	O
+chinese	O
+hieroglyphics	O
+,	O
+some	O
+in	O
+official	O
+red	O
+ink	O
+from	O
+various	O
+postoffices	O
+,	O
+a	O
+few	O
+with	O
+the	O
+distinctive	O
+markings	O
+of	O
+british	O
+legations	O
+and	O
+government	B-LOCATION
+houses	I-LOCATION
+where	O
+the	O
+special	O
+correspondent	O
+should	O
+have	O
+stayed	O
+,	O
+but	O
+did	O
+not	O
+--	O
+only	O
+her	O
+own	O
+name	O
+showing	O
+through	O
+the	O
+obliterations	O
+,	O
+and	O
+a	O
+final	O
+re-addressing	O
+by	O
+the	O
+bank	O
+of	O
+leichardt	B-LOCATION
+'s	O
+land	O
+.	O
+
+# id = litbank-2500
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -802,7 +1107,7 @@ bridget	I-CHARACTER
 o'hara	I-CHARACTER
 .	O
 
-# id = litbank-2039
+# id = litbank-2501
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -818,7 +1123,7 @@ last	O
 !	O
 '	O
 
-# id = litbank-2040
+# id = litbank-2502
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -842,7 +1147,103 @@ would	O
 be	O
 .	O
 
-# id = litbank-2041
+# id = litbank-2503
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = after him , the packet from her london flat was inspected and its contents laid aside for future perusal .
+after	O
+him	O
+,	O
+the	O
+packet	O
+from	O
+her	O
+london	B-LOCATION
+flat	O
+was	O
+inspected	O
+and	O
+its	O
+contents	O
+laid	O
+aside	O
+for	O
+future	O
+perusal	O
+.	O
+
+# id = litbank-2504
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = one was embossed with the bank of leichardt 's land stamp and contained a cablegram originally despatched from rome , which had been received at vancouver and , thence , had pursued her -- first along the route originally designed , afterwards , with zigzagging , retrogression and much delay , along the one she had taken .
+one	O
+was	O
+embossed	O
+with	O
+the	O
+bank	O
+of	O
+leichardt	B-LOCATION
+'s	O
+land	O
+stamp	O
+and	O
+contained	O
+a	O
+cablegram	O
+originally	O
+despatched	O
+from	O
+rome	B-LOCATION
+,	O
+which	O
+had	O
+been	O
+received	O
+at	O
+vancouver	B-LOCATION
+and	O
+,	O
+thence	O
+,	O
+had	O
+pursued	O
+her	O
+--	O
+first	O
+along	O
+the	O
+route	O
+originally	O
+designed	O
+,	O
+afterwards	O
+,	O
+with	O
+zigzagging	O
+,	O
+retrogression	O
+and	O
+much	O
+delay	O
+,	O
+along	O
+the	O
+one	O
+she	O
+had	O
+taken	O
+.	O
+
+# id = litbank-2505
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -875,7 +1276,7 @@ newspaper	O
 correspondent	O
 .	O
 
-# id = litbank-2042
+# id = litbank-2506
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -907,7 +1308,7 @@ h	O
 !	O
 '	O
 
-# id = litbank-2043
+# id = litbank-2507
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -926,7 +1327,7 @@ tempestuous	O
 love-affairs	O
 .	O
 
-# id = litbank-2044
+# id = litbank-2508
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -989,7 +1390,7 @@ she	O
 belonged	O
 .	O
 
-# id = litbank-2045
+# id = litbank-2509
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -1030,7 +1431,7 @@ three	O
 figures	O
 .	O
 
-# id = litbank-2046
+# id = litbank-2510
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -1055,7 +1456,7 @@ their	O
 dates	O
 .	O
 
-# id = litbank-2047
+# id = litbank-2511
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -1072,8 +1473,8 @@ of	O
 a	O
 house	O
 in	O
-south	O
-belgravia	O
+south	B-LOCATION
+belgravia	I-LOCATION
 ,	O
 where	O
 lived	O
@@ -1082,8 +1483,8 @@ luke	I-CHARACTER
 tallant	I-CHARACTER
 of	O
 the	O
-colonial	O
-office	O
+colonial	B-LOCATION
+office	I-LOCATION
 and	O
 rosamond	B-CHARACTER
 his	O
@@ -1096,7 +1497,7 @@ the	O
 gavericks	O
 .	O
 
-# id = litbank-2048
+# id = litbank-2512
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -1145,7 +1546,7 @@ copy	O
 '	O
 .	O
 
-# id = litbank-2049
+# id = litbank-2513
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -1167,7 +1568,38 @@ my	O
 wire	O
 .	O
 
-# id = litbank-2050
+# id = litbank-2514
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = vancouver was right , i suppose .
+vancouver	B-LOCATION
+was	O
+right	O
+,	O
+i	O
+suppose	O
+.	O
+
+# id = litbank-2515
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = i sent it from rome .
+i	O
+sent	O
+it	O
+from	O
+rome	B-LOCATION
+.	O
+
+# id = litbank-2516
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -1181,7 +1613,7 @@ i	O
 have	O
 been	O
 at	O
-montreux	O
+montreux	B-LOCATION
 with	O
 chris	B-CHARACTER
 and	O
@@ -1193,7 +1625,7 @@ i	O
 came	O
 back	O
 to	O
-england	O
+england	B-LOCATION
 with	O
 them	O
 ,	O
@@ -1212,7 +1644,7 @@ write	O
 letters	O
 .	O
 
-# id = litbank-2051
+# id = litbank-2517
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -1257,7 +1689,7 @@ and	O
 cadging	O
 on	O
 their	O
-london	O
+london	B-LOCATION
 friends	O
 gets	O
 on	O
@@ -1287,47 +1719,7 @@ by	O
 contrast	O
 .	O
 
-# id = litbank-2017
-# source = LitBank
-# book = Lady Bridget in the Never-Never Land
-# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
-# text = it was a primitive cottage of the old style , standing in a garden and built on the cliff -- the emu point side -- overlooking the broad leichardt river .
-it	O
-was	O
-a	O
-primitive	O
-cottage	O
-of	O
-the	O
-old	O
-style	O
-,	O
-standing	O
-in	O
-a	O
-garden	O
-and	O
-built	O
-on	O
-the	O
-cliff	O
---	O
-the	O
-emu	O
-point	O
-side	O
---	O
-overlooking	O
-the	O
-broad	O
-leichardt	O
-river	O
-.	O
-
-# id = litbank-2018
+# id = litbank-2475
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -1376,7 +1768,7 @@ store	O
 closet	O
 .	O
 
-# id = litbank-2019
+# id = litbank-2476
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -1423,7 +1815,7 @@ thirty	O
 years	O
 .	O
 
-# id = litbank-2022
+# id = litbank-2479
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -1480,7 +1872,7 @@ green	O
 leaves	O
 .	O
 
-# id = litbank-2023
+# id = litbank-2480
 # source = LitBank
 # book = Lady Bridget in the Never-Never Land
 # book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
@@ -1510,5 +1902,30 @@ bananas	O
 hung	O
 to	O
 ripen	O
+.	O
+
+# id = litbank-2481
+# source = LitBank
+# book = Lady Bridget in the Never-Never Land
+# book_id = 4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life_brat.tsv
+# text = in fact , the veranda and garden beyond would have been paradise to a fruitarian .
+in	O
+fact	O
+,	O
+the	O
+veranda	O
+and	O
+garden	O
+beyond	O
+would	O
+have	O
+been	O
+paradise	O
+to	O
+a	O
+fruitarian	O
 .	O
 

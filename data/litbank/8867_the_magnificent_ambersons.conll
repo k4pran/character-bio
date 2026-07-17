@@ -1,4 +1,4 @@
-# id = litbank-2296
+# id = litbank-2793
 # source = LitBank
 # book = The Magnificent Ambersons
 # book_id = 8867_the_magnificent_ambersons
@@ -36,12 +36,12 @@ began	O
 then	O
 .	O
 
-# id = litbank-2297
+# id = litbank-2794
 # source = LitBank
 # book = The Magnificent Ambersons
 # book_id = 8867_the_magnificent_ambersons
 # chapter = unknown
-# sample_type = negative
+# sample_type = positive
 # source_file = entities/tsv/8867_the_magnificent_ambersons_brat.tsv
 # text = magnificence , like the size of a fortune , is always comparative , as even magnificent lorenzo may now perceive , if he has happened to haunt new york in 1916 ; and the ambersons were magnificent in their day and place .
 magnificence	O
@@ -71,8 +71,8 @@ has	O
 happened	O
 to	O
 haunt	O
-new	O
-york	O
+new	B-LOCATION
+york	I-LOCATION
 in	O
 1916	O
 ;	O
@@ -88,12 +88,12 @@ and	O
 place	O
 .	O
 
-# id = litbank-2298
+# id = litbank-2795
 # source = LitBank
 # book = The Magnificent Ambersons
 # book_id = 8867_the_magnificent_ambersons
 # chapter = unknown
-# sample_type = negative
+# sample_type = positive
 # source_file = entities/tsv/8867_the_magnificent_ambersons_brat.tsv
 # text = their splendour lasted throughout all the years that saw their midland town spread and darken into a city , but reached its topmost during the period when every prosperous family with children kept a newfoundland dog .
 their	O
@@ -106,7 +106,7 @@ years	O
 that	O
 saw	O
 their	O
-midland	O
+midland	B-LOCATION
 town	O
 spread	O
 and	O
@@ -130,11 +130,311 @@ with	O
 children	O
 kept	O
 a	O
-newfoundland	O
+newfoundland	B-LOCATION
 dog	O
 .	O
 
-# id = litbank-2299
+# id = litbank-2797
+# source = LitBank
+# book = The Magnificent Ambersons
+# book_id = 8867_the_magnificent_ambersons
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/8867_the_magnificent_ambersons_brat.tsv
+# text = trotters were out , in the winter afternoons , racing light sleighs on national avenue and tennessee street ; everybody recognized both the trotters and the drivers ; and again knew them as well on summer evenings , when slim buggies whizzed by in renewals of the snow-time rivalry .
+trotters	O
+were	O
+out	O
+,	O
+in	O
+the	O
+winter	O
+afternoons	O
+,	O
+racing	O
+light	O
+sleighs	O
+on	O
+national	B-LOCATION
+avenue	I-LOCATION
+and	O
+tennessee	B-LOCATION
+street	I-LOCATION
+;	O
+everybody	O
+recognized	O
+both	O
+the	O
+trotters	O
+and	O
+the	O
+drivers	O
+;	O
+and	O
+again	O
+knew	O
+them	O
+as	O
+well	O
+on	O
+summer	O
+evenings	O
+,	O
+when	O
+slim	O
+buggies	O
+whizzed	O
+by	O
+in	O
+renewals	O
+of	O
+the	O
+snow-time	O
+rivalry	O
+.	O
+
+# id = litbank-2802
+# source = LitBank
+# book = The Magnificent Ambersons
+# book_id = 8867_the_magnificent_ambersons
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/8867_the_magnificent_ambersons_brat.tsv
+# text = “ side-burns ” found nourishment upon childlike profiles ; great dundreary whiskers blew like tippets over young shoulders ; moustaches were trained as lambrequins over forgotten mouths ; and it was possible for a senator of the united states to wear a mist of white whisker upon his throat only , not a newspaper in the land finding the ornament distinguished enough to warrant a lampoon .
+“	O
+side-burns	O
+”	O
+found	O
+nourishment	O
+upon	O
+childlike	O
+profiles	O
+;	O
+great	O
+dundreary	O
+whiskers	O
+blew	O
+like	O
+tippets	O
+over	O
+young	O
+shoulders	O
+;	O
+moustaches	O
+were	O
+trained	O
+as	O
+lambrequins	O
+over	O
+forgotten	O
+mouths	O
+;	O
+and	O
+it	O
+was	O
+possible	O
+for	O
+a	O
+senator	O
+of	O
+the	O
+united	B-LOCATION
+states	I-LOCATION
+to	O
+wear	O
+a	O
+mist	O
+of	O
+white	O
+whisker	O
+upon	O
+his	O
+throat	O
+only	O
+,	O
+not	O
+a	O
+newspaper	O
+in	O
+the	O
+land	O
+finding	O
+the	O
+ornament	O
+distinguished	O
+enough	O
+to	O
+warrant	O
+a	O
+lampoon	O
+.	O
+
+# id = litbank-2803
+# source = LitBank
+# book = The Magnificent Ambersons
+# book_id = 8867_the_magnificent_ambersons
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/8867_the_magnificent_ambersons_brat.tsv
+# text = at the beginning of the ambersons ' great period most of the houses of the midland town were of a pleasant architecture .
+at	O
+the	O
+beginning	O
+of	O
+the	O
+ambersons	O
+'	O
+great	O
+period	O
+most	O
+of	O
+the	O
+houses	O
+of	O
+the	O
+midland	B-LOCATION
+town	O
+were	O
+of	O
+a	O
+pleasant	O
+architecture	O
+.	O
+
+# id = litbank-2804
+# source = LitBank
+# book = The Magnificent Ambersons
+# book_id = 8867_the_magnificent_ambersons
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/8867_the_magnificent_ambersons_brat.tsv
+# text = the house of a “ prominent resident , ” facing military square , or national avenue , or tennessee street , was built of brick upon a stone foundation , or of wood upon a brick foundation .
+the	O
+house	O
+of	O
+a	O
+“	O
+prominent	O
+resident	O
+,	O
+”	O
+facing	O
+military	O
+square	O
+,	O
+or	O
+national	B-LOCATION
+avenue	I-LOCATION
+,	O
+or	O
+tennessee	B-LOCATION
+street	I-LOCATION
+,	O
+was	O
+built	O
+of	O
+brick	O
+upon	O
+a	O
+stone	O
+foundation	O
+,	O
+or	O
+of	O
+wood	O
+upon	O
+a	O
+brick	O
+foundation	O
+.	O
+
+# id = litbank-2805
+# source = LitBank
+# book = The Magnificent Ambersons
+# book_id = 8867_the_magnificent_ambersons
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/8867_the_magnificent_ambersons_brat.tsv
+# text = she was irish , ordinarily , or german or it might be scandinavian , but never native to the land unless she happened to be a person of colour .
+she	O
+was	O
+irish	O
+,	O
+ordinarily	O
+,	O
+or	O
+german	O
+or	O
+it	O
+might	O
+be	O
+scandinavian	B-LOCATION
+,	O
+but	O
+never	O
+native	O
+to	O
+the	O
+land	O
+unless	O
+she	O
+happened	O
+to	O
+be	O
+a	O
+person	O
+of	O
+colour	O
+.	O
+
+# id = litbank-2806
+# source = LitBank
+# book = The Magnificent Ambersons
+# book_id = 8867_the_magnificent_ambersons
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/8867_the_magnificent_ambersons_brat.tsv
+# text = they have passed , those darky hired-men of the midland town ; and the introspective horses they curried and brushed and whacked and amiably cursed -- those good old horses switch their tails at flies no more .
+they	O
+have	O
+passed	O
+,	O
+those	O
+darky	O
+hired-men	O
+of	O
+the	O
+midland	B-LOCATION
+town	O
+;	O
+and	O
+the	O
+introspective	O
+horses	O
+they	O
+curried	O
+and	O
+brushed	O
+and	O
+whacked	O
+and	O
+amiably	O
+cursed	O
+--	O
+those	O
+good	O
+old	O
+horses	O
+switch	O
+their	O
+tails	O
+at	O
+flies	O
+no	O
+more	O
+.	O
+
+# id = litbank-2796
 # source = LitBank
 # book = The Magnificent Ambersons
 # book_id = 8867_the_magnificent_ambersons
@@ -192,66 +492,7 @@ go	O
 by	O
 .	O
 
-# id = litbank-2300
-# source = LitBank
-# book = The Magnificent Ambersons
-# book_id = 8867_the_magnificent_ambersons
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/8867_the_magnificent_ambersons_brat.tsv
-# text = trotters were out , in the winter afternoons , racing light sleighs on national avenue and tennessee street ; everybody recognized both the trotters and the drivers ; and again knew them as well on summer evenings , when slim buggies whizzed by in renewals of the snow-time rivalry .
-trotters	O
-were	O
-out	O
-,	O
-in	O
-the	O
-winter	O
-afternoons	O
-,	O
-racing	O
-light	O
-sleighs	O
-on	O
-national	O
-avenue	O
-and	O
-tennessee	O
-street	O
-;	O
-everybody	O
-recognized	O
-both	O
-the	O
-trotters	O
-and	O
-the	O
-drivers	O
-;	O
-and	O
-again	O
-knew	O
-them	O
-as	O
-well	O
-on	O
-summer	O
-evenings	O
-,	O
-when	O
-slim	O
-buggies	O
-whizzed	O
-by	O
-in	O
-renewals	O
-of	O
-the	O
-snow-time	O
-rivalry	O
-.	O
-
-# id = litbank-2301
+# id = litbank-2798
 # source = LitBank
 # book = The Magnificent Ambersons
 # book_id = 8867_the_magnificent_ambersons
@@ -312,4 +553,129 @@ or	O
 evening	O
 supper	O
 .	O
+
+# id = litbank-2799
+# source = LitBank
+# book = The Magnificent Ambersons
+# book_id = 8867_the_magnificent_ambersons
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/8867_the_magnificent_ambersons_brat.tsv
+# text = during the earlier years of this period , elegance of personal appearance was believed to rest more upon the texture of garments than upon their shaping .
+during	O
+the	O
+earlier	O
+years	O
+of	O
+this	O
+period	O
+,	O
+elegance	O
+of	O
+personal	O
+appearance	O
+was	O
+believed	O
+to	O
+rest	O
+more	O
+upon	O
+the	O
+texture	O
+of	O
+garments	O
+than	O
+upon	O
+their	O
+shaping	O
+.	O
+
+# id = litbank-2800
+# source = LitBank
+# book = The Magnificent Ambersons
+# book_id = 8867_the_magnificent_ambersons
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/8867_the_magnificent_ambersons_brat.tsv
+# text = a silk dress needed no remodelling when it was a year or so old ; it remained distinguished by merely remaining silk .
+a	O
+silk	O
+dress	O
+needed	O
+no	O
+remodelling	O
+when	O
+it	O
+was	O
+a	O
+year	O
+or	O
+so	O
+old	O
+;	O
+it	O
+remained	O
+distinguished	O
+by	O
+merely	O
+remaining	O
+silk	O
+.	O
+
+# id = litbank-2801
+# source = LitBank
+# book = The Magnificent Ambersons
+# book_id = 8867_the_magnificent_ambersons
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/8867_the_magnificent_ambersons_brat.tsv
+# text = old men and governors wore broadcloth ; “ full dress ” was broadcloth with “ doeskin ” trousers ; and there were seen men of all ages to whom a hat meant only that rigid , tall silk thing known to impudence as a “ stove-pipe . ”
+old	O
+men	O
+and	O
+governors	O
+wore	O
+broadcloth	O
+;	O
+“	O
+full	O
+dress	O
+”	O
+was	O
+broadcloth	O
+with	O
+“	O
+doeskin	O
+”	O
+trousers	O
+;	O
+and	O
+there	O
+were	O
+seen	O
+men	O
+of	O
+all	O
+ages	O
+to	O
+whom	O
+a	O
+hat	O
+meant	O
+only	O
+that	O
+rigid	O
+,	O
+tall	O
+silk	O
+thing	O
+known	O
+to	O
+impudence	O
+as	O
+a	O
+“	O
+stove-pipe	O
+.	O
+”	O
 

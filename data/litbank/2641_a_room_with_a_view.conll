@@ -1,4 +1,4 @@
-# id = litbank-1776
+# id = litbank-2177
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -12,7 +12,7 @@ chapter	O
 i	O
 :	O
 the	O
-bertolini	O
+bertolini	B-LOCATION
 “	O
 the	O
 signora	O
@@ -35,7 +35,7 @@ at	O
 all	O
 .	O
 
-# id = litbank-1779
+# id = litbank-2180
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -59,7 +59,23 @@ unexpected	O
 accent	O
 .	O
 
-# id = litbank-1780
+# id = litbank-2181
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = “ it might be london . ”
+“	O
+it	O
+might	O
+be	O
+london	B-LOCATION
+.	O
+”	O
+
+# id = litbank-2182
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -143,7 +159,7 @@ oxon	O
 .	O
 )	O
 
-# id = litbank-1782
+# id = litbank-2184
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -166,10 +182,10 @@ we	O
 might	O
 be	O
 in	O
-london	O
+london	B-LOCATION
 ?	O
 
-# id = litbank-1785
+# id = litbank-2187
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -198,7 +214,50 @@ her	O
 fork	O
 .	O
 
-# id = litbank-1786
+# id = litbank-2188
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = “ i want so to see the arno .
+“	O
+i	O
+want	O
+so	O
+to	O
+see	O
+the	O
+arno	B-LOCATION
+.	O
+
+# id = litbank-2189
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = the rooms the signora promised us in her letter would have looked over the arno .
+the	O
+rooms	O
+the	O
+signora	B-LOCATION
+promised	O
+us	O
+in	O
+her	O
+letter	O
+would	O
+have	O
+looked	O
+over	O
+the	O
+arno	B-LOCATION
+.	O
+
+# id = litbank-2190
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -234,7 +293,7 @@ view	O
 .	O
 ”	O
 
-# id = litbank-1787
+# id = litbank-2191
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -251,7 +310,7 @@ been	O
 selfish	O
 .	O
 
-# id = litbank-1788
+# id = litbank-2192
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -276,12 +335,12 @@ must	O
 look	O
 over	O
 the	O
-arno	O
+arno	B-LOCATION
 ,	O
 too	O
 .	O
 
-# id = litbank-1789
+# id = litbank-2193
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -335,7 +394,7 @@ tactful	O
 allusion	O
 .	O
 
-# id = litbank-1790
+# id = litbank-2194
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -354,7 +413,7 @@ lucy	B-CHARACTER
 .	O
 ”	O
 
-# id = litbank-1791
+# id = litbank-2195
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -368,7 +427,7 @@ was	O
 startled	O
 .	O
 
-# id = litbank-1792
+# id = litbank-2196
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -398,7 +457,7 @@ his	O
 clothes	O
 .	O
 
-# id = litbank-1793
+# id = litbank-2197
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -425,7 +484,7 @@ name	O
 george	B-CHARACTER
 .	O
 
-# id = litbank-1794
+# id = litbank-2198
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -451,7 +510,7 @@ to	O
 speak	O
 .	O
 
-# id = litbank-1795
+# id = litbank-2199
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -491,7 +550,7 @@ question	O
 .	O
 ”	O
 
-# id = litbank-1796
+# id = litbank-2200
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -515,7 +574,7 @@ began	O
 lucy	B-CHARACTER
 .	O
 
-# id = litbank-1797
+# id = litbank-2201
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -550,7 +609,7 @@ them	O
 !	O
 ”	O
 
-# id = litbank-1798
+# id = litbank-2202
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -629,7 +688,7 @@ realized	O
 before	O
 .	O
 
-# id = litbank-1799
+# id = litbank-2203
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -654,7 +713,7 @@ not	O
 change	O
 ?	O
 
-# id = litbank-1800
+# id = litbank-2204
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -682,7 +741,7 @@ of	O
 brutality	O
 .	O
 
-# id = litbank-1801
+# id = litbank-2205
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -718,7 +777,7 @@ once	O
 censured	O
 .	O
 
-# id = litbank-1802
+# id = litbank-2206
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -737,7 +796,7 @@ people	O
 opposite	O
 .	O
 
-# id = litbank-1803
+# id = litbank-2207
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -769,7 +828,7 @@ oh	O
 oh	O
 !	O
 
-# id = litbank-1804
+# id = litbank-2208
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -785,7 +844,7 @@ mr.	B-CHARACTER
 beebe	I-CHARACTER
 !	O
 
-# id = litbank-1805
+# id = litbank-2209
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -809,7 +868,7 @@ rooms	O
 are	O
 .	O
 
-# id = litbank-1806
+# id = litbank-2210
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -835,7 +894,7 @@ mr.	B-CHARACTER
 beebe	I-CHARACTER
 ?	O
 
-# id = litbank-1807
+# id = litbank-2211
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -860,8 +919,8 @@ honeychurch	I-CHARACTER
 who	O
 were	O
 at	O
-tunbridge	O
-wells	O
+tunbridge	B-LOCATION
+wells	I-LOCATION
 when	O
 you	O
 helped	O
@@ -878,7 +937,7 @@ easter	O
 .	O
 ”	O
 
-# id = litbank-1808
+# id = litbank-2212
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -905,7 +964,28 @@ by	O
 lucy	B-CHARACTER
 .	O
 
-# id = litbank-1809
+# id = litbank-2213
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = summer street , too , makes it so specially funny . ”
+summer	B-LOCATION
+street	I-LOCATION
+,	O
+too	O
+,	O
+makes	O
+it	O
+so	O
+specially	O
+funny	O
+.	O
+”	O
+
+# id = litbank-2214
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -921,8 +1001,8 @@ in	O
 the	O
 parish	O
 of	O
-summer	O
-street	O
+summer	B-LOCATION
+street	I-LOCATION
 ,	O
 ”	O
 said	O
@@ -967,7 +1047,7 @@ last	O
 week	O
 .	O
 
-# id = litbank-1810
+# id = litbank-2215
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -984,8 +1064,8 @@ i	O
 knew	O
 you	O
 at	O
-tunbridge	O
-wells	O
+tunbridge	B-LOCATION
+wells	I-LOCATION
 ;	O
 but	O
 i	O
@@ -1014,7 +1094,47 @@ the	O
 clergyman	O
 .	O
 
-# id = litbank-1811
+# id = litbank-2216
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = “ i move into the rectory at summer street next june .
+“	O
+i	O
+move	O
+into	O
+the	O
+rectory	O
+at	O
+summer	B-LOCATION
+street	I-LOCATION
+next	O
+june	O
+.	O
+
+# id = litbank-2217
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = the name of our house is windy corner . ”
+the	O
+name	O
+of	O
+our	O
+house	O
+is	O
+windy	B-LOCATION
+corner	I-LOCATION
+.	O
+”	O
+
+# id = litbank-2218
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -1027,7 +1147,7 @@ beebe	I-CHARACTER
 bowed	O
 .	O
 
-# id = litbank-1812
+# id = litbank-2219
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -1049,7 +1169,7 @@ dinner	O
 .	O
 ”	O
 
-# id = litbank-1813
+# id = litbank-2220
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -1082,7 +1202,71 @@ his	O
 sermons	O
 .	O
 
-# id = litbank-1814
+# id = litbank-2221
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = he asked the girl whether she knew florence well , and was informed at some length that she had never been there before .
+he	O
+asked	O
+the	O
+girl	O
+whether	O
+she	O
+knew	O
+florence	B-LOCATION
+well	O
+,	O
+and	O
+was	O
+informed	O
+at	O
+some	O
+length	O
+that	O
+she	O
+had	O
+never	O
+been	O
+there	O
+before	O
+.	O
+
+# id = litbank-2222
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = “ the first fine afternoon drive up to fiesole , and round by settignano , or something of that sort . ”
+“	O
+the	O
+first	O
+fine	O
+afternoon	O
+drive	O
+up	O
+to	O
+fiesole	B-LOCATION
+,	O
+and	O
+round	O
+by	O
+settignano	B-LOCATION
+,	O
+or	O
+something	O
+of	O
+that	O
+sort	O
+.	O
+”	O
+
+# id = litbank-2223
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -1099,7 +1283,28 @@ are	O
 wrong	O
 .	O
 
-# id = litbank-1815
+# id = litbank-2224
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = the first fine afternoon your ladies must go to prato . ”
+the	O
+first	O
+fine	O
+afternoon	O
+your	O
+ladies	O
+must	O
+go	O
+to	O
+prato	B-LOCATION
+.	O
+”	O
+
+# id = litbank-2225
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -1123,7 +1328,70 @@ her	O
 cousin	O
 .	O
 
-# id = litbank-1816
+# id = litbank-2226
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = the pension bertolini had decided , almost enthusiastically , that they would do .
+the	O
+pension	B-LOCATION
+bertolini	I-LOCATION
+had	O
+decided	O
+,	O
+almost	O
+enthusiastically	O
+,	O
+that	O
+they	O
+would	O
+do	O
+.	O
+
+# id = litbank-2227
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = and above all rose the voice of the clever lady , crying : “ prato !
+and	O
+above	O
+all	O
+rose	O
+the	O
+voice	O
+of	O
+the	O
+clever	O
+lady	O
+,	O
+crying	O
+:	O
+“	O
+prato	B-LOCATION
+!	O
+
+# id = litbank-2228
+# source = LitBank
+# book = A Room with a View
+# book_id = 2641_a_room_with_a_view
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2641_a_room_with_a_view_brat.tsv
+# text = they must go to prato .
+they	O
+must	O
+go	O
+to	O
+prato	B-LOCATION
+.	O
+
+# id = litbank-2229
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -1151,7 +1419,7 @@ his	O
 plate	O
 .	O
 
-# id = litbank-1817
+# id = litbank-2230
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -1176,7 +1444,7 @@ they	O
 did	O
 .	O
 
-# id = litbank-1777
+# id = litbank-2178
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -1215,7 +1483,7 @@ way	O
 apart	O
 .	O
 
-# id = litbank-1778
+# id = litbank-2179
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -1232,7 +1500,7 @@ besides	O
 !	O
 ”	O
 
-# id = litbank-1781
+# id = litbank-2183
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -1252,7 +1520,7 @@ the	O
 wall	O
 .	O
 
-# id = litbank-1783
+# id = litbank-2185
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view
@@ -1275,7 +1543,7 @@ just	O
 outside	O
 .	O
 
-# id = litbank-1784
+# id = litbank-2186
 # source = LitBank
 # book = A Room with a View
 # book_id = 2641_a_room_with_a_view

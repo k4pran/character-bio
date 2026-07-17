@@ -1,4 +1,74 @@
-# id = litbank-1302
+# id = litbank-1577
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = a voyage to lilliput .
+a	O
+voyage	O
+to	O
+lilliput	B-LOCATION
+.	O
+
+# id = litbank-1580
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = gets safe on shore in the country of lilliput ; is made a prisoner , and carried up the country .
+gets	O
+safe	O
+on	O
+shore	O
+in	O
+the	O
+country	O
+of	O
+lilliput	B-LOCATION
+;	O
+is	O
+made	O
+a	O
+prisoner	O
+,	O
+and	O
+carried	O
+up	O
+the	O
+country	O
+.	O
+
+# id = litbank-1581
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = my father had a small estate in nottinghamshire : i was the third of five sons .
+my	O
+father	O
+had	O
+a	O
+small	O
+estate	O
+in	O
+nottinghamshire	B-LOCATION
+:	O
+i	O
+was	O
+the	O
+third	O
+of	O
+five	O
+sons	O
+.	O
+
+# id = litbank-1582
 # source = LitBank
 # book = Gulliver's Travels
 # book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
@@ -10,10 +80,10 @@ he	O
 sent	O
 me	O
 to	O
-emanuel	O
-college	O
+emanuel	B-LOCATION
+college	I-LOCATION
 in	O
-cambridge	O
+cambridge	B-LOCATION
 at	O
 fourteen	O
 years	O
@@ -69,7 +139,7 @@ an	O
 eminent	O
 surgeon	O
 in	O
-london	O
+london	B-LOCATION
 ,	O
 with	O
 whom	O
@@ -79,7 +149,7 @@ four	O
 years	O
 .	O
 
-# id = litbank-1304
+# id = litbank-1584
 # source = LitBank
 # book = Gulliver's Travels
 # book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
@@ -134,7 +204,7 @@ to	O
 maintain	O
 me	O
 at	O
-leyden	O
+leyden	B-LOCATION
 :	O
 there	O
 i	O
@@ -156,7 +226,7 @@ long	O
 voyages	O
 .	O
 
-# id = litbank-1305
+# id = litbank-1585
 # source = LitBank
 # book = Gulliver's Travels
 # book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
@@ -169,7 +239,7 @@ after	O
 my	O
 return	O
 from	O
-leyden	O
+leyden	B-LOCATION
 ,	O
 i	O
 was	O
@@ -212,7 +282,7 @@ or	O
 two	O
 into	O
 the	O
-levant	O
+levant	B-LOCATION
 ,	O
 and	O
 some	O
@@ -220,7 +290,7 @@ other	O
 parts	O
 .	O
 
-# id = litbank-1306
+# id = litbank-1586
 # source = LitBank
 # book = Gulliver's Travels
 # book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
@@ -237,7 +307,7 @@ resolved	O
 to	O
 settle	O
 in	O
-london	O
+london	B-LOCATION
 ;	O
 to	O
 which	O
@@ -261,7 +331,7 @@ several	O
 patients	O
 .	O
 
-# id = litbank-1307
+# id = litbank-1587
 # source = LitBank
 # book = Gulliver's Travels
 # book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
@@ -279,7 +349,7 @@ house	O
 in	O
 the	O
 old	O
-jewry	O
+jewry	B-LOCATION
 ;	O
 and	O
 being	O
@@ -305,7 +375,7 @@ burton	I-CHARACTER
 hosier	O
 ,	O
 in	O
-newgate-street	O
+newgate-street	B-LOCATION
 ,	O
 with	O
 whom	O
@@ -319,7 +389,7 @@ a	O
 portion	O
 .	O
 
-# id = litbank-1308
+# id = litbank-1588
 # source = LitBank
 # book = Gulliver's Travels
 # book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
@@ -370,7 +440,91 @@ my	O
 brethren	O
 .	O
 
-# id = litbank-1309
+# id = litbank-1590
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = i was surgeon successively in two ships , and made several voyages , for six years , to the east and west indies , by which i got some addition to my fortune .
+i	O
+was	O
+surgeon	O
+successively	O
+in	O
+two	O
+ships	O
+,	O
+and	O
+made	O
+several	O
+voyages	O
+,	O
+for	O
+six	O
+years	O
+,	O
+to	O
+the	O
+east	O
+and	O
+west	B-LOCATION
+indies	I-LOCATION
+,	O
+by	O
+which	O
+i	O
+got	O
+some	O
+addition	O
+to	O
+my	O
+fortune	O
+.	O
+
+# id = litbank-1592
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = i removed from the old jewry to fetter lane , and from thence to wapping , hoping to get business among the sailors ; but it would not turn to account .
+i	O
+removed	O
+from	O
+the	O
+old	O
+jewry	B-LOCATION
+to	O
+fetter	B-LOCATION
+lane	I-LOCATION
+,	O
+and	O
+from	O
+thence	O
+to	O
+wapping	B-LOCATION
+,	O
+hoping	O
+to	O
+get	O
+business	O
+among	O
+the	O
+sailors	O
+;	O
+but	O
+it	O
+would	O
+not	O
+turn	O
+to	O
+account	O
+.	O
+
+# id = litbank-1593
 # source = LitBank
 # book = Gulliver's Travels
 # book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
@@ -413,7 +567,326 @@ south	O
 sea	O
 .	O
 
-# id = litbank-1298
+# id = litbank-1594
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = we set sail from bristol , may 4 , 1699 , and our voyage was at first very prosperous .
+we	O
+set	O
+sail	O
+from	O
+bristol	B-LOCATION
+,	O
+may	O
+4	O
+,	O
+1699	O
+,	O
+and	O
+our	O
+voyage	O
+was	O
+at	O
+first	O
+very	O
+prosperous	O
+.	O
+
+# id = litbank-1595
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = it would not be proper , for some reasons , to trouble the reader with the particulars of our adventures in those seas ; let it suffice to inform him , that in our passage from thence to the east indies , we were driven by a violent storm to the north-west of van diemen ’s land .
+it	O
+would	O
+not	O
+be	O
+proper	O
+,	O
+for	O
+some	O
+reasons	O
+,	O
+to	O
+trouble	O
+the	O
+reader	O
+with	O
+the	O
+particulars	O
+of	O
+our	O
+adventures	O
+in	O
+those	O
+seas	O
+;	O
+let	O
+it	O
+suffice	O
+to	O
+inform	O
+him	O
+,	O
+that	O
+in	O
+our	O
+passage	O
+from	O
+thence	O
+to	O
+the	O
+east	B-LOCATION
+indies	I-LOCATION
+,	O
+we	O
+were	O
+driven	O
+by	O
+a	O
+violent	O
+storm	O
+to	O
+the	O
+north-west	O
+of	O
+van	O
+diemen	B-LOCATION
+’s	O
+land	O
+.	O
+
+# id = litbank-1596
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = but the creatures ran off a second time , before i could seize them ; whereupon there was a great shout in a very shrill accent , and after it ceased i heard one of them cry aloud _ tolgo phonac _ ; when in an instant i felt above a hundred arrows discharged on my left hand , which , pricked me like so many needles ; and besides , they shot another flight into the air , as we do bombs in europe , whereof many , i suppose , fell on my body , ( though i felt them not ) , and some on my face , which i immediately covered with my left hand .
+but	O
+the	O
+creatures	O
+ran	O
+off	O
+a	O
+second	O
+time	O
+,	O
+before	O
+i	O
+could	O
+seize	O
+them	O
+;	O
+whereupon	O
+there	O
+was	O
+a	O
+great	O
+shout	O
+in	O
+a	O
+very	O
+shrill	O
+accent	O
+,	O
+and	O
+after	O
+it	O
+ceased	O
+i	O
+heard	O
+one	O
+of	O
+them	O
+cry	O
+aloud	O
+_	O
+tolgo	O
+phonac	O
+_	O
+;	O
+when	O
+in	O
+an	O
+instant	O
+i	O
+felt	O
+above	O
+a	O
+hundred	O
+arrows	O
+discharged	O
+on	O
+my	O
+left	O
+hand	O
+,	O
+which	O
+,	O
+pricked	O
+me	O
+like	O
+so	O
+many	O
+needles	O
+;	O
+and	O
+besides	O
+,	O
+they	O
+shot	O
+another	O
+flight	O
+into	O
+the	O
+air	O
+,	O
+as	O
+we	O
+do	O
+bombs	O
+in	O
+europe	B-LOCATION
+,	O
+whereof	O
+many	O
+,	O
+i	O
+suppose	O
+,	O
+fell	O
+on	O
+my	O
+body	O
+,	O
+(	O
+though	O
+i	O
+felt	O
+them	O
+not	O
+)	O
+,	O
+and	O
+some	O
+on	O
+my	O
+face	O
+,	O
+which	O
+i	O
+immediately	O
+covered	O
+with	O
+my	O
+left	O
+hand	O
+.	O
+
+# id = litbank-1597
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = they found by my eating that a small quantity would not suffice me ; and being a most ingenious people , they slung up , with great dexterity , one of their largest hogsheads , then rolled it towards my hand , and beat out the top ; i drank it off at a draught , which i might well do , for it did not hold half a pint , and tasted like a small wine of burgundy , but much more delicious .
+they	O
+found	O
+by	O
+my	O
+eating	O
+that	O
+a	O
+small	O
+quantity	O
+would	O
+not	O
+suffice	O
+me	O
+;	O
+and	O
+being	O
+a	O
+most	O
+ingenious	O
+people	O
+,	O
+they	O
+slung	O
+up	O
+,	O
+with	O
+great	O
+dexterity	O
+,	O
+one	O
+of	O
+their	O
+largest	O
+hogsheads	O
+,	O
+then	O
+rolled	O
+it	O
+towards	O
+my	O
+hand	O
+,	O
+and	O
+beat	O
+out	O
+the	O
+top	O
+;	O
+i	O
+drank	O
+it	O
+off	O
+at	O
+a	O
+draught	O
+,	O
+which	O
+i	O
+might	O
+well	O
+do	O
+,	O
+for	O
+it	O
+did	O
+not	O
+hold	O
+half	O
+a	O
+pint	O
+,	O
+and	O
+tasted	O
+like	O
+a	O
+small	O
+wine	O
+of	O
+burgundy	B-LOCATION
+,	O
+but	O
+much	O
+more	O
+delicious	O
+.	O
+
+# id = litbank-1578
 # source = LitBank
 # book = Gulliver's Travels
 # book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
@@ -432,7 +905,7 @@ and	O
 family	O
 .	O
 
-# id = litbank-1299
+# id = litbank-1579
 # source = LitBank
 # book = Gulliver's Travels
 # book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
@@ -451,63 +924,7 @@ his	O
 life	O
 .	O
 
-# id = litbank-1300
-# source = LitBank
-# book = Gulliver's Travels
-# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
-# text = gets safe on shore in the country of lilliput ; is made a prisoner , and carried up the country .
-gets	O
-safe	O
-on	O
-shore	O
-in	O
-the	O
-country	O
-of	O
-lilliput	O
-;	O
-is	O
-made	O
-a	O
-prisoner	O
-,	O
-and	O
-carried	O
-up	O
-the	O
-country	O
-.	O
-
-# id = litbank-1301
-# source = LitBank
-# book = Gulliver's Travels
-# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
-# text = my father had a small estate in nottinghamshire : i was the third of five sons .
-my	O
-father	O
-had	O
-a	O
-small	O
-estate	O
-in	O
-nottinghamshire	O
-:	O
-i	O
-was	O
-the	O
-third	O
-of	O
-five	O
-sons	O
-.	O
-
-# id = litbank-1303
+# id = litbank-1583
 # source = LitBank
 # book = Gulliver's Travels
 # book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
@@ -567,5 +984,107 @@ my	O
 fortune	O
 to	O
 do	O
+.	O
+
+# id = litbank-1589
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = having therefore consulted with my wife , and some of my acquaintance , i determined to go again to sea .
+having	O
+therefore	O
+consulted	O
+with	O
+my	O
+wife	O
+,	O
+and	O
+some	O
+of	O
+my	O
+acquaintance	O
+,	O
+i	O
+determined	O
+to	O
+go	O
+again	O
+to	O
+sea	O
+.	O
+
+# id = litbank-1591
+# source = LitBank
+# book = Gulliver's Travels
+# book_id = 829_gullivers_travels_into_several_remote_nations_of_the_world
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+# text = my hours of leisure i spent in reading the best authors , ancient and modern , being always provided with a good number of books ; and when i was ashore , in observing the manners and dispositions of the people , as well as learning their language ; wherein i had a great facility , by the strength of my memory .
+my	O
+hours	O
+of	O
+leisure	O
+i	O
+spent	O
+in	O
+reading	O
+the	O
+best	O
+authors	O
+,	O
+ancient	O
+and	O
+modern	O
+,	O
+being	O
+always	O
+provided	O
+with	O
+a	O
+good	O
+number	O
+of	O
+books	O
+;	O
+and	O
+when	O
+i	O
+was	O
+ashore	O
+,	O
+in	O
+observing	O
+the	O
+manners	O
+and	O
+dispositions	O
+of	O
+the	O
+people	O
+,	O
+as	O
+well	O
+as	O
+learning	O
+their	O
+language	O
+;	O
+wherein	O
+i	O
+had	O
+a	O
+great	O
+facility	O
+,	O
+by	O
+the	O
+strength	O
+of	O
+my	O
+memory	O
 .	O
 

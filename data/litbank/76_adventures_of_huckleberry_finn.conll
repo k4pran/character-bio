@@ -1,4 +1,4 @@
-# id = litbank-0316
+# id = litbank-0364
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -36,7 +36,7 @@ no	O
 matter	O
 .	O
 
-# id = litbank-0319
+# id = litbank-0367
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -70,7 +70,7 @@ maybe	O
 mary	B-CHARACTER
 .	O
 
-# id = litbank-0320
+# id = litbank-0368
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -121,7 +121,7 @@ said	O
 before	O
 .	O
 
-# id = litbank-0321
+# id = litbank-0369
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -161,7 +161,7 @@ us	O
 rich	O
 .	O
 
-# id = litbank-0324
+# id = litbank-0372
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -209,7 +209,7 @@ do	O
 with	O
 .	O
 
-# id = litbank-0325
+# id = litbank-0373
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -275,7 +275,7 @@ lit	O
 out	O
 .	O
 
-# id = litbank-0327
+# id = litbank-0375
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -319,7 +319,7 @@ be	O
 respectable	O
 .	O
 
-# id = litbank-0328
+# id = litbank-0376
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -397,7 +397,7 @@ dead	O
 people	O
 .	O
 
-# id = litbank-0329
+# id = litbank-0377
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -451,7 +451,7 @@ in	O
 it	O
 .	O
 
-# id = litbank-0330
+# id = litbank-0378
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -495,7 +495,7 @@ a	O
 spelling-book	O
 .	O
 
-# id = litbank-0331
+# id = litbank-0379
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -564,7 +564,7 @@ behave	O
 ?	O
 ”	O
 
-# id = litbank-0332
+# id = litbank-0380
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -594,7 +594,7 @@ considerable	O
 sight	O
 .	O
 
-# id = litbank-0333
+# id = litbank-0381
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -618,7 +618,7 @@ and	O
 lonesome	O
 .	O
 
-# id = litbank-0334
+# id = litbank-0382
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -654,7 +654,7 @@ for	O
 me	O
 .	O
 
-# id = litbank-0335
+# id = litbank-0383
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -694,7 +694,7 @@ behind	O
 him	O
 .	O
 
-# id = litbank-0336
+# id = litbank-0384
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -715,7 +715,7 @@ is	O
 you	O
 ?	O
 
-# id = litbank-0337
+# id = litbank-0385
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -736,7 +736,7 @@ and	O
 tom	B-CHARACTER
 .	O
 
-# id = litbank-0338
+# id = litbank-0386
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -768,7 +768,7 @@ comfortable	O
 again	O
 .	O
 
-# id = litbank-0317
+# id = litbank-0365
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -794,7 +794,7 @@ truth	O
 mainly	O
 .	O
 
-# id = litbank-0318
+# id = litbank-0366
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -817,7 +817,7 @@ the	O
 truth	O
 .	O
 
-# id = litbank-0322
+# id = litbank-0370
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -836,7 +836,7 @@ all	O
 gold	O
 .	O
 
-# id = litbank-0323
+# id = litbank-0371
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn
@@ -858,7 +858,7 @@ piled	O
 up	O
 .	O
 
-# id = litbank-0326
+# id = litbank-0374
 # source = LitBank
 # book = Adventures of Huckleberry Finn
 # book_id = 76_adventures_of_huckleberry_finn

@@ -1,4 +1,4 @@
-# id = litbank-2053
+# id = litbank-2519
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -23,7 +23,7 @@ lemon	O
 platt	O
 .	O
 
-# id = litbank-2058
+# id = litbank-2524
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -38,7 +38,7 @@ dante	B-CHARACTER
 clapped	O
 .	O
 
-# id = litbank-2059
+# id = litbank-2525
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -63,7 +63,7 @@ than	O
 dante	B-CHARACTER
 .	O
 
-# id = litbank-2060
+# id = litbank-2526
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -80,7 +80,7 @@ her	O
 press	O
 .	O
 
-# id = litbank-2061
+# id = litbank-2527
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -105,7 +105,7 @@ tissue	O
 paper	O
 .	O
 
-# id = litbank-2062
+# id = litbank-2528
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -122,7 +122,7 @@ and	O
 mother	O
 .	O
 
-# id = litbank-2063
+# id = litbank-2529
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -143,7 +143,7 @@ marry	O
 eileen	B-CHARACTER
 .	O
 
-# id = litbank-2064
+# id = litbank-2530
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -163,7 +163,7 @@ will	O
 apologize	O
 .	O
 
-# id = litbank-2065
+# id = litbank-2531
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -191,7 +191,7 @@ his	O
 eyes	O
 .	O
 
-# id = litbank-2066
+# id = litbank-2532
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -220,7 +220,7 @@ fellows	O
 said	O
 .	O
 
-# id = litbank-2067
+# id = litbank-2533
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -242,7 +242,7 @@ a	O
 stink	O
 .	O
 
-# id = litbank-2068
+# id = litbank-2534
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -265,7 +265,7 @@ the	O
 refectory	O
 .	O
 
-# id = litbank-2069
+# id = litbank-2535
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -280,7 +280,7 @@ big	O
 hands	O
 .	O
 
-# id = litbank-2070
+# id = litbank-2536
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -296,7 +296,7 @@ stephen	B-CHARACTER
 dedalus	I-CHARACTER
 .	O
 
-# id = litbank-2071
+# id = litbank-2537
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -320,7 +320,7 @@ is	O
 that	O
 ?	O
 
-# id = litbank-2072
+# id = litbank-2538
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -349,7 +349,7 @@ your	O
 father	O
 ?	O
 
-# id = litbank-2073
+# id = litbank-2539
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -366,7 +366,7 @@ a	O
 gentleman	O
 .	O
 
-# id = litbank-2074
+# id = litbank-2540
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -387,7 +387,7 @@ a	O
 magistrate	O
 ?	O
 
-# id = litbank-2075
+# id = litbank-2541
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -416,7 +416,7 @@ a	O
 second	O
 .	O
 
-# id = litbank-2076
+# id = litbank-2542
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -436,7 +436,7 @@ your	O
 match	O
 .	O
 
-# id = litbank-2077
+# id = litbank-2543
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -451,7 +451,7 @@ a	O
 belt	O
 .	O
 
-# id = litbank-2078
+# id = litbank-2544
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -480,7 +480,7 @@ stephen	B-CHARACTER
 goodbye	O
 !	O
 
-# id = litbank-2079
+# id = litbank-2545
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -496,7 +496,7 @@ stephen	B-CHARACTER
 goodbye	O
 !	O
 
-# id = litbank-2080
+# id = litbank-2546
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -525,7 +525,43 @@ ran	O
 after	O
 .	O
 
-# id = litbank-2081
+# id = litbank-2547
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = perhaps leicester abbey was like that .
+perhaps	O
+leicester	B-LOCATION
+abbey	I-LOCATION
+was	O
+like	O
+that	O
+.	O
+
+# id = litbank-2548
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = wolsey died in leicester abbey where the abbots buried him .
+wolsey	O
+died	O
+in	O
+leicester	B-LOCATION
+abbey	I-LOCATION
+where	O
+the	O
+abbots	O
+buried	O
+him	O
+.	O
+
+# id = litbank-2549
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -567,7 +603,7 @@ of	O
 forty	O
 .	O
 
-# id = litbank-2082
+# id = litbank-2550
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -593,7 +629,7 @@ the	O
 tea	O
 .	O
 
-# id = litbank-2083
+# id = litbank-2551
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -609,7 +645,46 @@ of	O
 things	O
 .	O
 
-# id = litbank-2084
+# id = litbank-2552
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = she had taught him where the mozambique channel was and what was the longest river in america and what was the name of the highest mountain in the moon .
+she	O
+had	O
+taught	O
+him	O
+where	O
+the	O
+mozambique	B-LOCATION
+channel	I-LOCATION
+was	O
+and	O
+what	O
+was	O
+the	O
+longest	O
+river	O
+in	O
+america	B-LOCATION
+and	O
+what	O
+was	O
+the	O
+name	O
+of	O
+the	O
+highest	O
+mountain	O
+in	O
+the	O
+moon	O
+.	O
+
+# id = litbank-2553
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -648,7 +723,7 @@ well-read	O
 woman	O
 .	O
 
-# id = litbank-2085
+# id = litbank-2554
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -679,7 +754,7 @@ was	O
 heartburn	O
 .	O
 
-# id = litbank-2086
+# id = litbank-2555
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -698,7 +773,7 @@ greasy	O
 lace	O
 .	O
 
-# id = litbank-2087
+# id = litbank-2556
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -719,7 +794,7 @@ was	O
 looking	O
 .	O
 
-# id = litbank-2088
+# id = litbank-2557
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -745,7 +820,7 @@ you	O
 speak	O
 .	O
 
-# id = litbank-2089
+# id = litbank-2558
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -760,7 +835,7 @@ mcglade	B-CHARACTER
 suck	O
 .	O
 
-# id = litbank-2090
+# id = litbank-2559
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -801,7 +876,53 @@ be	O
 angry	O
 .	O
 
-# id = litbank-2091
+# id = litbank-2560
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = once he had washed his hands in the lavatory of the wicklow hotel and his father pulled the stopper up by the chain after and the dirty water went down through the hole in the basin .
+once	O
+he	O
+had	O
+washed	O
+his	O
+hands	O
+in	O
+the	O
+lavatory	O
+of	O
+the	O
+wicklow	B-LOCATION
+hotel	I-LOCATION
+and	O
+his	O
+father	O
+pulled	O
+the	O
+stopper	O
+up	O
+by	O
+the	O
+chain	O
+after	O
+and	O
+the	O
+dirty	O
+water	O
+went	O
+down	O
+through	O
+the	O
+hole	O
+in	O
+the	O
+basin	O
+.	O
+
+# id = litbank-2561
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -826,7 +947,35 @@ felt	O
 confused	O
 .	O
 
-# id = litbank-2092
+# id = litbank-2562
+# source = LitBank
+# book = A Portrait of the Artist as a Young Man
+# book_id = 4217_a_portrait_of_the_artist_as_a_young_man
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4217_a_portrait_of_the_artist_as_a_young_man_brat.tsv
+# text = he was no good at sums , but he tried his best so that york might not lose .
+he	O
+was	O
+no	O
+good	O
+at	O
+sums	O
+,	O
+but	O
+he	O
+tried	O
+his	O
+best	O
+so	O
+that	O
+york	B-LOCATION
+might	O
+not	O
+lose	O
+.	O
+
+# id = litbank-2563
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -854,7 +1003,7 @@ said	O
 right	O
 .	O
 
-# id = litbank-2093
+# id = litbank-2564
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -871,7 +1020,7 @@ his	O
 side	O
 .	O
 
-# id = litbank-2094
+# id = litbank-2565
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -907,7 +1056,7 @@ or	O
 he	O
 .	O
 
-# id = litbank-2095
+# id = litbank-2566
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -935,7 +1084,7 @@ for	O
 first	O
 .	O
 
-# id = litbank-2052
+# id = litbank-2518
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -1007,7 +1156,7 @@ hairy	O
 face	O
 .	O
 
-# id = litbank-2054
+# id = litbank-2520
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -1028,7 +1177,7 @@ green	O
 place	O
 .	O
 
-# id = litbank-2055
+# id = litbank-2521
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -1051,7 +1200,7 @@ gets	O
 cold	O
 .	O
 
-# id = litbank-2056
+# id = litbank-2522
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man
@@ -1070,7 +1219,7 @@ his	O
 father	O
 .	O
 
-# id = litbank-2057
+# id = litbank-2523
 # source = LitBank
 # book = A Portrait of the Artist as a Young Man
 # book_id = 4217_a_portrait_of_the_artist_as_a_young_man

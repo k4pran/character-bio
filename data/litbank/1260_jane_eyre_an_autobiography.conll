@@ -1,4 +1,4 @@
-# id = litbank-1541
+# id = litbank-1887
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -69,7 +69,7 @@ the	O
 question	O
 .	O
 
-# id = litbank-1542
+# id = litbank-1888
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -144,7 +144,7 @@ georgiana	B-CHARACTER
 reed	I-CHARACTER
 .	O
 
-# id = litbank-1543
+# id = litbank-1889
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -200,7 +200,7 @@ perfectly	O
 happy	O
 .	O
 
-# id = litbank-1544
+# id = litbank-1890
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -305,7 +305,7 @@ children	O
 .	O
 "	O
 
-# id = litbank-1545
+# id = litbank-1891
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -324,7 +324,7 @@ done	O
 ?	O
 "	O
 
-# id = litbank-1546
+# id = litbank-1892
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -362,7 +362,192 @@ that	O
 manner	O
 .	O
 
-# id = litbank-1551
+# id = litbank-1897
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = they were those which treat of the haunts of sea-fowl ; of " the solitary rocks and promontories " by them only inhabited ; of the coast of norway , studded with isles from its southern extremity , the lindeness , or naze , to the north cape -- " where the northern ocean , in vast whirls , boils round the naked , melancholy isles of farthest thule ; and the atlantic surge pours in among the stormy hebrides . "
+they	O
+were	O
+those	O
+which	O
+treat	O
+of	O
+the	O
+haunts	O
+of	O
+sea-fowl	O
+;	O
+of	O
+"	O
+the	O
+solitary	O
+rocks	O
+and	O
+promontories	O
+"	O
+by	O
+them	O
+only	O
+inhabited	O
+;	O
+of	O
+the	O
+coast	O
+of	O
+norway	B-LOCATION
+,	O
+studded	O
+with	O
+isles	O
+from	O
+its	O
+southern	O
+extremity	O
+,	O
+the	O
+lindeness	B-LOCATION
+,	O
+or	O
+naze	B-LOCATION
+,	O
+to	O
+the	O
+north	B-LOCATION
+cape	I-LOCATION
+--	O
+"	O
+where	O
+the	O
+northern	O
+ocean	B-LOCATION
+,	O
+in	O
+vast	O
+whirls	O
+,	O
+boils	O
+round	O
+the	O
+naked	O
+,	O
+melancholy	O
+isles	O
+of	O
+farthest	O
+thule	B-LOCATION
+;	O
+and	O
+the	O
+atlantic	B-LOCATION
+surge	O
+pours	O
+in	O
+among	O
+the	O
+stormy	O
+hebrides	B-LOCATION
+.	O
+"	O
+
+# id = litbank-1898
+# source = LitBank
+# book = Jane Eyre
+# book_id = 1260_jane_eyre_an_autobiography
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1260_jane_eyre_an_autobiography_brat.tsv
+# text = nor could i pass unnoticed the suggestion of the bleak shores of lapland , siberia , spitzbergen , nova zembla , iceland , greenland , with " the vast sweep of the arctic zone , and those forlorn regions of dreary space , -- that reservoir of frost and snow , where firm fields of ice , the accumulation of centuries of winters , glazed in alpine heights above heights , surround the pole , and concentre the multiplied rigours of extreme cold . "
+nor	O
+could	O
+i	O
+pass	O
+unnoticed	O
+the	O
+suggestion	O
+of	O
+the	O
+bleak	O
+shores	O
+of	O
+lapland	B-LOCATION
+,	O
+siberia	B-LOCATION
+,	O
+spitzbergen	B-LOCATION
+,	O
+nova	B-LOCATION
+zembla	B-LOCATION
+,	O
+iceland	B-LOCATION
+,	O
+greenland	B-LOCATION
+,	O
+with	O
+"	O
+the	O
+vast	O
+sweep	O
+of	O
+the	O
+arctic	B-LOCATION
+zone	I-LOCATION
+,	O
+and	O
+those	O
+forlorn	O
+regions	O
+of	O
+dreary	O
+space	O
+,	O
+--	O
+that	O
+reservoir	O
+of	O
+frost	O
+and	O
+snow	O
+,	O
+where	O
+firm	O
+fields	O
+of	O
+ice	O
+,	O
+the	O
+accumulation	O
+of	O
+centuries	O
+of	O
+winters	O
+,	O
+glazed	O
+in	O
+alpine	O
+heights	O
+above	O
+heights	O
+,	O
+surround	O
+the	O
+pole	O
+,	O
+and	O
+concentre	O
+the	O
+multiplied	O
+rigours	O
+of	O
+extreme	O
+cold	O
+.	O
+"	O
+
+# id = litbank-1899
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -492,7 +677,7 @@ of	O
 moreland	O
 .	O
 
-# id = litbank-1552
+# id = litbank-1900
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -519,7 +704,7 @@ apparently	O
 empty	O
 .	O
 
-# id = litbank-1553
+# id = litbank-1901
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -531,7 +716,7 @@ empty	O
 lizzy	B-CHARACTER
 !	O
 
-# id = litbank-1554
+# id = litbank-1902
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -542,7 +727,7 @@ lizzy	B-CHARACTER
 georgy	B-CHARACTER
 !	O
 
-# id = litbank-1555
+# id = litbank-1903
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -576,7 +761,7 @@ animal	O
 !	O
 "	O
 
-# id = litbank-1556
+# id = litbank-1904
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -659,7 +844,7 @@ jack	B-CHARACTER
 .	O
 "	O
 
-# id = litbank-1557
+# id = litbank-1905
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -689,7 +874,7 @@ said	O
 jack	B-CHARACTER
 .	O
 
-# id = litbank-1558
+# id = litbank-1906
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -712,7 +897,7 @@ reed	I-CHARACTER
 '	O
 "	O
 
-# id = litbank-1559
+# id = litbank-1907
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -770,7 +955,7 @@ large	O
 extremities	O
 .	O
 
-# id = litbank-1560
+# id = litbank-1908
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -841,7 +1026,7 @@ after	O
 home	O
 .	O
 
-# id = litbank-1561
+# id = litbank-1909
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -867,7 +1052,7 @@ to	O
 me	O
 .	O
 
-# id = litbank-1562
+# id = litbank-1910
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -963,7 +1148,7 @@ her	O
 back	O
 .	O
 
-# id = litbank-1563
+# id = litbank-1911
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -1035,7 +1220,7 @@ deal	O
 it	O
 .	O
 
-# id = litbank-1564
+# id = litbank-1912
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -1076,7 +1261,7 @@ the	O
 insult	O
 .	O
 
-# id = litbank-1540
+# id = litbank-1886
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -1098,7 +1283,7 @@ that	O
 day	O
 .	O
 
-# id = litbank-1547
+# id = litbank-1893
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -1122,7 +1307,7 @@ silent	O
 .	O
 "	O
 
-# id = litbank-1548
+# id = litbank-1894
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -1142,7 +1327,7 @@ in	O
 there	O
 .	O
 
-# id = litbank-1549
+# id = litbank-1895
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography
@@ -1175,7 +1360,7 @@ with	O
 pictures	O
 .	O
 
-# id = litbank-1550
+# id = litbank-1896
 # source = LitBank
 # book = Jane Eyre
 # book_id = 1260_jane_eyre_an_autobiography

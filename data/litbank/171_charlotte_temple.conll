@@ -1,4 +1,17 @@
-# id = litbank-0637
+# id = litbank-0751
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = a boarding school .
+a	O
+boarding	B-LOCATION
+school	I-LOCATION
+.	O
+
+# id = litbank-0752
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -34,7 +47,28 @@ a	O
 walk	O
 ?	O
 
-# id = litbank-0639
+# id = litbank-0753
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = or shall we order the chaise and proceed to portsmouth ? ”
+or	O
+shall	O
+we	O
+order	O
+the	O
+chaise	O
+and	O
+proceed	O
+to	O
+portsmouth	B-LOCATION
+?	O
+”	O
+
+# id = litbank-0754
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -71,7 +105,7 @@ from	O
 church	O
 .	O
 
-# id = litbank-0640
+# id = litbank-0755
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -107,14 +141,14 @@ to	O
 their	O
 departure	O
 for	O
-america	O
+america	B-LOCATION
 ,	O
 and	O
 were	O
 now	O
 returning	O
 to	O
-portsmouth	O
+portsmouth	B-LOCATION
 ,	O
 where	O
 the	O
@@ -125,7 +159,69 @@ for	O
 embarkation	O
 .	O
 
-# id = litbank-0642
+# id = litbank-0756
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = they had stopped at chichester to dine ; and knowing they had sufficient time to reach the place of destination before dark , and yet allow them a walk , had resolved , it being sunday afternoon , to take a survey of the chichester ladies as they returned from their devotions .
+they	O
+had	O
+stopped	O
+at	O
+chichester	B-LOCATION
+to	O
+dine	O
+;	O
+and	O
+knowing	O
+they	O
+had	O
+sufficient	O
+time	O
+to	O
+reach	O
+the	O
+place	O
+of	O
+destination	O
+before	O
+dark	O
+,	O
+and	O
+yet	O
+allow	O
+them	O
+a	O
+walk	O
+,	O
+had	O
+resolved	O
+,	O
+it	O
+being	O
+sunday	O
+afternoon	O
+,	O
+to	O
+take	O
+a	O
+survey	O
+of	O
+the	O
+chichester	B-LOCATION
+ladies	O
+as	O
+they	O
+returned	O
+from	O
+their	O
+devotions	O
+.	O
+
+# id = litbank-0757
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -175,7 +271,7 @@ the	O
 church	O
 .	O
 
-# id = litbank-0644
+# id = litbank-0759
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -215,10 +311,10 @@ at	O
 a	O
 ball	O
 at	O
-portsmouth	O
+portsmouth	B-LOCATION
 .	O
 
-# id = litbank-0647
+# id = litbank-0763
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -230,7 +326,7 @@ belcour	B-CHARACTER
 stared	O
 .	O
 
-# id = litbank-0648
+# id = litbank-0764
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -283,7 +379,7 @@ heart	O
 .	O
 ”	O
 
-# id = litbank-0649
+# id = litbank-0765
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -322,7 +418,7 @@ worse	O
 .	O
 ”	O
 
-# id = litbank-0650
+# id = litbank-0766
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -384,7 +480,7 @@ interview	O
 .	O
 ”	O
 
-# id = litbank-0651
+# id = litbank-0767
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -425,7 +521,7 @@ to	O
 take	O
 leave	O
 of	O
-chichester	O
+chichester	B-LOCATION
 and	O
 its	O
 fair	O
@@ -438,7 +534,73 @@ their	O
 journey	O
 .	O
 
-# id = litbank-0652
+# id = litbank-0768
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = but charlotte had made too great an impression on his mind to be easily eradicated : having therefore spent three whole days in thinking on her and in endeavouring to form some plan for seeing her , he determined to set off for chichester , and trust to chance either to favour or frustrate his designs .
+but	O
+charlotte	B-LOCATION
+had	O
+made	O
+too	O
+great	O
+an	O
+impression	O
+on	O
+his	O
+mind	O
+to	O
+be	O
+easily	O
+eradicated	O
+:	O
+having	O
+therefore	O
+spent	O
+three	O
+whole	O
+days	O
+in	O
+thinking	O
+on	O
+her	O
+and	O
+in	O
+endeavouring	O
+to	O
+form	O
+some	O
+plan	O
+for	O
+seeing	O
+her	O
+,	O
+he	O
+determined	O
+to	O
+set	O
+off	O
+for	O
+chichester	B-LOCATION
+,	O
+and	O
+trust	O
+to	O
+chance	O
+either	O
+to	O
+favour	O
+or	O
+frustrate	O
+his	O
+designs	O
+.	O
+
+# id = litbank-0769
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -493,7 +655,7 @@ charlotte	B-CHARACTER
 temple	O
 .	O
 
-# id = litbank-0653
+# id = litbank-0770
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -516,7 +678,120 @@ the	O
 house	O
 .	O
 
-# id = litbank-0654
+# id = litbank-0772
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = “‘ tis a romantic attempt , ” said he ; “ and should i even succeed in seeing and conversing with her , it can be productive of no good : i must of necessity leave england in a few days , and probably may never return ; why then should i endeavour to engage the affections of this lovely girl , only to leave her a prey to a thousand inquietudes , of which at present she has no idea ?
+“‘	O
+tis	O
+a	O
+romantic	O
+attempt	O
+,	O
+”	O
+said	O
+he	O
+;	O
+“	O
+and	O
+should	O
+i	O
+even	O
+succeed	O
+in	O
+seeing	O
+and	O
+conversing	O
+with	O
+her	O
+,	O
+it	O
+can	O
+be	O
+productive	O
+of	O
+no	O
+good	O
+:	O
+i	O
+must	O
+of	O
+necessity	O
+leave	O
+england	B-LOCATION
+in	O
+a	O
+few	O
+days	O
+,	O
+and	O
+probably	O
+may	O
+never	O
+return	O
+;	O
+why	O
+then	O
+should	O
+i	O
+endeavour	O
+to	O
+engage	O
+the	O
+affections	O
+of	O
+this	O
+lovely	O
+girl	O
+,	O
+only	O
+to	O
+leave	O
+her	O
+a	O
+prey	O
+to	O
+a	O
+thousand	O
+inquietudes	O
+,	O
+of	O
+which	O
+at	O
+present	O
+she	O
+has	O
+no	O
+idea	O
+?	O
+
+# id = litbank-0773
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = i will return to portsmouth and think no more about her . ”
+i	O
+will	O
+return	O
+to	O
+portsmouth	B-LOCATION
+and	O
+think	O
+no	O
+more	O
+about	O
+her	O
+.	O
+”	O
+
+# id = litbank-0774
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -541,7 +816,7 @@ surrounding	O
 objects	O
 .	O
 
-# id = litbank-0655
+# id = litbank-0775
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -607,7 +882,7 @@ charlotte	B-CHARACTER
 temple	O
 .	O
 
-# id = litbank-0656
+# id = litbank-0776
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -680,7 +955,93 @@ next	O
 evening	O
 .	O
 
-# id = litbank-0657
+# id = litbank-0777
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = “ you can not oblige me more , ” said temple , “ than to point out any way by which i can be serviceable to my fellow creatures . ”
+“	O
+you	O
+can	O
+not	O
+oblige	O
+me	O
+more	O
+,	O
+”	O
+said	O
+temple	B-LOCATION
+,	O
+“	O
+than	O
+to	O
+point	O
+out	O
+any	O
+way	O
+by	O
+which	O
+i	O
+can	O
+be	O
+serviceable	O
+to	O
+my	O
+fellow	O
+creatures	O
+.	O
+”	O
+
+# id = litbank-0778
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = the young man ’s heart was too full to proceed ; and temple , unwilling to irritate his feelings by making further enquiries , followed him in silence , til they arrived at the fleet prison .
+the	O
+young	O
+man	O
+’s	O
+heart	O
+was	O
+too	O
+full	O
+to	O
+proceed	O
+;	O
+and	O
+temple	O
+,	O
+unwilling	O
+to	O
+irritate	O
+his	O
+feelings	O
+by	O
+making	O
+further	O
+enquiries	O
+,	O
+followed	O
+him	O
+in	O
+silence	O
+,	O
+til	O
+they	O
+arrived	O
+at	O
+the	O
+fleet	B-LOCATION
+prison	I-LOCATION
+.	O
+
+# id = litbank-0779
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -724,7 +1085,7 @@ said	O
 that	O
 was	O
 the	O
-captain	O
+captain	B-LOCATION
 ’s	O
 room	O
 ,	O
@@ -732,7 +1093,7 @@ and	O
 retired	O
 .	O
 
-# id = litbank-0658
+# id = litbank-0780
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -765,7 +1126,7 @@ melodiously	O
 soft	O
 .	O
 
-# id = litbank-0659
+# id = litbank-0781
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -823,7 +1184,7 @@ evident	O
 composure	O
 .	O
 
-# id = litbank-0660
+# id = litbank-0782
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -858,7 +1219,7 @@ was	O
 painting	O
 .	O
 
-# id = litbank-0661
+# id = litbank-0783
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -925,90 +1286,7 @@ own	O
 .	O
 ”	O
 
-# id = litbank-0638
-# source = LitBank
-# book = Charlotte Temple
-# book_id = 171_charlotte_temple
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/171_charlotte_temple_brat.tsv
-# text = or shall we order the chaise and proceed to portsmouth ? ”
-or	O
-shall	O
-we	O
-order	O
-the	O
-chaise	O
-and	O
-proceed	O
-to	O
-portsmouth	O
-?	O
-”	O
-
-# id = litbank-0641
-# source = LitBank
-# book = Charlotte Temple
-# book_id = 171_charlotte_temple
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/171_charlotte_temple_brat.tsv
-# text = they had stopped at chichester to dine ; and knowing they had sufficient time to reach the place of destination before dark , and yet allow them a walk , had resolved , it being sunday afternoon , to take a survey of the chichester ladies as they returned from their devotions .
-they	O
-had	O
-stopped	O
-at	O
-chichester	O
-to	O
-dine	O
-;	O
-and	O
-knowing	O
-they	O
-had	O
-sufficient	O
-time	O
-to	O
-reach	O
-the	O
-place	O
-of	O
-destination	O
-before	O
-dark	O
-,	O
-and	O
-yet	O
-allow	O
-them	O
-a	O
-walk	O
-,	O
-had	O
-resolved	O
-,	O
-it	O
-being	O
-sunday	O
-afternoon	O
-,	O
-to	O
-take	O
-a	O
-survey	O
-of	O
-the	O
-chichester	O
-ladies	O
-as	O
-they	O
-returned	O
-from	O
-their	O
-devotions	O
-.	O
-
-# id = litbank-0643
+# id = litbank-0758
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -1048,7 +1326,7 @@ their	O
 hats	O
 .	O
 
-# id = litbank-0645
+# id = litbank-0760
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -1110,7 +1388,7 @@ pleasing	O
 ideas	O
 .	O
 
-# id = litbank-0646
+# id = litbank-0761
 # source = LitBank
 # book = Charlotte Temple
 # book_id = 171_charlotte_temple
@@ -1150,5 +1428,72 @@ to	O
 see	O
 her	O
 again	O
+.	O
+
+# id = litbank-0762
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = “ she is the sweetest girl in the world , ” said he , as he entered the inn .
+“	O
+she	O
+is	O
+the	O
+sweetest	O
+girl	O
+in	O
+the	O
+world	O
+,	O
+”	O
+said	O
+he	O
+,	O
+as	O
+he	O
+entered	O
+the	O
+inn	O
+.	O
+
+# id = litbank-0771
+# source = LitBank
+# book = Charlotte Temple
+# book_id = 171_charlotte_temple
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/171_charlotte_temple_brat.tsv
+# text = the wall which surrounded it was high , and perhaps the argus ’s who guarded the hesperian fruit within , were more watchful than those famed of old .
+the	O
+wall	O
+which	O
+surrounded	O
+it	O
+was	O
+high	O
+,	O
+and	O
+perhaps	O
+the	O
+argus	O
+’s	O
+who	O
+guarded	O
+the	O
+hesperian	O
+fruit	O
+within	O
+,	O
+were	O
+more	O
+watchful	O
+than	O
+those	O
+famed	O
+of	O
+old	O
 .	O
 

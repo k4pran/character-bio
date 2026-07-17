@@ -1,4 +1,106 @@
-# id = litbank-2290
+# id = litbank-2786
+# source = LitBank
+# book = The History of Tom Jones, a Foundling
+# book_id = 6593_history_of_tom_jones_a_foundling
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6593_history_of_tom_jones_a_foundling_brat.tsv
+# text = the tortoise -- as the alderman of bristol , well learned in eating , knows by much experience -- besides the delicious calipash and calipee , contains many different kinds of food ; nor can the learned reader be ignorant , that in human nature , though here collected under one general name , is such prodigious variety , that a cook will have sooner gone through all the several species of animal and vegetable food in the world , than an author will be able to exhaust so extensive a subject .
+the	O
+tortoise	O
+--	O
+as	O
+the	O
+alderman	O
+of	O
+bristol	B-LOCATION
+,	O
+well	O
+learned	O
+in	O
+eating	O
+,	O
+knows	O
+by	O
+much	O
+experience	O
+--	O
+besides	O
+the	O
+delicious	O
+calipash	O
+and	O
+calipee	O
+,	O
+contains	O
+many	O
+different	O
+kinds	O
+of	O
+food	O
+;	O
+nor	O
+can	O
+the	O
+learned	O
+reader	O
+be	O
+ignorant	O
+,	O
+that	O
+in	O
+human	O
+nature	O
+,	O
+though	O
+here	O
+collected	O
+under	O
+one	O
+general	O
+name	O
+,	O
+is	O
+such	O
+prodigious	O
+variety	O
+,	O
+that	O
+a	O
+cook	O
+will	O
+have	O
+sooner	O
+gone	O
+through	O
+all	O
+the	O
+several	O
+species	O
+of	O
+animal	O
+and	O
+vegetable	O
+food	O
+in	O
+the	O
+world	O
+,	O
+than	O
+an	O
+author	O
+will	O
+be	O
+able	O
+to	O
+exhaust	O
+so	O
+extensive	O
+a	O
+subject	O
+.	O
+
+# id = litbank-2787
 # source = LitBank
 # book = The History of Tom Jones, a Foundling
 # book_id = 6593_history_of_tom_jones_a_foundling
@@ -26,7 +128,7 @@ his	O
 sister	O
 .	O
 
-# id = litbank-2291
+# id = litbank-2788
 # source = LitBank
 # book = The History of Tom Jones, a Foundling
 # book_id = 6593_history_of_tom_jones_a_foundling
@@ -48,7 +150,7 @@ which	O
 is	O
 commonly	O
 called	O
-somersetshire	O
+somersetshire	B-LOCATION
 ,	O
 there	O
 lately	O
@@ -97,7 +199,7 @@ him	O
 most	O
 .	O
 
-# id = litbank-2292
+# id = litbank-2789
 # source = LitBank
 # book = The History of Tom Jones, a Foundling
 # book_id = 6593_history_of_tom_jones_a_foundling
@@ -181,7 +283,7 @@ whole	O
 sex	O
 .	O
 
-# id = litbank-2293
+# id = litbank-2790
 # source = LitBank
 # book = The History of Tom Jones, a Foundling
 # book_id = 6593_history_of_tom_jones_a_foundling
@@ -202,7 +304,7 @@ return	O
 home	O
 .	O
 
-# id = litbank-2294
+# id = litbank-2791
 # source = LitBank
 # book = The History of Tom Jones, a Foundling
 # book_id = 6593_history_of_tom_jones_a_foundling
@@ -226,7 +328,7 @@ on	O
 bastards	O
 .	O
 
-# id = litbank-2295
+# id = litbank-2792
 # source = LitBank
 # book = The History of Tom Jones, a Foundling
 # book_id = 6593_history_of_tom_jones_a_foundling
@@ -265,7 +367,7 @@ no	O
 family	O
 .	O
 
-# id = litbank-2285
+# id = litbank-2781
 # source = LitBank
 # book = The History of Tom Jones, a Foundling
 # book_id = 6593_history_of_tom_jones_a_foundling
@@ -302,7 +404,7 @@ this	O
 history	O
 .	O
 
-# id = litbank-2286
+# id = litbank-2782
 # source = LitBank
 # book = The History of Tom Jones, a Foundling
 # book_id = 6593_history_of_tom_jones_a_foundling
@@ -325,7 +427,7 @@ the	O
 feast	O
 .	O
 
-# id = litbank-2287
+# id = litbank-2783
 # source = LitBank
 # book = The History of Tom Jones, a Foundling
 # book_id = 6593_history_of_tom_jones_a_foundling
@@ -373,7 +475,7 @@ their	O
 money	O
 .	O
 
-# id = litbank-2288
+# id = litbank-2784
 # source = LitBank
 # book = The History of Tom Jones, a Foundling
 # book_id = 6593_history_of_tom_jones_a_foundling
@@ -447,7 +549,7 @@ before	O
 them	O
 .	O
 
-# id = litbank-2289
+# id = litbank-2785
 # source = LitBank
 # book = The History of Tom Jones, a Foundling
 # book_id = 6593_history_of_tom_jones_a_foundling

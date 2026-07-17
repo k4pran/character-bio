@@ -1,4 +1,4 @@
-# id = litbank-1212
+# id = litbank-1476
 # source = LitBank
 # book = Oliver Twist
 # book_id = 730_oliver_twist
@@ -135,7 +135,7 @@ this	O
 chapter	O
 .	O
 
-# id = litbank-1213
+# id = litbank-1477
 # source = LitBank
 # book = Oliver Twist
 # book_id = 730_oliver_twist
@@ -202,7 +202,7 @@ have	O
 occurred	O
 .	O
 
-# id = litbank-1214
+# id = litbank-1478
 # source = LitBank
 # book = Oliver Twist
 # book_id = 730_oliver_twist
@@ -282,7 +282,7 @@ the	O
 latter	O
 .	O
 
-# id = litbank-1215
+# id = litbank-1479
 # source = LitBank
 # book = Oliver Twist
 # book_id = 730_oliver_twist
@@ -333,7 +333,7 @@ no	O
 time	O
 .	O
 
-# id = litbank-1216
+# id = litbank-1480
 # source = LitBank
 # book = Oliver Twist
 # book_id = 730_oliver_twist
@@ -388,7 +388,7 @@ between	O
 them	O
 .	O
 
-# id = litbank-1217
+# id = litbank-1481
 # source = LitBank
 # book = Oliver Twist
 # book_id = 730_oliver_twist
@@ -481,7 +481,7 @@ a	O
 quarter	O
 .	O
 
-# id = litbank-1218
+# id = litbank-1482
 # source = LitBank
 # book = Oliver Twist
 # book_id = 730_oliver_twist
@@ -554,7 +554,7 @@ die	O
 .	O
 '	O
 
-# id = litbank-1224
+# id = litbank-1488
 # source = LitBank
 # book = Oliver Twist
 # book_id = 730_oliver_twist
@@ -578,7 +578,7 @@ twist	I-CHARACTER
 was	O
 !	O
 
-# id = litbank-1225
+# id = litbank-1489
 # source = LitBank
 # book = Oliver Twist
 # book_id = 730_oliver_twist
@@ -591,7 +591,7 @@ cried	O
 lustily	O
 .	O
 
-# id = litbank-1226
+# id = litbank-1490
 # source = LitBank
 # book = Oliver Twist
 # book_id = 730_oliver_twist
@@ -634,7 +634,7 @@ and	O
 deception	O
 .	O
 
-# id = litbank-1227
+# id = litbank-1491
 # source = LitBank
 # book = Oliver Twist
 # book_id = 730_oliver_twist
@@ -688,7 +688,7 @@ in	O
 need	O
 .	O
 
-# id = litbank-1228
+# id = litbank-1492
 # source = LitBank
 # book = Oliver Twist
 # book_id = 730_oliver_twist
@@ -791,7 +791,7 @@ per	O
 week	O
 .	O
 
-# id = litbank-1229
+# id = litbank-1493
 # source = LitBank
 # book = Oliver Twist
 # book_id = 730_oliver_twist
@@ -923,7 +923,7 @@ in	O
 this	O
 .	O
 
-# id = litbank-1219
+# id = litbank-1483
 # source = LitBank
 # book = Oliver Twist
 # book_id = 730_oliver_twist
@@ -958,7 +958,7 @@ rub	O
 alternately	O
 .	O
 
-# id = litbank-1220
+# id = litbank-1484
 # source = LitBank
 # book = Oliver Twist
 # book_id = 730_oliver_twist
@@ -1009,7 +1009,7 @@ yet	O
 .	O
 '	O
 
-# id = litbank-1221
+# id = litbank-1485
 # source = LitBank
 # book = Oliver Twist
 # book_id = 730_oliver_twist
@@ -1028,7 +1028,7 @@ no	O
 !	O
 '	O
 
-# id = litbank-1222
+# id = litbank-1486
 # source = LitBank
 # book = Oliver Twist
 # book_id = 730_oliver_twist
@@ -1066,7 +1066,7 @@ evident	O
 satisfaction	O
 .	O
 
-# id = litbank-1223
+# id = litbank-1487
 # source = LitBank
 # book = Oliver Twist
 # book_id = 730_oliver_twist

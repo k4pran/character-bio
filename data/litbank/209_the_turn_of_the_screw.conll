@@ -1,4 +1,4 @@
-# id = litbank-0715
+# id = litbank-0857
 # source = LitBank
 # book = The Turn of the Screw
 # book_id = 209_the_turn_of_the_screw
@@ -38,7 +38,7 @@ call	O
 attention	O
 .	O
 
-# id = litbank-0719
+# id = litbank-0861
 # source = LitBank
 # book = The Turn of the Screw
 # book_id = 209_the_turn_of_the_screw
@@ -84,7 +84,7 @@ particular	O
 touch	O
 .	O
 
-# id = litbank-0721
+# id = litbank-0863
 # source = LitBank
 # book = The Turn of the Screw
 # book_id = 209_the_turn_of_the_screw
@@ -125,7 +125,35 @@ his	O
 pockets	O
 .	O
 
-# id = litbank-0722
+# id = litbank-0864
+# source = LitBank
+# book = The Turn of the Screw
+# book_id = 209_the_turn_of_the_screw
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/209_the_turn_of_the_screw_brat.tsv
+# text = i was at trinity , and i found her at home on my coming down the second summer .
+i	O
+was	O
+at	O
+trinity	B-LOCATION
+,	O
+and	O
+i	O
+found	O
+her	O
+at	O
+home	O
+on	O
+my	O
+coming	O
+down	O
+the	O
+second	O
+summer	O
+.	O
+
+# id = litbank-0865
 # source = LitBank
 # book = The Turn of the Screw
 # book_id = 209_the_turn_of_the_screw
@@ -148,7 +176,7 @@ more	O
 light	O
 .	O
 
-# id = litbank-0723
+# id = litbank-0866
 # source = LitBank
 # book = The Turn of the Screw
 # book_id = 209_the_turn_of_the_screw
@@ -178,7 +206,7 @@ way	O
 .	O
 ”	O
 
-# id = litbank-0724
+# id = litbank-0867
 # source = LitBank
 # book = The Turn of the Screw
 # book_id = 209_the_turn_of_the_screw
@@ -208,7 +236,7 @@ griffin	I-CHARACTER
 spoke	O
 .	O
 
-# id = litbank-0725
+# id = litbank-0868
 # source = LitBank
 # book = The Turn of the Screw
 # book_id = 209_the_turn_of_the_screw
@@ -221,7 +249,95 @@ put	O
 in	O
 .	O
 
-# id = litbank-0726
+# id = litbank-0869
+# source = LitBank
+# book = The Turn of the Screw
+# book_id = 209_the_turn_of_the_screw
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/209_the_turn_of_the_screw_brat.tsv
+# text = i knew the next day that a letter containing the key had , by the first post , gone off to his london apartments ; but in spite of -- or perhaps just on account of -- the eventual diffusion of this knowledge we quite let him alone till after dinner , till such an hour of the evening , in fact , as might best accord with the kind of emotion on which our hopes were fixed .
+i	O
+knew	O
+the	O
+next	O
+day	O
+that	O
+a	O
+letter	O
+containing	O
+the	O
+key	O
+had	O
+,	O
+by	O
+the	O
+first	O
+post	O
+,	O
+gone	O
+off	O
+to	O
+his	O
+london	B-LOCATION
+apartments	O
+;	O
+but	O
+in	O
+spite	O
+of	O
+--	O
+or	O
+perhaps	O
+just	O
+on	O
+account	O
+of	O
+--	O
+the	O
+eventual	O
+diffusion	O
+of	O
+this	O
+knowledge	O
+we	O
+quite	O
+let	O
+him	O
+alone	O
+till	O
+after	O
+dinner	O
+,	O
+till	O
+such	O
+an	O
+hour	O
+of	O
+the	O
+evening	O
+,	O
+in	O
+fact	O
+,	O
+as	O
+might	O
+best	O
+accord	O
+with	O
+the	O
+kind	O
+of	O
+emotion	O
+on	O
+which	O
+our	O
+hopes	O
+were	O
+fixed	O
+.	O
+
+# id = litbank-0870
 # source = LitBank
 # book = The Turn of the Screw
 # book_id = 209_the_turn_of_the_screw
@@ -285,7 +401,7 @@ the	O
 fourth	O
 .	O
 
-# id = litbank-0714
+# id = litbank-0856
 # source = LitBank
 # book = The Turn of the Screw
 # book_id = 209_the_turn_of_the_screw
@@ -369,7 +485,7 @@ a	O
 child	O
 .	O
 
-# id = litbank-0716
+# id = litbank-0858
 # source = LitBank
 # book = The Turn of the Screw
 # book_id = 209_the_turn_of_the_screw
@@ -395,7 +511,7 @@ not	O
 following	O
 .	O
 
-# id = litbank-0717
+# id = litbank-0859
 # source = LitBank
 # book = The Turn of the Screw
 # book_id = 209_the_turn_of_the_screw
@@ -426,7 +542,7 @@ to	O
 wait	O
 .	O
 
-# id = litbank-0718
+# id = litbank-0860
 # source = LitBank
 # book = The Turn of the Screw
 # book_id = 209_the_turn_of_the_screw
@@ -462,7 +578,7 @@ his	O
 mind	O
 .	O
 
-# id = litbank-0720
+# id = litbank-0862
 # source = LitBank
 # book = The Turn of the Screw
 # book_id = 209_the_turn_of_the_screw

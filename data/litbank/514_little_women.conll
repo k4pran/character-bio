@@ -1,4 +1,4 @@
-# id = litbank-1030
+# id = litbank-1259
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -30,7 +30,7 @@ the	O
 rug	O
 .	O
 
-# id = litbank-1032
+# id = litbank-1261
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -49,7 +49,7 @@ old	O
 dress	O
 .	O
 
-# id = litbank-1033
+# id = litbank-1262
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -93,7 +93,7 @@ injured	O
 sniff	O
 .	O
 
-# id = litbank-1034
+# id = litbank-1263
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -122,7 +122,7 @@ her	O
 corner	O
 .	O
 
-# id = litbank-1035
+# id = litbank-1264
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -172,7 +172,7 @@ time	O
 .	O
 "	O
 
-# id = litbank-1037
+# id = litbank-1266
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -243,7 +243,7 @@ the	O
 army	O
 .	O
 
-# id = litbank-1039
+# id = litbank-1268
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -279,7 +279,7 @@ she	O
 wanted	O
 .	O
 
-# id = litbank-1042
+# id = litbank-1271
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -304,7 +304,7 @@ a	O
 bookworm	O
 .	O
 
-# id = litbank-1043
+# id = litbank-1272
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -343,7 +343,7 @@ and	O
 kettle-holder	O
 .	O
 
-# id = litbank-1044
+# id = litbank-1273
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -375,7 +375,7 @@ amy	B-CHARACTER
 decidedly	O
 .	O
 
-# id = litbank-1045
+# id = litbank-1274
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -424,7 +424,7 @@ gentlemanly	O
 manner	O
 .	O
 
-# id = litbank-1046
+# id = litbank-1275
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -467,7 +467,7 @@ tone	O
 again	O
 .	O
 
-# id = litbank-1047
+# id = litbank-1276
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -494,7 +494,7 @@ said	O
 jo	B-CHARACTER
 .	O
 
-# id = litbank-1048
+# id = litbank-1277
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -521,7 +521,7 @@ that	O
 time	O
 .	O
 
-# id = litbank-1049
+# id = litbank-1278
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -599,7 +599,7 @@ nice	O
 .	O
 "	O
 
-# id = litbank-1050
+# id = litbank-1279
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -639,7 +639,7 @@ jo	B-CHARACTER
 laughing	O
 .	O
 
-# id = litbank-1051
+# id = litbank-1280
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -668,7 +668,7 @@ with	O
 dignity	O
 .	O
 
-# id = litbank-1052
+# id = litbank-1281
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -694,7 +694,7 @@ little	O
 jo	B-CHARACTER
 ?	O
 
-# id = litbank-1053
+# id = litbank-1282
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -712,7 +712,7 @@ better	O
 times	O
 .	O
 
-# id = litbank-1054
+# id = litbank-1283
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -728,7 +728,7 @@ did	O
 beth	B-CHARACTER
 .	O
 
-# id = litbank-1055
+# id = litbank-1284
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -764,7 +764,7 @@ say	O
 .	O
 "	O
 
-# id = litbank-1056
+# id = litbank-1285
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -782,7 +782,7 @@ words	O
 !	O
 "	O
 
-# id = litbank-1057
+# id = litbank-1286
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -807,7 +807,7 @@ the	O
 rug	O
 .	O
 
-# id = litbank-1058
+# id = litbank-1287
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -833,7 +833,7 @@ to	O
 whistle	O
 .	O
 
-# id = litbank-1059
+# id = litbank-1288
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -848,7 +848,7 @@ n't	O
 jo	B-CHARACTER
 .	O
 
-# id = litbank-1060
+# id = litbank-1289
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -896,7 +896,7 @@ that	O
 time	O
 .	O
 
-# id = litbank-1061
+# id = litbank-1290
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -929,7 +929,7 @@ elder-sisterly	O
 fashion	O
 .	O
 
-# id = litbank-1062
+# id = litbank-1291
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -956,7 +956,7 @@ better	O
 josephine	B-CHARACTER
 .	O
 
-# id = litbank-1063
+# id = litbank-1292
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1003,7 +1003,7 @@ chestnut	O
 mane	O
 .	O
 
-# id = litbank-1064
+# id = litbank-1293
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1043,7 +1043,7 @@ china	O
 aster	O
 !	O
 
-# id = litbank-1065
+# id = litbank-1294
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1074,7 +1074,7 @@ the	O
 room	O
 .	O
 
-# id = litbank-1066
+# id = litbank-1295
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1087,7 +1087,7 @@ poor	O
 jo	B-CHARACTER
 !	O
 
-# id = litbank-1067
+# id = litbank-1296
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1145,7 +1145,7 @@ its	O
 touch	O
 .	O
 
-# id = litbank-1068
+# id = litbank-1297
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1174,7 +1174,7 @@ and	O
 prim	O
 .	O
 
-# id = litbank-1069
+# id = litbank-1298
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1196,7 +1196,7 @@ slang	O
 .	O
 "	O
 
-# id = litbank-1070
+# id = litbank-1299
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1223,7 +1223,7 @@ please	O
 ?	O
 "	O
 
-# id = litbank-1071
+# id = litbank-1300
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1241,7 +1241,7 @@ the	O
 lecture	O
 .	O
 
-# id = litbank-1072
+# id = litbank-1301
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1283,7 +1283,7 @@ the	O
 family	O
 .	O
 
-# id = litbank-1073
+# id = litbank-1302
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1337,7 +1337,7 @@ rather	O
 vain	O
 .	O
 
-# id = litbank-1074
+# id = litbank-1303
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1386,7 +1386,7 @@ her	O
 way	O
 .	O
 
-# id = litbank-1075
+# id = litbank-1304
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1433,7 +1433,7 @@ like	O
 it	O
 .	O
 
-# id = litbank-1076
+# id = litbank-1305
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1481,7 +1481,7 @@ seldom	O
 disturbed	O
 .	O
 
-# id = litbank-1077
+# id = litbank-1306
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1509,7 +1509,7 @@ at	O
 least	O
 .	O
 
-# id = litbank-1078
+# id = litbank-1307
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1540,7 +1540,7 @@ to	O
 warm	O
 .	O
 
-# id = litbank-1079
+# id = litbank-1308
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1589,7 +1589,7 @@ the	O
 blaze	O
 .	O
 
-# id = litbank-1080
+# id = litbank-1309
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1606,7 +1606,7 @@ pair	O
 .	O
 "	O
 
-# id = litbank-1081
+# id = litbank-1310
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1631,7 +1631,7 @@ said	O
 beth	B-CHARACTER
 .	O
 
-# id = litbank-1031
+# id = litbank-1260
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1650,7 +1650,7 @@ poor	O
 !	O
 "	O
 
-# id = litbank-1036
+# id = litbank-1265
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1685,7 +1685,7 @@ fighting	O
 was	O
 .	O
 
-# id = litbank-1038
+# id = litbank-1267
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1715,7 +1715,7 @@ it	O
 gladly	O
 .	O
 
-# id = litbank-1040
+# id = litbank-1269
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women
@@ -1740,7 +1740,7 @@ any	O
 good	O
 .	O
 
-# id = litbank-1041
+# id = litbank-1270
 # source = LitBank
 # book = Little Women
 # book_id = 514_little_women

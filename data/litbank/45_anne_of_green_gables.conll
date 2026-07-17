@@ -1,4 +1,4 @@
-# id = litbank-0165
+# id = litbank-0194
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -21,7 +21,7 @@ lived	O
 just	O
 where	O
 the	O
-avonlea	O
+avonlea	B-LOCATION
 main	O
 road	O
 dipped	O
@@ -55,8 +55,8 @@ woods	O
 of	O
 the	O
 old	O
-cuthbert	O
-place	O
+cuthbert	B-LOCATION
+place	I-LOCATION
 ;	O
 it	O
 was	O
@@ -90,7 +90,7 @@ the	O
 time	O
 it	O
 reached	O
-lynde	O
+lynde	B-LOCATION
 ’s	O
 hollow	O
 it	O
@@ -178,7 +178,7 @@ wherefores	O
 thereof	O
 .	O
 
-# id = litbank-0166
+# id = litbank-0195
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -192,7 +192,7 @@ plenty	O
 of	O
 people	O
 in	O
-avonlea	O
+avonlea	B-LOCATION
 and	O
 out	O
 of	O
@@ -240,7 +240,7 @@ the	O
 bargain	O
 .	O
 
-# id = litbank-0168
+# id = litbank-0197
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -281,7 +281,7 @@ of	O
 them	O
 ,	O
 as	O
-avonlea	O
+avonlea	B-LOCATION
 housekeepers	O
 were	O
 wont	O
@@ -314,7 +314,7 @@ hill	O
 beyond	O
 .	O
 
-# id = litbank-0169
+# id = litbank-0198
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -323,7 +323,7 @@ beyond	O
 # source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
 # text = since avonlea occupied a little triangular peninsula jutting out into the gulf of st. lawrence with water on two sides of it , anybody who went out of it or into it had to pass over that hill road and so run the unseen gauntlet of mrs. rachel ’s all-seeing eye .
 since	O
-avonlea	O
+avonlea	B-LOCATION
 occupied	O
 a	O
 little	O
@@ -333,10 +333,10 @@ jutting	O
 out	O
 into	O
 the	O
-gulf	O
-of	O
-st.	O
-lawrence	O
+gulf	B-LOCATION
+of	I-LOCATION
+st.	I-LOCATION
+lawrence	I-LOCATION
 with	O
 water	O
 on	O
@@ -375,7 +375,7 @@ all-seeing	O
 eye	O
 .	O
 
-# id = litbank-0172
+# id = litbank-0201
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -391,7 +391,7 @@ meek	O
 little	O
 man	O
 whom	O
-avonlea	O
+avonlea	B-LOCATION
 people	O
 called	O
 “	O
@@ -433,11 +433,11 @@ field	O
 away	O
 over	O
 by	O
-green	O
-gables	O
+green	B-LOCATION
+gables	I-LOCATION
 .	O
 
-# id = litbank-0173
+# id = litbank-0202
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -470,7 +470,7 @@ blair	I-CHARACTER
 store	O
 over	O
 at	O
-carmody	O
+carmody	B-LOCATION
 that	O
 he	O
 meant	O
@@ -484,7 +484,7 @@ next	O
 afternoon	O
 .	O
 
-# id = litbank-0174
+# id = litbank-0203
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -518,7 +518,7 @@ whole	O
 life	O
 .	O
 
-# id = litbank-0175
+# id = litbank-0204
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -578,7 +578,7 @@ was	O
 going	O
 out	O
 of	O
-avonlea	O
+avonlea	B-LOCATION
 ;	O
 and	O
 he	O
@@ -601,7 +601,7 @@ considerable	O
 distance	O
 .	O
 
-# id = litbank-0176
+# id = litbank-0205
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -624,7 +624,7 @@ going	O
 there	O
 ?	O
 
-# id = litbank-0177
+# id = litbank-0206
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -639,7 +639,7 @@ any	O
 other	O
 man	O
 in	O
-avonlea	O
+avonlea	B-LOCATION
 ,	O
 mrs.	B-CHARACTER
 rachel	I-CHARACTER
@@ -664,7 +664,7 @@ both	O
 questions	O
 .	O
 
-# id = litbank-0178
+# id = litbank-0207
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -718,7 +718,7 @@ to	O
 talk	O
 .	O
 
-# id = litbank-0179
+# id = litbank-0208
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -749,7 +749,7 @@ happen	O
 often	O
 .	O
 
-# id = litbank-0180
+# id = litbank-0209
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -779,7 +779,7 @@ was	O
 spoiled	O
 .	O
 
-# id = litbank-0181
+# id = litbank-0210
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -794,8 +794,8 @@ just	O
 step	O
 over	O
 to	O
-green	O
-gables	O
+green	B-LOCATION
+gables	I-LOCATION
 after	O
 tea	O
 and	O
@@ -818,7 +818,7 @@ finally	O
 concluded	O
 .	O
 
-# id = litbank-0184
+# id = litbank-0213
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -858,12 +858,12 @@ matthew	B-CHARACTER
 cuthbert	I-CHARACTER
 out	O
 of	O
-avonlea	O
+avonlea	B-LOCATION
 today	O
 .	O
 ”	O
 
-# id = litbank-0185
+# id = litbank-0214
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -895,7 +895,7 @@ orchard-embowered	O
 house	O
 where	O
 the	O
-cuthberts	O
+cuthberts	B-LOCATION
 lived	O
 was	O
 a	O
@@ -908,12 +908,12 @@ up	O
 the	O
 road	O
 from	O
-lynde	O
+lynde	B-LOCATION
 ’s	O
 hollow	O
 .	O
 
-# id = litbank-0186
+# id = litbank-0215
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -962,7 +962,54 @@ his	O
 homestead	O
 .	O
 
-# id = litbank-0187
+# id = litbank-0216
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = green gables was built at the furthest edge of his cleared land and there it was to this day , barely visible from the main road along which all the other avonlea houses were so sociably situated .
+green	B-LOCATION
+gables	I-LOCATION
+was	O
+built	O
+at	O
+the	O
+furthest	O
+edge	O
+of	O
+his	O
+cleared	O
+land	O
+and	O
+there	O
+it	O
+was	O
+to	O
+this	O
+day	O
+,	O
+barely	O
+visible	O
+from	O
+the	O
+main	O
+road	O
+along	O
+which	O
+all	O
+the	O
+other	O
+avonlea	B-LOCATION
+houses	O
+were	O
+so	O
+sociably	O
+situated	O
+.	O
+
+# id = litbank-0217
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -988,7 +1035,7 @@ at	O
 all	O
 .	O
 
-# id = litbank-0188
+# id = litbank-0218
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1018,7 +1065,7 @@ by	O
 themselves	O
 .	O
 
-# id = litbank-0189
+# id = litbank-0219
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1039,11 +1086,11 @@ into	O
 the	O
 backyard	O
 of	O
-green	O
-gables	O
+green	B-LOCATION
+gables	I-LOCATION
 .	O
 
-# id = litbank-0190
+# id = litbank-0220
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1075,7 +1122,7 @@ had	O
 been	O
 .	O
 
-# id = litbank-0191
+# id = litbank-0221
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1105,7 +1152,7 @@ her	O
 house	O
 .	O
 
-# id = litbank-0192
+# id = litbank-0222
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1131,7 +1178,52 @@ do	O
 so	O
 .	O
 
-# id = litbank-0193
+# id = litbank-0223
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = the kitchen at green gables was a cheerful apartment -- or would have been cheerful if it had not been so painfully clean as to give it something of the appearance of an unused parlor .
+the	O
+kitchen	O
+at	O
+green	B-LOCATION
+gables	I-LOCATION
+was	O
+a	O
+cheerful	O
+apartment	O
+--	O
+or	O
+would	O
+have	O
+been	O
+cheerful	O
+if	O
+it	O
+had	O
+not	O
+been	O
+so	O
+painfully	O
+clean	O
+as	O
+to	O
+give	O
+it	O
+something	O
+of	O
+the	O
+appearance	O
+of	O
+an	O
+unused	O
+parlor	O
+.	O
+
+# id = litbank-0224
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1196,7 +1288,7 @@ for	O
 supper	O
 .	O
 
-# id = litbank-0194
+# id = litbank-0225
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1229,7 +1321,7 @@ that	O
 table	O
 .	O
 
-# id = litbank-0195
+# id = litbank-0226
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1288,7 +1380,7 @@ particular	O
 company	O
 .	O
 
-# id = litbank-0196
+# id = litbank-0227
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1309,7 +1401,7 @@ sorrel	O
 mare	O
 ?	O
 
-# id = litbank-0197
+# id = litbank-0228
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1331,11 +1423,11 @@ about	O
 quiet	O
 ,	O
 unmysterious	O
-green	O
-gables	O
+green	B-LOCATION
+gables	I-LOCATION
 .	O
 
-# id = litbank-0198
+# id = litbank-0229
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1355,7 +1447,7 @@ said	O
 briskly	O
 .	O
 
-# id = litbank-0199
+# id = litbank-0230
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1400,7 +1492,7 @@ their	O
 dissimilarity	O
 .	O
 
-# id = litbank-0200
+# id = litbank-0231
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1450,7 +1542,7 @@ through	O
 it	O
 .	O
 
-# id = litbank-0201
+# id = litbank-0232
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1471,7 +1563,7 @@ mrs.	B-CHARACTER
 rachel	I-CHARACTER
 .	O
 
-# id = litbank-0202
+# id = litbank-0233
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1502,7 +1594,7 @@ off	O
 today	O
 .	O
 
-# id = litbank-0203
+# id = litbank-0234
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1517,7 +1609,7 @@ twitched	O
 understandingly	O
 .	O
 
-# id = litbank-0204
+# id = litbank-0235
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1555,7 +1647,7 @@ neighbor	O
 curiosity	O
 .	O
 
-# id = litbank-0205
+# id = litbank-0236
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1567,11 +1659,43 @@ curiosity	O
 matthew	B-CHARACTER
 went	O
 to	O
-bright	O
-river	O
+bright	B-LOCATION
+river	I-LOCATION
 .	O
 
-# id = litbank-0206
+# id = litbank-0237
+# source = LitBank
+# book = Anne of Green Gables
+# book_id = 45_anne_of_green_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/45_anne_of_green_gables_brat.tsv
+# text = we ’re getting a little boy from an orphan asylum in nova scotia and he ’s coming on the train tonight . ”
+we	O
+’re	O
+getting	O
+a	O
+little	O
+boy	O
+from	O
+an	O
+orphan	O
+asylum	O
+in	O
+nova	B-LOCATION
+scotia	I-LOCATION
+and	O
+he	O
+’s	O
+coming	O
+on	O
+the	O
+train	O
+tonight	O
+.	O
+”	O
+
+# id = litbank-0238
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1588,14 +1712,14 @@ matthew	B-CHARACTER
 had	O
 gone	O
 to	O
-bright	O
-river	O
+bright	B-LOCATION
+river	I-LOCATION
 to	O
 meet	O
 a	O
 kangaroo	O
 from	O
-australia	O
+australia	B-LOCATION
 mrs.	B-CHARACTER
 rachel	I-CHARACTER
 could	O
@@ -1606,7 +1730,7 @@ more	O
 astonished	O
 .	O
 
-# id = litbank-0207
+# id = litbank-0239
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1636,7 +1760,7 @@ suppose	O
 it	O
 .	O
 
-# id = litbank-0208
+# id = litbank-0240
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1662,7 +1786,7 @@ to	O
 her	O
 .	O
 
-# id = litbank-0209
+# id = litbank-0241
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1688,8 +1812,8 @@ from	O
 orphan	O
 asylums	O
 in	O
-nova	O
-scotia	O
+nova	B-LOCATION
+scotia	I-LOCATION
 were	O
 part	O
 of	O
@@ -1700,7 +1824,7 @@ work	O
 on	O
 any	O
 well-regulated	O
-avonlea	O
+avonlea	B-LOCATION
 farm	O
 instead	O
 of	O
@@ -1711,7 +1835,7 @@ of	O
 innovation	O
 .	O
 
-# id = litbank-0210
+# id = litbank-0242
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1732,7 +1856,7 @@ mental	O
 jolt	O
 .	O
 
-# id = litbank-0211
+# id = litbank-0243
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1752,7 +1876,7 @@ a	O
 boy	O
 !	O
 
-# id = litbank-0167
+# id = litbank-0196
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1804,7 +1928,7 @@ missions	O
 auxiliary	O
 .	O
 
-# id = litbank-0170
+# id = litbank-0199
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1823,7 +1947,7 @@ early	O
 june	O
 .	O
 
-# id = litbank-0171
+# id = litbank-0200
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1869,7 +1993,7 @@ of	O
 bees	O
 .	O
 
-# id = litbank-0182
+# id = litbank-0211
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables
@@ -1932,7 +2056,7 @@ a	O
 doctor	O
 .	O
 
-# id = litbank-0183
+# id = litbank-0212
 # source = LitBank
 # book = Anne of Green Gables
 # book_id = 45_anne_of_green_gables

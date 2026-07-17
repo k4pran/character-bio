@@ -1,4 +1,462 @@
-# id = litbank-1413
+# id = litbank-1726
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = chapter i in chancery london .
+chapter	O
+i	O
+in	O
+chancery	B-LOCATION
+london	B-LOCATION
+.	O
+
+# id = litbank-1727
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = michaelmas term lately over , and the lord chancellor sitting in lincoln 's inn hall .
+michaelmas	O
+term	O
+lately	O
+over	O
+,	O
+and	O
+the	O
+lord	O
+chancellor	O
+sitting	O
+in	O
+lincoln	B-LOCATION
+'s	O
+inn	O
+hall	O
+.	O
+
+# id = litbank-1728
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = as much mud in the streets as if the waters had but newly retired from the face of the earth , and it would not be wonderful to meet a megalosaurus , forty feet long or so , waddling like an elephantine lizard up holborn hill .
+as	O
+much	O
+mud	O
+in	O
+the	O
+streets	O
+as	O
+if	O
+the	O
+waters	O
+had	O
+but	O
+newly	O
+retired	O
+from	O
+the	O
+face	O
+of	O
+the	O
+earth	O
+,	O
+and	O
+it	O
+would	O
+not	O
+be	O
+wonderful	O
+to	O
+meet	O
+a	O
+megalosaurus	O
+,	O
+forty	O
+feet	O
+long	O
+or	O
+so	O
+,	O
+waddling	O
+like	O
+an	O
+elephantine	O
+lizard	O
+up	O
+holborn	B-LOCATION
+hill	I-LOCATION
+.	O
+
+# id = litbank-1733
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = fog on the essex marshes , fog on the kentish heights .
+fog	O
+on	O
+the	O
+essex	B-LOCATION
+marshes	O
+,	O
+fog	O
+on	O
+the	O
+kentish	B-LOCATION
+heights	I-LOCATION
+.	O
+
+# id = litbank-1735
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = the raw afternoon is rawest , and the dense fog is densest , and the muddy streets are muddiest near that leaden-headed old obstruction , appropriate ornament for the threshold of a leaden-headed old corporation , temple bar .
+the	O
+raw	O
+afternoon	O
+is	O
+rawest	O
+,	O
+and	O
+the	O
+dense	O
+fog	O
+is	O
+densest	O
+,	O
+and	O
+the	O
+muddy	O
+streets	O
+are	O
+muddiest	O
+near	O
+that	O
+leaden-headed	O
+old	O
+obstruction	O
+,	O
+appropriate	O
+ornament	O
+for	O
+the	O
+threshold	O
+of	O
+a	O
+leaden-headed	O
+old	O
+corporation	O
+,	O
+temple	B-LOCATION
+bar	I-LOCATION
+.	O
+
+# id = litbank-1736
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = and hard by temple bar , in lincoln 's inn hall , at the very heart of the fog , sits the lord high chancellor in his high court of chancery .
+and	O
+hard	O
+by	O
+temple	B-LOCATION
+bar	I-LOCATION
+,	O
+in	O
+lincoln	B-LOCATION
+'s	O
+inn	O
+hall	O
+,	O
+at	O
+the	O
+very	O
+heart	O
+of	O
+the	O
+fog	O
+,	O
+sits	O
+the	O
+lord	O
+high	O
+chancellor	O
+in	O
+his	O
+high	B-LOCATION
+court	I-LOCATION
+of	I-LOCATION
+chancery	I-LOCATION
+.	O
+
+# id = litbank-1737
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = never can there come fog too thick , never can there come mud and mire too deep , to assort with the groping and floundering condition which this high court of chancery , most pestilent of hoary sinners , holds this day in the sight of heaven and earth .
+never	O
+can	O
+there	O
+come	O
+fog	O
+too	O
+thick	O
+,	O
+never	O
+can	O
+there	O
+come	O
+mud	O
+and	O
+mire	O
+too	O
+deep	O
+,	O
+to	O
+assort	O
+with	O
+the	O
+groping	O
+and	O
+floundering	O
+condition	O
+which	O
+this	O
+high	B-LOCATION
+court	I-LOCATION
+of	I-LOCATION
+chancery	I-LOCATION
+,	O
+most	O
+pestilent	O
+of	O
+hoary	O
+sinners	O
+,	O
+holds	O
+this	O
+day	O
+in	O
+the	O
+sight	O
+of	O
+heaven	O
+and	O
+earth	O
+.	O
+
+# id = litbank-1738
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = this is the court of chancery , which has its decaying houses and its blighted lands in every shire , which has its worn-out lunatic in every madhouse and its dead in every churchyard , which has its ruined suitor with his slipshod heels and threadbare dress borrowing and begging through the round of every man 's acquaintance , which gives to monied might the means abundantly of wearying out the right , which so exhausts finances , patience , courage , hope , so overthrows the brain and breaks the heart , that there is not an honourable man among its practitioners who would not give -- who does not often give -- the warning , " suffer any wrong that can be done you rather than come here ! "
+this	O
+is	O
+the	O
+court	O
+of	O
+chancery	B-LOCATION
+,	O
+which	O
+has	O
+its	O
+decaying	O
+houses	O
+and	O
+its	O
+blighted	O
+lands	O
+in	O
+every	O
+shire	O
+,	O
+which	O
+has	O
+its	O
+worn-out	O
+lunatic	O
+in	O
+every	O
+madhouse	O
+and	O
+its	O
+dead	O
+in	O
+every	O
+churchyard	O
+,	O
+which	O
+has	O
+its	O
+ruined	O
+suitor	O
+with	O
+his	O
+slipshod	O
+heels	O
+and	O
+threadbare	O
+dress	O
+borrowing	O
+and	O
+begging	O
+through	O
+the	O
+round	O
+of	O
+every	O
+man	O
+'s	O
+acquaintance	O
+,	O
+which	O
+gives	O
+to	O
+monied	O
+might	O
+the	O
+means	O
+abundantly	O
+of	O
+wearying	O
+out	O
+the	O
+right	O
+,	O
+which	O
+so	O
+exhausts	O
+finances	O
+,	O
+patience	O
+,	O
+courage	O
+,	O
+hope	O
+,	O
+so	O
+overthrows	O
+the	O
+brain	O
+and	O
+breaks	O
+the	O
+heart	O
+,	O
+that	O
+there	O
+is	O
+not	O
+an	O
+honourable	O
+man	O
+among	O
+its	O
+practitioners	O
+who	O
+would	O
+not	O
+give	O
+--	O
+who	O
+does	O
+not	O
+often	O
+give	O
+--	O
+the	O
+warning	O
+,	O
+"	O
+suffer	O
+any	O
+wrong	O
+that	O
+can	O
+be	O
+done	O
+you	O
+rather	O
+than	O
+come	O
+here	O
+!	O
+"	O
+
+# id = litbank-1739
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = who happen to be in the lord chancellor 's court this murky afternoon besides the lord chancellor , the counsel in the cause , two or three counsel who are never in any cause , and the well of solicitors before mentioned ?
+who	O
+happen	O
+to	O
+be	O
+in	O
+the	O
+lord	B-LOCATION
+chancellor	I-LOCATION
+'s	O
+court	O
+this	O
+murky	O
+afternoon	O
+besides	O
+the	O
+lord	O
+chancellor	O
+,	O
+the	O
+counsel	O
+in	O
+the	O
+cause	O
+,	O
+two	O
+or	O
+three	O
+counsel	O
+who	O
+are	O
+never	O
+in	O
+any	O
+cause	O
+,	O
+and	O
+the	O
+well	O
+of	O
+solicitors	O
+before	O
+mentioned	O
+?	O
+
+# id = litbank-1740
 # source = LitBank
 # book = Bleak House
 # book_id = 1023_bleak_house
@@ -39,7 +497,7 @@ years	O
 ago	O
 .	O
 
-# id = litbank-1414
+# id = litbank-1741
 # source = LitBank
 # book = Bleak House
 # book_id = 1023_bleak_house
@@ -79,7 +537,95 @@ comes	O
 on	O
 .	O
 
-# id = litbank-1415
+# id = litbank-1742
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = another ruined suitor , who periodically appears from shropshire and breaks out into efforts to address the chancellor at the close of the day 's business and who can by no means be made to understand that the chancellor is legally ignorant of his existence after making it desolate for a quarter of a century , plants himself in a good place and keeps an eye on the judge , ready to call out " my lord ! "
+another	O
+ruined	O
+suitor	O
+,	O
+who	O
+periodically	O
+appears	O
+from	O
+shropshire	B-LOCATION
+and	O
+breaks	O
+out	O
+into	O
+efforts	O
+to	O
+address	O
+the	O
+chancellor	O
+at	O
+the	O
+close	O
+of	O
+the	O
+day	O
+'s	O
+business	O
+and	O
+who	O
+can	O
+by	O
+no	O
+means	O
+be	O
+made	O
+to	O
+understand	O
+that	O
+the	O
+chancellor	O
+is	O
+legally	O
+ignorant	O
+of	O
+his	O
+existence	O
+after	O
+making	O
+it	O
+desolate	O
+for	O
+a	O
+quarter	O
+of	O
+a	O
+century	O
+,	O
+plants	O
+himself	O
+in	O
+a	O
+good	O
+place	O
+and	O
+keeps	O
+an	O
+eye	O
+on	O
+the	O
+judge	O
+,	O
+ready	O
+to	O
+call	O
+out	O
+"	O
+my	O
+lord	O
+!	O
+"	O
+
+# id = litbank-1743
 # source = LitBank
 # book = Bleak House
 # book_id = 1023_bleak_house
@@ -94,7 +640,7 @@ drones	O
 on	O
 .	O
 
-# id = litbank-1416
+# id = litbank-1744
 # source = LitBank
 # book = Bleak House
 # book_id = 1023_bleak_house
@@ -132,7 +678,7 @@ the	O
 suit	O
 .	O
 
-# id = litbank-1417
+# id = litbank-1745
 # source = LitBank
 # book = Bleak House
 # book_id = 1023_bleak_house
@@ -178,7 +724,7 @@ other	O
 world	O
 .	O
 
-# id = litbank-1418
+# id = litbank-1746
 # source = LitBank
 # book = Bleak House
 # book_id = 1023_bleak_house
@@ -249,8 +795,8 @@ at	O
 a	O
 coffee-house	O
 in	O
-chancery	O
-lane	O
+chancery	B-LOCATION
+lane	I-LOCATION
 ;	O
 but	O
 jarndyce	B-CHARACTER
@@ -269,7 +815,7 @@ perennially	O
 hopeless	O
 .	O
 
-# id = litbank-1419
+# id = litbank-1747
 # source = LitBank
 # book = Bleak House
 # book_id = 1023_bleak_house
@@ -287,7 +833,28 @@ a	O
 joke	O
 .	O
 
-# id = litbank-1420
+# id = litbank-1748
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = every master in chancery has had a reference out of it .
+every	O
+master	O
+in	O
+chancery	B-LOCATION
+has	O
+had	O
+a	O
+reference	O
+out	O
+of	O
+it	O
+.	O
+
+# id = litbank-1749
 # source = LitBank
 # book = Bleak House
 # book_id = 1023_bleak_house
@@ -358,7 +925,7 @@ and	O
 purses	O
 .	O
 
-# id = litbank-1421
+# id = litbank-1750
 # source = LitBank
 # book = Bleak House
 # book_id = 1023_bleak_house
@@ -394,7 +961,7 @@ wide	O
 question	O
 .	O
 
-# id = litbank-1422
+# id = litbank-1751
 # source = LitBank
 # book = Bleak House
 # book_id = 1023_bleak_house
@@ -430,8 +997,8 @@ the	O
 copying-clerk	O
 in	O
 the	O
-six	O
-clerks	O
+six	B-LOCATION
+clerks	I-LOCATION
 '	O
 office	O
 who	O
@@ -442,7 +1009,7 @@ tens	O
 of	O
 thousands	O
 of	O
-chancery	O
+chancery	B-LOCATION
 folio-pages	O
 under	O
 that	O
@@ -461,7 +1028,7 @@ by	O
 it	O
 .	O
 
-# id = litbank-1423
+# id = litbank-1752
 # source = LitBank
 # book = Bleak House
 # book_id = 1023_bleak_house
@@ -524,7 +1091,7 @@ and	O
 jarndyce	B-CHARACTER
 .	O
 
-# id = litbank-1424
+# id = litbank-1753
 # source = LitBank
 # book = Bleak House
 # book_id = 1023_bleak_house
@@ -584,88 +1151,7 @@ the	O
 office	O
 .	O
 
-# id = litbank-1408
-# source = LitBank
-# book = Bleak House
-# book_id = 1023_bleak_house
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/1023_bleak_house_brat.tsv
-# text = michaelmas term lately over , and the lord chancellor sitting in lincoln 's inn hall .
-michaelmas	O
-term	O
-lately	O
-over	O
-,	O
-and	O
-the	O
-lord	O
-chancellor	O
-sitting	O
-in	O
-lincoln	O
-'s	O
-inn	O
-hall	O
-.	O
-
-# id = litbank-1409
-# source = LitBank
-# book = Bleak House
-# book_id = 1023_bleak_house
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/1023_bleak_house_brat.tsv
-# text = as much mud in the streets as if the waters had but newly retired from the face of the earth , and it would not be wonderful to meet a megalosaurus , forty feet long or so , waddling like an elephantine lizard up holborn hill .
-as	O
-much	O
-mud	O
-in	O
-the	O
-streets	O
-as	O
-if	O
-the	O
-waters	O
-had	O
-but	O
-newly	O
-retired	O
-from	O
-the	O
-face	O
-of	O
-the	O
-earth	O
-,	O
-and	O
-it	O
-would	O
-not	O
-be	O
-wonderful	O
-to	O
-meet	O
-a	O
-megalosaurus	O
-,	O
-forty	O
-feet	O
-long	O
-or	O
-so	O
-,	O
-waddling	O
-like	O
-an	O
-elephantine	O
-lizard	O
-up	O
-holborn	O
-hill	O
-.	O
-
-# id = litbank-1410
+# id = litbank-1729
 # source = LitBank
 # book = Bleak House
 # book_id = 1023_bleak_house
@@ -713,7 +1199,7 @@ the	O
 sun	O
 .	O
 
-# id = litbank-1411
+# id = litbank-1730
 # source = LitBank
 # book = Bleak House
 # book_id = 1023_bleak_house
@@ -733,7 +1219,7 @@ very	O
 blinkers	O
 .	O
 
-# id = litbank-1412
+# id = litbank-1731
 # source = LitBank
 # book = Bleak House
 # book_id = 1023_bleak_house
@@ -814,5 +1300,98 @@ accumulating	O
 at	O
 compound	O
 interest	O
+.	O
+
+# id = litbank-1732
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = fog up the river , where it flows among green aits and meadows ; fog down the river , where it rolls defiled among the tiers of shipping and the waterside pollutions of a great ( and dirty ) city .
+fog	O
+up	O
+the	O
+river	O
+,	O
+where	O
+it	O
+flows	O
+among	O
+green	O
+aits	O
+and	O
+meadows	O
+;	O
+fog	O
+down	O
+the	O
+river	O
+,	O
+where	O
+it	O
+rolls	O
+defiled	O
+among	O
+the	O
+tiers	O
+of	O
+shipping	O
+and	O
+the	O
+waterside	O
+pollutions	O
+of	O
+a	O
+great	O
+(	O
+and	O
+dirty	O
+)	O
+city	O
+.	O
+
+# id = litbank-1734
+# source = LitBank
+# book = Bleak House
+# book_id = 1023_bleak_house
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1023_bleak_house_brat.tsv
+# text = fog creeping into the cabooses of collier-brigs ; fog lying out on the yards and hovering in the rigging of great ships ; fog drooping on the gunwales of barges and small boats .
+fog	O
+creeping	O
+into	O
+the	O
+cabooses	O
+of	O
+collier-brigs	O
+;	O
+fog	O
+lying	O
+out	O
+on	O
+the	O
+yards	O
+and	O
+hovering	O
+in	O
+the	O
+rigging	O
+of	O
+great	O
+ships	O
+;	O
+fog	O
+drooping	O
+on	O
+the	O
+gunwales	O
+of	O
+barges	O
+and	O
+small	O
+boats	O
 .	O
 

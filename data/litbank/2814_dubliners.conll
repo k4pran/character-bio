@@ -1,4 +1,4 @@
-# id = litbank-1861
+# id = litbank-2292
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -24,7 +24,7 @@ to	O
 supper	O
 .	O
 
-# id = litbank-1862
+# id = litbank-2293
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -42,7 +42,7 @@ told	O
 us	O
 .	O
 
-# id = litbank-1863
+# id = litbank-2294
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -58,7 +58,7 @@ old	O
 cotter	B-CHARACTER
 .	O
 
-# id = litbank-1864
+# id = litbank-2295
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -76,7 +76,7 @@ a	O
 while	O
 .	O
 
-# id = litbank-1865
+# id = litbank-2296
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -95,7 +95,7 @@ cotter	I-CHARACTER
 ?	O
 ”	O
 
-# id = litbank-1866
+# id = litbank-2297
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -122,7 +122,7 @@ for	O
 children	O
 .	O
 
-# id = litbank-1867
+# id = litbank-2298
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -138,7 +138,7 @@ jack	B-CHARACTER
 ?	O
 ”	O
 
-# id = litbank-1868
+# id = litbank-2299
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -165,7 +165,7 @@ my	O
 aunt	O
 .	O
 
-# id = litbank-1869
+# id = litbank-2300
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -188,7 +188,7 @@ old	O
 cotter	B-CHARACTER
 .	O
 
-# id = litbank-1870
+# id = litbank-2301
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -214,7 +214,7 @@ cotter	I-CHARACTER
 ?	O
 ”	O
 
-# id = litbank-1871
+# id = litbank-2302
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -243,7 +243,7 @@ so	O
 impressionable	O
 .	O
 
-# id = litbank-1872
+# id = litbank-2303
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -279,7 +279,58 @@ unfinished	O
 sentences	O
 .	O
 
-# id = litbank-1873
+# id = litbank-2304
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = the next morning after breakfast i went down to look at the little house in great britain street .
+the	O
+next	O
+morning	O
+after	O
+breakfast	O
+i	O
+went	O
+down	O
+to	O
+look	O
+at	O
+the	O
+little	O
+house	O
+in	O
+great	B-LOCATION
+britain	I-LOCATION
+street	I-LOCATION
+.	O
+
+# id = litbank-2305
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = it was an unassuming shop , registered under the vague name of drapery .
+it	O
+was	O
+an	O
+unassuming	O
+shop	O
+,	O
+registered	O
+under	O
+the	O
+vague	O
+name	O
+of	O
+drapery	B-LOCATION
+.	O
+
+# id = litbank-2306
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -304,13 +355,13 @@ flynn	I-CHARACTER
 (	O
 formerly	O
 of	O
-s.	O
-catherine	O
+s.	B-LOCATION
+catherine	I-LOCATION
 ’s	O
 church	O
 ,	O
-meath	O
-street	O
+meath	B-LOCATION
+street	I-LOCATION
 )	O
 ,	O
 aged	O
@@ -318,7 +369,35 @@ sixty-five	O
 years	O
 .	O
 
-# id = litbank-1874
+# id = litbank-2307
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = he had studied in the irish college in rome and he had taught me to pronounce latin properly .
+he	O
+had	O
+studied	O
+in	O
+the	O
+irish	O
+college	O
+in	O
+rome	B-LOCATION
+and	O
+he	O
+had	O
+taught	O
+me	O
+to	O
+pronounce	O
+latin	O
+properly	O
+.	O
+
+# id = litbank-2308
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -352,7 +431,42 @@ the	O
 dream	O
 .	O
 
-# id = litbank-1875
+# id = litbank-2309
+# source = LitBank
+# book = Dubliners
+# book_id = 2814_dubliners
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2814_dubliners_brat.tsv
+# text = i felt that i had been very far away , in some land where the customs were strange — in persia , i thought ... .
+i	O
+felt	O
+that	O
+i	O
+had	O
+been	O
+very	O
+far	O
+away	O
+,	O
+in	O
+some	O
+land	O
+where	O
+the	O
+customs	O
+were	O
+strange	O
+—	O
+in	O
+persia	B-LOCATION
+,	O
+i	O
+thought	O
+...	O
+.	O
+
+# id = litbank-2310
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -391,7 +505,7 @@ for	O
 all	O
 .	O
 
-# id = litbank-1856
+# id = litbank-2287
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -417,7 +531,7 @@ third	O
 stroke	O
 .	O
 
-# id = litbank-1857
+# id = litbank-2288
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -466,7 +580,7 @@ and	O
 evenly	O
 .	O
 
-# id = litbank-1858
+# id = litbank-2289
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -510,7 +624,7 @@ a	O
 corpse	O
 .	O
 
-# id = litbank-1859
+# id = litbank-2290
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners
@@ -544,7 +658,7 @@ words	O
 idle	O
 .	O
 
-# id = litbank-1860
+# id = litbank-2291
 # source = LitBank
 # book = Dubliners
 # book_id = 2814_dubliners

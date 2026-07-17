@@ -1,4 +1,72 @@
-# id = litbank-1114
+# id = litbank-1347
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = chapter i i on a hill by the mississippi where chippewas camped two generations ago , a girl stood in relief against the cornflower blue of northern sky .
+chapter	O
+i	O
+i	O
+on	O
+a	O
+hill	O
+by	O
+the	O
+mississippi	B-LOCATION
+where	O
+chippewas	O
+camped	O
+two	O
+generations	O
+ago	O
+,	O
+a	O
+girl	O
+stood	O
+in	O
+relief	O
+against	O
+the	O
+cornflower	O
+blue	O
+of	O
+northern	O
+sky	O
+.	O
+
+# id = litbank-1348
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = she saw no indians now ; she saw flour-mills and the blinking windows of skyscrapers in minneapolis and st. paul .
+she	O
+saw	O
+no	O
+indians	O
+now	O
+;	O
+she	O
+saw	O
+flour-mills	O
+and	O
+the	O
+blinking	O
+windows	O
+of	O
+skyscrapers	O
+in	O
+minneapolis	B-LOCATION
+and	O
+st.	B-LOCATION
+paul	I-LOCATION
+.	O
+
+# id = litbank-1354
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
@@ -20,7 +88,112 @@ blodgett	O
 college	O
 .	O
 
-# id = litbank-1115
+# id = litbank-1355
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = the days of pioneering , of lassies in sunbonnets , and bears killed with axes in piney clearings , are deader now than camelot ; and a rebellious girl is the spirit of that bewildered empire called the american middlewest .
+the	O
+days	O
+of	O
+pioneering	O
+,	O
+of	O
+lassies	O
+in	O
+sunbonnets	O
+,	O
+and	O
+bears	O
+killed	O
+with	O
+axes	O
+in	O
+piney	O
+clearings	O
+,	O
+are	O
+deader	O
+now	O
+than	O
+camelot	B-LOCATION
+;	O
+and	O
+a	O
+rebellious	O
+girl	O
+is	O
+the	O
+spirit	O
+of	O
+that	O
+bewildered	O
+empire	O
+called	O
+the	O
+american	O
+middlewest	B-LOCATION
+.	O
+
+# id = litbank-1356
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = ii blodgett college is on the edge of minneapolis .
+ii	O
+blodgett	B-LOCATION
+college	I-LOCATION
+is	O
+on	O
+the	O
+edge	O
+of	O
+minneapolis	B-LOCATION
+.	O
+
+# id = litbank-1357
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = pious families in minnesota , iowa , wisconsin , the dakotas send their children thither , and blodgett protects them from the wickedness of the universities .
+pious	O
+families	O
+in	O
+minnesota	B-LOCATION
+,	O
+iowa	B-LOCATION
+,	O
+wisconsin	B-LOCATION
+,	O
+the	O
+dakotas	O
+send	O
+their	O
+children	O
+thither	O
+,	O
+and	O
+blodgett	O
+protects	O
+them	O
+from	O
+the	O
+wickedness	O
+of	O
+the	O
+universities	O
+.	O
+
+# id = litbank-1358
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
@@ -36,14 +209,55 @@ which	O
 carol	B-CHARACTER
 spent	O
 at	O
-blodgett	O
+blodgett	B-LOCATION
 were	O
 not	O
 altogether	O
 wasted	O
 .	O
 
-# id = litbank-1116
+# id = litbank-1359
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = she was noticeable equally in the classroom grind and at dances , though out of the three hundred students of blodgett , scores recited more accurately and dozens bostoned more smoothly .
+she	O
+was	O
+noticeable	O
+equally	O
+in	O
+the	O
+classroom	O
+grind	O
+and	O
+at	O
+dances	O
+,	O
+though	O
+out	O
+of	O
+the	O
+three	O
+hundred	O
+students	O
+of	O
+blodgett	B-LOCATION
+,	O
+scores	O
+recited	O
+more	O
+accurately	O
+and	O
+dozens	O
+bostoned	O
+more	O
+smoothly	O
+.	O
+
+# id = litbank-1360
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
@@ -78,7 +292,7 @@ of	O
 her	O
 .	O
 
-# id = litbank-1117
+# id = litbank-1361
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
@@ -98,7 +312,7 @@ and	O
 carol	B-CHARACTER
 .	O
 
-# id = litbank-1118
+# id = litbank-1362
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
@@ -128,11 +342,11 @@ to	O
 an	O
 optician	O
 in	O
-st.	O
-paul	O
+st.	B-LOCATION
+paul	I-LOCATION
 .	O
 
-# id = litbank-1119
+# id = litbank-1363
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
@@ -146,7 +360,7 @@ tempted	O
 carol	B-CHARACTER
 .	O
 
-# id = litbank-1120
+# id = litbank-1364
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
@@ -181,7 +395,91 @@ unidentified	O
 hero	O
 .	O
 
-# id = litbank-1121
+# id = litbank-1365
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = he was married , and therefore taboo , but he had come from boston , he had lived among poets and socialists and jews and millionaire uplifters at the university settlement in new york , and he had a beautiful white strong neck .
+he	O
+was	O
+married	O
+,	O
+and	O
+therefore	O
+taboo	O
+,	O
+but	O
+he	O
+had	O
+come	O
+from	O
+boston	B-LOCATION
+,	O
+he	O
+had	O
+lived	O
+among	O
+poets	O
+and	O
+socialists	O
+and	O
+jews	O
+and	O
+millionaire	O
+uplifters	O
+at	O
+the	O
+university	B-LOCATION
+settlement	I-LOCATION
+in	O
+new	B-LOCATION
+york	I-LOCATION
+,	O
+and	O
+he	O
+had	O
+a	O
+beautiful	O
+white	O
+strong	O
+neck	O
+.	O
+
+# id = litbank-1366
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = he led a giggling class through the prisons , the charity bureaus , the employment agencies of minneapolis and st. paul .
+he	O
+led	O
+a	O
+giggling	O
+class	O
+through	O
+the	O
+prisons	O
+,	O
+the	O
+charity	O
+bureaus	O
+,	O
+the	O
+employment	O
+agencies	O
+of	O
+minneapolis	B-LOCATION
+and	O
+st.	B-LOCATION
+paul	I-LOCATION
+.	O
+
+# id = litbank-1367
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
@@ -217,10 +515,10 @@ poor	O
 as	O
 at	O
 a	O
-zoo	O
+zoo	B-LOCATION
 .	O
 
-# id = litbank-1122
+# id = litbank-1368
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
@@ -271,9 +569,9 @@ the	O
 muck	O
 of	O
 the	O
-south	O
-st.	O
-paul	O
+south	B-LOCATION
+st.	I-LOCATION
+paul	I-LOCATION
 stockyards	O
 ,	O
 “	O
@@ -285,7 +583,7 @@ me	O
 tired	O
 .	O
 
-# id = litbank-1123
+# id = litbank-1369
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
@@ -305,7 +603,7 @@ glowed	O
 carol	B-CHARACTER
 .	O
 
-# id = litbank-1124
+# id = litbank-1370
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
@@ -330,7 +628,7 @@ of	O
 abasement	O
 .	O
 
-# id = litbank-1125
+# id = litbank-1371
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
@@ -345,7 +643,7 @@ at	O
 her	O
 .	O
 
-# id = litbank-1126
+# id = litbank-1372
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
@@ -373,7 +671,7 @@ people	O
 .	O
 ”	O
 
-# id = litbank-1127
+# id = litbank-1373
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
@@ -387,7 +685,79 @@ not	O
 interesting	O
 .	O
 
-# id = litbank-1128
+# id = litbank-1374
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = it had pictures of greens and garden-walls in france , new england , pennsylvania .
+it	O
+had	O
+pictures	O
+of	O
+greens	O
+and	O
+garden-walls	O
+in	O
+france	B-LOCATION
+,	O
+new	B-LOCATION
+england	I-LOCATION
+,	O
+pennsylvania	B-LOCATION
+.	O
+
+# id = litbank-1375
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = about her was the clothy exuberance of a blodgett college room : cretonne-covered window-seat , photographs of girls , a carbon print of the coliseum , a chafing-dish , and a dozen pillows embroidered or beaded or pyrographed .
+about	O
+her	O
+was	O
+the	O
+clothy	O
+exuberance	O
+of	O
+a	O
+blodgett	B-LOCATION
+college	I-LOCATION
+room	I-LOCATION
+:	O
+cretonne-covered	O
+window-seat	O
+,	O
+photographs	O
+of	O
+girls	O
+,	O
+a	O
+carbon	O
+print	O
+of	O
+the	O
+coliseum	B-LOCATION
+,	O
+a	O
+chafing-dish	O
+,	O
+and	O
+a	O
+dozen	O
+pillows	O
+embroidered	O
+or	O
+beaded	O
+or	O
+pyrographed	O
+.	O
+
+# id = litbank-1376
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
@@ -407,75 +777,61 @@ the	O
 room	O
 .	O
 
-# id = litbank-1109
+# id = litbank-1377
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
 # chapter = unknown
-# sample_type = negative
+# sample_type = positive
 # source_file = entities/tsv/543_main_street_brat.tsv
-# text = chapter i i on a hill by the mississippi where chippewas camped two generations ago , a girl stood in relief against the cornflower blue of northern sky .
-chapter	O
-i	O
-i	O
+# text = why should they have all the garden suburbs on long island ?
+why	O
+should	O
+they	O
+have	O
+all	O
+the	O
+garden	O
+suburbs	O
 on	O
-a	O
-hill	O
-by	O
-the	O
-mississippi	O
-where	O
-chippewas	O
-camped	O
-two	O
-generations	O
-ago	O
-,	O
-a	O
-girl	O
-stood	O
-in	O
-relief	O
-against	O
-the	O
-cornflower	O
-blue	O
-of	O
-northern	O
-sky	O
-.	O
+long	B-LOCATION
+island	I-LOCATION
+?	O
 
-# id = litbank-1110
+# id = litbank-1378
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
 # chapter = unknown
-# sample_type = negative
+# sample_type = positive
 # source_file = entities/tsv/543_main_street_brat.tsv
-# text = she saw no indians now ; she saw flour-mills and the blinking windows of skyscrapers in minneapolis and st. paul .
-she	O
-saw	O
-no	O
-indians	O
-now	O
-;	O
-she	O
-saw	O
-flour-mills	O
-and	O
+# text = nobody has done anything with the ugly towns here in the northwest except hold revivals and build libraries to contain the elsie books .
+nobody	O
+has	O
+done	O
+anything	O
+with	O
 the	O
-blinking	O
-windows	O
-of	O
-skyscrapers	O
+ugly	O
+towns	O
+here	O
 in	O
-minneapolis	O
+the	O
+northwest	B-LOCATION
+except	O
+hold	O
+revivals	O
 and	O
-st.	O
-paul	O
+build	O
+libraries	O
+to	O
+contain	O
+the	O
+elsie	O
+books	O
 .	O
 
-# id = litbank-1111
+# id = litbank-1349
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
@@ -504,7 +860,7 @@ about	O
 her	O
 .	O
 
-# id = litbank-1112
+# id = litbank-1350
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
@@ -550,7 +906,7 @@ her	O
 ears	O
 .	O
 
-# id = litbank-1113
+# id = litbank-1351
 # source = LitBank
 # book = Main Street
 # book_id = 543_main_street
@@ -606,5 +962,68 @@ quality	O
 of	O
 suspended	O
 freedom	O
+.	O
+
+# id = litbank-1352
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = she lifted her arms , she leaned back against the wind , her skirt dipped and flared , a lock blew wild .
+she	O
+lifted	O
+her	O
+arms	O
+,	O
+she	O
+leaned	O
+back	O
+against	O
+the	O
+wind	O
+,	O
+her	O
+skirt	O
+dipped	O
+and	O
+flared	O
+,	O
+a	O
+lock	O
+blew	O
+wild	O
+.	O
+
+# id = litbank-1353
+# source = LitBank
+# book = Main Street
+# book_id = 543_main_street
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/543_main_street_brat.tsv
+# text = a girl on a hilltop ; credulous , plastic , young ; drinking the air as she longed to drink life .
+a	O
+girl	O
+on	O
+a	O
+hilltop	O
+;	O
+credulous	O
+,	O
+plastic	O
+,	O
+young	O
+;	O
+drinking	O
+the	O
+air	O
+as	O
+she	O
+longed	O
+to	O
+drink	O
+life	O
 .	O
 

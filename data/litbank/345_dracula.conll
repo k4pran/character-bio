@@ -1,4 +1,4 @@
-# id = litbank-0837
+# id = litbank-1022
 # source = LitBank
 # book = Dracula
 # book_id = 345_dracula
@@ -19,7 +19,192 @@ in	O
 shorthand	O
 .	O
 
-# id = litbank-0843
+# id = litbank-1023
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = bistritz .
+bistritz	B-LOCATION
+.	O
+
+# id = litbank-1024
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = _ -- left munich at 8:35 p. m. , on 1st may , arriving at vienna early next morning ; should have arrived at 6:46 , but train was an hour late .
+_	O
+--	O
+left	O
+munich	B-LOCATION
+at	O
+8:35	O
+p.	O
+m.	O
+,	O
+on	O
+1st	O
+may	O
+,	O
+arriving	O
+at	O
+vienna	B-LOCATION
+early	O
+next	O
+morning	O
+;	O
+should	O
+have	O
+arrived	O
+at	O
+6:46	O
+,	O
+but	O
+train	O
+was	O
+an	O
+hour	O
+late	O
+.	O
+
+# id = litbank-1025
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = buda-pesth seems a wonderful place , from the glimpse which i got of it from the train and the little i could walk through the streets .
+buda-pesth	B-LOCATION
+seems	O
+a	O
+wonderful	O
+place	O
+,	O
+from	O
+the	O
+glimpse	O
+which	O
+i	O
+got	O
+of	O
+it	O
+from	O
+the	O
+train	O
+and	O
+the	O
+little	O
+i	O
+could	O
+walk	O
+through	O
+the	O
+streets	O
+.	O
+
+# id = litbank-1027
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = the impression i had was that we were leaving the west and entering the east ; the most western of splendid bridges over the danube , which is here of noble width and depth , took us among the traditions of turkish rule .
+the	O
+impression	O
+i	O
+had	O
+was	O
+that	O
+we	O
+were	O
+leaving	O
+the	O
+west	O
+and	O
+entering	O
+the	O
+east	O
+;	O
+the	O
+most	O
+western	O
+of	O
+splendid	O
+bridges	O
+over	O
+the	O
+danube	B-LOCATION
+,	O
+which	O
+is	O
+here	O
+of	O
+noble	O
+width	O
+and	O
+depth	O
+,	O
+took	O
+us	O
+among	O
+the	O
+traditions	O
+of	O
+turkish	O
+rule	O
+.	O
+
+# id = litbank-1028
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = we left in pretty good time , and came after nightfall to klausenburgh .
+we	O
+left	O
+in	O
+pretty	O
+good	O
+time	O
+,	O
+and	O
+came	O
+after	O
+nightfall	O
+to	O
+klausenburgh	B-LOCATION
+.	O
+
+# id = litbank-1029
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = here i stopped for the night at the hotel royale .
+here	O
+i	O
+stopped	O
+for	O
+the	O
+night	O
+at	O
+the	O
+hotel	O
+royale	B-LOCATION
+.	O
+
+# id = litbank-1031
 # source = LitBank
 # book = Dracula
 # book_id = 345_dracula
@@ -36,7 +221,179 @@ mina	B-CHARACTER
 .	O
 )	O
 
-# id = litbank-0844
+# id = litbank-1032
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = i asked the waiter , and he said it was called " paprika hendl , " and that , as it was a national dish , i should be able to get it anywhere along the carpathians .
+i	O
+asked	O
+the	O
+waiter	O
+,	O
+and	O
+he	O
+said	O
+it	O
+was	O
+called	O
+"	O
+paprika	O
+hendl	O
+,	O
+"	O
+and	O
+that	O
+,	O
+as	O
+it	O
+was	O
+a	O
+national	O
+dish	O
+,	O
+i	O
+should	O
+be	O
+able	O
+to	O
+get	O
+it	O
+anywhere	O
+along	O
+the	O
+carpathians	B-LOCATION
+.	O
+
+# id = litbank-1034
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = having had some time at my disposal when in london , i had visited the british museum , and made search among the books and maps in the library regarding transylvania ; it had struck me that some foreknowledge of the country could hardly fail to have some importance in dealing with a nobleman of that country .
+having	O
+had	O
+some	O
+time	O
+at	O
+my	O
+disposal	O
+when	O
+in	O
+london	B-LOCATION
+,	O
+i	O
+had	O
+visited	O
+the	O
+british	O
+museum	B-LOCATION
+,	O
+and	O
+made	O
+search	O
+among	O
+the	O
+books	O
+and	O
+maps	O
+in	O
+the	O
+library	O
+regarding	O
+transylvania	B-LOCATION
+;	O
+it	O
+had	O
+struck	O
+me	O
+that	O
+some	O
+foreknowledge	O
+of	O
+the	O
+country	O
+could	O
+hardly	O
+fail	O
+to	O
+have	O
+some	O
+importance	O
+in	O
+dealing	O
+with	O
+a	O
+nobleman	O
+of	O
+that	O
+country	O
+.	O
+
+# id = litbank-1035
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = i find that the district he named is in the extreme east of the country , just on the borders of three states , transylvania , moldavia and bukovina , in the midst of the carpathian mountains ; one of the wildest and least known portions of europe .
+i	O
+find	O
+that	O
+the	O
+district	O
+he	O
+named	O
+is	O
+in	O
+the	O
+extreme	O
+east	O
+of	O
+the	O
+country	O
+,	O
+just	O
+on	O
+the	O
+borders	O
+of	O
+three	O
+states	O
+,	O
+transylvania	B-LOCATION
+,	O
+moldavia	B-LOCATION
+and	O
+bukovina	B-LOCATION
+,	O
+in	O
+the	O
+midst	O
+of	O
+the	O
+carpathian	B-LOCATION
+mountains	I-LOCATION
+;	O
+one	O
+of	O
+the	O
+wildest	O
+and	O
+least	O
+known	O
+portions	O
+of	O
+europe	B-LOCATION
+.	O
+
+# id = litbank-1036
 # source = LitBank
 # book = Dracula
 # book_id = 345_dracula
@@ -62,7 +419,7 @@ locality	O
 of	O
 the	O
 castle	O
-dracula	O
+dracula	B-LOCATION
 ,	O
 as	O
 there	O
@@ -87,7 +444,7 @@ but	O
 i	O
 found	O
 that	O
-bistritz	O
+bistritz	B-LOCATION
 ,	O
 the	O
 post	O
@@ -104,7 +461,7 @@ well-known	O
 place	O
 .	O
 
-# id = litbank-0845
+# id = litbank-1037
 # source = LitBank
 # book = Dracula
 # book_id = 345_dracula
@@ -137,7 +494,243 @@ with	O
 mina	B-CHARACTER
 .	O
 
-# id = litbank-0846
+# id = litbank-1038
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = in the population of transylvania there are four distinct nationalities : saxons in the south , and mixed with them the wallachs , who are the descendants of the dacians ; magyars in the west , and szekelys in the east and north .
+in	O
+the	O
+population	O
+of	O
+transylvania	B-LOCATION
+there	O
+are	O
+four	O
+distinct	O
+nationalities	O
+:	O
+saxons	O
+in	O
+the	O
+south	O
+,	O
+and	O
+mixed	O
+with	O
+them	O
+the	O
+wallachs	O
+,	O
+who	O
+are	O
+the	O
+descendants	O
+of	O
+the	O
+dacians	O
+;	O
+magyars	O
+in	O
+the	O
+west	O
+,	O
+and	O
+szekelys	O
+in	O
+the	O
+east	O
+and	O
+north	O
+.	O
+
+# id = litbank-1041
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = i read that every known superstition in the world is gathered into the horseshoe of the carpathians , as if it were the centre of some sort of imaginative whirlpool ; if so my stay may be very interesting .
+i	O
+read	O
+that	O
+every	O
+known	O
+superstition	O
+in	O
+the	O
+world	O
+is	O
+gathered	O
+into	O
+the	O
+horseshoe	O
+of	O
+the	O
+carpathians	B-LOCATION
+,	O
+as	O
+if	O
+it	O
+were	O
+the	O
+centre	O
+of	O
+some	O
+sort	O
+of	O
+imaginative	O
+whirlpool	O
+;	O
+if	O
+so	O
+my	O
+stay	O
+may	O
+be	O
+very	O
+interesting	O
+.	O
+
+# id = litbank-1042
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = what ought they to be in china ?
+what	O
+ought	O
+they	O
+to	O
+be	O
+in	O
+china	B-LOCATION
+?	O
+
+# id = litbank-1043
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = some of them were just like the peasants at home or those i saw coming through france and germany , with short jackets and round hats and home-made trousers ; but others were very picturesque .
+some	O
+of	O
+them	O
+were	O
+just	O
+like	O
+the	O
+peasants	O
+at	O
+home	O
+or	O
+those	O
+i	O
+saw	O
+coming	O
+through	O
+france	B-LOCATION
+and	O
+germany	B-LOCATION
+,	O
+with	O
+short	O
+jackets	O
+and	O
+round	O
+hats	O
+and	O
+home-made	O
+trousers	O
+;	O
+but	O
+others	O
+were	O
+very	O
+picturesque	O
+.	O
+
+# id = litbank-1044
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = it was on the dark side of twilight when we got to bistritz , which is a very interesting old place .
+it	O
+was	O
+on	O
+the	O
+dark	O
+side	O
+of	O
+twilight	O
+when	O
+we	O
+got	O
+to	O
+bistritz	B-LOCATION
+,	O
+which	O
+is	O
+a	O
+very	O
+interesting	O
+old	O
+place	O
+.	O
+
+# id = litbank-1045
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = being practically on the frontier -- for the borgo pass leads from it into bukovina -- it has had a very stormy existence , and it certainly shows marks of it .
+being	O
+practically	O
+on	O
+the	O
+frontier	O
+--	O
+for	O
+the	O
+borgo	B-LOCATION
+pass	I-LOCATION
+leads	O
+from	O
+it	O
+into	O
+bukovina	B-LOCATION
+--	O
+it	O
+has	O
+had	O
+a	O
+very	O
+stormy	O
+existence	O
+,	O
+and	O
+it	O
+certainly	O
+shows	O
+marks	O
+of	O
+it	O
+.	O
+
+# id = litbank-1046
 # source = LitBank
 # book = Dracula
 # book_id = 345_dracula
@@ -154,9 +747,9 @@ to	O
 go	O
 to	O
 the	O
-golden	O
-krone	O
-hotel	O
+golden	B-LOCATION
+krone	I-LOCATION
+hotel	I-LOCATION
 ,	O
 which	O
 i	O
@@ -190,7 +783,7 @@ the	O
 country	O
 .	O
 
-# id = litbank-0847
+# id = litbank-1047
 # source = LitBank
 # book = Dracula
 # book_id = 345_dracula
@@ -211,7 +804,109 @@ harker	I-CHARACTER
 .	O
 "	O
 
-# id = litbank-0848
+# id = litbank-1048
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = -- welcome to the carpathians .
+--	O
+welcome	O
+to	O
+the	O
+carpathians	B-LOCATION
+.	O
+
+# id = litbank-1049
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = at three to-morrow the diligence will start for bukovina ; a place on it is kept for you .
+at	O
+three	O
+to-morrow	O
+the	O
+diligence	O
+will	O
+start	O
+for	O
+bukovina	B-LOCATION
+;	O
+a	O
+place	O
+on	O
+it	O
+is	O
+kept	O
+for	O
+you	O
+.	O
+
+# id = litbank-1050
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = at the borgo pass my carriage will await you and will bring you to me .
+at	O
+the	O
+borgo	B-LOCATION
+pass	I-LOCATION
+my	O
+carriage	O
+will	O
+await	O
+you	O
+and	O
+will	O
+bring	O
+you	O
+to	O
+me	O
+.	O
+
+# id = litbank-1051
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = i trust that your journey from london has been a happy one , and that you will enjoy your stay in my beautiful land .
+i	O
+trust	O
+that	O
+your	O
+journey	O
+from	O
+london	B-LOCATION
+has	O
+been	O
+a	O
+happy	O
+one	O
+,	O
+and	O
+that	O
+you	O
+will	O
+enjoy	O
+your	O
+stay	O
+in	O
+my	O
+beautiful	O
+land	O
+.	O
+
+# id = litbank-1052
 # source = LitBank
 # book = Dracula
 # book_id = 345_dracula
@@ -228,7 +923,66 @@ dracula	B-CHARACTER
 .	O
 "	O
 
-# id = litbank-0849
+# id = litbank-1053
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = _ -- i found that my landlord had got a letter from the count , directing him to secure the best place on the coach for me ; but on making inquiries as to details he seemed somewhat reticent , and pretended that he could not understand my german .
+_	O
+--	O
+i	O
+found	O
+that	O
+my	O
+landlord	O
+had	O
+got	O
+a	O
+letter	O
+from	O
+the	O
+count	B-LOCATION
+,	O
+directing	O
+him	O
+to	O
+secure	O
+the	O
+best	O
+place	O
+on	O
+the	O
+coach	O
+for	O
+me	O
+;	O
+but	O
+on	O
+making	O
+inquiries	O
+as	O
+to	O
+details	O
+he	O
+seemed	O
+somewhat	O
+reticent	O
+,	O
+and	O
+pretended	O
+that	O
+he	O
+could	O
+not	O
+understand	O
+my	O
+german	O
+.	O
+
+# id = litbank-1054
 # source = LitBank
 # book = Dracula
 # book_id = 345_dracula
@@ -280,7 +1034,7 @@ speak	O
 further	O
 .	O
 
-# id = litbank-0850
+# id = litbank-1055
 # source = LitBank
 # book = Dracula
 # book_id = 345_dracula
@@ -306,85 +1060,7 @@ my	O
 good-bye	O
 .	O
 
-# id = litbank-0838
-# source = LitBank
-# book = Dracula
-# book_id = 345_dracula
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/345_dracula_brat.tsv
-# text = _ -- left munich at 8:35 p. m. , on 1st may , arriving at vienna early next morning ; should have arrived at 6:46 , but train was an hour late .
-_	O
---	O
-left	O
-munich	O
-at	O
-8:35	O
-p.	O
-m.	O
-,	O
-on	O
-1st	O
-may	O
-,	O
-arriving	O
-at	O
-vienna	O
-early	O
-next	O
-morning	O
-;	O
-should	O
-have	O
-arrived	O
-at	O
-6:46	O
-,	O
-but	O
-train	O
-was	O
-an	O
-hour	O
-late	O
-.	O
-
-# id = litbank-0839
-# source = LitBank
-# book = Dracula
-# book_id = 345_dracula
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/345_dracula_brat.tsv
-# text = buda-pesth seems a wonderful place , from the glimpse which i got of it from the train and the little i could walk through the streets .
-buda-pesth	O
-seems	O
-a	O
-wonderful	O
-place	O
-,	O
-from	O
-the	O
-glimpse	O
-which	O
-i	O
-got	O
-of	O
-it	O
-from	O
-the	O
-train	O
-and	O
-the	O
-little	O
-i	O
-could	O
-walk	O
-through	O
-the	O
-streets	O
-.	O
-
-# id = litbank-0840
+# id = litbank-1026
 # source = LitBank
 # book = Dracula
 # book_id = 345_dracula
@@ -419,79 +1095,134 @@ as	O
 possible	O
 .	O
 
-# id = litbank-0841
+# id = litbank-1030
 # source = LitBank
 # book = Dracula
 # book_id = 345_dracula
 # chapter = unknown
 # sample_type = negative
 # source_file = entities/tsv/345_dracula_brat.tsv
-# text = the impression i had was that we were leaving the west and entering the east ; the most western of splendid bridges over the danube , which is here of noble width and depth , took us among the traditions of turkish rule .
-the	O
-impression	O
+# text = i had for dinner , or rather supper , a chicken done up some way with red pepper , which was very good but thirsty .
 i	O
 had	O
-was	O
-that	O
-we	O
-were	O
-leaving	O
-the	O
-west	O
-and	O
-entering	O
-the	O
-east	O
-;	O
-the	O
-most	O
-western	O
-of	O
-splendid	O
-bridges	O
-over	O
-the	O
-danube	O
+for	O
+dinner	O
+,	O
+or	O
+rather	O
+supper	O
+,	O
+a	O
+chicken	O
+done	O
+up	O
+some	O
+way	O
+with	O
+red	O
+pepper	O
 ,	O
 which	O
-is	O
-here	O
-of	O
-noble	O
-width	O
-and	O
-depth	O
-,	O
-took	O
-us	O
-among	O
-the	O
-traditions	O
-of	O
-turkish	O
-rule	O
+was	O
+very	O
+good	O
+but	O
+thirsty	O
 .	O
 
-# id = litbank-0842
+# id = litbank-1033
 # source = LitBank
 # book = Dracula
 # book_id = 345_dracula
 # chapter = unknown
 # sample_type = negative
 # source_file = entities/tsv/345_dracula_brat.tsv
-# text = we left in pretty good time , and came after nightfall to klausenburgh .
-we	O
-left	O
-in	O
-pretty	O
-good	O
-time	O
+# text = i found my smattering of german very useful here ; indeed , i do n't know how i should be able to get on without it .
+i	O
+found	O
+my	O
+smattering	O
+of	O
+german	O
+very	O
+useful	O
+here	O
+;	O
+indeed	O
 ,	O
-and	O
-came	O
-after	O
-nightfall	O
+i	O
+do	O
+n't	O
+know	O
+how	O
+i	O
+should	O
+be	O
+able	O
 to	O
-klausenburgh	O
+get	O
+on	O
+without	O
+it	O
+.	O
+
+# id = litbank-1039
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = i am going among the latter , who claim to be descended from attila and the huns .
+i	O
+am	O
+going	O
+among	O
+the	O
+latter	O
+,	O
+who	O
+claim	O
+to	O
+be	O
+descended	O
+from	O
+attila	O
+and	O
+the	O
+huns	O
+.	O
+
+# id = litbank-1040
+# source = LitBank
+# book = Dracula
+# book_id = 345_dracula
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/345_dracula_brat.tsv
+# text = this may be so , for when the magyars conquered the country in the eleventh century they found the huns settled in it .
+this	O
+may	O
+be	O
+so	O
+,	O
+for	O
+when	O
+the	O
+magyars	O
+conquered	O
+the	O
+country	O
+in	O
+the	O
+eleventh	O
+century	O
+they	O
+found	O
+the	O
+huns	O
+settled	O
+in	O
+it	O
 .	O
 

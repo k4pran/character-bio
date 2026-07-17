@@ -1,4 +1,4 @@
-# id = litbank-1614
+# id = litbank-1963
 # source = LitBank
 # book = Great Expectations
 # book_id = 1400_great_expectations
@@ -39,7 +39,7 @@ than	O
 pip	B-CHARACTER
 .	O
 
-# id = litbank-1615
+# id = litbank-1964
 # source = LitBank
 # book = Great Expectations
 # book_id = 1400_great_expectations
@@ -62,7 +62,7 @@ called	O
 pip	B-CHARACTER
 .	O
 
-# id = litbank-1616
+# id = litbank-1965
 # source = LitBank
 # book = Great Expectations
 # book_id = 1400_great_expectations
@@ -101,7 +101,7 @@ the	O
 blacksmith	O
 .	O
 
-# id = litbank-1619
+# id = litbank-1968
 # source = LitBank
 # book = Great Expectations
 # book_id = 1400_great_expectations
@@ -141,7 +141,7 @@ and	O
 sickly	O
 .	O
 
-# id = litbank-1622
+# id = litbank-1971
 # source = LitBank
 # book = Great Expectations
 # book_id = 1400_great_expectations
@@ -294,7 +294,7 @@ was	O
 pip	B-CHARACTER
 .	O
 
-# id = litbank-1624
+# id = litbank-1973
 # source = LitBank
 # book = Great Expectations
 # book_id = 1400_great_expectations
@@ -309,7 +309,7 @@ sir	O
 .	O
 ”	O
 
-# id = litbank-1625
+# id = litbank-1974
 # source = LitBank
 # book = Great Expectations
 # book_id = 1400_great_expectations
@@ -321,7 +321,7 @@ sir	O
 pip	B-CHARACTER
 .	O
 
-# id = litbank-1626
+# id = litbank-1975
 # source = LitBank
 # book = Great Expectations
 # book_id = 1400_great_expectations
@@ -335,7 +335,7 @@ sir	O
 .	O
 ”	O
 
-# id = litbank-1627
+# id = litbank-1976
 # source = LitBank
 # book = Great Expectations
 # book_id = 1400_great_expectations
@@ -348,7 +348,7 @@ also	O
 georgiana	B-CHARACTER
 .	O
 
-# id = litbank-1628
+# id = litbank-1977
 # source = LitBank
 # book = Great Expectations
 # book_id = 1400_great_expectations
@@ -380,7 +380,77 @@ sir	O
 .	O
 ”	O
 
-# id = litbank-1617
+# id = litbank-1978
+# source = LitBank
+# book = Great Expectations
+# book_id = 1400_great_expectations
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1400_great_expectations_brat.tsv
+# text = you bring the lot to me , at that old battery over yonder .
+you	O
+bring	O
+the	O
+lot	O
+to	O
+me	O
+,	O
+at	O
+that	O
+old	O
+battery	B-LOCATION
+over	O
+yonder	O
+.	O
+
+# id = litbank-1979
+# source = LitBank
+# book = Great Expectations
+# book_id = 1400_great_expectations
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1400_great_expectations_brat.tsv
+# text = i said that i would get him the file , and i would get him what broken bits of food i could , and i would come to him at the battery , early in the morning .
+i	O
+said	O
+that	O
+i	O
+would	O
+get	O
+him	O
+the	O
+file	O
+,	O
+and	O
+i	O
+would	O
+get	O
+him	O
+what	O
+broken	O
+bits	O
+of	O
+food	O
+i	O
+could	O
+,	O
+and	O
+i	O
+would	O
+come	O
+to	O
+him	O
+at	O
+the	O
+battery	B-LOCATION
+,	O
+early	O
+in	O
+the	O
+morning	O
+.	O
+
+# id = litbank-1966
 # source = LitBank
 # book = Great Expectations
 # book_id = 1400_great_expectations
@@ -436,7 +506,7 @@ their	O
 tombstones	O
 .	O
 
-# id = litbank-1618
+# id = litbank-1967
 # source = LitBank
 # book = Great Expectations
 # book_id = 1400_great_expectations
@@ -476,7 +546,7 @@ black	O
 hair	O
 .	O
 
-# id = litbank-1620
+# id = litbank-1969
 # source = LitBank
 # book = Great Expectations
 # book_id = 1400_great_expectations
@@ -509,7 +579,7 @@ the	O
 sea	O
 .	O
 
-# id = litbank-1621
+# id = litbank-1970
 # source = LitBank
 # book = Great Expectations
 # book_id = 1400_great_expectations
@@ -545,7 +615,7 @@ towards	O
 evening	O
 .	O
 
-# id = litbank-1623
+# id = litbank-1972
 # source = LitBank
 # book = Great Expectations
 # book_id = 1400_great_expectations

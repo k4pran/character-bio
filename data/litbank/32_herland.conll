@@ -1,4 +1,4 @@
-# id = litbank-0085
+# id = litbank-0091
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -44,7 +44,7 @@ vandyck	B-CHARACTER
 jennings	I-CHARACTER
 .	O
 
-# id = litbank-0086
+# id = litbank-0092
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -63,7 +63,7 @@ he	O
 pleased	O
 .	O
 
-# id = litbank-0087
+# id = litbank-0093
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -84,7 +84,7 @@ without	O
 terry	B-CHARACTER
 .	O
 
-# id = litbank-0088
+# id = litbank-0094
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -119,7 +119,7 @@ doctor	O
 instead	O
 .	O
 
-# id = litbank-0089
+# id = litbank-0095
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -172,7 +172,7 @@ life	O
 somehow	O
 .	O
 
-# id = litbank-0090
+# id = litbank-0096
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -225,7 +225,7 @@ terry	B-CHARACTER
 influence	O
 .	O
 
-# id = litbank-0091
+# id = litbank-0097
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -246,7 +246,7 @@ fellow	O
 pointing	O
 .	O
 
-# id = litbank-0092
+# id = litbank-0098
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -264,7 +264,7 @@ van	B-CHARACTER
 ?	O
 ”	O
 
-# id = litbank-0093
+# id = litbank-0099
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -279,7 +279,7 @@ at	O
 once	O
 .	O
 
-# id = litbank-0094
+# id = litbank-0100
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -297,7 +297,7 @@ urged	O
 terry	B-CHARACTER
 .	O
 
-# id = litbank-0095
+# id = litbank-0101
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -320,7 +320,7 @@ lazy	O
 smile	O
 .	O
 
-# id = litbank-0096
+# id = litbank-0102
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -353,7 +353,7 @@ place	O
 landmarks	O
 .	O
 
-# id = litbank-0097
+# id = litbank-0103
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -375,7 +375,7 @@ said	O
 appraisingly	O
 .	O
 
-# id = litbank-0098
+# id = litbank-0104
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -394,7 +394,7 @@ terry	B-CHARACTER
 announced	O
 .	O
 
-# id = litbank-0099
+# id = litbank-0105
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -415,7 +415,7 @@ to	O
 investigate	O
 .	O
 
-# id = litbank-0100
+# id = litbank-0106
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -434,7 +434,7 @@ at	O
 that	O
 .	O
 
-# id = litbank-0101
+# id = litbank-0107
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -450,7 +450,7 @@ his	O
 tracks	O
 .	O
 
-# id = litbank-0080
+# id = litbank-0086
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -471,7 +471,7 @@ memory	O
 unfortunately	O
 .	O
 
-# id = litbank-0081
+# id = litbank-0087
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -502,7 +502,7 @@ different	O
 story	O
 .	O
 
-# id = litbank-0082
+# id = litbank-0088
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -534,7 +534,7 @@ worst	O
 loss	O
 .	O
 
-# id = litbank-0083
+# id = litbank-0089
 # source = LitBank
 # book = Herland
 # book_id = 32_herland
@@ -590,7 +590,7 @@ women	O
 themselves	O
 .	O
 
-# id = litbank-0084
+# id = litbank-0090
 # source = LitBank
 # book = Herland
 # book_id = 32_herland

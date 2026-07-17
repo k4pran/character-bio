@@ -1,4 +1,4 @@
-# id = litbank-1502
+# id = litbank-1842
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -36,7 +36,7 @@ out	O
 tea	O
 .	O
 
-# id = litbank-1505
+# id = litbank-1845
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -96,7 +96,7 @@ for	O
 her	O
 .	O
 
-# id = litbank-1507
+# id = litbank-1847
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -146,7 +146,7 @@ into	O
 !	O
 ”	O
 
-# id = litbank-1510
+# id = litbank-1850
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -185,7 +185,7 @@ enormously	O
 ?	O
 ”	O
 
-# id = litbank-1511
+# id = litbank-1851
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -217,7 +217,7 @@ his	O
 name	O
 .	O
 
-# id = litbank-1512
+# id = litbank-1852
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -264,7 +264,7 @@ upon	O
 sentences	O
 .	O
 
-# id = litbank-1513
+# id = litbank-1853
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -299,7 +299,7 @@ street	O
 outside	O
 .	O
 
-# id = litbank-1514
+# id = litbank-1854
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -330,7 +330,7 @@ long	O
 sentence	O
 .	O
 
-# id = litbank-1515
+# id = litbank-1855
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -383,14 +383,43 @@ had	O
 to	O
 live	O
 in	O
-manchester	O
+manchester	B-LOCATION
 ,	O
 mr.	B-CHARACTER
 denham	I-CHARACTER
 ?	O
 ”	O
 
-# id = litbank-1516
+# id = litbank-1856
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = “ is there no retired schoolmaster or man of letters in manchester with whom she could read persian ? ”
+“	O
+is	O
+there	O
+no	O
+retired	O
+schoolmaster	O
+or	O
+man	O
+of	O
+letters	O
+in	O
+manchester	B-LOCATION
+with	O
+whom	O
+she	O
+could	O
+read	O
+persian	O
+?	O
+”	O
+
+# id = litbank-1857
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -410,14 +439,14 @@ gone	O
 to	O
 live	O
 in	O
-manchester	O
+manchester	B-LOCATION
 ,	O
 ”	O
 katharine	B-CHARACTER
 explained	O
 .	O
 
-# id = litbank-1517
+# id = litbank-1858
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -452,7 +481,7 @@ left	O
 off	O
 .	O
 
-# id = litbank-1518
+# id = litbank-1859
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -497,7 +526,7 @@ his	O
 best	O
 .	O
 
-# id = litbank-1519
+# id = litbank-1860
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -549,7 +578,25 @@ met	O
 him	O
 .	O
 
-# id = litbank-1520
+# id = litbank-1861
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = “ have you ever been to manchester ? ”
+“	O
+have	O
+you	O
+ever	O
+been	O
+to	O
+manchester	B-LOCATION
+?	O
+”	O
+
+# id = litbank-1862
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -562,7 +609,7 @@ asked	O
 katharine	B-CHARACTER
 .	O
 
-# id = litbank-1521
+# id = litbank-1863
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -616,7 +663,37 @@ the	O
 rest	O
 .	O
 
-# id = litbank-1522
+# id = litbank-1864
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = “ i should think there would be no one to talk to in manchester , ” she replied at random .
+“	O
+i	O
+should	O
+think	O
+there	O
+would	O
+be	O
+no	O
+one	O
+to	O
+talk	O
+to	O
+in	O
+manchester	B-LOCATION
+,	O
+”	O
+she	O
+replied	O
+at	O
+random	O
+.	O
+
+# id = litbank-1865
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -662,7 +739,7 @@ further	O
 speculation	O
 .	O
 
-# id = litbank-1523
+# id = litbank-1866
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -726,7 +803,7 @@ of	O
 the	O
 streets	O
 of	O
-manchester	O
+manchester	B-LOCATION
 ,	O
 and	O
 then	O
@@ -795,7 +872,7 @@ she	O
 would	O
 fly	O
 to	O
-london	O
+london	B-LOCATION
 ,	O
 and	O
 how	O
@@ -830,7 +907,7 @@ dear	O
 creature	O
 .	O
 
-# id = litbank-1524
+# id = litbank-1867
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -866,7 +943,70 @@ envied	O
 her	O
 !	O
 
-# id = litbank-1525
+# id = litbank-1868
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = i told her she would find the nice things of london without the horrid streets that depress one so . ”
+i	O
+told	O
+her	O
+she	O
+would	O
+find	O
+the	O
+nice	O
+things	O
+of	O
+london	B-LOCATION
+without	O
+the	O
+horrid	O
+streets	O
+that	O
+depress	O
+one	O
+so	O
+.	O
+”	O
+
+# id = litbank-1869
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = “ there is the university , ” said the thin gentleman , who had previously insisted upon the existence of people knowing persian .
+“	O
+there	O
+is	O
+the	O
+university	B-LOCATION
+,	O
+”	O
+said	O
+the	O
+thin	O
+gentleman	O
+,	O
+who	O
+had	O
+previously	O
+insisted	O
+upon	O
+the	O
+existence	O
+of	O
+people	O
+knowing	O
+persian	O
+.	O
+
+# id = litbank-1870
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -899,7 +1039,7 @@ said	O
 katharine	B-CHARACTER
 .	O
 
-# id = litbank-1526
+# id = litbank-1871
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -926,7 +1066,7 @@ hilbery	I-CHARACTER
 remarked	O
 .	O
 
-# id = litbank-1527
+# id = litbank-1872
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -969,7 +1109,7 @@ oddly	O
 blended	O
 .	O
 
-# id = litbank-1528
+# id = litbank-1873
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -1022,7 +1162,30 @@ her	O
 mind	O
 .	O
 
-# id = litbank-1529
+# id = litbank-1874
+# source = LitBank
+# book = Night and Day
+# book_id = 1245_night_and_day
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1245_night_and_day_brat.tsv
+# text = the talk had passed over manchester , after dealing with it very generously .
+the	O
+talk	O
+had	O
+passed	O
+over	O
+manchester	B-LOCATION
+,	O
+after	O
+dealing	O
+with	O
+it	O
+very	O
+generously	O
+.	O
+
+# id = litbank-1875
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -1047,7 +1210,7 @@ katharine	B-CHARACTER
 ?	O
 ”	O
 
-# id = litbank-1530
+# id = litbank-1876
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -1084,7 +1247,7 @@ little	O
 puzzle	O
 .	O
 
-# id = litbank-1531
+# id = litbank-1877
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -1128,7 +1291,7 @@ his	O
 lifetime	O
 .	O
 
-# id = litbank-1532
+# id = litbank-1878
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -1173,7 +1336,7 @@ them	O
 acquainted	O
 .	O
 
-# id = litbank-1533
+# id = litbank-1879
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -1220,7 +1383,7 @@ silent	O
 too	O
 .	O
 
-# id = litbank-1534
+# id = litbank-1880
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -1268,7 +1431,7 @@ feminine	O
 amenities	O
 .	O
 
-# id = litbank-1535
+# id = litbank-1881
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -1300,7 +1463,7 @@ into	O
 life	O
 .	O
 
-# id = litbank-1536
+# id = litbank-1882
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -1381,7 +1544,7 @@ ruskin	I-CHARACTER
 ...	O
 .	O
 
-# id = litbank-1537
+# id = litbank-1883
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -1410,7 +1573,7 @@ his	O
 chair	O
 ?	O
 
-# id = litbank-1538
+# id = litbank-1884
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -1433,7 +1596,7 @@ of	O
 ruskin	O
 ?	O
 
-# id = litbank-1539
+# id = litbank-1885
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -1468,7 +1631,7 @@ hilbery	I-CHARACTER
 .	O
 ’	O
 
-# id = litbank-1503
+# id = litbank-1843
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -1524,7 +1687,7 @@ the	O
 daylight	O
 .	O
 
-# id = litbank-1504
+# id = litbank-1844
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -1579,7 +1742,7 @@ unoccupied	O
 faculties	O
 .	O
 
-# id = litbank-1506
+# id = litbank-1846
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -1629,7 +1792,7 @@ the	O
 hostess	O
 .	O
 
-# id = litbank-1508
+# id = litbank-1848
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day
@@ -1668,7 +1831,7 @@ feeling	O
 exhilarated	O
 .	O
 
-# id = litbank-1509
+# id = litbank-1849
 # source = LitBank
 # book = Night and Day
 # book_id = 1245_night_and_day

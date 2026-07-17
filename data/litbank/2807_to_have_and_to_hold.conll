@@ -1,4 +1,53 @@
-# id = litbank-1847
+# id = litbank-2269
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = death is not more still than is this virginian land in the hour when the sun has sunk away , and it is black beneath the trees , and the stars brighten slowly and softly , one by one .
+death	O
+is	O
+not	O
+more	O
+still	O
+than	O
+is	O
+this	O
+virginian	B-LOCATION
+land	I-LOCATION
+in	O
+the	O
+hour	O
+when	O
+the	O
+sun	O
+has	O
+sunk	O
+away	O
+,	O
+and	O
+it	O
+is	O
+black	O
+beneath	O
+the	O
+trees	O
+,	O
+and	O
+the	O
+stars	O
+brighten	O
+slowly	O
+and	O
+softly	O
+,	O
+one	O
+by	O
+one	O
+.	O
+
+# id = litbank-2274
 # source = LitBank
 # book = To Have and to Hold
 # book_id = 2807_to_have_and_to_hold
@@ -21,7 +70,7 @@ stockham	I-CHARACTER
 our	O
 minister	O
 at	O
-weyanoke	O
+weyanoke	B-LOCATION
 ,	O
 exhorted	O
 us	O
@@ -56,7 +105,7 @@ lord	O
 anointed	O
 .	O
 
-# id = litbank-1848
+# id = litbank-2275
 # source = LitBank
 # book = To Have and to Hold
 # book_id = 2807_to_have_and_to_hold
@@ -153,7 +202,7 @@ a	O
 mousehole	O
 .	O
 
-# id = litbank-1849
+# id = litbank-2276
 # source = LitBank
 # book = To Have and to Hold
 # book_id = 2807_to_have_and_to_hold
@@ -239,7 +288,7 @@ the	O
 tobacco	O
 .	O
 
-# id = litbank-1850
+# id = litbank-2277
 # source = LitBank
 # book = To Have and to Hold
 # book_id = 2807_to_have_and_to_hold
@@ -352,7 +401,7 @@ to	O
 me	O
 .	O
 
-# id = litbank-1851
+# id = litbank-2278
 # source = LitBank
 # book = To Have and to Hold
 # book_id = 2807_to_have_and_to_hold
@@ -375,7 +424,7 @@ laws	O
 .	O
 ”	O
 
-# id = litbank-1852
+# id = litbank-2279
 # source = LitBank
 # book = To Have and to Hold
 # book_id = 2807_to_have_and_to_hold
@@ -415,7 +464,29 @@ now	O
 .	O
 ”	O
 
-# id = litbank-1853
+# id = litbank-2280
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = “ i have ridden to-day from jamestown , ” he went on .
+“	O
+i	O
+have	O
+ridden	O
+to-day	O
+from	O
+jamestown	B-LOCATION
+,	O
+”	O
+he	O
+went	O
+on	O
+.	O
+
+# id = litbank-2281
 # source = LitBank
 # book = To Have and to Hold
 # book_id = 2807_to_have_and_to_hold
@@ -453,7 +524,106 @@ the	O
 city	O
 .	O
 
-# id = litbank-1854
+# id = litbank-2282
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = i have seen the thames less crowded . ”
+i	O
+have	O
+seen	O
+the	O
+thames	B-LOCATION
+less	O
+crowded	O
+.	O
+”	O
+
+# id = litbank-2283
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = what we in these plantations need is a loosening of the bonds which tie us to home , to england , and a tightening of those which bind us to this land in which we have cast our lot .
+what	O
+we	O
+in	O
+these	O
+plantations	O
+need	O
+is	O
+a	O
+loosening	O
+of	O
+the	O
+bonds	O
+which	O
+tie	O
+us	O
+to	O
+home	O
+,	O
+to	O
+england	B-LOCATION
+,	O
+and	O
+a	O
+tightening	O
+of	O
+those	O
+which	O
+bind	O
+us	O
+to	O
+this	O
+land	O
+in	O
+which	O
+we	O
+have	O
+cast	O
+our	O
+lot	O
+.	O
+
+# id = litbank-2284
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = we put our hand to the plough , but we turn our heads and look to our egypt and its fleshpots . '
+we	O
+put	O
+our	O
+hand	O
+to	O
+the	O
+plough	O
+,	O
+but	O
+we	O
+turn	O
+our	O
+heads	O
+and	O
+look	O
+to	O
+our	O
+egypt	B-LOCATION
+and	O
+its	O
+fleshpots	O
+.	O
+'	O
+
+# id = litbank-2285
 # source = LitBank
 # book = To Have and to Hold
 # book_id = 2807_to_have_and_to_hold
@@ -474,9 +644,9 @@ wickham	I-CHARACTER
 rowing	O
 down	O
 from	O
-henricus	O
+henricus	B-LOCATION
 to	O
-jamestown	O
+jamestown	B-LOCATION
 ,	O
 to	O
 offer	O
@@ -514,7 +684,7 @@ lord	O
 .	O
 ”	O
 
-# id = litbank-1855
+# id = litbank-2286
 # source = LitBank
 # book = To Have and to Hold
 # book_id = 2807_to_have_and_to_hold
@@ -552,7 +722,7 @@ in	O
 hand	O
 ?	O
 
-# id = litbank-1842
+# id = litbank-2268
 # source = LitBank
 # book = To Have and to Hold
 # book_id = 2807_to_have_and_to_hold
@@ -597,56 +767,7 @@ the	O
 evening	O
 .	O
 
-# id = litbank-1843
-# source = LitBank
-# book = To Have and to Hold
-# book_id = 2807_to_have_and_to_hold
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
-# text = death is not more still than is this virginian land in the hour when the sun has sunk away , and it is black beneath the trees , and the stars brighten slowly and softly , one by one .
-death	O
-is	O
-not	O
-more	O
-still	O
-than	O
-is	O
-this	O
-virginian	O
-land	O
-in	O
-the	O
-hour	O
-when	O
-the	O
-sun	O
-has	O
-sunk	O
-away	O
-,	O
-and	O
-it	O
-is	O
-black	O
-beneath	O
-the	O
-trees	O
-,	O
-and	O
-the	O
-stars	O
-brighten	O
-slowly	O
-and	O
-softly	O
-,	O
-one	O
-by	O
-one	O
-.	O
-
-# id = litbank-1844
+# id = litbank-2270
 # source = LitBank
 # book = To Have and to Hold
 # book_id = 2807_to_have_and_to_hold
@@ -707,7 +828,7 @@ yet	O
 silent	O
 .	O
 
-# id = litbank-1845
+# id = litbank-2271
 # source = LitBank
 # book = To Have and to Hold
 # book_id = 2807_to_have_and_to_hold
@@ -733,7 +854,7 @@ no	O
 sound	O
 .	O
 
-# id = litbank-1846
+# id = litbank-2272
 # source = LitBank
 # book = To Have and to Hold
 # book_id = 2807_to_have_and_to_hold
@@ -754,5 +875,38 @@ droop	O
 and	O
 are	O
 quiet	O
+.	O
+
+# id = litbank-2273
+# source = LitBank
+# book = To Have and to Hold
+# book_id = 2807_to_have_and_to_hold
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2807_to_have_and_to_hold_brat.tsv
+# text = the low lap of the water among the reeds is like the breathing of one who sleeps in his watch beside the dead .
+the	O
+low	O
+lap	O
+of	O
+the	O
+water	O
+among	O
+the	O
+reeds	O
+is	O
+like	O
+the	O
+breathing	O
+of	O
+one	O
+who	O
+sleeps	O
+in	O
+his	O
+watch	O
+beside	O
+the	O
+dead	O
 .	O
 

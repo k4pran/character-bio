@@ -1,4 +1,4 @@
-# id = litbank-0505
+# id = litbank-0592
 # source = LitBank
 # book = Treasure Island
 # book_id = 120_treasure_island
@@ -18,8 +18,8 @@ old	O
 sea-dog	O
 at	O
 the	O
-admiral	O
-benbow	O
+admiral	B-LOCATION
+benbow	I-LOCATION
 squire	B-CHARACTER
 trelawney	I-CHARACTER
 ,	O
@@ -42,8 +42,8 @@ the	O
 whole	O
 particulars	O
 about	O
-treasure	O
-island	O
+treasure	B-LOCATION
+island	I-LOCATION
 ,	O
 from	O
 the	O
@@ -97,9 +97,9 @@ my	O
 father	O
 kept	O
 the	O
-admiral	O
-benbow	O
-inn	O
+admiral	B-LOCATION
+benbow	I-LOCATION
+inn	I-LOCATION
 and	O
 the	O
 brown	O
@@ -119,7 +119,275 @@ our	O
 roof	O
 .	O
 
-# id = litbank-0511
+# id = litbank-0598
+# source = LitBank
+# book = Treasure Island
+# book_id = 120_treasure_island
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/120_treasure_island_brat.tsv
+# text = the man who came with the barrow told us the mail had set him down the morning before at the royal george , that he had inquired what inns there were along the coast , and hearing ours well spoken of , i suppose , and described as lonely , had chosen it from the others for his place of residence .
+the	O
+man	O
+who	O
+came	O
+with	O
+the	O
+barrow	O
+told	O
+us	O
+the	O
+mail	O
+had	O
+set	O
+him	O
+down	O
+the	O
+morning	O
+before	O
+at	O
+the	O
+royal	B-LOCATION
+george	I-LOCATION
+,	O
+that	O
+he	O
+had	O
+inquired	O
+what	O
+inns	O
+there	O
+were	O
+along	O
+the	O
+coast	O
+,	O
+and	O
+hearing	O
+ours	O
+well	O
+spoken	O
+of	O
+,	O
+i	O
+suppose	O
+,	O
+and	O
+described	O
+as	O
+lonely	O
+,	O
+had	O
+chosen	O
+it	O
+from	O
+the	O
+others	O
+for	O
+his	O
+place	O
+of	O
+residence	O
+.	O
+
+# id = litbank-0599
+# source = LitBank
+# book = Treasure Island
+# book_id = 120_treasure_island
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/120_treasure_island_brat.tsv
+# text = when a seaman did put up at the admiral benbow ( as now and then some did , making by the coast road for bristol ) he would look in at him through the curtained door before he entered the parlour ; and he was always sure to be as silent as a mouse when any such was present .
+when	O
+a	O
+seaman	O
+did	O
+put	O
+up	O
+at	O
+the	O
+admiral	B-LOCATION
+benbow	I-LOCATION
+(	O
+as	O
+now	O
+and	O
+then	O
+some	O
+did	O
+,	O
+making	O
+by	O
+the	O
+coast	O
+road	O
+for	O
+bristol	B-LOCATION
+)	O
+he	O
+would	O
+look	O
+in	O
+at	O
+him	O
+through	O
+the	O
+curtained	O
+door	O
+before	O
+he	O
+entered	O
+the	O
+parlour	O
+;	O
+and	O
+he	O
+was	O
+always	O
+sure	O
+to	O
+be	O
+as	O
+silent	O
+as	O
+a	O
+mouse	O
+when	O
+any	O
+such	O
+was	O
+present	O
+.	O
+
+# id = litbank-0600
+# source = LitBank
+# book = Treasure Island
+# book_id = 120_treasure_island
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/120_treasure_island_brat.tsv
+# text = dreadful stories they were -- about hanging , and walking the plank , and storms at sea , and the dry tortugas , and wild deeds and places on the spanish main .
+dreadful	O
+stories	O
+they	O
+were	O
+--	O
+about	O
+hanging	O
+,	O
+and	O
+walking	O
+the	O
+plank	O
+,	O
+and	O
+storms	O
+at	O
+sea	O
+,	O
+and	O
+the	O
+dry	B-LOCATION
+tortugas	I-LOCATION
+,	O
+and	O
+wild	O
+deeds	O
+and	O
+places	O
+on	O
+the	O
+spanish	B-LOCATION
+main	I-LOCATION
+.	O
+
+# id = litbank-0601
+# source = LitBank
+# book = Treasure Island
+# book_id = 120_treasure_island
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/120_treasure_island_brat.tsv
+# text = people were frightened at the time , but on looking back they rather liked it ; it was a fine excitement in a quiet country life , and there was even a party of the younger men who pretended to admire him , calling him a " true sea-dog " and a " real old salt " and such like names , and saying there was the sort of man that made england terrible at sea .
+people	O
+were	O
+frightened	O
+at	O
+the	O
+time	O
+,	O
+but	O
+on	O
+looking	O
+back	O
+they	O
+rather	O
+liked	O
+it	O
+;	O
+it	O
+was	O
+a	O
+fine	O
+excitement	O
+in	O
+a	O
+quiet	O
+country	O
+life	O
+,	O
+and	O
+there	O
+was	O
+even	O
+a	O
+party	O
+of	O
+the	O
+younger	O
+men	O
+who	O
+pretended	O
+to	O
+admire	O
+him	O
+,	O
+calling	O
+him	O
+a	O
+"	O
+true	O
+sea-dog	O
+"	O
+and	O
+a	O
+"	O
+real	O
+old	O
+salt	O
+"	O
+and	O
+such	O
+like	O
+names	O
+,	O
+and	O
+saying	O
+there	O
+was	O
+the	O
+sort	O
+of	O
+man	O
+that	O
+made	O
+england	B-LOCATION
+terrible	O
+at	O
+sea	O
+.	O
+
+# id = litbank-0602
 # source = LitBank
 # book = Treasure Island
 # book_id = 120_treasure_island
@@ -174,10 +442,10 @@ stabling	O
 at	O
 the	O
 old	O
-benbow	O
+benbow	B-LOCATION
 .	O
 
-# id = litbank-0512
+# id = litbank-0603
 # source = LitBank
 # book = Treasure Island
 # book_id = 120_treasure_island
@@ -261,7 +529,7 @@ the	O
 rheumatics	O
 .	O
 
-# id = litbank-0513
+# id = litbank-0604
 # source = LitBank
 # book = Treasure Island
 # book_id = 120_treasure_island
@@ -303,7 +571,7 @@ or	O
 two	O
 .	O
 
-# id = litbank-0506
+# id = litbank-0593
 # source = LitBank
 # book = Treasure Island
 # book_id = 120_treasure_island
@@ -388,7 +656,7 @@ livid	O
 white	O
 .	O
 
-# id = litbank-0507
+# id = litbank-0594
 # source = LitBank
 # book = Treasure Island
 # book_id = 120_treasure_island
@@ -447,7 +715,7 @@ rum	O
 !	O
 "	O
 
-# id = litbank-0508
+# id = litbank-0595
 # source = LitBank
 # book = Treasure Island
 # book_id = 120_treasure_island
@@ -476,7 +744,7 @@ capstan	O
 bars	O
 .	O
 
-# id = litbank-0509
+# id = litbank-0596
 # source = LitBank
 # book = Treasure Island
 # book_id = 120_treasure_island
@@ -517,7 +785,7 @@ of	O
 rum	O
 .	O
 
-# id = litbank-0510
+# id = litbank-0597
 # source = LitBank
 # book = Treasure Island
 # book_id = 120_treasure_island

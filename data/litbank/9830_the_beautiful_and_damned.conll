@@ -1,4 +1,4 @@
-# id = litbank-2302
+# id = litbank-2807
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -48,7 +48,7 @@ upon	O
 him	O
 .	O
 
-# id = litbank-2308
+# id = litbank-2813
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -119,7 +119,7 @@ was	O
 brave	O
 .	O
 
-# id = litbank-2309
+# id = litbank-2814
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -167,7 +167,7 @@ the	O
 crusaders	O
 .	O
 
-# id = litbank-2310
+# id = litbank-2815
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -195,7 +195,7 @@ father	O
 's	O
 farm	O
 in	O
-tarrytown	O
+tarrytown	B-LOCATION
 early	O
 in	O
 sixty-one	O
@@ -208,7 +208,107 @@ cavalry	O
 regiment	O
 .	O
 
-# id = litbank-2311
+# id = litbank-2816
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = he came home from the war a major , charged into wall street , and amid much fuss , fume , applause , and ill will he gathered to himself some seventy-five million dollars .
+he	O
+came	O
+home	O
+from	O
+the	O
+war	O
+a	O
+major	O
+,	O
+charged	O
+into	O
+wall	B-LOCATION
+street	I-LOCATION
+,	O
+and	O
+amid	O
+much	O
+fuss	O
+,	O
+fume	O
+,	O
+applause	O
+,	O
+and	O
+ill	O
+will	O
+he	O
+gathered	O
+to	O
+himself	O
+some	O
+seventy-five	O
+million	O
+dollars	O
+.	O
+
+# id = litbank-2817
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = from an armchair in the office of his tarrytown estate he directed against the enormous hypothetical enemy , unrighteousness , a campaign which went on through fifteen years , during which he displayed himself a rabid monomaniac , an unqualified nuisance , and an intolerable bore .
+from	O
+an	O
+armchair	O
+in	O
+the	O
+office	O
+of	O
+his	O
+tarrytown	B-LOCATION
+estate	O
+he	O
+directed	O
+against	O
+the	O
+enormous	O
+hypothetical	O
+enemy	O
+,	O
+unrighteousness	O
+,	O
+a	O
+campaign	O
+which	O
+went	O
+on	O
+through	O
+fifteen	O
+years	O
+,	O
+during	O
+which	O
+he	O
+displayed	O
+himself	O
+a	O
+rabid	O
+monomaniac	O
+,	O
+an	O
+unqualified	O
+nuisance	O
+,	O
+and	O
+an	O
+intolerable	O
+bore	O
+.	O
+
+# id = litbank-2818
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -268,7 +368,7 @@ grandson	O
 anthony	B-CHARACTER
 .	O
 
-# id = litbank-2312
+# id = litbank-2819
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -309,11 +409,11 @@ the	O
 banking	O
 circles	O
 of	O
-new	O
-york	O
+new	B-LOCATION
+york	I-LOCATION
 .	O
 
-# id = litbank-2313
+# id = litbank-2820
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -359,8 +459,8 @@ under	O
 the	O
 title	O
 "	O
-new	O
-york	O
+new	B-LOCATION
+york	I-LOCATION
 society	O
 as	O
 i	O
@@ -370,7 +470,24 @@ it	O
 .	O
 "	O
 
-# id = litbank-2314
+# id = litbank-2821
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = this fifth avenue chesterfield married at twenty-two .
+this	O
+fifth	B-LOCATION
+avenue	I-LOCATION
+chesterfield	O
+married	O
+at	O
+twenty-two	O
+.	O
+
+# id = litbank-2822
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -385,7 +502,7 @@ henrietta	B-CHARACTER
 lebrune	I-CHARACTER
 ,	O
 the	O
-boston	O
+boston	B-LOCATION
 "	O
 society	O
 contralto	O
@@ -413,7 +530,7 @@ comstock	I-CHARACTER
 patch	I-CHARACTER
 .	O
 
-# id = litbank-2315
+# id = litbank-2823
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -465,7 +582,7 @@ with	O
 interest	O
 .	O
 
-# id = litbank-2316
+# id = litbank-2824
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -488,7 +605,28 @@ mother	O
 death	O
 .	O
 
-# id = litbank-2317
+# id = litbank-2825
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = his memories of the boston society contralto were nebulous and musical .
+his	O
+memories	O
+of	O
+the	O
+boston	B-LOCATION
+society	O
+contralto	O
+were	O
+nebulous	O
+and	O
+musical	O
+.	O
+
+# id = litbank-2826
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -515,8 +653,8 @@ of	O
 their	O
 house	O
 on	O
-washington	O
-square	O
+washington	B-LOCATION
+square	I-LOCATION
 --	O
 sometimes	O
 with	O
@@ -602,7 +740,7 @@ southern	O
 negro	O
 .	O
 
-# id = litbank-2318
+# id = litbank-2827
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -621,7 +759,7 @@ the	O
 first	O
 man	O
 in	O
-america	O
+america	B-LOCATION
 to	O
 roll	O
 the	O
@@ -636,7 +774,7 @@ more	O
 vivid	O
 .	O
 
-# id = litbank-2319
+# id = litbank-2828
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -674,7 +812,7 @@ at	O
 grampa	O
 's	O
 in	O
-tarrytown	O
+tarrytown	B-LOCATION
 ,	O
 and	O
 ulysses	B-CHARACTER
@@ -699,7 +837,7 @@ an	O
 hour	O
 .	O
 
-# id = litbank-2320
+# id = litbank-2829
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -720,8 +858,8 @@ trips	O
 and	O
 excursions	O
 to	O
-atlantic	O
-city	O
+atlantic	B-LOCATION
+city	I-LOCATION
 ,	O
 "	O
 oh	O
@@ -740,7 +878,7 @@ ever	O
 materialized	O
 .	O
 
-# id = litbank-2321
+# id = litbank-2830
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -763,9 +901,9 @@ went	O
 abroad	O
 ,	O
 to	O
-england	O
+england	B-LOCATION
 and	O
-switzerland	O
+switzerland	B-LOCATION
 ,	O
 and	O
 there	O
@@ -774,7 +912,7 @@ the	O
 best	O
 hotel	O
 in	O
-lucerne	O
+lucerne	B-LOCATION
 his	O
 father	O
 died	O
@@ -790,7 +928,7 @@ for	O
 air	O
 .	O
 
-# id = litbank-2322
+# id = litbank-2831
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -810,7 +948,7 @@ was	O
 brought	O
 back	O
 to	O
-america	O
+america	B-LOCATION
 ,	O
 wedded	O
 to	O
@@ -831,7 +969,7 @@ his	O
 life	O
 .	O
 
-# id = litbank-2323
+# id = litbank-2832
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -856,7 +994,7 @@ every	O
 corner	O
 .	O
 
-# id = litbank-2324
+# id = litbank-2833
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -917,7 +1055,222 @@ to	O
 another	O
 .	O
 
-# id = litbank-2325
+# id = litbank-2834
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = the two preceding years had been spent in europe with a private tutor , who persuaded him that harvard was the thing ; it would " open doors , " it would be a tremendous tonic , it would give him innumerable self-sacrificing and devoted friends .
+the	O
+two	O
+preceding	O
+years	O
+had	O
+been	O
+spent	O
+in	O
+europe	B-LOCATION
+with	O
+a	O
+private	O
+tutor	O
+,	O
+who	O
+persuaded	O
+him	O
+that	O
+harvard	O
+was	O
+the	O
+thing	O
+;	O
+it	O
+would	O
+"	O
+open	O
+doors	O
+,	O
+"	O
+it	O
+would	O
+be	O
+a	O
+tremendous	O
+tonic	O
+,	O
+it	O
+would	O
+give	O
+him	O
+innumerable	O
+self-sacrificing	O
+and	O
+devoted	O
+friends	O
+.	O
+
+# id = litbank-2835
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = oblivious to the social system , he lived for a while alone and unsought in a high room in beck hall -- a slim dark boy of medium height with a shy sensitive mouth .
+oblivious	O
+to	O
+the	O
+social	O
+system	O
+,	O
+he	O
+lived	O
+for	O
+a	O
+while	O
+alone	O
+and	O
+unsought	O
+in	O
+a	O
+high	O
+room	O
+in	O
+beck	B-LOCATION
+hall	I-LOCATION
+--	O
+a	O
+slim	O
+dark	O
+boy	O
+of	O
+medium	O
+height	O
+with	O
+a	O
+shy	O
+sensitive	O
+mouth	O
+.	O
+
+# id = litbank-2836
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = then abroad again -- to rome this time , where he dallied with architecture and painting in turn , took up the violin , and wrote some ghastly italian sonnets , supposedly the ruminations of a thirteenth-century monk on the joys of the contemplative life .
+then	O
+abroad	O
+again	O
+--	O
+to	O
+rome	B-LOCATION
+this	O
+time	O
+,	O
+where	O
+he	O
+dallied	O
+with	O
+architecture	O
+and	O
+painting	O
+in	O
+turn	O
+,	O
+took	O
+up	O
+the	O
+violin	O
+,	O
+and	O
+wrote	O
+some	O
+ghastly	O
+italian	O
+sonnets	O
+,	O
+supposedly	O
+the	O
+ruminations	O
+of	O
+a	O
+thirteenth-century	O
+monk	O
+on	O
+the	O
+joys	O
+of	O
+the	O
+contemplative	O
+life	O
+.	O
+
+# id = litbank-2837
+# source = LitBank
+# book = The Beautiful and Damned
+# book_id = 9830_the_beautiful_and_damned
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/9830_the_beautiful_and_damned_brat.tsv
+# text = it became established among his harvard intimates that he was in rome , and those of them who were abroad that year looked him up and discovered with him , on many moonlight excursions , much in the city that was older than the renaissance or indeed than the republic .
+it	O
+became	O
+established	O
+among	O
+his	O
+harvard	O
+intimates	O
+that	O
+he	O
+was	O
+in	O
+rome	B-LOCATION
+,	O
+and	O
+those	O
+of	O
+them	O
+who	O
+were	O
+abroad	O
+that	O
+year	O
+looked	O
+him	O
+up	O
+and	O
+discovered	O
+with	O
+him	O
+,	O
+on	O
+many	O
+moonlight	O
+excursions	O
+,	O
+much	O
+in	O
+the	O
+city	O
+that	O
+was	O
+older	O
+than	O
+the	O
+renaissance	O
+or	O
+indeed	O
+than	O
+the	O
+republic	O
+.	O
+
+# id = litbank-2838
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -929,7 +1282,7 @@ maury	B-CHARACTER
 noble	I-CHARACTER
 ,	O
 from	O
-philadelphia	O
+philadelphia	B-LOCATION
 ,	O
 for	O
 instance	O
@@ -970,7 +1323,7 @@ and	O
 free	O
 .	O
 
-# id = litbank-2303
+# id = litbank-2808
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -1003,7 +1356,7 @@ there	O
 !	O
 "	O
 
-# id = litbank-2304
+# id = litbank-2809
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -1032,7 +1385,7 @@ conscious	O
 stage	O
 .	O
 
-# id = litbank-2305
+# id = litbank-2810
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -1119,7 +1472,7 @@ he	O
 knows	O
 .	O
 
-# id = litbank-2306
+# id = litbank-2811
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned
@@ -1152,7 +1505,7 @@ all	O
 women	O
 .	O
 
-# id = litbank-2307
+# id = litbank-2812
 # source = LitBank
 # book = The Beautiful and Damned
 # book_id = 9830_the_beautiful_and_damned

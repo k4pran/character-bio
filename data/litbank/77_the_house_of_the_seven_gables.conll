@@ -1,4 +1,348 @@
-# id = litbank-0344
+# id = litbank-0387
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = i the old pyncheon family halfway down a by-street of one of our new england towns stands a rusty wooden house , with seven acutely peaked gables , facing towards various points of the compass , and a huge , clustered chimney in the midst .
+i	O
+the	O
+old	O
+pyncheon	O
+family	O
+halfway	O
+down	O
+a	O
+by-street	O
+of	O
+one	O
+of	O
+our	O
+new	B-LOCATION
+england	I-LOCATION
+towns	O
+stands	O
+a	O
+rusty	O
+wooden	O
+house	O
+,	O
+with	O
+seven	O
+acutely	O
+peaked	O
+gables	O
+,	O
+facing	O
+towards	O
+various	O
+points	O
+of	O
+the	O
+compass	O
+,	O
+and	O
+a	O
+huge	O
+,	O
+clustered	O
+chimney	O
+in	O
+the	O
+midst	O
+.	O
+
+# id = litbank-0388
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = the street is pyncheon street ; the house is the old pyncheon house ; and an elm-tree , of wide circumference , rooted before the door , is familiar to every town-born child by the title of the pyncheon elm .
+the	O
+street	O
+is	O
+pyncheon	B-LOCATION
+street	I-LOCATION
+;	O
+the	O
+house	O
+is	O
+the	O
+old	O
+pyncheon	B-LOCATION
+house	I-LOCATION
+;	O
+and	O
+an	O
+elm-tree	O
+,	O
+of	O
+wide	O
+circumference	O
+,	O
+rooted	O
+before	O
+the	O
+door	O
+,	O
+is	O
+familiar	O
+to	O
+every	O
+town-born	O
+child	O
+by	O
+the	O
+title	O
+of	O
+the	O
+pyncheon	O
+elm	O
+.	O
+
+# id = litbank-0389
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = on my occasional visits to the town aforesaid , i seldom failed to turn down pyncheon street , for the sake of passing through the shadow of these two antiquities , -- the great elm-tree and the weather-beaten edifice .
+on	O
+my	O
+occasional	O
+visits	O
+to	O
+the	O
+town	O
+aforesaid	O
+,	O
+i	O
+seldom	O
+failed	O
+to	O
+turn	O
+down	O
+pyncheon	B-LOCATION
+street	I-LOCATION
+,	O
+for	O
+the	O
+sake	O
+of	O
+passing	O
+through	O
+the	O
+shadow	O
+of	O
+these	O
+two	O
+antiquities	O
+,	O
+--	O
+the	O
+great	O
+elm-tree	O
+and	O
+the	O
+weather-beaten	O
+edifice	O
+.	O
+
+# id = litbank-0392
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = but the story would include a chain of events extending over the better part of two centuries , and , written out with reasonable amplitude , would fill a bigger folio volume , or a longer series of duodecimos , than could prudently be appropriated to the annals of all new england during a similar period .
+but	O
+the	O
+story	O
+would	O
+include	O
+a	O
+chain	O
+of	O
+events	O
+extending	O
+over	O
+the	O
+better	O
+part	O
+of	O
+two	O
+centuries	O
+,	O
+and	O
+,	O
+written	O
+out	O
+with	O
+reasonable	O
+amplitude	O
+,	O
+would	O
+fill	O
+a	O
+bigger	O
+folio	O
+volume	O
+,	O
+or	O
+a	O
+longer	O
+series	O
+of	O
+duodecimos	O
+,	O
+than	O
+could	O
+prudently	O
+be	O
+appropriated	O
+to	O
+the	O
+annals	O
+of	O
+all	O
+new	B-LOCATION
+england	I-LOCATION
+during	O
+a	O
+similar	O
+period	O
+.	O
+
+# id = litbank-0393
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = it consequently becomes imperative to make short work with most of the traditionary lore of which the old pyncheon house , otherwise known as the house of the seven gables , has been the theme .
+it	O
+consequently	O
+becomes	O
+imperative	O
+to	O
+make	O
+short	O
+work	O
+with	O
+most	O
+of	O
+the	O
+traditionary	O
+lore	O
+of	O
+which	O
+the	O
+old	O
+pyncheon	B-LOCATION
+house	I-LOCATION
+,	O
+otherwise	O
+known	O
+as	O
+the	O
+house	O
+of	O
+the	O
+seven	B-LOCATION
+gables	I-LOCATION
+,	O
+has	O
+been	O
+the	O
+theme	O
+.	O
+
+# id = litbank-0396
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = the house of the seven gables , antique as it now looks , was not the first habitation erected by civilized man on precisely the same spot of ground .
+the	O
+house	O
+of	O
+the	O
+seven	B-LOCATION
+gables	I-LOCATION
+,	O
+antique	O
+as	O
+it	O
+now	O
+looks	O
+,	O
+was	O
+not	O
+the	O
+first	O
+habitation	O
+erected	O
+by	O
+civilized	O
+man	O
+on	O
+precisely	O
+the	O
+same	O
+spot	O
+of	O
+ground	O
+.	O
+
+# id = litbank-0397
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = pyncheon street formerly bore the humbler appellation of maule 's lane , from the name of the original occupant of the soil , before whose cottage-door it was a cow-path .
+pyncheon	B-LOCATION
+street	I-LOCATION
+formerly	O
+bore	O
+the	O
+humbler	O
+appellation	O
+of	O
+maule	B-LOCATION
+'s	O
+lane	O
+,	O
+from	O
+the	O
+name	O
+of	O
+the	O
+original	O
+occupant	O
+of	O
+the	O
+soil	O
+,	O
+before	O
+whose	O
+cottage-door	O
+it	O
+was	O
+a	O
+cow-path	O
+.	O
+
+# id = litbank-0398
 # source = LitBank
 # book = The House of the Seven Gables
 # book_id = 77_the_house_of_the_seven_gables
@@ -62,7 +406,7 @@ the	O
 village	O
 .	O
 
-# id = litbank-0345
+# id = litbank-0400
 # source = LitBank
 # book = The House of the Seven Gables
 # book_id = 77_the_house_of_the_seven_gables
@@ -97,7 +441,7 @@ of	O
 purpose	O
 .	O
 
-# id = litbank-0346
+# id = litbank-0401
 # source = LitBank
 # book = The House of the Seven Gables
 # book_id = 77_the_house_of_the_seven_gables
@@ -171,7 +515,7 @@ and	O
 homestead	O
 .	O
 
-# id = litbank-0347
+# id = litbank-0402
 # source = LitBank
 # book = The House of the Seven Gables
 # book_id = 77_the_house_of_the_seven_gables
@@ -239,7 +583,7 @@ matthew	B-CHARACTER
 maule	I-CHARACTER
 .	O
 
-# id = litbank-0348
+# id = litbank-0403
 # source = LitBank
 # book = The House of the Seven Gables
 # book_id = 77_the_house_of_the_seven_gables
@@ -264,7 +608,7 @@ of	O
 witchcraft	O
 .	O
 
-# id = litbank-0349
+# id = litbank-0404
 # source = LitBank
 # book = The House of the Seven Gables
 # book_id = 77_the_house_of_the_seven_gables
@@ -317,7 +661,7 @@ fellow	O
 sufferers	O
 .	O
 
-# id = litbank-0350
+# id = litbank-0405
 # source = LitBank
 # book = The House of the Seven Gables
 # book_id = 77_the_house_of_the_seven_gables
@@ -391,7 +735,7 @@ matthew	B-CHARACTER
 maule	I-CHARACTER
 .	O
 
-# id = litbank-0351
+# id = litbank-0406
 # source = LitBank
 # book = The House of the Seven Gables
 # book_id = 77_the_house_of_the_seven_gables
@@ -455,7 +799,7 @@ very	O
 words	O
 .	O
 
-# id = litbank-0352
+# id = litbank-0407
 # source = LitBank
 # book = The House of the Seven Gables
 # book_id = 77_the_house_of_the_seven_gables
@@ -485,7 +829,7 @@ pyncheon	I-CHARACTER
 grasp	O
 .	O
 
-# id = litbank-0353
+# id = litbank-0408
 # source = LitBank
 # book = The House of the Seven Gables
 # book_id = 77_the_house_of_the_seven_gables
@@ -552,7 +896,7 @@ village	O
 gossips	O
 .	O
 
-# id = litbank-0354
+# id = litbank-0409
 # source = LitBank
 # book = The House of the Seven Gables
 # book_id = 77_the_house_of_the_seven_gables
@@ -618,7 +962,7 @@ be	O
 born	O
 .	O
 
-# id = litbank-0355
+# id = litbank-0410
 # source = LitBank
 # book = The House of the Seven Gables
 # book_id = 77_the_house_of_the_seven_gables
@@ -664,7 +1008,7 @@ melancholy	O
 house	O
 .	O
 
-# id = litbank-0356
+# id = litbank-0411
 # source = LitBank
 # book = The House of the Seven Gables
 # book_id = 77_the_house_of_the_seven_gables
@@ -708,7 +1052,7 @@ been	O
 accurst	O
 ?	O
 
-# id = litbank-0357
+# id = litbank-0412
 # source = LitBank
 # book = The House of the Seven Gables
 # book_id = 77_the_house_of_the_seven_gables
@@ -753,7 +1097,7 @@ fallen	O
 leaves	O
 .	O
 
-# id = litbank-0358
+# id = litbank-0413
 # source = LitBank
 # book = The House of the Seven Gables
 # book_id = 77_the_house_of_the_seven_gables
@@ -808,7 +1152,7 @@ and	O
 brackish	O
 .	O
 
-# id = litbank-0359
+# id = litbank-0414
 # source = LitBank
 # book = The House of the Seven Gables
 # book_id = 77_the_house_of_the_seven_gables
@@ -830,8 +1174,8 @@ the	O
 house	O
 of	O
 the	O
-seven	O
-gables	O
+seven	B-LOCATION
+gables	I-LOCATION
 ,	O
 and	O
 performed	O
@@ -852,161 +1196,7 @@ holds	O
 together	O
 .	O
 
-# id = litbank-0339
-# source = LitBank
-# book = The House of the Seven Gables
-# book_id = 77_the_house_of_the_seven_gables
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
-# text = i the old pyncheon family halfway down a by-street of one of our new england towns stands a rusty wooden house , with seven acutely peaked gables , facing towards various points of the compass , and a huge , clustered chimney in the midst .
-i	O
-the	O
-old	O
-pyncheon	O
-family	O
-halfway	O
-down	O
-a	O
-by-street	O
-of	O
-one	O
-of	O
-our	O
-new	O
-england	O
-towns	O
-stands	O
-a	O
-rusty	O
-wooden	O
-house	O
-,	O
-with	O
-seven	O
-acutely	O
-peaked	O
-gables	O
-,	O
-facing	O
-towards	O
-various	O
-points	O
-of	O
-the	O
-compass	O
-,	O
-and	O
-a	O
-huge	O
-,	O
-clustered	O
-chimney	O
-in	O
-the	O
-midst	O
-.	O
-
-# id = litbank-0340
-# source = LitBank
-# book = The House of the Seven Gables
-# book_id = 77_the_house_of_the_seven_gables
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
-# text = the street is pyncheon street ; the house is the old pyncheon house ; and an elm-tree , of wide circumference , rooted before the door , is familiar to every town-born child by the title of the pyncheon elm .
-the	O
-street	O
-is	O
-pyncheon	O
-street	O
-;	O
-the	O
-house	O
-is	O
-the	O
-old	O
-pyncheon	O
-house	O
-;	O
-and	O
-an	O
-elm-tree	O
-,	O
-of	O
-wide	O
-circumference	O
-,	O
-rooted	O
-before	O
-the	O
-door	O
-,	O
-is	O
-familiar	O
-to	O
-every	O
-town-born	O
-child	O
-by	O
-the	O
-title	O
-of	O
-the	O
-pyncheon	O
-elm	O
-.	O
-
-# id = litbank-0341
-# source = LitBank
-# book = The House of the Seven Gables
-# book_id = 77_the_house_of_the_seven_gables
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
-# text = on my occasional visits to the town aforesaid , i seldom failed to turn down pyncheon street , for the sake of passing through the shadow of these two antiquities , -- the great elm-tree and the weather-beaten edifice .
-on	O
-my	O
-occasional	O
-visits	O
-to	O
-the	O
-town	O
-aforesaid	O
-,	O
-i	O
-seldom	O
-failed	O
-to	O
-turn	O
-down	O
-pyncheon	O
-street	O
-,	O
-for	O
-the	O
-sake	O
-of	O
-passing	O
-through	O
-the	O
-shadow	O
-of	O
-these	O
-two	O
-antiquities	O
-,	O
---	O
-the	O
-great	O
-elm-tree	O
-and	O
-the	O
-weather-beaten	O
-edifice	O
-.	O
-
-# id = litbank-0342
+# id = litbank-0390
 # source = LitBank
 # book = The House of the Seven Gables
 # book_id = 77_the_house_of_the_seven_gables
@@ -1061,7 +1251,7 @@ passed	O
 within	O
 .	O
 
-# id = litbank-0343
+# id = litbank-0391
 # source = LitBank
 # book = The House of the Seven Gables
 # book_id = 77_the_house_of_the_seven_gables
@@ -1107,5 +1297,233 @@ result	O
 of	O
 artistic	O
 arrangement	O
+.	O
+
+# id = litbank-0394
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = still , there will be a connection with the long past -- a reference to forgotten events and personages , and to manners , feelings , and opinions , almost or wholly obsolete -- which , if adequately translated to the reader , would serve to illustrate how much of old material goes to make up the freshest novelty of human life .
+still	O
+,	O
+there	O
+will	O
+be	O
+a	O
+connection	O
+with	O
+the	O
+long	O
+past	O
+--	O
+a	O
+reference	O
+to	O
+forgotten	O
+events	O
+and	O
+personages	O
+,	O
+and	O
+to	O
+manners	O
+,	O
+feelings	O
+,	O
+and	O
+opinions	O
+,	O
+almost	O
+or	O
+wholly	O
+obsolete	O
+--	O
+which	O
+,	O
+if	O
+adequately	O
+translated	O
+to	O
+the	O
+reader	O
+,	O
+would	O
+serve	O
+to	O
+illustrate	O
+how	O
+much	O
+of	O
+old	O
+material	O
+goes	O
+to	O
+make	O
+up	O
+the	O
+freshest	O
+novelty	O
+of	O
+human	O
+life	O
+.	O
+
+# id = litbank-0395
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = hence , too , might be drawn a weighty lesson from the little-regarded truth , that the act of the passing generation is the germ which may and must produce good or evil fruit in a far-distant time ; that , together with the seed of the merely temporary crop , which mortals term expediency , they inevitably sow the acorns of a more enduring growth , which may darkly overshadow their posterity .
+hence	O
+,	O
+too	O
+,	O
+might	O
+be	O
+drawn	O
+a	O
+weighty	O
+lesson	O
+from	O
+the	O
+little-regarded	O
+truth	O
+,	O
+that	O
+the	O
+act	O
+of	O
+the	O
+passing	O
+generation	O
+is	O
+the	O
+germ	O
+which	O
+may	O
+and	O
+must	O
+produce	O
+good	O
+or	O
+evil	O
+fruit	O
+in	O
+a	O
+far-distant	O
+time	O
+;	O
+that	O
+,	O
+together	O
+with	O
+the	O
+seed	O
+of	O
+the	O
+merely	O
+temporary	O
+crop	O
+,	O
+which	O
+mortals	O
+term	O
+expediency	O
+,	O
+they	O
+inevitably	O
+sow	O
+the	O
+acorns	O
+of	O
+a	O
+more	O
+enduring	O
+growth	O
+,	O
+which	O
+may	O
+darkly	O
+overshadow	O
+their	O
+posterity	O
+.	O
+
+# id = litbank-0399
+# source = LitBank
+# book = The House of the Seven Gables
+# book_id = 77_the_house_of_the_seven_gables
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/77_the_house_of_the_seven_gables_brat.tsv
+# text = in the growth of the town , however , after some thirty or forty years , the site covered by this rude hovel had become exceedingly desirable in the eyes of a prominent and powerful personage , who asserted plausible claims to the proprietorship of this and a large adjacent tract of land , on the strength of a grant from the legislature .
+in	O
+the	O
+growth	O
+of	O
+the	O
+town	O
+,	O
+however	O
+,	O
+after	O
+some	O
+thirty	O
+or	O
+forty	O
+years	O
+,	O
+the	O
+site	O
+covered	O
+by	O
+this	O
+rude	O
+hovel	O
+had	O
+become	O
+exceedingly	O
+desirable	O
+in	O
+the	O
+eyes	O
+of	O
+a	O
+prominent	O
+and	O
+powerful	O
+personage	O
+,	O
+who	O
+asserted	O
+plausible	O
+claims	O
+to	O
+the	O
+proprietorship	O
+of	O
+this	O
+and	O
+a	O
+large	O
+adjacent	O
+tract	O
+of	O
+land	O
+,	O
+on	O
+the	O
+strength	O
+of	O
+a	O
+grant	O
+from	O
+the	O
+legislature	O
 .	O
 

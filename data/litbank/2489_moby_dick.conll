@@ -1,4 +1,4 @@
-# id = litbank-1769
+# id = litbank-2160
 # source = LitBank
 # book = Moby-Dick
 # book_id = 2489_moby_dick
@@ -14,7 +14,348 @@ me	O
 ishmael	B-CHARACTER
 .	O
 
-# id = litbank-1775
+# id = litbank-2166
+# source = LitBank
+# book = Moby-Dick
+# book_id = 2489_moby_dick
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2489_moby_dick_brat.tsv
+# text = there now is your insular city of the manhattoes , belted round by wharves as indian isles by coral reefs -- commerce surrounds it with her surf .
+there	O
+now	O
+is	O
+your	O
+insular	O
+city	O
+of	O
+the	O
+manhattoes	B-LOCATION
+,	O
+belted	O
+round	O
+by	O
+wharves	O
+as	O
+indian	O
+isles	O
+by	O
+coral	O
+reefs	O
+--	O
+commerce	O
+surrounds	O
+it	O
+with	O
+her	O
+surf	O
+.	O
+
+# id = litbank-2167
+# source = LitBank
+# book = Moby-Dick
+# book_id = 2489_moby_dick
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2489_moby_dick_brat.tsv
+# text = its extreme downtown is the battery , where that noble mole is washed by waves , and cooled by breezes , which a few hours previous were out of sight of land .
+its	B-LOCATION
+extreme	O
+downtown	O
+is	O
+the	O
+battery	O
+,	O
+where	O
+that	O
+noble	O
+mole	O
+is	O
+washed	O
+by	O
+waves	O
+,	O
+and	O
+cooled	O
+by	O
+breezes	O
+,	O
+which	O
+a	O
+few	O
+hours	O
+previous	O
+were	O
+out	O
+of	O
+sight	O
+of	O
+land	O
+.	O
+
+# id = litbank-2168
+# source = LitBank
+# book = Moby-Dick
+# book_id = 2489_moby_dick
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2489_moby_dick_brat.tsv
+# text = circumambulate the city of a dreamy sabbath afternoon .
+circumambulate	O
+the	O
+city	O
+of	O
+a	O
+dreamy	O
+sabbath	B-LOCATION
+afternoon	O
+.	O
+
+# id = litbank-2169
+# source = LitBank
+# book = Moby-Dick
+# book_id = 2489_moby_dick
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2489_moby_dick_brat.tsv
+# text = go from corlears hook to coenties slip , and from thence , by whitehall , northward .
+go	O
+from	O
+corlears	B-LOCATION
+hook	I-LOCATION
+to	O
+coenties	O
+slip	O
+,	O
+and	O
+from	O
+thence	O
+,	O
+by	O
+whitehall	B-LOCATION
+,	O
+northward	O
+.	O
+
+# id = litbank-2170
+# source = LitBank
+# book = Moby-Dick
+# book_id = 2489_moby_dick
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2489_moby_dick_brat.tsv
+# text = of ships from china ; some high aloft in the rigging , as if striving to get a still better seaward peep .
+of	O
+ships	O
+from	O
+china	B-LOCATION
+;	O
+some	O
+high	O
+aloft	O
+in	O
+the	O
+rigging	O
+,	O
+as	O
+if	O
+striving	O
+to	O
+get	O
+a	O
+still	O
+better	O
+seaward	O
+peep	O
+.	O
+
+# id = litbank-2171
+# source = LitBank
+# book = Moby-Dick
+# book_id = 2489_moby_dick
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2489_moby_dick_brat.tsv
+# text = he desires to paint you the dreamiest , shadiest , quietest , most enchanting bit of romantic landscape in all the valley of the saco .
+he	O
+desires	O
+to	O
+paint	O
+you	O
+the	O
+dreamiest	O
+,	O
+shadiest	O
+,	O
+quietest	O
+,	O
+most	O
+enchanting	O
+bit	O
+of	O
+romantic	O
+landscape	O
+in	O
+all	O
+the	O
+valley	O
+of	O
+the	O
+saco	B-LOCATION
+.	O
+
+# id = litbank-2172
+# source = LitBank
+# book = Moby-Dick
+# book_id = 2489_moby_dick
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2489_moby_dick_brat.tsv
+# text = deep into distant woodlands winds a mazy way , reaching to overlapping spurs of mountains bathed in their hill-side blue .
+deep	B-LOCATION
+into	O
+distant	O
+woodlands	O
+winds	O
+a	O
+mazy	O
+way	O
+,	O
+reaching	O
+to	O
+overlapping	O
+spurs	O
+of	O
+mountains	O
+bathed	O
+in	O
+their	O
+hill-side	O
+blue	O
+.	O
+
+# id = litbank-2173
+# source = LitBank
+# book = Moby-Dick
+# book_id = 2489_moby_dick
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2489_moby_dick_brat.tsv
+# text = go visit the prairies in june , when for scores on scores of miles you wade knee-deep among tiger-lilies -- what is the one charm wanting ?
+go	O
+visit	O
+the	O
+prairies	B-LOCATION
+in	O
+june	O
+,	O
+when	O
+for	O
+scores	O
+on	O
+scores	O
+of	O
+miles	O
+you	O
+wade	O
+knee-deep	O
+among	O
+tiger-lilies	O
+--	O
+what	O
+is	O
+the	O
+one	O
+charm	O
+wanting	O
+?	O
+
+# id = litbank-2174
+# source = LitBank
+# book = Moby-Dick
+# book_id = 2489_moby_dick
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2489_moby_dick_brat.tsv
+# text = why did the poor poet of tennessee , upon suddenly receiving two handfuls of silver , deliberate whether to buy him a coat , which he sadly needed , or invest his money in a pedestrian trip to rockaway beach ?
+why	O
+did	O
+the	O
+poor	O
+poet	O
+of	O
+tennessee	B-LOCATION
+,	O
+upon	O
+suddenly	O
+receiving	O
+two	O
+handfuls	O
+of	O
+silver	O
+,	O
+deliberate	O
+whether	O
+to	O
+buy	O
+him	O
+a	O
+coat	O
+,	O
+which	O
+he	O
+sadly	O
+needed	O
+,	O
+or	O
+invest	O
+his	O
+money	O
+in	O
+a	O
+pedestrian	O
+trip	O
+to	O
+rockaway	B-LOCATION
+beach	I-LOCATION
+?	O
+
+# id = litbank-2175
+# source = LitBank
+# book = Moby-Dick
+# book_id = 2489_moby_dick
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2489_moby_dick_brat.tsv
+# text = true , they rather order me about some , and make me jump from spar to spar , like a grasshopper in a may meadow .
+true	O
+,	O
+they	O
+rather	O
+order	O
+me	O
+about	O
+some	O
+,	O
+and	O
+make	O
+me	O
+jump	O
+from	O
+spar	O
+to	O
+spar	O
+,	O
+like	O
+a	O
+grasshopper	O
+in	O
+a	O
+may	B-LOCATION
+meadow	I-LOCATION
+.	O
+
+# id = litbank-2176
 # source = LitBank
 # book = Moby-Dick
 # book_id = 2489_moby_dick
@@ -50,7 +391,7 @@ particular	O
 instance	O
 ?	O
 
-# id = litbank-1770
+# id = litbank-2161
 # source = LitBank
 # book = Moby-Dick
 # book_id = 2489_moby_dick
@@ -104,7 +445,7 @@ the	O
 world	O
 .	O
 
-# id = litbank-1771
+# id = litbank-2162
 # source = LitBank
 # book = Moby-Dick
 # book_id = 2489_moby_dick
@@ -129,7 +470,7 @@ the	O
 circulation	O
 .	O
 
-# id = litbank-1772
+# id = litbank-2163
 # source = LitBank
 # book = Moby-Dick
 # book_id = 2489_moby_dick
@@ -147,7 +488,7 @@ and	O
 ball	O
 .	O
 
-# id = litbank-1773
+# id = litbank-2164
 # source = LitBank
 # book = Moby-Dick
 # book_id = 2489_moby_dick
@@ -174,7 +515,7 @@ the	O
 ship	O
 .	O
 
-# id = litbank-1774
+# id = litbank-2165
 # source = LitBank
 # book = Moby-Dick
 # book_id = 2489_moby_dick

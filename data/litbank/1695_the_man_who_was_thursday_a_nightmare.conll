@@ -1,4 +1,42 @@
-# id = litbank-1651
+# id = litbank-2004
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = the two poets of saffron park the suburb of saffron park lay on the sunset side of london , as red and ragged as a cloud of sunset .
+the	O
+two	O
+poets	O
+of	O
+saffron	B-LOCATION
+park	I-LOCATION
+the	O
+suburb	O
+of	O
+saffron	B-LOCATION
+park	I-LOCATION
+lay	O
+on	O
+the	O
+sunset	O
+side	O
+of	O
+london	B-LOCATION
+,	O
+as	O
+red	O
+and	O
+ragged	O
+as	O
+a	O
+cloud	O
+of	O
+sunset	O
+.	O
+
+# id = litbank-2010
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -40,7 +78,40 @@ of	O
 it	O
 .	O
 
-# id = litbank-1652
+# id = litbank-2011
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = there are others who may remember it because it marked the first appearance in the place of the second poet of saffron park .
+there	O
+are	O
+others	O
+who	O
+may	O
+remember	O
+it	O
+because	O
+it	O
+marked	O
+the	O
+first	O
+appearance	O
+in	O
+the	O
+place	O
+of	O
+the	O
+second	O
+poet	O
+of	O
+saffron	B-LOCATION
+park	I-LOCATION
+.	O
+
+# id = litbank-2012
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -80,7 +151,7 @@ yellow	O
 hair	O
 .	O
 
-# id = litbank-1653
+# id = litbank-2013
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -109,7 +180,7 @@ of	O
 poetry	O
 .	O
 
-# id = litbank-1654
+# id = litbank-2014
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -146,7 +217,7 @@ of	O
 respectability	O
 .	O
 
-# id = litbank-1655
+# id = litbank-2015
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -171,7 +242,7 @@ two	O
 events	O
 .	O
 
-# id = litbank-1656
+# id = litbank-2016
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -226,7 +297,7 @@ family	O
 oracle	O
 .	O
 
-# id = litbank-1657
+# id = litbank-2017
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -243,7 +314,7 @@ good	O
 humour	O
 .	O
 
-# id = litbank-1658
+# id = litbank-2018
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -262,7 +333,7 @@ mr.	B-CHARACTER
 syme	I-CHARACTER
 .	O
 
-# id = litbank-1659
+# id = litbank-2019
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -288,7 +359,72 @@ attempted	O
 paradox	O
 .	O
 
-# id = litbank-1660
+# id = litbank-2020
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = it is because after they have passed sloane square they know that the next station must be victoria , and nothing but victoria .
+it	O
+is	O
+because	O
+after	O
+they	O
+have	O
+passed	O
+sloane	B-LOCATION
+square	I-LOCATION
+they	O
+know	O
+that	O
+the	O
+next	O
+station	O
+must	O
+be	O
+victoria	B-LOCATION
+,	O
+and	O
+nothing	O
+but	O
+victoria	B-LOCATION
+.	O
+
+# id = litbank-2021
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = oh , their eyes like stars and their souls again in eden , if the next station were unaccountably baker street ! ”
+oh	O
+,	O
+their	O
+eyes	O
+like	O
+stars	O
+and	O
+their	O
+souls	O
+again	O
+in	O
+eden	B-LOCATION
+,	O
+if	O
+the	O
+next	O
+station	O
+were	O
+unaccountably	O
+baker	B-LOCATION
+street	I-LOCATION
+!	O
+”	O
+
+# id = litbank-2022
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -311,7 +447,82 @@ poet	O
 syme	B-CHARACTER
 .	O
 
-# id = litbank-1661
+# id = litbank-2023
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = chaos is dull ; because in chaos the train might indeed go anywhere , to baker street or to bagdad .
+chaos	O
+is	O
+dull	O
+;	O
+because	O
+in	O
+chaos	O
+the	O
+train	O
+might	O
+indeed	O
+go	O
+anywhere	O
+,	O
+to	O
+baker	B-LOCATION
+street	I-LOCATION
+or	O
+to	O
+bagdad	B-LOCATION
+.	O
+
+# id = litbank-2024
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = but man is a magician , and his whole magic is in this , that he does say victoria , and lo !
+but	O
+man	O
+is	O
+a	O
+magician	O
+,	O
+and	O
+his	O
+whole	O
+magic	O
+is	O
+in	O
+this	O
+,	O
+that	O
+he	O
+does	O
+say	O
+victoria	B-LOCATION
+,	O
+and	O
+lo	O
+!	O
+
+# id = litbank-2025
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = it is victoria .
+it	O
+is	O
+victoria	B-LOCATION
+.	O
+
+# id = litbank-2026
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -340,7 +551,7 @@ his	O
 victories	O
 .	O
 
-# id = litbank-1662
+# id = litbank-2027
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -357,7 +568,7 @@ say	O
 !	O
 ”	O
 
-# id = litbank-1663
+# id = litbank-2028
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -376,7 +587,7 @@ gregory	B-CHARACTER
 sarcastically	O
 .	O
 
-# id = litbank-1664
+# id = litbank-2029
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -426,7 +637,88 @@ against	O
 chaos	O
 .	O
 
-# id = litbank-1665
+# id = litbank-2030
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = you say contemptuously that when one has left sloane square one must come to victoria .
+you	O
+say	O
+contemptuously	O
+that	O
+when	O
+one	O
+has	O
+left	O
+sloane	B-LOCATION
+square	I-LOCATION
+one	O
+must	O
+come	O
+to	O
+victoria	B-LOCATION
+.	O
+
+# id = litbank-2031
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = and when i hear the guard shout out the word ‘ victoria , ’ it is not an unmeaning word .
+and	O
+when	O
+i	O
+hear	O
+the	O
+guard	O
+shout	O
+out	O
+the	O
+word	O
+‘	O
+victoria	B-LOCATION
+,	O
+’	O
+it	O
+is	O
+not	O
+an	O
+unmeaning	O
+word	O
+.	O
+
+# id = litbank-2032
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = it is to me indeed ‘ victoria ’ ; it is the victory of adam . ”
+it	O
+is	O
+to	O
+me	O
+indeed	O
+‘	O
+victoria	B-LOCATION
+’	O
+;	O
+it	O
+is	O
+the	O
+victory	O
+of	O
+adam	O
+.	O
+”	O
+
+# id = litbank-2033
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -449,7 +741,85 @@ sad	O
 smile	O
 .	O
 
-# id = litbank-1666
+# id = litbank-2034
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = “ and even then , ” he said , “ we poets always ask the question , ‘ and what is victoria now that you have got there ? ’
+“	O
+and	O
+even	O
+then	O
+,	O
+”	O
+he	O
+said	O
+,	O
+“	O
+we	O
+poets	O
+always	O
+ask	O
+the	O
+question	O
+,	O
+‘	O
+and	O
+what	O
+is	O
+victoria	B-LOCATION
+now	O
+that	O
+you	O
+have	O
+got	O
+there	O
+?	O
+’	O
+
+# id = litbank-2035
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = you think victoria is like the new jerusalem .
+you	O
+think	O
+victoria	B-LOCATION
+is	O
+like	O
+the	O
+new	B-LOCATION
+jerusalem	I-LOCATION
+.	O
+
+# id = litbank-2036
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = we know that the new jerusalem will only be like victoria .
+we	O
+know	O
+that	O
+the	O
+new	B-LOCATION
+jerusalem	I-LOCATION
+will	O
+only	O
+be	O
+like	O
+victoria	B-LOCATION
+.	O
+
+# id = litbank-2037
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -477,45 +847,7 @@ in	O
 revolt	O
 ?	O
 
-# id = litbank-1646
-# source = LitBank
-# book = The Man Who Was Thursday
-# book_id = 1695_the_man_who_was_thursday_a_nightmare
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
-# text = the two poets of saffron park the suburb of saffron park lay on the sunset side of london , as red and ragged as a cloud of sunset .
-the	O
-two	O
-poets	O
-of	O
-saffron	O
-park	O
-the	O
-suburb	O
-of	O
-saffron	O
-park	O
-lay	O
-on	O
-the	O
-sunset	O
-side	O
-of	O
-london	O
-,	O
-as	O
-red	O
-and	O
-ragged	O
-as	O
-a	O
-cloud	O
-of	O
-sunset	O
-.	O
-
-# id = litbank-1647
+# id = litbank-2005
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -546,7 +878,7 @@ was	O
 wild	O
 .	O
 
-# id = litbank-1648
+# id = litbank-2006
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -592,7 +924,7 @@ were	O
 identical	O
 .	O
 
-# id = litbank-1649
+# id = litbank-2007
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -623,7 +955,7 @@ any	O
 art	O
 .	O
 
-# id = litbank-1650
+# id = litbank-2008
 # source = LitBank
 # book = The Man Who Was Thursday
 # book_id = 1695_the_man_who_was_thursday_a_nightmare
@@ -655,5 +987,45 @@ place	O
 were	O
 quite	O
 indisputable	O
+.	O
+
+# id = litbank-2009
+# source = LitBank
+# book = The Man Who Was Thursday
+# book_id = 1695_the_man_who_was_thursday_a_nightmare
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/1695_the_man_who_was_thursday_a_nightmare_brat.tsv
+# text = the stranger who looked for the first time at the quaint red houses could only think how very oddly shaped the people must be who could fit in to them .
+the	O
+stranger	O
+who	O
+looked	O
+for	O
+the	O
+first	O
+time	O
+at	O
+the	O
+quaint	O
+red	O
+houses	O
+could	O
+only	O
+think	O
+how	O
+very	O
+oddly	O
+shaped	O
+the	O
+people	O
+must	O
+be	O
+who	O
+could	O
+fit	O
+in	O
+to	O
+them	O
 .	O
 

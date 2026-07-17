@@ -1,4 +1,97 @@
-# id = litbank-2354
+# id = litbank-2869
+# source = LitBank
+# book = Personality Plus
+# book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock_brat.tsv
+# text = the fourth avenue antique dealer had another curio to add to his collection of andirons , knockers , snuff boxes and warming pans .
+the	O
+fourth	B-LOCATION
+avenue	I-LOCATION
+antique	O
+dealer	O
+had	O
+another	O
+curio	O
+to	O
+add	O
+to	O
+his	O
+collection	O
+of	O
+andirons	O
+,	O
+knockers	O
+,	O
+snuff	O
+boxes	O
+and	O
+warming	O
+pans	O
+.	O
+
+# id = litbank-2871
+# source = LitBank
+# book = Personality Plus
+# book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock_brat.tsv
+# text = his language was floral , but choice ; his talk was of gearings and bearings and cylinders and magnetos ; his method differed from that of him who went before as the method of a skilled aëronaut differs from that of the man who goes over niagara in a barrel .
+his	O
+language	O
+was	O
+floral	O
+,	O
+but	O
+choice	O
+;	O
+his	O
+talk	O
+was	O
+of	O
+gearings	O
+and	O
+bearings	O
+and	O
+cylinders	O
+and	O
+magnetos	O
+;	O
+his	O
+method	O
+differed	O
+from	O
+that	O
+of	O
+him	O
+who	O
+went	O
+before	O
+as	O
+the	O
+method	O
+of	O
+a	O
+skilled	O
+aëronaut	O
+differs	O
+from	O
+that	O
+of	O
+the	O
+man	O
+who	O
+goes	O
+over	O
+niagara	B-LOCATION
+in	O
+a	O
+barrel	O
+.	O
+
+# id = litbank-2872
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -37,7 +130,7 @@ mother	O
 bedroom	O
 .	O
 
-# id = litbank-2355
+# id = litbank-2873
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -58,7 +151,7 @@ moody	O
 eyes	O
 .	O
 
-# id = litbank-2356
+# id = litbank-2874
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -95,7 +188,7 @@ her	O
 son	O
 .	O
 
-# id = litbank-2357
+# id = litbank-2875
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -118,7 +211,7 @@ about	O
 her	O
 .	O
 
-# id = litbank-2358
+# id = litbank-2876
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -148,7 +241,7 @@ own	O
 room	O
 .	O
 
-# id = litbank-2359
+# id = litbank-2877
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -170,7 +263,7 @@ car	O
 company	O
 .	O
 
-# id = litbank-2360
+# id = litbank-2878
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -190,7 +283,7 @@ shriner	O
 company	O
 .	O
 
-# id = litbank-2361
+# id = litbank-2879
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -211,7 +304,7 @@ the	O
 cups	O
 .	O
 
-# id = litbank-2362
+# id = litbank-2880
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -258,7 +351,7 @@ chosen	O
 field	O
 .	O
 
-# id = litbank-2363
+# id = litbank-2881
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -300,7 +393,7 @@ and	O
 l-trains	O
 .	O
 
-# id = litbank-2364
+# id = litbank-2882
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -329,7 +422,7 @@ mother	O
 irrelevantly	O
 .	O
 
-# id = litbank-2365
+# id = litbank-2883
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -380,7 +473,7 @@ sacks	O
 .	O
 "	O
 
-# id = litbank-2366
+# id = litbank-2884
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -425,7 +518,7 @@ finals	O
 ?	O
 "	O
 
-# id = litbank-2367
+# id = litbank-2885
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -442,7 +535,7 @@ sneered	O
 jock	B-CHARACTER
 .	O
 
-# id = litbank-2368
+# id = litbank-2886
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -477,7 +570,7 @@ soap	O
 bubbles	O
 .	O
 
-# id = litbank-2369
+# id = litbank-2887
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -497,7 +590,7 @@ charming	O
 smile	O
 .	O
 
-# id = litbank-2370
+# id = litbank-2888
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -530,7 +623,7 @@ and	O
 rose	O
 .	O
 
-# id = litbank-2371
+# id = litbank-2889
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -547,7 +640,7 @@ mcchesney	I-CHARACTER
 '	O
 "	O
 
-# id = litbank-2372
+# id = litbank-2890
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -583,7 +676,7 @@ the	O
 adept	O
 .	O
 
-# id = litbank-2373
+# id = litbank-2891
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -601,7 +694,7 @@ eh	O
 annie	B-CHARACTER
 ?	O
 
-# id = litbank-2374
+# id = litbank-2892
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -614,7 +707,7 @@ loves	O
 'em	O
 .	O
 
-# id = litbank-2375
+# id = litbank-2893
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -636,7 +729,7 @@ her	O
 voice	O
 .	O
 
-# id = litbank-2376
+# id = litbank-2894
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -665,7 +758,7 @@ will	O
 you	O
 ?	O
 
-# id = litbank-2349
+# id = litbank-2865
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -708,7 +801,7 @@ of	O
 speech	O
 .	O
 
-# id = litbank-2350
+# id = litbank-2866
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -774,7 +867,7 @@ twenty-story	O
 skyscraper	O
 .	O
 
-# id = litbank-2351
+# id = litbank-2867
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -800,7 +893,7 @@ agent	O
 .	O
 "	O
 
-# id = litbank-2352
+# id = litbank-2868
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
@@ -833,36 +926,32 @@ a	O
 necklace	O
 ?	O
 
-# id = litbank-2353
+# id = litbank-2870
 # source = LitBank
 # book = Personality Plus
 # book_id = 12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock
 # chapter = unknown
 # sample_type = negative
 # source_file = entities/tsv/12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock_brat.tsv
-# text = the fourth avenue antique dealer had another curio to add to his collection of andirons , knockers , snuff boxes and warming pans .
-the	O
-fourth	O
-avenue	O
-antique	O
-dealer	O
-had	O
-another	O
-curio	O
-to	O
-add	O
-to	O
-his	O
-collection	O
-of	O
-andirons	O
-,	O
-knockers	O
-,	O
-snuff	O
-boxes	O
+# text = but even as this quaint figure vanished there sprang up a new and glittering one to take his place .
+but	O
+even	O
+as	O
+this	O
+quaint	O
+figure	O
+vanished	O
+there	O
+sprang	O
+up	O
+a	O
+new	O
 and	O
-warming	O
-pans	O
+glittering	O
+one	O
+to	O
+take	O
+his	O
+place	O
 .	O
 

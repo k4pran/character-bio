@@ -1,4 +1,4 @@
-# id = litbank-0428
+# id = litbank-0498
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -13,11 +13,11 @@ walter	I-CHARACTER
 elliot	I-CHARACTER
 ,	O
 of	O
-kellynch	O
-hall	O
+kellynch	B-LOCATION
+hall	I-LOCATION
 ,	O
 in	O
-somersetshire	O
+somersetshire	B-LOCATION
 ,	O
 was	O
 a	O
@@ -126,7 +126,7 @@ never	O
 failed	O
 .	O
 
-# id = litbank-0429
+# id = litbank-0499
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -149,11 +149,11 @@ opened	O
 "	O
 elliot	B-CHARACTER
 of	O
-kellynch	O
-hall	O
+kellynch	B-LOCATION
+hall	I-LOCATION
 .	O
 
-# id = litbank-0430
+# id = litbank-0500
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -194,7 +194,7 @@ in	O
 the	O
 county	O
 of	O
-gloucester	O
+gloucester	B-LOCATION
 ,	O
 by	O
 which	O
@@ -242,7 +242,7 @@ november	O
 .	O
 "	O
 
-# id = litbank-0431
+# id = litbank-0501
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -311,13 +311,13 @@ musgrove	I-CHARACTER
 ,	O
 esq.	O
 of	O
-uppercross	O
+uppercross	B-LOCATION
 ,	O
 in	O
 the	O
 county	O
 of	O
-somerset	O
+somerset	B-LOCATION
 ,	O
 "	O
 and	O
@@ -339,7 +339,7 @@ his	O
 wife	O
 .	O
 
-# id = litbank-0432
+# id = litbank-0502
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -372,7 +372,7 @@ been	O
 first	O
 settled	O
 in	O
-cheshire	O
+cheshire	B-LOCATION
 ;	O
 how	O
 mentioned	O
@@ -441,14 +441,14 @@ motto	O
 principal	O
 seat	O
 ,	O
-kellynch	O
-hall	O
+kellynch	B-LOCATION
+hall	I-LOCATION
 ,	O
 in	O
 the	O
 county	O
 of	O
-somerset	O
+somerset	B-LOCATION
 ,	O
 "	O
 and	O
@@ -482,7 +482,7 @@ walter	I-CHARACTER
 .	O
 "	O
 
-# id = litbank-0433
+# id = litbank-0503
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -512,7 +512,7 @@ of	O
 situation	O
 .	O
 
-# id = litbank-0436
+# id = litbank-0506
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -559,7 +559,7 @@ and	O
 devotion	O
 .	O
 
-# id = litbank-0438
+# id = litbank-0508
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -605,7 +605,7 @@ indulgence	O
 afterwards	O
 .	O
 
-# id = litbank-0441
+# id = litbank-0511
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -650,7 +650,7 @@ in	O
 the	O
 village	O
 of	O
-kellynch	O
+kellynch	B-LOCATION
 ;	O
 and	O
 on	O
@@ -685,7 +685,7 @@ her	O
 daughters	O
 .	O
 
-# id = litbank-0442
+# id = litbank-0512
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -717,7 +717,7 @@ their	O
 acquaintance	O
 .	O
 
-# id = litbank-0443
+# id = litbank-0513
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -758,7 +758,7 @@ a	O
 widow	O
 .	O
 
-# id = litbank-0444
+# id = litbank-0514
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -830,7 +830,7 @@ requires	O
 explanation	O
 .	O
 
-# id = litbank-0445
+# id = litbank-0515
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -880,7 +880,7 @@ daughters	O
 sake	O
 .	O
 
-# id = litbank-0446
+# id = litbank-0516
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -936,7 +936,7 @@ most	O
 happily	O
 .	O
 
-# id = litbank-0447
+# id = litbank-0517
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -1012,7 +1012,7 @@ only	O
 anne	B-CHARACTER
 .	O
 
-# id = litbank-0448
+# id = litbank-0518
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -1042,7 +1042,7 @@ and	O
 friend	O
 .	O
 
-# id = litbank-0449
+# id = litbank-0519
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -1073,7 +1073,7 @@ revive	O
 again	O
 .	O
 
-# id = litbank-0450
+# id = litbank-0520
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -1157,7 +1157,7 @@ his	O
 esteem	O
 .	O
 
-# id = litbank-0451
+# id = litbank-0521
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -1214,7 +1214,7 @@ marry	O
 suitably	O
 .	O
 
-# id = litbank-0452
+# id = litbank-0522
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -1310,7 +1310,7 @@ were	O
 growing	O
 .	O
 
-# id = litbank-0453
+# id = litbank-0523
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -1354,7 +1354,7 @@ to	O
 him	O
 .	O
 
-# id = litbank-0454
+# id = litbank-0524
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -1374,7 +1374,49 @@ personal	O
 contentment	O
 .	O
 
-# id = litbank-0455
+# id = litbank-0525
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = thirteen years had seen her mistress of kellynch hall , presiding and directing with a self-possession and decision which could never have given the idea of her being younger than she was .
+thirteen	O
+years	O
+had	O
+seen	O
+her	O
+mistress	O
+of	O
+kellynch	B-LOCATION
+hall	I-LOCATION
+,	O
+presiding	O
+and	O
+directing	O
+with	O
+a	O
+self-possession	O
+and	O
+decision	O
+which	O
+could	O
+never	O
+have	O
+given	O
+the	O
+idea	O
+of	O
+her	O
+being	O
+younger	O
+than	O
+she	O
+was	O
+.	O
+
+# id = litbank-0526
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -1429,7 +1471,64 @@ the	O
 country	O
 .	O
 
-# id = litbank-0456
+# id = litbank-0527
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = thirteen winters ' revolving frosts had seen her opening every ball of credit which a scanty neighbourhood afforded , and thirteen springs shewn their blossoms , as she travelled up to london with her father , for a few weeks ' annual enjoyment of the great world .
+thirteen	O
+winters	O
+'	O
+revolving	O
+frosts	O
+had	O
+seen	O
+her	O
+opening	O
+every	O
+ball	O
+of	O
+credit	O
+which	O
+a	O
+scanty	O
+neighbourhood	O
+afforded	O
+,	O
+and	O
+thirteen	O
+springs	O
+shewn	O
+their	O
+blossoms	O
+,	O
+as	O
+she	O
+travelled	O
+up	O
+to	O
+london	B-LOCATION
+with	O
+her	O
+father	O
+,	O
+for	O
+a	O
+few	O
+weeks	O
+'	O
+annual	O
+enjoyment	O
+of	O
+the	O
+great	O
+world	O
+.	O
+
+# id = litbank-0528
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -1465,7 +1564,7 @@ disappointed	O
 her	O
 .	O
 
-# id = litbank-0457
+# id = litbank-0529
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -1536,7 +1635,7 @@ their	O
 spring	O
 excursions	O
 to	O
-london	O
+london	B-LOCATION
 ,	O
 when	O
 elizabeth	B-CHARACTER
@@ -1556,7 +1655,7 @@ the	O
 introduction	O
 .	O
 
-# id = litbank-0458
+# id = litbank-0530
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -1600,7 +1699,41 @@ was	O
 confirmed	O
 .	O
 
-# id = litbank-0459
+# id = litbank-0531
+# source = LitBank
+# book = Persuasion
+# book_id = 105_persuasion
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/105_persuasion_brat.tsv
+# text = he was invited to kellynch hall ; he was talked of and expected all the rest of the year ; but he never came .
+he	O
+was	O
+invited	O
+to	O
+kellynch	B-LOCATION
+hall	I-LOCATION
+;	O
+he	O
+was	O
+talked	O
+of	O
+and	O
+expected	O
+all	O
+the	O
+rest	O
+of	O
+the	O
+year	O
+;	O
+but	O
+he	O
+never	O
+came	O
+.	O
+
+# id = litbank-0532
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -1643,7 +1776,7 @@ inferior	O
 birth	O
 .	O
 
-# id = litbank-0434
+# id = litbank-0504
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -1673,7 +1806,7 @@ fine	O
 man	O
 .	O
 
-# id = litbank-0435
+# id = litbank-0505
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -1715,7 +1848,7 @@ in	O
 society	O
 .	O
 
-# id = litbank-0437
+# id = litbank-0507
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -1759,7 +1892,7 @@ his	O
 own	O
 .	O
 
-# id = litbank-0439
+# id = litbank-0509
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion
@@ -1840,7 +1973,7 @@ quit	O
 them	O
 .	O
 
-# id = litbank-0440
+# id = litbank-0510
 # source = LitBank
 # book = Persuasion
 # book_id = 105_persuasion

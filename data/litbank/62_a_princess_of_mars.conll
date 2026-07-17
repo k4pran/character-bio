@@ -1,4 +1,143 @@
-# id = litbank-0248
+# id = litbank-0287
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = chapter i on the arizona hills i am a very old man ; how old i do not know .
+chapter	O
+i	O
+on	O
+the	O
+arizona	B-LOCATION
+hills	O
+i	O
+am	O
+a	O
+very	O
+old	O
+man	O
+;	O
+how	O
+old	O
+i	O
+do	O
+not	O
+know	O
+.	O
+
+# id = litbank-0293
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = i can not explain the phenomena ; i can only set down here in the words of an ordinary soldier of fortune a chronicle of the strange events that befell me during the ten years that my dead body lay undiscovered in an arizona cave .
+i	O
+can	O
+not	O
+explain	O
+the	O
+phenomena	O
+;	O
+i	O
+can	O
+only	O
+set	O
+down	O
+here	O
+in	O
+the	O
+words	O
+of	O
+an	O
+ordinary	O
+soldier	O
+of	O
+fortune	O
+a	O
+chronicle	O
+of	O
+the	O
+strange	O
+events	O
+that	O
+befell	O
+me	O
+during	O
+the	O
+ten	O
+years	O
+that	O
+my	O
+dead	O
+body	O
+lay	O
+undiscovered	O
+in	O
+an	O
+arizona	B-LOCATION
+cave	O
+.	O
+
+# id = litbank-0294
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = possibly the suggestions which i gained upon mars , and the knowledge which i can set down in this chronicle , will aid in an earlier understanding of the mysteries of our sister planet ; mysteries to you , but no longer mysteries to me .
+possibly	O
+the	O
+suggestions	O
+which	O
+i	O
+gained	O
+upon	O
+mars	B-LOCATION
+,	O
+and	O
+the	O
+knowledge	O
+which	O
+i	O
+can	O
+set	O
+down	O
+in	O
+this	O
+chronicle	O
+,	O
+will	O
+aid	O
+in	O
+an	O
+earlier	O
+understanding	O
+of	O
+the	O
+mysteries	O
+of	O
+our	O
+sister	O
+planet	O
+;	O
+mysteries	O
+to	O
+you	O
+,	O
+but	O
+no	O
+longer	O
+mysteries	O
+to	O
+me	O
+.	O
+
+# id = litbank-0295
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -21,10 +160,10 @@ captain	B-CHARACTER
 jack	I-CHARACTER
 carter	I-CHARACTER
 of	O
-virginia	O
+virginia	B-LOCATION
 .	O
 
-# id = litbank-0249
+# id = litbank-0296
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -50,10 +189,10 @@ james	I-CHARACTER
 k.	I-CHARACTER
 powell	I-CHARACTER
 of	O
-richmond	O
+richmond	B-LOCATION
 .	O
 
-# id = litbank-0250
+# id = litbank-0297
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -91,7 +230,7 @@ three	O
 months	O
 .	O
 
-# id = litbank-0251
+# id = litbank-0298
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -131,7 +270,7 @@ the	O
 trip	O
 .	O
 
-# id = litbank-0252
+# id = litbank-0299
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -186,7 +325,7 @@ his	O
 journey	O
 .	O
 
-# id = litbank-0253
+# id = litbank-0300
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -205,7 +344,7 @@ was	O
 like	O
 nearly	O
 all	O
-arizona	O
+arizona	B-LOCATION
 mornings	O
 ,	O
 clear	O
@@ -258,7 +397,7 @@ level	O
 plateau	O
 .	O
 
-# id = litbank-0254
+# id = litbank-0301
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -294,7 +433,7 @@ the	O
 valley	O
 .	O
 
-# id = litbank-0255
+# id = litbank-0302
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -351,7 +490,7 @@ assure	O
 myself	O
 .	O
 
-# id = litbank-0256
+# id = litbank-0303
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -409,7 +548,7 @@ trailing	O
 apaches	O
 .	O
 
-# id = litbank-0257
+# id = litbank-0304
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -465,7 +604,7 @@ the	O
 morning	O
 .	O
 
-# id = litbank-0258
+# id = litbank-0305
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -516,7 +655,7 @@ of	O
 powell	B-CHARACTER
 .	O
 
-# id = litbank-0259
+# id = litbank-0306
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -556,7 +695,7 @@ my	O
 pains	O
 .	O
 
-# id = litbank-0260
+# id = litbank-0307
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -619,7 +758,7 @@ to	O
 camp	O
 .	O
 
-# id = litbank-0261
+# id = litbank-0308
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -676,7 +815,7 @@ as	O
 his	O
 .	O
 
-# id = litbank-0262
+# id = litbank-0309
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -739,7 +878,7 @@ attacked	O
 him	O
 .	O
 
-# id = litbank-0263
+# id = litbank-0310
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -777,7 +916,7 @@ mountain	O
 trail	O
 .	O
 
-# id = litbank-0264
+# id = litbank-0311
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -858,7 +997,7 @@ my	O
 lungs	O
 .	O
 
-# id = litbank-0265
+# id = litbank-0312
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -872,7 +1011,7 @@ clear	O
 rays	O
 of	O
 the	O
-arizona	O
+arizona	B-LOCATION
 moon	O
 lay	O
 powell	B-CHARACTER
@@ -890,36 +1029,7 @@ the	O
 braves	O
 .	O
 
-# id = litbank-0243
-# source = LitBank
-# book = A Princess of Mars
-# book_id = 62_a_princess_of_mars
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
-# text = chapter i on the arizona hills i am a very old man ; how old i do not know .
-chapter	O
-i	O
-on	O
-the	O
-arizona	O
-hills	O
-i	O
-am	O
-a	O
-very	O
-old	O
-man	O
-;	O
-how	O
-old	O
-i	O
-do	O
-not	O
-know	O
-.	O
-
-# id = litbank-0244
+# id = litbank-0288
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -958,7 +1068,7 @@ any	O
 childhood	O
 .	O
 
-# id = litbank-0245
+# id = litbank-0289
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -986,7 +1096,7 @@ about	O
 thirty	O
 .	O
 
-# id = litbank-0246
+# id = litbank-0290
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -1036,7 +1146,7 @@ no	O
 resurrection	O
 .	O
 
-# id = litbank-0247
+# id = litbank-0291
 # source = LitBank
 # book = A Princess of Mars
 # book_id = 62_a_princess_of_mars
@@ -1101,5 +1211,39 @@ convinced	O
 of	O
 my	O
 mortality	O
+.	O
+
+# id = litbank-0292
+# source = LitBank
+# book = A Princess of Mars
+# book_id = 62_a_princess_of_mars
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/62_a_princess_of_mars_brat.tsv
+# text = and because of this conviction i have determined to write down the story of the interesting periods of my life and of my death .
+and	O
+because	O
+of	O
+this	O
+conviction	O
+i	O
+have	O
+determined	O
+to	O
+write	O
+down	O
+the	O
+story	O
+of	O
+the	O
+interesting	O
+periods	O
+of	O
+my	O
+life	O
+and	O
+of	O
+my	O
+death	O
 .	O
 

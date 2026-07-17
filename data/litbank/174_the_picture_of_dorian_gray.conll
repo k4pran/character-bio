@@ -1,4 +1,4 @@
-# id = litbank-0663
+# id = litbank-0785
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -113,7 +113,7 @@ pallid	O
 jade-faced	O
 painters	O
 of	O
-tokyo	O
+tokyo	B-LOCATION
 who	O
 ,	O
 through	O
@@ -138,7 +138,31 @@ and	O
 motion	O
 .	O
 
-# id = litbank-0666
+# id = litbank-0787
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = the dim roar of london was like the bourdon note of a distant organ .
+the	O
+dim	O
+roar	O
+of	O
+london	B-LOCATION
+was	O
+like	O
+the	O
+bourdon	O
+note	O
+of	O
+a	O
+distant	O
+organ	O
+.	O
+
+# id = litbank-0788
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -217,7 +241,7 @@ strange	O
 conjectures	O
 .	O
 
-# id = litbank-0669
+# id = litbank-0791
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -249,7 +273,90 @@ henry	I-CHARACTER
 languidly	O
 .	O
 
-# id = litbank-0670
+# id = litbank-0792
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = " you must certainly send it next year to the grosvenor .
+"	O
+you	O
+must	O
+certainly	O
+send	O
+it	O
+next	O
+year	O
+to	O
+the	O
+grosvenor	B-LOCATION
+.	O
+
+# id = litbank-0794
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = the grosvenor is really the only place . "
+the	O
+grosvenor	B-LOCATION
+is	O
+really	O
+the	O
+only	O
+place	O
+.	O
+"	O
+
+# id = litbank-0795
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = " i do n't think i shall send it anywhere , " he answered , tossing his head back in that odd way that used to make his friends laugh at him at oxford .
+"	O
+i	O
+do	O
+n't	O
+think	O
+i	O
+shall	O
+send	O
+it	O
+anywhere	O
+,	O
+"	O
+he	O
+answered	O
+,	O
+tossing	O
+his	O
+head	O
+back	O
+in	O
+that	O
+odd	O
+way	O
+that	O
+used	O
+to	O
+make	O
+his	O
+friends	O
+laugh	O
+at	O
+him	O
+at	O
+oxford	B-LOCATION
+.	O
+
+# id = litbank-0796
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -290,7 +397,51 @@ opium-tainted	O
 cigarette	O
 .	O
 
-# id = litbank-0671
+# id = litbank-0797
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = a portrait like this would set you far above all the young men in england , and make the old men quite jealous , if old men are ever capable of any emotion . "
+a	O
+portrait	O
+like	O
+this	O
+would	O
+set	O
+you	O
+far	O
+above	O
+all	O
+the	O
+young	O
+men	O
+in	O
+england	B-LOCATION
+,	O
+and	O
+make	O
+the	O
+old	O
+men	O
+quite	O
+jealous	O
+,	O
+if	O
+old	O
+men	O
+are	O
+ever	O
+capable	O
+of	O
+any	O
+emotion	O
+.	O
+"	O
+
+# id = litbank-0798
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -310,7 +461,7 @@ and	O
 laughed	O
 .	O
 
-# id = litbank-0672
+# id = litbank-0799
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -373,7 +524,7 @@ and	O
 rose-leaves	O
 .	O
 
-# id = litbank-0673
+# id = litbank-0800
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -409,7 +560,7 @@ all	O
 that	O
 .	O
 
-# id = litbank-0674
+# id = litbank-0801
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -435,7 +586,7 @@ him	O
 .	O
 "	O
 
-# id = litbank-0675
+# id = litbank-0802
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -458,7 +609,7 @@ the	O
 artist	O
 .	O
 
-# id = litbank-0676
+# id = litbank-0803
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -513,7 +664,7 @@ terribly	O
 .	O
 "	O
 
-# id = litbank-0677
+# id = litbank-0804
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -526,7 +677,7 @@ dorian	B-CHARACTER
 gray	I-CHARACTER
 ?	O
 
-# id = litbank-0678
+# id = litbank-0805
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -547,7 +698,7 @@ basil	B-CHARACTER
 hallward	I-CHARACTER
 .	O
 
-# id = litbank-0679
+# id = litbank-0806
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -575,7 +726,7 @@ dear	O
 basil	B-CHARACTER
 .	O
 
-# id = litbank-0680
+# id = litbank-0807
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -613,7 +764,7 @@ the	O
 garden	O
 .	O
 
-# id = litbank-0681
+# id = litbank-0808
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -675,7 +826,7 @@ laurel	O
 bush	O
 .	O
 
-# id = litbank-0682
+# id = litbank-0809
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -695,7 +846,7 @@ his	O
 watch	O
 .	O
 
-# id = litbank-0683
+# id = litbank-0810
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -741,7 +892,7 @@ ago	O
 .	O
 "	O
 
-# id = litbank-0684
+# id = litbank-0811
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -758,7 +909,7 @@ harry	B-CHARACTER
 .	O
 "	O
 
-# id = litbank-0685
+# id = litbank-0812
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -784,7 +935,7 @@ gray	I-CHARACTER
 picture	O
 .	O
 
-# id = litbank-0686
+# id = litbank-0813
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -828,7 +979,7 @@ the	O
 sitter	O
 .	O
 
-# id = litbank-0687
+# id = litbank-0814
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -841,7 +992,7 @@ henry	I-CHARACTER
 laughed	O
 .	O
 
-# id = litbank-0688
+# id = litbank-0815
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -870,7 +1021,7 @@ his	O
 face	O
 .	O
 
-# id = litbank-0662
+# id = litbank-0784
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -929,7 +1080,7 @@ pink-flowering	O
 thorn	O
 .	O
 
-# id = litbank-0664
+# id = litbank-0786
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -976,31 +1127,7 @@ more	O
 oppressive	O
 .	O
 
-# id = litbank-0665
-# source = LitBank
-# book = The Picture of Dorian Gray
-# book_id = 174_the_picture_of_dorian_gray
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
-# text = the dim roar of london was like the bourdon note of a distant organ .
-the	O
-dim	O
-roar	O
-of	O
-london	O
-was	O
-like	O
-the	O
-bourdon	O
-note	O
-of	O
-a	O
-distant	O
-organ	O
-.	O
-
-# id = litbank-0667
+# id = litbank-0789
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -1044,7 +1171,7 @@ linger	O
 there	O
 .	O
 
-# id = litbank-0668
+# id = litbank-0790
 # source = LitBank
 # book = The Picture of Dorian Gray
 # book_id = 174_the_picture_of_dorian_gray
@@ -1089,5 +1216,23 @@ feared	O
 he	O
 might	O
 awake	O
+.	O
+
+# id = litbank-0793
+# source = LitBank
+# book = The Picture of Dorian Gray
+# book_id = 174_the_picture_of_dorian_gray
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/174_the_picture_of_dorian_gray_brat.tsv
+# text = the academy is too large and too vulgar .
+the	O
+academy	O
+is	O
+too	O
+large	O
+and	O
+too	O
+vulgar	O
 .	O
 

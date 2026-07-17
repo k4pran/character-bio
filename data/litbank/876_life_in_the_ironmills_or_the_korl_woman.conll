@@ -1,4 +1,49 @@
-# id = litbank-1315
+# id = litbank-1601
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = i open the window , and , looking out , can scarcely see through the rain the grocer 's shop opposite , where a crowd of drunken irishmen are puffing lynchburg tobacco in their pipes .
+i	O
+open	O
+the	O
+window	O
+,	O
+and	O
+,	O
+looking	O
+out	O
+,	O
+can	O
+scarcely	O
+see	O
+through	O
+the	O
+rain	O
+the	O
+grocer	O
+'s	O
+shop	O
+opposite	O
+,	O
+where	O
+a	O
+crowd	O
+of	O
+drunken	O
+irishmen	O
+are	O
+puffing	O
+lynchburg	B-LOCATION
+tobacco	O
+in	O
+their	O
+pipes	O
+.	O
+
+# id = litbank-1604
 # source = LitBank
 # book = Life in the Iron-Mills
 # book_id = 876_life_in_the_ironmills_or_the_korl_woman
@@ -43,7 +88,38 @@ hugh	B-CHARACTER
 wolfe	I-CHARACTER
 .	O
 
-# id = litbank-1316
+# id = litbank-1605
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = they took the great order for the lower virginia railroads there last winter ; run usually with about a thousand men .
+they	O
+took	O
+the	O
+great	O
+order	O
+for	O
+the	O
+lower	O
+virginia	B-LOCATION
+railroads	O
+there	O
+last	O
+winter	O
+;	O
+run	O
+usually	O
+with	O
+about	O
+a	O
+thousand	O
+men	O
+.	O
+
+# id = litbank-1606
 # source = LitBank
 # book = Life in the Iron-Mills
 # book_id = 876_life_in_the_ironmills_or_the_korl_woman
@@ -74,7 +150,7 @@ these	O
 furnace-hands	O
 .	O
 
-# id = litbank-1317
+# id = litbank-1607
 # source = LitBank
 # book = Life in the Iron-Mills
 # book_id = 876_life_in_the_ironmills_or_the_korl_woman
@@ -125,7 +201,54 @@ the	O
 cotton-mills	O
 .	O
 
-# id = litbank-1318
+# id = litbank-1608
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = “ good-night , deb , ” said one , a mulatto , steadying herself against the gas-post .
+“	O
+good-night	O
+,	O
+deb	B-LOCATION
+,	O
+”	O
+said	O
+one	O
+,	O
+a	O
+mulatto	O
+,	O
+steadying	O
+herself	O
+against	O
+the	O
+gas-post	O
+.	O
+
+# id = litbank-1609
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = “ dah 's a ball to miss potts ' to-night .
+“	O
+dah	O
+'s	O
+a	O
+ball	O
+to	O
+miss	O
+potts	B-LOCATION
+'	O
+to-night	O
+.	O
+
+# id = litbank-1610
 # source = LitBank
 # book = Life in the Iron-Mills
 # book_id = 876_life_in_the_ironmills_or_the_korl_woman
@@ -159,7 +282,7 @@ the	O
 crowd	O
 .	O
 
-# id = litbank-1319
+# id = litbank-1611
 # source = LitBank
 # book = Life in the Iron-Mills
 # book_id = 876_life_in_the_ironmills_or_the_korl_woman
@@ -176,7 +299,7 @@ then	O
 ?	O
 ”	O
 
-# id = litbank-1320
+# id = litbank-1612
 # source = LitBank
 # book = Life in the Iron-Mills
 # book_id = 876_life_in_the_ironmills_or_the_korl_woman
@@ -189,7 +312,7 @@ deb	B-CHARACTER
 alone	O
 !	O
 
-# id = litbank-1321
+# id = litbank-1613
 # source = LitBank
 # book = Life in the Iron-Mills
 # book_id = 876_life_in_the_ironmills_or_the_korl_woman
@@ -219,7 +342,7 @@ t	O
 !	O
 ”	O
 
-# id = litbank-1322
+# id = litbank-1614
 # source = LitBank
 # book = Life in the Iron-Mills
 # book_id = 876_life_in_the_ironmills_or_the_korl_woman
@@ -260,7 +383,7 @@ staggered	O
 away	O
 .	O
 
-# id = litbank-1323
+# id = litbank-1615
 # source = LitBank
 # book = Life in the Iron-Mills
 # book_id = 876_life_in_the_ironmills_or_the_korl_woman
@@ -302,7 +425,7 @@ the	O
 room	O
 .	O
 
-# id = litbank-1324
+# id = litbank-1616
 # source = LitBank
 # book = Life in the Iron-Mills
 # book_id = 876_life_in_the_ironmills_or_the_korl_woman
@@ -327,7 +450,7 @@ torn	O
 horse-blanket	O
 .	O
 
-# id = litbank-1325
+# id = litbank-1617
 # source = LitBank
 # book = Life in the Iron-Mills
 # book_id = 876_life_in_the_ironmills_or_the_korl_woman
@@ -360,7 +483,7 @@ more	O
 watery	O
 .	O
 
-# id = litbank-1310
+# id = litbank-1598
 # source = LitBank
 # book = Life in the Iron-Mills
 # book_id = 876_life_in_the_ironmills_or_the_korl_woman
@@ -385,7 +508,7 @@ of	O
 iron-works	O
 ?	O
 
-# id = litbank-1311
+# id = litbank-1599
 # source = LitBank
 # book = Life in the Iron-Mills
 # book_id = 876_life_in_the_ironmills_or_the_korl_woman
@@ -407,7 +530,7 @@ flat	O
 immovable	O
 .	O
 
-# id = litbank-1312
+# id = litbank-1600
 # source = LitBank
 # book = Life in the Iron-Mills
 # book_id = 876_life_in_the_ironmills_or_the_korl_woman
@@ -430,52 +553,7 @@ human	O
 beings	O
 .	O
 
-# id = litbank-1313
-# source = LitBank
-# book = Life in the Iron-Mills
-# book_id = 876_life_in_the_ironmills_or_the_korl_woman
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
-# text = i open the window , and , looking out , can scarcely see through the rain the grocer 's shop opposite , where a crowd of drunken irishmen are puffing lynchburg tobacco in their pipes .
-i	O
-open	O
-the	O
-window	O
-,	O
-and	O
-,	O
-looking	O
-out	O
-,	O
-can	O
-scarcely	O
-see	O
-through	O
-the	O
-rain	O
-the	O
-grocer	O
-'s	O
-shop	O
-opposite	O
-,	O
-where	O
-a	O
-crowd	O
-of	O
-drunken	O
-irishmen	O
-are	O
-puffing	O
-lynchburg	O
-tobacco	O
-in	O
-their	O
-pipes	O
-.	O
-
-# id = litbank-1314
+# id = litbank-1602
 # source = LitBank
 # book = Life in the Iron-Mills
 # book_id = 876_life_in_the_ironmills_or_the_korl_woman
@@ -498,5 +576,22 @@ loose	O
 in	O
 the	O
 air	O
+.	O
+
+# id = litbank-1603
+# source = LitBank
+# book = Life in the Iron-Mills
+# book_id = 876_life_in_the_ironmills_or_the_korl_woman
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+# text = the idiosyncrasy of this town is smoke .
+the	O
+idiosyncrasy	O
+of	O
+this	O
+town	O
+is	O
+smoke	O
 .	O
 

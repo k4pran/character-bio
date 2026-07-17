@@ -1,4 +1,23 @@
-# id = litbank-0793
+# id = litbank-0969
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = stone gate , worcester , massachusetts , december 27 .
+stone	O
+gate	O
+,	O
+worcester	B-LOCATION
+,	O
+massachusetts	B-LOCATION
+,	O
+december	O
+27	O
+.	O
+
+# id = litbank-0970
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -15,7 +34,7 @@ is	O
 here	O
 .	O
 
-# id = litbank-0795
+# id = litbank-0972
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -62,7 +81,7 @@ the	O
 money	O
 ?	O
 
-# id = litbank-0796
+# id = litbank-0973
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -85,7 +104,7 @@ orphan	O
 asylum	O
 !	O
 
-# id = litbank-0800
+# id = litbank-0977
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -110,7 +129,7 @@ through	O
 you	O
 !	O
 
-# id = litbank-0801
+# id = litbank-0979
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -137,7 +156,37 @@ left	O
 college	O
 ?	O
 
-# id = litbank-0802
+# id = litbank-0980
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = she ought to be doing something useful instead of frittering her time away in the petty social life of worcester .
+she	O
+ought	O
+to	O
+be	O
+doing	O
+something	O
+useful	O
+instead	O
+of	O
+frittering	O
+her	O
+time	O
+away	O
+in	O
+the	O
+petty	O
+social	O
+life	O
+of	O
+worcester	B-LOCATION
+.	O
+
+# id = litbank-0981
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -174,7 +223,7 @@ like	O
 politicians	O
 .	O
 
-# id = litbank-0803
+# id = litbank-0982
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -196,7 +245,7 @@ home	O
 .	O
 "	O
 
-# id = litbank-0804
+# id = litbank-0983
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -254,7 +303,57 @@ women	O
 lead	O
 .	O
 
-# id = litbank-0805
+# id = litbank-0984
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = please tell your moral husband that i took his words deeply to heart , and that ever since my return to worcester i have been spending one afternoon a week reading poetry with the inmates of the female inebriate asylum .
+please	O
+tell	O
+your	O
+moral	O
+husband	O
+that	O
+i	O
+took	O
+his	O
+words	O
+deeply	O
+to	O
+heart	O
+,	O
+and	O
+that	O
+ever	O
+since	O
+my	O
+return	O
+to	O
+worcester	B-LOCATION
+i	O
+have	O
+been	O
+spending	O
+one	O
+afternoon	O
+a	O
+week	O
+reading	O
+poetry	O
+with	O
+the	O
+inmates	O
+of	O
+the	O
+female	B-LOCATION
+inebriate	I-LOCATION
+asylum	I-LOCATION
+.	O
+
+# id = litbank-0985
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -307,7 +406,84 @@ jervis	B-CHARACTER
 's	O
 .	O
 
-# id = litbank-0806
+# id = litbank-0986
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = i shall be charmed , however , to accept your invitation to visit you in new york , though i must acknowledge that i am not very excited over the list of gaieties you have planned .
+i	O
+shall	O
+be	O
+charmed	O
+,	O
+however	O
+,	O
+to	O
+accept	O
+your	O
+invitation	O
+to	O
+visit	O
+you	O
+in	O
+new	B-LOCATION
+york	I-LOCATION
+,	O
+though	O
+i	O
+must	O
+acknowledge	O
+that	O
+i	O
+am	O
+not	O
+very	O
+excited	O
+over	O
+the	O
+list	O
+of	O
+gaieties	O
+you	O
+have	O
+planned	O
+.	O
+
+# id = litbank-0987
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = please substitute for the new york orphanage and the foundling hospital a few theaters and operas and a dinner or so .
+please	O
+substitute	O
+for	O
+the	O
+new	B-LOCATION
+york	I-LOCATION
+orphanage	I-LOCATION
+and	O
+the	O
+foundling	B-LOCATION
+hospital	I-LOCATION
+a	O
+few	O
+theaters	O
+and	O
+operas	O
+and	O
+a	O
+dinner	O
+or	O
+so	O
+.	O
+
+# id = litbank-0988
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -346,7 +522,7 @@ mrs.	B-CHARACTER
 lippett	I-CHARACTER
 .	O
 
-# id = litbank-0807
+# id = litbank-0989
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -371,7 +547,7 @@ sallie	B-CHARACTER
 mcbride	I-CHARACTER
 .	O
 
-# id = litbank-0808
+# id = litbank-0990
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -390,13 +566,13 @@ is	O
 to	O
 be	O
 in	O
-new	O
-york	O
+new	B-LOCATION
+york	I-LOCATION
 next	O
 week	O
 .	O
 
-# id = litbank-0809
+# id = litbank-0991
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -429,7 +605,7 @@ gone	O
 mad	O
 ?	O
 
-# id = litbank-0810
+# id = litbank-0992
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -446,7 +622,7 @@ february	O
 15	O
 .	O
 
-# id = litbank-0811
+# id = litbank-0993
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -474,7 +650,7 @@ and	O
 i	O
 .	O
 
-# id = litbank-0812
+# id = litbank-0994
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -490,7 +666,129 @@ much	O
 better	O
 .	O
 
-# id = litbank-0813
+# id = litbank-0995
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = she has limped about today , looking like a decrepit letter s , openly deploring this latest escapade on the part of her flighty mistress , and longing for the time when we shall come to our senses , and return to the parental fireside in worcester .
+she	O
+has	O
+limped	O
+about	O
+today	O
+,	O
+looking	O
+like	O
+a	O
+decrepit	O
+letter	O
+s	O
+,	O
+openly	O
+deploring	O
+this	O
+latest	O
+escapade	O
+on	O
+the	O
+part	O
+of	O
+her	O
+flighty	O
+mistress	O
+,	O
+and	O
+longing	O
+for	O
+the	O
+time	O
+when	O
+we	O
+shall	O
+come	O
+to	O
+our	O
+senses	O
+,	O
+and	O
+return	O
+to	O
+the	O
+parental	O
+fireside	O
+in	O
+worcester	B-LOCATION
+.	O
+
+# id = litbank-0996
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = if i brought her along to see that i ate nourishing food and did n't stay up all night , i might come -- temporarily ; but if i refused to bring her -- oh , dear me , i am not sure that i was ever again to cross the threshold of stone gate !
+if	O
+i	O
+brought	O
+her	O
+along	O
+to	O
+see	O
+that	O
+i	O
+ate	O
+nourishing	O
+food	O
+and	O
+did	O
+n't	O
+stay	O
+up	O
+all	O
+night	O
+,	O
+i	O
+might	O
+come	O
+--	O
+temporarily	O
+;	O
+but	O
+if	O
+i	O
+refused	O
+to	O
+bring	O
+her	O
+--	O
+oh	O
+,	O
+dear	O
+me	O
+,	O
+i	O
+am	O
+not	O
+sure	O
+that	O
+i	O
+was	O
+ever	O
+again	O
+to	O
+cross	O
+the	O
+threshold	O
+of	O
+stone	B-LOCATION
+gate	I-LOCATION
+!	O
+
+# id = litbank-0997
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -549,7 +847,7 @@ almost	O
 collapsed	O
 .	O
 
-# id = litbank-0814
+# id = litbank-0998
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -600,7 +898,7 @@ an	O
 asylum	O
 .	O
 
-# id = litbank-0815
+# id = litbank-0999
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -615,7 +913,7 @@ dinner	O
 ready	O
 .	O
 
-# id = litbank-0816
+# id = litbank-1000
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -676,7 +974,7 @@ girl	O
 here	O
 .	O
 
-# id = litbank-0817
+# id = litbank-1001
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -723,7 +1021,7 @@ kindergarten	O
 teacher	O
 .	O
 
-# id = litbank-0818
+# id = litbank-1002
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -768,7 +1066,7 @@ ice	O
 statue	O
 .	O
 
-# id = litbank-0819
+# id = litbank-1003
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -803,7 +1101,7 @@ to	O
 bed	O
 .	O
 
-# id = litbank-0820
+# id = litbank-1004
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -819,7 +1117,7 @@ sallie	B-CHARACTER
 mcbride	I-CHARACTER
 .	O
 
-# id = litbank-0821
+# id = litbank-1005
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -840,26 +1138,7 @@ babies	O
 dormitory	O
 !	O
 
-# id = litbank-0792
-# source = LitBank
-# book = Dear Enemy
-# book_id = 238_dear_enemy
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/238_dear_enemy_brat.tsv
-# text = stone gate , worcester , massachusetts , december 27 .
-stone	O
-gate	O
-,	O
-worcester	O
-,	O
-massachusetts	O
-,	O
-december	O
-27	O
-.	O
-
-# id = litbank-0794
+# id = litbank-0971
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -878,7 +1157,7 @@ with	O
 amazement	O
 .	O
 
-# id = litbank-0797
+# id = litbank-0974
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -918,7 +1197,7 @@ fevered	O
 imaginations	O
 ?	O
 
-# id = litbank-0798
+# id = litbank-0975
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -949,7 +1228,7 @@ a	O
 zoo	O
 .	O
 
-# id = litbank-0799
+# id = litbank-0976
 # source = LitBank
 # book = Dear Enemy
 # book_id = 238_dear_enemy
@@ -967,4 +1246,30 @@ interesting	O
 scotch	O
 doctor	O
 ?	O
+
+# id = litbank-0978
+# source = LitBank
+# book = Dear Enemy
+# book_id = 238_dear_enemy
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/238_dear_enemy_brat.tsv
+# text = i know exactly the kind of family conference that has been held about the pendleton fireside .
+i	O
+know	O
+exactly	O
+the	O
+kind	O
+of	O
+family	O
+conference	O
+that	O
+has	O
+been	O
+held	O
+about	O
+the	O
+pendleton	O
+fireside	O
+.	O
 

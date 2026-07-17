@@ -1,5 +1,9 @@
 {
   "0": "O",
   "1": "B-CHARACTER",
-  "2": "I-CHARACTER"
+  "2": "I-CHARACTER",
+  "3": "B-LOCATION",
+  "4": "I-LOCATION",
+  "5": "B-QUOTE",
+  "6": "I-QUOTE"
 }

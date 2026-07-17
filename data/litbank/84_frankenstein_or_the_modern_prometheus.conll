@@ -1,4 +1,4 @@
-# id = litbank-0378
+# id = litbank-0438
 # source = LitBank
 # book = Frankenstein; Or, The Modern Prometheus
 # book_id = 84_frankenstein_or_the_modern_prometheus
@@ -8,8 +8,8 @@
 # text = letter 1 st. petersburgh , dec. 11th , 17 -- to mrs. saville , england you will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings .
 letter	O
 1	O
-st.	O
-petersburgh	O
+st.	B-LOCATION
+petersburgh	I-LOCATION
 ,	O
 dec.	O
 11th	O
@@ -20,7 +20,7 @@ to	O
 mrs.	B-CHARACTER
 saville	I-CHARACTER
 ,	O
-england	O
+england	B-LOCATION
 you	O
 will	O
 rejoice	O
@@ -46,7 +46,55 @@ evil	O
 forebodings	O
 .	O
 
-# id = litbank-0384
+# id = litbank-0440
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = i am already far north of london , and as i walk in the streets of petersburgh , i feel a cold northern breeze play upon my cheeks , which braces my nerves and fills me with delight .
+i	O
+am	O
+already	O
+far	O
+north	O
+of	O
+london	B-LOCATION
+,	O
+and	O
+as	O
+i	O
+walk	O
+in	O
+the	O
+streets	O
+of	O
+petersburgh	B-LOCATION
+,	O
+i	O
+feel	O
+a	O
+cold	O
+northern	O
+breeze	O
+play	O
+upon	O
+my	O
+cheeks	O
+,	O
+which	O
+braces	O
+my	O
+nerves	O
+and	O
+fills	O
+me	O
+with	O
+delight	O
+.	O
+
+# id = litbank-0444
 # source = LitBank
 # book = Frankenstein; Or, The Modern Prometheus
 # book_id = 84_frankenstein_or_the_modern_prometheus
@@ -78,7 +126,49 @@ perpetual	O
 splendour	O
 .	O
 
-# id = litbank-0385
+# id = litbank-0446
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = i have read with ardour the accounts of the various voyages which have been made in the prospect of arriving at the north pacific ocean through the seas which surround the pole .
+i	O
+have	O
+read	O
+with	O
+ardour	O
+the	O
+accounts	O
+of	O
+the	O
+various	O
+voyages	O
+which	O
+have	O
+been	O
+made	O
+in	O
+the	O
+prospect	O
+of	O
+arriving	O
+at	O
+the	O
+north	B-LOCATION
+pacific	I-LOCATION
+ocean	I-LOCATION
+through	O
+the	O
+seas	O
+which	O
+surround	O
+the	O
+pole	O
+.	O
+
+# id = litbank-0447
 # source = LitBank
 # book = Frankenstein; Or, The Modern Prometheus
 # book_id = 84_frankenstein_or_the_modern_prometheus
@@ -113,7 +203,7 @@ thomas	I-CHARACTER
 library	O
 .	O
 
-# id = litbank-0386
+# id = litbank-0448
 # source = LitBank
 # book = Frankenstein; Or, The Modern Prometheus
 # book_id = 84_frankenstein_or_the_modern_prometheus
@@ -138,7 +228,53 @@ great	O
 purpose	O
 ?	O
 
-# id = litbank-0387
+# id = litbank-0449
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = this is the most favourable period for travelling in russia .
+this	O
+is	O
+the	O
+most	O
+favourable	O
+period	O
+for	O
+travelling	O
+in	O
+russia	B-LOCATION
+.	O
+
+# id = litbank-0450
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = i have no ambition to lose my life on the post-road between st. petersburgh and archangel .
+i	O
+have	O
+no	O
+ambition	O
+to	O
+lose	O
+my	O
+life	O
+on	O
+the	O
+post-road	O
+between	O
+st.	B-LOCATION
+petersburgh	I-LOCATION
+and	O
+archangel	B-LOCATION
+.	O
+
+# id = litbank-0451
 # source = LitBank
 # book = Frankenstein; Or, The Modern Prometheus
 # book_id = 84_frankenstein_or_the_modern_prometheus
@@ -155,7 +291,7 @@ excellent	O
 margaret	B-CHARACTER
 .	O
 
-# id = litbank-0388
+# id = litbank-0452
 # source = LitBank
 # book = Frankenstein; Or, The Modern Prometheus
 # book_id = 84_frankenstein_or_the_modern_prometheus
@@ -171,7 +307,7 @@ r.	B-CHARACTER
 walton	I-CHARACTER
 letter	O
 2	O
-archangel	O
+archangel	B-LOCATION
 ,	O
 28th	O
 march	O
@@ -182,7 +318,7 @@ to	O
 mrs.	B-CHARACTER
 saville	I-CHARACTER
 ,	O
-england	O
+england	B-LOCATION
 how	O
 slowly	O
 the	O
@@ -200,7 +336,7 @@ and	O
 snow	O
 !	O
 
-# id = litbank-0389
+# id = litbank-0453
 # source = LitBank
 # book = Frankenstein; Or, The Modern Prometheus
 # book_id = 84_frankenstein_or_the_modern_prometheus
@@ -284,7 +420,7 @@ in	O
 dejection	O
 .	O
 
-# id = litbank-0390
+# id = litbank-0454
 # source = LitBank
 # book = Frankenstein; Or, The Modern Prometheus
 # book_id = 84_frankenstein_or_the_modern_prometheus
@@ -333,7 +469,45 @@ of	O
 voyages	O
 .	O
 
-# id = litbank-0379
+# id = litbank-0455
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = well , these are useless complaints ; i shall certainly find no friend on the wide ocean , nor even here in archangel , among merchants and seamen .
+well	O
+,	O
+these	O
+are	O
+useless	O
+complaints	O
+;	O
+i	O
+shall	O
+certainly	O
+find	O
+no	O
+friend	O
+on	O
+the	O
+wide	O
+ocean	O
+,	O
+nor	O
+even	O
+here	O
+in	O
+archangel	B-LOCATION
+,	O
+among	O
+merchants	O
+and	O
+seamen	O
+.	O
+
+# id = litbank-0439
 # source = LitBank
 # book = Frankenstein; Or, The Modern Prometheus
 # book_id = 84_frankenstein_or_the_modern_prometheus
@@ -370,55 +544,7 @@ my	O
 undertaking	O
 .	O
 
-# id = litbank-0380
-# source = LitBank
-# book = Frankenstein; Or, The Modern Prometheus
-# book_id = 84_frankenstein_or_the_modern_prometheus
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
-# text = i am already far north of london , and as i walk in the streets of petersburgh , i feel a cold northern breeze play upon my cheeks , which braces my nerves and fills me with delight .
-i	O
-am	O
-already	O
-far	O
-north	O
-of	O
-london	O
-,	O
-and	O
-as	O
-i	O
-walk	O
-in	O
-the	O
-streets	O
-of	O
-petersburgh	O
-,	O
-i	O
-feel	O
-a	O
-cold	O
-northern	O
-breeze	O
-play	O
-upon	O
-my	O
-cheeks	O
-,	O
-which	O
-braces	O
-my	O
-nerves	O
-and	O
-fills	O
-me	O
-with	O
-delight	O
-.	O
-
-# id = litbank-0381
+# id = litbank-0441
 # source = LitBank
 # book = Frankenstein; Or, The Modern Prometheus
 # book_id = 84_frankenstein_or_the_modern_prometheus
@@ -451,7 +577,7 @@ icy	O
 climes	O
 .	O
 
-# id = litbank-0382
+# id = litbank-0442
 # source = LitBank
 # book = Frankenstein; Or, The Modern Prometheus
 # book_id = 84_frankenstein_or_the_modern_prometheus
@@ -475,7 +601,7 @@ and	O
 vivid	O
 .	O
 
-# id = litbank-0383
+# id = litbank-0443
 # source = LitBank
 # book = Frankenstein; Or, The Modern Prometheus
 # book_id = 84_frankenstein_or_the_modern_prometheus
@@ -515,5 +641,70 @@ of	O
 beauty	O
 and	O
 delight	O
+.	O
+
+# id = litbank-0445
+# source = LitBank
+# book = Frankenstein; Or, The Modern Prometheus
+# book_id = 84_frankenstein_or_the_modern_prometheus
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/84_frankenstein_or_the_modern_prometheus_brat.tsv
+# text = there -- for with your leave , my sister , i will put some trust in preceding navigators -- there snow and frost are banished ; and , sailing over a calm sea , we may be wafted to a land surpassing in wonders and in beauty every region hitherto discovered on the habitable globe .
+there	O
+--	O
+for	O
+with	O
+your	O
+leave	O
+,	O
+my	O
+sister	O
+,	O
+i	O
+will	O
+put	O
+some	O
+trust	O
+in	O
+preceding	O
+navigators	O
+--	O
+there	O
+snow	O
+and	O
+frost	O
+are	O
+banished	O
+;	O
+and	O
+,	O
+sailing	O
+over	O
+a	O
+calm	O
+sea	O
+,	O
+we	O
+may	O
+be	O
+wafted	O
+to	O
+a	O
+land	O
+surpassing	O
+in	O
+wonders	O
+and	O
+in	O
+beauty	O
+every	O
+region	O
+hitherto	O
+discovered	O
+on	O
+the	O
+habitable	O
+globe	O
 .	O
 

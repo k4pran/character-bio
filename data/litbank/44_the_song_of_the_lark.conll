@@ -1,4 +1,4 @@
-# id = litbank-0134
+# id = litbank-0160
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -39,10 +39,10 @@ be	O
 staying	O
 overnight	O
 in	O
-moonstone	O
+moonstone	B-LOCATION
 .	O
 
-# id = litbank-0136
+# id = litbank-0162
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -79,7 +79,7 @@ the	O
 study	O
 .	O
 
-# id = litbank-0141
+# id = litbank-0167
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -103,7 +103,7 @@ the	O
 doctor	O
 in	O
 small	O
-colorado	O
+colorado	B-LOCATION
 towns	O
 twenty-five	O
 years	O
@@ -113,7 +113,7 @@ generally	O
 young	O
 .	O
 
-# id = litbank-0142
+# id = litbank-0168
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -128,7 +128,44 @@ barely	O
 thirty	O
 .	O
 
-# id = litbank-0143
+# id = litbank-0169
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = he wore a blue suit of woolly , wide-waled serge ; the traveling men had known at a glance that it was made by a denver tailor .
+he	O
+wore	O
+a	O
+blue	O
+suit	O
+of	O
+woolly	O
+,	O
+wide-waled	O
+serge	O
+;	O
+the	O
+traveling	O
+men	O
+had	O
+known	O
+at	O
+a	O
+glance	O
+that	O
+it	O
+was	O
+made	O
+by	O
+a	O
+denver	B-LOCATION
+tailor	O
+.	O
+
+# id = litbank-0170
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -156,7 +193,7 @@ his	O
 desk	O
 .	O
 
-# id = litbank-0144
+# id = litbank-0171
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -177,7 +214,7 @@ doctor	O
 carelessly	O
 .	O
 
-# id = litbank-0145
+# id = litbank-0172
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -197,7 +234,7 @@ evening	O
 .	O
 ”	O
 
-# id = litbank-0146
+# id = litbank-0173
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -218,7 +255,7 @@ his	O
 brows	O
 .	O
 
-# id = litbank-0147
+# id = litbank-0174
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -238,7 +275,7 @@ are	O
 there	O
 .	O
 
-# id = litbank-0148
+# id = litbank-0175
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -265,7 +302,34 @@ the	O
 street	O
 .	O
 
-# id = litbank-0149
+# id = litbank-0176
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = the air was so clear that the white sand hills to the east of moonstone gleamed softly .
+the	O
+air	O
+was	O
+so	O
+clear	O
+that	O
+the	O
+white	O
+sand	O
+hills	O
+to	O
+the	O
+east	O
+of	O
+moonstone	B-LOCATION
+gleamed	O
+softly	O
+.	O
+
+# id = litbank-0177
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -304,7 +368,7 @@ whistled	O
 softly	O
 .	O
 
-# id = litbank-0150
+# id = litbank-0178
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -362,7 +426,33 @@ admirably	O
 unaided	O
 .	O
 
-# id = litbank-0151
+# id = litbank-0179
+# source = LitBank
+# book = The Song of the Lark
+# book_id = 44_the_song_of_the_lark
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/44_the_song_of_the_lark_brat.tsv
+# text = he wished he had gone down to denver to hear fay templeton sing “ see-saw . ”
+he	O
+wished	O
+he	O
+had	O
+gone	O
+down	O
+to	O
+denver	B-LOCATION
+to	O
+hear	O
+fay	O
+templeton	O
+sing	O
+“	O
+see-saw	O
+.	O
+”	O
+
+# id = litbank-0180
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -384,7 +474,7 @@ grew	O
 brisker	O
 .	O
 
-# id = litbank-0152
+# id = litbank-0181
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -407,7 +497,7 @@ producing	O
 some	O
 .	O
 
-# id = litbank-0153
+# id = litbank-0182
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -430,7 +520,7 @@ home	O
 again	O
 .	O
 
-# id = litbank-0154
+# id = litbank-0183
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -458,7 +548,7 @@ the	O
 living-room	O
 .	O
 
-# id = litbank-0155
+# id = litbank-0184
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -495,7 +585,7 @@ that	O
 house	O
 .	O
 
-# id = litbank-0156
+# id = litbank-0185
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -534,7 +624,7 @@ going	O
 home	O
 .	O
 
-# id = litbank-0157
+# id = litbank-0186
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -566,7 +656,7 @@ kitchen	O
 stove	O
 .	O
 
-# id = litbank-0158
+# id = litbank-0187
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -585,7 +675,7 @@ his	O
 fingers	O
 .	O
 
-# id = litbank-0159
+# id = litbank-0188
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -600,7 +690,7 @@ be	O
 thea	B-CHARACTER
 .	O
 
-# id = litbank-0160
+# id = litbank-0189
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -624,7 +714,7 @@ eh	O
 doctor	O
 ?	O
 
-# id = litbank-0161
+# id = litbank-0190
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -650,7 +740,7 @@ his	O
 thermometer	O
 .	O
 
-# id = litbank-0162
+# id = litbank-0191
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -671,7 +761,7 @@ his	O
 watch	O
 .	O
 
-# id = litbank-0163
+# id = litbank-0192
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -698,7 +788,7 @@ his	O
 son	O
 .	O
 
-# id = litbank-0164
+# id = litbank-0193
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -729,7 +819,7 @@ in	O
 there	O
 .	O
 
-# id = litbank-0135
+# id = litbank-0161
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -751,7 +841,7 @@ drug	O
 store	O
 .	O
 
-# id = litbank-0137
+# id = litbank-0163
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -800,7 +890,7 @@ no	O
 stove	O
 .	O
 
-# id = litbank-0138
+# id = litbank-0164
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -824,7 +914,7 @@ country	O
 parlor	O
 .	O
 
-# id = litbank-0139
+# id = litbank-0165
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark
@@ -852,7 +942,7 @@ about	O
 it	O
 .	O
 
-# id = litbank-0140
+# id = litbank-0166
 # source = LitBank
 # book = The Song of the Lark
 # book_id = 44_the_song_of_the_lark

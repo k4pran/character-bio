@@ -1,4 +1,4 @@
-# id = litbank-2382
+# id = litbank-2900
 # source = LitBank
 # book = The Quest of the Silver Fleece
 # book_id = 15265_the_quest_of_the_silver_fleece_a_novel
@@ -31,7 +31,20 @@ and	O
 empty	O
 !	O
 
-# id = litbank-2383
+# id = litbank-2901
+# source = LitBank
+# book = The Quest of the Silver Fleece
+# book_id = 15265_the_quest_of_the_silver_fleece_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/15265_the_quest_of_the_silver_fleece_a_novel_brat.tsv
+# text = " georgia . "
+"	O
+georgia	B-LOCATION
+.	O
+"	O
+
+# id = litbank-2902
 # source = LitBank
 # book = The Quest of the Silver Fleece
 # book_id = 15265_the_quest_of_the_silver_fleece_a_novel
@@ -47,7 +60,23 @@ house	O
 .	O
 "	O
 
-# id = litbank-2384
+# id = litbank-2903
+# source = LitBank
+# book = The Quest of the Silver Fleece
+# book_id = 15265_the_quest_of_the_silver_fleece_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/15265_the_quest_of_the_silver_fleece_a_novel_brat.tsv
+# text = " old miss ' school . "
+"	O
+old	O
+miss	O
+'	O
+school	B-LOCATION
+.	O
+"	O
+
+# id = litbank-2904
 # source = LitBank
 # book = The Quest of the Silver Fleece
 # book_id = 15265_the_quest_of_the_silver_fleece_a_novel
@@ -63,7 +92,7 @@ school	O
 ?	O
 "	O
 
-# id = litbank-2377
+# id = litbank-2895
 # source = LitBank
 # book = The Quest of the Silver Fleece
 # book_id = 15265_the_quest_of_the_silver_fleece_a_novel
@@ -83,7 +112,7 @@ and	O
 sullen	O
 .	O
 
-# id = litbank-2378
+# id = litbank-2896
 # source = LitBank
 # book = The Quest of the Silver Fleece
 # book_id = 15265_the_quest_of_the_silver_fleece_a_novel
@@ -127,7 +156,7 @@ black-green	O
 sky	O
 .	O
 
-# id = litbank-2379
+# id = litbank-2897
 # source = LitBank
 # book = The Quest of the Silver Fleece
 # book_id = 15265_the_quest_of_the_silver_fleece_a_novel
@@ -162,7 +191,7 @@ silence	O
 audible	O
 .	O
 
-# id = litbank-2380
+# id = litbank-2898
 # source = LitBank
 # book = The Quest of the Silver Fleece
 # book_id = 15265_the_quest_of_the_silver_fleece_a_novel
@@ -179,7 +208,7 @@ brown	O
 cheek	O
 .	O
 
-# id = litbank-2381
+# id = litbank-2899
 # source = LitBank
 # book = The Quest of the Silver Fleece
 # book_id = 15265_the_quest_of_the_silver_fleece_a_novel

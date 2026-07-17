@@ -1,4 +1,4 @@
-# id = litbank-1266
+# id = litbank-1536
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -33,7 +33,7 @@ worth	O
 while	O
 .	O
 
-# id = litbank-1267
+# id = litbank-1537
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -77,7 +77,7 @@ elder	O
 brothers	O
 ,	O
 successful	O
-chicago	O
+chicago	B-LOCATION
 brokers	O
 ,	O
 and	O
@@ -103,7 +103,7 @@ beatrice	B-CHARACTER
 o'hara	I-CHARACTER
 .	O
 
-# id = litbank-1268
+# id = litbank-1538
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -146,7 +146,7 @@ son	O
 amory	B-CHARACTER
 .	O
 
-# id = litbank-1270
+# id = litbank-1540
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -159,7 +159,109 @@ beatrice	B-CHARACTER
 blaine	I-CHARACTER
 !	O
 
-# id = litbank-1274
+# id = litbank-1541
+# source = LitBank
+# book = This Side of Paradise
+# book_id = 805_this_side_of_paradise
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/805_this_side_of_paradise_brat.tsv
+# text = early pictures taken on her father 's estate at lake geneva , wisconsin , or in rome at the sacred heart convent -- an educational extravagance that in her youth was only for the daughters of the exceptionally wealthy -- showed the exquisite delicacy of her features , the consummate art and simplicity of her clothes .
+early	O
+pictures	O
+taken	O
+on	O
+her	O
+father	O
+'s	O
+estate	O
+at	O
+lake	B-LOCATION
+geneva	I-LOCATION
+,	O
+wisconsin	B-LOCATION
+,	O
+or	O
+in	O
+rome	B-LOCATION
+at	O
+the	O
+sacred	B-LOCATION
+heart	I-LOCATION
+convent	I-LOCATION
+--	O
+an	O
+educational	O
+extravagance	O
+that	O
+in	O
+her	O
+youth	O
+was	O
+only	O
+for	O
+the	O
+daughters	O
+of	O
+the	O
+exceptionally	O
+wealthy	O
+--	O
+showed	O
+the	O
+exquisite	O
+delicacy	O
+of	O
+her	O
+features	O
+,	O
+the	O
+consummate	O
+art	O
+and	O
+simplicity	O
+of	O
+her	O
+clothes	O
+.	O
+
+# id = litbank-1543
+# source = LitBank
+# book = This Side of Paradise
+# book_id = 805_this_side_of_paradise
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/805_this_side_of_paradise_brat.tsv
+# text = she learned in england to prefer whiskey and soda to wine , and her small talk was broadened in two senses during a winter in vienna .
+she	O
+learned	O
+in	O
+england	B-LOCATION
+to	O
+prefer	O
+whiskey	O
+and	O
+soda	O
+to	O
+wine	O
+,	O
+and	O
+her	O
+small	O
+talk	O
+was	O
+broadened	O
+in	O
+two	O
+senses	O
+during	O
+a	O
+winter	O
+in	O
+vienna	B-LOCATION
+.	O
+
+# id = litbank-1544
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -239,7 +341,7 @@ perfect	O
 bud	O
 .	O
 
-# id = litbank-1275
+# id = litbank-1545
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -255,7 +357,7 @@ moments	O
 she	O
 returned	O
 to	O
-america	O
+america	B-LOCATION
 ,	O
 met	O
 stephen	B-CHARACTER
@@ -281,7 +383,7 @@ bit	O
 sad	O
 .	O
 
-# id = litbank-1276
+# id = litbank-1547
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -303,7 +405,72 @@ for	O
 her	O
 .	O
 
-# id = litbank-1277
+# id = litbank-1549
+# source = LitBank
+# book = This Side of Paradise
+# book_id = 805_this_side_of_paradise
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/805_this_side_of_paradise_brat.tsv
+# text = from his fourth to his tenth year he did the country with his mother in her father 's private car , from coronado , where his mother became so bored that she had a nervous breakdown in a fashionable hotel , down to mexico city , where she took a mild , almost epidemic consumption .
+from	O
+his	O
+fourth	O
+to	O
+his	O
+tenth	O
+year	O
+he	O
+did	O
+the	O
+country	O
+with	O
+his	O
+mother	O
+in	O
+her	O
+father	O
+'s	O
+private	O
+car	O
+,	O
+from	O
+coronado	B-LOCATION
+,	O
+where	O
+his	O
+mother	O
+became	O
+so	O
+bored	O
+that	O
+she	O
+had	O
+a	O
+nervous	O
+breakdown	O
+in	O
+a	O
+fashionable	O
+hotel	O
+,	O
+down	O
+to	O
+mexico	B-LOCATION
+city	I-LOCATION
+,	O
+where	O
+she	O
+took	O
+a	O
+mild	O
+,	O
+almost	O
+epidemic	O
+consumption	O
+.	O
+
+# id = litbank-1550
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -328,7 +495,7 @@ on	O
 the	O
 beach	O
 at	O
-newport	O
+newport	B-LOCATION
 ,	O
 or	O
 being	O
@@ -350,7 +517,7 @@ or	O
 frank	B-CHARACTER
 on	O
 the	O
-mississippi	O
+mississippi	B-LOCATION
 ,	O
 ”	O
 amory	B-CHARACTER
@@ -360,7 +527,7 @@ acquiescent	O
 bell-boys	O
 in	O
 the	O
-waldorf	O
+waldorf	B-LOCATION
 ,	O
 outgrowing	O
 a	O
@@ -383,7 +550,7 @@ his	O
 mother	O
 .	O
 
-# id = litbank-1278
+# id = litbank-1551
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -398,7 +565,7 @@ beatrice	B-CHARACTER
 .	O
 ”	O
 
-# id = litbank-1279
+# id = litbank-1552
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -416,7 +583,7 @@ up	O
 .	O
 ”	O
 
-# id = litbank-1280
+# id = litbank-1553
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -461,7 +628,7 @@ bernhardt	O
 's	O
 .	O
 
-# id = litbank-1281
+# id = litbank-1554
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -485,7 +652,7 @@ his	O
 mother	O
 .	O
 
-# id = litbank-1282
+# id = litbank-1555
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -498,7 +665,49 @@ amory	B-CHARACTER
 .	O
 ”	O
 
-# id = litbank-1283
+# id = litbank-1556
+# source = LitBank
+# book = This Side of Paradise
+# book_id = 805_this_side_of_paradise
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/805_this_side_of_paradise_brat.tsv
+# text = one afternoon , when left alone in the hotel at hot springs , he sampled his mother 's apricot cordial , and as the taste pleased him , he became quite tipsy .
+one	O
+afternoon	O
+,	O
+when	O
+left	O
+alone	O
+in	O
+the	O
+hotel	O
+at	O
+hot	B-LOCATION
+springs	I-LOCATION
+,	O
+he	O
+sampled	O
+his	O
+mother	O
+'s	O
+apricot	O
+cordial	O
+,	O
+and	O
+as	O
+the	O
+taste	O
+pleased	O
+him	O
+,	O
+he	O
+became	O
+quite	O
+tipsy	O
+.	O
+
+# id = litbank-1557
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -536,7 +745,7 @@ line	O
 .	O
 ”	O
 
-# id = litbank-1284
+# id = litbank-1558
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -577,7 +786,7 @@ barbara	B-CHARACTER
 ...	O
 .	O
 
-# id = litbank-1285
+# id = litbank-1559
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -613,7 +822,7 @@ a	O
 physician	O
 .	O
 
-# id = litbank-1286
+# id = litbank-1560
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -657,7 +866,46 @@ totalled	O
 fourteen	O
 .	O
 
-# id = litbank-1287
+# id = litbank-1561
+# source = LitBank
+# book = This Side of Paradise
+# book_id = 805_this_side_of_paradise
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/805_this_side_of_paradise_brat.tsv
+# text = they were the blaines of lake geneva ; they had quite enough relatives to serve in place of friends , and an enviable standing from pasadena to cape cod .
+they	O
+were	O
+the	O
+blaines	O
+of	O
+lake	B-LOCATION
+geneva	I-LOCATION
+;	O
+they	O
+had	O
+quite	O
+enough	O
+relatives	O
+to	O
+serve	O
+in	O
+place	O
+of	O
+friends	O
+,	O
+and	O
+an	O
+enviable	O
+standing	O
+from	O
+pasadena	B-LOCATION
+to	O
+cape	B-LOCATION
+cod	I-LOCATION
+.	O
+
+# id = litbank-1562
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -715,7 +963,7 @@ regular	O
 intervals	O
 .	O
 
-# id = litbank-1288
+# id = litbank-1563
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -739,7 +987,7 @@ of	O
 ex-westerners	O
 .	O
 
-# id = litbank-1289
+# id = litbank-1564
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -765,7 +1013,7 @@ not	O
 southern	O
 accents	O
 or	O
-boston	O
+boston	B-LOCATION
 accents	O
 ,	O
 not	O
@@ -786,7 +1034,118 @@ became	O
 dreamy	O
 .	O
 
-# id = litbank-1290
+# id = litbank-1565
+# source = LitBank
+# book = This Side of Paradise
+# book_id = 805_this_side_of_paradise
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/805_this_side_of_paradise_brat.tsv
+# text = “ they pick up old , moth-eaten london accents that are down on their luck and have to be used by some one .
+“	O
+they	O
+pick	O
+up	O
+old	O
+,	O
+moth-eaten	O
+london	B-LOCATION
+accents	O
+that	O
+are	O
+down	O
+on	O
+their	O
+luck	O
+and	O
+have	O
+to	O
+be	O
+used	O
+by	O
+some	O
+one	O
+.	O
+
+# id = litbank-1566
+# source = LitBank
+# book = This Side of Paradise
+# book_id = 805_this_side_of_paradise
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/805_this_side_of_paradise_brat.tsv
+# text = they talk as an english butler might after several years in a chicago grand-opera company . ”
+they	O
+talk	O
+as	O
+an	O
+english	O
+butler	O
+might	O
+after	O
+several	O
+years	O
+in	O
+a	O
+chicago	B-LOCATION
+grand-opera	O
+company	O
+.	O
+”	O
+
+# id = litbank-1567
+# source = LitBank
+# book = This Side of Paradise
+# book_id = 805_this_side_of_paradise
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/805_this_side_of_paradise_brat.tsv
+# text = often she deplored the bourgeois quality of the american catholic clergy , and was quite sure that had she lived in the shadow of the great continental cathedrals her soul would still be a thin flame on the mighty altar of rome .
+often	O
+she	O
+deplored	O
+the	O
+bourgeois	O
+quality	O
+of	O
+the	O
+american	O
+catholic	O
+clergy	O
+,	O
+and	O
+was	O
+quite	O
+sure	O
+that	O
+had	O
+she	O
+lived	O
+in	O
+the	O
+shadow	O
+of	O
+the	O
+great	O
+continental	O
+cathedrals	O
+her	O
+soul	O
+would	O
+still	O
+be	O
+a	O
+thin	O
+flame	O
+on	O
+the	O
+mighty	O
+altar	O
+of	O
+rome	B-LOCATION
+.	O
+
+# id = litbank-1568
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -816,7 +1175,67 @@ of	O
 myself	O
 .	O
 
-# id = litbank-1291
+# id = litbank-1569
+# source = LitBank
+# book = This Side of Paradise
+# book_id = 805_this_side_of_paradise
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/805_this_side_of_paradise_brat.tsv
+# text = when she had first returned to her country there had been a pagan , swinburnian young man in asheville , for whose passionate kisses and unsentimental conversations she had taken a decided penchant -- they had discussed the matter pro and con with an intellectual romancing quite devoid of sappiness .
+when	O
+she	O
+had	O
+first	O
+returned	O
+to	O
+her	O
+country	O
+there	O
+had	O
+been	O
+a	O
+pagan	O
+,	O
+swinburnian	O
+young	O
+man	O
+in	O
+asheville	B-LOCATION
+,	O
+for	O
+whose	O
+passionate	O
+kisses	O
+and	O
+unsentimental	O
+conversations	O
+she	O
+had	O
+taken	O
+a	O
+decided	O
+penchant	O
+--	O
+they	O
+had	O
+discussed	O
+the	O
+matter	O
+pro	O
+and	O
+con	O
+with	O
+an	O
+intellectual	O
+romancing	O
+quite	O
+devoid	O
+of	O
+sappiness	O
+.	O
+
+# id = litbank-1570
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -838,7 +1257,7 @@ the	O
 young	O
 pagan	O
 from	O
-asheville	O
+asheville	B-LOCATION
 had	O
 gone	O
 through	O
@@ -859,7 +1278,7 @@ monsignor	B-CHARACTER
 darcy	I-CHARACTER
 .	O
 
-# id = litbank-1292
+# id = litbank-1571
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -888,7 +1307,7 @@ man	O
 .	O
 ”	O
 
-# id = litbank-1293
+# id = litbank-1572
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -928,7 +1347,7 @@ me	O
 .	O
 ”	O
 
-# id = litbank-1294
+# id = litbank-1573
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -956,7 +1375,7 @@ celtic	O
 mother	O
 .	O
 
-# id = litbank-1295
+# id = litbank-1574
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -972,7 +1391,7 @@ out	O
 from	O
 land	O
 ,	O
-italy	O
+italy	B-LOCATION
 bound	O
 ,	O
 with	O
@@ -998,9 +1417,9 @@ of	O
 frantic	O
 telegrams	O
 to	O
-europe	O
+europe	B-LOCATION
 and	O
-america	O
+america	B-LOCATION
 ,	O
 to	O
 the	O
@@ -1017,8 +1436,8 @@ around	O
 and	O
 returned	O
 to	O
-new	O
-york	O
+new	B-LOCATION
+york	I-LOCATION
 to	O
 deposit	O
 amory	B-CHARACTER
@@ -1027,7 +1446,7 @@ the	O
 pier	O
 .	O
 
-# id = litbank-1296
+# id = litbank-1575
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -1057,7 +1476,7 @@ amory	B-CHARACTER
 was	O
 left	O
 in	O
-minneapolis	O
+minneapolis	B-LOCATION
 ,	O
 destined	O
 to	O
@@ -1073,7 +1492,7 @@ and	O
 uncle	O
 .	O
 
-# id = litbank-1297
+# id = litbank-1576
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -1095,7 +1514,7 @@ read	O
 it	O
 .	O
 
-# id = litbank-1265
+# id = litbank-1535
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -1113,7 +1532,7 @@ chapter	O
 1	O
 .	O
 
-# id = litbank-1269
+# id = litbank-1539
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -1175,73 +1594,7 @@ understand	O
 her	O
 .	O
 
-# id = litbank-1271
-# source = LitBank
-# book = This Side of Paradise
-# book_id = 805_this_side_of_paradise
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/805_this_side_of_paradise_brat.tsv
-# text = early pictures taken on her father 's estate at lake geneva , wisconsin , or in rome at the sacred heart convent -- an educational extravagance that in her youth was only for the daughters of the exceptionally wealthy -- showed the exquisite delicacy of her features , the consummate art and simplicity of her clothes .
-early	O
-pictures	O
-taken	O
-on	O
-her	O
-father	O
-'s	O
-estate	O
-at	O
-lake	O
-geneva	O
-,	O
-wisconsin	O
-,	O
-or	O
-in	O
-rome	O
-at	O
-the	O
-sacred	O
-heart	O
-convent	O
---	O
-an	O
-educational	O
-extravagance	O
-that	O
-in	O
-her	O
-youth	O
-was	O
-only	O
-for	O
-the	O
-daughters	O
-of	O
-the	O
-exceptionally	O
-wealthy	O
---	O
-showed	O
-the	O
-exquisite	O
-delicacy	O
-of	O
-her	O
-features	O
-,	O
-the	O
-consummate	O
-art	O
-and	O
-simplicity	O
-of	O
-her	O
-clothes	O
-.	O
-
-# id = litbank-1272
+# id = litbank-1542
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
@@ -1308,39 +1661,73 @@ heard	O
 of	O
 .	O
 
-# id = litbank-1273
+# id = litbank-1546
 # source = LitBank
 # book = This Side of Paradise
 # book_id = 805_this_side_of_paradise
 # chapter = unknown
 # sample_type = negative
 # source_file = entities/tsv/805_this_side_of_paradise_brat.tsv
-# text = she learned in england to prefer whiskey and soda to wine , and her small talk was broadened in two senses during a winter in vienna .
-she	O
-learned	O
-in	O
-england	O
-to	O
-prefer	O
-whiskey	O
-and	O
-soda	O
-to	O
-wine	O
-,	O
-and	O
+# text = her only child was carried through a tiresome season and brought into the world on a spring day in ninety-six .
 her	O
-small	O
-talk	O
+only	O
+child	O
 was	O
-broadened	O
-in	O
-two	O
-senses	O
-during	O
+carried	O
+through	O
 a	O
-winter	O
+tiresome	O
+season	O
+and	O
+brought	O
+into	O
+the	O
+world	O
+on	O
+a	O
+spring	O
+day	O
 in	O
-vienna	O
+ninety-six	O
+.	O
+
+# id = litbank-1548
+# source = LitBank
+# book = This Side of Paradise
+# book_id = 805_this_side_of_paradise
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/805_this_side_of_paradise_brat.tsv
+# text = he was an auburn-haired boy , with great , handsome eyes which he would grow up to in time , a facile imaginative mind and a taste for fancy dress .
+he	O
+was	O
+an	O
+auburn-haired	O
+boy	O
+,	O
+with	O
+great	O
+,	O
+handsome	O
+eyes	O
+which	O
+he	O
+would	O
+grow	O
+up	O
+to	O
+in	O
+time	O
+,	O
+a	O
+facile	O
+imaginative	O
+mind	O
+and	O
+a	O
+taste	O
+for	O
+fancy	O
+dress	O
 .	O
 

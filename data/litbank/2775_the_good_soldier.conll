@@ -1,4 +1,54 @@
-# id = litbank-1820
+# id = litbank-2232
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = we had known the ashburnhams for nine seasons of the town of nauheim with an extreme intimacy -- or , rather with an acquaintanceship as loose and easy and yet as close as a good glove 's with your hand .
+we	O
+had	O
+known	O
+the	O
+ashburnhams	O
+for	O
+nine	O
+seasons	O
+of	O
+the	O
+town	O
+of	O
+nauheim	B-LOCATION
+with	O
+an	O
+extreme	O
+intimacy	O
+--	O
+or	O
+,	O
+rather	O
+with	O
+an	O
+acquaintanceship	O
+as	O
+loose	O
+and	O
+easy	O
+and	O
+yet	O
+as	O
+close	O
+as	O
+a	O
+good	O
+glove	O
+'s	O
+with	O
+your	O
+hand	O
+.	O
+
+# id = litbank-2233
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -41,7 +91,145 @@ about	O
 them	O
 .	O
 
-# id = litbank-1824
+# id = litbank-2235
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = six months ago i had never been to england , and , certainly , i had never sounded the depths of an english heart .
+six	O
+months	O
+ago	O
+i	O
+had	O
+never	O
+been	O
+to	O
+england	B-LOCATION
+,	O
+and	O
+,	O
+certainly	O
+,	O
+i	O
+had	O
+never	O
+sounded	O
+the	O
+depths	O
+of	O
+an	O
+english	O
+heart	O
+.	O
+
+# id = litbank-2237
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = living , as we perforce lived , in europe , and being , as we perforce were , leisured americans , which is as much as to say that we were un-american , we were thrown very much into the society of the nicer english .
+living	O
+,	O
+as	O
+we	O
+perforce	O
+lived	O
+,	O
+in	O
+europe	B-LOCATION
+,	O
+and	O
+being	O
+,	O
+as	O
+we	O
+perforce	O
+were	O
+,	O
+leisured	O
+americans	O
+,	O
+which	O
+is	O
+as	O
+much	O
+as	O
+to	O
+say	O
+that	O
+we	O
+were	O
+un-american	O
+,	O
+we	O
+were	O
+thrown	O
+very	O
+much	O
+into	O
+the	O
+society	O
+of	O
+the	O
+nicer	O
+english	O
+.	O
+
+# id = litbank-2238
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = paris , you see , was our home .
+paris	B-LOCATION
+,	O
+you	O
+see	O
+,	O
+was	O
+our	O
+home	O
+.	O
+
+# id = litbank-2239
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = somewhere between nice and bordighera provided yearly winter quarters for us , and nauheim always received us from july to september .
+somewhere	B-LOCATION
+between	O
+nice	B-LOCATION
+and	O
+bordighera	B-LOCATION
+provided	O
+yearly	O
+winter	O
+quarters	O
+for	O
+us	O
+,	O
+and	O
+nauheim	B-LOCATION
+always	O
+received	O
+us	O
+from	O
+july	O
+to	O
+september	O
+.	O
+
+# id = litbank-2241
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -57,7 +245,7 @@ a	O
 heart	O
 .	O
 
-# id = litbank-1825
+# id = litbank-2242
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -74,7 +262,7 @@ month	O
 or	O
 so	O
 at	O
-nauheim	O
+nauheim	B-LOCATION
 tuned	O
 him	O
 up	O
@@ -110,7 +298,7 @@ to	O
 year	O
 .	O
 
-# id = litbank-1826
+# id = litbank-2244
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -136,7 +324,7 @@ our	O
 first	O
 crossing	O
 to	O
-europe	O
+europe	B-LOCATION
 ,	O
 and	O
 the	O
@@ -154,7 +342,31 @@ doctor	O
 orders	O
 .	O
 
-# id = litbank-1827
+# id = litbank-2245
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = they said that even the short channel crossing might well kill the poor thing .
+they	O
+said	O
+that	O
+even	O
+the	O
+short	O
+channel	B-LOCATION
+crossing	O
+might	O
+well	O
+kill	O
+the	O
+poor	O
+thing	O
+.	O
+
+# id = litbank-2246
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -177,7 +389,7 @@ sick	O
 leave	O
 from	O
 an	O
-india	O
+india	B-LOCATION
 to	O
 which	O
 he	O
@@ -197,7 +409,7 @@ was	O
 thirty-one	O
 .	O
 
-# id = litbank-1828
+# id = litbank-2247
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -214,7 +426,7 @@ florence	B-CHARACTER
 thirty	O
 .	O
 
-# id = litbank-1829
+# id = litbank-2248
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -243,7 +455,62 @@ leonora	B-CHARACTER
 forty	O
 .	O
 
-# id = litbank-1830
+# id = litbank-2249
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = you will perceive , therefore , that our friendship has been a young-middle-aged affair , since we were all of us of quite quiet dispositions , the ashburnhams being more particularly what in england it is the custom to call " quite good people " .
+you	O
+will	O
+perceive	O
+,	O
+therefore	O
+,	O
+that	O
+our	O
+friendship	O
+has	O
+been	O
+a	O
+young-middle-aged	O
+affair	O
+,	O
+since	O
+we	O
+were	O
+all	O
+of	O
+us	O
+of	O
+quite	O
+quiet	O
+dispositions	O
+,	O
+the	O
+ashburnhams	O
+being	O
+more	O
+particularly	O
+what	O
+in	O
+england	B-LOCATION
+it	O
+is	O
+the	O
+custom	O
+to	O
+call	O
+"	O
+quite	O
+good	O
+people	O
+"	O
+.	O
+
+# id = litbank-2250
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -294,7 +561,7 @@ noticed	O
 it	O
 .	O
 
-# id = litbank-1831
+# id = litbank-2251
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -313,9 +580,9 @@ was	O
 a	O
 hurlbird	O
 of	O
-stamford	O
+stamford	B-LOCATION
 ,	O
-connecticut	O
+connecticut	B-LOCATION
 ,	O
 where	O
 ,	O
@@ -332,16 +599,16 @@ even	O
 the	O
 inhabitants	O
 of	O
-cranford	O
+cranford	B-LOCATION
 ,	O
-england	O
+england	B-LOCATION
 ,	O
 could	O
 have	O
 been	O
 .	O
 
-# id = litbank-1832
+# id = litbank-2252
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -355,9 +622,9 @@ am	O
 a	O
 dowell	B-CHARACTER
 of	O
-philadelphia	O
+philadelphia	B-LOCATION
 ,	O
-pa.	O
+pa.	B-LOCATION
 ,	O
 where	O
 ,	O
@@ -385,7 +652,60 @@ taken	O
 together	O
 .	O
 
-# id = litbank-1833
+# id = litbank-2253
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = i carry about with me , indeed -- as if it were the only thing that invisibly anchored me to any spot upon the globe -- the title deeds of my farm , which once covered several blocks between chestnut and walnut streets .
+i	O
+carry	O
+about	O
+with	O
+me	O
+,	O
+indeed	O
+--	O
+as	O
+if	O
+it	O
+were	O
+the	O
+only	O
+thing	O
+that	O
+invisibly	O
+anchored	O
+me	O
+to	O
+any	O
+spot	O
+upon	O
+the	O
+globe	O
+--	O
+the	O
+title	O
+deeds	O
+of	O
+my	O
+farm	O
+,	O
+which	O
+once	O
+covered	O
+several	O
+blocks	O
+between	O
+chestnut	B-LOCATION
+and	O
+walnut	B-LOCATION
+streets	I-LOCATION
+.	O
+
+# id = litbank-2254
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -413,9 +733,9 @@ dowell	B-CHARACTER
 ,	O
 who	O
 left	O
-farnham	O
+farnham	B-LOCATION
 in	O
-surrey	O
+surrey	B-LOCATION
 in	O
 company	O
 with	O
@@ -423,7 +743,7 @@ william	O
 penn	O
 .	O
 
-# id = litbank-1834
+# id = litbank-2255
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -445,24 +765,291 @@ with	O
 the	O
 inhabitants	O
 of	O
-connecticut	O
+connecticut	B-LOCATION
 ,	O
 came	O
 from	O
 the	O
 neighbourhood	O
 of	O
-fordingbridge	O
+fordingbridge	B-LOCATION
 ,	O
 where	O
 the	O
-ashburnhams	O
+ashburnhams	B-LOCATION
 '	O
 place	O
 is	O
 .	O
 
-# id = litbank-1835
+# id = litbank-2256
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = some one has said that the death of a mouse from cancer is the whole sack of rome by the goths , and i swear to you that the breaking up of our little four-square coterie was such another unthinkable event .
+some	O
+one	O
+has	O
+said	O
+that	O
+the	O
+death	O
+of	O
+a	O
+mouse	O
+from	O
+cancer	O
+is	O
+the	O
+whole	O
+sack	O
+of	O
+rome	B-LOCATION
+by	O
+the	O
+goths	O
+,	O
+and	O
+i	O
+swear	O
+to	O
+you	O
+that	O
+the	O
+breaking	O
+up	O
+of	O
+our	O
+little	O
+four-square	O
+coterie	O
+was	O
+such	O
+another	O
+unthinkable	O
+event	O
+.	O
+
+# id = litbank-2257
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = supposing that you should come upon us sitting together at one of the little tables in front of the club house , let us say , at homburg , taking tea of an afternoon and watching the miniature golf , you would have said that , as human affairs go , we were an extraordinarily safe castle .
+supposing	O
+that	O
+you	O
+should	O
+come	O
+upon	O
+us	O
+sitting	O
+together	O
+at	O
+one	O
+of	O
+the	O
+little	O
+tables	O
+in	O
+front	O
+of	O
+the	O
+club	O
+house	O
+,	O
+let	O
+us	O
+say	O
+,	O
+at	O
+homburg	B-LOCATION
+,	O
+taking	O
+tea	O
+of	O
+an	O
+afternoon	O
+and	O
+watching	O
+the	O
+miniature	O
+golf	O
+,	O
+you	O
+would	O
+have	O
+said	O
+that	O
+,	O
+as	O
+human	O
+affairs	O
+go	O
+,	O
+we	O
+were	O
+an	O
+extraordinarily	O
+safe	O
+castle	O
+.	O
+
+# id = litbank-2258
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = the mob may sack versailles ; the trianon may fall , but surely the minuet -- the minuet itself is dancing itself away into the furthest stars , even as our minuet of the hessian bathing places must be stepping itself still .
+the	O
+mob	O
+may	O
+sack	O
+versailles	B-LOCATION
+;	O
+the	O
+trianon	B-LOCATION
+may	O
+fall	O
+,	O
+but	O
+surely	O
+the	O
+minuet	O
+--	O
+the	O
+minuet	O
+itself	O
+is	O
+dancing	O
+itself	O
+away	O
+into	O
+the	O
+furthest	O
+stars	O
+,	O
+even	O
+as	O
+our	O
+minuet	O
+of	O
+the	O
+hessian	O
+bathing	O
+places	O
+must	O
+be	O
+stepping	O
+itself	O
+still	O
+.	O
+
+# id = litbank-2259
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = is n't there any nirvana pervaded by the faint thrilling of instruments that have fallen into the dust of wormwood but that yet had frail , tremulous , and everlasting souls ?
+is	O
+n't	O
+there	O
+any	O
+nirvana	B-LOCATION
+pervaded	O
+by	O
+the	O
+faint	O
+thrilling	O
+of	O
+instruments	O
+that	O
+have	O
+fallen	O
+into	O
+the	O
+dust	O
+of	O
+wormwood	O
+but	O
+that	O
+yet	O
+had	O
+frail	O
+,	O
+tremulous	O
+,	O
+and	O
+everlasting	O
+souls	O
+?	O
+
+# id = litbank-2260
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = it was n't a minuet that we stepped ; it was a prison -- a prison full of screaming hysterics , tied down so that they might not outsound the rolling of our carriage wheels as we went along the shaded avenues of the taunus wald .
+it	O
+was	O
+n't	O
+a	O
+minuet	O
+that	O
+we	O
+stepped	O
+;	O
+it	O
+was	O
+a	O
+prison	O
+--	O
+a	O
+prison	O
+full	O
+of	O
+screaming	O
+hysterics	O
+,	O
+tied	O
+down	O
+so	O
+that	O
+they	O
+might	O
+not	O
+outsound	O
+the	O
+rolling	O
+of	O
+our	O
+carriage	O
+wheels	O
+as	O
+we	O
+went	O
+along	O
+the	O
+shaded	O
+avenues	O
+of	O
+the	O
+taunus	B-LOCATION
+wald	I-LOCATION
+.	O
+
+# id = litbank-2261
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -490,7 +1077,7 @@ dear	O
 florence	B-CHARACTER
 .	O
 
-# id = litbank-1836
+# id = litbank-2262
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -584,7 +1171,7 @@ to	O
 bed	O
 .	O
 
-# id = litbank-1837
+# id = litbank-2263
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -603,7 +1190,7 @@ blame	O
 florence	B-CHARACTER
 .	O
 
-# id = litbank-1838
+# id = litbank-2264
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -641,7 +1228,7 @@ their	O
 deaths	O
 .	O
 
-# id = litbank-1839
+# id = litbank-2265
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -661,7 +1248,7 @@ our	O
 prescribed	O
 walks	O
 in	O
-nauheim	O
+nauheim	B-LOCATION
 and	O
 the	O
 neighbourhood	O
@@ -687,7 +1274,7 @@ his	O
 wife	O
 ?	O
 
-# id = litbank-1840
+# id = litbank-2266
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -719,7 +1306,7 @@ in	O
 private	O
 ?	O
 
-# id = litbank-1841
+# id = litbank-2267
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -749,7 +1336,7 @@ be	O
 true	O
 .	O
 
-# id = litbank-1818
+# id = litbank-2231
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -771,57 +1358,7 @@ ever	O
 heard	O
 .	O
 
-# id = litbank-1819
-# source = LitBank
-# book = The Good Soldier
-# book_id = 2775_the_good_soldier
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
-# text = we had known the ashburnhams for nine seasons of the town of nauheim with an extreme intimacy -- or , rather with an acquaintanceship as loose and easy and yet as close as a good glove 's with your hand .
-we	O
-had	O
-known	O
-the	O
-ashburnhams	O
-for	O
-nine	O
-seasons	O
-of	O
-the	O
-town	O
-of	O
-nauheim	O
-with	O
-an	O
-extreme	O
-intimacy	O
---	O
-or	O
-,	O
-rather	O
-with	O
-an	O
-acquaintanceship	O
-as	O
-loose	O
-and	O
-easy	O
-and	O
-yet	O
-as	O
-close	O
-as	O
-a	O
-good	O
-glove	O
-'s	O
-with	O
-your	O
-hand	O
-.	O
-
-# id = litbank-1821
+# id = litbank-2234
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -871,41 +1408,7 @@ nothing	O
 whatever	O
 .	O
 
-# id = litbank-1822
-# source = LitBank
-# book = The Good Soldier
-# book_id = 2775_the_good_soldier
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
-# text = six months ago i had never been to england , and , certainly , i had never sounded the depths of an english heart .
-six	O
-months	O
-ago	O
-i	O
-had	O
-never	O
-been	O
-to	O
-england	O
-,	O
-and	O
-,	O
-certainly	O
-,	O
-i	O
-had	O
-never	O
-sounded	O
-the	O
-depths	O
-of	O
-an	O
-english	O
-heart	O
-.	O
-
-# id = litbank-1823
+# id = litbank-2236
 # source = LitBank
 # book = The Good Soldier
 # book_id = 2775_the_good_soldier
@@ -928,5 +1431,82 @@ with	O
 many	O
 english	O
 people	O
+.	O
+
+# id = litbank-2240
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = you will gather from this statement that one of us had , as the saying is , a " heart " , and , from the statement that my wife is dead , that she was the sufferer .
+you	O
+will	O
+gather	O
+from	O
+this	O
+statement	O
+that	O
+one	O
+of	O
+us	O
+had	O
+,	O
+as	O
+the	O
+saying	O
+is	O
+,	O
+a	O
+"	O
+heart	O
+"	O
+,	O
+and	O
+,	O
+from	O
+the	O
+statement	O
+that	O
+my	O
+wife	O
+is	O
+dead	O
+,	O
+that	O
+she	O
+was	O
+the	O
+sufferer	O
+.	O
+
+# id = litbank-2243
+# source = LitBank
+# book = The Good Soldier
+# book_id = 2775_the_good_soldier
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2775_the_good_soldier_brat.tsv
+# text = the reason for his heart was , approximately , polo , or too much hard sportsmanship in his youth .
+the	O
+reason	O
+for	O
+his	O
+heart	O
+was	O
+,	O
+approximately	O
+,	O
+polo	O
+,	O
+or	O
+too	O
+much	O
+hard	O
+sportsmanship	O
+in	O
+his	O
+youth	O
 .	O
 

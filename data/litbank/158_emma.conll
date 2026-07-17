@@ -1,4 +1,4 @@
-# id = litbank-0558
+# id = litbank-0661
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -58,7 +58,7 @@ vex	O
 her	O
 .	O
 
-# id = litbank-0561
+# id = litbank-0664
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -98,7 +98,7 @@ of	O
 emma	B-CHARACTER
 .	O
 
-# id = litbank-0563
+# id = litbank-0666
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -181,7 +181,7 @@ her	O
 own	O
 .	O
 
-# id = litbank-0564
+# id = litbank-0667
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -236,7 +236,7 @@ many	O
 enjoyments	O
 .	O
 
-# id = litbank-0567
+# id = litbank-0670
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -250,7 +250,7 @@ taylor	I-CHARACTER
 married	O
 .	O
 
-# id = litbank-0568
+# id = litbank-0671
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -270,7 +270,7 @@ brought	O
 grief	O
 .	O
 
-# id = litbank-0569
+# id = litbank-0672
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -299,7 +299,7 @@ any	O
 continuance	O
 .	O
 
-# id = litbank-0570
+# id = litbank-0673
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -360,7 +360,7 @@ for	O
 her	O
 .	O
 
-# id = litbank-0571
+# id = litbank-0674
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -383,7 +383,7 @@ every	O
 day	O
 .	O
 
-# id = litbank-0572
+# id = litbank-0675
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -440,7 +440,7 @@ tenderer	O
 recollection	O
 .	O
 
-# id = litbank-0573
+# id = litbank-0676
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -517,7 +517,7 @@ intellectual	O
 solitude	O
 .	O
 
-# id = litbank-0574
+# id = litbank-0677
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -607,7 +607,7 @@ any	O
 time	O
 .	O
 
-# id = litbank-0575
+# id = litbank-0678
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -629,7 +629,7 @@ matrimony	O
 being	O
 settled	O
 in	O
-london	O
+london	B-LOCATION
 ,	O
 only	O
 sixteen	O
@@ -656,7 +656,7 @@ be	O
 struggled	O
 through	O
 at	O
-hartfield	O
+hartfield	B-LOCATION
 ,	O
 before	O
 christmas	O
@@ -688,7 +688,56 @@ society	O
 again	O
 .	O
 
-# id = litbank-0576
+# id = litbank-0679
+# source = LitBank
+# book = Emma
+# book_id = 158_emma
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/158_emma_brat.tsv
+# text = highbury , the large and populous village , almost amounting to a town , to which hartfield , in spite of its separate lawn , and shrubberies , and name , did really belong , afforded her no equals .
+highbury	B-LOCATION
+,	O
+the	O
+large	O
+and	O
+populous	O
+village	O
+,	O
+almost	O
+amounting	O
+to	O
+a	O
+town	O
+,	O
+to	O
+which	O
+hartfield	B-LOCATION
+,	O
+in	O
+spite	O
+of	O
+its	O
+separate	O
+lawn	O
+,	O
+and	O
+shrubberies	O
+,	O
+and	O
+name	O
+,	O
+did	O
+really	O
+belong	O
+,	O
+afforded	O
+her	O
+no	O
+equals	O
+.	O
+
+# id = litbank-0680
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -732,7 +781,7 @@ a	O
 day	O
 .	O
 
-# id = litbank-0577
+# id = litbank-0681
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -775,7 +824,7 @@ be	O
 cheerful	O
 .	O
 
-# id = litbank-0578
+# id = litbank-0682
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -906,10 +955,10 @@ of	O
 her	O
 life	O
 at	O
-hartfield	O
+hartfield	B-LOCATION
 .	O
 
-# id = litbank-0579
+# id = litbank-0683
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -961,7 +1010,7 @@ miss	B-CHARACTER
 taylor	I-CHARACTER
 !	O
 
-# id = litbank-0580
+# id = litbank-0684
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -984,7 +1033,7 @@ her	O
 !	O
 ”	O
 
-# id = litbank-0581
+# id = litbank-0685
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1046,7 +1095,22 @@ own	O
 ?	O
 ”	O
 
-# id = litbank-0582
+# id = litbank-0686
+# source = LitBank
+# book = Emma
+# book_id = 158_emma
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/158_emma_brat.tsv
+# text = randalls is such a distance .
+randalls	B-LOCATION
+is	O
+such	O
+a	O
+distance	O
+.	O
+
+# id = litbank-0687
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1088,7 +1152,7 @@ visit	O
 ?	O
 ”	O
 
-# id = litbank-0583
+# id = litbank-0688
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1111,7 +1175,7 @@ stable	O
 papa	O
 .	O
 
-# id = litbank-0584
+# id = litbank-0689
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1131,7 +1195,7 @@ last	O
 night	O
 .	O
 
-# id = litbank-0585
+# id = litbank-0690
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1155,7 +1219,7 @@ always	O
 like	O
 going	O
 to	O
-randalls	O
+randalls	B-LOCATION
 ,	O
 because	O
 of	O
@@ -1167,7 +1231,7 @@ housemaid	O
 there	O
 .	O
 
-# id = litbank-0586
+# id = litbank-0691
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1183,7 +1247,7 @@ good	O
 place	O
 .	O
 
-# id = litbank-0587
+# id = litbank-0692
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1209,7 +1273,7 @@ you	O
 !	O
 ”	O
 
-# id = litbank-0588
+# id = litbank-0693
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1266,7 +1330,7 @@ of	O
 her	O
 .	O
 
-# id = litbank-0589
+# id = litbank-0694
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1308,7 +1372,7 @@ to	O
 see	O
 .	O
 
-# id = litbank-0590
+# id = litbank-0695
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1336,7 +1400,7 @@ of	O
 us	O
 .	O
 
-# id = litbank-0591
+# id = litbank-0696
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1385,7 +1449,7 @@ her	O
 own	O
 .	O
 
-# id = litbank-0592
+# id = litbank-0697
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1433,7 +1497,91 @@ isabella	B-CHARACTER
 husband	O
 .	O
 
-# id = litbank-0593
+# id = litbank-0698
+# source = LitBank
+# book = Emma
+# book_id = 158_emma
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/158_emma_brat.tsv
+# text = he lived about a mile from highbury , was a frequent visitor , and always welcome , and at this time more welcome than usual , as coming directly from their mutual connexions in london .
+he	O
+lived	O
+about	O
+a	O
+mile	O
+from	O
+highbury	B-LOCATION
+,	O
+was	O
+a	O
+frequent	O
+visitor	O
+,	O
+and	O
+always	O
+welcome	O
+,	O
+and	O
+at	O
+this	O
+time	O
+more	O
+welcome	O
+than	O
+usual	O
+,	O
+as	O
+coming	O
+directly	O
+from	O
+their	O
+mutual	O
+connexions	O
+in	O
+london	B-LOCATION
+.	O
+
+# id = litbank-0699
+# source = LitBank
+# book = Emma
+# book_id = 158_emma
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/158_emma_brat.tsv
+# text = he had returned to a late dinner , after some days ' absence , and now walked up to hartfield to say that all were well in brunswick square .
+he	O
+had	O
+returned	O
+to	O
+a	O
+late	O
+dinner	O
+,	O
+after	O
+some	O
+days	O
+'	O
+absence	O
+,	O
+and	O
+now	O
+walked	O
+up	O
+to	O
+hartfield	B-LOCATION
+to	O
+say	O
+that	O
+all	O
+were	O
+well	O
+in	O
+brunswick	B-LOCATION
+square	I-LOCATION
+.	O
+
+# id = litbank-0700
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1456,7 +1604,7 @@ some	O
 time	O
 .	O
 
-# id = litbank-0594
+# id = litbank-0701
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1495,7 +1643,7 @@ most	O
 satisfactorily	O
 .	O
 
-# id = litbank-0595
+# id = litbank-0702
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1537,7 +1685,7 @@ upon	O
 us	O
 .	O
 
-# id = litbank-0559
+# id = litbank-0662
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1584,7 +1732,7 @@ early	O
 period	O
 .	O
 
-# id = litbank-0560
+# id = litbank-0663
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1637,7 +1785,7 @@ in	O
 affection	O
 .	O
 
-# id = litbank-0562
+# id = litbank-0665
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1658,7 +1806,7 @@ of	O
 sisters	O
 .	O
 
-# id = litbank-0565
+# id = litbank-0668
 # source = LitBank
 # book = Emma
 # book_id = 158_emma
@@ -1691,7 +1839,7 @@ with	O
 her	O
 .	O
 
-# id = litbank-0566
+# id = litbank-0669
 # source = LitBank
 # book = Emma
 # book_id = 158_emma

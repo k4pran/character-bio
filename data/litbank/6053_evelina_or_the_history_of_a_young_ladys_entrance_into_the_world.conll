@@ -1,4 +1,4 @@
-# id = litbank-2254
+# id = litbank-2745
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -15,13 +15,13 @@ the	O
 rev.	O
 mr.	B-CHARACTER
 villars	I-CHARACTER
-howard	O
-grove	O
+howard	B-LOCATION
+grove	I-LOCATION
 ,	O
-kent	O
+kent	B-LOCATION
 .	O
 
-# id = litbank-2257
+# id = litbank-2748
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -72,7 +72,7 @@ her	O
 blameless	O
 .	O
 
-# id = litbank-2260
+# id = litbank-2751
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -119,7 +119,180 @@ lady	B-CHARACTER
 belmont	I-CHARACTER
 .	O
 
-# id = litbank-2262
+# id = litbank-2753
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = she tells me that she has , for many years past , been in continual expectation of making a journey to england , which prevented her writing for information concerning this melancholy subject , by giving her hopes of making personal inquiries ; but family occurrences have still detained her in france , which country she now sees no prospect of quitting .
+she	O
+tells	O
+me	O
+that	O
+she	O
+has	O
+,	O
+for	O
+many	O
+years	O
+past	O
+,	O
+been	O
+in	O
+continual	O
+expectation	O
+of	O
+making	O
+a	O
+journey	O
+to	O
+england	B-LOCATION
+,	O
+which	O
+prevented	O
+her	O
+writing	O
+for	O
+information	O
+concerning	O
+this	O
+melancholy	O
+subject	O
+,	O
+by	O
+giving	O
+her	O
+hopes	O
+of	O
+making	O
+personal	O
+inquiries	O
+;	O
+but	O
+family	O
+occurrences	O
+have	O
+still	O
+detained	O
+her	O
+in	O
+france	B-LOCATION
+,	O
+which	O
+country	O
+she	O
+now	O
+sees	O
+no	O
+prospect	O
+of	O
+quitting	O
+.	O
+
+# id = litbank-2754
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = she has , therefore , lately used her utmost endeavors to obtain a faithful account of whatever related to her ill-advised daughter ; the result of which giving her some reason to apprehend , that , upon her death-bed , she bequeathed an infant orphan to the world , she most graciously says , that if you , with whom she understands the child is placed , will procure authentic proofs of its relationship to her , you may sent it to paris , where she will properly provide for it .
+she	O
+has	O
+,	O
+therefore	O
+,	O
+lately	O
+used	O
+her	O
+utmost	O
+endeavors	O
+to	O
+obtain	O
+a	O
+faithful	O
+account	O
+of	O
+whatever	O
+related	O
+to	O
+her	O
+ill-advised	O
+daughter	O
+;	O
+the	O
+result	O
+of	O
+which	O
+giving	O
+her	O
+some	O
+reason	O
+to	O
+apprehend	O
+,	O
+that	O
+,	O
+upon	O
+her	O
+death-bed	O
+,	O
+she	O
+bequeathed	O
+an	O
+infant	O
+orphan	O
+to	O
+the	O
+world	O
+,	O
+she	O
+most	O
+graciously	O
+says	O
+,	O
+that	O
+if	O
+you	O
+,	O
+with	O
+whom	O
+she	O
+understands	O
+the	O
+child	O
+is	O
+placed	O
+,	O
+will	O
+procure	O
+authentic	O
+proofs	O
+of	O
+its	O
+relationship	O
+to	O
+her	O
+,	O
+you	O
+may	O
+sent	O
+it	O
+to	O
+paris	B-LOCATION
+,	O
+where	O
+she	O
+will	O
+properly	O
+provide	O
+for	O
+it	O
+.	O
+
+# id = litbank-2755
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -197,7 +370,7 @@ her	O
 company	O
 .	O
 
-# id = litbank-2263
+# id = litbank-2756
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -253,7 +426,7 @@ her	O
 reputation	O
 .	O
 
-# id = litbank-2264
+# id = litbank-2757
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -309,7 +482,7 @@ to	O
 you	O
 .	O
 
-# id = litbank-2265
+# id = litbank-2758
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -339,7 +512,66 @@ owes	O
 obligation	O
 .	O
 
-# id = litbank-2266
+# id = litbank-2759
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = my daughter and my grandchild join with me in desiring to be most kindly remembered to the amiable girl ; and they bid me remind you , that the annual visit to howard grove , which we were formerly promised , has been discontinued for more than four years .
+my	O
+daughter	O
+and	O
+my	O
+grandchild	O
+join	O
+with	O
+me	O
+in	O
+desiring	O
+to	O
+be	O
+most	O
+kindly	O
+remembered	O
+to	O
+the	O
+amiable	O
+girl	O
+;	O
+and	O
+they	O
+bid	O
+me	O
+remind	O
+you	O
+,	O
+that	O
+the	O
+annual	O
+visit	O
+to	O
+howard	B-LOCATION
+grove	I-LOCATION
+,	O
+which	O
+we	O
+were	O
+formerly	O
+promised	O
+,	O
+has	O
+been	O
+discontinued	O
+for	O
+more	O
+than	O
+four	O
+years	O
+.	O
+
+# id = litbank-2760
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -368,7 +600,7 @@ m.	B-CHARACTER
 howard	I-CHARACTER
 .	O
 
-# id = litbank-2267
+# id = litbank-2761
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -383,13 +615,13 @@ villars	I-CHARACTER
 to	O
 lady	B-CHARACTER
 howard	I-CHARACTER
-berry	O
-hill	O
+berry	B-LOCATION
+hill	I-LOCATION
 ,	O
-dorsetshire	O
+dorsetshire	B-LOCATION
 .	O
 
-# id = litbank-2268
+# id = litbank-2762
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -419,7 +651,7 @@ been	O
 productive	O
 .	O
 
-# id = litbank-2269
+# id = litbank-2763
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -476,7 +708,7 @@ grand-daughter	O
 at	O
 present	O
 in	O
-england	O
+england	B-LOCATION
 ;	O
 the	O
 principal	O
@@ -501,7 +733,7 @@ implicit	O
 duty	O
 .	O
 
-# id = litbank-2270
+# id = litbank-2764
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -578,7 +810,7 @@ her	O
 .	O
 "	O
 
-# id = litbank-2271
+# id = litbank-2765
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -621,7 +853,7 @@ her	O
 manners	O
 .	O
 
-# id = litbank-2272
+# id = litbank-2766
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -688,7 +920,7 @@ her	O
 's	O
 .	O
 
-# id = litbank-2273
+# id = litbank-2767
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -733,7 +965,7 @@ a	O
 tutor	O
 .	O
 
-# id = litbank-2274
+# id = litbank-2768
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -750,7 +982,7 @@ upon	O
 his	O
 return	O
 to	O
-england	O
+england	B-LOCATION
 ,	O
 with	O
 madame	B-CHARACTER
@@ -796,10 +1028,10 @@ fix	O
 his	O
 abode	O
 in	O
-france	O
+france	B-LOCATION
 .	O
 
-# id = litbank-2275
+# id = litbank-2769
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -811,7 +1043,63 @@ o	O
 villars	B-CHARACTER
 !	O
 
-# id = litbank-2276
+# id = litbank-2770
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = had my circumstances permitted me , i should have answered these words by an immediate journey to paris ; but i was obliged to act by the agency of a friend , who was upon the spot , and present at the opening of the will .
+had	O
+my	O
+circumstances	O
+permitted	O
+me	O
+,	O
+i	O
+should	O
+have	O
+answered	O
+these	O
+words	O
+by	O
+an	O
+immediate	O
+journey	O
+to	O
+paris	B-LOCATION
+;	O
+but	O
+i	O
+was	O
+obliged	O
+to	O
+act	O
+by	O
+the	O
+agency	O
+of	O
+a	O
+friend	O
+,	O
+who	O
+was	O
+upon	O
+the	O
+spot	O
+,	O
+and	O
+present	O
+at	O
+the	O
+opening	O
+of	O
+the	O
+will	O
+.	O
+
+# id = litbank-2771
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -897,7 +1185,7 @@ recommended	O
 her	O
 .	O
 
-# id = litbank-2277
+# id = litbank-2772
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -980,7 +1268,7 @@ or	O
 justice	O
 .	O
 
-# id = litbank-2278
+# id = litbank-2773
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -1022,7 +1310,7 @@ my	O
 roof	O
 .	O
 
-# id = litbank-2279
+# id = litbank-2774
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -1074,7 +1362,7 @@ villars	I-CHARACTER
 herself	O
 .	O
 
-# id = litbank-2280
+# id = litbank-2775
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -1104,10 +1392,10 @@ sent	O
 for	O
 her	O
 to	O
-paris	O
+paris	B-LOCATION
 .	O
 
-# id = litbank-2281
+# id = litbank-2776
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -1150,7 +1438,7 @@ his	O
 nephews	O
 .	O
 
-# id = litbank-2282
+# id = litbank-2777
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -1217,7 +1505,32 @@ her	O
 favour	O
 .	O
 
-# id = litbank-2283
+# id = litbank-2778
+# source = LitBank
+# book = Evelina
+# book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world_brat.tsv
+# text = he promised to conduct her to england-he did.-o , madam , you know the rest !
+he	O
+promised	O
+to	O
+conduct	O
+her	O
+to	O
+england-he	B-LOCATION
+did.-o	O
+,	O
+madam	O
+,	O
+you	O
+know	O
+the	O
+rest	O
+!	O
+
+# id = litbank-2779
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -1247,7 +1560,7 @@ drew	O
 breath	O
 .	O
 
-# id = litbank-2284
+# id = litbank-2780
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -1306,7 +1619,7 @@ helpless	O
 child	O
 .	O
 
-# id = litbank-2255
+# id = litbank-2746
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -1339,7 +1652,7 @@ disagreeable	O
 intelligence	O
 ?	O
 
-# id = litbank-2256
+# id = litbank-2747
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -1371,7 +1684,7 @@ be	O
 pitied	O
 .	O
 
-# id = litbank-2258
+# id = litbank-2749
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -1398,7 +1711,7 @@ is	O
 answerable	O
 .	O
 
-# id = litbank-2259
+# id = litbank-2750
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world
@@ -1420,7 +1733,7 @@ of	O
 you	O
 !	O
 
-# id = litbank-2261
+# id = litbank-2752
 # source = LitBank
 # book = Evelina
 # book_id = 6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world

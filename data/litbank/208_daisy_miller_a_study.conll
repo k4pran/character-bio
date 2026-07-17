@@ -1,4 +1,577 @@
-# id = litbank-0694
+# id = litbank-0816
+# source = LitBank
+# book = Daisy Miller: A Study
+# book_id = 208_daisy_miller_a_study
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
+# text = part i at the little town of vevey , in switzerland , there is a particularly comfortable hotel .
+part	O
+i	O
+at	O
+the	O
+little	O
+town	O
+of	O
+vevey	B-LOCATION
+,	O
+in	O
+switzerland	B-LOCATION
+,	O
+there	O
+is	O
+a	O
+particularly	O
+comfortable	O
+hotel	O
+.	O
+
+# id = litbank-0818
+# source = LitBank
+# book = Daisy Miller: A Study
+# book_id = 208_daisy_miller_a_study
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
+# text = the shore of the lake presents an unbroken array of establishments of this order , of every category , from the “ grand hotel ” of the newest fashion , with a chalk-white front , a hundred balconies , and a dozen flags flying from its roof , to the little swiss pension of an elder day , with its name inscribed in german-looking lettering upon a pink or yellow wall and an awkward summerhouse in the angle of the garden .
+the	O
+shore	O
+of	O
+the	O
+lake	O
+presents	O
+an	O
+unbroken	O
+array	O
+of	O
+establishments	O
+of	O
+this	O
+order	O
+,	O
+of	O
+every	O
+category	O
+,	O
+from	O
+the	O
+“	O
+grand	O
+hotel	O
+”	O
+of	O
+the	O
+newest	O
+fashion	O
+,	O
+with	O
+a	O
+chalk-white	O
+front	O
+,	O
+a	O
+hundred	O
+balconies	O
+,	O
+and	O
+a	O
+dozen	O
+flags	O
+flying	O
+from	O
+its	O
+roof	O
+,	O
+to	O
+the	O
+little	O
+swiss	B-LOCATION
+pension	O
+of	O
+an	O
+elder	O
+day	O
+,	O
+with	O
+its	O
+name	O
+inscribed	O
+in	O
+german-looking	O
+lettering	O
+upon	O
+a	O
+pink	O
+or	O
+yellow	O
+wall	O
+and	O
+an	O
+awkward	O
+summerhouse	O
+in	O
+the	O
+angle	O
+of	O
+the	O
+garden	O
+.	O
+
+# id = litbank-0819
+# source = LitBank
+# book = Daisy Miller: A Study
+# book_id = 208_daisy_miller_a_study
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
+# text = one of the hotels at vevey , however , is famous , even classical , being distinguished from many of its upstart neighbors by an air both of luxury and of maturity .
+one	O
+of	O
+the	O
+hotels	O
+at	O
+vevey	B-LOCATION
+,	O
+however	O
+,	O
+is	O
+famous	O
+,	O
+even	O
+classical	O
+,	O
+being	O
+distinguished	O
+from	O
+many	O
+of	O
+its	O
+upstart	O
+neighbors	O
+by	O
+an	O
+air	O
+both	O
+of	O
+luxury	O
+and	O
+of	O
+maturity	O
+.	O
+
+# id = litbank-0820
+# source = LitBank
+# book = Daisy Miller: A Study
+# book_id = 208_daisy_miller_a_study
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
+# text = in this region , in the month of june , american travelers are extremely numerous ; it may be said , indeed , that vevey assumes at this period some of the characteristics of an american watering place .
+in	O
+this	O
+region	O
+,	O
+in	O
+the	O
+month	O
+of	O
+june	O
+,	O
+american	O
+travelers	O
+are	O
+extremely	O
+numerous	O
+;	O
+it	O
+may	O
+be	O
+said	O
+,	O
+indeed	O
+,	O
+that	O
+vevey	B-LOCATION
+assumes	O
+at	O
+this	O
+period	O
+some	O
+of	O
+the	O
+characteristics	O
+of	O
+an	O
+american	O
+watering	O
+place	O
+.	O
+
+# id = litbank-0821
+# source = LitBank
+# book = Daisy Miller: A Study
+# book_id = 208_daisy_miller_a_study
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
+# text = there are sights and sounds which evoke a vision , an echo , of newport and saratoga .
+there	O
+are	O
+sights	O
+and	O
+sounds	O
+which	O
+evoke	O
+a	O
+vision	O
+,	O
+an	O
+echo	O
+,	O
+of	O
+newport	B-LOCATION
+and	O
+saratoga	B-LOCATION
+.	O
+
+# id = litbank-0823
+# source = LitBank
+# book = Daisy Miller: A Study
+# book_id = 208_daisy_miller_a_study
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
+# text = you receive an impression of these things at the excellent inn of the “ trois couronnes ” and are transported in fancy to the ocean house or to congress hall .
+you	O
+receive	O
+an	O
+impression	O
+of	O
+these	O
+things	O
+at	O
+the	O
+excellent	O
+inn	O
+of	O
+the	O
+“	O
+trois	B-LOCATION
+couronnes	I-LOCATION
+”	O
+and	O
+are	O
+transported	O
+in	O
+fancy	O
+to	O
+the	O
+ocean	B-LOCATION
+house	I-LOCATION
+or	O
+to	O
+congress	B-LOCATION
+hall	I-LOCATION
+.	O
+
+# id = litbank-0824
+# source = LitBank
+# book = Daisy Miller: A Study
+# book_id = 208_daisy_miller_a_study
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
+# text = but at the “ trois couronnes , ” it must be added , there are other features that are much at variance with these suggestions : neat german waiters , who look like secretaries of legation ; russian princesses sitting in the garden ; little polish boys walking about held by the hand , with their governors ; a view of the sunny crest of the dent du midi and the picturesque towers of the castle of chillon .
+but	O
+at	O
+the	O
+“	O
+trois	B-LOCATION
+couronnes	I-LOCATION
+,	O
+”	O
+it	O
+must	O
+be	O
+added	O
+,	O
+there	O
+are	O
+other	O
+features	O
+that	O
+are	O
+much	O
+at	O
+variance	O
+with	O
+these	O
+suggestions	O
+:	O
+neat	O
+german	O
+waiters	O
+,	O
+who	O
+look	O
+like	O
+secretaries	O
+of	O
+legation	O
+;	O
+russian	O
+princesses	O
+sitting	O
+in	O
+the	O
+garden	O
+;	O
+little	O
+polish	O
+boys	O
+walking	O
+about	O
+held	O
+by	O
+the	O
+hand	O
+,	O
+with	O
+their	O
+governors	O
+;	O
+a	O
+view	O
+of	O
+the	O
+sunny	O
+crest	O
+of	O
+the	O
+dent	B-LOCATION
+du	I-LOCATION
+midi	I-LOCATION
+and	O
+the	O
+picturesque	O
+towers	O
+of	O
+the	O
+castle	O
+of	O
+chillon	B-LOCATION
+.	O
+
+# id = litbank-0825
+# source = LitBank
+# book = Daisy Miller: A Study
+# book_id = 208_daisy_miller_a_study
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
+# text = i hardly know whether it was the analogies or the differences that were uppermost in the mind of a young american , who , two or three years ago , sat in the garden of the “ trois couronnes , ” looking about him , rather idly , at some of the graceful objects i have mentioned .
+i	O
+hardly	O
+know	O
+whether	O
+it	O
+was	O
+the	O
+analogies	O
+or	O
+the	O
+differences	O
+that	O
+were	O
+uppermost	O
+in	O
+the	O
+mind	O
+of	O
+a	O
+young	O
+american	O
+,	O
+who	O
+,	O
+two	O
+or	O
+three	O
+years	O
+ago	O
+,	O
+sat	O
+in	O
+the	O
+garden	O
+of	O
+the	O
+“	O
+trois	B-LOCATION
+couronnes	I-LOCATION
+,	O
+”	O
+looking	O
+about	O
+him	O
+,	O
+rather	O
+idly	O
+,	O
+at	O
+some	O
+of	O
+the	O
+graceful	O
+objects	O
+i	O
+have	O
+mentioned	O
+.	O
+
+# id = litbank-0827
+# source = LitBank
+# book = Daisy Miller: A Study
+# book_id = 208_daisy_miller_a_study
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
+# text = he had come from geneva the day before by the little steamer , to see his aunt , who was staying at the hotel -- geneva having been for a long time his place of residence .
+he	O
+had	O
+come	O
+from	O
+geneva	B-LOCATION
+the	O
+day	O
+before	O
+by	O
+the	O
+little	O
+steamer	O
+,	O
+to	O
+see	O
+his	O
+aunt	O
+,	O
+who	O
+was	O
+staying	O
+at	O
+the	O
+hotel	O
+--	O
+geneva	B-LOCATION
+having	O
+been	O
+for	O
+a	O
+long	O
+time	O
+his	O
+place	O
+of	O
+residence	O
+.	O
+
+# id = litbank-0829
+# source = LitBank
+# book = Daisy Miller: A Study
+# book_id = 208_daisy_miller_a_study
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
+# text = he was some seven-and-twenty years of age ; when his friends spoke of him , they usually said that he was at geneva “ studying . ”
+he	O
+was	O
+some	O
+seven-and-twenty	O
+years	O
+of	O
+age	O
+;	O
+when	O
+his	O
+friends	O
+spoke	O
+of	O
+him	O
+,	O
+they	O
+usually	O
+said	O
+that	O
+he	O
+was	O
+at	O
+geneva	B-LOCATION
+“	O
+studying	O
+.	O
+”	O
+
+# id = litbank-0831
+# source = LitBank
+# book = Daisy Miller: A Study
+# book_id = 208_daisy_miller_a_study
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
+# text = what i should say is , simply , that when certain persons spoke of him they affirmed that the reason of his spending so much time at geneva was that he was extremely devoted to a lady who lived there -- a foreign lady -- a person older than himself .
+what	O
+i	O
+should	O
+say	O
+is	O
+,	O
+simply	O
+,	O
+that	O
+when	O
+certain	O
+persons	O
+spoke	O
+of	O
+him	O
+they	O
+affirmed	O
+that	O
+the	O
+reason	O
+of	O
+his	O
+spending	O
+so	O
+much	O
+time	O
+at	O
+geneva	B-LOCATION
+was	O
+that	O
+he	O
+was	O
+extremely	O
+devoted	O
+to	O
+a	O
+lady	O
+who	O
+lived	O
+there	O
+--	O
+a	O
+foreign	O
+lady	O
+--	O
+a	O
+person	O
+older	O
+than	O
+himself	O
+.	O
+
+# id = litbank-0832
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -17,7 +590,7 @@ the	O
 little	O
 metropolis	O
 of	O
-calvinism	O
+calvinism	B-LOCATION
 ;	O
 he	O
 had	O
@@ -53,7 +626,7 @@ youthful	O
 friendships	O
 .	O
 
-# id = litbank-0695
+# id = litbank-0833
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -82,7 +655,7 @@ little	O
 eyes	O
 .	O
 
-# id = litbank-0696
+# id = litbank-0834
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -116,7 +689,7 @@ sugar	O
 remained	O
 .	O
 
-# id = litbank-0697
+# id = litbank-0835
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -148,7 +721,7 @@ his	O
 teeth	O
 .	O
 
-# id = litbank-0698
+# id = litbank-0836
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -175,7 +748,39 @@ fellow	O
 countryman	O
 .	O
 
-# id = litbank-0699
+# id = litbank-0837
+# source = LitBank
+# book = Daisy Miller: A Study
+# book_id = 208_daisy_miller_a_study
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
+# text = it ’s this old europe .
+it	O
+’s	O
+this	O
+old	O
+europe	B-LOCATION
+.	O
+
+# id = litbank-0838
+# source = LitBank
+# book = Daisy Miller: A Study
+# book_id = 208_daisy_miller_a_study
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
+# text = in america they did n’t come out .
+in	O
+america	B-LOCATION
+they	O
+did	O
+n’t	O
+come	O
+out	O
+.	O
+
+# id = litbank-0839
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -189,7 +794,7 @@ much	O
 amused	O
 .	O
 
-# id = litbank-0700
+# id = litbank-0840
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -201,7 +806,7 @@ laughed	O
 winterbourne	B-CHARACTER
 .	O
 
-# id = litbank-0701
+# id = litbank-0841
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -230,7 +835,7 @@ he	O
 declared	O
 .	O
 
-# id = litbank-0702
+# id = litbank-0842
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -257,14 +862,14 @@ had	O
 been	O
 brought	O
 to	O
-europe	O
+europe	B-LOCATION
 at	O
 about	O
 this	O
 age	O
 .	O
 
-# id = litbank-0703
+# id = litbank-0843
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -286,7 +891,7 @@ lady	O
 advancing	O
 .	O
 
-# id = litbank-0704
+# id = litbank-0844
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -310,7 +915,7 @@ said	O
 winterbourne	B-CHARACTER
 .	O
 
-# id = litbank-0705
+# id = litbank-0845
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -336,7 +941,7 @@ to	O
 rise	O
 .	O
 
-# id = litbank-0706
+# id = litbank-0846
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -361,7 +966,7 @@ doing	O
 ?	O
 ”	O
 
-# id = litbank-0707
+# id = litbank-0847
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -375,14 +980,14 @@ i	O
 going	O
 up	O
 the	O
-alps	O
+alps	B-LOCATION
 ,	O
 ”	O
 replied	O
 randolph	B-CHARACTER
 .	O
 
-# id = litbank-0708
+# id = litbank-0848
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -406,7 +1011,7 @@ winterbourne	B-CHARACTER
 ears	O
 .	O
 
-# id = litbank-0709
+# id = litbank-0849
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -428,7 +1033,7 @@ said	O
 winterbourne	B-CHARACTER
 .	O
 
-# id = litbank-0710
+# id = litbank-0850
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -446,7 +1051,7 @@ hard	O
 voice	O
 .	O
 
-# id = litbank-0711
+# id = litbank-0851
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -468,7 +1073,60 @@ manner	O
 presented	O
 .	O
 
-# id = litbank-0712
+# id = litbank-0852
+# source = LitBank
+# book = Daisy Miller: A Study
+# book_id = 208_daisy_miller_a_study
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
+# text = in geneva , as he had been perfectly aware , a young man was not at liberty to speak to a young unmarried lady except under certain rarely occurring conditions ; but here at vevey , what conditions could be better than these ?
+in	O
+geneva	B-LOCATION
+,	O
+as	O
+he	O
+had	O
+been	O
+perfectly	O
+aware	O
+,	O
+a	O
+young	O
+man	O
+was	O
+not	O
+at	O
+liberty	O
+to	O
+speak	O
+to	O
+a	O
+young	O
+unmarried	O
+lady	O
+except	O
+under	O
+certain	O
+rarely	O
+occurring	O
+conditions	O
+;	O
+but	O
+here	O
+at	O
+vevey	B-LOCATION
+,	O
+what	O
+conditions	O
+could	O
+be	O
+better	O
+than	O
+these	O
+?	O
+
+# id = litbank-0853
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -514,7 +1172,7 @@ opposite	O
 mountains	O
 .	O
 
-# id = litbank-0713
+# id = litbank-0854
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -532,35 +1190,33 @@ responded	O
 randolph	B-CHARACTER
 .	O
 
-# id = litbank-0689
+# id = litbank-0855
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
 # chapter = unknown
-# sample_type = negative
+# sample_type = positive
 # source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
-# text = part i at the little town of vevey , in switzerland , there is a particularly comfortable hotel .
-part	O
-i	O
-at	O
-the	O
-little	O
-town	O
-of	O
-vevey	O
-,	O
-in	O
-switzerland	O
-,	O
-there	O
-is	O
-a	O
-particularly	O
-comfortable	O
-hotel	O
-.	O
+# text = “ you do n’t mean to say you ’re going to take it to italy ? ”
+“	O
+you	O
+do	O
+n’t	O
+mean	O
+to	O
+say	O
+you	O
+’re	O
+going	O
+to	O
+take	O
+it	O
+to	O
+italy	B-LOCATION
+?	O
+”	O
 
-# id = litbank-0690
+# id = litbank-0817
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
@@ -618,120 +1274,173 @@ to	O
 visit	O
 .	O
 
-# id = litbank-0691
+# id = litbank-0822
 # source = LitBank
 # book = Daisy Miller: A Study
 # book_id = 208_daisy_miller_a_study
 # chapter = unknown
 # sample_type = negative
 # source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
-# text = one of the hotels at vevey , however , is famous , even classical , being distinguished from many of its upstart neighbors by an air both of luxury and of maturity .
-one	O
-of	O
-the	O
-hotels	O
-at	O
-vevey	O
-,	O
-however	O
-,	O
-is	O
-famous	O
-,	O
-even	O
-classical	O
-,	O
-being	O
-distinguished	O
-from	O
-many	O
-of	O
-its	O
-upstart	O
-neighbors	O
-by	O
-an	O
-air	O
-both	O
-of	O
-luxury	O
-and	O
-of	O
-maturity	O
-.	O
-
-# id = litbank-0692
-# source = LitBank
-# book = Daisy Miller: A Study
-# book_id = 208_daisy_miller_a_study
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
-# text = in this region , in the month of june , american travelers are extremely numerous ; it may be said , indeed , that vevey assumes at this period some of the characteristics of an american watering place .
-in	O
-this	O
-region	O
-,	O
-in	O
-the	O
-month	O
-of	O
-june	O
-,	O
-american	O
-travelers	O
-are	O
-extremely	O
-numerous	O
-;	O
-it	O
-may	O
-be	O
-said	O
-,	O
-indeed	O
-,	O
-that	O
-vevey	O
-assumes	O
-at	O
-this	O
-period	O
-some	O
-of	O
-the	O
-characteristics	O
-of	O
-an	O
-american	O
-watering	O
-place	O
-.	O
-
-# id = litbank-0693
-# source = LitBank
-# book = Daisy Miller: A Study
-# book_id = 208_daisy_miller_a_study
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
-# text = there are sights and sounds which evoke a vision , an echo , of newport and saratoga .
+# text = there is a flitting hither and thither of “ stylish ” young girls , a rustling of muslin flounces , a rattle of dance music in the morning hours , a sound of high-pitched voices at all times .
 there	O
-are	O
-sights	O
-and	O
-sounds	O
-which	O
-evoke	O
+is	O
 a	O
-vision	O
-,	O
-an	O
-echo	O
-,	O
-of	O
-newport	O
+flitting	O
+hither	O
 and	O
-saratoga	O
+thither	O
+of	O
+“	O
+stylish	O
+”	O
+young	O
+girls	O
+,	O
+a	O
+rustling	O
+of	O
+muslin	O
+flounces	O
+,	O
+a	O
+rattle	O
+of	O
+dance	O
+music	O
+in	O
+the	O
+morning	O
+hours	O
+,	O
+a	O
+sound	O
+of	O
+high-pitched	O
+voices	O
+at	O
+all	O
+times	O
+.	O
+
+# id = litbank-0826
+# source = LitBank
+# book = Daisy Miller: A Study
+# book_id = 208_daisy_miller_a_study
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
+# text = it was a beautiful summer morning , and in whatever fashion the young american looked at things , they must have seemed to him charming .
+it	O
+was	O
+a	O
+beautiful	O
+summer	O
+morning	O
+,	O
+and	O
+in	O
+whatever	O
+fashion	O
+the	O
+young	O
+american	O
+looked	O
+at	O
+things	O
+,	O
+they	O
+must	O
+have	O
+seemed	O
+to	O
+him	O
+charming	O
+.	O
+
+# id = litbank-0828
+# source = LitBank
+# book = Daisy Miller: A Study
+# book_id = 208_daisy_miller_a_study
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
+# text = but his aunt had a headache -- his aunt had almost always a headache -- and now she was shut up in her room , smelling camphor , so that he was at liberty to wander about .
+but	O
+his	O
+aunt	O
+had	O
+a	O
+headache	O
+--	O
+his	O
+aunt	O
+had	O
+almost	O
+always	O
+a	O
+headache	O
+--	O
+and	O
+now	O
+she	O
+was	O
+shut	O
+up	O
+in	O
+her	O
+room	O
+,	O
+smelling	O
+camphor	O
+,	O
+so	O
+that	O
+he	O
+was	O
+at	O
+liberty	O
+to	O
+wander	O
+about	O
+.	O
+
+# id = litbank-0830
+# source = LitBank
+# book = Daisy Miller: A Study
+# book_id = 208_daisy_miller_a_study
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/208_daisy_miller_a_study_brat.tsv
+# text = when his enemies spoke of him , they said -- but , after all , he had no enemies ; he was an extremely amiable fellow , and universally liked .
+when	O
+his	O
+enemies	O
+spoke	O
+of	O
+him	O
+,	O
+they	O
+said	O
+--	O
+but	O
+,	O
+after	O
+all	O
+,	O
+he	O
+had	O
+no	O
+enemies	O
+;	O
+he	O
+was	O
+an	O
+extremely	O
+amiable	O
+fellow	O
+,	O
+and	O
+universally	O
+liked	O
 .	O
 

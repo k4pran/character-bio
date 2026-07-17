@@ -1,4 +1,4 @@
-# id = litbank-1629
+# id = litbank-1980
 # source = LitBank
 # book = The Adventures of Sherlock Holmes
 # book_id = 1661_the_adventures_of_sherlock_holmes
@@ -9,7 +9,7 @@
 a	O
 scandal	O
 in	O
-bohemia	O
+bohemia	B-LOCATION
 i.	O
 to	O
 sherlock	B-CHARACTER
@@ -21,7 +21,7 @@ the	O
 woman	O
 .	O
 
-# id = litbank-1632
+# id = litbank-1983
 # source = LitBank
 # book = The Adventures of Sherlock Holmes
 # book_id = 1661_the_adventures_of_sherlock_holmes
@@ -45,7 +45,7 @@ irene	B-CHARACTER
 adler	I-CHARACTER
 .	O
 
-# id = litbank-1636
+# id = litbank-1987
 # source = LitBank
 # book = The Adventures of Sherlock Holmes
 # book_id = 1661_the_adventures_of_sherlock_holmes
@@ -79,7 +79,7 @@ questionable	O
 memory	O
 .	O
 
-# id = litbank-1637
+# id = litbank-1988
 # source = LitBank
 # book = The Adventures of Sherlock Holmes
 # book_id = 1661_the_adventures_of_sherlock_holmes
@@ -96,7 +96,7 @@ holmes	B-CHARACTER
 lately	O
 .	O
 
-# id = litbank-1638
+# id = litbank-1989
 # source = LitBank
 # book = The Adventures of Sherlock Holmes
 # book_id = 1661_the_adventures_of_sherlock_holmes
@@ -157,8 +157,8 @@ in	O
 our	O
 lodgings	O
 in	O
-baker	O
-street	O
+baker	B-LOCATION
+street	I-LOCATION
 ,	O
 buried	O
 among	O
@@ -194,7 +194,128 @@ keen	O
 nature	O
 .	O
 
-# id = litbank-1639
+# id = litbank-1990
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = from time to time i heard some vague account of his doings : of his summons to odessa in the case of the trepoff murder , of his clearing up of the singular tragedy of the atkinson brothers at trincomalee , and finally of the mission which he had accomplished so delicately and successfully for the reigning family of holland .
+from	O
+time	O
+to	O
+time	O
+i	O
+heard	O
+some	O
+vague	O
+account	O
+of	O
+his	O
+doings	O
+:	O
+of	O
+his	O
+summons	O
+to	O
+odessa	B-LOCATION
+in	O
+the	O
+case	O
+of	O
+the	O
+trepoff	O
+murder	O
+,	O
+of	O
+his	O
+clearing	O
+up	O
+of	O
+the	O
+singular	O
+tragedy	O
+of	O
+the	O
+atkinson	O
+brothers	O
+at	O
+trincomalee	B-LOCATION
+,	O
+and	O
+finally	O
+of	O
+the	O
+mission	O
+which	O
+he	O
+had	O
+accomplished	O
+so	O
+delicately	O
+and	O
+successfully	O
+for	O
+the	O
+reigning	O
+family	O
+of	O
+holland	B-LOCATION
+.	O
+
+# id = litbank-1991
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = one night -- it was on the twentieth of march , 1888 -- i was returning from a journey to a patient ( for i had now returned to civil practice ) , when my way led me through baker street .
+one	O
+night	O
+--	O
+it	O
+was	O
+on	O
+the	O
+twentieth	O
+of	O
+march	O
+,	O
+1888	O
+--	O
+i	O
+was	O
+returning	O
+from	O
+a	O
+journey	O
+to	O
+a	O
+patient	O
+(	O
+for	O
+i	O
+had	O
+now	O
+returned	O
+to	O
+civil	O
+practice	O
+)	O
+,	O
+when	O
+my	O
+way	O
+led	O
+me	O
+through	O
+baker	B-LOCATION
+street	I-LOCATION
+.	O
+
+# id = litbank-1992
 # source = LitBank
 # book = The Adventures of Sherlock Holmes
 # book_id = 1661_the_adventures_of_sherlock_holmes
@@ -256,7 +377,7 @@ extraordinary	O
 powers	O
 .	O
 
-# id = litbank-1640
+# id = litbank-1993
 # source = LitBank
 # book = The Adventures of Sherlock Holmes
 # book_id = 1661_the_adventures_of_sherlock_holmes
@@ -287,7 +408,7 @@ you	O
 .	O
 "	O
 
-# id = litbank-1641
+# id = litbank-1994
 # source = LitBank
 # book = The Adventures of Sherlock Holmes
 # book_id = 1661_the_adventures_of_sherlock_holmes
@@ -306,7 +427,7 @@ fancy	O
 watson	B-CHARACTER
 .	O
 
-# id = litbank-1642
+# id = litbank-1995
 # source = LitBank
 # book = The Adventures of Sherlock Holmes
 # book_id = 1661_the_adventures_of_sherlock_holmes
@@ -330,7 +451,7 @@ too	O
 much	O
 .	O
 
-# id = litbank-1643
+# id = litbank-1996
 # source = LitBank
 # book = The Adventures of Sherlock Holmes
 # book_id = 1661_the_adventures_of_sherlock_holmes
@@ -372,7 +493,91 @@ out	O
 .	O
 "	O
 
-# id = litbank-1644
+# id = litbank-1997
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = hence , you see , my double deduction that you had been out in vile weather , and that you had a particularly malignant boot-slitting specimen of the london slavey .
+hence	O
+,	O
+you	O
+see	O
+,	O
+my	O
+double	O
+deduction	O
+that	O
+you	O
+had	O
+been	O
+out	O
+in	O
+vile	O
+weather	O
+,	O
+and	O
+that	O
+you	O
+had	O
+a	O
+particularly	O
+malignant	O
+boot-slitting	O
+specimen	O
+of	O
+the	O
+london	B-LOCATION
+slavey	O
+.	O
+
+# id = litbank-1998
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = your recent services to one of the royal houses of europe have shown that you are one who may safely be trusted with matters which are of an importance which can hardly be exaggerated .
+your	O
+recent	O
+services	O
+to	O
+one	O
+of	O
+the	O
+royal	O
+houses	O
+of	O
+europe	B-LOCATION
+have	O
+shown	O
+that	O
+you	O
+are	O
+one	O
+who	O
+may	O
+safely	O
+be	O
+trusted	O
+with	O
+matters	O
+which	O
+are	O
+of	O
+an	O
+importance	O
+which	O
+can	O
+hardly	O
+be	O
+exaggerated	O
+.	O
+
+# id = litbank-1999
 # source = LitBank
 # book = The Adventures of Sherlock Holmes
 # book_id = 1661_the_adventures_of_sherlock_holmes
@@ -394,7 +599,7 @@ said	O
 holmes	B-CHARACTER
 .	O
 
-# id = litbank-1645
+# id = litbank-2000
 # source = LitBank
 # book = The Adventures of Sherlock Holmes
 # book_id = 1661_the_adventures_of_sherlock_holmes
@@ -415,7 +620,72 @@ asked	O
 holmes	B-CHARACTER
 .	O
 
-# id = litbank-1630
+# id = litbank-2001
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = " eglow , eglonitz -- here we are , egria .
+"	O
+eglow	B-LOCATION
+,	O
+eglonitz	B-LOCATION
+--	O
+here	O
+we	O
+are	O
+,	O
+egria	B-LOCATION
+.	O
+
+# id = litbank-2002
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = it is in a german-speaking country -- in bohemia , not far from carlsbad .
+it	O
+is	O
+in	O
+a	O
+german-speaking	B-LOCATION
+country	I-LOCATION
+--	O
+in	O
+bohemia	B-LOCATION
+,	O
+not	O
+far	O
+from	O
+carlsbad	B-LOCATION
+.	O
+
+# id = litbank-2003
+# source = LitBank
+# book = The Adventures of Sherlock Holmes
+# book_id = 1661_the_adventures_of_sherlock_holmes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/1661_the_adventures_of_sherlock_holmes_brat.tsv
+# text = " the paper was made in bohemia , " i said .
+"	O
+the	O
+paper	O
+was	O
+made	O
+in	O
+bohemia	B-LOCATION
+,	O
+"	O
+i	O
+said	O
+.	O
+
+# id = litbank-1981
 # source = LitBank
 # book = The Adventures of Sherlock Holmes
 # book_id = 1661_the_adventures_of_sherlock_holmes
@@ -436,7 +706,7 @@ other	O
 name	O
 .	O
 
-# id = litbank-1631
+# id = litbank-1982
 # source = LitBank
 # book = The Adventures of Sherlock Holmes
 # book_id = 1661_the_adventures_of_sherlock_holmes
@@ -458,7 +728,7 @@ her	O
 sex	O
 .	O
 
-# id = litbank-1633
+# id = litbank-1984
 # source = LitBank
 # book = The Adventures of Sherlock Holmes
 # book_id = 1661_the_adventures_of_sherlock_holmes
@@ -487,7 +757,7 @@ balanced	O
 mind	O
 .	O
 
-# id = litbank-1634
+# id = litbank-1985
 # source = LitBank
 # book = The Adventures of Sherlock Holmes
 # book_id = 1661_the_adventures_of_sherlock_holmes
@@ -530,7 +800,7 @@ false	O
 position	O
 .	O
 
-# id = litbank-1635
+# id = litbank-1986
 # source = LitBank
 # book = The Adventures of Sherlock Holmes
 # book_id = 1661_the_adventures_of_sherlock_holmes

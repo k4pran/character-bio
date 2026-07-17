@@ -1,4 +1,4 @@
-# id = litbank-0391
+# id = litbank-0456
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -41,7 +41,7 @@ brother	O
 wife	O
 .	O
 
-# id = litbank-0392
+# id = litbank-0457
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -74,7 +74,7 @@ do	O
 anything	O
 ?	O
 
-# id = litbank-0393
+# id = litbank-0458
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -130,7 +130,7 @@ his	O
 countess	O
 .	O
 
-# id = litbank-0396
+# id = litbank-0461
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -186,7 +186,7 @@ the	O
 rassendylls	O
 .	O
 
-# id = litbank-0397
+# id = litbank-0462
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -219,7 +219,7 @@ her	O
 ancestry	O
 .	O
 
-# id = litbank-0398
+# id = litbank-0463
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -248,7 +248,7 @@ some	O
 truth	O
 .	O
 
-# id = litbank-0401
+# id = litbank-0466
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -271,7 +271,7 @@ she	O
 cried	O
 .	O
 
-# id = litbank-0402
+# id = litbank-0467
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -297,7 +297,7 @@ came	O
 in	O
 .	O
 
-# id = litbank-0404
+# id = litbank-0469
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -319,7 +319,7 @@ admitted	O
 rose	B-CHARACTER
 .	O
 
-# id = litbank-0405
+# id = litbank-0470
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -335,7 +335,7 @@ both	O
 .	O
 ”	O
 
-# id = litbank-0406
+# id = litbank-0471
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -360,7 +360,7 @@ still	O
 flushed	O
 .	O
 
-# id = litbank-0407
+# id = litbank-0472
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -393,7 +393,7 @@ countess	B-CHARACTER
 amelia	I-CHARACTER
 .	O
 
-# id = litbank-0408
+# id = litbank-0473
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -418,7 +418,7 @@ said	O
 she	O
 .	O
 
-# id = litbank-0409
+# id = litbank-0474
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -442,7 +442,7 @@ his	O
 head	O
 .	O
 
-# id = litbank-0410
+# id = litbank-0475
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -465,7 +465,44 @@ very	O
 prettily	O
 .	O
 
-# id = litbank-0411
+# id = litbank-0476
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = for what relationship is there between ruritania and burlesdon , between the palace at strelsau or the castle of zenda and number 305 park lane , w. ?
+for	O
+what	O
+relationship	O
+is	O
+there	O
+between	O
+ruritania	B-LOCATION
+and	O
+burlesdon	B-LOCATION
+,	O
+between	O
+the	O
+palace	O
+at	O
+strelsau	B-LOCATION
+or	O
+the	O
+castle	O
+of	O
+zenda	B-LOCATION
+and	O
+number	B-LOCATION
+305	O
+park	O
+lane	O
+,	O
+w.	O
+?	O
+
+# id = litbank-0477
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -510,7 +547,7 @@ george	O
 ii	O
 .	O
 
-# id = litbank-0412
+# id = litbank-0478
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -568,10 +605,46 @@ rudolf	B-CHARACTER
 the	O
 third	O
 of	O
-ruritania	O
+ruritania	B-LOCATION
 .	O
 
-# id = litbank-0413
+# id = litbank-0479
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = he stayed some months in england , where he was most courteously received ; yet , in the end , he left rather under a cloud .
+he	O
+stayed	O
+some	O
+months	O
+in	O
+england	B-LOCATION
+,	O
+where	O
+he	O
+was	O
+most	O
+courteously	O
+received	O
+;	O
+yet	O
+,	O
+in	O
+the	O
+end	O
+,	O
+he	O
+left	O
+rather	O
+under	O
+a	O
+cloud	O
+.	O
+
+# id = litbank-0480
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -612,7 +685,7 @@ pretty	O
 handful	O
 .	O
 
-# id = litbank-0414
+# id = litbank-0481
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -703,7 +776,7 @@ of	O
 burlesdon	B-CHARACTER
 .	O
 
-# id = litbank-0415
+# id = litbank-0482
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -752,7 +825,7 @@ in	O
 the	O
 peerage	O
 of	O
-england	O
+england	B-LOCATION
 ,	O
 and	O
 a	O
@@ -762,7 +835,7 @@ the	O
 garter	O
 .	O
 
-# id = litbank-0416
+# id = litbank-0483
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -778,7 +851,7 @@ he	O
 went	O
 back	O
 to	O
-ruritania	O
+ruritania	B-LOCATION
 ,	O
 married	O
 a	O
@@ -811,7 +884,92 @@ short	O
 interval	O
 .	O
 
-# id = litbank-0417
+# id = litbank-0484
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = and , finally , if you walk through the picture galleries at burlesdon , among the fifty portraits or so of the last century and a half , you will find five or six , including that of the sixth earl , distinguished by long , sharp , straight noses and a quantity of dark-red hair ; these five or six have also blue eyes , whereas among the rassendylls dark eyes are the commoner .
+and	O
+,	O
+finally	O
+,	O
+if	O
+you	O
+walk	O
+through	O
+the	O
+picture	O
+galleries	O
+at	O
+burlesdon	B-LOCATION
+,	O
+among	O
+the	O
+fifty	O
+portraits	O
+or	O
+so	O
+of	O
+the	O
+last	O
+century	O
+and	O
+a	O
+half	O
+,	O
+you	O
+will	O
+find	O
+five	O
+or	O
+six	O
+,	O
+including	O
+that	O
+of	O
+the	O
+sixth	O
+earl	O
+,	O
+distinguished	O
+by	O
+long	O
+,	O
+sharp	O
+,	O
+straight	O
+noses	O
+and	O
+a	O
+quantity	O
+of	O
+dark-red	O
+hair	O
+;	O
+these	O
+five	O
+or	O
+six	O
+have	O
+also	O
+blue	O
+eyes	O
+,	O
+whereas	O
+among	O
+the	O
+rassendylls	O
+dark	O
+eyes	O
+are	O
+the	O
+commoner	O
+.	O
+
+# id = litbank-0485
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -840,7 +998,7 @@ her	O
 !	O
 )	O
 
-# id = litbank-0418
+# id = litbank-0486
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -870,7 +1028,7 @@ duties	O
 .	O
 ”	O
 
-# id = litbank-0419
+# id = litbank-0487
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -917,7 +1075,7 @@ to	O
 .	O
 ”	O
 
-# id = litbank-0420
+# id = litbank-0488
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -952,7 +1110,7 @@ an	O
 attache	O
 .	O
 
-# id = litbank-0421
+# id = litbank-0489
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -972,7 +1130,7 @@ me	O
 .	O
 ”	O
 
-# id = litbank-0422
+# id = litbank-0490
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -1020,7 +1178,7 @@ jacob	I-CHARACTER
 !	O
 ”	O
 
-# id = litbank-0423
+# id = litbank-0491
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -1039,7 +1197,7 @@ of	O
 you	O
 !	O
 
-# id = litbank-0424
+# id = litbank-0492
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -1116,7 +1274,28 @@ spending	O
 them	O
 .	O
 
-# id = litbank-0425
+# id = litbank-0493
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = and it occurred to me suddenly that i would visit ruritania .
+and	O
+it	O
+occurred	O
+to	O
+me	O
+suddenly	O
+that	O
+i	O
+would	O
+visit	O
+ruritania	B-LOCATION
+.	O
+
+# id = litbank-0494
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -1210,7 +1389,36 @@ that	O
 country	O
 .	O
 
-# id = litbank-0426
+# id = litbank-0495
+# source = LitBank
+# book = The Prisoner of Zenda
+# book_id = 95_the_prisoner_of_zenda
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/95_the_prisoner_of_zenda_brat.tsv
+# text = but the moment ruritania had come into my head i was eaten up with a curiosity to see it .
+but	O
+the	O
+moment	O
+ruritania	B-LOCATION
+had	O
+come	O
+into	O
+my	O
+head	O
+i	O
+was	O
+eaten	O
+up	O
+with	O
+a	O
+curiosity	O
+to	O
+see	O
+it	O
+.	O
+
+# id = litbank-0496
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -1238,7 +1446,7 @@ to	O
 be	O
 crowned	O
 at	O
-strelsau	O
+strelsau	B-LOCATION
 in	O
 the	O
 course	O
@@ -1259,7 +1467,7 @@ the	O
 occasion	O
 .	O
 
-# id = litbank-0427
+# id = litbank-0497
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -1310,7 +1518,7 @@ a	O
 ramble	O
 in	O
 the	O
-tyrol	O
+tyrol	B-LOCATION
 --	O
 an	O
 old	O
@@ -1346,7 +1554,7 @@ that	O
 neighbourhood	O
 .	O
 
-# id = litbank-0394
+# id = litbank-0459
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -1377,7 +1585,7 @@ knock	O
 about	O
 ?	O
 
-# id = litbank-0395
+# id = litbank-0460
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -1396,7 +1604,7 @@ things	O
 .	O
 ”	O
 
-# id = litbank-0399
+# id = litbank-0464
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -1419,7 +1627,7 @@ she	O
 said	O
 .	O
 
-# id = litbank-0400
+# id = litbank-0465
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda
@@ -1443,7 +1651,7 @@ she	O
 meant	O
 .	O
 
-# id = litbank-0403
+# id = litbank-0468
 # source = LitBank
 # book = The Prisoner of Zenda
 # book_id = 95_the_prisoner_of_zenda

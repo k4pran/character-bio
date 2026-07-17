@@ -580,6 +580,27 @@ say	O
 # chapter = unknown
 # sample_type = positive
 # source_file = entities/tsv/11_alices_adventures_in_wonderland_brat.tsv
+# text = please , ma’am , is this new zealand or australia ? ’
+please	O
+,	O
+ma’am	O
+,	O
+is	O
+this	O
+new	B-LOCATION
+zealand	I-LOCATION
+or	O
+australia	B-LOCATION
+?	O
+’	O
+
+# id = litbank-0016
+# source = LitBank
+# book = Alice's Adventures in Wonderland
+# book_id = 11_alices_adventures_in_wonderland
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/11_alices_adventures_in_wonderland_brat.tsv
 # text = there was nothing else to do , so alice soon began talking again .
 there	O
 was	O
@@ -596,7 +617,7 @@ talking	O
 again	O
 .	O
 
-# id = litbank-0016
+# id = litbank-0017
 # source = LitBank
 # book = Alice's Adventures in Wonderland
 # book_id = 11_alices_adventures_in_wonderland
@@ -634,7 +655,7 @@ eat	O
 bats	O
 ?	O
 
-# id = litbank-0017
+# id = litbank-0018
 # source = LitBank
 # book = Alice's Adventures in Wonderland
 # book_id = 11_alices_adventures_in_wonderland
@@ -693,7 +714,7 @@ down	O
 it	O
 .	O
 
-# id = litbank-0018
+# id = litbank-0019
 # source = LitBank
 # book = Alice's Adventures in Wonderland
 # book_id = 11_alices_adventures_in_wonderland
@@ -748,7 +769,7 @@ getting	O
 !	O
 ’	O
 
-# id = litbank-0019
+# id = litbank-0020
 # source = LitBank
 # book = Alice's Adventures in Wonderland
 # book_id = 11_alices_adventures_in_wonderland
@@ -802,7 +823,7 @@ the	O
 roof	O
 .	O
 
-# id = litbank-0020
+# id = litbank-0021
 # source = LitBank
 # book = Alice's Adventures in Wonderland
 # book_id = 11_alices_adventures_in_wonderland
@@ -862,7 +883,7 @@ out	O
 again	O
 .	O
 
-# id = litbank-0021
+# id = litbank-0022
 # source = LitBank
 # book = Alice's Adventures in Wonderland
 # book_id = 11_alices_adventures_in_wonderland
@@ -920,7 +941,7 @@ but	O
 alas	O
 !	O
 
-# id = litbank-0022
+# id = litbank-0023
 # source = LitBank
 # book = Alice's Adventures in Wonderland
 # book_id = 11_alices_adventures_in_wonderland
@@ -966,7 +987,7 @@ ever	O
 saw	O
 .	O
 
-# id = litbank-0023
+# id = litbank-0024
 # source = LitBank
 # book = Alice's Adventures in Wonderland
 # book_id = 11_alices_adventures_in_wonderland
@@ -1039,7 +1060,7 @@ my	O
 shoulders	O
 .	O
 
-# id = litbank-0024
+# id = litbank-0025
 # source = LitBank
 # book = Alice's Adventures in Wonderland
 # book_id = 11_alices_adventures_in_wonderland
@@ -1076,7 +1097,7 @@ really	O
 impossible	O
 .	O
 
-# id = litbank-0025
+# id = litbank-0026
 # source = LitBank
 # book = Alice's Adventures in Wonderland
 # book_id = 11_alices_adventures_in_wonderland
@@ -1182,7 +1203,7 @@ large	O
 letters	O
 .	O
 
-# id = litbank-0026
+# id = litbank-0027
 # source = LitBank
 # book = Alice's Adventures in Wonderland
 # book_id = 11_alices_adventures_in_wonderland
@@ -1218,7 +1239,7 @@ a	O
 hurry	O
 .	O
 
-# id = litbank-0027
+# id = litbank-0028
 # source = LitBank
 # book = Alice's Adventures in Wonderland
 # book_id = 11_alices_adventures_in_wonderland
@@ -1288,7 +1309,7 @@ it	O
 off	O
 .	O
 
-# id = litbank-0028
+# id = litbank-0029
 # source = LitBank
 # book = Alice's Adventures in Wonderland
 # book_id = 11_alices_adventures_in_wonderland
@@ -1311,7 +1332,7 @@ telescope	O
 .	O
 ’	O
 
-# id = litbank-0029
+# id = litbank-0030
 # source = LitBank
 # book = Alice's Adventures in Wonderland
 # book_id = 11_alices_adventures_in_wonderland

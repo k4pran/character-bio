@@ -1,4 +1,69 @@
-# id = litbank-2202
+# id = litbank-2677
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = chapter i the strange man 's arrival the stranger came early in february , one wintry day , through a biting wind and a driving snow , the last snowfall of the year , over the down , walking from bramblehurst railway station , and carrying a little black portmanteau in his thickly gloved hand .
+chapter	O
+i	O
+the	O
+strange	O
+man	O
+'s	O
+arrival	O
+the	O
+stranger	O
+came	O
+early	O
+in	O
+february	O
+,	O
+one	O
+wintry	O
+day	O
+,	O
+through	O
+a	O
+biting	O
+wind	O
+and	O
+a	O
+driving	O
+snow	O
+,	O
+the	O
+last	O
+snowfall	O
+of	O
+the	O
+year	O
+,	O
+over	O
+the	O
+down	O
+,	O
+walking	O
+from	O
+bramblehurst	B-LOCATION
+railway	O
+station	O
+,	O
+and	O
+carrying	O
+a	O
+little	O
+black	O
+portmanteau	O
+in	O
+his	O
+thickly	O
+gloved	O
+hand	O
+.	O
+
+# id = litbank-2681
 # source = LitBank
 # book = The Invisible Man
 # book_id = 5230_the_invisible_man_a_grotesque_romance
@@ -33,7 +98,7 @@ his	O
 bargain	O
 .	O
 
-# id = litbank-2204
+# id = litbank-2683
 # source = LitBank
 # book = The Invisible Man
 # book_id = 5230_the_invisible_man_a_grotesque_romance
@@ -64,7 +129,56 @@ own	O
 hands	O
 .	O
 
-# id = litbank-2205
+# id = litbank-2684
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = a guest to stop at iping in the wintertime was an unheard-of piece of luck , let alone a guest who was no " haggler , " and she was resolved to show herself worthy of her good fortune .
+a	O
+guest	O
+to	O
+stop	O
+at	O
+iping	B-LOCATION
+in	O
+the	O
+wintertime	O
+was	O
+an	O
+unheard-of	O
+piece	O
+of	O
+luck	O
+,	O
+let	O
+alone	O
+a	O
+guest	O
+who	O
+was	O
+no	O
+"	O
+haggler	O
+,	O
+"	O
+and	O
+she	O
+was	O
+resolved	O
+to	O
+show	O
+herself	O
+worthy	O
+of	O
+her	O
+good	O
+fortune	O
+.	O
+
+# id = litbank-2685
 # source = LitBank
 # book = The Invisible Man
 # book_id = 5230_the_invisible_man_a_grotesque_romance
@@ -129,7 +243,7 @@ eclat	O
 _	O
 .	O
 
-# id = litbank-2206
+# id = litbank-2687
 # source = LitBank
 # book = The Invisible Man
 # book_id = 5230_the_invisible_man_a_grotesque_romance
@@ -183,7 +297,7 @@ the	O
 room	O
 .	O
 
-# id = litbank-2207
+# id = litbank-2688
 # source = LitBank
 # book = The Invisible Man
 # book_id = 5230_the_invisible_man_a_grotesque_romance
@@ -213,7 +327,7 @@ excessive	O
 slowness	O
 .	O
 
-# id = litbank-2208
+# id = litbank-2689
 # source = LitBank
 # book = The Invisible Man
 # book_id = 5230_the_invisible_man_a_grotesque_romance
@@ -245,7 +359,7 @@ indeed	O
 !	O
 )	O
 
-# id = litbank-2209
+# id = litbank-2690
 # source = LitBank
 # book = The Invisible Man
 # book_id = 5230_the_invisible_man_a_grotesque_romance
@@ -264,7 +378,7 @@ mrs.	B-CHARACTER
 hall	I-CHARACTER
 .	O
 
-# id = litbank-2210
+# id = litbank-2691
 # source = LitBank
 # book = The Invisible Man
 # book_id = 5230_the_invisible_man_a_grotesque_romance
@@ -303,7 +417,7 @@ got	O
 there	O
 .	O
 
-# id = litbank-2211
+# id = litbank-2692
 # source = LitBank
 # book = The Invisible Man
 # book_id = 5230_the_invisible_man_a_grotesque_romance
@@ -333,7 +447,7 @@ mrs.	B-CHARACTER
 hall	I-CHARACTER
 .	O
 
-# id = litbank-2212
+# id = litbank-2693
 # source = LitBank
 # book = The Invisible Man
 # book_id = 5230_the_invisible_man_a_grotesque_romance
@@ -372,7 +486,7 @@ millie	B-CHARACTER
 ?	O
 "	O
 
-# id = litbank-2213
+# id = litbank-2694
 # source = LitBank
 # book = The Invisible Man
 # book_id = 5230_the_invisible_man_a_grotesque_romance
@@ -459,7 +573,43 @@ his	O
 lips	O
 .	O
 
-# id = litbank-2214
+# id = litbank-2695
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = " i have some luggage , " he said , " at bramblehurst station , " and he asked her how he could have it sent .
+"	O
+i	O
+have	O
+some	O
+luggage	O
+,	O
+"	O
+he	O
+said	O
+,	O
+"	O
+at	O
+bramblehurst	B-LOCATION
+station	O
+,	O
+"	O
+and	O
+he	O
+asked	O
+her	O
+how	O
+he	O
+could	O
+have	O
+it	O
+sent	O
+.	O
+
+# id = litbank-2696
 # source = LitBank
 # book = The Invisible Man
 # book_id = 5230_the_invisible_man_a_grotesque_romance
@@ -482,72 +632,7 @@ a	O
 conversation	O
 .	O
 
-# id = litbank-2198
-# source = LitBank
-# book = The Invisible Man
-# book_id = 5230_the_invisible_man_a_grotesque_romance
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
-# text = chapter i the strange man 's arrival the stranger came early in february , one wintry day , through a biting wind and a driving snow , the last snowfall of the year , over the down , walking from bramblehurst railway station , and carrying a little black portmanteau in his thickly gloved hand .
-chapter	O
-i	O
-the	O
-strange	O
-man	O
-'s	O
-arrival	O
-the	O
-stranger	O
-came	O
-early	O
-in	O
-february	O
-,	O
-one	O
-wintry	O
-day	O
-,	O
-through	O
-a	O
-biting	O
-wind	O
-and	O
-a	O
-driving	O
-snow	O
-,	O
-the	O
-last	O
-snowfall	O
-of	O
-the	O
-year	O
-,	O
-over	O
-the	O
-down	O
-,	O
-walking	O
-from	O
-bramblehurst	O
-railway	O
-station	O
-,	O
-and	O
-carrying	O
-a	O
-little	O
-black	O
-portmanteau	O
-in	O
-his	O
-thickly	O
-gloved	O
-hand	O
-.	O
-
-# id = litbank-2199
+# id = litbank-2678
 # source = LitBank
 # book = The Invisible Man
 # book_id = 5230_the_invisible_man_a_grotesque_romance
@@ -609,7 +694,7 @@ he	O
 carried	O
 .	O
 
-# id = litbank-2200
+# id = litbank-2679
 # source = LitBank
 # book = The Invisible Man
 # book_id = 5230_the_invisible_man_a_grotesque_romance
@@ -638,7 +723,7 @@ portmanteau	O
 down	O
 .	O
 
-# id = litbank-2201
+# id = litbank-2680
 # source = LitBank
 # book = The Invisible Man
 # book_id = 5230_the_invisible_man_a_grotesque_romance
@@ -663,7 +748,7 @@ human	O
 charity	O
 !	O
 
-# id = litbank-2203
+# id = litbank-2682
 # source = LitBank
 # book = The Invisible Man
 # book_id = 5230_the_invisible_man_a_grotesque_romance
@@ -696,5 +781,57 @@ quarters	O
 in	O
 the	O
 inn	O
+.	O
+
+# id = litbank-2686
+# source = LitBank
+# book = The Invisible Man
+# book_id = 5230_the_invisible_man_a_grotesque_romance
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/5230_the_invisible_man_a_grotesque_romance_brat.tsv
+# text = although the fire was burning up briskly , she was surprised to see that her visitor still wore his hat and coat , standing with his back to her and staring out of the window at the falling snow in the yard .
+although	O
+the	O
+fire	O
+was	O
+burning	O
+up	O
+briskly	O
+,	O
+she	O
+was	O
+surprised	O
+to	O
+see	O
+that	O
+her	O
+visitor	O
+still	O
+wore	O
+his	O
+hat	O
+and	O
+coat	O
+,	O
+standing	O
+with	O
+his	O
+back	O
+to	O
+her	O
+and	O
+staring	O
+out	O
+of	O
+the	O
+window	O
+at	O
+the	O
+falling	O
+snow	O
+in	O
+the	O
+yard	O
 .	O
 

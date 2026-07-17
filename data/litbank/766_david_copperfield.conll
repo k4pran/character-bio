@@ -1,4 +1,34 @@
-# id = litbank-1235
+# id = litbank-1499
+# source = LitBank
+# book = David Copperfield
+# book_id = 766_david_copperfield
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/766_david_copperfield_brat.tsv
+# text = i was born at blunderstone , in suffolk , or ‘ there by ’ , as they say in scotland .
+i	O
+was	O
+born	O
+at	O
+blunderstone	B-LOCATION
+,	O
+in	O
+suffolk	B-LOCATION
+,	O
+or	O
+‘	O
+there	O
+by	O
+’	O
+,	O
+as	O
+they	O
+say	O
+in	O
+scotland	B-LOCATION
+.	O
+
+# id = litbank-1500
 # source = LitBank
 # book = David Copperfield
 # book_id = 766_david_copperfield
@@ -119,7 +149,7 @@ stairs	O
 window	O
 .	O
 
-# id = litbank-1236
+# id = litbank-1501
 # source = LitBank
 # book = David Copperfield
 # book_id = 766_david_copperfield
@@ -151,7 +181,89 @@ mutual	O
 consent	O
 .	O
 
-# id = litbank-1237
+# id = litbank-1502
+# source = LitBank
+# book = David Copperfield
+# book_id = 766_david_copperfield
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/766_david_copperfield_brat.tsv
+# text = he went to india with his capital , and there , according to a wild legend in our family , he was once seen riding on an elephant , in company with a baboon ; but i think it must have been a baboo -- or a begum .
+he	O
+went	O
+to	O
+india	B-LOCATION
+with	O
+his	O
+capital	O
+,	O
+and	O
+there	O
+,	O
+according	O
+to	O
+a	O
+wild	O
+legend	O
+in	O
+our	O
+family	O
+,	O
+he	O
+was	O
+once	O
+seen	O
+riding	O
+on	O
+an	O
+elephant	O
+,	O
+in	O
+company	O
+with	O
+a	O
+baboon	O
+;	O
+but	O
+i	O
+think	O
+it	O
+must	O
+have	O
+been	O
+a	O
+baboo	O
+--	O
+or	O
+a	O
+begum	O
+.	O
+
+# id = litbank-1503
+# source = LitBank
+# book = David Copperfield
+# book_id = 766_david_copperfield
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/766_david_copperfield_brat.tsv
+# text = anyhow , from india tidings of his death reached home , within ten years .
+anyhow	O
+,	O
+from	O
+india	B-LOCATION
+tidings	O
+of	O
+his	O
+death	O
+reached	O
+home	O
+,	O
+within	O
+ten	O
+years	O
+.	O
+
+# id = litbank-1504
 # source = LitBank
 # book = David Copperfield
 # book_id = 766_david_copperfield
@@ -169,7 +281,7 @@ met	O
 again	O
 .	O
 
-# id = litbank-1238
+# id = litbank-1505
 # source = LitBank
 # book = David Copperfield
 # book_id = 766_david_copperfield
@@ -195,7 +307,7 @@ miss	B-CHARACTER
 betsey	I-CHARACTER
 .	O
 
-# id = litbank-1239
+# id = litbank-1506
 # source = LitBank
 # book = David Copperfield
 # book_id = 766_david_copperfield
@@ -232,7 +344,7 @@ a	O
 friday	O
 .	O
 
-# id = litbank-1240
+# id = litbank-1507
 # source = LitBank
 # book = David Copperfield
 # book_id = 766_david_copperfield
@@ -281,7 +393,7 @@ my	O
 mother	O
 .	O
 
-# id = litbank-1241
+# id = litbank-1508
 # source = LitBank
 # book = David Copperfield
 # book_id = 766_david_copperfield
@@ -320,7 +432,7 @@ her	O
 condition	O
 .	O
 
-# id = litbank-1242
+# id = litbank-1509
 # source = LitBank
 # book = David Copperfield
 # book_id = 766_david_copperfield
@@ -338,7 +450,7 @@ the	O
 visitor	O
 .	O
 
-# id = litbank-1243
+# id = litbank-1510
 # source = LitBank
 # book = David Copperfield
 # book_id = 766_david_copperfield
@@ -358,7 +470,7 @@ miss	B-CHARACTER
 betsey	I-CHARACTER
 .	O
 
-# id = litbank-1244
+# id = litbank-1511
 # source = LitBank
 # book = David Copperfield
 # book_id = 766_david_copperfield
@@ -435,7 +547,7 @@ to	O
 cry	O
 .	O
 
-# id = litbank-1245
+# id = litbank-1512
 # source = LitBank
 # book = David Copperfield
 # book_id = 766_david_copperfield
@@ -452,7 +564,7 @@ a	O
 hurry	O
 .	O
 
-# id = litbank-1246
+# id = litbank-1513
 # source = LitBank
 # book = David Copperfield
 # book_id = 766_david_copperfield
@@ -482,7 +594,7 @@ you	O
 .	O
 ’	O
 
-# id = litbank-1230
+# id = litbank-1494
 # source = LitBank
 # book = David Copperfield
 # book_id = 766_david_copperfield
@@ -524,7 +636,7 @@ must	O
 show	O
 .	O
 
-# id = litbank-1231
+# id = litbank-1495
 # source = LitBank
 # book = David Copperfield
 # book_id = 766_david_copperfield
@@ -569,7 +681,7 @@ at	O
 night	O
 .	O
 
-# id = litbank-1232
+# id = litbank-1496
 # source = LitBank
 # book = David Copperfield
 # book_id = 766_david_copperfield
@@ -596,7 +708,7 @@ cry	O
 simultaneously	O
 .	O
 
-# id = litbank-1233
+# id = litbank-1497
 # source = LitBank
 # book = David Copperfield
 # book_id = 766_david_copperfield
@@ -635,7 +747,7 @@ the	O
 result	O
 .	O
 
-# id = litbank-1234
+# id = litbank-1498
 # source = LitBank
 # book = David Copperfield
 # book_id = 766_david_copperfield

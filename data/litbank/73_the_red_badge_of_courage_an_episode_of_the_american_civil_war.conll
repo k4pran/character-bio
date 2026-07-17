@@ -1,4 +1,4 @@
-# id = litbank-0271
+# id = litbank-0318
 # source = LitBank
 # book = The Red Badge of Courage
 # book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
@@ -15,7 +15,7 @@ jim	B-CHARACTER
 ?	O
 "	O
 
-# id = litbank-0272
+# id = litbank-0319
 # source = LitBank
 # book = The Red Badge of Courage
 # book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
@@ -40,7 +40,7 @@ had	O
 replied	O
 .	O
 
-# id = litbank-0273
+# id = litbank-0320
 # source = LitBank
 # book = The Red Badge of Courage
 # book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
@@ -75,7 +75,7 @@ brindle	O
 cow	O
 .	O
 
-# id = litbank-0274
+# id = litbank-0321
 # source = LitBank
 # book = The Red Badge of Courage
 # book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
@@ -126,7 +126,7 @@ of	O
 yerself	O
 .	O
 
-# id = litbank-0275
+# id = litbank-0322
 # source = LitBank
 # book = The Red Badge of Courage
 # book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
@@ -143,7 +143,7 @@ are	O
 henry	B-CHARACTER
 .	O
 
-# id = litbank-0276
+# id = litbank-0323
 # source = LitBank
 # book = The Red Badge of Courage
 # book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
@@ -194,7 +194,7 @@ the	O
 army	O
 .	O
 
-# id = litbank-0277
+# id = litbank-0324
 # source = LitBank
 # book = The Red Badge of Courage
 # book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
@@ -215,7 +215,7 @@ army	O
 henry	B-CHARACTER
 .	O
 
-# id = litbank-0278
+# id = litbank-0325
 # source = LitBank
 # book = The Red Badge of Courage
 # book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
@@ -232,7 +232,7 @@ folks	O
 henry	B-CHARACTER
 .	O
 
-# id = litbank-0279
+# id = litbank-0326
 # source = LitBank
 # book = The Red Badge of Courage
 # book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
@@ -265,7 +265,7 @@ know	O
 about	O
 .	O
 
-# id = litbank-0266
+# id = litbank-0313
 # source = LitBank
 # book = The Red Badge of Courage
 # book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
@@ -299,7 +299,7 @@ hills	O
 resting	O
 .	O
 
-# id = litbank-0267
+# id = litbank-0314
 # source = LitBank
 # book = The Red Badge of Courage
 # book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
@@ -333,7 +333,7 @@ of	O
 rumors	O
 .	O
 
-# id = litbank-0268
+# id = litbank-0315
 # source = LitBank
 # book = The Red Badge of Courage
 # book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
@@ -363,7 +363,7 @@ proper	O
 thoroughfares	O
 .	O
 
-# id = litbank-0269
+# id = litbank-0316
 # source = LitBank
 # book = The Red Badge of Courage
 # book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war
@@ -426,7 +426,7 @@ distant	O
 hills	O
 .	O
 
-# id = litbank-0270
+# id = litbank-0317
 # source = LitBank
 # book = The Red Badge of Courage
 # book_id = 73_the_red_badge_of_courage_an_episode_of_the_american_civil_war

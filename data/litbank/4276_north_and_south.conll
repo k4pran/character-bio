@@ -1,4 +1,4 @@
-# id = litbank-2097
+# id = litbank-2568
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -11,7 +11,7 @@ edith	B-CHARACTER
 !	O
 '	O
 
-# id = litbank-2098
+# id = litbank-2569
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -29,7 +29,7 @@ edith	B-CHARACTER
 !	O
 '	O
 
-# id = litbank-2099
+# id = litbank-2570
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -50,7 +50,42 @@ fallen	O
 asleep	O
 .	O
 
-# id = litbank-2101
+# id = litbank-2571
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = she lay curled up on the sofa in the back drawing-room in harley street , looking very lovely in her white muslin and blue ribbons .
+she	O
+lay	O
+curled	O
+up	O
+on	O
+the	O
+sofa	O
+in	O
+the	O
+back	O
+drawing-room	O
+in	O
+harley	B-LOCATION
+street	I-LOCATION
+,	O
+looking	O
+very	O
+lovely	O
+in	O
+her	O
+white	O
+muslin	O
+and	O
+blue	O
+ribbons	O
+.	O
+
+# id = litbank-2572
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -94,7 +129,7 @@ for	O
 her	O
 .	O
 
-# id = litbank-2102
+# id = litbank-2573
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -113,7 +148,7 @@ cousin	O
 beauty	O
 .	O
 
-# id = litbank-2103
+# id = litbank-2574
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -184,7 +219,7 @@ edith	B-CHARACTER
 possessed	O
 .	O
 
-# id = litbank-2104
+# id = litbank-2575
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -219,7 +254,7 @@ her	O
 future	O
 life	O
 at	O
-corfu	O
+corfu	B-LOCATION
 ,	O
 where	O
 his	O
@@ -271,7 +306,7 @@ in	O
 the	O
 visits	O
 to	O
-scotland	O
+scotland	B-LOCATION
 ,	O
 which	O
 would	O
@@ -347,7 +382,7 @@ after-dinner	O
 nap	O
 .	O
 
-# id = litbank-2105
+# id = litbank-2576
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -421,7 +456,48 @@ her	O
 home	O
 .	O
 
-# id = litbank-2109
+# id = litbank-2579
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = as she thought of the delight of filling the important post of only daughter in helstone parsonage , pieces of the conversation out of the next room came upon her ears .
+as	O
+she	O
+thought	O
+of	O
+the	O
+delight	O
+of	O
+filling	O
+the	O
+important	O
+post	O
+of	O
+only	O
+daughter	O
+in	O
+helstone	B-LOCATION
+parsonage	O
+,	O
+pieces	O
+of	O
+the	O
+conversation	O
+out	O
+of	O
+the	O
+next	O
+room	O
+came	O
+upon	O
+her	O
+ears	O
+.	O
+
+# id = litbank-2580
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -456,7 +532,7 @@ the	O
 dining-room	O
 .	O
 
-# id = litbank-2110
+# id = litbank-2581
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -528,7 +604,7 @@ before	O
 luncheon	O
 .	O
 
-# id = litbank-2111
+# id = litbank-2582
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -564,7 +640,7 @@ approaching	O
 marriage	O
 .	O
 
-# id = litbank-2112
+# id = litbank-2583
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -653,7 +729,7 @@ farewell	O
 dinners	O
 .	O
 
-# id = litbank-2113
+# id = litbank-2584
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -728,7 +804,7 @@ the	O
 drawing-room	O
 .	O
 
-# id = litbank-2114
+# id = litbank-2585
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -757,7 +833,7 @@ than	O
 usual	O
 .	O
 
-# id = litbank-2115
+# id = litbank-2586
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -785,7 +861,7 @@ overheard	O
 .	O
 '	O
 
-# id = litbank-2116
+# id = litbank-2587
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -834,7 +910,7 @@ to	O
 encounter	O
 .	O
 
-# id = litbank-2117
+# id = litbank-2589
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -871,7 +947,7 @@ the	O
 blank	O
 .	O
 
-# id = litbank-2118
+# id = litbank-2590
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -894,7 +970,7 @@ remarkably	O
 smooth	O
 .	O
 
-# id = litbank-2119
+# id = litbank-2591
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -948,7 +1024,7 @@ pretty	O
 heiress	O
 .	O
 
-# id = litbank-2120
+# id = litbank-2592
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -988,7 +1064,7 @@ the	O
 general	O
 .	O
 
-# id = litbank-2121
+# id = litbank-2593
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1012,7 +1088,7 @@ her	O
 daughter	O
 .	O
 
-# id = litbank-2122
+# id = litbank-2594
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1042,7 +1118,7 @@ a	O
 good	O
 house	O
 in	O
-belgravia	O
+belgravia	B-LOCATION
 ,	O
 to	O
 all	O
@@ -1056,10 +1132,10 @@ captain	B-CHARACTER
 lennox	I-CHARACTER
 described	O
 at	O
-corfu	O
+corfu	B-LOCATION
 .	O
 
-# id = litbank-2123
+# id = litbank-2595
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1121,7 +1197,7 @@ to	O
 her	O
 .	O
 
-# id = litbank-2124
+# id = litbank-2596
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1197,7 +1273,7 @@ was	O
 desirable	O
 .	O
 
-# id = litbank-2125
+# id = litbank-2597
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1257,7 +1333,7 @@ love	O
 .	O
 '	O
 
-# id = litbank-2126
+# id = litbank-2598
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1283,7 +1359,7 @@ margaret	B-CHARACTER
 heard	O
 .	O
 
-# id = litbank-2127
+# id = litbank-2600
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1343,7 +1419,7 @@ few	O
 weeks	O
 .	O
 
-# id = litbank-2128
+# id = litbank-2601
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1382,7 +1458,7 @@ refuse	O
 her	O
 .	O
 
-# id = litbank-2129
+# id = litbank-2602
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1405,7 +1481,18 @@ indian	O
 shawls	O
 .	O
 
-# id = litbank-2130
+# id = litbank-2603
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = delhi ?
+delhi	B-LOCATION
+?	O
+
+# id = litbank-2604
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1450,7 +1537,7 @@ back	O
 drawing-room	O
 .	O
 
-# id = litbank-2131
+# id = litbank-2605
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1462,7 +1549,7 @@ drawing-room	O
 edith	B-CHARACTER
 !	O
 
-# id = litbank-2132
+# id = litbank-2606
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1474,7 +1561,7 @@ edith	B-CHARACTER
 !	O
 '	O
 
-# id = litbank-2133
+# id = litbank-2607
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1487,7 +1574,7 @@ stepped	O
 forward	O
 .	O
 
-# id = litbank-2134
+# id = litbank-2608
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1504,7 +1591,7 @@ aunt	O
 shaw	B-CHARACTER
 .	O
 
-# id = litbank-2135
+# id = litbank-2609
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1543,7 +1630,7 @@ of	O
 pity	O
 .	O
 
-# id = litbank-2136
+# id = litbank-2610
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1578,7 +1665,7 @@ dear	O
 ?	O
 '	O
 
-# id = litbank-2137
+# id = litbank-2611
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1617,7 +1704,7 @@ the	O
 wedding	O
 .	O
 
-# id = litbank-2138
+# id = litbank-2612
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1703,7 +1790,48 @@ cousin	O
 edith	B-CHARACTER
 .	O
 
-# id = litbank-2139
+# id = litbank-2613
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = she remembered the dark , dim look of the london nursery , presided over by an austere and ceremonious nurse , who was terribly particular about clean hands and torn frocks .
+she	O
+remembered	O
+the	O
+dark	O
+,	O
+dim	O
+look	O
+of	O
+the	O
+london	B-LOCATION
+nursery	O
+,	O
+presided	O
+over	O
+by	O
+an	O
+austere	O
+and	O
+ceremonious	O
+nurse	O
+,	O
+who	O
+was	O
+terribly	O
+particular	O
+about	O
+clean	O
+hands	O
+and	O
+torn	O
+frocks	O
+.	O
+
+# id = litbank-2614
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1720,8 +1848,8 @@ came	O
 to	O
 live	O
 in	O
-harley	O
-street	O
+harley	B-LOCATION
+street	I-LOCATION
 --	O
 her	O
 mother	O
@@ -1757,7 +1885,7 @@ and	O
 mother	O
 .	O
 
-# id = litbank-2140
+# id = litbank-2615
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1859,7 +1987,7 @@ sleeping	O
 daughter	O
 .	O
 
-# id = litbank-2141
+# id = litbank-2616
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1959,7 +2087,7 @@ to	O
 come	O
 up	O
 to	O
-london	O
+london	B-LOCATION
 ,	O
 even	O
 for	O
@@ -1968,7 +2096,7 @@ few	O
 days	O
 .	O
 
-# id = litbank-2142
+# id = litbank-2617
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -1982,7 +2110,7 @@ newton	B-CHARACTER
 !	O
 '	O
 
-# id = litbank-2096
+# id = litbank-2567
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -2008,42 +2136,7 @@ a	O
 .	O
 '	O
 
-# id = litbank-2100
-# source = LitBank
-# book = North and South
-# book_id = 4276_north_and_south
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/4276_north_and_south_brat.tsv
-# text = she lay curled up on the sofa in the back drawing-room in harley street , looking very lovely in her white muslin and blue ribbons .
-she	O
-lay	O
-curled	O
-up	O
-on	O
-the	O
-sofa	O
-in	O
-the	O
-back	O
-drawing-room	O
-in	O
-harley	O
-street	O
-,	O
-looking	O
-very	O
-lovely	O
-in	O
-her	O
-white	O
-muslin	O
-and	O
-blue	O
-ribbons	O
-.	O
-
-# id = litbank-2106
+# id = litbank-2577
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -2073,7 +2166,7 @@ as	O
 heretofore	O
 .	O
 
-# id = litbank-2107
+# id = litbank-2578
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
@@ -2107,44 +2200,85 @@ dear	O
 cousin	O
 .	O
 
-# id = litbank-2108
+# id = litbank-2588
 # source = LitBank
 # book = North and South
 # book_id = 4276_north_and_south
 # chapter = unknown
 # sample_type = negative
 # source_file = entities/tsv/4276_north_and_south_brat.tsv
-# text = as she thought of the delight of filling the important post of only daughter in helstone parsonage , pieces of the conversation out of the next room came upon her ears .
-as	O
-she	O
-thought	O
+# text = of course , without any maternal partiality , i foresaw that the dear child was likely to marry early ; indeed , i had often said that i was sure she would be married before she was nineteen .
 of	O
-the	O
-delight	O
-of	O
-filling	O
-the	O
-important	O
-post	O
-of	O
-only	O
-daughter	O
-in	O
-helstone	O
-parsonage	O
+course	O
 ,	O
-pieces	O
-of	O
+without	O
+any	O
+maternal	O
+partiality	O
+,	O
+i	O
+foresaw	O
+that	O
 the	O
-conversation	O
-out	O
-of	O
-the	O
-next	O
-room	O
-came	O
-upon	O
-her	O
-ears	O
+dear	O
+child	O
+was	O
+likely	O
+to	O
+marry	O
+early	O
+;	O
+indeed	O
+,	O
+i	O
+had	O
+often	O
+said	O
+that	O
+i	O
+was	O
+sure	O
+she	O
+would	O
+be	O
+married	O
+before	O
+she	O
+was	O
+nineteen	O
 .	O
+
+# id = litbank-2599
+# source = LitBank
+# book = North and South
+# book_id = 4276_north_and_south
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/4276_north_and_south_brat.tsv
+# text = ' she has all the beautiful indian shawls and scarfs the general gave to me , but which i shall never wear again . '
+'	O
+she	O
+has	O
+all	O
+the	O
+beautiful	O
+indian	O
+shawls	O
+and	O
+scarfs	O
+the	O
+general	O
+gave	O
+to	O
+me	O
+,	O
+but	O
+which	O
+i	O
+shall	O
+never	O
+wear	O
+again	O
+.	O
+'	O
 

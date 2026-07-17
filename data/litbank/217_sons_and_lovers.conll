@@ -1,4 +1,415 @@
-# id = litbank-0763
+# id = litbank-0905
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = part one chapter i the early married life of the morels “ the bottoms ” succeeded to “ hell row ” .
+part	O
+one	O
+chapter	O
+i	O
+the	O
+early	O
+married	O
+life	O
+of	O
+the	O
+morels	O
+“	O
+the	O
+bottoms	O
+”	O
+succeeded	O
+to	O
+“	O
+hell	B-LOCATION
+row	I-LOCATION
+”	O
+.	O
+
+# id = litbank-0906
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = hell row was a block of thatched , bulging cottages that stood by the brookside on greenhill lane .
+hell	B-LOCATION
+row	I-LOCATION
+was	O
+a	O
+block	O
+of	O
+thatched	O
+,	O
+bulging	O
+cottages	O
+that	O
+stood	O
+by	O
+the	O
+brookside	O
+on	O
+greenhill	B-LOCATION
+lane	I-LOCATION
+.	O
+
+# id = litbank-0910
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = and the cottages of these coal-miners , in blocks and pairs here and there , together with odd farms and homes of the stockingers , straying over the parish , formed the village of bestwood .
+and	O
+the	O
+cottages	O
+of	O
+these	O
+coal-miners	O
+,	O
+in	O
+blocks	O
+and	O
+pairs	O
+here	O
+and	O
+there	O
+,	O
+together	O
+with	O
+odd	O
+farms	O
+and	O
+homes	O
+of	O
+the	O
+stockingers	O
+,	O
+straying	O
+over	O
+the	O
+parish	O
+,	O
+formed	O
+the	O
+village	O
+of	O
+bestwood	B-LOCATION
+.	O
+
+# id = litbank-0912
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = the coal and iron field of nottinghamshire and derbyshire was discovered .
+the	O
+coal	O
+and	O
+iron	O
+field	O
+of	O
+nottinghamshire	B-LOCATION
+and	O
+derbyshire	B-LOCATION
+was	O
+discovered	O
+.	O
+
+# id = litbank-0913
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = amid tremendous excitement , lord palmerston formally opened the company 's first mine at spinney park , on the edge of sherwood forest .
+amid	O
+tremendous	O
+excitement	O
+,	O
+lord	O
+palmerston	O
+formally	O
+opened	O
+the	O
+company	O
+'s	O
+first	O
+mine	O
+at	O
+spinney	B-LOCATION
+park	I-LOCATION
+,	O
+on	O
+the	O
+edge	O
+of	O
+sherwood	B-LOCATION
+forest	I-LOCATION
+.	O
+
+# id = litbank-0914
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = about this time the notorious hell row , which through growing old had acquired an evil reputation , was burned down , and much dirt was cleansed away .
+about	O
+this	O
+time	O
+the	O
+notorious	O
+hell	B-LOCATION
+row	I-LOCATION
+,	O
+which	O
+through	O
+growing	O
+old	O
+had	O
+acquired	O
+an	O
+evil	O
+reputation	O
+,	O
+was	O
+burned	O
+down	O
+,	O
+and	O
+much	O
+dirt	O
+was	O
+cleansed	O
+away	O
+.	O
+
+# id = litbank-0915
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = carston , waite & co. found they had struck on a good thing , so , down the valleys of the brooks from selby and nuttall , new mines were sunk , until soon there were six pits working .
+carston	O
+,	O
+waite	O
+&	O
+co.	O
+found	O
+they	O
+had	O
+struck	O
+on	O
+a	O
+good	O
+thing	O
+,	O
+so	O
+,	O
+down	O
+the	O
+valleys	O
+of	O
+the	O
+brooks	O
+from	O
+selby	B-LOCATION
+and	O
+nuttall	B-LOCATION
+,	O
+new	O
+mines	O
+were	O
+sunk	O
+,	O
+until	O
+soon	O
+there	O
+were	O
+six	O
+pits	O
+working	O
+.	O
+
+# id = litbank-0916
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = from nuttall , high up on the sandstone among the woods , the railway ran , past the ruined priory of the carthusians and past robin hood 's well , down to spinney park , then on to minton , a large mine among corn-fields ; from minton across the farmlands of the valleyside to bunker 's hill , branching off there , and running north to beggarlee and selby , that looks over at crich and the hills of derbyshire : six mines like black studs on the countryside , linked by a loop of fine chain , the railway .
+from	O
+nuttall	B-LOCATION
+,	O
+high	O
+up	O
+on	O
+the	O
+sandstone	O
+among	O
+the	O
+woods	O
+,	O
+the	O
+railway	O
+ran	O
+,	O
+past	O
+the	O
+ruined	O
+priory	O
+of	O
+the	O
+carthusians	B-LOCATION
+and	O
+past	O
+robin	B-LOCATION
+hood	I-LOCATION
+'s	O
+well	O
+,	O
+down	O
+to	O
+spinney	B-LOCATION
+park	I-LOCATION
+,	O
+then	O
+on	O
+to	O
+minton	B-LOCATION
+,	O
+a	O
+large	O
+mine	O
+among	O
+corn-fields	O
+;	O
+from	O
+minton	B-LOCATION
+across	O
+the	O
+farmlands	O
+of	O
+the	O
+valleyside	O
+to	O
+bunker	B-LOCATION
+'s	O
+hill	O
+,	O
+branching	O
+off	O
+there	O
+,	O
+and	O
+running	O
+north	O
+to	O
+beggarlee	B-LOCATION
+and	O
+selby	B-LOCATION
+,	O
+that	O
+looks	O
+over	O
+at	O
+crich	B-LOCATION
+and	O
+the	O
+hills	O
+of	O
+derbyshire	B-LOCATION
+:	O
+six	O
+mines	O
+like	O
+black	O
+studs	O
+on	O
+the	O
+countryside	O
+,	O
+linked	O
+by	O
+a	O
+loop	O
+of	O
+fine	O
+chain	O
+,	O
+the	O
+railway	O
+.	O
+
+# id = litbank-0917
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = to accommodate the regiments of miners , carston , waite and co. built the squares , great quadrangles of dwellings on the hillside of bestwood , and then , in the brook valley , on the site of hell row , they erected the bottoms .
+to	O
+accommodate	O
+the	O
+regiments	O
+of	O
+miners	O
+,	O
+carston	O
+,	O
+waite	O
+and	O
+co.	O
+built	O
+the	O
+squares	B-LOCATION
+,	O
+great	O
+quadrangles	O
+of	O
+dwellings	O
+on	O
+the	O
+hillside	O
+of	O
+bestwood	B-LOCATION
+,	O
+and	O
+then	O
+,	O
+in	O
+the	O
+brook	O
+valley	O
+,	O
+on	O
+the	O
+site	O
+of	O
+hell	B-LOCATION
+row	I-LOCATION
+,	O
+they	O
+erected	O
+the	O
+bottoms	O
+.	O
+
+# id = litbank-0919
 # source = LitBank
 # book = Sons and Lovers
 # book_id = 217_sons_and_lovers
@@ -35,10 +446,10 @@ descended	O
 to	O
 it	O
 from	O
-bestwood	O
+bestwood	B-LOCATION
 .	O
 
-# id = litbank-0764
+# id = litbank-0920
 # source = LitBank
 # book = Sons and Lovers
 # book_id = 217_sons_and_lovers
@@ -60,7 +471,7 @@ mrs.	B-CHARACTER
 morel	I-CHARACTER
 .	O
 
-# id = litbank-0765
+# id = litbank-0921
 # source = LitBank
 # book = Sons and Lovers
 # book_id = 217_sons_and_lovers
@@ -83,7 +494,7 @@ of	O
 it	O
 .	O
 
-# id = litbank-0766
+# id = litbank-0922
 # source = LitBank
 # book = Sons and Lovers
 # book_id = 217_sons_and_lovers
@@ -128,7 +539,7 @@ go	O
 also	O
 .	O
 
-# id = litbank-0767
+# id = litbank-0923
 # source = LitBank
 # book = Sons and Lovers
 # book_id = 217_sons_and_lovers
@@ -143,7 +554,7 @@ her	O
 work	O
 .	O
 
-# id = litbank-0768
+# id = litbank-0924
 # source = LitBank
 # book = Sons and Lovers
 # book_id = 217_sons_and_lovers
@@ -158,7 +569,7 @@ half-past	O
 twelve	O
 .	O
 
-# id = litbank-0769
+# id = litbank-0925
 # source = LitBank
 # book = Sons and Lovers
 # book_id = 217_sons_and_lovers
@@ -186,7 +597,7 @@ to	O
 cry	O
 .	O
 
-# id = litbank-0770
+# id = litbank-0926
 # source = LitBank
 # book = Sons and Lovers
 # book_id = 217_sons_and_lovers
@@ -203,7 +614,49 @@ the	O
 wakes	O
 .	O
 
-# id = litbank-0771
+# id = litbank-0927
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = the mother perceived her son gazing enraptured outside the lion wallace booth , at the pictures of this famous lion that had killed a negro and maimed for life two white men .
+the	O
+mother	O
+perceived	O
+her	O
+son	O
+gazing	O
+enraptured	O
+outside	O
+the	O
+lion	B-LOCATION
+wallace	I-LOCATION
+booth	O
+,	O
+at	O
+the	O
+pictures	O
+of	O
+this	O
+famous	O
+lion	O
+that	O
+had	O
+killed	O
+a	O
+negro	O
+and	O
+maimed	O
+for	O
+life	O
+two	O
+white	O
+men	O
+.	O
+
+# id = litbank-0928
 # source = LitBank
 # book = Sons and Lovers
 # book_id = 217_sons_and_lovers
@@ -227,66 +680,53 @@ of	O
 toffee	O
 .	O
 
-# id = litbank-0758
+# id = litbank-0929
 # source = LitBank
 # book = Sons and Lovers
 # book_id = 217_sons_and_lovers
 # chapter = unknown
-# sample_type = negative
+# sample_type = positive
 # source_file = entities/tsv/217_sons_and_lovers_brat.tsv
-# text = part one chapter i the early married life of the morels “ the bottoms ” succeeded to “ hell row ” .
-part	O
-one	O
-chapter	O
-i	O
+# text = as she crossed the open ground in front of the moon and stars she heard men shouting , and smelled the beer , and hurried a little , thinking her husband was probably in the bar .
+as	O
+she	O
+crossed	O
 the	O
-early	O
-married	O
-life	O
+open	O
+ground	O
+in	O
+front	O
 of	O
 the	O
-morels	O
-“	O
-the	O
-bottoms	O
-”	O
-succeeded	O
-to	O
-“	O
-hell	O
-row	O
-”	O
-.	O
-
-# id = litbank-0759
-# source = LitBank
-# book = Sons and Lovers
-# book_id = 217_sons_and_lovers
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
-# text = hell row was a block of thatched , bulging cottages that stood by the brookside on greenhill lane .
-hell	O
-row	O
-was	O
-a	O
-block	O
-of	O
-thatched	O
+moon	B-LOCATION
+and	O
+stars	O
+she	O
+heard	O
+men	O
+shouting	O
 ,	O
-bulging	O
-cottages	O
-that	O
-stood	O
-by	O
+and	O
+smelled	O
 the	O
-brookside	O
-on	O
-greenhill	O
-lane	O
+beer	O
+,	O
+and	O
+hurried	O
+a	O
+little	O
+,	O
+thinking	O
+her	O
+husband	O
+was	O
+probably	O
+in	O
+the	O
+bar	O
 .	O
 
-# id = litbank-0760
+# id = litbank-0907
 # source = LitBank
 # book = Sons and Lovers
 # book_id = 217_sons_and_lovers
@@ -309,7 +749,7 @@ fields	O
 away	O
 .	O
 
-# id = litbank-0761
+# id = litbank-0908
 # source = LitBank
 # book = Sons and Lovers
 # book_id = 217_sons_and_lovers
@@ -352,7 +792,7 @@ a	O
 gin	O
 .	O
 
-# id = litbank-0762
+# id = litbank-0909
 # source = LitBank
 # book = Sons and Lovers
 # book_id = 217_sons_and_lovers
@@ -410,5 +850,79 @@ corn-fields	O
 and	O
 the	O
 meadows	O
+.	O
+
+# id = litbank-0911
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = then , some sixty years ago , a sudden change took place , gin-pits were elbowed aside by the large mines of the financiers .
+then	O
+,	O
+some	O
+sixty	O
+years	O
+ago	O
+,	O
+a	O
+sudden	O
+change	O
+took	O
+place	O
+,	O
+gin-pits	O
+were	O
+elbowed	O
+aside	O
+by	O
+the	O
+large	O
+mines	O
+of	O
+the	O
+financiers	O
+.	O
+
+# id = litbank-0918
+# source = LitBank
+# book = Sons and Lovers
+# book_id = 217_sons_and_lovers
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/217_sons_and_lovers_brat.tsv
+# text = the bottoms consisted of six blocks of miners ' dwellings , two rows of three , like the dots on a blank-six domino , and twelve houses in a block .
+the	O
+bottoms	O
+consisted	O
+of	O
+six	O
+blocks	O
+of	O
+miners	O
+'	O
+dwellings	O
+,	O
+two	O
+rows	O
+of	O
+three	O
+,	O
+like	O
+the	O
+dots	O
+on	O
+a	O
+blank-six	O
+domino	O
+,	O
+and	O
+twelve	O
+houses	O
+in	O
+a	O
+block	O
 .	O
 

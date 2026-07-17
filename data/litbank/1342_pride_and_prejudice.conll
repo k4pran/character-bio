@@ -1,4 +1,4 @@
-# id = litbank-1572
+# id = litbank-1921
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -26,8 +26,8 @@ have	O
 you	O
 heard	O
 that	O
-netherfield	O
-park	O
+netherfield	B-LOCATION
+park	I-LOCATION
 is	O
 let	O
 at	O
@@ -35,7 +35,7 @@ last	O
 ?	O
 ”	O
 
-# id = litbank-1573
+# id = litbank-1922
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -52,7 +52,7 @@ had	O
 not	O
 .	O
 
-# id = litbank-1574
+# id = litbank-1923
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -88,7 +88,7 @@ it	O
 .	O
 ”	O
 
-# id = litbank-1575
+# id = litbank-1924
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -103,7 +103,7 @@ no	O
 answer	O
 .	O
 
-# id = litbank-1578
+# id = litbank-1927
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -125,7 +125,7 @@ mrs.	B-CHARACTER
 long	I-CHARACTER
 says	O
 that	O
-netherfield	O
+netherfield	B-LOCATION
 is	O
 taken	O
 by	O
@@ -139,7 +139,7 @@ from	O
 the	O
 north	O
 of	O
-england	O
+england	B-LOCATION
 ;	O
 that	O
 he	O
@@ -202,7 +202,7 @@ week	O
 .	O
 ”	O
 
-# id = litbank-1579
+# id = litbank-1928
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -215,7 +215,7 @@ bingley	B-CHARACTER
 .	O
 ”	O
 
-# id = litbank-1581
+# id = litbank-1930
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -243,7 +243,7 @@ so	O
 tiresome	O
 !	O
 
-# id = litbank-1582
+# id = litbank-1931
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -297,7 +297,7 @@ party	O
 .	O
 ”	O
 
-# id = litbank-1583
+# id = litbank-1932
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -328,7 +328,7 @@ neighbourhood	O
 .	O
 ”	O
 
-# id = litbank-1584
+# id = litbank-1933
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -364,7 +364,7 @@ no	O
 newcomers	O
 .	O
 
-# id = litbank-1585
+# id = litbank-1934
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -426,7 +426,7 @@ lizzy	B-CHARACTER
 .	O
 ”	O
 
-# id = litbank-1586
+# id = litbank-1935
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -465,7 +465,7 @@ as	O
 lydia	B-CHARACTER
 .	O
 
-# id = litbank-1587
+# id = litbank-1936
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -512,7 +512,7 @@ sisters	O
 .	O
 ”	O
 
-# id = litbank-1588
+# id = litbank-1937
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -539,7 +539,7 @@ a	O
 way	O
 ?	O
 
-# id = litbank-1589
+# id = litbank-1938
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -584,7 +584,7 @@ his	O
 character	O
 .	O
 
-# id = litbank-1590
+# id = litbank-1939
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -609,7 +609,7 @@ mr.	B-CHARACTER
 bingley	I-CHARACTER
 .	O
 
-# id = litbank-1591
+# id = litbank-1940
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -646,7 +646,7 @@ lizzy	B-CHARACTER
 .	O
 ”	O
 
-# id = litbank-1592
+# id = litbank-1941
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -686,7 +686,7 @@ visit	O
 .	O
 ”	O
 
-# id = litbank-1593
+# id = litbank-1942
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -726,7 +726,7 @@ him	O
 .	O
 ”	O
 
-# id = litbank-1594
+# id = litbank-1943
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -748,7 +748,7 @@ such	O
 thing	O
 .	O
 
-# id = litbank-1595
+# id = litbank-1944
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -786,7 +786,7 @@ you	O
 .	O
 ”	O
 
-# id = litbank-1596
+# id = litbank-1945
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -818,7 +818,7 @@ her	O
 daughters	O
 .	O
 
-# id = litbank-1597
+# id = litbank-1946
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -841,7 +841,7 @@ heaven	O
 sake	O
 !	O
 
-# id = litbank-1598
+# id = litbank-1947
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -871,7 +871,7 @@ ill	O
 .	O
 ”	O
 
-# id = litbank-1599
+# id = litbank-1948
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -895,7 +895,7 @@ kitty	B-CHARACTER
 fretfully	O
 .	O
 
-# id = litbank-1600
+# id = litbank-1949
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -916,7 +916,7 @@ lizzy	B-CHARACTER
 ?	O
 ”	O
 
-# id = litbank-1601
+# id = litbank-1950
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -970,7 +970,7 @@ herself	O
 .	O
 ”	O
 
-# id = litbank-1602
+# id = litbank-1951
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -1004,7 +1004,7 @@ _	O
 .	O
 ”	O
 
-# id = litbank-1603
+# id = litbank-1952
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -1038,7 +1038,7 @@ teasing	O
 ?	O
 ”	O
 
-# id = litbank-1604
+# id = litbank-1953
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -1101,7 +1101,7 @@ myself	O
 .	O
 ”	O
 
-# id = litbank-1605
+# id = litbank-1954
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -1121,7 +1121,7 @@ nonsense	O
 !	O
 ”	O
 
-# id = litbank-1606
+# id = litbank-1955
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -1136,7 +1136,7 @@ you	O
 mary	B-CHARACTER
 ?	O
 
-# id = litbank-1607
+# id = litbank-1956
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -1157,7 +1157,7 @@ not	O
 how	O
 .	O
 
-# id = litbank-1608
+# id = litbank-1957
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -1187,7 +1187,7 @@ bingley	I-CHARACTER
 .	O
 ”	O
 
-# id = litbank-1609
+# id = litbank-1958
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -1209,7 +1209,7 @@ his	O
 wife	O
 .	O
 
-# id = litbank-1610
+# id = litbank-1959
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -1264,7 +1264,7 @@ the	O
 while	O
 .	O
 
-# id = litbank-1611
+# id = litbank-1960
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -1286,7 +1286,7 @@ mr.	B-CHARACTER
 bennet	I-CHARACTER
 !	O
 
-# id = litbank-1612
+# id = litbank-1961
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -1333,7 +1333,7 @@ his	O
 wife	O
 .	O
 
-# id = litbank-1613
+# id = litbank-1962
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -1370,7 +1370,7 @@ ball	O
 .	O
 ”	O
 
-# id = litbank-1570
+# id = litbank-1919
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -1407,7 +1407,7 @@ a	O
 wife	O
 .	O
 
-# id = litbank-1571
+# id = litbank-1920
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -1466,7 +1466,7 @@ their	O
 daughters	O
 .	O
 
-# id = litbank-1576
+# id = litbank-1925
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -1488,7 +1488,7 @@ it	O
 ?	O
 ”	O
 
-# id = litbank-1577
+# id = litbank-1926
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice
@@ -1516,7 +1516,7 @@ it	O
 .	O
 ”	O
 
-# id = litbank-1580
+# id = litbank-1929
 # source = LitBank
 # book = Pride and Prejudice
 # book_id = 1342_pride_and_prejudice

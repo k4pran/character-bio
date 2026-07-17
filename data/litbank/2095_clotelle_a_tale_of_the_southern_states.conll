@@ -1,4 +1,47 @@
-# id = litbank-1730
+# id = litbank-2110
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = in nearly all the cities and towns of the slave states , the real negro , or clear black , does not amount to more than one in four of the slave population .
+in	O
+nearly	O
+all	O
+the	O
+cities	O
+and	O
+towns	O
+of	O
+the	O
+slave	B-LOCATION
+states	I-LOCATION
+,	O
+the	O
+real	O
+negro	O
+,	O
+or	O
+clear	O
+black	O
+,	O
+does	O
+not	O
+amount	O
+to	O
+more	O
+than	O
+one	O
+in	O
+four	O
+of	O
+the	O
+slave	O
+population	O
+.	O
+
+# id = litbank-2114
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -16,9 +59,9 @@ the	O
 many	O
 slave-women	O
 in	O
-richmond	O
+richmond	B-LOCATION
 ,	O
-virginia	O
+virginia	B-LOCATION
 ,	O
 who	O
 hired	O
@@ -57,7 +100,7 @@ american	O
 senator	O
 .	O
 
-# id = litbank-1731
+# id = litbank-2115
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -86,7 +129,7 @@ exceedingly	O
 handsome	O
 .	O
 
-# id = litbank-1732
+# id = litbank-2116
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -123,7 +166,51 @@ two	O
 daughters	O
 .	O
 
-# id = litbank-1733
+# id = litbank-2117
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = after being cast aside by this young man , the slave-woman betook herself to the business of a laundress , and was considered to be the most tasteful woman in richmond at her vocation .
+after	O
+being	O
+cast	O
+aside	O
+by	O
+this	O
+young	O
+man	O
+,	O
+the	O
+slave-woman	O
+betook	O
+herself	O
+to	O
+the	O
+business	O
+of	O
+a	O
+laundress	O
+,	O
+and	O
+was	O
+considered	O
+to	O
+be	O
+the	O
+most	O
+tasteful	O
+woman	O
+in	O
+richmond	B-LOCATION
+at	O
+her	O
+vocation	O
+.	O
+
+# id = litbank-2118
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -158,7 +245,7 @@ her	O
 business	O
 .	O
 
-# id = litbank-1734
+# id = litbank-2119
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -183,7 +270,7 @@ termed	O
 it	O
 .	O
 
-# id = litbank-1735
+# id = litbank-2120
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -211,7 +298,7 @@ and	O
 retired	O
 gentleman	O
 of	O
-richmond	O
+richmond	B-LOCATION
 ,	O
 was	O
 first	O
@@ -226,7 +313,7 @@ of	O
 agnes	B-CHARACTER
 .	O
 
-# id = litbank-1736
+# id = litbank-2121
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -264,7 +351,7 @@ the	O
 city	O
 .	O
 
-# id = litbank-1737
+# id = litbank-2122
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -283,7 +370,7 @@ her	O
 sister	O
 .	O
 
-# id = litbank-1738
+# id = litbank-2123
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -320,7 +407,7 @@ all	O
 present	O
 .	O
 
-# id = litbank-1739
+# id = litbank-2124
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -354,7 +441,7 @@ of	O
 agnes	B-CHARACTER
 .	O
 
-# id = litbank-1740
+# id = litbank-2125
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -413,7 +500,7 @@ his	O
 side	O
 .	O
 
-# id = litbank-1741
+# id = litbank-2126
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -462,7 +549,7 @@ common	O
 vices	O
 .	O
 
-# id = litbank-1742
+# id = litbank-2127
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -485,7 +572,7 @@ two	O
 daughters	O
 .	O
 
-# id = litbank-1743
+# id = litbank-2128
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -522,7 +609,7 @@ own	O
 mistress	O
 .	O
 
-# id = litbank-1744
+# id = litbank-2129
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -566,7 +653,33 @@ of	O
 masters	O
 .	O
 
-# id = litbank-1745
+# id = litbank-2130
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = no slave speculator ever dared to cross the threshold of this planter of the old dominion .
+no	O
+slave	O
+speculator	O
+ever	O
+dared	O
+to	O
+cross	O
+the	O
+threshold	O
+of	O
+this	O
+planter	O
+of	O
+the	O
+old	O
+dominion	B-LOCATION
+.	O
+
+# id = litbank-2131
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -580,7 +693,7 @@ young	O
 linwood	B-CHARACTER
 .	O
 
-# id = litbank-1746
+# id = litbank-2132
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -634,7 +747,7 @@ his	O
 life	O
 .	O
 
-# id = litbank-1747
+# id = litbank-2133
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -677,7 +790,7 @@ of	O
 sale	O
 .	O
 
-# id = litbank-1748
+# id = litbank-2134
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -705,7 +818,7 @@ named	O
 jennings	B-CHARACTER
 .	O
 
-# id = litbank-1749
+# id = litbank-2135
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -738,7 +851,7 @@ $	O
 1200	O
 .	O
 
-# id = litbank-1750
+# id = litbank-2136
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -764,7 +877,7 @@ the	O
 auctioneer	O
 .	O
 
-# id = litbank-1751
+# id = litbank-2137
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -791,10 +904,10 @@ the	O
 finest	O
 mansion	O
 in	O
-virginia	O
+virginia	B-LOCATION
 .	O
 
-# id = litbank-1725
+# id = litbank-2108
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -821,7 +934,7 @@ very	O
 great	O
 .	O
 
-# id = litbank-1726
+# id = litbank-2109
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -858,50 +971,7 @@ his	O
 chair	O
 .	O
 
-# id = litbank-1727
-# source = LitBank
-# book = Clotelle
-# book_id = 2095_clotelle_a_tale_of_the_southern_states
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
-# text = in nearly all the cities and towns of the slave states , the real negro , or clear black , does not amount to more than one in four of the slave population .
-in	O
-nearly	O
-all	O
-the	O
-cities	O
-and	O
-towns	O
-of	O
-the	O
-slave	O
-states	O
-,	O
-the	O
-real	O
-negro	O
-,	O
-or	O
-clear	O
-black	O
-,	O
-does	O
-not	O
-amount	O
-to	O
-more	O
-than	O
-one	O
-in	O
-four	O
-of	O
-the	O
-slave	O
-population	O
-.	O
-
-# id = litbank-1728
+# id = litbank-2111
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -932,7 +1002,7 @@ and	O
 slave	O
 .	O
 
-# id = litbank-1729
+# id = litbank-2112
 # source = LitBank
 # book = Clotelle
 # book_id = 2095_clotelle_a_tale_of_the_southern_states
@@ -979,5 +1049,27 @@ pay	O
 a	O
 high	O
 price	O
+.	O
+
+# id = litbank-2113
+# source = LitBank
+# book = Clotelle
+# book_id = 2095_clotelle_a_tale_of_the_southern_states
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/2095_clotelle_a_tale_of_the_southern_states_brat.tsv
+# text = this class is the mulatto women , distinguished for their fascinating beauty .
+this	O
+class	O
+is	O
+the	O
+mulatto	O
+women	O
+,	O
+distinguished	O
+for	O
+their	O
+fascinating	O
+beauty	O
 .	O
 

@@ -1,4 +1,4 @@
-# id = litbank-2143
+# id = litbank-2618
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -38,7 +38,7 @@ lay	O
 crossed	O
 .	O
 
-# id = litbank-2146
+# id = litbank-2621
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -67,7 +67,7 @@ up	O
 kinch	B-CHARACTER
 !	O
 
-# id = litbank-2149
+# id = litbank-2624
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -105,7 +105,7 @@ his	O
 head	O
 .	O
 
-# id = litbank-2150
+# id = litbank-2625
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -161,7 +161,7 @@ pale	O
 oak	O
 .	O
 
-# id = litbank-2151
+# id = litbank-2626
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -185,7 +185,7 @@ bowl	O
 smartly	O
 .	O
 
-# id = litbank-2152
+# id = litbank-2627
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -223,7 +223,7 @@ and	O
 ouns	O
 .	O
 
-# id = litbank-2154
+# id = litbank-2629
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -275,7 +275,7 @@ and	O
 neck	O
 .	O
 
-# id = litbank-2155
+# id = litbank-2630
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -292,7 +292,7 @@ went	O
 on	O
 .	O
 
-# id = litbank-2156
+# id = litbank-2631
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -314,7 +314,22 @@ two	O
 dactyls	O
 .	O
 
-# id = litbank-2157
+# id = litbank-2632
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = we must go to athens .
+we	O
+must	O
+go	O
+to	O
+athens	B-LOCATION
+.	O
+
+# id = litbank-2633
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -333,7 +348,7 @@ said	O
 quietly	O
 .	O
 
-# id = litbank-2158
+# id = litbank-2634
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -354,7 +369,7 @@ this	O
 tower	O
 ?	O
 
-# id = litbank-2159
+# id = litbank-2635
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -374,7 +389,22 @@ right	O
 shoulder	O
 .	O
 
-# id = litbank-2160
+# id = litbank-2636
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = because he comes from oxford .
+because	O
+he	O
+comes	O
+from	O
+oxford	B-LOCATION
+.	O
+
+# id = litbank-2637
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -391,11 +421,11 @@ you	O
 have	O
 the	O
 real	O
-oxford	O
+oxford	B-LOCATION
 manner	O
 .	O
 
-# id = litbank-2161
+# id = litbank-2638
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -419,7 +449,7 @@ the	O
 knife-blade	O
 .	O
 
-# id = litbank-2162
+# id = litbank-2639
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -442,7 +472,7 @@ stephen	B-CHARACTER
 said	O
 .	O
 
-# id = litbank-2163
+# id = litbank-2640
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -454,7 +484,7 @@ mulligan	B-CHARACTER
 said	O
 .	O
 
-# id = litbank-2164
+# id = litbank-2641
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -475,7 +505,7 @@ growing	O
 fear	O
 .	O
 
-# id = litbank-2165
+# id = litbank-2642
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -494,7 +524,7 @@ his	O
 razorblade	O
 .	O
 
-# id = litbank-2166
+# id = litbank-2643
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -535,7 +565,7 @@ my	O
 razor	O
 .	O
 
-# id = litbank-2167
+# id = litbank-2644
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -563,7 +593,7 @@ crumpled	O
 handkerchief	O
 .	O
 
-# id = litbank-2168
+# id = litbank-2645
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -579,7 +609,36 @@ razorblade	O
 neatly	O
 .	O
 
-# id = litbank-2169
+# id = litbank-2646
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = he mounted to the parapet again and gazed out over dublin bay , his fair oakpale hair stirring slightly .
+he	O
+mounted	O
+to	O
+the	O
+parapet	O
+again	O
+and	O
+gazed	O
+out	O
+over	O
+dublin	B-LOCATION
+bay	O
+,	O
+his	O
+fair	O
+oakpale	O
+hair	O
+stirring	O
+slightly	O
+.	O
+
+# id = litbank-2647
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -602,7 +661,7 @@ sweet	O
 mother	O
 ?	O
 
-# id = litbank-2170
+# id = litbank-2648
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -618,7 +677,7 @@ the	O
 greeks	O
 !	O
 
-# id = litbank-2171
+# id = litbank-2649
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -637,7 +696,35 @@ the	O
 parapet	O
 .	O
 
-# id = litbank-2172
+# id = litbank-2650
+# source = LitBank
+# book = Ulysses
+# book_id = 4300_ulysses
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/4300_ulysses_brat.tsv
+# text = leaning on it he looked down on the water and on the mailboat clearing the harbourmouth of kingstown .
+leaning	O
+on	O
+it	O
+he	O
+looked	O
+down	O
+on	O
+the	O
+water	O
+and	O
+on	O
+the	O
+mailboat	O
+clearing	O
+the	O
+harbourmouth	O
+of	O
+kingstown	B-LOCATION
+.	O
+
+# id = litbank-2651
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -650,7 +737,7 @@ mulligan	I-CHARACTER
 said	O
 .	O
 
-# id = litbank-2173
+# id = litbank-2652
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -674,7 +761,7 @@ stephen	B-CHARACTER
 face	O
 .	O
 
-# id = litbank-2174
+# id = litbank-2653
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -692,7 +779,7 @@ said	O
 gloomily	O
 .	O
 
-# id = litbank-2175
+# id = litbank-2654
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -724,7 +811,7 @@ mulligan	I-CHARACTER
 said	O
 .	O
 
-# id = litbank-2176
+# id = litbank-2655
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -742,7 +829,7 @@ them	O
 all	O
 !	O
 
-# id = litbank-2177
+# id = litbank-2656
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -779,7 +866,7 @@ black	O
 coat-sleeve	O
 .	O
 
-# id = litbank-2178
+# id = litbank-2657
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -795,7 +882,7 @@ his	O
 razorblade	O
 .	O
 
-# id = litbank-2179
+# id = litbank-2658
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -813,7 +900,7 @@ stephen	B-CHARACTER
 answered	O
 .	O
 
-# id = litbank-2180
+# id = litbank-2659
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -831,7 +918,7 @@ his	O
 underlip	O
 .	O
 
-# id = litbank-2181
+# id = litbank-2660
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -847,7 +934,7 @@ joking	O
 kinch	B-CHARACTER
 .	O
 
-# id = litbank-2182
+# id = litbank-2661
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -862,7 +949,7 @@ stephen	B-CHARACTER
 said	O
 .	O
 
-# id = litbank-2183
+# id = litbank-2662
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -887,7 +974,7 @@ the	O
 mirror	O
 .	O
 
-# id = litbank-2184
+# id = litbank-2663
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -914,7 +1001,7 @@ mobile	O
 eyes	O
 .	O
 
-# id = litbank-2185
+# id = litbank-2664
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -948,13 +1035,13 @@ he	O
 ’s	O
 up	O
 in	O
-dottyville	O
+dottyville	B-LOCATION
 with	O
 connolly	O
 norman	O
 .	O
 
-# id = litbank-2186
+# id = litbank-2665
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -982,7 +1069,7 @@ crooked	O
 crack	O
 .	O
 
-# id = litbank-2187
+# id = litbank-2666
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -1006,7 +1093,7 @@ mulligan	I-CHARACTER
 said	O
 .	O
 
-# id = litbank-2188
+# id = litbank-2667
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -1024,7 +1111,7 @@ for	O
 malachi	B-CHARACTER
 .	O
 
-# id = litbank-2189
+# id = litbank-2668
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -1039,7 +1126,7 @@ is	O
 ursula	B-CHARACTER
 .	O
 
-# id = litbank-2190
+# id = litbank-2669
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -1062,7 +1149,7 @@ peering	O
 eyes	O
 .	O
 
-# id = litbank-2191
+# id = litbank-2670
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -1090,7 +1177,7 @@ irish	O
 art	O
 .	O
 
-# id = litbank-2192
+# id = litbank-2671
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -1130,7 +1217,7 @@ thrust	O
 them	O
 .	O
 
-# id = litbank-2193
+# id = litbank-2672
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -1155,7 +1242,7 @@ is	O
 it	O
 ?	O
 
-# id = litbank-2194
+# id = litbank-2673
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -1184,7 +1271,7 @@ the	O
 island	O
 .	O
 
-# id = litbank-2195
+# id = litbank-2674
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -1197,7 +1284,7 @@ cranly	B-CHARACTER
 arm	O
 .	O
 
-# id = litbank-2196
+# id = litbank-2675
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -1210,7 +1297,7 @@ it	O
 haines	B-CHARACTER
 ?	O
 
-# id = litbank-2197
+# id = litbank-2676
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -1244,7 +1331,7 @@ clive	B-CHARACTER
 kempthorpe	I-CHARACTER
 .	O
 
-# id = litbank-2144
+# id = litbank-2619
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -1270,7 +1357,7 @@ morning	O
 air	O
 .	O
 
-# id = litbank-2145
+# id = litbank-2620
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -1293,7 +1380,7 @@ altare	O
 dei	O
 .	O
 
-# id = litbank-2147
+# id = litbank-2622
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -1312,7 +1399,7 @@ round	O
 gunrest	O
 .	O
 
-# id = litbank-2148
+# id = litbank-2623
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses
@@ -1339,7 +1426,7 @@ awaking	O
 mountains	O
 .	O
 
-# id = litbank-2153
+# id = litbank-2628
 # source = LitBank
 # book = Ulysses
 # book_id = 4300_ulysses

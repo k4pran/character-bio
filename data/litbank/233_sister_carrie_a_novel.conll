@@ -1,4 +1,4 @@
-# id = litbank-0781
+# id = litbank-0948
 # source = LitBank
 # book = Sister Carrie
 # book_id = 233_sister_carrie_a_novel
@@ -22,7 +22,7 @@ the	O
 afternoon	O
 train	O
 for	O
-chicago	O
+chicago	B-LOCATION
 ,	O
 her	O
 total	O
@@ -69,8 +69,8 @@ sister	O
 address	O
 in	O
 van	O
-buren	O
-street	O
+buren	B-LOCATION
+street	I-LOCATION
 ,	O
 and	O
 four	O
@@ -79,7 +79,70 @@ in	O
 money	O
 .	O
 
-# id = litbank-0787
+# id = litbank-0954
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = columbia city was not so very far away , even once she was in chicago .
+columbia	B-LOCATION
+city	I-LOCATION
+was	O
+not	O
+so	O
+very	O
+far	O
+away	O
+,	O
+even	O
+once	O
+she	O
+was	O
+in	O
+chicago	B-LOCATION
+.	O
+
+# id = litbank-0955
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = she gazed at the green landscape , now passing in swift review , until her swifter thoughts replaced its impression with vague conjectures of what chicago might be .
+she	O
+gazed	O
+at	O
+the	O
+green	O
+landscape	O
+,	O
+now	O
+passing	O
+in	O
+swift	O
+review	O
+,	O
+until	O
+her	O
+swifter	O
+thoughts	O
+replaced	O
+its	O
+impression	O
+with	O
+vague	O
+conjectures	O
+of	O
+what	O
+chicago	B-LOCATION
+might	O
+be	O
+.	O
+
+# id = litbank-0956
 # source = LitBank
 # book = Sister Carrie
 # book_id = 233_sister_carrie_a_novel
@@ -119,7 +182,78 @@ and	O
 analysis	O
 .	O
 
-# id = litbank-0788
+# id = litbank-0957
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = “ that , ” said a voice in her ear , “ is one of the prettiest little resorts in wisconsin . ”
+“	O
+that	O
+,	O
+”	O
+said	O
+a	O
+voice	O
+in	O
+her	O
+ear	O
+,	O
+“	O
+is	O
+one	O
+of	O
+the	O
+prettiest	O
+little	O
+resorts	O
+in	O
+wisconsin	B-LOCATION
+.	O
+”	O
+
+# id = litbank-0958
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = the train was just pulling out of waukesha .
+the	O
+train	O
+was	O
+just	O
+pulling	O
+out	O
+of	O
+waukesha	B-LOCATION
+.	O
+
+# id = litbank-0959
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = “ yes , that is a great resort for chicago people .
+“	O
+yes	O
+,	O
+that	O
+is	O
+a	O
+great	O
+resort	O
+for	O
+chicago	B-LOCATION
+people	O
+.	O
+
+# id = litbank-0960
 # source = LitBank
 # book = Sister Carrie
 # book_id = 233_sister_carrie_a_novel
@@ -140,7 +274,50 @@ answered	O
 carrie	B-CHARACTER
 .	O
 
-# id = litbank-0789
+# id = litbank-0961
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = “ that is , i live at columbia city .
+“	O
+that	O
+is	O
+,	O
+i	O
+live	O
+at	O
+columbia	B-LOCATION
+city	I-LOCATION
+.	O
+
+# id = litbank-0962
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = “ and so this is your first visit to chicago , ” he observed .
+“	O
+and	O
+so	O
+this	O
+is	O
+your	O
+first	O
+visit	O
+to	O
+chicago	B-LOCATION
+,	O
+”	O
+he	O
+observed	O
+.	O
+
+# id = litbank-0963
 # source = LitBank
 # book = Sister Carrie
 # book_id = 233_sister_carrie_a_novel
@@ -186,7 +363,7 @@ first	O
 glance	O
 .	O
 
-# id = litbank-0790
+# id = litbank-0964
 # source = LitBank
 # book = Sister Carrie
 # book_id = 233_sister_carrie_a_novel
@@ -207,7 +384,7 @@ for	O
 carrie	B-CHARACTER
 .	O
 
-# id = litbank-0791
+# id = litbank-0965
 # source = LitBank
 # book = Sister Carrie
 # book_id = 233_sister_carrie_a_novel
@@ -227,7 +404,79 @@ man	O
 .	O
 ”	O
 
-# id = litbank-0782
+# id = litbank-0966
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = he talked of sales of clothing , his travels , chicago , and the amusements of that city .
+he	O
+talked	O
+of	O
+sales	O
+of	O
+clothing	O
+,	O
+his	O
+travels	O
+,	O
+chicago	B-LOCATION
+,	O
+and	O
+the	O
+amusements	O
+of	O
+that	O
+city	O
+.	O
+
+# id = litbank-0967
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = “ you want to see lincoln park , ” he said , “ and michigan boulevard .
+“	O
+you	O
+want	O
+to	O
+see	O
+lincoln	B-LOCATION
+park	I-LOCATION
+,	O
+”	O
+he	O
+said	O
+,	O
+“	O
+and	O
+michigan	B-LOCATION
+boulevard	I-LOCATION
+.	O
+
+# id = litbank-0968
+# source = LitBank
+# book = Sister Carrie
+# book_id = 233_sister_carrie_a_novel
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/233_sister_carrie_a_novel_brat.tsv
+# text = it 's a second new york -- great .
+it	O
+'s	O
+a	O
+second	O
+new	B-LOCATION
+york	I-LOCATION
+--	O
+great	O
+.	O
+
+# id = litbank-0949
 # source = LitBank
 # book = Sister Carrie
 # book_id = 233_sister_carrie_a_novel
@@ -257,7 +506,7 @@ and	O
 youth	O
 .	O
 
-# id = litbank-0783
+# id = litbank-0950
 # source = LitBank
 # book = Sister Carrie
 # book_id = 233_sister_carrie_a_novel
@@ -287,7 +536,7 @@ given	O
 up	O
 .	O
 
-# id = litbank-0784
+# id = litbank-0951
 # source = LitBank
 # book = Sister Carrie
 # book_id = 233_sister_carrie_a_novel
@@ -359,7 +608,7 @@ irretrievably	O
 broken	O
 .	O
 
-# id = litbank-0785
+# id = litbank-0952
 # source = LitBank
 # book = Sister Carrie
 # book_id = 233_sister_carrie_a_novel
@@ -385,7 +634,7 @@ and	O
 return	O
 .	O
 
-# id = litbank-0786
+# id = litbank-0953
 # source = LitBank
 # book = Sister Carrie
 # book_id = 233_sister_carrie_a_novel

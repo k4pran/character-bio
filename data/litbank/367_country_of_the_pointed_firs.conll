@@ -1,4 +1,174 @@
-# id = litbank-0894
+# id = litbank-1096
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = the return there was something about the coast town of dunnet which made it seem more attractive than other maritime villages of eastern maine .
+the	O
+return	O
+there	O
+was	O
+something	O
+about	O
+the	O
+coast	O
+town	O
+of	O
+dunnet	B-LOCATION
+which	O
+made	O
+it	O
+seem	O
+more	O
+attractive	O
+than	O
+other	O
+maritime	O
+villages	O
+of	O
+eastern	O
+maine	B-LOCATION
+.	O
+
+# id = litbank-1097
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = perhaps it was the simple fact of acquaintance with that neighborhood which made it so attaching , and gave such interest to the rocky shore and dark woods , and the few houses which seemed to be securely wedged and tree-nailed in among the ledges by the landing .
+perhaps	O
+it	O
+was	O
+the	O
+simple	O
+fact	O
+of	O
+acquaintance	O
+with	O
+that	O
+neighborhood	O
+which	O
+made	O
+it	O
+so	O
+attaching	O
+,	O
+and	O
+gave	O
+such	O
+interest	O
+to	O
+the	O
+rocky	O
+shore	O
+and	O
+dark	O
+woods	O
+,	O
+and	O
+the	O
+few	O
+houses	O
+which	O
+seemed	O
+to	O
+be	O
+securely	O
+wedged	O
+and	O
+tree-nailed	O
+in	O
+among	O
+the	O
+ledges	O
+by	O
+the	O
+landing	B-LOCATION
+.	O
+
+# id = litbank-1101
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = after a first brief visit made two or three summers before in the course of a yachting cruise , a lover of dunnet landing returned to find the unchanged shores of the pointed firs , the same quaintness of the village with its elaborate conventionalities ; all that mixture of remoteness , and childish certainty of being the centre of civilization of which her affectionate dreams had told .
+after	O
+a	O
+first	O
+brief	O
+visit	O
+made	O
+two	O
+or	O
+three	O
+summers	O
+before	O
+in	O
+the	O
+course	O
+of	O
+a	O
+yachting	O
+cruise	O
+,	O
+a	O
+lover	O
+of	O
+dunnet	B-LOCATION
+landing	I-LOCATION
+returned	O
+to	O
+find	O
+the	O
+unchanged	O
+shores	O
+of	O
+the	O
+pointed	O
+firs	O
+,	O
+the	O
+same	O
+quaintness	O
+of	O
+the	O
+village	O
+with	O
+its	O
+elaborate	O
+conventionalities	O
+;	O
+all	O
+that	O
+mixture	O
+of	O
+remoteness	O
+,	O
+and	O
+childish	O
+certainty	O
+of	O
+being	O
+the	O
+centre	O
+of	O
+civilization	O
+of	O
+which	O
+her	O
+affectionate	O
+dreams	O
+had	O
+told	O
+.	O
+
+# id = litbank-1104
 # source = LitBank
 # book = The Country of the Pointed Firs
 # book_id = 367_country_of_the_pointed_firs
@@ -35,7 +205,7 @@ of	O
 seclusion	O
 .	O
 
-# id = litbank-0895
+# id = litbank-1105
 # source = LitBank
 # book = The Country of the Pointed Firs
 # book_id = 367_country_of_the_pointed_firs
@@ -108,7 +278,7 @@ gray-shingled	O
 wall	O
 .	O
 
-# id = litbank-0896
+# id = litbank-1106
 # source = LitBank
 # book = The Country of the Pointed Firs
 # book_id = 367_country_of_the_pointed_firs
@@ -195,7 +365,7 @@ and	O
 southernwood	O
 .	O
 
-# id = litbank-0897
+# id = litbank-1107
 # source = LitBank
 # book = The Country of the Pointed Firs
 # book_id = 367_country_of_the_pointed_firs
@@ -237,7 +407,7 @@ the	O
 rest	O
 .	O
 
-# id = litbank-0898
+# id = litbank-1108
 # source = LitBank
 # book = The Country of the Pointed Firs
 # book_id = 367_country_of_the_pointed_firs
@@ -300,7 +470,7 @@ kitchen	O
 stove	O
 .	O
 
-# id = litbank-0899
+# id = litbank-1109
 # source = LitBank
 # book = The Country of the Pointed Firs
 # book_id = 367_country_of_the_pointed_firs
@@ -386,7 +556,7 @@ the	O
 last	O
 .	O
 
-# id = litbank-0900
+# id = litbank-1110
 # source = LitBank
 # book = The Country of the Pointed Firs
 # book_id = 367_country_of_the_pointed_firs
@@ -445,7 +615,7 @@ todd	I-CHARACTER
 garden	O
 .	O
 
-# id = litbank-0901
+# id = litbank-1111
 # source = LitBank
 # book = The Country of the Pointed Firs
 # book_id = 367_country_of_the_pointed_firs
@@ -496,7 +666,7 @@ picket	O
 fence	O
 .	O
 
-# id = litbank-0902
+# id = litbank-1112
 # source = LitBank
 # book = The Country of the Pointed Firs
 # book_id = 367_country_of_the_pointed_firs
@@ -547,7 +717,7 @@ spruce	O
 beer	O
 .	O
 
-# id = litbank-0903
+# id = litbank-1113
 # source = LitBank
 # book = The Country of the Pointed Firs
 # book_id = 367_country_of_the_pointed_firs
@@ -578,7 +748,7 @@ and	O
 pastures	O
 .	O
 
-# id = litbank-0904
+# id = litbank-1114
 # source = LitBank
 # book = The Country of the Pointed Firs
 # book_id = 367_country_of_the_pointed_firs
@@ -653,7 +823,7 @@ side	O
 door	O
 .	O
 
-# id = litbank-0905
+# id = litbank-1115
 # source = LitBank
 # book = The Country of the Pointed Firs
 # book_id = 367_country_of_the_pointed_firs
@@ -750,7 +920,7 @@ to	O
 do	O
 .	O
 
-# id = litbank-0906
+# id = litbank-1116
 # source = LitBank
 # book = The Country of the Pointed Firs
 # book_id = 367_country_of_the_pointed_firs
@@ -802,7 +972,7 @@ mrs.	B-CHARACTER
 todd	I-CHARACTER
 .	O
 
-# id = litbank-0907
+# id = litbank-1117
 # source = LitBank
 # book = The Country of the Pointed Firs
 # book_id = 367_country_of_the_pointed_firs
@@ -839,7 +1009,7 @@ to	O
 begin	O
 .	O
 
-# id = litbank-0908
+# id = litbank-1118
 # source = LitBank
 # book = The Country of the Pointed Firs
 # book_id = 367_country_of_the_pointed_firs
@@ -869,99 +1039,7 @@ to	O
 listen	O
 .	O
 
-# id = litbank-0889
-# source = LitBank
-# book = The Country of the Pointed Firs
-# book_id = 367_country_of_the_pointed_firs
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
-# text = the return there was something about the coast town of dunnet which made it seem more attractive than other maritime villages of eastern maine .
-the	O
-return	O
-there	O
-was	O
-something	O
-about	O
-the	O
-coast	O
-town	O
-of	O
-dunnet	O
-which	O
-made	O
-it	O
-seem	O
-more	O
-attractive	O
-than	O
-other	O
-maritime	O
-villages	O
-of	O
-eastern	O
-maine	O
-.	O
-
-# id = litbank-0890
-# source = LitBank
-# book = The Country of the Pointed Firs
-# book_id = 367_country_of_the_pointed_firs
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
-# text = perhaps it was the simple fact of acquaintance with that neighborhood which made it so attaching , and gave such interest to the rocky shore and dark woods , and the few houses which seemed to be securely wedged and tree-nailed in among the ledges by the landing .
-perhaps	O
-it	O
-was	O
-the	O
-simple	O
-fact	O
-of	O
-acquaintance	O
-with	O
-that	O
-neighborhood	O
-which	O
-made	O
-it	O
-so	O
-attaching	O
-,	O
-and	O
-gave	O
-such	O
-interest	O
-to	O
-the	O
-rocky	O
-shore	O
-and	O
-dark	O
-woods	O
-,	O
-and	O
-the	O
-few	O
-houses	O
-which	O
-seemed	O
-to	O
-be	O
-securely	O
-wedged	O
-and	O
-tree-nailed	O
-in	O
-among	O
-the	O
-ledges	O
-by	O
-the	O
-landing	O
-.	O
-
-# id = litbank-0891
+# id = litbank-1098
 # source = LitBank
 # book = The Country of the Pointed Firs
 # book_id = 367_country_of_the_pointed_firs
@@ -1036,7 +1114,7 @@ balsam	O
 firs	O
 .	O
 
-# id = litbank-0892
+# id = litbank-1099
 # source = LitBank
 # book = The Country of the Pointed Firs
 # book_id = 367_country_of_the_pointed_firs
@@ -1067,7 +1145,7 @@ single	O
 person	O
 .	O
 
-# id = litbank-0893
+# id = litbank-1100
 # source = LitBank
 # book = The Country of the Pointed Firs
 # book_id = 367_country_of_the_pointed_firs
@@ -1107,5 +1185,74 @@ be	O
 a	O
 lifelong	O
 affair	O
+.	O
+
+# id = litbank-1102
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = one evening in june , a single passenger landed upon the steamboat wharf .
+one	O
+evening	O
+in	O
+june	O
+,	O
+a	O
+single	O
+passenger	O
+landed	O
+upon	O
+the	O
+steamboat	O
+wharf	O
+.	O
+
+# id = litbank-1103
+# source = LitBank
+# book = The Country of the Pointed Firs
+# book_id = 367_country_of_the_pointed_firs
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/367_country_of_the_pointed_firs_brat.tsv
+# text = the tide was high , there was a fine crowd of spectators , and the younger portion of the company followed her with subdued excitement up the narrow street of the salt-aired , white-clapboarded little town .
+the	O
+tide	O
+was	O
+high	O
+,	O
+there	O
+was	O
+a	O
+fine	O
+crowd	O
+of	O
+spectators	O
+,	O
+and	O
+the	O
+younger	O
+portion	O
+of	O
+the	O
+company	O
+followed	O
+her	O
+with	O
+subdued	O
+excitement	O
+up	O
+the	O
+narrow	O
+street	O
+of	O
+the	O
+salt-aired	O
+,	O
+white-clapboarded	O
+little	O
+town	O
 .	O
 

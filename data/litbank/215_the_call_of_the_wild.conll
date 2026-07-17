@@ -1,4 +1,4 @@
-# id = litbank-0728
+# id = litbank-0872
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -45,14 +45,58 @@ long	O
 hair	O
 ,	O
 from	O
-puget	O
-sound	O
+puget	B-LOCATION
+sound	I-LOCATION
 to	O
-san	O
-diego	O
+san	B-LOCATION
+diego	I-LOCATION
 .	O
 
-# id = litbank-0731
+# id = litbank-0873
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = because men , groping in the arctic darkness , had found a yellow metal , and because steamship and transportation companies were booming the find , thousands of men were rushing into the northland .
+because	O
+men	O
+,	O
+groping	O
+in	O
+the	O
+arctic	B-LOCATION
+darkness	O
+,	O
+had	O
+found	O
+a	O
+yellow	O
+metal	O
+,	O
+and	O
+because	O
+steamship	O
+and	O
+transportation	O
+companies	O
+were	O
+booming	O
+the	O
+find	O
+,	O
+thousands	O
+of	O
+men	O
+were	O
+rushing	O
+into	O
+the	O
+northland	B-LOCATION
+.	O
+
+# id = litbank-0875
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -69,12 +113,12 @@ house	O
 in	O
 the	O
 sun-kissed	O
-santa	O
-clara	O
-valley	O
+santa	B-LOCATION
+clara	I-LOCATION
+valley	I-LOCATION
 .	O
 
-# id = litbank-0732
+# id = litbank-0876
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -92,7 +136,7 @@ was	O
 called	O
 .	O
 
-# id = litbank-0735
+# id = litbank-0880
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -134,7 +178,7 @@ hot	O
 afternoon	O
 .	O
 
-# id = litbank-0736
+# id = litbank-0881
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -151,7 +195,7 @@ buck	B-CHARACTER
 ruled	O
 .	O
 
-# id = litbank-0737
+# id = litbank-0882
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -213,7 +257,7 @@ to	O
 ground	O
 .	O
 
-# id = litbank-0738
+# id = litbank-0883
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -268,7 +312,7 @@ and	O
 mops	O
 .	O
 
-# id = litbank-0739
+# id = litbank-0884
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -285,7 +329,7 @@ nor	O
 kennel-dog	O
 .	O
 
-# id = litbank-0740
+# id = litbank-0885
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -391,7 +435,7 @@ berry	O
 patches	O
 .	O
 
-# id = litbank-0741
+# id = litbank-0886
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -439,7 +483,7 @@ humans	O
 included	O
 .	O
 
-# id = litbank-0742
+# id = litbank-0887
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -479,7 +523,7 @@ his	O
 father	O
 .	O
 
-# id = litbank-0743
+# id = litbank-0888
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -518,7 +562,7 @@ shepherd	O
 dog	O
 .	O
 
-# id = litbank-0744
+# id = litbank-0889
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -557,7 +601,7 @@ frozen	O
 north	O
 .	O
 
-# id = litbank-0745
+# id = litbank-0890
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -594,7 +638,7 @@ undesirable	O
 acquaintance	O
 .	O
 
-# id = litbank-0746
+# id = litbank-0891
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -609,7 +653,7 @@ besetting	O
 sin	O
 .	O
 
-# id = litbank-0747
+# id = litbank-0892
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -650,7 +694,7 @@ manuel	B-CHARACTER
 treachery	O
 .	O
 
-# id = litbank-0748
+# id = litbank-0893
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -679,7 +723,7 @@ a	O
 stroll	O
 .	O
 
-# id = litbank-0749
+# id = litbank-0894
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -700,7 +744,7 @@ between	O
 them	O
 .	O
 
-# id = litbank-0750
+# id = litbank-0895
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -743,7 +787,7 @@ the	O
 collar	O
 .	O
 
-# id = litbank-0751
+# id = litbank-0896
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -776,7 +820,7 @@ ready	O
 affirmative	O
 .	O
 
-# id = litbank-0752
+# id = litbank-0897
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -794,7 +838,7 @@ quiet	O
 dignity	O
 .	O
 
-# id = litbank-0753
+# id = litbank-0898
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -830,7 +874,7 @@ panting	O
 futilely	O
 .	O
 
-# id = litbank-0754
+# id = litbank-0899
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -854,7 +898,68 @@ for	O
 him	O
 .	O
 
-# id = litbank-0755
+# id = litbank-0900
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = “ i 'm takin ' 'm up for the boss to ' frisco .
+“	O
+i	O
+'m	O
+takin	O
+'	O
+'m	O
+up	O
+for	O
+the	O
+boss	O
+to	O
+'	O
+frisco	B-LOCATION
+.	O
+
+# id = litbank-0901
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = concerning that night 's ride , the man spoke most eloquently for himself , in a little shed back of a saloon on the san francisco water front .
+concerning	O
+that	O
+night	O
+'s	O
+ride	O
+,	O
+the	O
+man	O
+spoke	O
+most	O
+eloquently	O
+for	O
+himself	O
+,	O
+in	O
+a	O
+little	O
+shed	O
+back	O
+of	O
+a	O
+saloon	O
+on	O
+the	O
+san	B-LOCATION
+francisco	I-LOCATION
+water	O
+front	O
+.	O
+
+# id = litbank-0902
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -889,7 +994,7 @@ his	O
 tormentors	O
 .	O
 
-# id = litbank-0756
+# id = litbank-0903
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -917,7 +1022,7 @@ savage	O
 growl	O
 .	O
 
-# id = litbank-0757
+# id = litbank-0904
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -953,7 +1058,7 @@ the	O
 bars	O
 .	O
 
-# id = litbank-0727
+# id = litbank-0871
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -990,51 +1095,7 @@ strain	O
 .	O
 ”	O
 
-# id = litbank-0729
-# source = LitBank
-# book = The Call of the Wild
-# book_id = 215_the_call_of_the_wild
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
-# text = because men , groping in the arctic darkness , had found a yellow metal , and because steamship and transportation companies were booming the find , thousands of men were rushing into the northland .
-because	O
-men	O
-,	O
-groping	O
-in	O
-the	O
-arctic	O
-darkness	O
-,	O
-had	O
-found	O
-a	O
-yellow	O
-metal	O
-,	O
-and	O
-because	O
-steamship	O
-and	O
-transportation	O
-companies	O
-were	O
-booming	O
-the	O
-find	O
-,	O
-thousands	O
-of	O
-men	O
-were	O
-rushing	O
-into	O
-the	O
-northland	O
-.	O
-
-# id = litbank-0730
+# id = litbank-0874
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -1075,7 +1136,7 @@ the	O
 frost	O
 .	O
 
-# id = litbank-0733
+# id = litbank-0877
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -1115,7 +1176,7 @@ four	O
 sides	O
 .	O
 
-# id = litbank-0734
+# id = litbank-0878
 # source = LitBank
 # book = The Call of the Wild
 # book_id = 215_the_call_of_the_wild
@@ -1144,5 +1205,30 @@ boughs	O
 of	O
 tall	O
 poplars	O
+.	O
+
+# id = litbank-0879
+# source = LitBank
+# book = The Call of the Wild
+# book_id = 215_the_call_of_the_wild
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/215_the_call_of_the_wild_brat.tsv
+# text = at the rear things were on even a more spacious scale than at the front .
+at	O
+the	O
+rear	O
+things	O
+were	O
+on	O
+even	O
+a	O
+more	O
+spacious	O
+scale	O
+than	O
+at	O
+the	O
+front	O
 .	O
 

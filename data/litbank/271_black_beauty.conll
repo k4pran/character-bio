@@ -1,4 +1,68 @@
-# id = litbank-0827
+# id = litbank-1011
+# source = LitBank
+# book = Black Beauty
+# book_id = 271_black_beauty
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/271_black_beauty_brat.tsv
+# text = you have been well-bred and well-born ; your father has a great name in these parts , and your grandfather won the cup two years at the newmarket races ; your grandmother had the sweetest temper of any horse i ever knew , and i think you have never seen me kick or bite .
+you	O
+have	O
+been	O
+well-bred	O
+and	O
+well-born	O
+;	O
+your	O
+father	O
+has	O
+a	O
+great	O
+name	O
+in	O
+these	O
+parts	O
+,	O
+and	O
+your	O
+grandfather	O
+won	O
+the	O
+cup	O
+two	O
+years	O
+at	O
+the	O
+newmarket	B-LOCATION
+races	O
+;	O
+your	O
+grandmother	O
+had	O
+the	O
+sweetest	O
+temper	O
+of	O
+any	O
+horse	O
+i	O
+ever	O
+knew	O
+,	O
+and	O
+i	O
+think	O
+you	O
+have	O
+never	O
+seen	O
+me	O
+kick	O
+or	O
+bite	O
+.	O
+
+# id = litbank-1012
 # source = LitBank
 # book = Black Beauty
 # book_id = 271_black_beauty
@@ -30,7 +94,7 @@ darkie	B-CHARACTER
 ?	O
 ”	O
 
-# id = litbank-0828
+# id = litbank-1013
 # source = LitBank
 # book = Black Beauty
 # book_id = 271_black_beauty
@@ -76,7 +140,7 @@ my	O
 mother	O
 .	O
 
-# id = litbank-0829
+# id = litbank-1014
 # source = LitBank
 # book = Black Beauty
 # book_id = 271_black_beauty
@@ -105,7 +169,7 @@ the	O
 hedge	O
 .	O
 
-# id = litbank-0830
+# id = litbank-1015
 # source = LitBank
 # book = Black Beauty
 # book_id = 271_black_beauty
@@ -181,7 +245,7 @@ and	O
 surprise	O
 .	O
 
-# id = litbank-0831
+# id = litbank-1016
 # source = LitBank
 # book = Black Beauty
 # book_id = 271_black_beauty
@@ -198,7 +262,7 @@ any	O
 more	O
 .	O
 
-# id = litbank-0832
+# id = litbank-1017
 # source = LitBank
 # book = Black Beauty
 # book_id = 271_black_beauty
@@ -232,7 +296,7 @@ well	O
 off	O
 .	O
 
-# id = litbank-0833
+# id = litbank-1018
 # source = LitBank
 # book = Black Beauty
 # book_id = 271_black_beauty
@@ -271,7 +335,7 @@ his	O
 family	O
 .	O
 
-# id = litbank-0834
+# id = litbank-1019
 # source = LitBank
 # book = Black Beauty
 # book_id = 271_black_beauty
@@ -314,7 +378,7 @@ his	O
 son	O
 .	O
 
-# id = litbank-0835
+# id = litbank-1020
 # source = LitBank
 # book = Black Beauty
 # book_id = 271_black_beauty
@@ -362,7 +426,7 @@ was	O
 broken	O
 .	O
 
-# id = litbank-0836
+# id = litbank-1021
 # source = LitBank
 # book = Black Beauty
 # book_id = 271_black_beauty
@@ -411,7 +475,7 @@ in	O
 him	O
 .	O
 
-# id = litbank-0822
+# id = litbank-1006
 # source = LitBank
 # book = Black Beauty
 # book_id = 271_black_beauty
@@ -448,7 +512,7 @@ in	O
 it	O
 .	O
 
-# id = litbank-0823
+# id = litbank-1007
 # source = LitBank
 # book = Black Beauty
 # book_id = 271_black_beauty
@@ -474,7 +538,7 @@ deep	O
 end	O
 .	O
 
-# id = litbank-0824
+# id = litbank-1008
 # source = LitBank
 # book = Black Beauty
 # book_id = 271_black_beauty
@@ -543,7 +607,7 @@ steep	O
 bank	O
 .	O
 
-# id = litbank-0825
+# id = litbank-1009
 # source = LitBank
 # book = Black Beauty
 # book_id = 271_black_beauty
@@ -571,7 +635,7 @@ eat	O
 grass	O
 .	O
 
-# id = litbank-0826
+# id = litbank-1010
 # source = LitBank
 # book = Black Beauty
 # book_id = 271_black_beauty

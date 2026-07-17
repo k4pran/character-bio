@@ -1,4 +1,4 @@
-# id = litbank-0365
+# id = litbank-0420
 # source = LitBank
 # book = Tarzan of the Apes
 # book_id = 78_tarzan_of_the_apes
@@ -93,13 +93,71 @@ savage	O
 tribes	O
 along	O
 the	O
-congo	O
+congo	B-LOCATION
 and	O
 the	O
-aruwimi	O
+aruwimi	B-LOCATION
 .	O
 
-# id = litbank-0366
+# id = litbank-0421
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = the englishmen in africa went even further , saying that these poor blacks were held in virtual slavery , since after their terms of enlistment expired their ignorance was imposed upon by their white officers , and they were told that they had yet several years to serve .
+the	O
+englishmen	O
+in	O
+africa	B-LOCATION
+went	O
+even	O
+further	O
+,	O
+saying	O
+that	O
+these	O
+poor	O
+blacks	O
+were	O
+held	O
+in	O
+virtual	O
+slavery	O
+,	O
+since	O
+after	O
+their	O
+terms	O
+of	O
+enlistment	O
+expired	O
+their	O
+ignorance	O
+was	O
+imposed	O
+upon	O
+by	O
+their	O
+white	O
+officers	O
+,	O
+and	O
+they	O
+were	O
+told	O
+that	O
+they	O
+had	O
+yet	O
+several	O
+years	O
+to	O
+serve	O
+.	O
+
+# id = litbank-0422
 # source = LitBank
 # book = Tarzan of the Apes
 # book_id = 78_tarzan_of_the_apes
@@ -121,8 +179,8 @@ new	O
 post	O
 in	O
 british	O
-west	O
-africa	O
+west	B-LOCATION
+africa	I-LOCATION
 ,	O
 but	O
 his	O
@@ -151,7 +209,7 @@ european	O
 power	O
 .	O
 
-# id = litbank-0367
+# id = litbank-0423
 # source = LitBank
 # book = Tarzan of the Apes
 # book_id = 78_tarzan_of_the_apes
@@ -198,7 +256,7 @@ and	O
 physically	O
 .	O
 
-# id = litbank-0368
+# id = litbank-0424
 # source = LitBank
 # book = Tarzan of the Apes
 # book_id = 78_tarzan_of_the_apes
@@ -277,13 +335,13 @@ and	O
 isolation	O
 of	O
 tropical	O
-africa	O
+africa	B-LOCATION
 that	O
 appalled	O
 him	O
 .	O
 
-# id = litbank-0369
+# id = litbank-0425
 # source = LitBank
 # book = Tarzan of the Apes
 # book_id = 78_tarzan_of_the_apes
@@ -313,15 +371,52 @@ lady	B-CHARACTER
 alice	I-CHARACTER
 sailed	O
 from	O
-dover	O
+dover	B-LOCATION
 on	O
 their	O
 way	O
 to	O
-africa	O
+africa	B-LOCATION
 .	O
 
-# id = litbank-0370
+# id = litbank-0426
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = a month later they arrived at freetown where they chartered a small sailing vessel , the fuwalda , which was to bear them to their final destination .
+a	O
+month	O
+later	O
+they	O
+arrived	O
+at	O
+freetown	B-LOCATION
+where	O
+they	O
+chartered	O
+a	O
+small	O
+sailing	O
+vessel	O
+,	O
+the	O
+fuwalda	O
+,	O
+which	O
+was	O
+to	O
+bear	O
+them	O
+to	O
+their	O
+final	O
+destination	O
+.	O
+
+# id = litbank-0427
 # source = LitBank
 # book = Tarzan of the Apes
 # book_id = 78_tarzan_of_the_apes
@@ -355,7 +450,160 @@ of	O
 men	O
 .	O
 
-# id = litbank-0371
+# id = litbank-0428
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = two months after they weighed anchor and cleared from the port of freetown a half dozen british war vessels were scouring the south atlantic for trace of them or their little vessel , and it was almost immediately that the wreckage was found upon the shores of st. helena which convinced the world that the fuwalda had gone down with all on board , and hence the search was stopped ere it had scarce begun ; though hope lingered in longing hearts for many years .
+two	O
+months	O
+after	O
+they	O
+weighed	O
+anchor	O
+and	O
+cleared	O
+from	O
+the	O
+port	O
+of	O
+freetown	B-LOCATION
+a	O
+half	O
+dozen	O
+british	O
+war	O
+vessels	O
+were	O
+scouring	O
+the	O
+south	B-LOCATION
+atlantic	I-LOCATION
+for	O
+trace	O
+of	O
+them	O
+or	O
+their	O
+little	O
+vessel	O
+,	O
+and	O
+it	O
+was	O
+almost	O
+immediately	O
+that	O
+the	O
+wreckage	O
+was	O
+found	O
+upon	O
+the	O
+shores	O
+of	O
+st.	B-LOCATION
+helena	I-LOCATION
+which	O
+convinced	O
+the	O
+world	O
+that	O
+the	O
+fuwalda	O
+had	O
+gone	O
+down	O
+with	O
+all	O
+on	O
+board	O
+,	O
+and	O
+hence	O
+the	O
+search	O
+was	O
+stopped	O
+ere	O
+it	O
+had	O
+scarce	O
+begun	O
+;	O
+though	O
+hope	O
+lingered	O
+in	O
+longing	O
+hearts	O
+for	O
+many	O
+years	O
+.	O
+
+# id = litbank-0429
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = the fuwalda , a barkentine of about one hundred tons , was a vessel of the type often seen in coastwise trade in the far southern atlantic , their crews composed of the offscourings of the sea -- unhanged murderers and cutthroats of every race and every nation .
+the	O
+fuwalda	O
+,	O
+a	O
+barkentine	O
+of	O
+about	O
+one	O
+hundred	O
+tons	O
+,	O
+was	O
+a	O
+vessel	O
+of	O
+the	O
+type	O
+often	O
+seen	O
+in	O
+coastwise	O
+trade	O
+in	O
+the	O
+far	O
+southern	O
+atlantic	B-LOCATION
+,	O
+their	O
+crews	O
+composed	O
+of	O
+the	O
+offscourings	O
+of	O
+the	O
+sea	O
+--	O
+unhanged	O
+murderers	O
+and	O
+cutthroats	O
+of	O
+every	O
+race	O
+and	O
+every	O
+nation	O
+.	O
+
+# id = litbank-0430
 # source = LitBank
 # book = Tarzan of the Apes
 # book_id = 78_tarzan_of_the_apes
@@ -373,7 +621,7 @@ second	O
 day	O
 out	O
 from	O
-freetown	O
+freetown	B-LOCATION
 john	B-CHARACTER
 clayton	I-CHARACTER
 and	O
@@ -387,7 +635,7 @@ the	O
 deck	O
 of	O
 the	O
-fuwalda	O
+fuwalda	B-LOCATION
 such	O
 as	O
 they	O
@@ -407,7 +655,7 @@ the	O
 sea	O
 .	O
 
-# id = litbank-0372
+# id = litbank-0431
 # source = LitBank
 # book = Tarzan of the Apes
 # book_id = 78_tarzan_of_the_apes
@@ -424,7 +672,7 @@ the	O
 decks	O
 of	O
 the	O
-fuwalda	O
+fuwalda	B-LOCATION
 ,	O
 the	O
 first	O
@@ -448,7 +696,7 @@ lady	B-CHARACTER
 alice	I-CHARACTER
 .	O
 
-# id = litbank-0373
+# id = litbank-0432
 # source = LitBank
 # book = Tarzan of the Apes
 # book_id = 78_tarzan_of_the_apes
@@ -502,7 +750,7 @@ dirty	O
 contents	O
 .	O
 
-# id = litbank-0374
+# id = litbank-0433
 # source = LitBank
 # book = Tarzan of the Apes
 # book_id = 78_tarzan_of_the_apes
@@ -591,7 +839,7 @@ the	O
 sun	O
 .	O
 
-# id = litbank-0375
+# id = litbank-0434
 # source = LitBank
 # book = Tarzan of the Apes
 # book_id = 78_tarzan_of_the_apes
@@ -642,7 +890,51 @@ remained	O
 passengers	O
 .	O
 
-# id = litbank-0376
+# id = litbank-0435
+# source = LitBank
+# book = Tarzan of the Apes
+# book_id = 78_tarzan_of_the_apes
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/78_tarzan_of_the_apes_brat.tsv
+# text = he did not care to antagonize an english official , for the queen 's mighty arm wielded a punitive instrument which he could appreciate , and which he feared -- england 's far-reaching navy .
+he	O
+did	O
+not	O
+care	O
+to	O
+antagonize	O
+an	O
+english	O
+official	O
+,	O
+for	O
+the	O
+queen	O
+'s	O
+mighty	O
+arm	O
+wielded	O
+a	O
+punitive	O
+instrument	O
+which	O
+he	O
+could	O
+appreciate	O
+,	O
+and	O
+which	O
+he	O
+feared	O
+--	O
+england	B-LOCATION
+'s	O
+far-reaching	O
+navy	O
+.	O
+
+# id = litbank-0436
 # source = LitBank
 # book = Tarzan of the Apes
 # book_id = 78_tarzan_of_the_apes
@@ -689,7 +981,7 @@ gruff	O
 thanks	O
 .	O
 
-# id = litbank-0377
+# id = litbank-0437
 # source = LitBank
 # book = Tarzan of the Apes
 # book_id = 78_tarzan_of_the_apes
@@ -757,7 +1049,7 @@ sullen	O
 sailors	O
 .	O
 
-# id = litbank-0360
+# id = litbank-0415
 # source = LitBank
 # book = Tarzan of the Apes
 # book_id = 78_tarzan_of_the_apes
@@ -792,7 +1084,7 @@ any	O
 other	O
 .	O
 
-# id = litbank-0361
+# id = litbank-0416
 # source = LitBank
 # book = Tarzan of the Apes
 # book_id = 78_tarzan_of_the_apes
@@ -838,7 +1130,7 @@ strange	O
 tale	O
 .	O
 
-# id = litbank-0362
+# id = litbank-0417
 # source = LitBank
 # book = Tarzan of the Apes
 # book_id = 78_tarzan_of_the_apes
@@ -914,7 +1206,7 @@ remarkable	O
 narrative	O
 .	O
 
-# id = litbank-0363
+# id = litbank-0418
 # source = LitBank
 # book = Tarzan of the Apes
 # book_id = 78_tarzan_of_the_apes
@@ -978,7 +1270,7 @@ be	O
 true	O
 .	O
 
-# id = litbank-0364
+# id = litbank-0419
 # source = LitBank
 # book = Tarzan of the Apes
 # book_id = 78_tarzan_of_the_apes

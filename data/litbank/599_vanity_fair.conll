@@ -1,4 +1,4 @@
-# id = litbank-1145
+# id = litbank-1399
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -8,8 +8,8 @@
 # text = chapter i chiswick mall while the present century was in its teens , and on one sunshiny morning in june , there drove up to the great iron gate of miss pinkerton 's academy for young ladies , on chiswick mall , a large family coach , with two fat horses in blazing harness , driven by a fat coachman in a three-cornered hat and wig , at the rate of four miles an hour .
 chapter	O
 i	O
-chiswick	O
-mall	O
+chiswick	B-LOCATION
+mall	I-LOCATION
 while	O
 the	O
 present	O
@@ -45,8 +45,8 @@ young	O
 ladies	O
 ,	O
 on	O
-chiswick	O
-mall	O
+chiswick	B-LOCATION
+mall	I-LOCATION
 ,	O
 a	O
 large	O
@@ -83,7 +83,7 @@ an	O
 hour	O
 .	O
 
-# id = litbank-1146
+# id = litbank-1400
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -153,7 +153,7 @@ brick	O
 house	O
 .	O
 
-# id = litbank-1147
+# id = litbank-1401
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -196,7 +196,7 @@ own	O
 drawing-room	O
 .	O
 
-# id = litbank-1148
+# id = litbank-1402
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -220,7 +220,7 @@ miss	B-CHARACTER
 jemima	I-CHARACTER
 .	O
 
-# id = litbank-1149
+# id = litbank-1403
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -252,7 +252,7 @@ waistcoat	O
 .	O
 "	O
 
-# id = litbank-1150
+# id = litbank-1404
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -280,7 +280,7 @@ jemima	I-CHARACTER
 ?	O
 "	O
 
-# id = litbank-1151
+# id = litbank-1405
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -300,7 +300,7 @@ lady	O
 the	O
 semiramis	O
 of	O
-hammersmith	O
+hammersmith	B-LOCATION
 ,	O
 the	O
 friend	O
@@ -316,7 +316,7 @@ chapone	O
 herself	O
 .	O
 
-# id = litbank-1152
+# id = litbank-1406
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -355,7 +355,7 @@ bow-pot	O
 .	O
 "	O
 
-# id = litbank-1153
+# id = litbank-1407
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -378,7 +378,7 @@ genteel	O
 .	O
 "	O
 
-# id = litbank-1154
+# id = litbank-1408
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -426,7 +426,7 @@ box	O
 .	O
 "	O
 
-# id = litbank-1155
+# id = litbank-1409
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -454,7 +454,7 @@ sedley	I-CHARACTER
 account	O
 .	O
 
-# id = litbank-1157
+# id = litbank-1411
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -489,7 +489,7 @@ lady	O
 .	O
 "	O
 
-# id = litbank-1158
+# id = litbank-1412
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -530,7 +530,7 @@ a	O
 sovereign	O
 .	O
 
-# id = litbank-1159
+# id = litbank-1413
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -618,7 +618,7 @@ the	O
 event	O
 .	O
 
-# id = litbank-1160
+# id = litbank-1414
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -644,9 +644,9 @@ effect	O
 :	O
 --	O
 the	O
-mall	O
+mall	B-LOCATION
 ,	O
-chiswick	O
+chiswick	B-LOCATION
 ,	O
 june	O
 15	O
@@ -663,7 +663,7 @@ years	O
 residence	O
 at	O
 the	O
-mall	O
+mall	B-LOCATION
 ,	O
 i	O
 have	O
@@ -699,7 +699,7 @@ refined	O
 circle	O
 .	O
 
-# id = litbank-1161
+# id = litbank-1415
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -763,7 +763,7 @@ youthful	O
 companions	O
 .	O
 
-# id = litbank-1164
+# id = litbank-1418
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -810,7 +810,7 @@ mrs.	O
 chapone	O
 .	O
 
-# id = litbank-1165
+# id = litbank-1419
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -821,7 +821,7 @@ chapone	O
 in	O
 leaving	O
 the	O
-mall	O
+mall	B-LOCATION
 ,	O
 miss	B-CHARACTER
 amelia	I-CHARACTER
@@ -869,7 +869,7 @@ miss	B-CHARACTER
 sedley	I-CHARACTER
 .	O
 
-# id = litbank-1166
+# id = litbank-1420
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -887,8 +887,8 @@ sharp	I-CHARACTER
 's	O
 stay	O
 in	O
-russell	O
-square	O
+russell	B-LOCATION
+square	I-LOCATION
 may	O
 not	O
 exceed	O
@@ -896,7 +896,7 @@ ten	O
 days	O
 .	O
 
-# id = litbank-1168
+# id = litbank-1422
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -947,10 +947,10 @@ their	O
 departure	O
 from	O
 the	O
-mall	O
+mall	B-LOCATION
 .	O
 
-# id = litbank-1169
+# id = litbank-1423
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -982,7 +982,7 @@ school	O
 ,	O
 at	O
 the	O
-mall	O
+mall	B-LOCATION
 ;	O
 by	O
 the	O
@@ -994,7 +994,7 @@ johnson	O
 .	O
 "	O
 
-# id = litbank-1171
+# id = litbank-1425
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1034,7 +1034,7 @@ in	O
 question	O
 .	O
 
-# id = litbank-1172
+# id = litbank-1426
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1069,7 +1069,7 @@ the	O
 second	O
 .	O
 
-# id = litbank-1173
+# id = litbank-1427
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1088,7 +1088,7 @@ jemima	I-CHARACTER
 ?	O
 "	O
 
-# id = litbank-1174
+# id = litbank-1428
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1105,7 +1105,7 @@ awful	O
 coldness	O
 .	O
 
-# id = litbank-1175
+# id = litbank-1429
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1145,7 +1145,7 @@ her	O
 sister	O
 .	O
 
-# id = litbank-1176
+# id = litbank-1430
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1165,7 +1165,7 @@ too	O
 .	O
 "	O
 
-# id = litbank-1177
+# id = litbank-1431
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1179,7 +1179,7 @@ jemima	I-CHARACTER
 !	O
 "	O
 
-# id = litbank-1178
+# id = litbank-1432
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1197,7 +1197,7 @@ largest	O
 capitals	O
 .	O
 
-# id = litbank-1179
+# id = litbank-1433
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1230,7 +1230,7 @@ one	O
 .	O
 "	O
 
-# id = litbank-1180
+# id = litbank-1434
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1252,7 +1252,7 @@ miss	B-CHARACTER
 pinkerton	I-CHARACTER
 .	O
 
-# id = litbank-1181
+# id = litbank-1435
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1280,7 +1280,7 @@ and	O
 nervous	O
 .	O
 
-# id = litbank-1182
+# id = litbank-1436
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1296,7 +1296,7 @@ was	O
 a	O
 merchant	O
 in	O
-london	O
+london	B-LOCATION
 ,	O
 and	O
 a	O
@@ -1341,7 +1341,7 @@ the	O
 dixonary	O
 .	O
 
-# id = litbank-1183
+# id = litbank-1437
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1407,7 +1407,118 @@ and	O
 herself	O
 .	O
 
-# id = litbank-1184
+# id = litbank-1438
+# source = LitBank
+# book = Vanity Fair
+# book_id = 599_vanity_fair
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/599_vanity_fair_brat.tsv
+# text = for she could not only sing like a lark , or a mrs. billington , and dance like hillisberg or parisot ; and embroider beautifully ; and spell as well as a dixonary itself ; but she had such a kindly , smiling , tender , gentle , generous heart of her own , as won the love of everybody who came near her , from minerva herself down to the poor girl in the scullery , and the one-eyed tart-woman 's daughter , who was permitted to vend her wares once a week to the young ladies in the mall .
+for	O
+she	O
+could	O
+not	O
+only	O
+sing	O
+like	O
+a	O
+lark	O
+,	O
+or	O
+a	O
+mrs.	O
+billington	O
+,	O
+and	O
+dance	O
+like	O
+hillisberg	O
+or	O
+parisot	O
+;	O
+and	O
+embroider	O
+beautifully	O
+;	O
+and	O
+spell	O
+as	O
+well	O
+as	O
+a	O
+dixonary	O
+itself	O
+;	O
+but	O
+she	O
+had	O
+such	O
+a	O
+kindly	O
+,	O
+smiling	O
+,	O
+tender	O
+,	O
+gentle	O
+,	O
+generous	O
+heart	O
+of	O
+her	O
+own	O
+,	O
+as	O
+won	O
+the	O
+love	O
+of	O
+everybody	O
+who	O
+came	O
+near	O
+her	O
+,	O
+from	O
+minerva	O
+herself	O
+down	O
+to	O
+the	O
+poor	O
+girl	O
+in	O
+the	O
+scullery	O
+,	O
+and	O
+the	O
+one-eyed	O
+tart-woman	O
+'s	O
+daughter	O
+,	O
+who	O
+was	O
+permitted	O
+to	O
+vend	O
+her	O
+wares	O
+once	O
+a	O
+week	O
+to	O
+the	O
+young	O
+ladies	O
+in	O
+the	O
+mall	B-LOCATION
+.	O
+
+# id = litbank-1439
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1454,8 +1565,8 @@ rich	O
 woolly-haired	O
 mulatto	O
 from	O
-st.	O
-kitt	O
+st.	B-LOCATION
+kitt	I-LOCATION
 's	O
 ,	O
 on	O
@@ -1491,7 +1602,7 @@ with	O
 salvolatile	O
 .	O
 
-# id = litbank-1185
+# id = litbank-1440
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1566,12 +1677,12 @@ paid	O
 double	O
 )	O
 of	O
-st.	O
-kitt	O
+st.	B-LOCATION
+kitt	I-LOCATION
 's	O
 .	O
 
-# id = litbank-1186
+# id = litbank-1441
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1611,7 +1722,7 @@ to	O
 superintend	O
 .	O
 
-# id = litbank-1187
+# id = litbank-1442
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1700,7 +1811,7 @@ a	O
 person	O
 .	O
 
-# id = litbank-1188
+# id = litbank-1443
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1763,7 +1874,7 @@ to	O
 her	O
 .	O
 
-# id = litbank-1156
+# id = litbank-1410
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1781,7 +1892,7 @@ four	O
 shillings	O
 .	O
 
-# id = litbank-1162
+# id = litbank-1416
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1820,7 +1931,7 @@ fondest	O
 wishes	O
 .	O
 
-# id = litbank-1163
+# id = litbank-1417
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1882,7 +1993,7 @@ of	O
 fashion	O
 .	O
 
-# id = litbank-1167
+# id = litbank-1421
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair
@@ -1913,7 +2024,7 @@ as	O
 possible	O
 .	O
 
-# id = litbank-1170
+# id = litbank-1424
 # source = LitBank
 # book = Vanity Fair
 # book_id = 599_vanity_fair

@@ -1,4 +1,70 @@
-# id = litbank-0777
+# id = litbank-0932
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = the sea-reach of the thames stretched before us like the beginning of an interminable waterway .
+the	O
+sea-reach	O
+of	O
+the	O
+thames	B-LOCATION
+stretched	O
+before	O
+us	O
+like	O
+the	O
+beginning	O
+of	O
+an	O
+interminable	O
+waterway	O
+.	O
+
+# id = litbank-0935
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = the air was dark above gravesend , and farther back still seemed condensed into a mournful gloom , brooding motionless over the biggest , and the greatest , town on earth .
+the	O
+air	O
+was	O
+dark	O
+above	O
+gravesend	B-LOCATION
+,	O
+and	O
+farther	O
+back	O
+still	O
+seemed	O
+condensed	O
+into	O
+a	O
+mournful	O
+gloom	O
+,	O
+brooding	O
+motionless	O
+over	O
+the	O
+biggest	O
+,	O
+and	O
+the	O
+greatest	O
+,	O
+town	O
+on	O
+earth	O
+.	O
+
+# id = litbank-0937
 # source = LitBank
 # book = Heart of Darkness
 # book_id = 219_heart_of_darkness
@@ -18,7 +84,207 @@ the	O
 mizzen-mast	O
 .	O
 
-# id = litbank-0778
+# id = litbank-0938
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = the water shone pacifically ; the sky , without a speck , was a benign immensity of unstained light ; the very mist on the essex marsh was like a gauzy and radiant fabric , hung from the wooded rises inland , and draping the low shores in diaphanous folds .
+the	O
+water	O
+shone	O
+pacifically	O
+;	O
+the	O
+sky	O
+,	O
+without	O
+a	O
+speck	O
+,	O
+was	O
+a	O
+benign	O
+immensity	O
+of	O
+unstained	O
+light	O
+;	O
+the	O
+very	O
+mist	O
+on	O
+the	O
+essex	B-LOCATION
+marsh	O
+was	O
+like	O
+a	O
+gauzy	O
+and	O
+radiant	O
+fabric	O
+,	O
+hung	O
+from	O
+the	O
+wooded	O
+rises	O
+inland	O
+,	O
+and	O
+draping	O
+the	O
+low	O
+shores	O
+in	O
+diaphanous	O
+folds	O
+.	O
+
+# id = litbank-0939
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = and indeed nothing is easier for a man who has , as the phrase goes , “ followed the sea ” with reverence and affection , than to evoke the great spirit of the past upon the lower reaches of the thames .
+and	O
+indeed	O
+nothing	O
+is	O
+easier	O
+for	O
+a	O
+man	O
+who	O
+has	O
+,	O
+as	O
+the	O
+phrase	O
+goes	O
+,	O
+“	O
+followed	O
+the	O
+sea	O
+”	O
+with	O
+reverence	O
+and	O
+affection	O
+,	O
+than	O
+to	O
+evoke	O
+the	O
+great	O
+spirit	O
+of	O
+the	O
+past	O
+upon	O
+the	O
+lower	O
+reaches	O
+of	O
+the	O
+thames	B-LOCATION
+.	O
+
+# id = litbank-0940
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = they had sailed from deptford , from greenwich , from erith -- the adventurers and the settlers ; kings ' ships and the ships of men on ' change ; captains , admirals , the dark “ interlopers ” of the eastern trade , and the commissioned “ generals ” of east india fleets .
+they	O
+had	O
+sailed	O
+from	O
+deptford	B-LOCATION
+,	O
+from	O
+greenwich	B-LOCATION
+,	O
+from	O
+erith	B-LOCATION
+--	O
+the	O
+adventurers	O
+and	O
+the	O
+settlers	O
+;	O
+kings	O
+'	O
+ships	O
+and	O
+the	O
+ships	O
+of	O
+men	O
+on	O
+'	O
+change	O
+;	O
+captains	O
+,	O
+admirals	O
+,	O
+the	O
+dark	O
+“	O
+interlopers	O
+”	O
+of	O
+the	O
+eastern	O
+trade	O
+,	O
+and	O
+the	O
+commissioned	O
+“	O
+generals	O
+”	O
+of	O
+east	B-LOCATION
+india	I-LOCATION
+fleets	O
+.	O
+
+# id = litbank-0941
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = the chapman light-house , a three-legged thing erect on a mud-flat , shone strongly .
+the	O
+chapman	B-LOCATION
+light-house	O
+,	O
+a	O
+three-legged	O
+thing	O
+erect	O
+on	O
+a	O
+mud-flat	O
+,	O
+shone	O
+strongly	O
+.	O
+
+# id = litbank-0942
 # source = LitBank
 # book = Heart of Darkness
 # book_id = 219_heart_of_darkness
@@ -50,7 +316,7 @@ earth	O
 .	O
 ”	O
 
-# id = litbank-0779
+# id = litbank-0943
 # source = LitBank
 # book = Heart of Darkness
 # book_id = 219_heart_of_darkness
@@ -129,7 +395,7 @@ of	O
 moonshine	O
 .	O
 
-# id = litbank-0780
+# id = litbank-0944
 # source = LitBank
 # book = Heart of Darkness
 # book_id = 219_heart_of_darkness
@@ -144,7 +410,164 @@ like	O
 marlow	B-CHARACTER
 .	O
 
-# id = litbank-0772
+# id = litbank-0945
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = -- trireme in the mediterranean , ordered suddenly to the north ; run overland across the gauls in a hurry ; put in charge of one of these craft the legionaries -- a wonderful lot of handy men they must have been , too -- used to build , apparently by the hundred , in a month or two , if we may believe what we read .
+--	O
+trireme	O
+in	O
+the	O
+mediterranean	B-LOCATION
+,	O
+ordered	O
+suddenly	O
+to	O
+the	O
+north	O
+;	O
+run	O
+overland	O
+across	O
+the	O
+gauls	O
+in	O
+a	O
+hurry	O
+;	O
+put	O
+in	O
+charge	O
+of	O
+one	O
+of	O
+these	O
+craft	O
+the	O
+legionaries	O
+--	O
+a	O
+wonderful	O
+lot	O
+of	O
+handy	O
+men	O
+they	O
+must	O
+have	O
+been	O
+,	O
+too	O
+--	O
+used	O
+to	O
+build	O
+,	O
+apparently	O
+by	O
+the	O
+hundred	O
+,	O
+in	O
+a	O
+month	O
+or	O
+two	O
+,	O
+if	O
+we	O
+may	O
+believe	O
+what	O
+we	O
+read	O
+.	O
+
+# id = litbank-0946
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = sand-banks , marshes , forests , savages , -- precious little to eat fit for a civilized man , nothing but thames water to drink .
+sand-banks	B-LOCATION
+,	O
+marshes	O
+,	O
+forests	O
+,	O
+savages	O
+,	O
+--	O
+precious	O
+little	O
+to	O
+eat	O
+fit	O
+for	O
+a	O
+civilized	O
+man	O
+,	O
+nothing	O
+but	O
+thames	B-LOCATION
+water	O
+to	O
+drink	O
+.	O
+
+# id = litbank-0947
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = and perhaps he was cheered by keeping his eye on a chance of promotion to the fleet at ravenna by and by , if he had good friends in rome and survived the awful climate .
+and	O
+perhaps	O
+he	O
+was	O
+cheered	O
+by	O
+keeping	O
+his	O
+eye	O
+on	O
+a	O
+chance	O
+of	O
+promotion	O
+to	O
+the	O
+fleet	O
+at	O
+ravenna	B-LOCATION
+by	O
+and	O
+by	O
+,	O
+if	O
+he	O
+had	O
+good	O
+friends	O
+in	O
+rome	B-LOCATION
+and	O
+survived	O
+the	O
+awful	O
+climate	O
+.	O
+
+# id = litbank-0930
 # source = LitBank
 # book = Heart of Darkness
 # book_id = 219_heart_of_darkness
@@ -177,7 +600,7 @@ at	O
 rest	O
 .	O
 
-# id = litbank-0773
+# id = litbank-0931
 # source = LitBank
 # book = Heart of Darkness
 # book_id = 219_heart_of_darkness
@@ -222,32 +645,7 @@ the	O
 tide	O
 .	O
 
-# id = litbank-0774
-# source = LitBank
-# book = Heart of Darkness
-# book_id = 219_heart_of_darkness
-# chapter = unknown
-# sample_type = negative
-# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
-# text = the sea-reach of the thames stretched before us like the beginning of an interminable waterway .
-the	O
-sea-reach	O
-of	O
-the	O
-thames	O
-stretched	O
-before	O
-us	O
-like	O
-the	O
-beginning	O
-of	O
-an	O
-interminable	O
-waterway	O
-.	O
-
-# id = litbank-0775
+# id = litbank-0933
 # source = LitBank
 # book = Heart of Darkness
 # book_id = 219_heart_of_darkness
@@ -305,7 +703,7 @@ varnished	O
 sprits	O
 .	O
 
-# id = litbank-0776
+# id = litbank-0934
 # source = LitBank
 # book = Heart of Darkness
 # book_id = 219_heart_of_darkness
@@ -328,5 +726,25 @@ sea	O
 in	O
 vanishing	O
 flatness	O
+.	O
+
+# id = litbank-0936
+# source = LitBank
+# book = Heart of Darkness
+# book_id = 219_heart_of_darkness
+# chapter = unknown
+# sample_type = negative
+# source_file = entities/tsv/219_heart_of_darkness_brat.tsv
+# text = the director of companies was our captain and our host .
+the	O
+director	O
+of	O
+companies	O
+was	O
+our	O
+captain	O
+and	O
+our	O
+host	O
 .	O
 

@@ -1,4 +1,4 @@
-# id = litbank-1189
+# id = litbank-1444
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -51,7 +51,7 @@ outer	O
 door	O
 .	O
 
-# id = litbank-1190
+# id = litbank-1445
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -85,7 +85,7 @@ good	I-CHARACTER
 rn	O
 .	O
 
-# id = litbank-1193
+# id = litbank-1448
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -113,7 +113,7 @@ burning	O
 ember	O
 .	O
 
-# id = litbank-1197
+# id = litbank-1452
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -151,7 +151,7 @@ tall	O
 man	O
 .	O
 
-# id = litbank-1198
+# id = litbank-1453
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -259,7 +259,7 @@ taken	O
 in	O
 .	O
 
-# id = litbank-1199
+# id = litbank-1454
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -296,7 +296,7 @@ deny	O
 it	O
 .	O
 
-# id = litbank-1200
+# id = litbank-1455
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -358,7 +358,37 @@ the	O
 funeral	O
 .	O
 
-# id = litbank-1201
+# id = litbank-1456
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = ‘ old friends , ’ i said , ‘ how long is it since we got back from kukuanaland ? ’
+‘	O
+old	O
+friends	O
+,	O
+’	O
+i	O
+said	O
+,	O
+‘	O
+how	O
+long	O
+is	O
+it	O
+since	O
+we	O
+got	O
+back	O
+from	O
+kukuanaland	B-LOCATION
+?	O
+’	O
+
+# id = litbank-1457
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -384,7 +414,7 @@ deep	O
 laughs	O
 .	O
 
-# id = litbank-1202
+# id = litbank-1458
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -403,7 +433,7 @@ will	O
 explain	O
 .	O
 
-# id = litbank-1203
+# id = litbank-1459
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -416,7 +446,53 @@ sir	B-CHARACTER
 henry	I-CHARACTER
 .	O
 
-# id = litbank-1204
+# id = litbank-1460
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = ‘ well , it was about a little plan that i have formed -- namely , that if you were willing we should pack up our traps and go off to africa on another expedition . ’
+‘	O
+well	O
+,	O
+it	O
+was	O
+about	O
+a	O
+little	O
+plan	O
+that	O
+i	O
+have	O
+formed	O
+--	O
+namely	O
+,	O
+that	O
+if	O
+you	O
+were	O
+willing	O
+we	O
+should	O
+pack	O
+up	O
+our	O
+traps	O
+and	O
+go	O
+off	O
+to	O
+africa	B-LOCATION
+on	O
+another	O
+expedition	O
+.	O
+’	O
+
+# id = litbank-1461
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -443,7 +519,7 @@ of	O
 manner	O
 .	O
 
-# id = litbank-1205
+# id = litbank-1462
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -456,17 +532,48 @@ am	O
 always	O
 dreaming	O
 of	O
-kukuanaland	O
+kukuanaland	B-LOCATION
 and	O
 gagool	B-CHARACTER
 and	O
 king	O
-solomon	O
+solomon	B-LOCATION
 ’s	O
 mines	O
 .	O
 
-# id = litbank-1206
+# id = litbank-1463
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = that year we spent together up in kukuanaland seems to me worth all the other years of my life put together .
+that	O
+year	O
+we	O
+spent	O
+together	O
+up	O
+in	O
+kukuanaland	B-LOCATION
+seems	O
+to	O
+me	O
+worth	O
+all	O
+the	O
+other	O
+years	O
+of	O
+my	O
+life	O
+put	O
+together	O
+.	O
+
+# id = litbank-1464
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -501,7 +608,7 @@ any	O
 case	O
 .	O
 
-# id = litbank-1207
+# id = litbank-1465
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -514,7 +621,7 @@ sir	B-CHARACTER
 henry	I-CHARACTER
 .	O
 
-# id = litbank-1208
+# id = litbank-1466
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -540,7 +647,148 @@ to	O
 ?	O
 ’	O
 
-# id = litbank-1209
+# id = litbank-1467
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = ‘ have you people ever heard of mt kenia ? ’
+‘	O
+have	O
+you	O
+people	O
+ever	O
+heard	O
+of	O
+mt	B-LOCATION
+kenia	I-LOCATION
+?	O
+’	O
+
+# id = litbank-1468
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = ‘ did you ever hear of the island of lamu ? ’
+‘	O
+did	O
+you	O
+ever	O
+hear	O
+of	O
+the	O
+island	O
+of	O
+lamu	B-LOCATION
+?	O
+’	O
+
+# id = litbank-1469
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = stop , though -- is n’t it a place about 300 miles north of zanzibar ? ’
+stop	O
+,	O
+though	O
+--	O
+is	O
+n’t	O
+it	O
+a	O
+place	O
+about	O
+300	O
+miles	O
+north	O
+of	O
+zanzibar	B-LOCATION
+?	O
+’	O
+
+# id = litbank-1470
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = that we go to lamu and thence make our way about 250 miles inland to mt kenia ; from mt kenia on inland to mt lekakisera , another 200 miles , or thereabouts , beyond which no white man has to the best of my belief ever been ; and then , if we get so far , right on into the unknown interior .
+that	O
+we	O
+go	O
+to	O
+lamu	B-LOCATION
+and	O
+thence	O
+make	O
+our	O
+way	O
+about	O
+250	O
+miles	O
+inland	O
+to	O
+mt	B-LOCATION
+kenia	I-LOCATION
+;	O
+from	O
+mt	B-LOCATION
+kenia	I-LOCATION
+on	O
+inland	O
+to	O
+mt	B-LOCATION
+lekakisera	I-LOCATION
+,	O
+another	O
+200	O
+miles	O
+,	O
+or	O
+thereabouts	O
+,	O
+beyond	O
+which	O
+no	O
+white	O
+man	O
+has	O
+to	O
+the	O
+best	O
+of	O
+my	O
+belief	O
+ever	O
+been	O
+;	O
+and	O
+then	O
+,	O
+if	O
+we	O
+get	O
+so	O
+far	O
+,	O
+right	O
+on	O
+into	O
+the	O
+unknown	O
+interior	O
+.	O
+
+# id = litbank-1471
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -563,7 +811,7 @@ henry	I-CHARACTER
 reflectively	O
 .	O
 
-# id = litbank-1210
+# id = litbank-1472
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -603,7 +851,45 @@ my	O
 shoulder	O
 .	O
 
-# id = litbank-1211
+# id = litbank-1473
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = by all means let ’s go to mt kenia and the other place with an unpronounceable name , and look for a white race that does not exist .
+by	O
+all	O
+means	O
+let	O
+’s	O
+go	O
+to	O
+mt	B-LOCATION
+kenia	I-LOCATION
+and	O
+the	O
+other	O
+place	O
+with	O
+an	O
+unpronounceable	O
+name	O
+,	O
+and	O
+look	O
+for	O
+a	O
+white	O
+race	O
+that	O
+does	O
+not	O
+exist	O
+.	O
+
+# id = litbank-1474
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -616,7 +902,23 @@ sir	B-CHARACTER
 henry	I-CHARACTER
 .	O
 
-# id = litbank-1191
+# id = litbank-1475
+# source = LitBank
+# book = Allan Quatermain
+# book_id = 711_allan_quatermain
+# chapter = unknown
+# sample_type = positive
+# source_file = entities/tsv/711_allan_quatermain_brat.tsv
+# text = remember king solomon ’s mines ! ’
+remember	O
+king	O
+solomon	B-LOCATION
+’s	O
+mines	O
+!	O
+’	O
+
+# id = litbank-1446
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -652,7 +954,7 @@ was	O
 burning	O
 .	O
 
-# id = litbank-1192
+# id = litbank-1447
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -694,7 +996,7 @@ snow	O
 .	O
 ’	O
 
-# id = litbank-1194
+# id = litbank-1449
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -744,7 +1046,7 @@ he	O
 is	O
 !	O
 
-# id = litbank-1195
+# id = litbank-1450
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
@@ -781,7 +1083,7 @@ of	O
 humanity	O
 .	O
 
-# id = litbank-1196
+# id = litbank-1451
 # source = LitBank
 # book = Allan Quatermain
 # book_id = 711_allan_quatermain
