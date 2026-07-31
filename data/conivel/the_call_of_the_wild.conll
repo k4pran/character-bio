@@ -1,0 +1,5147 @@
+# id = conivel-the-call-of-the-wild-000001
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There were great stables , where a dozen grooms and boys held forth , rows of vine-clad servants ' cottages , an endless and orderly array of outhouses , long grape arbors , green pastures , orchards , and berry patches .
+There	O
+were	O
+great	O
+stables	O
+,	O
+where	O
+a	O
+dozen	O
+grooms	O
+and	O
+boys	O
+held	O
+forth	O
+,	O
+rows	O
+of	O
+vine-clad	O
+servants	O
+'	O
+cottages	O
+,	O
+an	O
+endless	O
+and	O
+orderly	O
+array	O
+of	O
+outhouses	O
+,	O
+long	O
+grape	O
+arbors	O
+,	O
+green	O
+pastures	O
+,	O
+orchards	O
+,	O
+and	O
+berry	O
+patches	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000002
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Here he was born , and here he had lived the four years of his life .
+Here	O
+he	O
+was	O
+born	O
+,	O
+and	O
+here	O
+he	O
+had	O
+lived	O
+the	O
+four	O
+years	O
+of	O
+his	O
+life	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000003
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was true , there were other dogs , There could not but be other dogs on so vast a place , but they did not count .
+It	O
+was	O
+true	O
+,	O
+there	O
+were	O
+other	O
+dogs	O
+,	O
+There	O
+could	O
+not	O
+but	O
+be	O
+other	O
+dogs	O
+on	O
+so	O
+vast	O
+a	O
+place	O
+,	O
+but	O
+they	O
+did	O
+not	O
+count	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000004
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The whole realm was his .
+The	O
+whole	O
+realm	O
+was	O
+his	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000005
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nevertheless , one hundred and forty pounds , to which was added the dignity that comes of good living and universal respect , enabled him to carry himself in right royal fashion .
+Nevertheless	O
+,	O
+one	O
+hundred	O
+and	O
+forty	O
+pounds	O
+,	O
+to	O
+which	O
+was	O
+added	O
+the	O
+dignity	O
+that	O
+comes	O
+of	O
+good	O
+living	O
+and	O
+universal	O
+respect	O
+,	O
+enabled	O
+him	O
+to	O
+carry	O
+himself	O
+in	O
+right	O
+royal	O
+fashion	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000006
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = During the four years since his puppyhood he had lived the life of a sated aristocrat ; he had a fine pride in himself , was even a trifle egotistical , as country gentlemen sometimes become because of their insular situation .
+During	O
+the	O
+four	O
+years	O
+since	O
+his	O
+puppyhood	O
+he	O
+had	O
+lived	O
+the	O
+life	O
+of	O
+a	O
+sated	O
+aristocrat	O
+;	O
+he	O
+had	O
+a	O
+fine	O
+pride	O
+in	O
+himself	O
+,	O
+was	O
+even	O
+a	O
+trifle	O
+egotistical	O
+,	O
+as	O
+country	O
+gentlemen	O
+sometimes	O
+become	O
+because	O
+of	O
+their	O
+insular	O
+situation	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000007
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But he had saved himself by not becoming a mere pampered house-dog .
+But	O
+he	O
+had	O
+saved	O
+himself	O
+by	O
+not	O
+becoming	O
+a	O
+mere	O
+pampered	O
+house-dog	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000008
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Hunting and kindred outdoor delights had kept down the fat and hardened his muscles ; and to him , as to the cold-tubbing races , the love of water had been a tonic and a health preserver .
+Hunting	O
+and	O
+kindred	O
+outdoor	O
+delights	O
+had	O
+kept	O
+down	O
+the	O
+fat	O
+and	O
+hardened	O
+his	O
+muscles	O
+;	O
+and	O
+to	O
+him	O
+,	O
+as	O
+to	O
+the	O
+cold-tubbing	O
+races	O
+,	O
+the	O
+love	O
+of	O
+water	O
+had	O
+been	O
+a	O
+tonic	O
+and	O
+a	O
+health	O
+preserver	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000009
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He loved to play Chinese lottery .
+He	O
+loved	O
+to	O
+play	O
+Chinese	O
+lottery	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000010
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Also , in his gambling , he had one besetting weakness -- faith in a system ; and this made his damnation certain .
+Also	O
+,	O
+in	O
+his	O
+gambling	O
+,	O
+he	O
+had	O
+one	O
+besetting	O
+weakness	O
+--	O
+faith	O
+in	O
+a	O
+system	O
+;	O
+and	O
+this	O
+made	O
+his	O
+damnation	O
+certain	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000011
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For to play a system requires money , while the wages of a gardener 's helper do not lap over the needs of a wife and numerous progeny .
+For	O
+to	O
+play	O
+a	O
+system	O
+requires	O
+money	O
+,	O
+while	O
+the	O
+wages	O
+of	O
+a	O
+gardener	O
+'s	O
+helper	O
+do	O
+not	O
+lap	O
+over	O
+the	O
+needs	O
+of	O
+a	O
+wife	O
+and	O
+numerous	O
+progeny	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000012
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And with the exception of a solitary man , no one saw them arrive at the little flag station known as College Park .
+And	O
+with	O
+the	O
+exception	O
+of	O
+a	O
+solitary	O
+man	O
+,	O
+no	O
+one	O
+saw	O
+them	O
+arrive	O
+at	O
+the	O
+little	O
+flag	O
+station	O
+known	O
+as	O
+College	B-LOCATION
+Park	I-LOCATION
+.	O
+
+# id = conivel-the-call-of-the-wild-000013
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You might wrap up the goods before you deliver ` m , ''
+``	O
+You	O
+might	O
+wrap	O
+up	O
+the	O
+goods	O
+before	O
+you	O
+deliver	O
+`	O
+m	O
+,	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000014
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the stranger said gruffly , and Manuel doubled a piece of stout rope around Buck 's neck under the collar .
+the	O
+stranger	O
+said	O
+gruffly	O
+,	O
+and	O
+Manuel	B-CHARACTER
+doubled	O
+a	O
+piece	O
+of	O
+stout	O
+rope	O
+around	O
+Buck	B-CHARACTER
+'s	O
+neck	O
+under	O
+the	O
+collar	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000015
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Twist it , an ' you 'll choke ` m plentee , ''
+``	O
+Twist	O
+it	O
+,	O
+an	O
+'	O
+you	O
+'ll	O
+choke	O
+`	O
+m	O
+plentee	O
+,	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000016
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Manuel , and the stranger grunted a ready affirmative .
+said	O
+Manuel	B-CHARACTER
+,	O
+and	O
+the	O
+stranger	O
+grunted	O
+a	O
+ready	O
+affirmative	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000017
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = To be sure , it was an unwonted performance : but he had learned to trust in men he knew , and to give them credit for a wisdom that outreached his own .
+To	O
+be	O
+sure	O
+,	O
+it	O
+was	O
+an	O
+unwonted	O
+performance	O
+:	O
+but	O
+he	O
+had	O
+learned	O
+to	O
+trust	O
+in	O
+men	O
+he	O
+knew	O
+,	O
+and	O
+to	O
+give	O
+them	O
+credit	O
+for	O
+a	O
+wisdom	O
+that	O
+outreached	O
+his	O
+own	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000018
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But when the ends of the rope were placed in the stranger 's hands , he growled menacingly .
+But	O
+when	O
+the	O
+ends	O
+of	O
+the	O
+rope	O
+were	O
+placed	O
+in	O
+the	O
+stranger	O
+'s	O
+hands	O
+,	O
+he	O
+growled	O
+menacingly	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000019
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had merely intimated his displeasure , in his pride believing that to intimate was to command .
+He	O
+had	O
+merely	O
+intimated	O
+his	O
+displeasure	O
+,	O
+in	O
+his	O
+pride	O
+believing	O
+that	O
+to	O
+intimate	O
+was	O
+to	O
+command	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000020
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But to his surprise the rope tightened around his neck , shutting off his breath .
+But	O
+to	O
+his	O
+surprise	O
+the	O
+rope	O
+tightened	O
+around	O
+his	O
+neck	O
+,	O
+shutting	O
+off	O
+his	O
+breath	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000021
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In quick rage he sprang at the man , who met him halfway , grappled him close by the throat , and with a deft twist threw him over on his back .
+In	O
+quick	O
+rage	O
+he	O
+sprang	O
+at	O
+the	O
+man	O
+,	O
+who	O
+met	O
+him	O
+halfway	O
+,	O
+grappled	O
+him	O
+close	O
+by	O
+the	O
+throat	O
+,	O
+and	O
+with	O
+a	O
+deft	O
+twist	O
+threw	O
+him	O
+over	O
+on	O
+his	O
+back	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000022
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Never in all his life had he been so vilely treated , and never in all his life had he been so angry .
+Never	O
+in	O
+all	O
+his	O
+life	O
+had	O
+he	O
+been	O
+so	O
+vilely	O
+treated	O
+,	O
+and	O
+never	O
+in	O
+all	O
+his	O
+life	O
+had	O
+he	O
+been	O
+so	O
+angry	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000023
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But his strength ebbed , his eyes glazed , and he knew nothing when the train was flagged and the two men threw him into the baggage car .
+But	O
+his	O
+strength	O
+ebbed	O
+,	O
+his	O
+eyes	O
+glazed	O
+,	O
+and	O
+he	O
+knew	O
+nothing	O
+when	O
+the	O
+train	O
+was	O
+flagged	O
+and	O
+the	O
+two	O
+men	O
+threw	O
+him	O
+into	O
+the	O
+baggage	O
+car	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000024
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The next he knew , he was dimly aware that his tongue was hurting and that he was being jolted along in some kind of a conveyance .
+The	O
+next	O
+he	O
+knew	O
+,	O
+he	O
+was	O
+dimly	O
+aware	O
+that	O
+his	O
+tongue	O
+was	O
+hurting	O
+and	O
+that	O
+he	O
+was	O
+being	O
+jolted	O
+along	O
+in	O
+some	O
+kind	O
+of	O
+a	O
+conveyance	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000025
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The hoarse shriek of a locomotive whistling a crossing told him where he was .
+The	O
+hoarse	O
+shriek	O
+of	O
+a	O
+locomotive	O
+whistling	O
+a	O
+crossing	O
+told	O
+him	O
+where	O
+he	O
+was	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000026
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had travelled too often with the Judge not to know the sensation of riding in a baggage car .
+He	O
+had	O
+travelled	O
+too	O
+often	O
+with	O
+the	O
+Judge	O
+not	O
+to	O
+know	O
+the	O
+sensation	O
+of	O
+riding	O
+in	O
+a	O
+baggage	O
+car	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000027
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He opened his eyes , and into them came the unbridled anger of a kidnapped king .
+He	O
+opened	O
+his	O
+eyes	O
+,	O
+and	O
+into	O
+them	O
+came	O
+the	O
+unbridled	O
+anger	O
+of	O
+a	O
+kidnapped	O
+king	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000028
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His jaws closed on the hand , nor did they relax till his senses were choked out of him once more .
+His	O
+jaws	O
+closed	O
+on	O
+the	O
+hand	O
+,	O
+nor	O
+did	O
+they	O
+relax	O
+till	O
+his	O
+senses	O
+were	O
+choked	O
+out	O
+of	O
+him	O
+once	O
+more	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000029
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yep , has fits , ''
+``	O
+Yep	O
+,	O
+has	O
+fits	O
+,	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000030
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the man said , hiding his mangled hand from the baggageman , who had been attracted by the sounds of struggle .
+the	O
+man	O
+said	O
+,	O
+hiding	O
+his	O
+mangled	O
+hand	O
+from	O
+the	O
+baggageman	O
+,	O
+who	O
+had	O
+been	O
+attracted	O
+by	O
+the	O
+sounds	O
+of	O
+struggle	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000031
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm takin ' ` m up for the boss to ` Frisco .
+``	O
+I	O
+'m	O
+takin	O
+'	O
+`	O
+m	O
+up	O
+for	O
+the	O
+boss	O
+to	O
+`	O
+Frisco	B-LOCATION
+.	O
+
+# id = conivel-the-call-of-the-wild-000032
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A crack dog-doctor there thinks that he can cure ` m. ''
+A	O
+crack	O
+dog-doctor	O
+there	O
+thinks	O
+that	O
+he	O
+can	O
+cure	O
+`	O
+m.	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000033
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` All I get is fifty for it , ''
+``	O
+All	O
+I	O
+get	O
+is	O
+fifty	O
+for	O
+it	O
+,	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000034
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he grumbled ; `` an ' I would n't do it over for a thousand , cold cash . ''
+he	O
+grumbled	O
+;	O
+``	O
+an	O
+'	O
+I	O
+would	O
+n't	O
+do	O
+it	O
+over	O
+for	O
+a	O
+thousand	O
+,	O
+cold	O
+cash	O
+.	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000035
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His hand was wrapped in a bloody handkerchief , and the right trouser leg was ripped from knee to ankle .
+His	O
+hand	O
+was	O
+wrapped	O
+in	O
+a	O
+bloody	O
+handkerchief	O
+,	O
+and	O
+the	O
+right	O
+trouser	O
+leg	O
+was	O
+ripped	O
+from	O
+knee	O
+to	O
+ankle	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000036
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How much did the other mug get ? ''
+``	O
+How	O
+much	O
+did	O
+the	O
+other	O
+mug	O
+get	O
+?	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000037
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the saloon-keeper demanded .
+the	O
+saloon-keeper	O
+demanded	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000038
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A hundred , ''
+``	O
+A	O
+hundred	O
+,	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000039
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = was the reply .
+was	O
+the	O
+reply	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000040
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Would n't take a sou less , so help me . ''
+``	O
+Would	O
+n't	O
+take	O
+a	O
+sou	O
+less	O
+,	O
+so	O
+help	O
+me	O
+.	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000041
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That makes a hundred and fifty , ''
+``	O
+That	O
+makes	O
+a	O
+hundred	O
+and	O
+fifty	O
+,	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000042
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the saloon-keeper calculated ; `` and he 's worth it , or I 'm a squarehead . ''
+the	O
+saloon-keeper	O
+calculated	O
+;	O
+``	O
+and	O
+he	O
+'s	O
+worth	O
+it	O
+,	O
+or	O
+I	O
+'m	O
+a	O
+squarehead	O
+.	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000043
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The kidnapper undid the bloody wrappings and looked at his lacerated hand .
+The	O
+kidnapper	O
+undid	O
+the	O
+bloody	O
+wrappings	O
+and	O
+looked	O
+at	O
+his	O
+lacerated	O
+hand	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000044
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` If I do n't get the hydrophoby -- ''
+``	O
+If	O
+I	O
+do	O
+n't	O
+get	O
+the	O
+hydrophoby	O
+--	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000045
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 'll be because you was born to hang , ''
+``	O
+It	O
+'ll	O
+be	O
+because	O
+you	O
+was	O
+born	O
+to	O
+hang	O
+,	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000046
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = laughed the saloon-keeper .
+laughed	O
+the	O
+saloon-keeper	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000047
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Here , lend me a hand before you pull your freight , ''
+``	O
+Here	O
+,	O
+lend	O
+me	O
+a	O
+hand	O
+before	O
+you	O
+pull	O
+your	O
+freight	O
+,	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000048
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he added .
+he	O
+added	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000049
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But he was thrown down and choked repeatedly , till they succeeded in filing the heavy brass collar from off his neck .
+But	O
+he	O
+was	O
+thrown	O
+down	O
+and	O
+choked	O
+repeatedly	O
+,	O
+till	O
+they	O
+succeeded	O
+in	O
+filing	O
+the	O
+heavy	O
+brass	O
+collar	O
+from	O
+off	O
+his	O
+neck	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000050
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then the rope was removed , and he was flung into a cagelike crate .
+Then	O
+the	O
+rope	O
+was	O
+removed	O
+,	O
+and	O
+he	O
+was	O
+flung	O
+into	O
+a	O
+cagelike	O
+crate	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000051
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There he lay for the remainder of the weary night , nursing his wrath and wounded pride .
+There	O
+he	O
+lay	O
+for	O
+the	O
+remainder	O
+of	O
+the	O
+weary	O
+night	O
+,	O
+nursing	O
+his	O
+wrath	O
+and	O
+wounded	O
+pride	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000052
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He could not understand what it all meant .
+He	O
+could	O
+not	O
+understand	O
+what	O
+it	O
+all	O
+meant	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000053
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What did they want with him , these strange men ?
+What	O
+did	O
+they	O
+want	O
+with	O
+him	O
+,	O
+these	O
+strange	O
+men	O
+?	O
+
+# id = conivel-the-call-of-the-wild-000054
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Why were they keeping him pent up in this narrow crate ?
+Why	O
+were	O
+they	O
+keeping	O
+him	O
+pent	O
+up	O
+in	O
+this	O
+narrow	O
+crate	O
+?	O
+
+# id = conivel-the-call-of-the-wild-000055
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He did not know why , but he felt oppressed by the vague sense of impending calamity .
+He	O
+did	O
+not	O
+know	O
+why	O
+,	O
+but	O
+he	O
+felt	O
+oppressed	O
+by	O
+the	O
+vague	O
+sense	O
+of	O
+impending	O
+calamity	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000056
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Several times during the night he sprang to his feet when the shed door rattled open , expecting to see the Judge , or the boys at least .
+Several	O
+times	O
+during	O
+the	O
+night	O
+he	O
+sprang	O
+to	O
+his	O
+feet	O
+when	O
+the	O
+shed	O
+door	O
+rattled	O
+open	O
+,	O
+expecting	O
+to	O
+see	O
+the	O
+Judge	B-CHARACTER
+,	O
+or	O
+the	O
+boys	O
+at	O
+least	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000057
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But each time it was the bulging face of the saloon-keeper that peered in at him by the sickly light of a tallow candle .
+But	O
+each	O
+time	O
+it	O
+was	O
+the	O
+bulging	O
+face	O
+of	O
+the	O
+saloon-keeper	O
+that	O
+peered	O
+in	O
+at	O
+him	O
+by	O
+the	O
+sickly	O
+light	O
+of	O
+a	O
+tallow	O
+candle	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000058
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But the saloon-keeper let him alone , and in the morning four men entered and picked up the crate .
+But	O
+the	O
+saloon-keeper	O
+let	O
+him	O
+alone	O
+,	O
+and	O
+in	O
+the	O
+morning	O
+four	O
+men	O
+entered	O
+and	O
+picked	O
+up	O
+the	O
+crate	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000059
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They only laughed and poked sticks at him , which he promptly assailed with his teeth till he realized that that was what they wanted .
+They	O
+only	O
+laughed	O
+and	O
+poked	O
+sticks	O
+at	O
+him	O
+,	O
+which	O
+he	O
+promptly	O
+assailed	O
+with	O
+his	O
+teeth	O
+till	O
+he	O
+realized	O
+that	O
+that	O
+was	O
+what	O
+they	O
+wanted	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000060
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Whereupon he lay down sullenly and allowed the crate to be lifted into a wagon .
+Whereupon	O
+he	O
+lay	O
+down	O
+sullenly	O
+and	O
+allowed	O
+the	O
+crate	O
+to	O
+be	O
+lifted	O
+into	O
+a	O
+wagon	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000061
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then he , and the crate in which he was imprisoned , began a passage through many hands .
+Then	O
+he	O
+,	O
+and	O
+the	O
+crate	O
+in	O
+which	O
+he	O
+was	O
+imprisoned	O
+,	O
+began	O
+a	O
+passage	O
+through	O
+many	O
+hands	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000062
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Clerks in the express office took charge of him ; he was carted about in another wagon ; a truck carried him , with an assortment of boxes and parcels , upon a ferry steamer ; he was trucked off the steamer into a great railway depot , and finally he was deposited in an express car .
+Clerks	O
+in	O
+the	O
+express	O
+office	O
+took	O
+charge	O
+of	O
+him	O
+;	O
+he	O
+was	O
+carted	O
+about	O
+in	O
+another	O
+wagon	O
+;	O
+a	O
+truck	O
+carried	O
+him	O
+,	O
+with	O
+an	O
+assortment	O
+of	O
+boxes	O
+and	O
+parcels	O
+,	O
+upon	O
+a	O
+ferry	O
+steamer	O
+;	O
+he	O
+was	O
+trucked	O
+off	O
+the	O
+steamer	O
+into	O
+a	O
+great	O
+railway	O
+depot	O
+,	O
+and	O
+finally	O
+he	O
+was	O
+deposited	O
+in	O
+an	O
+express	O
+car	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000063
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For two days and nights this express car was dragged along at the tail of shrieking locomotives ; and for two days and nights Buck neither ate nor drank .
+For	O
+two	O
+days	O
+and	O
+nights	O
+this	O
+express	O
+car	O
+was	O
+dragged	O
+along	O
+at	O
+the	O
+tail	O
+of	O
+shrieking	O
+locomotives	O
+;	O
+and	O
+for	O
+two	O
+days	O
+and	O
+nights	O
+Buck	B-CHARACTER
+neither	O
+ate	O
+nor	O
+drank	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000064
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In his anger he had met the first advances of the express messengers with growls , and they had retaliated by teasing him .
+In	O
+his	O
+anger	O
+he	O
+had	O
+met	O
+the	O
+first	O
+advances	O
+of	O
+the	O
+express	O
+messengers	O
+with	O
+growls	O
+,	O
+and	O
+they	O
+had	O
+retaliated	O
+by	O
+teasing	O
+him	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000065
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When he flung himself against the bars , quivering and frothing , they laughed at him and taunted him .
+When	O
+he	O
+flung	O
+himself	O
+against	O
+the	O
+bars	O
+,	O
+quivering	O
+and	O
+frothing	O
+,	O
+they	O
+laughed	O
+at	O
+him	O
+and	O
+taunted	O
+him	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000066
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They growled and barked like detestable dogs , mewed , and flapped their arms and crowed .
+They	O
+growled	O
+and	O
+barked	O
+like	O
+detestable	O
+dogs	O
+,	O
+mewed	O
+,	O
+and	O
+flapped	O
+their	O
+arms	O
+and	O
+crowed	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000067
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was all very silly , he knew ; but therefore the more outrage to his dignity , and his anger waxed and waxed .
+It	O
+was	O
+all	O
+very	O
+silly	O
+,	O
+he	O
+knew	O
+;	O
+but	O
+therefore	O
+the	O
+more	O
+outrage	O
+to	O
+his	O
+dignity	O
+,	O
+and	O
+his	O
+anger	O
+waxed	O
+and	O
+waxed	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000068
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He did not mind the hunger so much , but the lack of water caused him severe suffering and fanned his wrath to fever-pitch .
+He	O
+did	O
+not	O
+mind	O
+the	O
+hunger	O
+so	O
+much	O
+,	O
+but	O
+the	O
+lack	O
+of	O
+water	O
+caused	O
+him	O
+severe	O
+suffering	O
+and	O
+fanned	O
+his	O
+wrath	O
+to	O
+fever-pitch	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000069
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For that matter , high-strung and finely sensitive , the ill treatment had flung him into a fever , which was fed by the inflammation of his parched and swollen throat and tongue .
+For	O
+that	O
+matter	O
+,	O
+high-strung	O
+and	O
+finely	O
+sensitive	O
+,	O
+the	O
+ill	O
+treatment	O
+had	O
+flung	O
+him	O
+into	O
+a	O
+fever	O
+,	O
+which	O
+was	O
+fed	O
+by	O
+the	O
+inflammation	O
+of	O
+his	O
+parched	O
+and	O
+swollen	O
+throat	O
+and	O
+tongue	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000070
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was glad for one thing : the rope was off his neck .
+He	O
+was	O
+glad	O
+for	O
+one	O
+thing	O
+:	O
+the	O
+rope	O
+was	O
+off	O
+his	O
+neck	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000071
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That had given them an unfair advantage ; but now that it was off , he would show them .
+That	O
+had	O
+given	O
+them	O
+an	O
+unfair	O
+advantage	O
+;	O
+but	O
+now	O
+that	O
+it	O
+was	O
+off	O
+,	O
+he	O
+would	O
+show	O
+them	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000072
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They would never get another rope around his neck .
+They	O
+would	O
+never	O
+get	O
+another	O
+rope	O
+around	O
+his	O
+neck	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000073
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Upon that he was resolved .
+Upon	O
+that	O
+he	O
+was	O
+resolved	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000074
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For two days and nights he neither ate nor drank , and during those two days and nights of torment , he accumulated a fund of wrath that boded ill for whoever first fell foul of him .
+For	O
+two	O
+days	O
+and	O
+nights	O
+he	O
+neither	O
+ate	O
+nor	O
+drank	O
+,	O
+and	O
+during	O
+those	O
+two	O
+days	O
+and	O
+nights	O
+of	O
+torment	O
+,	O
+he	O
+accumulated	O
+a	O
+fund	O
+of	O
+wrath	O
+that	O
+boded	O
+ill	O
+for	O
+whoever	O
+first	O
+fell	O
+foul	O
+of	O
+him	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000075
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His eyes turned blood-shot , and he was metamorphosed into a raging fiend .
+His	O
+eyes	O
+turned	O
+blood-shot	O
+,	O
+and	O
+he	O
+was	O
+metamorphosed	O
+into	O
+a	O
+raging	O
+fiend	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000076
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So changed was he that the Judge himself would not have recognized him ; and the express messengers breathed with relief when they bundled him off the train at Seattle .
+So	O
+changed	O
+was	O
+he	O
+that	O
+the	O
+Judge	B-CHARACTER
+himself	O
+would	O
+not	O
+have	O
+recognized	O
+him	O
+;	O
+and	O
+the	O
+express	O
+messengers	O
+breathed	O
+with	O
+relief	O
+when	O
+they	O
+bundled	O
+him	O
+off	O
+the	O
+train	O
+at	O
+Seattle	B-LOCATION
+.	O
+
+# id = conivel-the-call-of-the-wild-000077
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Four men gingerly carried the crate from the wagon into a small , high-walled back yard .
+Four	O
+men	O
+gingerly	O
+carried	O
+the	O
+crate	O
+from	O
+the	O
+wagon	O
+into	O
+a	O
+small	O
+,	O
+high-walled	O
+back	O
+yard	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000078
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A stout man , with a red sweater that sagged generously at the neck , came out and signed the book for the driver .
+A	O
+stout	O
+man	O
+,	O
+with	O
+a	O
+red	O
+sweater	O
+that	O
+sagged	O
+generously	O
+at	O
+the	O
+neck	O
+,	O
+came	O
+out	O
+and	O
+signed	O
+the	O
+book	O
+for	O
+the	O
+driver	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000079
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That was the man , Buck divined , the next tormentor , and he hurled himself savagely against the bars .
+That	O
+was	O
+the	O
+man	O
+,	O
+Buck	B-CHARACTER
+divined	O
+,	O
+the	O
+next	O
+tormentor	O
+,	O
+and	O
+he	O
+hurled	O
+himself	O
+savagely	O
+against	O
+the	O
+bars	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000080
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The man smiled grimly , and brought a hatchet and a club .
+The	O
+man	O
+smiled	O
+grimly	O
+,	O
+and	O
+brought	O
+a	O
+hatchet	O
+and	O
+a	O
+club	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000081
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You ai n't going to take him out now ? ''
+``	O
+You	O
+ai	O
+n't	O
+going	O
+to	O
+take	O
+him	O
+out	O
+now	O
+?	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000082
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the driver asked .
+the	O
+driver	O
+asked	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000083
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Sure , ''
+``	O
+Sure	O
+,	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000084
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the man replied , driving the hatchet into the crate for a pry .
+the	O
+man	O
+replied	O
+,	O
+driving	O
+the	O
+hatchet	O
+into	O
+the	O
+crate	O
+for	O
+a	O
+pry	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000085
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was an instantaneous scattering of the four men who had carried it in , and from safe perches on top the wall they prepared to watch the performance .
+There	O
+was	O
+an	O
+instantaneous	O
+scattering	O
+of	O
+the	O
+four	O
+men	O
+who	O
+had	O
+carried	O
+it	O
+in	O
+,	O
+and	O
+from	O
+safe	O
+perches	O
+on	O
+top	O
+the	O
+wall	O
+they	O
+prepared	O
+to	O
+watch	O
+the	O
+performance	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000086
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Buck rushed at the splintering wood , sinking his teeth into it , surging and wrestling with it .
+Buck	B-CHARACTER
+rushed	O
+at	O
+the	O
+splintering	O
+wood	O
+,	O
+sinking	O
+his	O
+teeth	O
+into	O
+it	O
+,	O
+surging	O
+and	O
+wrestling	O
+with	O
+it	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000087
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Wherever the hatchet fell on the outside , he was there on the inside , snarling and growling , as furiously anxious to get out as the man in the red sweater was calmly intent on getting him out .
+Wherever	O
+the	O
+hatchet	O
+fell	O
+on	O
+the	O
+outside	O
+,	O
+he	O
+was	O
+there	O
+on	O
+the	O
+inside	O
+,	O
+snarling	O
+and	O
+growling	O
+,	O
+as	O
+furiously	O
+anxious	O
+to	O
+get	O
+out	O
+as	O
+the	O
+man	O
+in	O
+the	O
+red	O
+sweater	O
+was	O
+calmly	O
+intent	O
+on	O
+getting	O
+him	O
+out	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000088
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Now , you red-eyed devil , ''
+``	O
+Now	O
+,	O
+you	O
+red-eyed	O
+devil	O
+,	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000089
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said , when he had made an opening sufficient for the passage of Buck 's body .
+he	O
+said	O
+,	O
+when	O
+he	O
+had	O
+made	O
+an	O
+opening	O
+sufficient	O
+for	O
+the	O
+passage	O
+of	O
+Buck	B-CHARACTER
+'s	O
+body	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000090
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At the same time he dropped the hatchet and shifted the club to his right hand .
+At	O
+the	O
+same	O
+time	O
+he	O
+dropped	O
+the	O
+hatchet	O
+and	O
+shifted	O
+the	O
+club	O
+to	O
+his	O
+right	O
+hand	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000091
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And Buck was truly a red-eyed devil , as he drew himself together for the spring , hair bristling , mouth foaming , a mad glitter in his blood-shot eyes .
+And	O
+Buck	B-CHARACTER
+was	O
+truly	O
+a	O
+red-eyed	O
+devil	O
+,	O
+as	O
+he	O
+drew	O
+himself	O
+together	O
+for	O
+the	O
+spring	O
+,	O
+hair	O
+bristling	O
+,	O
+mouth	O
+foaming	O
+,	O
+a	O
+mad	O
+glitter	O
+in	O
+his	O
+blood-shot	O
+eyes	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000092
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Straight at the man he launched his one hundred and forty pounds of fury , surcharged with the pent passion of two days and nights .
+Straight	O
+at	O
+the	O
+man	O
+he	O
+launched	O
+his	O
+one	O
+hundred	O
+and	O
+forty	O
+pounds	O
+of	O
+fury	O
+,	O
+surcharged	O
+with	O
+the	O
+pent	O
+passion	O
+of	O
+two	O
+days	O
+and	O
+nights	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000093
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In mid air , just as his jaws were about to close on the man , he received a shock that checked his body and brought his teeth together with an agonizing clip .
+In	O
+mid	O
+air	O
+,	O
+just	O
+as	O
+his	O
+jaws	O
+were	O
+about	O
+to	O
+close	O
+on	O
+the	O
+man	O
+,	O
+he	O
+received	O
+a	O
+shock	O
+that	O
+checked	O
+his	O
+body	O
+and	O
+brought	O
+his	O
+teeth	O
+together	O
+with	O
+an	O
+agonizing	O
+clip	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000094
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He whirled over , fetching the ground on his back and side .
+He	O
+whirled	O
+over	O
+,	O
+fetching	O
+the	O
+ground	O
+on	O
+his	O
+back	O
+and	O
+side	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000095
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had never been struck by a club in his life , and did not understand .
+He	O
+had	O
+never	O
+been	O
+struck	O
+by	O
+a	O
+club	O
+in	O
+his	O
+life	O
+,	O
+and	O
+did	O
+not	O
+understand	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000096
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = With a snarl that was part bark and more scream he was again on his feet and launched into the air .
+With	O
+a	O
+snarl	O
+that	O
+was	O
+part	O
+bark	O
+and	O
+more	O
+scream	O
+he	O
+was	O
+again	O
+on	O
+his	O
+feet	O
+and	O
+launched	O
+into	O
+the	O
+air	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000097
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And again the shock came and he was brought crushingly to the ground .
+And	O
+again	O
+the	O
+shock	O
+came	O
+and	O
+he	O
+was	O
+brought	O
+crushingly	O
+to	O
+the	O
+ground	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000098
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This time he was aware that it was the club , but his madness knew no caution .
+This	O
+time	O
+he	O
+was	O
+aware	O
+that	O
+it	O
+was	O
+the	O
+club	O
+,	O
+but	O
+his	O
+madness	O
+knew	O
+no	O
+caution	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000099
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A dozen times he charged , and as often the club broke the charge and smashed him down .
+A	O
+dozen	O
+times	O
+he	O
+charged	O
+,	O
+and	O
+as	O
+often	O
+the	O
+club	O
+broke	O
+the	O
+charge	O
+and	O
+smashed	O
+him	O
+down	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000100
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = After a particularly fierce blow , he crawled to his feet , too dazed to rush .
+After	O
+a	O
+particularly	O
+fierce	O
+blow	O
+,	O
+he	O
+crawled	O
+to	O
+his	O
+feet	O
+,	O
+too	O
+dazed	O
+to	O
+rush	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000101
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He staggered limply about , the blood flowing from nose and mouth and ears , his beautiful coat sprayed and flecked with bloody slaver .
+He	O
+staggered	O
+limply	O
+about	O
+,	O
+the	O
+blood	O
+flowing	O
+from	O
+nose	O
+and	O
+mouth	O
+and	O
+ears	O
+,	O
+his	O
+beautiful	O
+coat	O
+sprayed	O
+and	O
+flecked	O
+with	O
+bloody	O
+slaver	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000102
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then the man advanced and deliberately dealt him a frightful blow on the nose .
+Then	O
+the	O
+man	O
+advanced	O
+and	O
+deliberately	O
+dealt	O
+him	O
+a	O
+frightful	O
+blow	O
+on	O
+the	O
+nose	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000103
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All the pain he had endured was as nothing compared with the exquisite agony of this .
+All	O
+the	O
+pain	O
+he	O
+had	O
+endured	O
+was	O
+as	O
+nothing	O
+compared	O
+with	O
+the	O
+exquisite	O
+agony	O
+of	O
+this	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000104
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = With a roar that was almost lionlike in its ferocity , he again hurled himself at the man .
+With	O
+a	O
+roar	O
+that	O
+was	O
+almost	O
+lionlike	O
+in	O
+its	O
+ferocity	O
+,	O
+he	O
+again	O
+hurled	O
+himself	O
+at	O
+the	O
+man	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000105
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But the man , shifting the club from right to left , coolly caught him by the under jaw , at the same time wrenching downward and backward .
+But	O
+the	O
+man	O
+,	O
+shifting	O
+the	O
+club	O
+from	O
+right	O
+to	O
+left	O
+,	O
+coolly	O
+caught	O
+him	O
+by	O
+the	O
+under	O
+jaw	O
+,	O
+at	O
+the	O
+same	O
+time	O
+wrenching	O
+downward	O
+and	O
+backward	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000106
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Buck described a complete circle in the air , and half of another , then crashed to the ground on his head and chest .
+Buck	B-CHARACTER
+described	O
+a	O
+complete	O
+circle	O
+in	O
+the	O
+air	O
+,	O
+and	O
+half	O
+of	O
+another	O
+,	O
+then	O
+crashed	O
+to	O
+the	O
+ground	O
+on	O
+his	O
+head	O
+and	O
+chest	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000107
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For the last time he rushed .
+For	O
+the	O
+last	O
+time	O
+he	O
+rushed	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000108
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The man struck the shrewd blow he had purposely withheld for so long , and Buck crumpled up and went down , knocked utterly senseless .
+The	O
+man	O
+struck	O
+the	O
+shrewd	O
+blow	O
+he	O
+had	O
+purposely	O
+withheld	O
+for	O
+so	O
+long	O
+,	O
+and	O
+Buck	B-CHARACTER
+crumpled	O
+up	O
+and	O
+went	O
+down	O
+,	O
+knocked	O
+utterly	O
+senseless	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000109
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He 's no slouch at dog-breakin ' , that 's wot I say , ''
+``	O
+He	O
+'s	O
+no	O
+slouch	O
+at	O
+dog-breakin	O
+'	O
+,	O
+that	O
+'s	O
+wot	O
+I	O
+say	O
+,	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000110
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = one of the men on the wall cried enthusiastically .
+one	O
+of	O
+the	O
+men	O
+on	O
+the	O
+wall	O
+cried	O
+enthusiastically	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000111
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Druther break cayuses any day , and twice on Sundays , ''
+``	O
+Druther	O
+break	O
+cayuses	O
+any	O
+day	O
+,	O
+and	O
+twice	O
+on	O
+Sundays	O
+,	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000112
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = was the reply of the driver , as he climbed on the wagon and started the horses .
+was	O
+the	O
+reply	O
+of	O
+the	O
+driver	O
+,	O
+as	O
+he	O
+climbed	O
+on	O
+the	O
+wagon	O
+and	O
+started	O
+the	O
+horses	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000113
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Buck 's senses came back to him , but not his strength .
+Buck	B-CHARACTER
+'s	O
+senses	O
+came	O
+back	O
+to	O
+him	O
+,	O
+but	O
+not	O
+his	O
+strength	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000114
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He lay where he had fallen , and from there he watched the man in the red sweater .
+He	O
+lay	O
+where	O
+he	O
+had	O
+fallen	O
+,	O
+and	O
+from	O
+there	O
+he	O
+watched	O
+the	O
+man	O
+in	O
+the	O
+red	O
+sweater	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000115
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ``` Answers to the name of Buck , ''' the man soliloquized , quoting from the saloon-keeper 's letter which had announced the consignment of the crate and contents .
+```	O
+Answers	O
+to	O
+the	O
+name	O
+of	O
+Buck	B-CHARACTER
+,	O
+'''	O
+the	O
+man	O
+soliloquized	O
+,	O
+quoting	O
+from	O
+the	O
+saloon-keeper	O
+'s	O
+letter	O
+which	O
+had	O
+announced	O
+the	O
+consignment	O
+of	O
+the	O
+crate	O
+and	O
+contents	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000116
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , Buck , my boy , ''
+``	O
+Well	O
+,	O
+Buck	B-CHARACTER
+,	O
+my	O
+boy	O
+,	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000117
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he went on in a genial voice , `` we 've had our little ruction , and the best thing we can do is to let it go at that .
+he	O
+went	O
+on	O
+in	O
+a	O
+genial	O
+voice	O
+,	O
+``	O
+we	O
+'ve	O
+had	O
+our	O
+little	O
+ruction	O
+,	O
+and	O
+the	O
+best	O
+thing	O
+we	O
+can	O
+do	O
+is	O
+to	O
+let	O
+it	O
+go	O
+at	O
+that	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000118
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You 've learned your place , and I know mine .
+You	O
+'ve	O
+learned	O
+your	O
+place	O
+,	O
+and	O
+I	O
+know	O
+mine	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000119
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Be a good dog and all ` ll go well and the goose hang high .
+Be	O
+a	O
+good	O
+dog	O
+and	O
+all	O
+`	O
+ll	O
+go	O
+well	O
+and	O
+the	O
+goose	O
+hang	O
+high	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000120
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Be a bad dog , and I 'll whale the stuffin ' outa you .
+Be	O
+a	O
+bad	O
+dog	O
+,	O
+and	O
+I	O
+'ll	O
+whale	O
+the	O
+stuffin	O
+'	O
+outa	O
+you	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000121
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Understand ? ''
+Understand	O
+?	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000122
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As he spoke he fearlessly patted the head he had so mercilessly pounded , and though Buck 's hair involuntarily bristled at touch of the hand , he endured it without protest .
+As	O
+he	O
+spoke	O
+he	O
+fearlessly	O
+patted	O
+the	O
+head	O
+he	O
+had	O
+so	O
+mercilessly	O
+pounded	O
+,	O
+and	O
+though	O
+Buck	B-CHARACTER
+'s	O
+hair	O
+involuntarily	O
+bristled	O
+at	O
+touch	O
+of	O
+the	O
+hand	O
+,	O
+he	O
+endured	O
+it	O
+without	O
+protest	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000123
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When the man brought him water he drank eagerly , and later bolted a generous meal of raw meat , chunk by chunk , from the man 's hand .
+When	O
+the	O
+man	O
+brought	O
+him	O
+water	O
+he	O
+drank	O
+eagerly	O
+,	O
+and	O
+later	O
+bolted	O
+a	O
+generous	O
+meal	O
+of	O
+raw	O
+meat	O
+,	O
+chunk	O
+by	O
+chunk	O
+,	O
+from	O
+the	O
+man	O
+'s	O
+hand	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000124
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was beaten ( he knew that ) ; but he was not broken .
+He	O
+was	O
+beaten	O
+(	O
+he	O
+knew	O
+that	O
+)	O
+;	O
+but	O
+he	O
+was	O
+not	O
+broken	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000125
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He saw , once for all , that he stood no chance against a man with a club .
+He	O
+saw	O
+,	O
+once	O
+for	O
+all	O
+,	O
+that	O
+he	O
+stood	O
+no	O
+chance	O
+against	O
+a	O
+man	O
+with	O
+a	O
+club	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000126
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had learned the lesson , and in all his after life he never forgot it .
+He	O
+had	O
+learned	O
+the	O
+lesson	O
+,	O
+and	O
+in	O
+all	O
+his	O
+after	O
+life	O
+he	O
+never	O
+forgot	O
+it	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000127
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That club was a revelation .
+That	O
+club	O
+was	O
+a	O
+revelation	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000128
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was his introduction to the reign of primitive law , and he met the introduction halfway .
+It	O
+was	O
+his	O
+introduction	O
+to	O
+the	O
+reign	O
+of	O
+primitive	O
+law	O
+,	O
+and	O
+he	O
+met	O
+the	O
+introduction	O
+halfway	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000129
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The facts of life took on a fiercer aspect ; and while he faced that aspect uncowed , he faced it with all the latent cunning of his nature aroused .
+The	O
+facts	O
+of	O
+life	O
+took	O
+on	O
+a	O
+fiercer	O
+aspect	O
+;	O
+and	O
+while	O
+he	O
+faced	O
+that	O
+aspect	O
+uncowed	O
+,	O
+he	O
+faced	O
+it	O
+with	O
+all	O
+the	O
+latent	O
+cunning	O
+of	O
+his	O
+nature	O
+aroused	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000130
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As the days went by , other dogs came , in crates and at the ends of ropes , some docilely , and some raging and roaring as he had come ; and , one and all , he watched them pass under the dominion of the man in the red sweater .
+As	O
+the	O
+days	O
+went	O
+by	O
+,	O
+other	O
+dogs	O
+came	O
+,	O
+in	O
+crates	O
+and	O
+at	O
+the	O
+ends	O
+of	O
+ropes	O
+,	O
+some	O
+docilely	O
+,	O
+and	O
+some	O
+raging	O
+and	O
+roaring	O
+as	O
+he	O
+had	O
+come	O
+;	O
+and	O
+,	O
+one	O
+and	O
+all	O
+,	O
+he	O
+watched	O
+them	O
+pass	O
+under	O
+the	O
+dominion	O
+of	O
+the	O
+man	O
+in	O
+the	O
+red	O
+sweater	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000131
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Again and again , as he looked at each brutal performance , the lesson was driven home to Buck : a man with a club was a lawgiver , a master to be obeyed , though not necessarily conciliated .
+Again	O
+and	O
+again	O
+,	O
+as	O
+he	O
+looked	O
+at	O
+each	O
+brutal	O
+performance	O
+,	O
+the	O
+lesson	O
+was	O
+driven	O
+home	O
+to	O
+Buck	B-CHARACTER
+:	O
+a	O
+man	O
+with	O
+a	O
+club	O
+was	O
+a	O
+lawgiver	O
+,	O
+a	O
+master	O
+to	O
+be	O
+obeyed	O
+,	O
+though	O
+not	O
+necessarily	O
+conciliated	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000132
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Of this last Buck was never guilty , though he did see beaten dogs that fawned upon the man , and wagged their tails , and licked his hand .
+Of	O
+this	O
+last	O
+Buck	B-CHARACTER
+was	O
+never	O
+guilty	O
+,	O
+though	O
+he	O
+did	O
+see	O
+beaten	O
+dogs	O
+that	O
+fawned	O
+upon	O
+the	O
+man	O
+,	O
+and	O
+wagged	O
+their	O
+tails	O
+,	O
+and	O
+licked	O
+his	O
+hand	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000133
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Also he saw one dog , that would neither conciliate nor obey , finally killed in the struggle for mastery .
+Also	O
+he	O
+saw	O
+one	O
+dog	O
+,	O
+that	O
+would	O
+neither	O
+conciliate	O
+nor	O
+obey	O
+,	O
+finally	O
+killed	O
+in	O
+the	O
+struggle	O
+for	O
+mastery	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000134
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now and again men came , strangers , who talked excitedly , wheedlingly , and in all kinds of fashions to the man in the red sweater .
+Now	O
+and	O
+again	O
+men	O
+came	O
+,	O
+strangers	O
+,	O
+who	O
+talked	O
+excitedly	O
+,	O
+wheedlingly	O
+,	O
+and	O
+in	O
+all	O
+kinds	O
+of	O
+fashions	O
+to	O
+the	O
+man	O
+in	O
+the	O
+red	O
+sweater	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000135
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And at such times that money passed between them the strangers took one or more of the dogs away with them .
+And	O
+at	O
+such	O
+times	O
+that	O
+money	O
+passed	O
+between	O
+them	O
+the	O
+strangers	O
+took	O
+one	O
+or	O
+more	O
+of	O
+the	O
+dogs	O
+away	O
+with	O
+them	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000136
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Buck wondered where they went , for they never came back ; but the fear of the future was strong upon him , and he was glad each time when he was not selected .
+Buck	B-CHARACTER
+wondered	O
+where	O
+they	O
+went	O
+,	O
+for	O
+they	O
+never	O
+came	O
+back	O
+;	O
+but	O
+the	O
+fear	O
+of	O
+the	O
+future	O
+was	O
+strong	O
+upon	O
+him	O
+,	O
+and	O
+he	O
+was	O
+glad	O
+each	O
+time	O
+when	O
+he	O
+was	O
+not	O
+selected	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000137
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Yet his time came , in the end , in the form of a little weazened man who spat broken English and many strange and uncouth exclamations which Buck could not understand .
+Yet	O
+his	O
+time	O
+came	O
+,	O
+in	O
+the	O
+end	O
+,	O
+in	O
+the	O
+form	O
+of	O
+a	O
+little	O
+weazened	O
+man	O
+who	O
+spat	O
+broken	O
+English	O
+and	O
+many	O
+strange	O
+and	O
+uncouth	O
+exclamations	O
+which	O
+Buck	B-CHARACTER
+could	O
+not	O
+understand	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000138
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Sacredam ! ''
+``	O
+Sacredam	O
+!	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000139
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he cried , when his eyes lit upon Buck .
+he	O
+cried	O
+,	O
+when	O
+his	O
+eyes	O
+lit	O
+upon	O
+Buck	B-CHARACTER
+.	O
+
+# id = conivel-the-call-of-the-wild-000140
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Dat one dam bully dog !
+``	O
+Dat	O
+one	O
+dam	O
+bully	O
+dog	O
+!	O
+
+# id = conivel-the-call-of-the-wild-000141
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Eh ?
+Eh	O
+?	O
+
+# id = conivel-the-call-of-the-wild-000142
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How moch ? ''
+How	O
+moch	O
+?	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000143
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Three hundred , and a present at that , ''
+``	O
+Three	O
+hundred	O
+,	O
+and	O
+a	O
+present	O
+at	O
+that	O
+,	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000144
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = was the prompt reply of the man in the red sweater .
+was	O
+the	O
+prompt	O
+reply	O
+of	O
+the	O
+man	O
+in	O
+the	O
+red	O
+sweater	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000145
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And seem ' it 's government money , you ai n't got no kick coming , eh , Perrault ? ''
+``	O
+And	O
+seem	O
+'	O
+it	O
+'s	O
+government	O
+money	O
+,	O
+you	O
+ai	O
+n't	O
+got	O
+no	O
+kick	O
+coming	O
+,	O
+eh	O
+,	O
+Perrault	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000146
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Perrault grinned .
+Perrault	B-CHARACTER
+grinned	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000147
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Considering that the price of dogs had been boomed skyward by the unwonted demand , it was not an unfair sum for so fine an animal .
+Considering	O
+that	O
+the	O
+price	O
+of	O
+dogs	O
+had	O
+been	O
+boomed	O
+skyward	O
+by	O
+the	O
+unwonted	O
+demand	O
+,	O
+it	O
+was	O
+not	O
+an	O
+unfair	O
+sum	O
+for	O
+so	O
+fine	O
+an	O
+animal	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000148
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Canadian Government would be no loser , nor would its despatches travel the slower .
+The	O
+Canadian	O
+Government	O
+would	O
+be	O
+no	O
+loser	O
+,	O
+nor	O
+would	O
+its	O
+despatches	O
+travel	O
+the	O
+slower	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000149
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Perrault knew dogs , and when he looked at Buck he knew that he was one in a thousand -- `` One in ten t ' ousand , ''
+Perrault	B-CHARACTER
+knew	O
+dogs	O
+,	O
+and	O
+when	O
+he	O
+looked	O
+at	O
+Buck	B-CHARACTER
+he	O
+knew	O
+that	O
+he	O
+was	O
+one	O
+in	O
+a	O
+thousand	O
+--	O
+``	O
+One	O
+in	O
+ten	O
+t	O
+'	O
+ousand	O
+,	O
+''	O
+
+# id = conivel-the-call-of-the-wild-000150
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he commented mentally .
+he	O
+commented	O
+mentally	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000151
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Buck saw money pass between them , and was not surprised when Curly , a good-natured Newfoundland , and he were led away by the little weazened man .
+Buck	B-CHARACTER
+saw	O
+money	O
+pass	O
+between	O
+them	O
+,	O
+and	O
+was	O
+not	O
+surprised	O
+when	O
+Curly	B-CHARACTER
+,	O
+a	O
+good-natured	O
+Newfoundland	O
+,	O
+and	O
+he	O
+were	O
+led	O
+away	O
+by	O
+the	O
+little	O
+weazened	O
+man	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000152
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That was the last he saw of the man in the red sweater , and as Curly and he looked at receding Seattle from the deck of the Narwhal , it was the last he saw of the warm Southland .
+That	O
+was	O
+the	O
+last	O
+he	O
+saw	O
+of	O
+the	O
+man	O
+in	O
+the	O
+red	O
+sweater	O
+,	O
+and	O
+as	O
+Curly	B-CHARACTER
+and	O
+he	O
+looked	O
+at	O
+receding	O
+Seattle	B-LOCATION
+from	O
+the	O
+deck	O
+of	O
+the	O
+Narwhal	O
+,	O
+it	O
+was	O
+the	O
+last	O
+he	O
+saw	O
+of	O
+the	O
+warm	O
+Southland	B-LOCATION
+.	O
+
+# id = conivel-the-call-of-the-wild-000153
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Curly and he were taken below by Perrault and turned over to a black-faced giant called Francois .
+Curly	B-CHARACTER
+and	O
+he	O
+were	O
+taken	O
+below	O
+by	O
+Perrault	B-CHARACTER
+and	O
+turned	O
+over	O
+to	O
+a	O
+black-faced	O
+giant	O
+called	O
+Francois	B-CHARACTER
+.	O
+
+# id = conivel-the-call-of-the-wild-000154
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Perrault was a French-Canadian , and swarthy ; but Francois was a French-Canadian half-breed , and twice as swarthy .
+Perrault	B-CHARACTER
+was	O
+a	O
+French-Canadian	O
+,	O
+and	O
+swarthy	O
+;	O
+but	O
+Francois	B-CHARACTER
+was	O
+a	O
+French-Canadian	O
+half-breed	O
+,	O
+and	O
+twice	O
+as	O
+swarthy	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000155
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were a new kind of men to Buck ( of which he was destined to see many more ) , and while he developed no affection for them , he none the less grew honestly to respect them .
+They	O
+were	O
+a	O
+new	O
+kind	O
+of	O
+men	O
+to	O
+Buck	B-CHARACTER
+(	O
+of	O
+which	O
+he	O
+was	O
+destined	O
+to	O
+see	O
+many	O
+more	O
+)	O
+,	O
+and	O
+while	O
+he	O
+developed	O
+no	O
+affection	O
+for	O
+them	O
+,	O
+he	O
+none	O
+the	O
+less	O
+grew	O
+honestly	O
+to	O
+respect	O
+them	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000156
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He speedily learned that Perrault and Francois were fair men , calm and impartial in administering justice , and too wise in the way of dogs to be fooled by dogs .
+He	O
+speedily	O
+learned	O
+that	O
+Perrault	B-CHARACTER
+and	O
+Francois	B-CHARACTER
+were	O
+fair	O
+men	O
+,	O
+calm	O
+and	O
+impartial	O
+in	O
+administering	O
+justice	O
+,	O
+and	O
+too	O
+wise	O
+in	O
+the	O
+way	O
+of	O
+dogs	O
+to	O
+be	O
+fooled	O
+by	O
+dogs	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000157
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In the ` tween-decks of the Narwhal , Buck and Curly joined two other dogs .
+In	O
+the	O
+`	O
+tween-decks	O
+of	O
+the	O
+Narwhal	O
+,	O
+Buck	B-CHARACTER
+and	O
+Curly	B-CHARACTER
+joined	O
+two	O
+other	O
+dogs	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000158
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One of them was a big , snow-white fellow from Spitzbergen who had been brought away by a whaling captain , and who had later accompanied a Geological Survey into the Barrens .
+One	O
+of	O
+them	O
+was	O
+a	O
+big	O
+,	O
+snow-white	O
+fellow	O
+from	O
+Spitzbergen	B-LOCATION
+who	O
+had	O
+been	O
+brought	O
+away	O
+by	O
+a	O
+whaling	O
+captain	O
+,	O
+and	O
+who	O
+had	O
+later	O
+accompanied	O
+a	O
+Geological	O
+Survey	O
+into	O
+the	O
+Barrens	B-LOCATION
+.	O
+
+# id = conivel-the-call-of-the-wild-000159
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was friendly , in a treacherous sort of way , smiling into one 's face the while he meditated some underhand trick , as , for instance , when he stole from Buck 's food at the first meal .
+He	O
+was	O
+friendly	O
+,	O
+in	O
+a	O
+treacherous	O
+sort	O
+of	O
+way	O
+,	O
+smiling	O
+into	O
+one	O
+'s	O
+face	O
+the	O
+while	O
+he	O
+meditated	O
+some	O
+underhand	O
+trick	O
+,	O
+as	O
+,	O
+for	O
+instance	O
+,	O
+when	O
+he	O
+stole	O
+from	O
+Buck	B-CHARACTER
+'s	O
+food	O
+at	O
+the	O
+first	O
+meal	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000160
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As Buck sprang to punish him , the lash of Francois 's whip sang through the air , reaching the culprit first ; and nothing remained to Buck but to recover the bone .
+As	O
+Buck	B-CHARACTER
+sprang	O
+to	O
+punish	O
+him	O
+,	O
+the	O
+lash	O
+of	O
+Francois	B-CHARACTER
+'s	O
+whip	O
+sang	O
+through	O
+the	O
+air	O
+,	O
+reaching	O
+the	O
+culprit	O
+first	O
+;	O
+and	O
+nothing	O
+remained	O
+to	O
+Buck	B-CHARACTER
+but	O
+to	O
+recover	O
+the	O
+bone	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000161
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That was fair of Francois , he decided , and the half-breed began his rise in Buck 's estimation .
+That	O
+was	O
+fair	O
+of	O
+Francois	B-CHARACTER
+,	O
+he	O
+decided	O
+,	O
+and	O
+the	O
+half-breed	O
+began	O
+his	O
+rise	O
+in	O
+Buck	B-CHARACTER
+'s	O
+estimation	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000162
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The other dog made no advances , nor received any ; also , he did not attempt to steal from the newcomers .
+The	O
+other	O
+dog	O
+made	O
+no	O
+advances	O
+,	O
+nor	O
+received	O
+any	O
+;	O
+also	O
+,	O
+he	O
+did	O
+not	O
+attempt	O
+to	O
+steal	O
+from	O
+the	O
+newcomers	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000163
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was a gloomy , morose fellow , and he showed Curly plainly that all he desired was to be left alone , and further , that there would be trouble if he were not left alone .
+He	O
+was	O
+a	O
+gloomy	O
+,	O
+morose	O
+fellow	O
+,	O
+and	O
+he	O
+showed	O
+Curly	B-CHARACTER
+plainly	O
+that	O
+all	O
+he	O
+desired	O
+was	O
+to	O
+be	O
+left	O
+alone	O
+,	O
+and	O
+further	O
+,	O
+that	O
+there	O
+would	O
+be	O
+trouble	O
+if	O
+he	O
+were	O
+not	O
+left	O
+alone	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000164
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Dave ''
+``	O
+Dave	B-CHARACTER
+''	O
+
+# id = conivel-the-call-of-the-wild-000165
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he was called , and he ate and slept , or yawned between times , and took interest in nothing , not even when the Narwhal crossed Queen Charlotte Sound and rolled and pitched and bucked like a thing possessed .
+he	O
+was	O
+called	O
+,	O
+and	O
+he	O
+ate	O
+and	O
+slept	O
+,	O
+or	O
+yawned	O
+between	O
+times	O
+,	O
+and	O
+took	O
+interest	O
+in	O
+nothing	O
+,	O
+not	O
+even	O
+when	O
+the	O
+Narwhal	O
+crossed	O
+Queen	B-LOCATION
+Charlotte	I-LOCATION
+Sound	I-LOCATION
+and	O
+rolled	O
+and	O
+pitched	O
+and	O
+bucked	O
+like	O
+a	O
+thing	O
+possessed	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000166
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When Buck and Curly grew excited , half wild with fear , he raised his head as though annoyed , favored them with an incurious glance , yawned , and went to sleep again .
+When	O
+Buck	B-CHARACTER
+and	O
+Curly	B-CHARACTER
+grew	O
+excited	O
+,	O
+half	O
+wild	O
+with	O
+fear	O
+,	O
+he	O
+raised	O
+his	O
+head	O
+as	O
+though	O
+annoyed	O
+,	O
+favored	O
+them	O
+with	O
+an	O
+incurious	O
+glance	O
+,	O
+yawned	O
+,	O
+and	O
+went	O
+to	O
+sleep	O
+again	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000167
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Day and night the ship throbbed to the tireless pulse of the propeller , and though one day was very like another , it was apparent to Buck that the weather was steadily growing colder .
+Day	O
+and	O
+night	O
+the	O
+ship	O
+throbbed	O
+to	O
+the	O
+tireless	O
+pulse	O
+of	O
+the	O
+propeller	O
+,	O
+and	O
+though	O
+one	O
+day	O
+was	O
+very	O
+like	O
+another	O
+,	O
+it	O
+was	O
+apparent	O
+to	O
+Buck	B-CHARACTER
+that	O
+the	O
+weather	O
+was	O
+steadily	O
+growing	O
+colder	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000168
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At last , one morning , the propeller was quiet , and the Narwhal was pervaded with an atmosphere of excitement .
+At	O
+last	O
+,	O
+one	O
+morning	O
+,	O
+the	O
+propeller	O
+was	O
+quiet	O
+,	O
+and	O
+the	O
+Narwhal	O
+was	O
+pervaded	O
+with	O
+an	O
+atmosphere	O
+of	O
+excitement	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000169
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He felt it , as did the other dogs , and knew that a change was at hand .
+He	O
+felt	O
+it	O
+,	O
+as	O
+did	O
+the	O
+other	O
+dogs	O
+,	O
+and	O
+knew	O
+that	O
+a	O
+change	O
+was	O
+at	O
+hand	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000170
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Francois leashed them and brought them on deck .
+Francois	B-CHARACTER
+leashed	O
+them	O
+and	O
+brought	O
+them	O
+on	O
+deck	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000171
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At the first step upon the cold surface , Buck 's feet sank into a white mushy something very like mud .
+At	O
+the	O
+first	O
+step	O
+upon	O
+the	O
+cold	O
+surface	O
+,	O
+Buck	B-CHARACTER
+'s	O
+feet	O
+sank	O
+into	O
+a	O
+white	O
+mushy	O
+something	O
+very	O
+like	O
+mud	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000172
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He sprang back with a snort .
+He	O
+sprang	O
+back	O
+with	O
+a	O
+snort	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000173
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = More of this white stuff was falling through the air .
+More	O
+of	O
+this	O
+white	O
+stuff	O
+was	O
+falling	O
+through	O
+the	O
+air	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000174
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He shook himself , but more of it fell upon him .
+He	O
+shook	O
+himself	O
+,	O
+but	O
+more	O
+of	O
+it	O
+fell	O
+upon	O
+him	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000175
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He sniffed it curiously , then licked some up on his tongue .
+He	O
+sniffed	O
+it	O
+curiously	O
+,	O
+then	O
+licked	O
+some	O
+up	O
+on	O
+his	O
+tongue	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000176
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It bit like fire , and the next instant was gone .
+It	O
+bit	O
+like	O
+fire	O
+,	O
+and	O
+the	O
+next	O
+instant	O
+was	O
+gone	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000177
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This puzzled him .
+This	O
+puzzled	O
+him	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000178
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He tried it again , with the same result .
+He	O
+tried	O
+it	O
+again	O
+,	O
+with	O
+the	O
+same	O
+result	O
+.	O
+
+# id = conivel-the-call-of-the-wild-000179
+# source = Conivel corrected OWTO literary NER
+# book = The Call of the Wild
+# source_file = TheCallOfTheWild.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The onlookers laughed uproariously , and he felt ashamed , he knew not why , for it was his first snow .
+The	O
+onlookers	O
+laughed	O
+uproariously	O
+,	O
+and	O
+he	O
+felt	O
+ashamed	O
+,	O
+he	O
+knew	O
+not	O
+why	O
+,	O
+for	O
+it	O
+was	O
+his	O
+first	O
+snow	O
+.	O
+

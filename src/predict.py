@@ -117,6 +117,10 @@ def main():
         max_length=args.max_length,
     )
 
+    print("RAW RESULT: \n")
+    print(json.dumps(result, indent=2))
+    print("-----------------------------------")
+
     print("\nToken labels:")
     for word, label in zip(result["words"], result["labels"]):
         print(f"{word:20s} {label}")

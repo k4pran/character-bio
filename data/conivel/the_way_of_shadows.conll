@@ -1,0 +1,2002 @@
+# id = conivel-the-way-of-shadows-000001
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was barely an hour since they 'd routed the Khalidorans , when the monstrous ferali forged to devour Cenaria 's army had turned instead on its Khalidoran masters .
+It	O
+was	O
+barely	O
+an	O
+hour	O
+since	O
+they	O
+'d	O
+routed	O
+the	O
+Khalidorans	O
+,	O
+when	O
+the	O
+monstrous	O
+ferali	O
+forged	O
+to	O
+devour	O
+Cenaria	O
+'s	O
+army	O
+had	O
+turned	O
+instead	O
+on	O
+its	O
+Khalidoran	O
+masters	O
+.	O
+
+# id = conivel-the-way-of-shadows-000002
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Logan had issued the orders that seemed most pressing , then dismissed everyone to join the revelries that were sweeping the Cenarian camp .
+Logan	B-CHARACTER
+had	O
+issued	O
+the	O
+orders	O
+that	O
+seemed	O
+most	O
+pressing	O
+,	O
+then	O
+dismissed	O
+everyone	O
+to	O
+join	O
+the	O
+revelries	O
+that	O
+were	O
+sweeping	O
+the	O
+Cenarian	O
+camp	O
+.	O
+
+# id = conivel-the-way-of-shadows-000003
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Terah Graesin came to him alone .
+Terah	B-CHARACTER
+Graesin	I-CHARACTER
+came	O
+to	O
+him	O
+alone	O
+.	O
+
+# id = conivel-the-way-of-shadows-000004
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was sitting on a low rock , heedless of the mud .
+He	O
+was	O
+sitting	O
+on	O
+a	O
+low	O
+rock	O
+,	O
+heedless	O
+of	O
+the	O
+mud	O
+.	O
+
+# id = conivel-the-way-of-shadows-000005
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His fine clothes were so spattered with blood and worse they were a total loss anyway .
+His	O
+fine	O
+clothes	O
+were	O
+so	O
+spattered	O
+with	O
+blood	O
+and	O
+worse	O
+they	O
+were	O
+a	O
+total	O
+loss	O
+anyway	O
+.	O
+
+# id = conivel-the-way-of-shadows-000006
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Terah 's dress , by contrast , was clean except for the lower fringe .
+Terah	B-CHARACTER
+'s	O
+dress	O
+,	O
+by	O
+contrast	O
+,	O
+was	O
+clean	O
+except	O
+for	O
+the	O
+lower	O
+fringe	O
+.	O
+
+# id = conivel-the-way-of-shadows-000007
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She wore high shoes , but even those could n't keep her entirely free of the thick mud .
+She	O
+wore	O
+high	O
+shoes	O
+,	O
+but	O
+even	O
+those	O
+could	O
+n't	O
+keep	O
+her	O
+entirely	O
+free	O
+of	O
+the	O
+thick	O
+mud	O
+.	O
+
+# id = conivel-the-way-of-shadows-000008
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She stopped before him .
+She	O
+stopped	O
+before	O
+him	O
+.	O
+
+# id = conivel-the-way-of-shadows-000009
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He did n't stand .
+He	O
+did	O
+n't	O
+stand	O
+.	O
+
+# id = conivel-the-way-of-shadows-000010
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She pretended not to notice .
+She	O
+pretended	O
+not	O
+to	O
+notice	O
+.	O
+
+# id = conivel-the-way-of-shadows-000011
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He pretended not to notice that her bodyguards -- unbloodied from battle -- were hidden in the trees less than a hundred paces away .
+He	O
+pretended	O
+not	O
+to	O
+notice	O
+that	O
+her	O
+bodyguards	O
+--	O
+unbloodied	O
+from	O
+battle	O
+--	O
+were	O
+hidden	O
+in	O
+the	O
+trees	O
+less	O
+than	O
+a	O
+hundred	O
+paces	O
+away	O
+.	O
+
+# id = conivel-the-way-of-shadows-000012
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Terah Graesin could have only one reason to come to him : she was wondering if she was still the queen .
+Terah	B-CHARACTER
+Graesin	I-CHARACTER
+could	O
+have	O
+only	O
+one	O
+reason	O
+to	O
+come	O
+to	O
+him	O
+:	O
+she	O
+was	O
+wondering	O
+if	O
+she	O
+was	O
+still	O
+the	O
+queen	O
+.	O
+
+# id = conivel-the-way-of-shadows-000013
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If Logan had n't been so bone-weary , he would have been amused .
+If	O
+Logan	B-CHARACTER
+had	O
+n't	O
+been	O
+so	O
+bone-weary	O
+,	O
+he	O
+would	O
+have	O
+been	O
+amused	O
+.	O
+
+# id = conivel-the-way-of-shadows-000014
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Terah had come to him alone as a show of vulnerability or fearlessness .
+Terah	B-CHARACTER
+had	O
+come	O
+to	O
+him	O
+alone	O
+as	O
+a	O
+show	O
+of	O
+vulnerability	O
+or	O
+fearlessness	O
+.	O
+
+# id = conivel-the-way-of-shadows-000015
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You were a hero today , ''
+``	O
+You	O
+were	O
+a	O
+hero	O
+today	O
+,	O
+''	O
+
+# id = conivel-the-way-of-shadows-000016
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Terah said .
+Terah	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-way-of-shadows-000017
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You stopped the Godking 's beast .
+``	O
+You	O
+stopped	O
+the	O
+Godking	B-CHARACTER
+'s	O
+beast	O
+.	O
+
+# id = conivel-the-way-of-shadows-000018
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They 're saying you killed him . ''
+They	O
+'re	O
+saying	O
+you	O
+killed	O
+him	O
+.	O
+''	O
+
+# id = conivel-the-way-of-shadows-000019
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Logan shook his head .
+Logan	B-CHARACTER
+shook	O
+his	O
+head	O
+.	O
+
+# id = conivel-the-way-of-shadows-000020
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He 'd stabbed the ferali , and then the Godking had left it , but other men had given it more grievous wounds than he had .
+He	O
+'d	O
+stabbed	O
+the	O
+ferali	O
+,	O
+and	O
+then	O
+the	O
+Godking	B-CHARACTER
+had	O
+left	O
+it	O
+,	O
+but	O
+other	O
+men	O
+had	O
+given	O
+it	O
+more	O
+grievous	O
+wounds	O
+than	O
+he	O
+had	O
+.	O
+
+# id = conivel-the-way-of-shadows-000021
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Something else had stopped the Godking , not Logan .
+Something	O
+else	O
+had	O
+stopped	O
+the	O
+Godking	B-CHARACTER
+,	O
+not	O
+Logan	B-CHARACTER
+.	O
+
+# id = conivel-the-way-of-shadows-000022
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You commanded it to destroy our enemies , and it did .
+``	O
+You	O
+commanded	O
+it	O
+to	O
+destroy	O
+our	O
+enemies	O
+,	O
+and	O
+it	O
+did	O
+.	O
+
+# id = conivel-the-way-of-shadows-000023
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You saved Cenaria . ''
+You	O
+saved	O
+Cenaria	O
+.	O
+''	O
+
+# id = conivel-the-way-of-shadows-000024
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Logan shrugged .
+Logan	B-CHARACTER
+shrugged	O
+.	O
+
+# id = conivel-the-way-of-shadows-000025
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It already seemed long ago .
+It	O
+already	O
+seemed	O
+long	O
+ago	O
+.	O
+
+# id = conivel-the-way-of-shadows-000026
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I guess the question is , ''
+``	O
+I	O
+guess	O
+the	O
+question	O
+is	O
+,	O
+''	O
+
+# id = conivel-the-way-of-shadows-000027
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Terah Graesin said , `` did you save Cenaria for yourself , or for all of us ? ''
+Terah	B-CHARACTER
+Graesin	I-CHARACTER
+said	O
+,	O
+``	O
+did	O
+you	O
+save	O
+Cenaria	O
+for	O
+yourself	O
+,	O
+or	O
+for	O
+all	O
+of	O
+us	O
+?	O
+''	O
+
+# id = conivel-the-way-of-shadows-000028
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Logan spat at her feet .
+Logan	B-CHARACTER
+spat	O
+at	O
+her	O
+feet	O
+.	O
+
+# id = conivel-the-way-of-shadows-000029
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do n't give me that horseshit , Terah .
+``	O
+Do	O
+n't	O
+give	O
+me	O
+that	O
+horseshit	O
+,	O
+Terah	B-CHARACTER
+.	O
+
+# id = conivel-the-way-of-shadows-000030
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You think you 're going to manipulate me ?
+You	O
+think	O
+you	O
+'re	O
+going	O
+to	O
+manipulate	O
+me	O
+?	O
+
+# id = conivel-the-way-of-shadows-000031
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You 've got nothing to offer , nothing to threaten .
+You	O
+'ve	O
+got	O
+nothing	O
+to	O
+offer	O
+,	O
+nothing	O
+to	O
+threaten	O
+.	O
+
+# id = conivel-the-way-of-shadows-000032
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You 've got a question for me ?
+You	O
+'ve	O
+got	O
+a	O
+question	O
+for	O
+me	O
+?	O
+
+# id = conivel-the-way-of-shadows-000033
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Have a little respect and just fucking ask . ''
+Have	O
+a	O
+little	O
+respect	O
+and	O
+just	O
+fucking	O
+ask	O
+.	O
+''	O
+
+# id = conivel-the-way-of-shadows-000034
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Terah 's back stiffened , her chin lifted , and one hand twitched , but then she stopped .
+Terah	B-CHARACTER
+'s	O
+back	O
+stiffened	O
+,	O
+her	O
+chin	O
+lifted	O
+,	O
+and	O
+one	O
+hand	O
+twitched	O
+,	O
+but	O
+then	O
+she	O
+stopped	O
+.	O
+
+# id = conivel-the-way-of-shadows-000035
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was the hand twitch that captured Logan 's attention .
+It	O
+was	O
+the	O
+hand	O
+twitch	O
+that	O
+captured	O
+Logan	B-CHARACTER
+'s	O
+attention	O
+.	O
+
+# id = conivel-the-way-of-shadows-000036
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If she had raised her hand , was that the sign for her men to attack ?
+If	O
+she	O
+had	O
+raised	O
+her	O
+hand	O
+,	O
+was	O
+that	O
+the	O
+sign	O
+for	O
+her	O
+men	O
+to	O
+attack	O
+?	O
+
+# id = conivel-the-way-of-shadows-000037
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Logan looked past her into the woods at the edge of the field , but the first thing he saw was n't her men .
+Logan	B-CHARACTER
+looked	O
+past	O
+her	O
+into	O
+the	O
+woods	O
+at	O
+the	O
+edge	O
+of	O
+the	O
+field	O
+,	O
+but	O
+the	O
+first	O
+thing	O
+he	O
+saw	O
+was	O
+n't	O
+her	O
+men	O
+.	O
+
+# id = conivel-the-way-of-shadows-000038
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He saw his own .
+He	O
+saw	O
+his	O
+own	O
+.	O
+
+# id = conivel-the-way-of-shadows-000039
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Agon 's Dogs -- including two of the astoundingly talented archers Agon had armed with Ymmuri bows and made wytch hunters -- had stealthily circled behind Terah 's bodyguards .
+Agon	B-CHARACTER
+'s	O
+Dogs	O
+--	O
+including	O
+two	O
+of	O
+the	O
+astoundingly	O
+talented	O
+archers	O
+Agon	B-CHARACTER
+had	O
+armed	O
+with	O
+Ymmuri	O
+bows	O
+and	O
+made	O
+wytch	O
+hunters	O
+--	O
+had	O
+stealthily	O
+circled	O
+behind	O
+Terah	B-CHARACTER
+'s	O
+bodyguards	O
+.	O
+
+# id = conivel-the-way-of-shadows-000040
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Both wytch hunters had arrows nocked , but not drawn .
+Both	O
+wytch	O
+hunters	O
+had	O
+arrows	O
+nocked	O
+,	O
+but	O
+not	O
+drawn	O
+.	O
+
+# id = conivel-the-way-of-shadows-000041
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Both men had obviously taken care to stand where Logan could see them clearly , because none of the other Dogs were clearly visible .
+Both	O
+men	O
+had	O
+obviously	O
+taken	O
+care	O
+to	O
+stand	O
+where	O
+Logan	B-CHARACTER
+could	O
+see	O
+them	O
+clearly	O
+,	O
+because	O
+none	O
+of	O
+the	O
+other	O
+Dogs	O
+were	O
+clearly	O
+visible	O
+.	O
+
+# id = conivel-the-way-of-shadows-000042
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One archer was alternately looking at Logan and at a target in the woods .
+One	O
+archer	O
+was	O
+alternately	O
+looking	O
+at	O
+Logan	B-CHARACTER
+and	O
+at	O
+a	O
+target	O
+in	O
+the	O
+woods	O
+.	O
+
+# id = conivel-the-way-of-shadows-000043
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Logan followed his eyes and saw Terah 's hidden archer , aiming at Logan , waiting for Terah 's signal .
+Logan	B-CHARACTER
+followed	O
+his	O
+eyes	O
+and	O
+saw	O
+Terah	B-CHARACTER
+'s	O
+hidden	O
+archer	O
+,	O
+aiming	O
+at	O
+Logan	B-CHARACTER
+,	O
+waiting	O
+for	O
+Terah	B-CHARACTER
+'s	O
+signal	O
+.	O
+
+# id = conivel-the-way-of-shadows-000044
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The other wytch hunter was staring at Terah Graesin 's back .
+The	O
+other	O
+wytch	O
+hunter	O
+was	O
+staring	O
+at	O
+Terah	B-CHARACTER
+Graesin	I-CHARACTER
+'s	O
+back	O
+.	O
+
+# id = conivel-the-way-of-shadows-000045
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were waiting for Logan 's signal .
+They	O
+were	O
+waiting	O
+for	O
+Logan	B-CHARACTER
+'s	O
+signal	O
+.	O
+
+# id = conivel-the-way-of-shadows-000046
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Logan should have known his streetwise followers would n't leave him alone when Terah Graesin was near .
+Logan	B-CHARACTER
+should	O
+have	O
+known	O
+his	O
+streetwise	O
+followers	O
+would	O
+n't	O
+leave	O
+him	O
+alone	O
+when	O
+Terah	B-CHARACTER
+Graesin	I-CHARACTER
+was	O
+near	O
+.	O
+
+# id = conivel-the-way-of-shadows-000047
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He looked at Terah .
+He	O
+looked	O
+at	O
+Terah	B-CHARACTER
+.	O
+
+# id = conivel-the-way-of-shadows-000048
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She was slim , pretty , with imperious green eyes that reminded Logan of his mother 's .
+She	O
+was	O
+slim	O
+,	O
+pretty	O
+,	O
+with	O
+imperious	O
+green	O
+eyes	O
+that	O
+reminded	O
+Logan	B-CHARACTER
+of	O
+his	O
+mother	O
+'s	O
+.	O
+
+# id = conivel-the-way-of-shadows-000049
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Terah thought Logan did n't know about her men in the woods .
+Terah	B-CHARACTER
+thought	O
+Logan	B-CHARACTER
+did	O
+n't	O
+know	O
+about	O
+her	O
+men	O
+in	O
+the	O
+woods	O
+.	O
+
+# id = conivel-the-way-of-shadows-000050
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She thought Logan did n't know that she had the stronger hand .
+She	O
+thought	O
+Logan	B-CHARACTER
+did	O
+n't	O
+know	O
+that	O
+she	O
+had	O
+the	O
+stronger	O
+hand	O
+.	O
+
+# id = conivel-the-way-of-shadows-000051
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You swore fealty to me this morning under less than ideal circumstances , ''
+``	O
+You	O
+swore	O
+fealty	O
+to	O
+me	O
+this	O
+morning	O
+under	O
+less	O
+than	O
+ideal	O
+circumstances	O
+,	O
+''	O
+
+# id = conivel-the-way-of-shadows-000052
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Terah said .
+Terah	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-way-of-shadows-000053
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do you intend to keep your troth , or do you intend to make yourself king ? ''
+``	O
+Do	O
+you	O
+intend	O
+to	O
+keep	O
+your	O
+troth	O
+,	O
+or	O
+do	O
+you	O
+intend	O
+to	O
+make	O
+yourself	O
+king	O
+?	O
+''	O
+
+# id = conivel-the-way-of-shadows-000054
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She could n't ask the question straight , could she ?
+She	O
+could	O
+n't	O
+ask	O
+the	O
+question	O
+straight	O
+,	O
+could	O
+she	O
+?	O
+
+# id = conivel-the-way-of-shadows-000055
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It just was n't in her , not even when she thought she had total control over Logan .
+It	O
+just	O
+was	O
+n't	O
+in	O
+her	O
+,	O
+not	O
+even	O
+when	O
+she	O
+thought	O
+she	O
+had	O
+total	O
+control	O
+over	O
+Logan	B-CHARACTER
+.	O
+
+# id = conivel-the-way-of-shadows-000056
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She would not make a good queen .
+She	O
+would	O
+not	O
+make	O
+a	O
+good	O
+queen	O
+.	O
+
+# id = conivel-the-way-of-shadows-000057
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Logan thought he 'd already made his decision , but he hesitated .
+Logan	B-CHARACTER
+thought	O
+he	O
+'d	O
+already	O
+made	O
+his	O
+decision	O
+,	O
+but	O
+he	O
+hesitated	O
+.	O
+
+# id = conivel-the-way-of-shadows-000058
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He remembered how it felt to be powerless in the Hole , how it felt to be powerless when Jenine , his just-wed wife , had been murdered .
+He	O
+remembered	O
+how	O
+it	O
+felt	O
+to	O
+be	O
+powerless	O
+in	O
+the	O
+Hole	B-LOCATION
+,	O
+how	O
+it	O
+felt	O
+to	O
+be	O
+powerless	O
+when	O
+Jenine	B-CHARACTER
+,	O
+his	O
+just-wed	O
+wife	O
+,	O
+had	O
+been	O
+murdered	O
+.	O
+
+# id = conivel-the-way-of-shadows-000059
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He remembered how disconcertingly wonderful it felt to tell Kylar to kill Gorkhy and see it done .
+He	O
+remembered	O
+how	O
+disconcertingly	O
+wonderful	O
+it	O
+felt	O
+to	O
+tell	O
+Kylar	B-CHARACTER
+to	O
+kill	O
+Gorkhy	B-CHARACTER
+and	O
+see	O
+it	O
+done	O
+.	O
+
+# id = conivel-the-way-of-shadows-000060
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He wondered if he would feel the same pleasure at seeing Terah Graesin die .
+He	O
+wondered	O
+if	O
+he	O
+would	O
+feel	O
+the	O
+same	O
+pleasure	O
+at	O
+seeing	O
+Terah	B-CHARACTER
+Graesin	I-CHARACTER
+die	O
+.	O
+
+# id = conivel-the-way-of-shadows-000061
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = With one nod toward those wytch hunters , he would find out .
+With	O
+one	O
+nod	O
+toward	O
+those	O
+wytch	O
+hunters	O
+,	O
+he	O
+would	O
+find	O
+out	O
+.	O
+
+# id = conivel-the-way-of-shadows-000062
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He would never feel powerless again .
+He	O
+would	O
+never	O
+feel	O
+powerless	O
+again	O
+.	O
+
+# id = conivel-the-way-of-shadows-000063
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His father had told him , `` An oath is the measure of the man who gives it . ''
+His	O
+father	O
+had	O
+told	O
+him	O
+,	O
+``	O
+An	O
+oath	O
+is	O
+the	O
+measure	O
+of	O
+the	O
+man	O
+who	O
+gives	O
+it	O
+.	O
+''	O
+
+# id = conivel-the-way-of-shadows-000064
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Logan had seen what happened when he did what he knew was right , no matter how foolish it looked at the time .
+Logan	B-CHARACTER
+had	O
+seen	O
+what	O
+happened	O
+when	O
+he	O
+did	O
+what	O
+he	O
+knew	O
+was	O
+right	O
+,	O
+no	O
+matter	O
+how	O
+foolish	O
+it	O
+looked	O
+at	O
+the	O
+time	O
+.	O
+
+# id = conivel-the-way-of-shadows-000065
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That was what rallied the Holers around him .
+That	O
+was	O
+what	O
+rallied	O
+the	O
+Holers	O
+around	O
+him	O
+.	O
+
+# id = conivel-the-way-of-shadows-000066
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That was what had saved his life when he was feverish and barely conscious .
+That	O
+was	O
+what	O
+had	O
+saved	O
+his	O
+life	O
+when	O
+he	O
+was	O
+feverish	O
+and	O
+barely	O
+conscious	O
+.	O
+
+# id = conivel-the-way-of-shadows-000067
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That was what had made Lilly -- the woman the Khalidorans crafted into the ferali -- turn on the Khalidorans .
+That	O
+was	O
+what	O
+had	O
+made	O
+Lilly	B-CHARACTER
+--	O
+the	O
+woman	O
+the	O
+Khalidorans	O
+crafted	O
+into	O
+the	O
+ferali	O
+--	O
+turn	O
+on	O
+the	O
+Khalidorans	O
+.	O
+
+# id = conivel-the-way-of-shadows-000068
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ultimately , Logan 's doing what was right had saved all of Cenaria .
+Ultimately	O
+,	O
+Logan	B-CHARACTER
+'s	O
+doing	O
+what	O
+was	O
+right	O
+had	O
+saved	O
+all	O
+of	O
+Cenaria	O
+.	O
+
+# id = conivel-the-way-of-shadows-000069
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But his father Regnus Gyre had lived by his oaths , through a miserable marriage and miserable service to a petty , wicked king .
+But	O
+his	O
+father	O
+Regnus	B-CHARACTER
+Gyre	I-CHARACTER
+had	O
+lived	O
+by	O
+his	O
+oaths	O
+,	O
+through	O
+a	O
+miserable	O
+marriage	O
+and	O
+miserable	O
+service	O
+to	O
+a	O
+petty	O
+,	O
+wicked	O
+king	O
+.	O
+
+# id = conivel-the-way-of-shadows-000070
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He gritted his teeth all day and slept well every night .
+He	O
+gritted	O
+his	O
+teeth	O
+all	O
+day	O
+and	O
+slept	O
+well	O
+every	O
+night	O
+.	O
+
+# id = conivel-the-way-of-shadows-000071
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Logan did n't know if he was as much of a man as his father .
+Logan	B-CHARACTER
+did	O
+n't	O
+know	O
+if	O
+he	O
+was	O
+as	O
+much	O
+of	O
+a	O
+man	O
+as	O
+his	O
+father	O
+.	O
+
+# id = conivel-the-way-of-shadows-000072
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He could n't do it .
+He	O
+could	O
+n't	O
+do	O
+it	O
+.	O
+
+# id = conivel-the-way-of-shadows-000073
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So he hesitated .
+So	O
+he	O
+hesitated	O
+.	O
+
+# id = conivel-the-way-of-shadows-000074
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If she raised her hand to order her men to attack , she would be breaking the covenant between lord and vassal .
+If	O
+she	O
+raised	O
+her	O
+hand	O
+to	O
+order	O
+her	O
+men	O
+to	O
+attack	O
+,	O
+she	O
+would	O
+be	O
+breaking	O
+the	O
+covenant	O
+between	O
+lord	O
+and	O
+vassal	O
+.	O
+
+# id = conivel-the-way-of-shadows-000075
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If she broke it , he would be free .
+If	O
+she	O
+broke	O
+it	O
+,	O
+he	O
+would	O
+be	O
+free	O
+.	O
+
+# id = conivel-the-way-of-shadows-000076
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Our soldiers proclaimed me king . ''
+``	O
+Our	O
+soldiers	O
+proclaimed	O
+me	O
+king	O
+.	O
+''	O
+
+# id = conivel-the-way-of-shadows-000077
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Logan said in a neutral tone .
+Logan	B-CHARACTER
+said	O
+in	O
+a	O
+neutral	O
+tone	O
+.	O
+
+# id = conivel-the-way-of-shadows-000078
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Lose your temper , Terah .
+Lose	O
+your	O
+temper	O
+,	O
+Terah	B-CHARACTER
+.	O
+
+# id = conivel-the-way-of-shadows-000079
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Order the attack .
+Order	O
+the	O
+attack	O
+.	O
+
+# id = conivel-the-way-of-shadows-000080
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Order your own death .
+Order	O
+your	O
+own	O
+death	O
+.	O
+
+# id = conivel-the-way-of-shadows-000081
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Terah 's eyes lit , but her voice was steady and her hand did n't move .
+Terah	B-CHARACTER
+'s	O
+eyes	O
+lit	O
+,	O
+but	O
+her	O
+voice	O
+was	O
+steady	O
+and	O
+her	O
+hand	O
+did	O
+n't	O
+move	O
+.	O
+
+# id = conivel-the-way-of-shadows-000082
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Men say many things in the heat of battle .
+``	O
+Men	O
+say	O
+many	O
+things	O
+in	O
+the	O
+heat	O
+of	O
+battle	O
+.	O
+
+# id = conivel-the-way-of-shadows-000083
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I am prepared to forgive this indiscretion . ''
+I	O
+am	O
+prepared	O
+to	O
+forgive	O
+this	O
+indiscretion	O
+.	O
+''	O
+
+# id = conivel-the-way-of-shadows-000084
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Is this what Kylar saved me for ?
+Is	O
+this	O
+what	O
+Kylar	B-CHARACTER
+saved	O
+me	O
+for	O
+?	O
+
+# id = conivel-the-way-of-shadows-000085
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No .
+No	O
+.	O
+
+# id = conivel-the-way-of-shadows-000086
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But this is the man I am .
+But	O
+this	O
+is	O
+the	O
+man	O
+I	O
+am	O
+.	O
+
+# id = conivel-the-way-of-shadows-000087
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I am my father 's son .
+I	O
+am	O
+my	O
+father	O
+'s	O
+son	O
+.	O
+
+# id = conivel-the-way-of-shadows-000088
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Logan stood slowly so as not to alarm either side 's archers , then , slowly , he knelt and touched Terah Graesin 's feet in submission .
+Logan	B-CHARACTER
+stood	O
+slowly	O
+so	O
+as	O
+not	O
+to	O
+alarm	O
+either	O
+side	O
+'s	O
+archers	O
+,	O
+then	O
+,	O
+slowly	O
+,	O
+he	O
+knelt	O
+and	O
+touched	O
+Terah	B-CHARACTER
+Graesin	I-CHARACTER
+'s	O
+feet	O
+in	O
+submission	O
+.	O
+
+# id = conivel-the-way-of-shadows-000089
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Late that night , a band of Khalidorans attacked the Cenarian camp , killing dozens of drunken revelers before fleeing into the darkness .
+Late	O
+that	O
+night	O
+,	O
+a	O
+band	O
+of	O
+Khalidorans	O
+attacked	O
+the	O
+Cenarian	O
+camp	O
+,	O
+killing	O
+dozens	O
+of	O
+drunken	O
+revelers	O
+before	O
+fleeing	O
+into	O
+the	O
+darkness	O
+.	O
+
+# id = conivel-the-way-of-shadows-000090
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Shadows
+# source_file = TheWayOfShadows.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In the morning , Terah Graesin sent Logan Gyre and a thousand of his men to hunt them down .
+In	O
+the	O
+morning	O
+,	O
+Terah	B-CHARACTER
+Graesin	I-CHARACTER
+sent	O
+Logan	B-CHARACTER
+Gyre	I-CHARACTER
+and	O
+a	O
+thousand	O
+of	O
+his	O
+men	O
+to	O
+hunt	O
+them	O
+down	O
+.	O
+

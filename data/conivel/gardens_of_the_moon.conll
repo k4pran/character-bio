@@ -1,0 +1,6608 @@
+# id = conivel-gardens-of-the-moon-000001
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In the Year of Burn 's Sleep 1163 , the Siege of Pale ended with a now legendary sorcerous conflagration ... Imperial Campaigns 1158-1194 Volume TV , Genabackis Imrygyn Tallobant ( b. 1151 ) CHAPTER ONE The old stones of this road have rung with iron black-shod hoofs and drums where I saw him walking up from the sea between the hills soaked red in sunset he came , a boy among the echoes sons and brothers all in ranks of warrior ghosts he came to pass where I sat on the worn final league-stone at day 's end -- his stride spoke loud all I needed know of him on this road of stone -- the boy walks another soldier , another one bright heart not yet cooled to hard iron Mother 's Lament Anonymous 1161st Year of Burn 's Sleep 103rd Year of the Malazan Empire 7th Year of Empress Laseen 's Rule `` Prod and pull , ''
+In	O
+the	O
+Year	O
+of	O
+Burn	O
+'s	O
+Sleep	O
+1163	O
+,	O
+the	O
+Siege	O
+of	O
+Pale	B-LOCATION
+ended	O
+with	O
+a	O
+now	O
+legendary	O
+sorcerous	O
+conflagration	O
+...	O
+Imperial	O
+Campaigns	O
+1158-1194	O
+Volume	O
+TV	O
+,	O
+Genabackis	B-LOCATION
+Imrygyn	B-CHARACTER
+Tallobant	I-CHARACTER
+(	O
+b.	O
+1151	O
+)	O
+CHAPTER	O
+ONE	O
+The	O
+old	O
+stones	O
+of	O
+this	O
+road	O
+have	O
+rung	O
+with	O
+iron	O
+black-shod	O
+hoofs	O
+and	O
+drums	O
+where	O
+I	O
+saw	O
+him	O
+walking	O
+up	O
+from	O
+the	O
+sea	O
+between	O
+the	O
+hills	O
+soaked	O
+red	O
+in	O
+sunset	O
+he	O
+came	O
+,	O
+a	O
+boy	O
+among	O
+the	O
+echoes	O
+sons	O
+and	O
+brothers	O
+all	O
+in	O
+ranks	O
+of	O
+warrior	O
+ghosts	O
+he	O
+came	O
+to	O
+pass	O
+where	O
+I	O
+sat	O
+on	O
+the	O
+worn	O
+final	O
+league-stone	O
+at	O
+day	O
+'s	O
+end	O
+--	O
+his	O
+stride	O
+spoke	O
+loud	O
+all	O
+I	O
+needed	O
+know	O
+of	O
+him	O
+on	O
+this	O
+road	O
+of	O
+stone	O
+--	O
+the	O
+boy	O
+walks	O
+another	O
+soldier	O
+,	O
+another	O
+one	O
+bright	O
+heart	O
+not	O
+yet	O
+cooled	O
+to	O
+hard	O
+iron	O
+Mother	O
+'s	O
+Lament	O
+Anonymous	O
+1161st	O
+Year	O
+of	O
+Burn	O
+'s	O
+Sleep	O
+103rd	O
+Year	O
+of	O
+the	O
+Malazan	O
+Empire	O
+7th	O
+Year	O
+of	O
+Empress	B-CHARACTER
+Laseen	I-CHARACTER
+'s	O
+Rule	O
+``	O
+Prod	O
+and	O
+pull	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000002
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the old woman was saying , `` tis the way of the Empress , as like the gods themselves . ''
+the	O
+old	O
+woman	O
+was	O
+saying	O
+,	O
+``	O
+tis	O
+the	O
+way	O
+of	O
+the	O
+Empress	B-CHARACTER
+,	O
+as	O
+like	O
+the	O
+gods	O
+themselves	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000003
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She leaned to one side and spat , then brought a soiled cloth to her wrinkled lips .
+She	O
+leaned	O
+to	O
+one	O
+side	O
+and	O
+spat	O
+,	O
+then	O
+brought	O
+a	O
+soiled	O
+cloth	O
+to	O
+her	O
+wrinkled	O
+lips	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000004
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Three husbands and two sons I saw off to war . ''
+``	O
+Three	O
+husbands	O
+and	O
+two	O
+sons	O
+I	O
+saw	O
+off	O
+to	O
+war	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000005
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The fishergirl 's eyes shone as she watched the column of mounted soldiers thunder past , and she only half listened to the hag standing beside her .
+The	O
+fishergirl	O
+'s	O
+eyes	O
+shone	O
+as	O
+she	O
+watched	O
+the	O
+column	O
+of	O
+mounted	O
+soldiers	O
+thunder	O
+past	O
+,	O
+and	O
+she	O
+only	O
+half	O
+listened	O
+to	O
+the	O
+hag	O
+standing	O
+beside	O
+her	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000006
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The girl 's breath had risen to the pace of the magnificent horses .
+The	O
+girl	O
+'s	O
+breath	O
+had	O
+risen	O
+to	O
+the	O
+pace	O
+of	O
+the	O
+magnificent	O
+horses	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000007
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She felt her face burning , a flush that had nothing to do with the heat .
+She	O
+felt	O
+her	O
+face	O
+burning	O
+,	O
+a	O
+flush	O
+that	O
+had	O
+nothing	O
+to	O
+do	O
+with	O
+the	O
+heat	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000008
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The day was dying , the sun 's red smear over the trees on her right , and the sea 's sighing against her face had grown cool .
+The	O
+day	O
+was	O
+dying	O
+,	O
+the	O
+sun	O
+'s	O
+red	O
+smear	O
+over	O
+the	O
+trees	O
+on	O
+her	O
+right	O
+,	O
+and	O
+the	O
+sea	O
+'s	O
+sighing	O
+against	O
+her	O
+face	O
+had	O
+grown	O
+cool	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000009
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That was in the days of the Emperor , ''
+``	O
+That	O
+was	O
+in	O
+the	O
+days	O
+of	O
+the	O
+Emperor	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000010
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the hag continued .
+the	O
+hag	O
+continued	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000011
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Hood roast the bastard 's soul on a spit .
+``	O
+Hood	O
+roast	O
+the	O
+bastard	O
+'s	O
+soul	O
+on	O
+a	O
+spit	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000012
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But look on , lass .
+But	O
+look	O
+on	O
+,	O
+lass	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000013
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laseen scatters bones with the best of them .
+Laseen	B-CHARACTER
+scatters	O
+bones	O
+with	O
+the	O
+best	O
+of	O
+them	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000014
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Heh , she started with his , did n't she , now ? ''
+Heh	O
+,	O
+she	O
+started	O
+with	O
+his	O
+,	O
+did	O
+n't	O
+she	O
+,	O
+now	O
+?	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000015
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The fishergirl nodded faintly .
+The	O
+fishergirl	O
+nodded	O
+faintly	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000016
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As befitted the lowborn , they waited by the roadside , the old woman burdened beneath a rough sack filled with turnips , the girl with a heavy basket balanced on her head .
+As	O
+befitted	O
+the	O
+lowborn	O
+,	O
+they	O
+waited	O
+by	O
+the	O
+roadside	O
+,	O
+the	O
+old	O
+woman	O
+burdened	O
+beneath	O
+a	O
+rough	O
+sack	O
+filled	O
+with	O
+turnips	O
+,	O
+the	O
+girl	O
+with	O
+a	O
+heavy	O
+basket	O
+balanced	O
+on	O
+her	O
+head	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000017
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Every minute or so the old woman shifted the sack from one bony shoulder to the other .
+Every	O
+minute	O
+or	O
+so	O
+the	O
+old	O
+woman	O
+shifted	O
+the	O
+sack	O
+from	O
+one	O
+bony	O
+shoulder	O
+to	O
+the	O
+other	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000018
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = With the riders crowding them on the road and the ditch behind them a steep drop to broken rocks , she had no place to put down the sack .
+With	O
+the	O
+riders	O
+crowding	O
+them	O
+on	O
+the	O
+road	O
+and	O
+the	O
+ditch	O
+behind	O
+them	O
+a	O
+steep	O
+drop	O
+to	O
+broken	O
+rocks	O
+,	O
+she	O
+had	O
+no	O
+place	O
+to	O
+put	O
+down	O
+the	O
+sack	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000019
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Scatters bones , I said .
+``	O
+Scatters	O
+bones	O
+,	O
+I	O
+said	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000020
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bones of husbands , bones of sons , bones of wives and bones of daughters .
+Bones	O
+of	O
+husbands	O
+,	O
+bones	O
+of	O
+sons	O
+,	O
+bones	O
+of	O
+wives	O
+and	O
+bones	O
+of	O
+daughters	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000021
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All the same to her .
+All	O
+the	O
+same	O
+to	O
+her	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000022
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All the same to the Empire . ''
+All	O
+the	O
+same	O
+to	O
+the	O
+Empire	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000023
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The old woman spat a second time .
+The	O
+old	O
+woman	O
+spat	O
+a	O
+second	O
+time	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000024
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Three husbands and two sons , ten coin apiece a year .
+``	O
+Three	O
+husbands	O
+and	O
+two	O
+sons	O
+,	O
+ten	O
+coin	O
+apiece	O
+a	O
+year	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000025
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Five of ten 's fifty .
+Five	O
+of	O
+ten	O
+'s	O
+fifty	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000026
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Fifty coin a year 's cold company , lass .
+Fifty	O
+coin	O
+a	O
+year	O
+'s	O
+cold	O
+company	O
+,	O
+lass	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000027
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cold in winter , cold in bed . ''
+Cold	O
+in	O
+winter	O
+,	O
+cold	O
+in	O
+bed	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000028
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The fishergirl wiped dust from her forehead .
+The	O
+fishergirl	O
+wiped	O
+dust	O
+from	O
+her	O
+forehead	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000029
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her bright eyes darted among the soldiers passing before her .
+Her	O
+bright	O
+eyes	O
+darted	O
+among	O
+the	O
+soldiers	O
+passing	O
+before	O
+her	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000030
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The young men top their high-backed saddles held expressions stern and fixed straight ahead .
+The	O
+young	O
+men	O
+top	O
+their	O
+high-backed	O
+saddles	O
+held	O
+expressions	O
+stern	O
+and	O
+fixed	O
+straight	O
+ahead	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000031
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The few women who rode among them sat tall and somehow fiercer than the men .
+The	O
+few	O
+women	O
+who	O
+rode	O
+among	O
+them	O
+sat	O
+tall	O
+and	O
+somehow	O
+fiercer	O
+than	O
+the	O
+men	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000032
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The sunset cast red glints from their helms , flashing so that the girl 's eyes stung and her vision blurred .
+The	O
+sunset	O
+cast	O
+red	O
+glints	O
+from	O
+their	O
+helms	O
+,	O
+flashing	O
+so	O
+that	O
+the	O
+girl	O
+'s	O
+eyes	O
+stung	O
+and	O
+her	O
+vision	O
+blurred	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000033
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 're the fisherman 's daughter , ''
+``	O
+You	O
+'re	O
+the	O
+fisherman	O
+'s	O
+daughter	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000034
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the old woman said .
+the	O
+old	O
+woman	O
+said	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000035
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I seen you afore on the road , and down on the strand .
+``	O
+I	O
+seen	O
+you	O
+afore	O
+on	O
+the	O
+road	O
+,	O
+and	O
+down	O
+on	O
+the	O
+strand	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000036
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Seen you and your dad at market .
+Seen	O
+you	O
+and	O
+your	O
+dad	O
+at	O
+market	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000037
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Missing an arm , ai n't he ?
+Missing	O
+an	O
+arm	O
+,	O
+ai	O
+n't	O
+he	O
+?	O
+
+# id = conivel-gardens-of-the-moon-000038
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = More bones for her collection is likely , eh ? ''
+More	O
+bones	O
+for	O
+her	O
+collection	O
+is	O
+likely	O
+,	O
+eh	O
+?	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000039
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She made a chopping motion with one hand , then nodded .
+She	O
+made	O
+a	O
+chopping	O
+motion	O
+with	O
+one	O
+hand	O
+,	O
+then	O
+nodded	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000040
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Mine 's the first house on the track .
+``	O
+Mine	O
+'s	O
+the	O
+first	O
+house	O
+on	O
+the	O
+track	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000041
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I use the coin to buy candles .
+I	O
+use	O
+the	O
+coin	O
+to	O
+buy	O
+candles	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000042
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Five candles I burn every night , five candles to keep old Rigga company .
+Five	O
+candles	O
+I	O
+burn	O
+every	O
+night	O
+,	O
+five	O
+candles	O
+to	O
+keep	O
+old	O
+Rigga	B-CHARACTER
+company	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000043
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's a tired house , full of tired things and me one of them , lass .
+It	O
+'s	O
+a	O
+tired	O
+house	O
+,	O
+full	O
+of	O
+tired	O
+things	O
+and	O
+me	O
+one	O
+of	O
+them	O
+,	O
+lass	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000044
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What you got in the basket there ? ''
+What	O
+you	O
+got	O
+in	O
+the	O
+basket	O
+there	O
+?	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000045
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Slowly the fishergirl realized that a question had been asked of her .
+Slowly	O
+the	O
+fishergirl	O
+realized	O
+that	O
+a	O
+question	O
+had	O
+been	O
+asked	O
+of	O
+her	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000046
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She pulled her attention from the soldiers and smiled down at the old woman .
+She	O
+pulled	O
+her	O
+attention	O
+from	O
+the	O
+soldiers	O
+and	O
+smiled	O
+down	O
+at	O
+the	O
+old	O
+woman	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000047
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm sorry , ''
+``	O
+I	O
+'m	O
+sorry	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000048
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she said , `` the horses are so loud . ''
+she	O
+said	O
+,	O
+``	O
+the	O
+horses	O
+are	O
+so	O
+loud	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000049
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Rigga raised her voice .
+Rigga	B-CHARACTER
+raised	O
+her	O
+voice	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000050
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I asked what you got in your basket , lass ? ''
+``	O
+I	O
+asked	O
+what	O
+you	O
+got	O
+in	O
+your	O
+basket	O
+,	O
+lass	O
+?	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000051
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Twine .
+``	O
+Twine	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000052
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Enough for three nets .
+Enough	O
+for	O
+three	O
+nets	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000053
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We need to get one ready for tomorrow .
+We	O
+need	O
+to	O
+get	O
+one	O
+ready	O
+for	O
+tomorrow	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000054
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Dadda lost his last one -- something in the deep waters took it and a whole catch , too .
+Dadda	B-CHARACTER
+lost	O
+his	O
+last	O
+one	O
+--	O
+something	O
+in	O
+the	O
+deep	O
+waters	O
+took	O
+it	O
+and	O
+a	O
+whole	O
+catch	O
+,	O
+too	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000055
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ilgrand Lender wants the money he loaned us and we need a catch tomorrow .
+Ilgrand	B-CHARACTER
+Lender	I-CHARACTER
+wants	O
+the	O
+money	O
+he	O
+loaned	O
+us	O
+and	O
+we	O
+need	O
+a	O
+catch	O
+tomorrow	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000056
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A good one . ''
+A	O
+good	O
+one	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000057
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She smiled again and swept her gaze back to the soldiers .
+She	O
+smiled	O
+again	O
+and	O
+swept	O
+her	O
+gaze	O
+back	O
+to	O
+the	O
+soldiers	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000058
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Is n't it wonderful ? ''
+``	O
+Is	O
+n't	O
+it	O
+wonderful	O
+?	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000059
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she breathed .
+she	O
+breathed	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000060
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Rigga 's hand shot out and snagged the girl 's thick black hair , yanked it hard .
+Rigga	B-CHARACTER
+'s	O
+hand	O
+shot	O
+out	O
+and	O
+snagged	O
+the	O
+girl	O
+'s	O
+thick	O
+black	O
+hair	O
+,	O
+yanked	O
+it	O
+hard	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000061
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The girl cried out .
+The	O
+girl	O
+cried	O
+out	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000062
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The basket on her head lurched , then slid down on to one shoulder .
+The	O
+basket	O
+on	O
+her	O
+head	O
+lurched	O
+,	O
+then	O
+slid	O
+down	O
+on	O
+to	O
+one	O
+shoulder	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000063
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She grabbed frantically for it but it was too heavy .
+She	O
+grabbed	O
+frantically	O
+for	O
+it	O
+but	O
+it	O
+was	O
+too	O
+heavy	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000064
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The basket struck the ground and split apart .
+The	O
+basket	O
+struck	O
+the	O
+ground	O
+and	O
+split	O
+apart	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000065
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Aaai ! ''
+``	O
+Aaai	O
+!	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000066
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the girl gasped , attempting to kneel .
+the	O
+girl	O
+gasped	O
+,	O
+attempting	O
+to	O
+kneel	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000067
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But Rigga pulled and snapped her head around .
+But	O
+Rigga	B-CHARACTER
+pulled	O
+and	O
+snapped	O
+her	O
+head	O
+around	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000068
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You listen to me , lass ! ''
+``	O
+You	O
+listen	O
+to	O
+me	O
+,	O
+lass	O
+!	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000069
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The old woman 's sour breath hissed against the girl 's face .
+The	O
+old	O
+woman	O
+'s	O
+sour	O
+breath	O
+hissed	O
+against	O
+the	O
+girl	O
+'s	O
+face	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000070
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The Empire 's been grinding this land down for a hundred years .
+``	O
+The	O
+Empire	O
+'s	O
+been	O
+grinding	O
+this	O
+land	O
+down	O
+for	O
+a	O
+hundred	O
+years	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000071
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You was born in it .
+You	O
+was	O
+born	O
+in	O
+it	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000072
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was n't .
+I	O
+was	O
+n't	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000073
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When I was your age Itko Kan was a country .
+When	O
+I	O
+was	O
+your	O
+age	O
+Itko	O
+Kan	O
+was	O
+a	O
+country	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000074
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We flew a banner and it was ours .
+We	O
+flew	O
+a	O
+banner	O
+and	O
+it	O
+was	O
+ours	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000075
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We were free , lass . ''
+We	O
+were	O
+free	O
+,	O
+lass	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000076
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The girl was sickened by Rigga 's breath .
+The	O
+girl	O
+was	O
+sickened	O
+by	O
+Rigga	B-CHARACTER
+'s	O
+breath	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000077
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She squeezed shut her eyes .
+She	O
+squeezed	O
+shut	O
+her	O
+eyes	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000078
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Mark this truth , child , else the Cloak of Lies blinds you for ever . ''
+``	O
+Mark	O
+this	O
+truth	O
+,	O
+child	O
+,	O
+else	O
+the	O
+Cloak	O
+of	O
+Lies	O
+blinds	O
+you	O
+for	O
+ever	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000079
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Rigga 's voice took on a droning cadence , and all at once the girl stiffened .
+Rigga	B-CHARACTER
+'s	O
+voice	O
+took	O
+on	O
+a	O
+droning	O
+cadence	O
+,	O
+and	O
+all	O
+at	O
+once	O
+the	O
+girl	O
+stiffened	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000080
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Rigga , Riggalai the Seer , the wax-witch who trapped souls in candles and burned them .
+Rigga	B-CHARACTER
+,	O
+Riggalai	B-CHARACTER
+the	I-CHARACTER
+Seer	I-CHARACTER
+,	O
+the	O
+wax-witch	O
+who	O
+trapped	O
+souls	O
+in	O
+candles	O
+and	O
+burned	O
+them	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000081
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Souls devoured in flame -- Rigga 's words carried the chilling tone of prophecy .
+Souls	O
+devoured	O
+in	O
+flame	O
+--	O
+Rigga	B-CHARACTER
+'s	O
+words	O
+carried	O
+the	O
+chilling	O
+tone	O
+of	O
+prophecy	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000082
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Mark this truth .
+``	O
+Mark	O
+this	O
+truth	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000083
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I am the last to speak to you .
+I	O
+am	O
+the	O
+last	O
+to	O
+speak	O
+to	O
+you	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000084
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You are the last to hear me .
+You	O
+are	O
+the	O
+last	O
+to	O
+hear	O
+me	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000085
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Thus are we linked , you and I , beyond all else . ''
+Thus	O
+are	O
+we	O
+linked	O
+,	O
+you	O
+and	O
+I	O
+,	O
+beyond	O
+all	O
+else	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000086
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Rigga 's fingers snagged tighter in the girl 's hair .
+Rigga	B-CHARACTER
+'s	O
+fingers	O
+snagged	O
+tighter	O
+in	O
+the	O
+girl	O
+'s	O
+hair	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000087
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Across the sea the Empress has driven her knife into virgin soil .
+``	O
+Across	O
+the	O
+sea	O
+the	O
+Empress	B-CHARACTER
+has	O
+driven	O
+her	O
+knife	O
+into	O
+virgin	O
+soil	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000088
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The blood now comes in a tide and it 'll sweep you under , child , if you 're not careful .
+The	O
+blood	O
+now	O
+comes	O
+in	O
+a	O
+tide	O
+and	O
+it	O
+'ll	O
+sweep	O
+you	O
+under	O
+,	O
+child	O
+,	O
+if	O
+you	O
+'re	O
+not	O
+careful	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000089
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They 'll put a sword in your hand , they 'll give you a fine horse , and they 'll send you across that sea .
+They	O
+'ll	O
+put	O
+a	O
+sword	O
+in	O
+your	O
+hand	O
+,	O
+they	O
+'ll	O
+give	O
+you	O
+a	O
+fine	O
+horse	O
+,	O
+and	O
+they	O
+'ll	O
+send	O
+you	O
+across	O
+that	O
+sea	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000090
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But a shadow will embrace your soul .
+But	O
+a	O
+shadow	O
+will	O
+embrace	O
+your	O
+soul	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000091
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now , listen !
+Now	O
+,	O
+listen	O
+!	O
+
+# id = conivel-gardens-of-the-moon-000092
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bury this deep !
+Bury	O
+this	O
+deep	O
+!	O
+
+# id = conivel-gardens-of-the-moon-000093
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Rigga will preserve you because we are linked , you and I .
+Rigga	B-CHARACTER
+will	O
+preserve	O
+you	O
+because	O
+we	O
+are	O
+linked	O
+,	O
+you	O
+and	O
+I	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000094
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But it is all I can do , understand ?
+But	O
+it	O
+is	O
+all	O
+I	O
+can	O
+do	O
+,	O
+understand	O
+?	O
+
+# id = conivel-gardens-of-the-moon-000095
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Look to the Lord spawned in Darkness ; his is the hand that shall free you , though he 'll know it not -- ''
+Look	O
+to	O
+the	O
+Lord	O
+spawned	O
+in	O
+Darkness	O
+;	O
+his	O
+is	O
+the	O
+hand	O
+that	O
+shall	O
+free	O
+you	O
+,	O
+though	O
+he	O
+'ll	O
+know	O
+it	O
+not	O
+--	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000096
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What 's this ? ''
+``	O
+What	O
+'s	O
+this	O
+?	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000097
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = a voice bellowed .
+a	O
+voice	O
+bellowed	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000098
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Rigga swung to face the road .
+Rigga	B-CHARACTER
+swung	O
+to	O
+face	O
+the	O
+road	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000099
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = An outrider had slowed his mount .
+An	O
+outrider	O
+had	O
+slowed	O
+his	O
+mount	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000100
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Seer released the girl 's hair .
+The	O
+Seer	B-CHARACTER
+released	O
+the	O
+girl	O
+'s	O
+hair	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000101
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The girl staggered back a step .
+The	O
+girl	O
+staggered	O
+back	O
+a	O
+step	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000102
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A rock on the road 's edge turned underfoot and she fell .
+A	O
+rock	O
+on	O
+the	O
+road	O
+'s	O
+edge	O
+turned	O
+underfoot	O
+and	O
+she	O
+fell	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000103
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When she looked up the out rider had trotted past .
+When	O
+she	O
+looked	O
+up	O
+the	O
+out	O
+rider	O
+had	O
+trotted	O
+past	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000104
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Another thundered up in his wake .
+Another	O
+thundered	O
+up	O
+in	O
+his	O
+wake	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000105
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Leave the pretty one alone , hag , ''
+``	O
+Leave	O
+the	O
+pretty	O
+one	O
+alone	O
+,	O
+hag	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000106
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = this one growled , and as he rode by he leaned in his saddle and swung an open , gauntleted hand .
+this	O
+one	O
+growled	O
+,	O
+and	O
+as	O
+he	O
+rode	O
+by	O
+he	O
+leaned	O
+in	O
+his	O
+saddle	O
+and	O
+swung	O
+an	O
+open	O
+,	O
+gauntleted	O
+hand	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000107
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The iron-scaled glove cracked against Rigga 's head , spinning her around .
+The	O
+iron-scaled	O
+glove	O
+cracked	O
+against	O
+Rigga	B-CHARACTER
+'s	O
+head	O
+,	O
+spinning	O
+her	O
+around	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000108
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She toppled .
+She	O
+toppled	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000109
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The fishergirl screamed as Rigga landed heavily across her thighs .
+The	O
+fishergirl	O
+screamed	O
+as	O
+Rigga	B-CHARACTER
+landed	O
+heavily	O
+across	O
+her	O
+thighs	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000110
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A thread of crimson spit spattered her face .
+A	O
+thread	O
+of	O
+crimson	O
+spit	O
+spattered	O
+her	O
+face	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000111
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Whimpering , the girl pushed herself back across the gravel , then used her feet to shove away Rigga 's body .
+Whimpering	O
+,	O
+the	O
+girl	O
+pushed	O
+herself	O
+back	O
+across	O
+the	O
+gravel	O
+,	O
+then	O
+used	O
+her	O
+feet	O
+to	O
+shove	O
+away	O
+Rigga	B-CHARACTER
+'s	O
+body	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000112
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She climbed to her knees .
+She	O
+climbed	O
+to	O
+her	O
+knees	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000113
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Something within Rigga 's prophecy seemed lodged in the girl 's head , heavy as a stone and hidden from light .
+Something	O
+within	O
+Rigga	B-CHARACTER
+'s	O
+prophecy	O
+seemed	O
+lodged	O
+in	O
+the	O
+girl	O
+'s	O
+head	O
+,	O
+heavy	O
+as	O
+a	O
+stone	O
+and	O
+hidden	O
+from	O
+light	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000114
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She found she could not retrieve a single word the Seer had said .
+She	O
+found	O
+she	O
+could	O
+not	O
+retrieve	O
+a	O
+single	O
+word	O
+the	O
+Seer	B-CHARACTER
+had	O
+said	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000115
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She reached out and grasped Rigga 's woollen shawl .
+She	O
+reached	O
+out	O
+and	O
+grasped	O
+Rigga	B-CHARACTER
+'s	O
+woollen	O
+shawl	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000116
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Carefully , she rolled the old woman over .
+Carefully	O
+,	O
+she	O
+rolled	O
+the	O
+old	O
+woman	O
+over	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000117
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Blood covered one side of Rigga 's head , running down behind the ear .
+Blood	O
+covered	O
+one	O
+side	O
+of	O
+Rigga	B-CHARACTER
+'s	O
+head	O
+,	O
+running	O
+down	O
+behind	O
+the	O
+ear	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000118
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = More blood smeared her lined chin and stained her mouth .
+More	O
+blood	O
+smeared	O
+her	O
+lined	O
+chin	O
+and	O
+stained	O
+her	O
+mouth	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000119
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The eyes stared sightlessly .
+The	O
+eyes	O
+stared	O
+sightlessly	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000120
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The fishergirl pulled back , unable to catch her breath .
+The	O
+fishergirl	O
+pulled	O
+back	O
+,	O
+unable	O
+to	O
+catch	O
+her	O
+breath	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000121
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Desperate , she looked about .
+Desperate	O
+,	O
+she	O
+looked	O
+about	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000122
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The column of soldiers had passed , leaving nothing but dust and the distant tremble of hoofs .
+The	O
+column	O
+of	O
+soldiers	O
+had	O
+passed	O
+,	O
+leaving	O
+nothing	O
+but	O
+dust	O
+and	O
+the	O
+distant	O
+tremble	O
+of	O
+hoofs	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000123
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Rigga 's bag of turnips had spilled on to the road .
+Rigga	B-CHARACTER
+'s	O
+bag	O
+of	O
+turnips	O
+had	O
+spilled	O
+on	O
+to	O
+the	O
+road	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000124
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Among the trampled vegetables lay five tallow candles .
+Among	O
+the	O
+trampled	O
+vegetables	O
+lay	O
+five	O
+tallow	O
+candles	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000125
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The girl managed a ragged lungful of dusty air .
+The	O
+girl	O
+managed	O
+a	O
+ragged	O
+lungful	O
+of	O
+dusty	O
+air	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000126
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Wiping her nose , she looked to her own basket .
+Wiping	O
+her	O
+nose	O
+,	O
+she	O
+looked	O
+to	O
+her	O
+own	O
+basket	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000127
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Never mind the candles , ''
+``	O
+Never	O
+mind	O
+the	O
+candles	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000128
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she mumbled , in a thick , odd voice .
+she	O
+mumbled	O
+,	O
+in	O
+a	O
+thick	O
+,	O
+odd	O
+voice	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000129
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They 're gone , are n't they , now ?
+``	O
+They	O
+'re	O
+gone	O
+,	O
+are	O
+n't	O
+they	O
+,	O
+now	O
+?	O
+
+# id = conivel-gardens-of-the-moon-000130
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Just a scattering of bones .
+Just	O
+a	O
+scattering	O
+of	O
+bones	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000131
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Never mind . ''
+Never	O
+mind	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000132
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She crawled towards the bundles of twine that had fallen from the breached basket , and when she spoke again her voice was young , normal .
+She	O
+crawled	O
+towards	O
+the	O
+bundles	O
+of	O
+twine	O
+that	O
+had	O
+fallen	O
+from	O
+the	O
+breached	O
+basket	O
+,	O
+and	O
+when	O
+she	O
+spoke	O
+again	O
+her	O
+voice	O
+was	O
+young	O
+,	O
+normal	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000133
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We need the twine .
+``	O
+We	O
+need	O
+the	O
+twine	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000134
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We 'll work all night and get one ready .
+We	O
+'ll	O
+work	O
+all	O
+night	O
+and	O
+get	O
+one	O
+ready	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000135
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Dadda 's waiting .
+Dadda	B-CHARACTER
+'s	O
+waiting	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000136
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He 's right at the door , he 's looking up the track , he 's waiting to see me . ''
+He	O
+'s	O
+right	O
+at	O
+the	O
+door	O
+,	O
+he	O
+'s	O
+looking	O
+up	O
+the	O
+track	O
+,	O
+he	O
+'s	O
+waiting	O
+to	O
+see	O
+me	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000137
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She stopped , a shiver running through her .
+She	O
+stopped	O
+,	O
+a	O
+shiver	O
+running	O
+through	O
+her	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000138
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The sun 's light was almost gone .
+The	O
+sun	O
+'s	O
+light	O
+was	O
+almost	O
+gone	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000139
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = An unseasonal chill bled from the shadows , which now flowed like water across the road .
+An	O
+unseasonal	O
+chill	O
+bled	O
+from	O
+the	O
+shadows	O
+,	O
+which	O
+now	O
+flowed	O
+like	O
+water	O
+across	O
+the	O
+road	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000140
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Here it comes , then , ''
+``	O
+Here	O
+it	O
+comes	O
+,	O
+then	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000141
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the girl grated softly , in a voice that was n't her own .
+the	O
+girl	O
+grated	O
+softly	O
+,	O
+in	O
+a	O
+voice	O
+that	O
+was	O
+n't	O
+her	O
+own	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000142
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A soft-gloved hand fell on her shoulder .
+A	O
+soft-gloved	O
+hand	O
+fell	O
+on	O
+her	O
+shoulder	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000143
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She ducked down , cowering .
+She	O
+ducked	O
+down	O
+,	O
+cowering	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000144
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Easy , girl , ''
+``	O
+Easy	O
+,	O
+girl	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000145
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said a man 's voice .
+said	O
+a	O
+man	O
+'s	O
+voice	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000146
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's over .
+``	O
+It	O
+'s	O
+over	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000147
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nothing to be done for her now . ''
+Nothing	O
+to	O
+be	O
+done	O
+for	O
+her	O
+now	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000148
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The fishergirl looked up .
+The	O
+fishergirl	O
+looked	O
+up	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000149
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A man swathed in black leaned over her , his face obscured beneath a hood 's shadow .
+A	O
+man	O
+swathed	O
+in	O
+black	O
+leaned	O
+over	O
+her	O
+,	O
+his	O
+face	O
+obscured	O
+beneath	O
+a	O
+hood	O
+'s	O
+shadow	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000150
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But he hit her , ''
+``	O
+But	O
+he	O
+hit	O
+her	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000151
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the girl said , in a child 's voice .
+the	O
+girl	O
+said	O
+,	O
+in	O
+a	O
+child	O
+'s	O
+voice	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000152
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And we have nets to tie , me and Dadda -- ''
+``	O
+And	O
+we	O
+have	O
+nets	O
+to	O
+tie	O
+,	O
+me	O
+and	O
+Dadda	B-CHARACTER
+--	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000153
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Let 's get you on your feet , ''
+``	O
+Let	O
+'s	O
+get	O
+you	O
+on	O
+your	O
+feet	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000154
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the man said , moving his long-fingered hands down under her arms .
+the	O
+man	O
+said	O
+,	O
+moving	O
+his	O
+long-fingered	O
+hands	O
+down	O
+under	O
+her	O
+arms	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000155
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He straightened , lifting her effortlessly .
+He	O
+straightened	O
+,	O
+lifting	O
+her	O
+effortlessly	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000156
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her sandalled feet dangled in the air before he set her down .
+Her	O
+sandalled	O
+feet	O
+dangled	O
+in	O
+the	O
+air	O
+before	O
+he	O
+set	O
+her	O
+down	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000157
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now she saw a second man , shorter , also clothed in black .
+Now	O
+she	O
+saw	O
+a	O
+second	O
+man	O
+,	O
+shorter	O
+,	O
+also	O
+clothed	O
+in	O
+black	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000158
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This one stood on the road and was turned away , his gaze in the direction the soldiers had gone .
+This	O
+one	O
+stood	O
+on	O
+the	O
+road	O
+and	O
+was	O
+turned	O
+away	O
+,	O
+his	O
+gaze	O
+in	O
+the	O
+direction	O
+the	O
+soldiers	O
+had	O
+gone	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000159
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He spoke , his voice reed-thin .
+He	O
+spoke	O
+,	O
+his	O
+voice	O
+reed-thin	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000160
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Was n't much of a life , ''
+``	O
+Was	O
+n't	O
+much	O
+of	O
+a	O
+life	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000161
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said , not turning to face her .
+he	O
+said	O
+,	O
+not	O
+turning	O
+to	O
+face	O
+her	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000162
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A minor talent , long since dried up of the Gift .
+``	O
+A	O
+minor	O
+talent	O
+,	O
+long	O
+since	O
+dried	O
+up	O
+of	O
+the	O
+Gift	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000163
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Oh , she might have managed one more , but we 'll never know , will we ? ''
+Oh	O
+,	O
+she	O
+might	O
+have	O
+managed	O
+one	O
+more	O
+,	O
+but	O
+we	O
+'ll	O
+never	O
+know	O
+,	O
+will	O
+we	O
+?	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000164
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The fishergirl stumbled over to Rigga 's bag and picked up a candle .
+The	O
+fishergirl	O
+stumbled	O
+over	O
+to	O
+Rigga	B-CHARACTER
+'s	O
+bag	O
+and	O
+picked	O
+up	O
+a	O
+candle	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000165
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She straightened , her eyes suddenly hard , then deliberately spat on to the road .
+She	O
+straightened	O
+,	O
+her	O
+eyes	O
+suddenly	O
+hard	O
+,	O
+then	O
+deliberately	O
+spat	O
+on	O
+to	O
+the	O
+road	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000166
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The shorter man 's head snapped towards her .
+The	O
+shorter	O
+man	O
+'s	O
+head	O
+snapped	O
+towards	O
+her	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000167
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Within the hood it seemed the shadows played alone .
+Within	O
+the	O
+hood	O
+it	O
+seemed	O
+the	O
+shadows	O
+played	O
+alone	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000168
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The girl shrank back a step .
+The	O
+girl	O
+shrank	O
+back	O
+a	O
+step	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000169
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It was a good life , ''
+``	O
+It	O
+was	O
+a	O
+good	O
+life	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000170
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she whispered .
+she	O
+whispered	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000171
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` She had these candles , you see .
+``	O
+She	O
+had	O
+these	O
+candles	O
+,	O
+you	O
+see	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000172
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Five of them .
+Five	O
+of	O
+them	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000173
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Five for -- ''
+Five	O
+for	O
+--	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000174
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Necromancy , ''
+``	O
+Necromancy	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000175
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the short man cut in .
+the	O
+short	O
+man	O
+cut	O
+in	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000176
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The taller man , still at her side , said softly , `` I see them , child .
+The	O
+taller	O
+man	O
+,	O
+still	O
+at	O
+her	O
+side	O
+,	O
+said	O
+softly	O
+,	O
+``	O
+I	O
+see	O
+them	O
+,	O
+child	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000177
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I understand what they mean . ''
+I	O
+understand	O
+what	O
+they	O
+mean	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000178
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The other man snorted .
+The	O
+other	O
+man	O
+snorted	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000179
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The witch harboured five frail , weak souls .
+``	O
+The	O
+witch	O
+harboured	O
+five	O
+frail	O
+,	O
+weak	O
+souls	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000180
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nothing grand . ''
+Nothing	O
+grand	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000181
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He cocked his head .
+He	O
+cocked	O
+his	O
+head	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000182
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I can hear them now .
+``	O
+I	O
+can	O
+hear	O
+them	O
+now	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000183
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Calling for her . ''
+Calling	O
+for	O
+her	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000184
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tears filled the girl 's eyes .
+Tears	O
+filled	O
+the	O
+girl	O
+'s	O
+eyes	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000185
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A wordless anguish seemed to well up from that black stone in her mind .
+A	O
+wordless	O
+anguish	O
+seemed	O
+to	O
+well	O
+up	O
+from	O
+that	O
+black	O
+stone	O
+in	O
+her	O
+mind	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000186
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She wiped her cheeks .
+She	O
+wiped	O
+her	O
+cheeks	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000187
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Where did you come from ? ''
+``	O
+Where	O
+did	O
+you	O
+come	O
+from	O
+?	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000188
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she asked abruptly .
+she	O
+asked	O
+abruptly	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000189
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We did n't see you on the road . ''
+``	O
+We	O
+did	O
+n't	O
+see	O
+you	O
+on	O
+the	O
+road	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000190
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The man beside her half turned to the gravel track .
+The	O
+man	O
+beside	O
+her	O
+half	O
+turned	O
+to	O
+the	O
+gravel	O
+track	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000191
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` On the other side , ''
+``	O
+On	O
+the	O
+other	O
+side	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000192
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said , a smile in his tone .
+he	O
+said	O
+,	O
+a	O
+smile	O
+in	O
+his	O
+tone	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000193
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Waiting , just like you . ''
+``	O
+Waiting	O
+,	O
+just	O
+like	O
+you	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000194
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The other giggled .
+The	O
+other	O
+giggled	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000195
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` On the other side indeed . ''
+``	O
+On	O
+the	O
+other	O
+side	O
+indeed	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000196
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He faced down the road again and raised his arms .
+He	O
+faced	O
+down	O
+the	O
+road	O
+again	O
+and	O
+raised	O
+his	O
+arms	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000197
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The girl drew in a sharp breath as darkness descended .
+The	O
+girl	O
+drew	O
+in	O
+a	O
+sharp	O
+breath	O
+as	O
+darkness	O
+descended	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000198
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A loud , tearing sound filled the air for a second , then the darkness dissipated and the girl 's eyes widened .
+A	O
+loud	O
+,	O
+tearing	O
+sound	O
+filled	O
+the	O
+air	O
+for	O
+a	O
+second	O
+,	O
+then	O
+the	O
+darkness	O
+dissipated	O
+and	O
+the	O
+girl	O
+'s	O
+eyes	O
+widened	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000199
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Seven massive Hounds now sat around the man in the road .
+Seven	O
+massive	O
+Hounds	O
+now	O
+sat	O
+around	O
+the	O
+man	O
+in	O
+the	O
+road	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000200
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The eyes of these beasts glowed yellow , and all were turned in the same direction as the man himself .
+The	O
+eyes	O
+of	O
+these	O
+beasts	O
+glowed	O
+yellow	O
+,	O
+and	O
+all	O
+were	O
+turned	O
+in	O
+the	O
+same	O
+direction	O
+as	O
+the	O
+man	O
+himself	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000201
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She heard him hiss , `` Eager , are we ?
+She	O
+heard	O
+him	O
+hiss	O
+,	O
+``	O
+Eager	O
+,	O
+are	O
+we	O
+?	O
+
+# id = conivel-gardens-of-the-moon-000202
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then go ! ''
+Then	O
+go	O
+!	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000203
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Silently , the Hounds bolted down the road .
+Silently	O
+,	O
+the	O
+Hounds	O
+bolted	O
+down	O
+the	O
+road	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000204
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Their master turned and said to the man beside her , `` Something to gnaw on Laseen 's mind . ''
+Their	O
+master	O
+turned	O
+and	O
+said	O
+to	O
+the	O
+man	O
+beside	O
+her	O
+,	O
+``	O
+Something	O
+to	O
+gnaw	O
+on	O
+Laseen	B-CHARACTER
+'s	O
+mind	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000205
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He giggled again .
+He	O
+giggled	O
+again	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000206
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Must you complicate things ? ''
+``	O
+Must	O
+you	O
+complicate	O
+things	O
+?	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000207
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the other answered wearily .
+the	O
+other	O
+answered	O
+wearily	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000208
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The short man stiffened .
+The	O
+short	O
+man	O
+stiffened	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000209
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They are within sight of the column . ''
+``	O
+They	O
+are	O
+within	O
+sight	O
+of	O
+the	O
+column	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000210
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He cocked his head .
+He	O
+cocked	O
+his	O
+head	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000211
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = From up the road came the scream of horses .
+From	O
+up	O
+the	O
+road	O
+came	O
+the	O
+scream	O
+of	O
+horses	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000212
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He sighed .
+He	O
+sighed	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000213
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 've reached a decision , Cotillion ? ''
+``	O
+You	O
+'ve	O
+reached	O
+a	O
+decision	O
+,	O
+Cotillion	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000214
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The other grunted amusedly .
+The	O
+other	O
+grunted	O
+amusedly	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000215
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Using my name , Ammanas , means you 've just decided for me .
+``	O
+Using	O
+my	O
+name	O
+,	O
+Ammanas	B-CHARACTER
+,	O
+means	O
+you	O
+'ve	O
+just	O
+decided	O
+for	O
+me	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000216
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We can hardly leave her here now , can we ? ''
+We	O
+can	O
+hardly	O
+leave	O
+her	O
+here	O
+now	O
+,	O
+can	O
+we	O
+?	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000217
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Of course we can , old friend .
+``	O
+Of	O
+course	O
+we	O
+can	O
+,	O
+old	O
+friend	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000218
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Just not breathing . ''
+Just	O
+not	O
+breathing	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000219
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cotillion looked down on the girl .
+Cotillion	B-CHARACTER
+looked	O
+down	O
+on	O
+the	O
+girl	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000220
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , ''
+``	O
+No	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000221
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said quietly , `` she 'll do . ''
+he	O
+said	O
+quietly	O
+,	O
+``	O
+she	O
+'ll	O
+do	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000222
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The fishergirl bit her lip .
+The	O
+fishergirl	O
+bit	O
+her	O
+lip	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000223
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Still clutching Rigga 's candle , she took another step back , her wide eyes darting from one man to the other .
+Still	O
+clutching	O
+Rigga	B-CHARACTER
+'s	O
+candle	O
+,	O
+she	O
+took	O
+another	O
+step	O
+back	O
+,	O
+her	O
+wide	O
+eyes	O
+darting	O
+from	O
+one	O
+man	O
+to	O
+the	O
+other	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000224
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Pity , ''
+``	O
+Pity	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000225
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ammanas said .
+Ammanas	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000226
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cotillion seemed to nod , then he cleared his throat and said , `` It 'll take time . ''
+Cotillion	B-CHARACTER
+seemed	O
+to	O
+nod	O
+,	O
+then	O
+he	O
+cleared	O
+his	O
+throat	O
+and	O
+said	O
+,	O
+``	O
+It	O
+'ll	O
+take	O
+time	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000227
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = An amused note entered Ammanas 's reply .
+An	O
+amused	O
+note	O
+entered	O
+Ammanas	B-CHARACTER
+'s	O
+reply	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000228
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And have we time ?
+``	O
+And	O
+have	O
+we	O
+time	O
+?	O
+
+# id = conivel-gardens-of-the-moon-000229
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = True vengeance needs the slow , careful stalking of the victim .
+True	O
+vengeance	O
+needs	O
+the	O
+slow	O
+,	O
+careful	O
+stalking	O
+of	O
+the	O
+victim	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000230
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Have you forgotten the pain she once delivered us ?
+Have	O
+you	O
+forgotten	O
+the	O
+pain	O
+she	O
+once	O
+delivered	O
+us	O
+?	O
+
+# id = conivel-gardens-of-the-moon-000231
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laseen 's back is against the wall already .
+Laseen	B-CHARACTER
+'s	O
+back	O
+is	O
+against	O
+the	O
+wall	O
+already	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000232
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She might fall without our help .
+She	O
+might	O
+fall	O
+without	O
+our	O
+help	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000233
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Where would be the satisfaction in that ? ''
+Where	O
+would	O
+be	O
+the	O
+satisfaction	O
+in	O
+that	O
+?	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000234
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cotillion 's response was cool and dry .
+Cotillion	B-CHARACTER
+'s	O
+response	O
+was	O
+cool	O
+and	O
+dry	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000235
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 've always underestimated the Empress .
+``	O
+You	O
+'ve	O
+always	O
+underestimated	O
+the	O
+Empress	B-CHARACTER
+.	O
+
+# id = conivel-gardens-of-the-moon-000236
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Hence our present circumstances ... No . ''
+Hence	O
+our	O
+present	O
+circumstances	O
+...	O
+No	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000237
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He gestured at the fishergirl .
+He	O
+gestured	O
+at	O
+the	O
+fishergirl	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000238
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We 'll need this one .
+``	O
+We	O
+'ll	O
+need	O
+this	O
+one	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000239
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laseen 's raised the ire of Moon 's Spawn , and that 's a hornet 's nest if ever there was one .
+Laseen	B-CHARACTER
+'s	O
+raised	O
+the	O
+ire	O
+of	O
+Moon	O
+'s	O
+Spawn	O
+,	O
+and	O
+that	O
+'s	O
+a	O
+hornet	O
+'s	O
+nest	O
+if	O
+ever	O
+there	O
+was	O
+one	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000240
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The timing is perfect . ''
+The	O
+timing	O
+is	O
+perfect	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000241
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Faintly , above the screaming horses , came the shrieks of men and women , a sound that pierced the girl 's heart .
+Faintly	O
+,	O
+above	O
+the	O
+screaming	O
+horses	O
+,	O
+came	O
+the	O
+shrieks	O
+of	O
+men	O
+and	O
+women	O
+,	O
+a	O
+sound	O
+that	O
+pierced	O
+the	O
+girl	O
+'s	O
+heart	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000242
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her eyes darted to Rigga 's motionless form on the roadside , then back to Ammanas , who now approached her .
+Her	O
+eyes	O
+darted	O
+to	O
+Rigga	B-CHARACTER
+'s	O
+motionless	O
+form	O
+on	O
+the	O
+roadside	O
+,	O
+then	O
+back	O
+to	O
+Ammanas	B-CHARACTER
+,	O
+who	O
+now	O
+approached	O
+her	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000243
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She thought to run but her legs had weakened to a helpless trembling .
+She	O
+thought	O
+to	O
+run	O
+but	O
+her	O
+legs	O
+had	O
+weakened	O
+to	O
+a	O
+helpless	O
+trembling	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000244
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He came close and seemed to study her , even though the shadows within his hood remained impenetrable .
+He	O
+came	O
+close	O
+and	O
+seemed	O
+to	O
+study	O
+her	O
+,	O
+even	O
+though	O
+the	O
+shadows	O
+within	O
+his	O
+hood	O
+remained	O
+impenetrable	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000245
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A fishergirl ? ''
+``	O
+A	O
+fishergirl	O
+?	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000246
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he asked , in a kindly tone .
+he	O
+asked	O
+,	O
+in	O
+a	O
+kindly	O
+tone	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000247
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She nodded .
+She	O
+nodded	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000248
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Have you a name ? ''
+``	O
+Have	O
+you	O
+a	O
+name	O
+?	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000249
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Enough ! ''
+``	O
+Enough	O
+!	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000250
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cotillion growled .
+Cotillion	B-CHARACTER
+growled	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000251
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` She 's not some mouse under your paw , Ammanas .
+``	O
+She	O
+'s	O
+not	O
+some	O
+mouse	O
+under	O
+your	O
+paw	O
+,	O
+Ammanas	B-CHARACTER
+.	O
+
+# id = conivel-gardens-of-the-moon-000252
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Besides , I 've chosen her and I will choose her name as well . ''
+Besides	O
+,	O
+I	O
+'ve	O
+chosen	O
+her	O
+and	O
+I	O
+will	O
+choose	O
+her	O
+name	O
+as	O
+well	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000253
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ammanas stepped back .
+Ammanas	B-CHARACTER
+stepped	O
+back	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000254
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Pity , ''
+``	O
+Pity	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000255
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said again .
+he	O
+said	O
+again	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000256
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The girl raised imploring hands .
+The	O
+girl	O
+raised	O
+imploring	O
+hands	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000257
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Please , ''
+``	O
+Please	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000258
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she begged Cotillion , `` I 've done nothing !
+she	O
+begged	O
+Cotillion	B-CHARACTER
+,	O
+``	O
+I	O
+'ve	O
+done	O
+nothing	O
+!	O
+
+# id = conivel-gardens-of-the-moon-000259
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My father 's a poor man , but he 'll pay you all he can .
+My	O
+father	O
+'s	O
+a	O
+poor	O
+man	O
+,	O
+but	O
+he	O
+'ll	O
+pay	O
+you	O
+all	O
+he	O
+can	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000260
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He needs me , and the twine -- he 's waiting right now ! ''
+He	O
+needs	O
+me	O
+,	O
+and	O
+the	O
+twine	O
+--	O
+he	O
+'s	O
+waiting	O
+right	O
+now	O
+!	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000261
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She felt herself go wet between her legs and quickly sat down on the ground .
+She	O
+felt	O
+herself	O
+go	O
+wet	O
+between	O
+her	O
+legs	O
+and	O
+quickly	O
+sat	O
+down	O
+on	O
+the	O
+ground	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000262
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 've done nothing ! ''
+``	O
+I	O
+'ve	O
+done	O
+nothing	O
+!	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000263
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Shame rose through her and she put her hands in her lap .
+Shame	O
+rose	O
+through	O
+her	O
+and	O
+she	O
+put	O
+her	O
+hands	O
+in	O
+her	O
+lap	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000264
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Please . ''
+``	O
+Please	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000265
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 've no choice any more , child , ''
+``	O
+I	O
+'ve	O
+no	O
+choice	O
+any	O
+more	O
+,	O
+child	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000266
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cotillion said .
+Cotillion	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000267
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` After all , you know our names . ''
+``	O
+After	O
+all	O
+,	O
+you	O
+know	O
+our	O
+names	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000268
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 've never heard them before ! ''
+``	O
+I	O
+'ve	O
+never	O
+heard	O
+them	O
+before	O
+!	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000269
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the girl cried .
+the	O
+girl	O
+cried	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000270
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The man sighed .
+The	O
+man	O
+sighed	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000271
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` With what 's happening up the road right now , well , you 'd be questioned .
+``	O
+With	O
+what	O
+'s	O
+happening	O
+up	O
+the	O
+road	O
+right	O
+now	O
+,	O
+well	O
+,	O
+you	O
+'d	O
+be	O
+questioned	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000272
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Unpleasantly .
+Unpleasantly	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000273
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There are those who know our names . ''
+There	O
+are	O
+those	O
+who	O
+know	O
+our	O
+names	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000274
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You see , lass , ''
+``	O
+You	O
+see	O
+,	O
+lass	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000275
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ammanas added , suppressing a giggle , `` we 're not supposed to be here .
+Ammanas	B-CHARACTER
+added	O
+,	O
+suppressing	O
+a	O
+giggle	O
+,	O
+``	O
+we	O
+'re	O
+not	O
+supposed	O
+to	O
+be	O
+here	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000276
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There are names , and then there are names . ''
+There	O
+are	O
+names	O
+,	O
+and	O
+then	O
+there	O
+are	O
+names	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000277
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He swung to Cotillion and said , in a chilling voice , `` Her father must be dealt with .
+He	O
+swung	O
+to	O
+Cotillion	B-CHARACTER
+and	O
+said	O
+,	O
+in	O
+a	O
+chilling	O
+voice	O
+,	O
+``	O
+Her	O
+father	O
+must	O
+be	O
+dealt	O
+with	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000278
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My Hounds ? ''
+My	O
+Hounds	O
+?	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000279
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , ''
+``	O
+No	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000280
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cotillion said .
+Cotillion	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000281
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He lives . ''
+``	O
+He	O
+lives	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000282
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Then how ? ''
+``	O
+Then	O
+how	O
+?	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000283
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I suspect , ''
+``	O
+I	O
+suspect	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000284
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cotillion said , `` greed will suffice , once the slate is wiped clean . ''
+Cotillion	B-CHARACTER
+said	O
+,	O
+``	O
+greed	O
+will	O
+suffice	O
+,	O
+once	O
+the	O
+slate	O
+is	O
+wiped	O
+clean	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000285
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Sarcasm filled his next words .
+Sarcasm	O
+filled	O
+his	O
+next	O
+words	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000286
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm sure you can manage the sorcery in that , ca n't you ? ''
+``	O
+I	O
+'m	O
+sure	O
+you	O
+can	O
+manage	O
+the	O
+sorcery	O
+in	O
+that	O
+,	O
+ca	O
+n't	O
+you	O
+?	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000287
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ammanas giggled .
+Ammanas	B-CHARACTER
+giggled	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000288
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Beware of shadows bearing gifts . ''
+``	O
+Beware	O
+of	O
+shadows	O
+bearing	O
+gifts	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000289
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cotillion faced the girl again .
+Cotillion	B-CHARACTER
+faced	O
+the	O
+girl	O
+again	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000290
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He lifted his arms out to the sides .
+He	O
+lifted	O
+his	O
+arms	O
+out	O
+to	O
+the	O
+sides	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000291
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The shadows that held his features in darkness now flowed out around his body .
+The	O
+shadows	O
+that	O
+held	O
+his	O
+features	O
+in	O
+darkness	O
+now	O
+flowed	O
+out	O
+around	O
+his	O
+body	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000292
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ammanas spoke , and to the girl his words seemed to come from a great distance .
+Ammanas	B-CHARACTER
+spoke	O
+,	O
+and	O
+to	O
+the	O
+girl	O
+his	O
+words	O
+seemed	O
+to	O
+come	O
+from	O
+a	O
+great	O
+distance	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000293
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` She 's ideal .
+``	O
+She	O
+'s	O
+ideal	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000294
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Empress could never track her down , could never even so much as guess . ''
+The	O
+Empress	B-CHARACTER
+could	O
+never	O
+track	O
+her	O
+down	O
+,	O
+could	O
+never	O
+even	O
+so	O
+much	O
+as	O
+guess	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000295
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He raised his voice .
+He	O
+raised	O
+his	O
+voice	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000296
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's not so bad a thing , lass , to be the pawn of a god . ''
+``	O
+It	O
+'s	O
+not	O
+so	O
+bad	O
+a	O
+thing	O
+,	O
+lass	O
+,	O
+to	O
+be	O
+the	O
+pawn	O
+of	O
+a	O
+god	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000297
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Prod and pull , ''
+``	O
+Prod	O
+and	O
+pull	O
+,	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000298
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the fishergirl said quickly .
+the	O
+fishergirl	O
+said	O
+quickly	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000299
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cotillion hesitated at her strange comment , then he shrugged .
+Cotillion	B-CHARACTER
+hesitated	O
+at	O
+her	O
+strange	O
+comment	O
+,	O
+then	O
+he	O
+shrugged	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000300
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The shadows whirled out to engulf the girl .
+The	O
+shadows	O
+whirled	O
+out	O
+to	O
+engulf	O
+the	O
+girl	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000301
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = With their cold touch her mind fell away , down into darkness .
+With	O
+their	O
+cold	O
+touch	O
+her	O
+mind	O
+fell	O
+away	O
+,	O
+down	O
+into	O
+darkness	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000302
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her last fleeting sensation was of the soft wax of the candle in her right hand , and how it seemed to well up between the fingers of her clenched fist .
+Her	O
+last	O
+fleeting	O
+sensation	O
+was	O
+of	O
+the	O
+soft	O
+wax	O
+of	O
+the	O
+candle	O
+in	O
+her	O
+right	O
+hand	O
+,	O
+and	O
+how	O
+it	O
+seemed	O
+to	O
+well	O
+up	O
+between	O
+the	O
+fingers	O
+of	O
+her	O
+clenched	O
+fist	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000303
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The captain shifted in his saddle and glanced at the woman riding beside him .
+The	O
+captain	O
+shifted	O
+in	O
+his	O
+saddle	O
+and	O
+glanced	O
+at	O
+the	O
+woman	O
+riding	O
+beside	O
+him	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000304
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We 've closed the road on both sides , Adjunct .
+``	O
+We	O
+'ve	O
+closed	O
+the	O
+road	O
+on	O
+both	O
+sides	O
+,	O
+Adjunct	B-CHARACTER
+.	O
+
+# id = conivel-gardens-of-the-moon-000305
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Moved the local traffic inland .
+Moved	O
+the	O
+local	O
+traffic	O
+inland	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000306
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So far , no word 's leaked . ''
+So	O
+far	O
+,	O
+no	O
+word	O
+'s	O
+leaked	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000307
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He wiped sweat from his brow and winced .
+He	O
+wiped	O
+sweat	O
+from	O
+his	O
+brow	O
+and	O
+winced	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000308
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The hot woollen cap beneath his helm had rubbed his forehead raw .
+The	O
+hot	O
+woollen	O
+cap	O
+beneath	O
+his	O
+helm	O
+had	O
+rubbed	O
+his	O
+forehead	O
+raw	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000309
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Something wrong , Captain ? ''
+``	O
+Something	O
+wrong	O
+,	O
+Captain	O
+?	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000310
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He shook his head , squinting up the road .
+He	O
+shook	O
+his	O
+head	O
+,	O
+squinting	O
+up	O
+the	O
+road	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000311
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Helmet 's loose .
+``	O
+Helmet	O
+'s	O
+loose	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000312
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Had more hair the last time I wore it . ''
+Had	O
+more	O
+hair	O
+the	O
+last	O
+time	O
+I	O
+wore	O
+it	O
+.	O
+''	O
+
+# id = conivel-gardens-of-the-moon-000313
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Adjunct to the Empress did not reply .
+The	O
+Adjunct	B-CHARACTER
+to	O
+the	O
+Empress	B-CHARACTER
+did	O
+not	O
+reply	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000314
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The mid-morning sun made the road 's white , dusty surface almost blinding .
+The	O
+mid-morning	O
+sun	O
+made	O
+the	O
+road	O
+'s	O
+white	O
+,	O
+dusty	O
+surface	O
+almost	O
+blinding	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000315
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The captain felt sweat running down his body , and the mail of his helm 's lobster tail kept nipping the hairs on his neck .
+The	O
+captain	O
+felt	O
+sweat	O
+running	O
+down	O
+his	O
+body	O
+,	O
+and	O
+the	O
+mail	O
+of	O
+his	O
+helm	O
+'s	O
+lobster	O
+tail	O
+kept	O
+nipping	O
+the	O
+hairs	O
+on	O
+his	O
+neck	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000316
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Already his lower back ached .
+Already	O
+his	O
+lower	O
+back	O
+ached	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000317
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It had been years since he 'd last ridden a horse , and the roll was slow in coming .
+It	O
+had	O
+been	O
+years	O
+since	O
+he	O
+'d	O
+last	O
+ridden	O
+a	O
+horse	O
+,	O
+and	O
+the	O
+roll	O
+was	O
+slow	O
+in	O
+coming	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000318
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = With every saddle-bounce he felt vertebrae crunch .
+With	O
+every	O
+saddle-bounce	O
+he	O
+felt	O
+vertebrae	O
+crunch	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000319
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It had been a long time since somebody 's title had been enough to straighten him up .
+It	O
+had	O
+been	O
+a	O
+long	O
+time	O
+since	O
+somebody	O
+'s	O
+title	O
+had	O
+been	O
+enough	O
+to	O
+straighten	O
+him	O
+up	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000320
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But this was the Adjunct to the Empress , Laseen 's personal servant , an extension of her Imperial will .
+But	O
+this	O
+was	O
+the	O
+Adjunct	B-CHARACTER
+to	O
+the	O
+Empress	B-CHARACTER
+,	O
+Laseen	B-CHARACTER
+'s	O
+personal	O
+servant	O
+,	O
+an	O
+extension	O
+of	O
+her	O
+Imperial	O
+will	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000321
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The last thing the captain wanted was to show his misery to this young , dangerous woman .
+The	O
+last	O
+thing	O
+the	O
+captain	O
+wanted	O
+was	O
+to	O
+show	O
+his	O
+misery	O
+to	O
+this	O
+young	O
+,	O
+dangerous	O
+woman	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000322
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Up ahead the road began its long , winding ascent .
+Up	O
+ahead	O
+the	O
+road	O
+began	O
+its	O
+long	O
+,	O
+winding	O
+ascent	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000323
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A salty wind blew from their left , whistling through the newly budding trees lining that side of the road .
+A	O
+salty	O
+wind	O
+blew	O
+from	O
+their	O
+left	O
+,	O
+whistling	O
+through	O
+the	O
+newly	O
+budding	O
+trees	O
+lining	O
+that	O
+side	O
+of	O
+the	O
+road	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000324
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = By mid-afternoon , that wind would breathe hot as a baker 's oven , carrying with it the stench of the mudflats .
+By	O
+mid-afternoon	O
+,	O
+that	O
+wind	O
+would	O
+breathe	O
+hot	O
+as	O
+a	O
+baker	O
+'s	O
+oven	O
+,	O
+carrying	O
+with	O
+it	O
+the	O
+stench	O
+of	O
+the	O
+mudflats	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000325
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And the sun 's heat would bring something else as well .
+And	O
+the	O
+sun	O
+'s	O
+heat	O
+would	O
+bring	O
+something	O
+else	O
+as	O
+well	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000326
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The captain hoped to be back in Kan by then .
+The	O
+captain	O
+hoped	O
+to	O
+be	O
+back	O
+in	O
+Kan	B-LOCATION
+by	O
+then	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000327
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He tried not to think about the place they rode towards .
+He	O
+tried	O
+not	O
+to	O
+think	O
+about	O
+the	O
+place	O
+they	O
+rode	O
+towards	O
+.	O
+
+# id = conivel-gardens-of-the-moon-000328
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Leave that to the Adjunct .
+Leave	O
+that	O
+to	O
+the	O
+Adjunct	B-CHARACTER
+.	O
+
+# id = conivel-gardens-of-the-moon-000329
+# source = Conivel corrected OWTO literary NER
+# book = Gardens of the Moon
+# source_file = GardensOfTheMoon.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In his years of service to the Empire , he 'd seen enough to know when to shut everything down inside his skull .
+In	O
+his	O
+years	O
+of	O
+service	O
+to	O
+the	O
+Empire	O
+,	O
+he	O
+'d	O
+seen	O
+enough	O
+to	O
+know	O
+when	O
+to	O
+shut	O
+everything	O
+down	O
+inside	O
+his	O
+skull	O
+.	O
+

@@ -1,0 +1,5888 @@
+# id = conivel-the-black-company-000001
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We must blame ourselves for misinterpreting them .
+We	O
+must	O
+blame	O
+ourselves	O
+for	O
+misinterpreting	O
+them	O
+.	O
+
+# id = conivel-the-black-company-000002
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One-Eye 's handicap in no way impairs his marvelous hindsight .
+One-Eye	B-CHARACTER
+'s	O
+handicap	O
+in	O
+no	O
+way	O
+impairs	O
+his	O
+marvelous	O
+hindsight	O
+.	O
+
+# id = conivel-the-black-company-000003
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Lightning from a clear sky smote the Necropolitan Hill .
+Lightning	O
+from	O
+a	O
+clear	O
+sky	O
+smote	O
+the	O
+Necropolitan	B-LOCATION
+Hill	I-LOCATION
+.	O
+
+# id = conivel-the-black-company-000004
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One bolt struck the bronze plaque sealing the tomb of the forvalaka , obliterating half the spell of confinement .
+One	O
+bolt	O
+struck	O
+the	O
+bronze	O
+plaque	O
+sealing	O
+the	O
+tomb	O
+of	O
+the	O
+forvalaka	O
+,	O
+obliterating	O
+half	O
+the	O
+spell	O
+of	O
+confinement	O
+.	O
+
+# id = conivel-the-black-company-000005
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It rained stones .
+It	O
+rained	O
+stones	O
+.	O
+
+# id = conivel-the-black-company-000006
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Statues bled .
+Statues	O
+bled	O
+.	O
+
+# id = conivel-the-black-company-000007
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Priests at several temples reported sacrificial victims without hearts or livers .
+Priests	O
+at	O
+several	O
+temples	O
+reported	O
+sacrificial	O
+victims	O
+without	O
+hearts	O
+or	O
+livers	O
+.	O
+
+# id = conivel-the-black-company-000008
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One victim escaped after its bowels were opened and was not recaptured .
+One	O
+victim	O
+escaped	O
+after	O
+its	O
+bowels	O
+were	O
+opened	O
+and	O
+was	O
+not	O
+recaptured	O
+.	O
+
+# id = conivel-the-black-company-000009
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At the Fork Barracks , where the Urban Cohorts were billeted , the image of Teux turned completely around .
+At	O
+the	O
+Fork	B-LOCATION
+Barracks	I-LOCATION
+,	O
+where	O
+the	O
+Urban	O
+Cohorts	O
+were	O
+billeted	O
+,	O
+the	O
+image	O
+of	O
+Teux	O
+turned	O
+completely	O
+around	O
+.	O
+
+# id = conivel-the-black-company-000010
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For nine evenings running , ten black vultures circled the Bastion .
+For	O
+nine	O
+evenings	O
+running	O
+,	O
+ten	O
+black	O
+vultures	O
+circled	O
+the	O
+Bastion	B-LOCATION
+.	O
+
+# id = conivel-the-black-company-000011
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then one evicted , the eagle which lived atop the Paper Tower .
+Then	O
+one	O
+evicted	O
+,	O
+the	O
+eagle	O
+which	O
+lived	O
+atop	O
+the	O
+Paper	B-LOCATION
+Tower	I-LOCATION
+.	O
+
+# id = conivel-the-black-company-000012
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Astrologers refused readings , fearing for their lives .
+Astrologers	O
+refused	O
+readings	O
+,	O
+fearing	O
+for	O
+their	O
+lives	O
+.	O
+
+# id = conivel-the-black-company-000013
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A mad soothsayer wandered the streets proclaiming the imminent end of the world .
+A	O
+mad	O
+soothsayer	O
+wandered	O
+the	O
+streets	O
+proclaiming	O
+the	O
+imminent	O
+end	O
+of	O
+the	O
+world	O
+.	O
+
+# id = conivel-the-black-company-000014
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At the Bastion , the eagle not only ; departed , the ivy on the outer ramparts withered and gave way to a creeper which appeared black in all but the most intense sunlight .
+At	O
+the	O
+Bastion	B-LOCATION
+,	O
+the	O
+eagle	O
+not	O
+only	O
+;	O
+departed	O
+,	O
+the	O
+ivy	O
+on	O
+the	O
+outer	O
+ramparts	O
+withered	O
+and	O
+gave	O
+way	O
+to	O
+a	O
+creeper	O
+which	O
+appeared	O
+black	O
+in	O
+all	O
+but	O
+the	O
+most	O
+intense	O
+sunlight	O
+.	O
+
+# id = conivel-the-black-company-000015
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But that happens every year .
+But	O
+that	O
+happens	O
+every	O
+year	O
+.	O
+
+# id = conivel-the-black-company-000016
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Fools can make an omen of anything in retrospect .
+Fools	O
+can	O
+make	O
+an	O
+omen	O
+of	O
+anything	O
+in	O
+retrospect	O
+.	O
+
+# id = conivel-the-black-company-000017
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We should have been better prepared .
+We	O
+should	O
+have	O
+been	O
+better	O
+prepared	O
+.	O
+
+# id = conivel-the-black-company-000018
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We did have four modestly accomplished wizards to stand sentinel against predatory tomorrows-though never by any means as sophisticated as divining through sheeps ' entrails .
+We	O
+did	O
+have	O
+four	O
+modestly	O
+accomplished	O
+wizards	O
+to	O
+stand	O
+sentinel	O
+against	O
+predatory	O
+tomorrows-though	O
+never	O
+by	O
+any	O
+means	O
+as	O
+sophisticated	O
+as	O
+divining	O
+through	O
+sheeps	O
+'	O
+entrails	O
+.	O
+
+# id = conivel-the-black-company-000019
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Still , the best augurs are those who divine from the portents of the past .
+Still	O
+,	O
+the	O
+best	O
+augurs	O
+are	O
+those	O
+who	O
+divine	O
+from	O
+the	O
+portents	O
+of	O
+the	O
+past	O
+.	O
+
+# id = conivel-the-black-company-000020
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They compile phenomenal records .
+They	O
+compile	O
+phenomenal	O
+records	O
+.	O
+
+# id = conivel-the-black-company-000021
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Beryl totters perpetually , ready to stumble over a precipice into chaos .
+Beryl	B-LOCATION
+totters	O
+perpetually	O
+,	O
+ready	O
+to	O
+stumble	O
+over	O
+a	O
+precipice	O
+into	O
+chaos	O
+.	O
+
+# id = conivel-the-black-company-000022
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Queen of the Jewel Cities was old and decadent and mad , filled with the stench of degeneracy and moral dryrot .
+The	O
+Queen	B-LOCATION
+of	I-LOCATION
+the	I-LOCATION
+Jewel	I-LOCATION
+Cities	I-LOCATION
+was	O
+old	O
+and	O
+decadent	O
+and	O
+mad	O
+,	O
+filled	O
+with	O
+the	O
+stench	O
+of	O
+degeneracy	O
+and	O
+moral	O
+dryrot	O
+.	O
+
+# id = conivel-the-black-company-000023
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Only a fool would be surprised by anything found creeping its night streets .
+Only	O
+a	O
+fool	O
+would	O
+be	O
+surprised	O
+by	O
+anything	O
+found	O
+creeping	O
+its	O
+night	O
+streets	O
+.	O
+
+# id = conivel-the-black-company-000024
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I had every shutter thrown wide , praying for a breath off the harbor , rotting fish and all .
+I	O
+had	O
+every	O
+shutter	O
+thrown	O
+wide	O
+,	O
+praying	O
+for	O
+a	O
+breath	O
+off	O
+the	O
+harbor	O
+,	O
+rotting	O
+fish	O
+and	O
+all	O
+.	O
+
+# id = conivel-the-black-company-000025
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was n't enough breeze to stir a cobweb .
+There	O
+was	O
+n't	O
+enough	O
+breeze	O
+to	O
+stir	O
+a	O
+cobweb	O
+.	O
+
+# id = conivel-the-black-company-000026
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I mopped my face and grimaced at my first patient .
+I	O
+mopped	O
+my	O
+face	O
+and	O
+grimaced	O
+at	O
+my	O
+first	O
+patient	O
+.	O
+
+# id = conivel-the-black-company-000027
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Crabs again , Curly ? ''
+``	O
+Crabs	O
+again	O
+,	O
+Curly	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-the-black-company-000028
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He grinned feebly .
+He	O
+grinned	O
+feebly	O
+.	O
+
+# id = conivel-the-black-company-000029
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His face was pale .
+His	O
+face	O
+was	O
+pale	O
+.	O
+
+# id = conivel-the-black-company-000030
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's my stomach , Croaker , ''
+``	O
+It	O
+'s	O
+my	O
+stomach	O
+,	O
+Croaker	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-the-black-company-000031
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His pate looks like a polished ostrich egg .
+His	O
+pate	O
+looks	O
+like	O
+a	O
+polished	O
+ostrich	O
+egg	O
+.	O
+
+# id = conivel-the-black-company-000032
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Thus the name .
+Thus	O
+the	O
+name	O
+.	O
+
+# id = conivel-the-black-company-000033
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I checked the watch schedule and duty roster .
+I	O
+checked	O
+the	O
+watch	O
+schedule	O
+and	O
+duty	O
+roster	O
+.	O
+
+# id = conivel-the-black-company-000034
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nothing there he would want to avoid .
+Nothing	O
+there	O
+he	O
+would	O
+want	O
+to	O
+avoid	O
+.	O
+
+# id = conivel-the-black-company-000035
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's bad , Croaker .
+``	O
+It	O
+'s	O
+bad	O
+,	O
+Croaker	B-CHARACTER
+.	O
+
+# id = conivel-the-black-company-000036
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Really . ''
+Really	O
+.	O
+''	O
+
+# id = conivel-the-black-company-000037
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Uhm . ''
+``	O
+Uhm	O
+.	O
+''	O
+
+# id = conivel-the-black-company-000038
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I assumed my professional demeanor , sure what it was .
+I	O
+assumed	O
+my	O
+professional	O
+demeanor	O
+,	O
+sure	O
+what	O
+it	O
+was	O
+.	O
+
+# id = conivel-the-black-company-000039
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His skin was clammy , despite the heat .
+His	O
+skin	O
+was	O
+clammy	O
+,	O
+despite	O
+the	O
+heat	O
+.	O
+
+# id = conivel-the-black-company-000040
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Eaten outside the commissary lately , Curly ? ''
+``	O
+Eaten	O
+outside	O
+the	O
+commissary	O
+lately	O
+,	O
+Curly	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-the-black-company-000041
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A fly landed on his head , strutted like a conqueror .
+A	O
+fly	O
+landed	O
+on	O
+his	O
+head	O
+,	O
+strutted	O
+like	O
+a	O
+conqueror	O
+.	O
+
+# id = conivel-the-black-company-000042
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He did n't notice .
+He	O
+did	O
+n't	O
+notice	O
+.	O
+
+# id = conivel-the-black-company-000043
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yeah .
+``	O
+Yeah	O
+.	O
+
+# id = conivel-the-black-company-000044
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Three , four times . ''
+Three	O
+,	O
+four	O
+times	O
+.	O
+''	O
+
+# id = conivel-the-black-company-000045
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Uhm . ''
+``	O
+Uhm	O
+.	O
+''	O
+
+# id = conivel-the-black-company-000046
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I mixed a nasty , milky concoction .
+I	O
+mixed	O
+a	O
+nasty	O
+,	O
+milky	O
+concoction	O
+.	O
+
+# id = conivel-the-black-company-000047
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Drink this .
+``	O
+Drink	O
+this	O
+.	O
+
+# id = conivel-the-black-company-000048
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All of it . ''
+All	O
+of	O
+it	O
+.	O
+''	O
+
+# id = conivel-the-black-company-000049
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His whole face puckered at the first taste .
+His	O
+whole	O
+face	O
+puckered	O
+at	O
+the	O
+first	O
+taste	O
+.	O
+
+# id = conivel-the-black-company-000050
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Look , Croaker , I. ... ''
+``	O
+Look	O
+,	O
+Croaker	B-CHARACTER
+,	O
+I.	O
+...	O
+''	O
+
+# id = conivel-the-black-company-000051
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The smell of the stuff revolted me .
+The	O
+smell	O
+of	O
+the	O
+stuff	O
+revolted	O
+me	O
+.	O
+
+# id = conivel-the-black-company-000052
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Drink , friend .
+``	O
+Drink	O
+,	O
+friend	O
+.	O
+
+# id = conivel-the-black-company-000053
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Two men died before I came up with that .
+Two	O
+men	O
+died	O
+before	O
+I	O
+came	O
+up	O
+with	O
+that	O
+.	O
+
+# id = conivel-the-black-company-000054
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then Pokey took it and lived . ''
+Then	O
+Pokey	B-CHARACTER
+took	O
+it	O
+and	O
+lived	O
+.	O
+''	O
+
+# id = conivel-the-black-company-000055
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Word was out about that .
+Word	O
+was	O
+out	O
+about	O
+that	O
+.	O
+
+# id = conivel-the-black-company-000056
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He drank .
+He	O
+drank	O
+.	O
+
+# id = conivel-the-black-company-000057
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You mean it 's poison ?
+``	O
+You	O
+mean	O
+it	O
+'s	O
+poison	O
+?	O
+
+# id = conivel-the-black-company-000058
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The damned Blues slipped me something ? ''
+The	O
+damned	O
+Blues	O
+slipped	O
+me	O
+something	O
+?	O
+''	O
+
+# id = conivel-the-black-company-000059
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Take it easy .
+``	O
+Take	O
+it	O
+easy	O
+.	O
+
+# id = conivel-the-black-company-000060
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You 'll be okay .
+You	O
+'ll	O
+be	O
+okay	O
+.	O
+
+# id = conivel-the-black-company-000061
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Yeah .
+Yeah	O
+.	O
+
+# id = conivel-the-black-company-000062
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It looks that way . ''
+It	O
+looks	O
+that	O
+way	O
+.	O
+''	O
+
+# id = conivel-the-black-company-000063
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'd had to open up Walleye and Wild Bruce to learn the truth .
+I	O
+'d	O
+had	O
+to	O
+open	O
+up	O
+Walleye	B-CHARACTER
+and	O
+Wild	B-CHARACTER
+Bruce	I-CHARACTER
+to	O
+learn	O
+the	O
+truth	O
+.	O
+
+# id = conivel-the-black-company-000064
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was a subtle poison .
+It	O
+was	O
+a	O
+subtle	O
+poison	O
+.	O
+
+# id = conivel-the-black-company-000065
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Get over there on the cot where the breeze will hit you-if the son of a bitch ever comes up .
+``	O
+Get	O
+over	O
+there	O
+on	O
+the	O
+cot	O
+where	O
+the	O
+breeze	O
+will	O
+hit	O
+you-if	O
+the	O
+son	O
+of	O
+a	O
+bitch	O
+ever	O
+comes	O
+up	O
+.	O
+
+# id = conivel-the-black-company-000066
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And lie still .
+And	O
+lie	O
+still	O
+.	O
+
+# id = conivel-the-black-company-000067
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Let the stuff work . ''
+Let	O
+the	O
+stuff	O
+work	O
+.	O
+''	O
+
+# id = conivel-the-black-company-000068
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I settled him down , `` Tell me what you ate outside . ''
+I	O
+settled	O
+him	O
+down	O
+,	O
+``	O
+Tell	O
+me	O
+what	O
+you	O
+ate	O
+outside	O
+.	O
+''	O
+
+# id = conivel-the-black-company-000069
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I collected a pen and a chart tacked onto a board .
+I	O
+collected	O
+a	O
+pen	O
+and	O
+a	O
+chart	O
+tacked	O
+onto	O
+a	O
+board	O
+.	O
+
+# id = conivel-the-black-company-000070
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I had done the same with Pokey , and with Wild Bruce before he died , and had had Walleye 's platoon sergeant backtrack his movements .
+I	O
+had	O
+done	O
+the	O
+same	O
+with	O
+Pokey	B-CHARACTER
+,	O
+and	O
+with	O
+Wild	B-CHARACTER
+Bruce	I-CHARACTER
+before	O
+he	O
+died	O
+,	O
+and	O
+had	O
+had	O
+Walleye	B-CHARACTER
+'s	O
+platoon	O
+sergeant	O
+backtrack	O
+his	O
+movements	O
+.	O
+
+# id = conivel-the-black-company-000071
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was sure the poison had come from one of several nearby dives frequented by the Bastion garrison .
+I	O
+was	O
+sure	O
+the	O
+poison	O
+had	O
+come	O
+from	O
+one	O
+of	O
+several	O
+nearby	O
+dives	O
+frequented	O
+by	O
+the	O
+Bastion	B-LOCATION
+garrison	O
+.	O
+
+# id = conivel-the-black-company-000072
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Curly produced one across-the-board match .
+Curly	B-CHARACTER
+produced	O
+one	O
+across-the-board	O
+match	O
+.	O
+
+# id = conivel-the-black-company-000073
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Bingo !
+``	O
+Bingo	O
+!	O
+
+# id = conivel-the-black-company-000074
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We 've got the bastards now . ''
+We	O
+'ve	O
+got	O
+the	O
+bastards	O
+now	O
+.	O
+''	O
+
+# id = conivel-the-black-company-000075
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Who ? ''
+``	O
+Who	O
+?	O
+''	O
+
+# id = conivel-the-black-company-000076
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was ready to go settle up himself .
+He	O
+was	O
+ready	O
+to	O
+go	O
+settle	O
+up	O
+himself	O
+.	O
+
+# id = conivel-the-black-company-000077
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You rest .
+``	O
+You	O
+rest	O
+.	O
+
+# id = conivel-the-black-company-000078
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'll see the Captain . ''
+I	O
+'ll	O
+see	O
+the	O
+Captain	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-black-company-000079
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I patted his shoulder , checked the next room .
+I	O
+patted	O
+his	O
+shoulder	O
+,	O
+checked	O
+the	O
+next	O
+room	O
+.	O
+
+# id = conivel-the-black-company-000080
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Curly was it for morning sick call .
+Curly	B-CHARACTER
+was	O
+it	O
+for	O
+morning	O
+sick	O
+call	O
+.	O
+
+# id = conivel-the-black-company-000081
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I took the long route , along Trejan 's Wall , which overlooks Beryl 's harbor .
+I	O
+took	O
+the	O
+long	O
+route	O
+,	O
+along	O
+Trejan	B-LOCATION
+'s	I-LOCATION
+Wall	I-LOCATION
+,	O
+which	O
+overlooks	O
+Beryl	B-LOCATION
+'s	O
+harbor	O
+.	O
+
+# id = conivel-the-black-company-000082
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Halfway oven I paused , stared north , past the mole and lighthouse and Fortress Island , at the Sea of Torments .
+Halfway	O
+oven	O
+I	O
+paused	O
+,	O
+stared	O
+north	O
+,	O
+past	O
+the	O
+mole	O
+and	O
+lighthouse	O
+and	O
+Fortress	B-LOCATION
+Island	I-LOCATION
+,	O
+at	O
+the	O
+Sea	B-LOCATION
+of	I-LOCATION
+Torments	I-LOCATION
+.	O
+
+# id = conivel-the-black-company-000083
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Particolored sails speckled the dingy grey-brown water as coastal dhows scooted out along the spiderweb of routes linking the Jewel Cities .
+Particolored	O
+sails	O
+speckled	O
+the	O
+dingy	O
+grey-brown	O
+water	O
+as	O
+coastal	O
+dhows	O
+scooted	O
+out	O
+along	O
+the	O
+spiderweb	O
+of	O
+routes	O
+linking	O
+the	O
+Jewel	B-LOCATION
+Cities	I-LOCATION
+.	O
+
+# id = conivel-the-black-company-000084
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The upper air was still and heavy and hazy .
+The	O
+upper	O
+air	O
+was	O
+still	O
+and	O
+heavy	O
+and	O
+hazy	O
+.	O
+
+# id = conivel-the-black-company-000085
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The horizon could not be discerned .
+The	O
+horizon	O
+could	O
+not	O
+be	O
+discerned	O
+.	O
+
+# id = conivel-the-black-company-000086
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But down on the water the air was in motion .
+But	O
+down	O
+on	O
+the	O
+water	O
+the	O
+air	O
+was	O
+in	O
+motion	O
+.	O
+
+# id = conivel-the-black-company-000087
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was always a breeze out around the Island , though it avoided the shore as if fearing leprosy .
+There	O
+was	O
+always	O
+a	O
+breeze	O
+out	O
+around	O
+the	O
+Island	B-LOCATION
+,	O
+though	O
+it	O
+avoided	O
+the	O
+shore	O
+as	O
+if	O
+fearing	O
+leprosy	O
+.	O
+
+# id = conivel-the-black-company-000088
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Closer at hand , the wheeling gulls were as surly and lackadaisical as the day promised to make most men .
+Closer	O
+at	O
+hand	O
+,	O
+the	O
+wheeling	O
+gulls	O
+were	O
+as	O
+surly	O
+and	O
+lackadaisical	O
+as	O
+the	O
+day	O
+promised	O
+to	O
+make	O
+most	O
+men	O
+.	O
+
+# id = conivel-the-black-company-000089
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Another summer in service to the Syndic of Beryl , sweating and grimy , thanklessly shielding him from political rivals and his undisciplined native troops .
+Another	O
+summer	O
+in	O
+service	O
+to	O
+the	O
+Syndic	O
+of	O
+Beryl	B-LOCATION
+,	O
+sweating	O
+and	O
+grimy	O
+,	O
+thanklessly	O
+shielding	O
+him	O
+from	O
+political	O
+rivals	O
+and	O
+his	O
+undisciplined	O
+native	O
+troops	O
+.	O
+
+# id = conivel-the-black-company-000090
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Another summer busting our butts for Curly 's reward .
+Another	O
+summer	O
+busting	O
+our	O
+butts	O
+for	O
+Curly	B-CHARACTER
+'s	O
+reward	O
+.	O
+
+# id = conivel-the-black-company-000091
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The pay was good , but not in coin of the soul .
+The	O
+pay	O
+was	O
+good	O
+,	O
+but	O
+not	O
+in	O
+coin	O
+of	O
+the	O
+soul	O
+.	O
+
+# id = conivel-the-black-company-000092
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Our forebrethren would be embarrassed to see us so diminished .
+Our	O
+forebrethren	O
+would	O
+be	O
+embarrassed	O
+to	O
+see	O
+us	O
+so	O
+diminished	O
+.	O
+
+# id = conivel-the-black-company-000093
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Beryl is misery curdled , but also ancient and intriguing .
+Beryl	B-LOCATION
+is	O
+misery	O
+curdled	O
+,	O
+but	O
+also	O
+ancient	O
+and	O
+intriguing	O
+.	O
+
+# id = conivel-the-black-company-000094
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Its history is a bottomless well filled with murky water .
+Its	O
+history	O
+is	O
+a	O
+bottomless	O
+well	O
+filled	O
+with	O
+murky	O
+water	O
+.	O
+
+# id = conivel-the-black-company-000095
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I amuse myself plumbing its shadowy depths , trying to isolate fact from fiction , legend , and myth .
+I	O
+amuse	O
+myself	O
+plumbing	O
+its	O
+shadowy	O
+depths	O
+,	O
+trying	O
+to	O
+isolate	O
+fact	O
+from	O
+fiction	O
+,	O
+legend	O
+,	O
+and	O
+myth	O
+.	O
+
+# id = conivel-the-black-company-000096
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No easy task , for the city 's earlier historians wrote with an eye to pleasing the powers of their day .
+No	O
+easy	O
+task	O
+,	O
+for	O
+the	O
+city	O
+'s	O
+earlier	O
+historians	O
+wrote	O
+with	O
+an	O
+eye	O
+to	O
+pleasing	O
+the	O
+powers	O
+of	O
+their	O
+day	O
+.	O
+
+# id = conivel-the-black-company-000097
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The most interesting period , for me , is the ancient kingdom , which is the least satisfactorily chronicled .
+The	O
+most	O
+interesting	O
+period	O
+,	O
+for	O
+me	O
+,	O
+is	O
+the	O
+ancient	O
+kingdom	O
+,	O
+which	O
+is	O
+the	O
+least	O
+satisfactorily	O
+chronicled	O
+.	O
+
+# id = conivel-the-black-company-000098
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was then , in the reign of Niam , that the forvalaka came , were overcome after a decade of terror , and were confined in their dark tomb atop the Necropolitan Hill .
+It	O
+was	O
+then	O
+,	O
+in	O
+the	O
+reign	O
+of	O
+Niam	B-CHARACTER
+,	O
+that	O
+the	O
+forvalaka	O
+came	O
+,	O
+were	O
+overcome	O
+after	O
+a	O
+decade	O
+of	O
+terror	O
+,	O
+and	O
+were	O
+confined	O
+in	O
+their	O
+dark	O
+tomb	O
+atop	O
+the	O
+Necropolitan	B-LOCATION
+Hill	I-LOCATION
+.	O
+
+# id = conivel-the-black-company-000099
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Echoes of that terror persist in folklore and matronly admonitions to unruly children .
+Echoes	O
+of	O
+that	O
+terror	O
+persist	O
+in	O
+folklore	O
+and	O
+matronly	O
+admonitions	O
+to	O
+unruly	O
+children	O
+.	O
+
+# id = conivel-the-black-company-000100
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No one recalls what the forvalaka were , now .
+No	O
+one	O
+recalls	O
+what	O
+the	O
+forvalaka	O
+were	O
+,	O
+now	O
+.	O
+
+# id = conivel-the-black-company-000101
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I resumed walking , despairing of beating the heat .
+I	O
+resumed	O
+walking	O
+,	O
+despairing	O
+of	O
+beating	O
+the	O
+heat	O
+.	O
+
+# id = conivel-the-black-company-000102
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The sentries , in their shaded kiosks , wore towels draped around their necks .
+The	O
+sentries	O
+,	O
+in	O
+their	O
+shaded	O
+kiosks	O
+,	O
+wore	O
+towels	O
+draped	O
+around	O
+their	O
+necks	O
+.	O
+
+# id = conivel-the-black-company-000103
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A breeze startled me .
+A	O
+breeze	O
+startled	O
+me	O
+.	O
+
+# id = conivel-the-black-company-000104
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I faced the harbor .
+I	O
+faced	O
+the	O
+harbor	O
+.	O
+
+# id = conivel-the-black-company-000105
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A ship was founding the Island , a great lumbering beast that dwarfed the dhows and feluccas .
+A	O
+ship	O
+was	O
+founding	O
+the	O
+Island	B-LOCATION
+,	O
+a	O
+great	O
+lumbering	O
+beast	O
+that	O
+dwarfed	O
+the	O
+dhows	O
+and	O
+feluccas	O
+.	O
+
+# id = conivel-the-black-company-000106
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A silver skull bulged in the center of its full-bellied black sail .
+A	O
+silver	O
+skull	O
+bulged	O
+in	O
+the	O
+center	O
+of	O
+its	O
+full-bellied	O
+black	O
+sail	O
+.	O
+
+# id = conivel-the-black-company-000107
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That skull 's red eyes glowed .
+That	O
+skull	O
+'s	O
+red	O
+eyes	O
+glowed	O
+.	O
+
+# id = conivel-the-black-company-000108
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Fires flickered behind its broken teeth .
+Fires	O
+flickered	O
+behind	O
+its	O
+broken	O
+teeth	O
+.	O
+
+# id = conivel-the-black-company-000109
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A glittering silver band encircled the skull .
+A	O
+glittering	O
+silver	O
+band	O
+encircled	O
+the	O
+skull	O
+.	O
+
+# id = conivel-the-black-company-000110
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What the hell is that ? ''
+``	O
+What	O
+the	O
+hell	O
+is	O
+that	O
+?	O
+''	O
+
+# id = conivel-the-black-company-000111
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = a sentry asked .
+a	O
+sentry	O
+asked	O
+.	O
+
+# id = conivel-the-black-company-000112
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do n't know , Whitey . ''
+``	O
+I	O
+do	O
+n't	O
+know	O
+,	O
+Whitey	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-black-company-000113
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The ship 's size impressed me more than did its flashy sail .
+The	O
+ship	O
+'s	O
+size	O
+impressed	O
+me	O
+more	O
+than	O
+did	O
+its	O
+flashy	O
+sail	O
+.	O
+
+# id = conivel-the-black-company-000114
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The four minor wizards we had with the Company could match that showmanship .
+The	O
+four	O
+minor	O
+wizards	O
+we	O
+had	O
+with	O
+the	O
+Company	O
+could	O
+match	O
+that	O
+showmanship	O
+.	O
+
+# id = conivel-the-black-company-000115
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But I 'd never seen a galley sporting five banks of oars .
+But	O
+I	O
+'d	O
+never	O
+seen	O
+a	O
+galley	O
+sporting	O
+five	O
+banks	O
+of	O
+oars	O
+.	O
+
+# id = conivel-the-black-company-000116
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I recalled my mission .
+I	O
+recalled	O
+my	O
+mission	O
+.	O
+
+# id = conivel-the-black-company-000117
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I knocked on the Captain 's door .
+I	O
+knocked	O
+on	O
+the	O
+Captain	B-CHARACTER
+'s	O
+door	O
+.	O
+
+# id = conivel-the-black-company-000118
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He did not respond .
+He	O
+did	O
+not	O
+respond	O
+.	O
+
+# id = conivel-the-black-company-000119
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I invited myself inside , found him snoring in his big wooden chair .
+I	O
+invited	O
+myself	O
+inside	O
+,	O
+found	O
+him	O
+snoring	O
+in	O
+his	O
+big	O
+wooden	O
+chair	O
+.	O
+
+# id = conivel-the-black-company-000120
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yo ! ''
+``	O
+Yo	O
+!	O
+''	O
+
+# id = conivel-the-black-company-000121
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I hollered .
+I	O
+hollered	O
+.	O
+
+# id = conivel-the-black-company-000122
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Fire !
+``	O
+Fire	O
+!	O
+
+# id = conivel-the-black-company-000123
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Riots in the Groan !
+Riots	O
+in	O
+the	O
+Groan	B-LOCATION
+!	O
+
+# id = conivel-the-black-company-000124
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Dancing at the Gate of Dawn ! ''
+Dancing	B-CHARACTER
+at	O
+the	O
+Gate	B-LOCATION
+of	I-LOCATION
+Dawn	I-LOCATION
+!	O
+''	O
+
+# id = conivel-the-black-company-000125
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Dancing was an old time general who nearly destroyed Beryl .
+Dancing	B-CHARACTER
+was	O
+an	O
+old	O
+time	O
+general	O
+who	O
+nearly	O
+destroyed	O
+Beryl	B-LOCATION
+.	O
+
+# id = conivel-the-black-company-000126
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = People still shudder at his name .
+People	O
+still	O
+shudder	O
+at	O
+his	O
+name	O
+.	O
+
+# id = conivel-the-black-company-000127
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Captain was cool .
+The	O
+Captain	B-CHARACTER
+was	O
+cool	O
+.	O
+
+# id = conivel-the-black-company-000128
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He did n't crack an eyelid or smile .
+He	O
+did	O
+n't	O
+crack	O
+an	O
+eyelid	O
+or	O
+smile	O
+.	O
+
+# id = conivel-the-black-company-000129
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 're presumptuous , Croaker , When are you going to learn to go through channels ? ''
+``	O
+You	O
+'re	O
+presumptuous	O
+,	O
+Croaker	B-CHARACTER
+,	O
+When	O
+are	O
+you	O
+going	O
+to	O
+learn	O
+to	O
+go	O
+through	O
+channels	O
+?	O
+''	O
+
+# id = conivel-the-black-company-000130
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Channels meant bug the Lieutenant first .
+Channels	O
+meant	O
+bug	O
+the	O
+Lieutenant	B-CHARACTER
+first	O
+.	O
+
+# id = conivel-the-black-company-000131
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Do n't interrupt his nap unless the Blues were storming the Bastion .
+Do	O
+n't	O
+interrupt	O
+his	O
+nap	O
+unless	O
+the	O
+Blues	O
+were	O
+storming	O
+the	O
+Bastion	B-LOCATION
+.	O
+
+# id = conivel-the-black-company-000132
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I explained about Curly and my chart .
+I	O
+explained	O
+about	O
+Curly	B-CHARACTER
+and	O
+my	O
+chart	O
+.	O
+
+# id = conivel-the-black-company-000133
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He swung his feet off the desk .
+He	O
+swung	O
+his	O
+feet	O
+off	O
+the	O
+desk	O
+.	O
+
+# id = conivel-the-black-company-000134
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Sounds like work for Mercy . ''
+``	O
+Sounds	O
+like	O
+work	O
+for	O
+Mercy	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-black-company-000135
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His voice had a hard edge .
+His	O
+voice	O
+had	O
+a	O
+hard	O
+edge	O
+.	O
+
+# id = conivel-the-black-company-000136
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Black Company does not suffer malicious attacks upon its men .
+The	O
+Black	O
+Company	O
+does	O
+not	O
+suffer	O
+malicious	O
+attacks	O
+upon	O
+its	O
+men	O
+.	O
+
+# id = conivel-the-black-company-000137
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mercy was our nastiest platoon leader .
+Mercy	B-CHARACTER
+was	O
+our	O
+nastiest	O
+platoon	O
+leader	O
+.	O
+
+# id = conivel-the-black-company-000138
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He thought a dozen men would suffice , but lei Silent and me lag along .
+He	O
+thought	O
+a	O
+dozen	O
+men	O
+would	O
+suffice	O
+,	O
+but	O
+lei	O
+Silent	B-CHARACTER
+and	O
+me	O
+lag	O
+along	O
+.	O
+
+# id = conivel-the-black-company-000139
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I could patch the wounded .
+I	O
+could	O
+patch	O
+the	O
+wounded	O
+.	O
+
+# id = conivel-the-black-company-000140
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Silent would be useful if the Blues played rough .
+Silent	B-CHARACTER
+would	O
+be	O
+useful	O
+if	O
+the	O
+Blues	O
+played	O
+rough	O
+.	O
+
+# id = conivel-the-black-company-000141
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Silent held us up half a day while he made a quick trip to the woods , `` What the hell you up to ? ''
+Silent	B-CHARACTER
+held	O
+us	O
+up	O
+half	O
+a	O
+day	O
+while	O
+he	O
+made	O
+a	O
+quick	O
+trip	O
+to	O
+the	O
+woods	O
+,	O
+``	O
+What	O
+the	O
+hell	O
+you	O
+up	O
+to	O
+?	O
+''	O
+
+# id = conivel-the-black-company-000142
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I asked when he got back , lugging a ratty-looking sack .
+I	O
+asked	O
+when	O
+he	O
+got	O
+back	O
+,	O
+lugging	O
+a	O
+ratty-looking	O
+sack	O
+.	O
+
+# id = conivel-the-black-company-000143
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He just grinned .
+He	O
+just	O
+grinned	O
+.	O
+
+# id = conivel-the-black-company-000144
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Silent he is and silent he stays .
+Silent	B-CHARACTER
+he	O
+is	O
+and	O
+silent	O
+he	O
+stays	O
+.	O
+
+# id = conivel-the-black-company-000145
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The place was called Mole Tavern .
+The	O
+place	O
+was	O
+called	O
+Mole	B-LOCATION
+Tavern	I-LOCATION
+.	O
+
+# id = conivel-the-black-company-000146
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was a comfortable hangout .
+It	O
+was	O
+a	O
+comfortable	O
+hangout	O
+.	O
+
+# id = conivel-the-black-company-000147
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I had passed many an evening there .
+I	O
+had	O
+passed	O
+many	O
+an	O
+evening	O
+there	O
+.	O
+
+# id = conivel-the-black-company-000148
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mercy assigned three men to the back door , and a pair each to the two windows .
+Mercy	B-CHARACTER
+assigned	O
+three	O
+men	O
+to	O
+the	O
+back	O
+door	O
+,	O
+and	O
+a	O
+pair	O
+each	O
+to	O
+the	O
+two	O
+windows	O
+.	O
+
+# id = conivel-the-black-company-000149
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He sent another two to the roof .
+He	O
+sent	O
+another	O
+two	O
+to	O
+the	O
+roof	O
+.	O
+
+# id = conivel-the-black-company-000150
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Every building in Beryl has a roof hatch .
+Every	O
+building	O
+in	O
+Beryl	B-LOCATION
+has	O
+a	O
+roof	O
+hatch	O
+.	O
+
+# id = conivel-the-black-company-000151
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = People sleep up top during the summer .
+People	O
+sleep	O
+up	O
+top	O
+during	O
+the	O
+summer	O
+.	O
+
+# id = conivel-the-black-company-000152
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He led the rest of us through the Mole 's front door .
+He	O
+led	O
+the	O
+rest	O
+of	O
+us	O
+through	O
+the	O
+Mole	B-LOCATION
+'s	O
+front	O
+door	O
+.	O
+
+# id = conivel-the-black-company-000153
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mercy was a smallish , cocky fellow , fond of the dramatic gesture .
+Mercy	B-CHARACTER
+was	O
+a	O
+smallish	O
+,	O
+cocky	O
+fellow	O
+,	O
+fond	O
+of	O
+the	O
+dramatic	O
+gesture	O
+.	O
+
+# id = conivel-the-black-company-000154
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His entry should have been preceded by fanfares .
+His	O
+entry	O
+should	O
+have	O
+been	O
+preceded	O
+by	O
+fanfares	O
+.	O
+
+# id = conivel-the-black-company-000155
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The crowd froze , stared at our shields and bared blades , at snatches of grim faces barely visible through gaps in our face guards .
+The	O
+crowd	O
+froze	O
+,	O
+stared	O
+at	O
+our	O
+shields	O
+and	O
+bared	O
+blades	O
+,	O
+at	O
+snatches	O
+of	O
+grim	O
+faces	O
+barely	O
+visible	O
+through	O
+gaps	O
+in	O
+our	O
+face	O
+guards	O
+.	O
+
+# id = conivel-the-black-company-000156
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Verus ! ''
+``	O
+Verus	B-CHARACTER
+!	O
+''	O
+
+# id = conivel-the-black-company-000157
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mercy shouted .
+Mercy	B-CHARACTER
+shouted	O
+.	O
+
+# id = conivel-the-black-company-000158
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Get your butt out here ! ''
+``	O
+Get	O
+your	O
+butt	O
+out	O
+here	O
+!	O
+''	O
+
+# id = conivel-the-black-company-000159
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The grandfather of the managing family appeared .
+The	O
+grandfather	O
+of	O
+the	O
+managing	O
+family	O
+appeared	O
+.	O
+
+# id = conivel-the-black-company-000160
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He sidled toward us like a mutt expecting a kick .
+He	O
+sidled	O
+toward	O
+us	O
+like	O
+a	O
+mutt	O
+expecting	O
+a	O
+kick	O
+.	O
+
+# id = conivel-the-black-company-000161
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The customers began buzzing .
+The	O
+customers	O
+began	O
+buzzing	O
+.	O
+
+# id = conivel-the-black-company-000162
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Silence ! ''
+``	O
+Silence	O
+!	O
+''	O
+
+# id = conivel-the-black-company-000163
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mercy thundered .
+Mercy	B-CHARACTER
+thundered	O
+.	O
+
+# id = conivel-the-black-company-000164
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He could get a big roar out of his small body .
+He	O
+could	O
+get	O
+a	O
+big	O
+roar	O
+out	O
+of	O
+his	O
+small	O
+body	O
+.	O
+
+# id = conivel-the-black-company-000165
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How may we help you , honored sirs ? ''
+``	O
+How	O
+may	O
+we	O
+help	O
+you	O
+,	O
+honored	O
+sirs	O
+?	O
+''	O
+
+# id = conivel-the-black-company-000166
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the old man asked .
+the	O
+old	O
+man	O
+asked	O
+.	O
+
+# id = conivel-the-black-company-000167
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You can get your sons and grandsons out here , Blue . ''
+``	O
+You	O
+can	O
+get	O
+your	O
+sons	O
+and	O
+grandsons	O
+out	O
+here	O
+,	O
+Blue	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-black-company-000168
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Chairs squeaked .
+Chairs	O
+squeaked	O
+.	O
+
+# id = conivel-the-black-company-000169
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A soldier slammed his blade into a tabletop .
+A	O
+soldier	O
+slammed	O
+his	O
+blade	O
+into	O
+a	O
+tabletop	O
+.	O
+
+# id = conivel-the-black-company-000170
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Sit still , ''
+``	O
+Sit	O
+still	O
+,	O
+''	O
+
+# id = conivel-the-black-company-000171
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mercy said .
+Mercy	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-black-company-000172
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 're just having lunch , fine .
+``	O
+You	O
+'re	O
+just	O
+having	O
+lunch	O
+,	O
+fine	O
+.	O
+
+# id = conivel-the-black-company-000173
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You 'll be loose in an hour . ''
+You	O
+'ll	O
+be	O
+loose	O
+in	O
+an	O
+hour	O
+.	O
+''	O
+
+# id = conivel-the-black-company-000174
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The old man began shaking .
+The	O
+old	O
+man	O
+began	O
+shaking	O
+.	O
+
+# id = conivel-the-black-company-000175
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do n't understand , sir .
+``	O
+I	O
+do	O
+n't	O
+understand	O
+,	O
+sir	O
+.	O
+
+# id = conivel-the-black-company-000176
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What have we done ? ''
+What	O
+have	O
+we	O
+done	O
+?	O
+''	O
+
+# id = conivel-the-black-company-000177
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mercy grinned evilly .
+Mercy	B-CHARACTER
+grinned	O
+evilly	O
+.	O
+
+# id = conivel-the-black-company-000178
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He plays the innocent well .
+``	O
+He	O
+plays	O
+the	O
+innocent	O
+well	O
+.	O
+
+# id = conivel-the-black-company-000179
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's murder , Verus .
+It	O
+'s	O
+murder	O
+,	O
+Verus	B-CHARACTER
+.	O
+
+# id = conivel-the-black-company-000180
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Two charges of murder by poisoning .
+Two	O
+charges	O
+of	O
+murder	O
+by	O
+poisoning	O
+.	O
+
+# id = conivel-the-black-company-000181
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Two of attempted murder by poisoning .
+Two	O
+of	O
+attempted	O
+murder	O
+by	O
+poisoning	O
+.	O
+
+# id = conivel-the-black-company-000182
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The magistrates decreed the punishment of slaves . ''
+The	O
+magistrates	O
+decreed	O
+the	O
+punishment	O
+of	O
+slaves	O
+.	O
+''	O
+
+# id = conivel-the-black-company-000183
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was having fun .
+He	O
+was	O
+having	O
+fun	O
+.	O
+
+# id = conivel-the-black-company-000184
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mercy was n't one of my favorite people .
+Mercy	B-CHARACTER
+was	O
+n't	O
+one	O
+of	O
+my	O
+favorite	O
+people	O
+.	O
+
+# id = conivel-the-black-company-000185
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He never slopped being the boy who pulled wings off flies .
+He	O
+never	O
+slopped	O
+being	O
+the	O
+boy	O
+who	O
+pulled	O
+wings	O
+off	O
+flies	O
+.	O
+
+# id = conivel-the-black-company-000186
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The punishment of slaves meant being left up for scavenger birds after public crucifixion .
+The	O
+punishment	O
+of	O
+slaves	O
+meant	O
+being	O
+left	O
+up	O
+for	O
+scavenger	O
+birds	O
+after	O
+public	O
+crucifixion	O
+.	O
+
+# id = conivel-the-black-company-000187
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In Beryl only criminals are buried uncremated , or not buried al all .
+In	O
+Beryl	B-LOCATION
+only	O
+criminals	O
+are	O
+buried	O
+uncremated	O
+,	O
+or	O
+not	O
+buried	O
+al	O
+all	O
+.	O
+
+# id = conivel-the-black-company-000188
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = An uproar rose in the kitchen .
+An	O
+uproar	O
+rose	O
+in	O
+the	O
+kitchen	O
+.	O
+
+# id = conivel-the-black-company-000189
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Somebody was trying to get out the back door .
+Somebody	O
+was	O
+trying	O
+to	O
+get	O
+out	O
+the	O
+back	O
+door	O
+.	O
+
+# id = conivel-the-black-company-000190
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Our men were objecting .
+Our	O
+men	O
+were	O
+objecting	O
+.	O
+
+# id = conivel-the-black-company-000191
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The public room exploded .
+The	O
+public	O
+room	O
+exploded	O
+.	O
+
+# id = conivel-the-black-company-000192
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A wave of dagger-brandishing humanity hit us .
+A	O
+wave	O
+of	O
+dagger-brandishing	O
+humanity	O
+hit	O
+us	O
+.	O
+
+# id = conivel-the-black-company-000193
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They forced us back to the door .
+They	O
+forced	O
+us	O
+back	O
+to	O
+the	O
+door	O
+.	O
+
+# id = conivel-the-black-company-000194
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Those who were not guilty obviously feared they would be condemned with those who were .
+Those	O
+who	O
+were	O
+not	O
+guilty	O
+obviously	O
+feared	O
+they	O
+would	O
+be	O
+condemned	O
+with	O
+those	O
+who	O
+were	O
+.	O
+
+# id = conivel-the-black-company-000195
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Beryl 's justice is fast , crude , and harsh , and seldom gives a defendant opportunity to clear himself .
+Beryl	B-LOCATION
+'s	O
+justice	O
+is	O
+fast	O
+,	O
+crude	O
+,	O
+and	O
+harsh	O
+,	O
+and	O
+seldom	O
+gives	O
+a	O
+defendant	O
+opportunity	O
+to	O
+clear	O
+himself	O
+.	O
+
+# id = conivel-the-black-company-000196
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A dagger slipped past a shield .
+A	O
+dagger	O
+slipped	O
+past	O
+a	O
+shield	O
+.	O
+
+# id = conivel-the-black-company-000197
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One of our men went down , I am not much as a fighter , but I stepped into his place .
+One	O
+of	O
+our	O
+men	O
+went	O
+down	O
+,	O
+I	O
+am	O
+not	O
+much	O
+as	O
+a	O
+fighter	O
+,	O
+but	O
+I	O
+stepped	O
+into	O
+his	O
+place	O
+.	O
+
+# id = conivel-the-black-company-000198
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mercy said something snide that I did not catch .
+Mercy	B-CHARACTER
+said	O
+something	O
+snide	O
+that	O
+I	O
+did	O
+not	O
+catch	O
+.	O
+
+# id = conivel-the-black-company-000199
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That 's your chance at heaven wasted , ''
+``	O
+That	O
+'s	O
+your	O
+chance	O
+at	O
+heaven	O
+wasted	O
+,	O
+''	O
+
+# id = conivel-the-black-company-000200
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I countered .
+I	O
+countered	O
+.	O
+
+# id = conivel-the-black-company-000201
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 're out of the Annals forever . ''
+``	O
+You	O
+'re	O
+out	O
+of	O
+the	O
+Annals	O
+forever	O
+.	O
+''	O
+
+# id = conivel-the-black-company-000202
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Crap .
+``	O
+Crap	O
+.	O
+
+# id = conivel-the-black-company-000203
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You do n't leave out anything . ''
+You	O
+do	O
+n't	O
+leave	O
+out	O
+anything	O
+.	O
+''	O
+
+# id = conivel-the-black-company-000204
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A dozen citizens went down .
+A	O
+dozen	O
+citizens	O
+went	O
+down	O
+.	O
+
+# id = conivel-the-black-company-000205
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Blood pooled in low places on the floor .
+Blood	O
+pooled	O
+in	O
+low	O
+places	O
+on	O
+the	O
+floor	O
+.	O
+
+# id = conivel-the-black-company-000206
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Spectators gathered outside .
+Spectators	O
+gathered	O
+outside	O
+.	O
+
+# id = conivel-the-black-company-000207
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Soon some adventurer would hit us from behind .
+Soon	O
+some	O
+adventurer	O
+would	O
+hit	O
+us	O
+from	O
+behind	O
+.	O
+
+# id = conivel-the-black-company-000208
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A dagger nicked Mercy .
+A	O
+dagger	O
+nicked	O
+Mercy	B-CHARACTER
+.	O
+
+# id = conivel-the-black-company-000209
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He lost patience .
+He	O
+lost	O
+patience	O
+.	O
+
+# id = conivel-the-black-company-000210
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Silent ! ''
+``	O
+Silent	B-CHARACTER
+!	O
+''	O
+
+# id = conivel-the-black-company-000211
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Silent was on the job already , but he was Silent .
+Silent	B-CHARACTER
+was	O
+on	O
+the	O
+job	O
+already	O
+,	O
+but	O
+he	O
+was	O
+Silent	B-CHARACTER
+.	O
+
+# id = conivel-the-black-company-000212
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That meant no sound , and very little flash or fury .
+That	O
+meant	O
+no	O
+sound	O
+,	O
+and	O
+very	O
+little	O
+flash	O
+or	O
+fury	O
+.	O
+
+# id = conivel-the-black-company-000213
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mole patrons began slapping their faces and pawing the air , forsaking us .
+Mole	B-LOCATION
+patrons	O
+began	O
+slapping	O
+their	O
+faces	O
+and	O
+pawing	O
+the	O
+air	O
+,	O
+forsaking	O
+us	O
+.	O
+
+# id = conivel-the-black-company-000214
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They hopped and danced , grabbed their backs and behinds , squealed and howled piteously .
+They	O
+hopped	O
+and	O
+danced	O
+,	O
+grabbed	O
+their	O
+backs	O
+and	O
+behinds	O
+,	O
+squealed	O
+and	O
+howled	O
+piteously	O
+.	O
+
+# id = conivel-the-black-company-000215
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Several collapsed .
+Several	O
+collapsed	O
+.	O
+
+# id = conivel-the-black-company-000216
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What the hell did you do ? ''
+``	O
+What	O
+the	O
+hell	O
+did	O
+you	O
+do	O
+?	O
+''	O
+
+# id = conivel-the-black-company-000217
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I asked .
+I	O
+asked	O
+.	O
+
+# id = conivel-the-black-company-000218
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Silent grinned , exposing sharp teeth .
+Silent	B-CHARACTER
+grinned	O
+,	O
+exposing	O
+sharp	O
+teeth	O
+.	O
+
+# id = conivel-the-black-company-000219
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He passed a dusky paw across my eyes .
+He	O
+passed	O
+a	O
+dusky	O
+paw	O
+across	O
+my	O
+eyes	O
+.	O
+
+# id = conivel-the-black-company-000220
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I saw the .
+I	O
+saw	O
+the	O
+.	O
+
+# id = conivel-the-black-company-000221
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mole tram a slightly altered perspective .
+Mole	B-LOCATION
+tram	O
+a	O
+slightly	O
+altered	O
+perspective	O
+.	O
+
+# id = conivel-the-black-company-000222
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The bag he had lugged in from out of town proved to be one of those hornets ' nests you can , if you 're unlucky , run into in the woods south of Beryl .
+The	O
+bag	O
+he	O
+had	O
+lugged	O
+in	O
+from	O
+out	O
+of	O
+town	O
+proved	O
+to	O
+be	O
+one	O
+of	O
+those	O
+hornets	O
+'	O
+nests	O
+you	O
+can	O
+,	O
+if	O
+you	O
+'re	O
+unlucky	O
+,	O
+run	O
+into	O
+in	O
+the	O
+woods	O
+south	O
+of	O
+Beryl	B-LOCATION
+.	O
+
+# id = conivel-the-black-company-000223
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Its tenants were the bumblebee-looking monsters peasants call bald-faced hornets .
+Its	O
+tenants	O
+were	O
+the	O
+bumblebee-looking	O
+monsters	O
+peasants	O
+call	O
+bald-faced	O
+hornets	O
+.	O
+
+# id = conivel-the-black-company-000224
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They have a foul temper unrivalled anywhere in Nature .
+They	O
+have	O
+a	O
+foul	O
+temper	O
+unrivalled	O
+anywhere	O
+in	O
+Nature	O
+.	O
+
+# id = conivel-the-black-company-000225
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They cowed the Mole crowd fast , without bothering our lads .
+They	O
+cowed	O
+the	O
+Mole	B-LOCATION
+crowd	O
+fast	O
+,	O
+without	O
+bothering	O
+our	O
+lads	O
+.	O
+
+# id = conivel-the-black-company-000226
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Fine work , Silent , ''
+``	O
+Fine	O
+work	O
+,	O
+Silent	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-the-black-company-000227
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mercy said , after having vented his fury on several hapless patrons .
+Mercy	B-CHARACTER
+said	O
+,	O
+after	O
+having	O
+vented	O
+his	O
+fury	O
+on	O
+several	O
+hapless	O
+patrons	O
+.	O
+
+# id = conivel-the-black-company-000228
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He herded the survivors into the street .
+He	O
+herded	O
+the	O
+survivors	O
+into	O
+the	O
+street	O
+.	O
+
+# id = conivel-the-black-company-000229
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I examined our injured brother while the unharmed soldier finished the wounded .
+I	O
+examined	O
+our	O
+injured	O
+brother	O
+while	O
+the	O
+unharmed	O
+soldier	O
+finished	O
+the	O
+wounded	O
+.	O
+
+# id = conivel-the-black-company-000230
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Saving the Syndic the cost of a trial and a hangman , Mercy called that .
+Saving	O
+the	O
+Syndic	O
+the	O
+cost	O
+of	O
+a	O
+trial	O
+and	O
+a	O
+hangman	O
+,	O
+Mercy	B-CHARACTER
+called	O
+that	O
+.	O
+
+# id = conivel-the-black-company-000231
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Silent looked on , still grinning .
+Silent	B-CHARACTER
+looked	O
+on	O
+,	O
+still	O
+grinning	O
+.	O
+
+# id = conivel-the-black-company-000232
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He 's not nice either , though he seldom participates directly .
+He	O
+'s	O
+not	O
+nice	O
+either	O
+,	O
+though	O
+he	O
+seldom	O
+participates	O
+directly	O
+.	O
+
+# id = conivel-the-black-company-000233
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We took more prisoners than expected .
+We	O
+took	O
+more	O
+prisoners	O
+than	O
+expected	O
+.	O
+
+# id = conivel-the-black-company-000234
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Was a bunch of them . ''
+``	O
+Was	O
+a	O
+bunch	O
+of	O
+them	O
+.	O
+''	O
+
+# id = conivel-the-black-company-000235
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mercy 's eyes twinkled .
+Mercy	B-CHARACTER
+'s	O
+eyes	O
+twinkled	O
+.	O
+
+# id = conivel-the-black-company-000236
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Thanks , Silent . ''
+``	O
+Thanks	O
+,	O
+Silent	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-black-company-000237
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The line stretched a block .
+The	O
+line	O
+stretched	O
+a	O
+block	O
+.	O
+
+# id = conivel-the-black-company-000238
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Fate is a fickle bitch .
+Fate	O
+is	O
+a	O
+fickle	O
+bitch	O
+.	O
+
+# id = conivel-the-black-company-000239
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She 'd led us to Mole Tavern at a critical moment .
+She	O
+'d	O
+led	O
+us	O
+to	O
+Mole	B-LOCATION
+Tavern	I-LOCATION
+at	O
+a	O
+critical	O
+moment	O
+.	O
+
+# id = conivel-the-black-company-000240
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Poking around , our witch man had unearthed a prize , a crowd concealed in a hideout beneath the wine cellar .
+Poking	O
+around	O
+,	O
+our	O
+witch	O
+man	O
+had	O
+unearthed	O
+a	O
+prize	O
+,	O
+a	O
+crowd	O
+concealed	O
+in	O
+a	O
+hideout	O
+beneath	O
+the	O
+wine	O
+cellar	O
+.	O
+
+# id = conivel-the-black-company-000241
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Among them were some of the best known Blues .
+Among	O
+them	O
+were	O
+some	O
+of	O
+the	O
+best	O
+known	O
+Blues	O
+.	O
+
+# id = conivel-the-black-company-000242
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mercy chattered , wondering aloud how large a reward our informant deserved .
+Mercy	B-CHARACTER
+chattered	O
+,	O
+wondering	O
+aloud	O
+how	O
+large	O
+a	O
+reward	O
+our	O
+informant	O
+deserved	O
+.	O
+
+# id = conivel-the-black-company-000243
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No such informant existed .
+No	O
+such	O
+informant	O
+existed	O
+.	O
+
+# id = conivel-the-black-company-000244
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The yammer was meant to save our tame wizards from becoming prime targets .
+The	O
+yammer	O
+was	O
+meant	O
+to	O
+save	O
+our	O
+tame	O
+wizards	O
+from	O
+becoming	O
+prime	O
+targets	O
+.	O
+
+# id = conivel-the-black-company-000245
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Our enemies would scurry around looking for phantom spies .
+Our	O
+enemies	O
+would	O
+scurry	O
+around	O
+looking	O
+for	O
+phantom	O
+spies	O
+.	O
+
+# id = conivel-the-black-company-000246
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Move them out , ''
+``	O
+Move	O
+them	O
+out	O
+,	O
+''	O
+
+# id = conivel-the-black-company-000247
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mercy ordered .
+Mercy	B-CHARACTER
+ordered	O
+.	O
+
+# id = conivel-the-black-company-000248
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Still grinning , he eyed the sullen crowd .
+Still	O
+grinning	O
+,	O
+he	O
+eyed	O
+the	O
+sullen	O
+crowd	O
+.	O
+
+# id = conivel-the-black-company-000249
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Think they 'll try something ? ''
+``	O
+Think	O
+they	O
+'ll	O
+try	O
+something	O
+?	O
+''	O
+
+# id = conivel-the-black-company-000250
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They did not .
+They	O
+did	O
+not	O
+.	O
+
+# id = conivel-the-black-company-000251
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His supreme confidence cowed anyone who had ideas .
+His	O
+supreme	O
+confidence	O
+cowed	O
+anyone	O
+who	O
+had	O
+ideas	O
+.	O
+
+# id = conivel-the-black-company-000252
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We wound through mazelike streets half as old as the world , our prisoners shuffling listlessly .
+We	O
+wound	O
+through	O
+mazelike	O
+streets	O
+half	O
+as	O
+old	O
+as	O
+the	O
+world	O
+,	O
+our	O
+prisoners	O
+shuffling	O
+listlessly	O
+.	O
+
+# id = conivel-the-black-company-000253
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I gawked .
+I	O
+gawked	O
+.	O
+
+# id = conivel-the-black-company-000254
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My comrades are indifferent to the past , but I can not help being awed-and occasionally intimidated-by how time-deep Beryl 's history runs .
+My	O
+comrades	O
+are	O
+indifferent	O
+to	O
+the	O
+past	O
+,	O
+but	O
+I	O
+can	O
+not	O
+help	O
+being	O
+awed-and	O
+occasionally	O
+intimidated-by	O
+how	O
+time-deep	O
+Beryl	B-LOCATION
+'s	O
+history	O
+runs	O
+.	O
+
+# id = conivel-the-black-company-000255
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mercy called an unexpected halt .
+Mercy	B-CHARACTER
+called	O
+an	O
+unexpected	O
+halt	O
+.	O
+
+# id = conivel-the-black-company-000256
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We had come to the Avenue of the Syndics ' , which winds from the Customs House uptown to the Bastion 's main gate .
+We	O
+had	O
+come	O
+to	O
+the	O
+Avenue	B-LOCATION
+of	I-LOCATION
+the	I-LOCATION
+Syndics	I-LOCATION
+'	O
+,	O
+which	O
+winds	O
+from	O
+the	O
+Customs	B-LOCATION
+House	I-LOCATION
+uptown	O
+to	O
+the	O
+Bastion	B-LOCATION
+'s	O
+main	O
+gate	O
+.	O
+
+# id = conivel-the-black-company-000257
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was a procession on the Avenue .
+There	O
+was	O
+a	O
+procession	O
+on	O
+the	O
+Avenue	B-LOCATION
+.	O
+
+# id = conivel-the-black-company-000258
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Though we reached the intersection first , Mercy yielded the right-of-way .
+Though	O
+we	O
+reached	O
+the	O
+intersection	O
+first	O
+,	O
+Mercy	B-CHARACTER
+yielded	O
+the	O
+right-of-way	O
+.	O
+
+# id = conivel-the-black-company-000259
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The procession consisted of a hundred armed men .
+The	O
+procession	O
+consisted	O
+of	O
+a	O
+hundred	O
+armed	O
+men	O
+.	O
+
+# id = conivel-the-black-company-000260
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They looked tougher than anyone in Beryl but us .
+They	O
+looked	O
+tougher	O
+than	O
+anyone	O
+in	O
+Beryl	B-LOCATION
+but	O
+us	O
+.	O
+
+# id = conivel-the-black-company-000261
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At their head rode a dark figure on the biggest black stallion I 've ever seen .
+At	O
+their	O
+head	O
+rode	O
+a	O
+dark	O
+figure	O
+on	O
+the	O
+biggest	O
+black	O
+stallion	O
+I	O
+'ve	O
+ever	O
+seen	O
+.	O
+
+# id = conivel-the-black-company-000262
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The rider was small , effeminately slim , and clad in worn black leather .
+The	O
+rider	O
+was	O
+small	O
+,	O
+effeminately	O
+slim	O
+,	O
+and	O
+clad	O
+in	O
+worn	O
+black	O
+leather	O
+.	O
+
+# id = conivel-the-black-company-000263
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He wore a black morion which concealed his head entirely .
+He	O
+wore	O
+a	O
+black	O
+morion	O
+which	O
+concealed	O
+his	O
+head	O
+entirely	O
+.	O
+
+# id = conivel-the-black-company-000264
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Black gloves concealed his hands .
+Black	O
+gloves	O
+concealed	O
+his	O
+hands	O
+.	O
+
+# id = conivel-the-black-company-000265
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He seemed to be unarmed .
+He	O
+seemed	O
+to	O
+be	O
+unarmed	O
+.	O
+
+# id = conivel-the-black-company-000266
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Damn me , ''
+``	O
+Damn	O
+me	O
+,	O
+''	O
+
+# id = conivel-the-black-company-000267
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mercy whispered .
+Mercy	B-CHARACTER
+whispered	O
+.	O
+
+# id = conivel-the-black-company-000268
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was disturbed .
+I	O
+was	O
+disturbed	O
+.	O
+
+# id = conivel-the-black-company-000269
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That rider chilled me .
+That	O
+rider	O
+chilled	O
+me	O
+.	O
+
+# id = conivel-the-black-company-000270
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Something primitive deep inside me wanted to run .
+Something	O
+primitive	O
+deep	O
+inside	O
+me	O
+wanted	O
+to	O
+run	O
+.	O
+
+# id = conivel-the-black-company-000271
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But curiosity plagued me more .
+But	O
+curiosity	O
+plagued	O
+me	O
+more	O
+.	O
+
+# id = conivel-the-black-company-000272
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Who was he ?
+Who	O
+was	O
+he	O
+?	O
+
+# id = conivel-the-black-company-000273
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Had he come off that strange ship in the harbor ?
+Had	O
+he	O
+come	O
+off	O
+that	O
+strange	O
+ship	O
+in	O
+the	O
+harbor	O
+?	O
+
+# id = conivel-the-black-company-000274
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Why was he here ?
+Why	O
+was	O
+he	O
+here	O
+?	O
+
+# id = conivel-the-black-company-000275
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The eyeless gaze of the rider swept across us indifferently , as though passing over a flock of sheep .
+The	O
+eyeless	O
+gaze	O
+of	O
+the	O
+rider	O
+swept	O
+across	O
+us	O
+indifferently	O
+,	O
+as	O
+though	O
+passing	O
+over	O
+a	O
+flock	O
+of	O
+sheep	O
+.	O
+
+# id = conivel-the-black-company-000276
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then it jerked back , fixing on Silent .
+Then	O
+it	O
+jerked	O
+back	O
+,	O
+fixing	O
+on	O
+Silent	B-CHARACTER
+.	O
+
+# id = conivel-the-black-company-000277
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Silent met stare for stare , and showed no fear .
+Silent	B-CHARACTER
+met	O
+stare	O
+for	O
+stare	O
+,	O
+and	O
+showed	O
+no	O
+fear	O
+.	O
+
+# id = conivel-the-black-company-000278
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And still he seemed somehow diminished .
+And	O
+still	O
+he	O
+seemed	O
+somehow	O
+diminished	O
+.	O
+
+# id = conivel-the-black-company-000279
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The column passed on , hardened , disciplined .
+The	O
+column	O
+passed	O
+on	O
+,	O
+hardened	O
+,	O
+disciplined	O
+.	O
+
+# id = conivel-the-black-company-000280
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Shaken , Mercy got our mob moving again .
+Shaken	O
+,	O
+Mercy	B-CHARACTER
+got	O
+our	O
+mob	O
+moving	O
+again	O
+.	O
+
+# id = conivel-the-black-company-000281
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We entered the Bastion only yards behind the strangers .
+We	O
+entered	O
+the	O
+Bastion	B-LOCATION
+only	O
+yards	O
+behind	O
+the	O
+strangers	O
+.	O
+
+# id = conivel-the-black-company-000282
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We had arrested most of the more conservative Blue leadership .
+We	O
+had	O
+arrested	O
+most	O
+of	O
+the	O
+more	O
+conservative	O
+Blue	O
+leadership	O
+.	O
+
+# id = conivel-the-black-company-000283
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When word of the raid spread , the volatile types decided to flex their muscles .
+When	O
+word	O
+of	O
+the	O
+raid	O
+spread	O
+,	O
+the	O
+volatile	O
+types	O
+decided	O
+to	O
+flex	O
+their	O
+muscles	O
+.	O
+
+# id = conivel-the-black-company-000284
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They sparked something monstrous .
+They	O
+sparked	O
+something	O
+monstrous	O
+.	O
+
+# id = conivel-the-black-company-000285
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The perpetually abrasive weather does things to men 's reason .
+The	O
+perpetually	O
+abrasive	O
+weather	O
+does	O
+things	O
+to	O
+men	O
+'s	O
+reason	O
+.	O
+
+# id = conivel-the-black-company-000286
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Beryl mob is savage .
+The	O
+Beryl	B-LOCATION
+mob	O
+is	O
+savage	O
+.	O
+
+# id = conivel-the-black-company-000287
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Riots occur almost without provocation .
+Riots	O
+occur	O
+almost	O
+without	O
+provocation	O
+.	O
+
+# id = conivel-the-black-company-000288
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When things go bad the dead number in the thousands .
+When	O
+things	O
+go	O
+bad	O
+the	O
+dead	O
+number	O
+in	O
+the	O
+thousands	O
+.	O
+
+# id = conivel-the-black-company-000289
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This was one of the worst times .
+This	O
+was	O
+one	O
+of	O
+the	O
+worst	O
+times	O
+.	O
+
+# id = conivel-the-black-company-000290
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The army is half the problem .
+The	O
+army	O
+is	O
+half	O
+the	O
+problem	O
+.	O
+
+# id = conivel-the-black-company-000291
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A parade of weak , short-term Syndics let discipline lapse - .
+A	O
+parade	O
+of	O
+weak	O
+,	O
+short-term	O
+Syndics	O
+let	O
+discipline	O
+lapse	O
+-	O
+.	O
+
+# id = conivel-the-black-company-000292
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The troops are beyond control now .
+The	O
+troops	O
+are	O
+beyond	O
+control	O
+now	O
+.	O
+
+# id = conivel-the-black-company-000293
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Generally , though , they will act against rioters .
+Generally	O
+,	O
+though	O
+,	O
+they	O
+will	O
+act	O
+against	O
+rioters	O
+.	O
+
+# id = conivel-the-black-company-000294
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They see riot suppression as license to loot .
+They	O
+see	O
+riot	O
+suppression	O
+as	O
+license	O
+to	O
+loot	O
+.	O
+
+# id = conivel-the-black-company-000295
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The worst happened .
+The	O
+worst	O
+happened	O
+.	O
+
+# id = conivel-the-black-company-000296
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Several cohorts from the Fork Barracks demanded a special donative before they would respond to a directive to restore order .
+Several	O
+cohorts	O
+from	O
+the	O
+Fork	B-LOCATION
+Barracks	I-LOCATION
+demanded	O
+a	O
+special	O
+donative	O
+before	O
+they	O
+would	O
+respond	O
+to	O
+a	O
+directive	O
+to	O
+restore	O
+order	O
+.	O
+
+# id = conivel-the-black-company-000297
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Syndic refused to pay .
+The	O
+Syndic	O
+refused	O
+to	O
+pay	O
+.	O
+
+# id = conivel-the-black-company-000298
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The cohorts mutinied .
+The	O
+cohorts	O
+mutinied	O
+.	O
+
+# id = conivel-the-black-company-000299
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mercy 's platoon hastily established a strongpoint near the Rubbish Gate and held off all three cohorts .
+Mercy	B-CHARACTER
+'s	O
+platoon	O
+hastily	O
+established	O
+a	O
+strongpoint	O
+near	O
+the	O
+Rubbish	B-LOCATION
+Gate	I-LOCATION
+and	O
+held	O
+off	O
+all	O
+three	O
+cohorts	O
+.	O
+
+# id = conivel-the-black-company-000300
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Most of our men were killed , but none ran .
+Most	O
+of	O
+our	O
+men	O
+were	O
+killed	O
+,	O
+but	O
+none	O
+ran	O
+.	O
+
+# id = conivel-the-black-company-000301
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mercy himself lost an eye , a finger , was wounded in shoulder and hip , and had more than a hundred holes in his shield when help arrived .
+Mercy	B-CHARACTER
+himself	O
+lost	O
+an	O
+eye	O
+,	O
+a	O
+finger	O
+,	O
+was	O
+wounded	O
+in	O
+shoulder	O
+and	O
+hip	O
+,	O
+and	O
+had	O
+more	O
+than	O
+a	O
+hundred	O
+holes	O
+in	O
+his	O
+shield	O
+when	O
+help	O
+arrived	O
+.	O
+
+# id = conivel-the-black-company-000302
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He came to me more dead than alive .
+He	O
+came	O
+to	O
+me	O
+more	O
+dead	O
+than	O
+alive	O
+.	O
+
+# id = conivel-the-black-company-000303
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In the end , the mutineers scattered rather than face the rest of the Black Company .
+In	O
+the	O
+end	O
+,	O
+the	O
+mutineers	O
+scattered	O
+rather	O
+than	O
+face	O
+the	O
+rest	O
+of	O
+the	O
+Black	O
+Company	O
+.	O
+
+# id = conivel-the-black-company-000304
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The riots were the worst in memory .
+The	O
+riots	O
+were	O
+the	O
+worst	O
+in	O
+memory	O
+.	O
+
+# id = conivel-the-black-company-000305
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We lost almost a hundred brethren trying to suppress them .
+We	O
+lost	O
+almost	O
+a	O
+hundred	O
+brethren	O
+trying	O
+to	O
+suppress	O
+them	O
+.	O
+
+# id = conivel-the-black-company-000306
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We could ill afford the loss of one .
+We	O
+could	O
+ill	O
+afford	O
+the	O
+loss	O
+of	O
+one	O
+.	O
+
+# id = conivel-the-black-company-000307
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In the Groan the streets were carpet led with corpses .
+In	O
+the	O
+Groan	B-LOCATION
+the	O
+streets	O
+were	O
+carpet	O
+led	O
+with	O
+corpses	O
+.	O
+
+# id = conivel-the-black-company-000308
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The rats grew fat .
+The	O
+rats	O
+grew	O
+fat	O
+.	O
+
+# id = conivel-the-black-company-000309
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Clouds of vultures and ravens migrated from the countryside .
+Clouds	O
+of	O
+vultures	O
+and	O
+ravens	O
+migrated	O
+from	O
+the	O
+countryside	O
+.	O
+
+# id = conivel-the-black-company-000310
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Captain ordered the Company into the Bastion .
+The	O
+Captain	B-CHARACTER
+ordered	O
+the	O
+Company	O
+into	O
+the	O
+Bastion	B-LOCATION
+.	O
+
+# id = conivel-the-black-company-000311
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Let it run its course , ''
+``	O
+Let	O
+it	O
+run	O
+its	O
+course	O
+,	O
+''	O
+
+# id = conivel-the-black-company-000312
+# source = Conivel corrected OWTO literary NER
+# book = The Black Company
+# source_file = TheBlackCompany.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said .
+he	O
+said	O
+.	O
+

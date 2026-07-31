@@ -1,0 +1,6118 @@
+# id = conivel-the-count-of-monte-cristo-000001
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Marseilles -- The Arrival On the 24th of February , 1815 , the look-out at Notre-Dame de la Garde signalled the three-master , the _ Pharaon _ from Smyrna , Trieste , and Naples .
+Marseilles	B-LOCATION
+--	O
+The	O
+Arrival	O
+On	O
+the	O
+24th	O
+of	O
+February	O
+,	O
+1815	O
+,	O
+the	O
+look-out	O
+at	O
+Notre-Dame	B-LOCATION
+de	I-LOCATION
+la	I-LOCATION
+Garde	I-LOCATION
+signalled	O
+the	O
+three-master	O
+,	O
+the	O
+_	O
+Pharaon	O
+_	O
+from	O
+Smyrna	B-LOCATION
+,	O
+Trieste	B-LOCATION
+,	O
+and	O
+Naples	B-LOCATION
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000002
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As usual , a pilot put off immediately , and rounding the Château d'If , got on board the vessel between Cape Morgion and Rion island .
+As	O
+usual	O
+,	O
+a	O
+pilot	O
+put	O
+off	O
+immediately	O
+,	O
+and	O
+rounding	O
+the	O
+Château	B-LOCATION
+d'If	I-LOCATION
+,	O
+got	O
+on	O
+board	O
+the	O
+vessel	O
+between	O
+Cape	B-LOCATION
+Morgion	I-LOCATION
+and	O
+Rion	B-LOCATION
+island	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000003
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Immediately , and according to custom , the ramparts of Fort Saint-Jean were covered with spectators ; it is always an event at Marseilles for a ship to come into port , especially when this ship , like the _ Pharaon _ , has been built , rigged , and laden at the old Phocee docks , and belongs to an owner of the city .
+Immediately	O
+,	O
+and	O
+according	O
+to	O
+custom	O
+,	O
+the	O
+ramparts	O
+of	O
+Fort	B-LOCATION
+Saint-Jean	I-LOCATION
+were	O
+covered	O
+with	O
+spectators	O
+;	O
+it	O
+is	O
+always	O
+an	O
+event	O
+at	O
+Marseilles	B-LOCATION
+for	O
+a	O
+ship	O
+to	O
+come	O
+into	O
+port	O
+,	O
+especially	O
+when	O
+this	O
+ship	O
+,	O
+like	O
+the	O
+_	O
+Pharaon	O
+_	O
+,	O
+has	O
+been	O
+built	O
+,	O
+rigged	O
+,	O
+and	O
+laden	O
+at	O
+the	O
+old	O
+Phocee	B-LOCATION
+docks	O
+,	O
+and	O
+belongs	O
+to	O
+an	O
+owner	O
+of	O
+the	O
+city	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000004
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The ship drew on and had safely passed the strait , which some volcanic shock has made between the Calasareigne and Jaros islands ; had doubled Pomègue , and approached the harbor under topsails , jib , and spanker , but so slowly and sedately that the idlers , with that instinct which is the forerunner of evil , asked one another what misfortune could have happened on board .
+The	O
+ship	O
+drew	O
+on	O
+and	O
+had	O
+safely	O
+passed	O
+the	O
+strait	O
+,	O
+which	O
+some	O
+volcanic	O
+shock	O
+has	O
+made	O
+between	O
+the	O
+Calasareigne	B-LOCATION
+and	O
+Jaros	B-LOCATION
+islands	O
+;	O
+had	O
+doubled	O
+Pomègue	B-LOCATION
+,	O
+and	O
+approached	O
+the	O
+harbor	O
+under	O
+topsails	O
+,	O
+jib	O
+,	O
+and	O
+spanker	O
+,	O
+but	O
+so	O
+slowly	O
+and	O
+sedately	O
+that	O
+the	O
+idlers	O
+,	O
+with	O
+that	O
+instinct	O
+which	O
+is	O
+the	O
+forerunner	O
+of	O
+evil	O
+,	O
+asked	O
+one	O
+another	O
+what	O
+misfortune	O
+could	O
+have	O
+happened	O
+on	O
+board	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000005
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = However , those experienced in navigation saw plainly that if any accident had occurred , it was not to the vessel herself , for she bore down with all the evidence of being skilfully handled , the anchor a-cockbill , the jib-boom guys already eased off , and standing by the side of the pilot , who was steering the _ Pharaon _ towards the narrow entrance of the inner port , was a young man , who , with activity and vigilant eye , watched every motion of the ship , and repeated each direction of the pilot .
+However	O
+,	O
+those	O
+experienced	O
+in	O
+navigation	O
+saw	O
+plainly	O
+that	O
+if	O
+any	O
+accident	O
+had	O
+occurred	O
+,	O
+it	O
+was	O
+not	O
+to	O
+the	O
+vessel	O
+herself	O
+,	O
+for	O
+she	O
+bore	O
+down	O
+with	O
+all	O
+the	O
+evidence	O
+of	O
+being	O
+skilfully	O
+handled	O
+,	O
+the	O
+anchor	O
+a-cockbill	O
+,	O
+the	O
+jib-boom	O
+guys	O
+already	O
+eased	O
+off	O
+,	O
+and	O
+standing	O
+by	O
+the	O
+side	O
+of	O
+the	O
+pilot	O
+,	O
+who	O
+was	O
+steering	O
+the	O
+_	O
+Pharaon	O
+_	O
+towards	O
+the	O
+narrow	O
+entrance	O
+of	O
+the	O
+inner	O
+port	O
+,	O
+was	O
+a	O
+young	O
+man	O
+,	O
+who	O
+,	O
+with	O
+activity	O
+and	O
+vigilant	O
+eye	O
+,	O
+watched	O
+every	O
+motion	O
+of	O
+the	O
+ship	O
+,	O
+and	O
+repeated	O
+each	O
+direction	O
+of	O
+the	O
+pilot	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000006
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The vague disquietude which prevailed among the spectators had so much affected one of the crowd that he did not await the arrival of the vessel in harbor , but jumping into a small skiff , desired to be pulled alongside the _ Pharaon _ , which he reached as she rounded into La Réserve basin .
+The	O
+vague	O
+disquietude	O
+which	O
+prevailed	O
+among	O
+the	O
+spectators	O
+had	O
+so	O
+much	O
+affected	O
+one	O
+of	O
+the	O
+crowd	O
+that	O
+he	O
+did	O
+not	O
+await	O
+the	O
+arrival	O
+of	O
+the	O
+vessel	O
+in	O
+harbor	O
+,	O
+but	O
+jumping	O
+into	O
+a	O
+small	O
+skiff	O
+,	O
+desired	O
+to	O
+be	O
+pulled	O
+alongside	O
+the	O
+_	O
+Pharaon	O
+_	O
+,	O
+which	O
+he	O
+reached	O
+as	O
+she	O
+rounded	O
+into	O
+La	B-LOCATION
+Réserve	I-LOCATION
+basin	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000007
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When the young man on board saw this person approach , he left his station by the pilot , and , hat in hand , leaned over the ship 's bulwarks .
+When	O
+the	O
+young	O
+man	O
+on	O
+board	O
+saw	O
+this	O
+person	O
+approach	O
+,	O
+he	O
+left	O
+his	O
+station	O
+by	O
+the	O
+pilot	O
+,	O
+and	O
+,	O
+hat	O
+in	O
+hand	O
+,	O
+leaned	O
+over	O
+the	O
+ship	O
+'s	O
+bulwarks	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000008
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was a fine , tall , slim young fellow of eighteen or twenty , with black eyes , and hair as dark as a raven 's wing ; and his whole appearance bespoke that calmness and resolution peculiar to men accustomed from their cradle to contend with danger .
+He	O
+was	O
+a	O
+fine	O
+,	O
+tall	O
+,	O
+slim	O
+young	O
+fellow	O
+of	O
+eighteen	O
+or	O
+twenty	O
+,	O
+with	O
+black	O
+eyes	O
+,	O
+and	O
+hair	O
+as	O
+dark	O
+as	O
+a	O
+raven	O
+'s	O
+wing	O
+;	O
+and	O
+his	O
+whole	O
+appearance	O
+bespoke	O
+that	O
+calmness	O
+and	O
+resolution	O
+peculiar	O
+to	O
+men	O
+accustomed	O
+from	O
+their	O
+cradle	O
+to	O
+contend	O
+with	O
+danger	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000009
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ah , is it you , Dantès ? ''
+``	O
+Ah	O
+,	O
+is	O
+it	O
+you	O
+,	O
+Dantès	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000010
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried the man in the skiff .
+cried	O
+the	O
+man	O
+in	O
+the	O
+skiff	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000011
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What 's the matter ?
+``	O
+What	O
+'s	O
+the	O
+matter	O
+?	O
+
+# id = conivel-the-count-of-monte-cristo-000012
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = and why have you such an air of sadness aboard ? ''
+and	O
+why	O
+have	O
+you	O
+such	O
+an	O
+air	O
+of	O
+sadness	O
+aboard	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000013
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A great misfortune , M. Morrel , ''
+``	O
+A	O
+great	O
+misfortune	O
+,	O
+M.	B-CHARACTER
+Morrel	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000014
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = replied the young man , -- `` a great misfortune , for me especially !
+replied	O
+the	O
+young	O
+man	O
+,	O
+--	O
+``	O
+a	O
+great	O
+misfortune	O
+,	O
+for	O
+me	O
+especially	O
+!	O
+
+# id = conivel-the-count-of-monte-cristo-000015
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Off Civita Vecchia we lost our brave Captain Leclere . ''
+Off	O
+Civita	B-LOCATION
+Vecchia	I-LOCATION
+we	O
+lost	O
+our	O
+brave	O
+Captain	B-CHARACTER
+Leclere	I-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000016
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And the cargo ? ''
+``	O
+And	O
+the	O
+cargo	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000017
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = inquired the owner , eagerly .
+inquired	O
+the	O
+owner	O
+,	O
+eagerly	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000018
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Is all safe , M. Morrel ; and I think you will be satisfied on that head .
+``	O
+Is	O
+all	O
+safe	O
+,	O
+M.	B-CHARACTER
+Morrel	I-CHARACTER
+;	O
+and	O
+I	O
+think	O
+you	O
+will	O
+be	O
+satisfied	O
+on	O
+that	O
+head	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000019
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But poor Captain Leclere -- ''
+But	O
+poor	O
+Captain	B-CHARACTER
+Leclere	I-CHARACTER
+--	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000020
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What happened to him ? ''
+``	O
+What	O
+happened	O
+to	O
+him	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000021
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = asked the owner , with an air of considerable resignation .
+asked	O
+the	O
+owner	O
+,	O
+with	O
+an	O
+air	O
+of	O
+considerable	O
+resignation	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000022
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What happened to the worthy captain ? ''
+``	O
+What	O
+happened	O
+to	O
+the	O
+worthy	O
+captain	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000023
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He died . ''
+``	O
+He	O
+died	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000024
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Fell into the sea ? ''
+``	O
+Fell	O
+into	O
+the	O
+sea	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000025
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , sir , he died of brain-fever in dreadful agony . ''
+``	O
+No	O
+,	O
+sir	O
+,	O
+he	O
+died	O
+of	O
+brain-fever	O
+in	O
+dreadful	O
+agony	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000026
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then turning to the crew , he said , `` Bear a hand there , to take in sail ! ''
+Then	O
+turning	O
+to	O
+the	O
+crew	O
+,	O
+he	O
+said	O
+,	O
+``	O
+Bear	O
+a	O
+hand	O
+there	O
+,	O
+to	O
+take	O
+in	O
+sail	O
+!	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000027
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All hands obeyed , and at once the eight or ten seamen who composed the crew , sprang to their respective stations at the spanker brails and outhaul , topsail sheets and halyards , the jib downhaul , and the topsail clewlines and buntlines .
+All	O
+hands	O
+obeyed	O
+,	O
+and	O
+at	O
+once	O
+the	O
+eight	O
+or	O
+ten	O
+seamen	O
+who	O
+composed	O
+the	O
+crew	O
+,	O
+sprang	O
+to	O
+their	O
+respective	O
+stations	O
+at	O
+the	O
+spanker	O
+brails	O
+and	O
+outhaul	O
+,	O
+topsail	O
+sheets	O
+and	O
+halyards	O
+,	O
+the	O
+jib	O
+downhaul	O
+,	O
+and	O
+the	O
+topsail	O
+clewlines	O
+and	O
+buntlines	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000028
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The young sailor gave a look to see that his orders were promptly and accurately obeyed , and then turned again to the owner .
+The	O
+young	O
+sailor	O
+gave	O
+a	O
+look	O
+to	O
+see	O
+that	O
+his	O
+orders	O
+were	O
+promptly	O
+and	O
+accurately	O
+obeyed	O
+,	O
+and	O
+then	O
+turned	O
+again	O
+to	O
+the	O
+owner	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000029
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And how did this misfortune occur ? ''
+``	O
+And	O
+how	O
+did	O
+this	O
+misfortune	O
+occur	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000030
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = inquired the latter , resuming the interrupted conversation .
+inquired	O
+the	O
+latter	O
+,	O
+resuming	O
+the	O
+interrupted	O
+conversation	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000031
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Alas , sir , in the most unexpected manner .
+``	O
+Alas	O
+,	O
+sir	O
+,	O
+in	O
+the	O
+most	O
+unexpected	O
+manner	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000032
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = After a long talk with the harbor-master , Captain Leclere left Naples greatly disturbed in mind .
+After	O
+a	O
+long	O
+talk	O
+with	O
+the	O
+harbor-master	O
+,	O
+Captain	B-CHARACTER
+Leclere	I-CHARACTER
+left	O
+Naples	B-LOCATION
+greatly	O
+disturbed	O
+in	O
+mind	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000033
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In twenty-four hours he was attacked by a fever , and died three days afterwards .
+In	O
+twenty-four	O
+hours	O
+he	O
+was	O
+attacked	O
+by	O
+a	O
+fever	O
+,	O
+and	O
+died	O
+three	O
+days	O
+afterwards	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000034
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We performed the usual burial service , and he is at his rest , sewn up in his hammock with a thirty-six pound shot at his head and his heels , off El Giglio island .
+We	O
+performed	O
+the	O
+usual	O
+burial	O
+service	O
+,	O
+and	O
+he	O
+is	O
+at	O
+his	O
+rest	O
+,	O
+sewn	O
+up	O
+in	O
+his	O
+hammock	O
+with	O
+a	O
+thirty-six	O
+pound	O
+shot	O
+at	O
+his	O
+head	O
+and	O
+his	O
+heels	O
+,	O
+off	O
+El	B-LOCATION
+Giglio	I-LOCATION
+island	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000035
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We bring to his widow his sword and cross of honor .
+We	O
+bring	O
+to	O
+his	O
+widow	O
+his	O
+sword	O
+and	O
+cross	O
+of	O
+honor	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000036
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was worth while , truly , ''
+It	O
+was	O
+worth	O
+while	O
+,	O
+truly	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000037
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = added the young man with a melancholy smile , `` to make war against the English for ten years , and to die in his bed at last , like everybody else . ''
+added	O
+the	O
+young	O
+man	O
+with	O
+a	O
+melancholy	O
+smile	O
+,	O
+``	O
+to	O
+make	O
+war	O
+against	O
+the	O
+English	O
+for	O
+ten	O
+years	O
+,	O
+and	O
+to	O
+die	O
+in	O
+his	O
+bed	O
+at	O
+last	O
+,	O
+like	O
+everybody	O
+else	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000038
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Why , you see , Edmond , ''
+``	O
+Why	O
+,	O
+you	O
+see	O
+,	O
+Edmond	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000039
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = replied the owner , who appeared more comforted at every moment , `` we are all mortal , and the old must make way for the young .
+replied	O
+the	O
+owner	O
+,	O
+who	O
+appeared	O
+more	O
+comforted	O
+at	O
+every	O
+moment	O
+,	O
+``	O
+we	O
+are	O
+all	O
+mortal	O
+,	O
+and	O
+the	O
+old	O
+must	O
+make	O
+way	O
+for	O
+the	O
+young	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000040
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If not , why , there would be no promotion ; and since you assure me that the cargo -- ''
+If	O
+not	O
+,	O
+why	O
+,	O
+there	O
+would	O
+be	O
+no	O
+promotion	O
+;	O
+and	O
+since	O
+you	O
+assure	O
+me	O
+that	O
+the	O
+cargo	O
+--	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000041
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Is all safe and sound , M. Morrel , take my word for it ; and I advise you not to take 25,000 francs for the profits of the voyage . ''
+``	O
+Is	O
+all	O
+safe	O
+and	O
+sound	O
+,	O
+M.	B-CHARACTER
+Morrel	I-CHARACTER
+,	O
+take	O
+my	O
+word	O
+for	O
+it	O
+;	O
+and	O
+I	O
+advise	O
+you	O
+not	O
+to	O
+take	O
+25,000	O
+francs	O
+for	O
+the	O
+profits	O
+of	O
+the	O
+voyage	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000042
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then , as they were just passing the Round Tower , the young man shouted : `` Stand by there to lower the topsails and jib ; brail up the spanker ! ''
+Then	O
+,	O
+as	O
+they	O
+were	O
+just	O
+passing	O
+the	O
+Round	B-LOCATION
+Tower	I-LOCATION
+,	O
+the	O
+young	O
+man	O
+shouted	O
+:	O
+``	O
+Stand	O
+by	O
+there	O
+to	O
+lower	O
+the	O
+topsails	O
+and	O
+jib	O
+;	O
+brail	O
+up	O
+the	O
+spanker	O
+!	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000043
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The order was executed as promptly as it would have been on board a man - of-war .
+The	O
+order	O
+was	O
+executed	O
+as	O
+promptly	O
+as	O
+it	O
+would	O
+have	O
+been	O
+on	O
+board	O
+a	O
+man	O
+-	O
+of-war	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000044
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Let go -- and clue up ! ''
+``	O
+Let	O
+go	O
+--	O
+and	O
+clue	O
+up	O
+!	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000045
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At this last command all the sails were lowered , and the vessel moved almost imperceptibly onwards .
+At	O
+this	O
+last	O
+command	O
+all	O
+the	O
+sails	O
+were	O
+lowered	O
+,	O
+and	O
+the	O
+vessel	O
+moved	O
+almost	O
+imperceptibly	O
+onwards	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000046
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Now , if you will come on board , M. Morrel , ''
+``	O
+Now	O
+,	O
+if	O
+you	O
+will	O
+come	O
+on	O
+board	O
+,	O
+M.	B-CHARACTER
+Morrel	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000047
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Dantès , observing the owner 's impatience , `` here is your supercargo , M. Danglars , coming out of his cabin , who will furnish you with every particular .
+said	O
+Dantès	B-CHARACTER
+,	O
+observing	O
+the	O
+owner	O
+'s	O
+impatience	O
+,	O
+``	O
+here	O
+is	O
+your	O
+supercargo	O
+,	O
+M.	B-CHARACTER
+Danglars	I-CHARACTER
+,	O
+coming	O
+out	O
+of	O
+his	O
+cabin	O
+,	O
+who	O
+will	O
+furnish	O
+you	O
+with	O
+every	O
+particular	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000048
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As for me , I must look after the anchoring , and dress the ship in mourning . ''
+As	O
+for	O
+me	O
+,	O
+I	O
+must	O
+look	O
+after	O
+the	O
+anchoring	O
+,	O
+and	O
+dress	O
+the	O
+ship	O
+in	O
+mourning	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000049
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The owner did not wait for a second invitation .
+The	O
+owner	O
+did	O
+not	O
+wait	O
+for	O
+a	O
+second	O
+invitation	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000050
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He seized a rope which Dantès flung to him , and with an activity that would have done credit to a sailor , climbed up the side of the ship , while the young man , going to his task , left the conversation to Danglars , who now came towards the owner .
+He	O
+seized	O
+a	O
+rope	O
+which	O
+Dantès	B-CHARACTER
+flung	O
+to	O
+him	O
+,	O
+and	O
+with	O
+an	O
+activity	O
+that	O
+would	O
+have	O
+done	O
+credit	O
+to	O
+a	O
+sailor	O
+,	O
+climbed	O
+up	O
+the	O
+side	O
+of	O
+the	O
+ship	O
+,	O
+while	O
+the	O
+young	O
+man	O
+,	O
+going	O
+to	O
+his	O
+task	O
+,	O
+left	O
+the	O
+conversation	O
+to	O
+Danglars	B-CHARACTER
+,	O
+who	O
+now	O
+came	O
+towards	O
+the	O
+owner	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000051
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was a man of twenty-five or twenty-six years of age , of unprepossessing countenance , obsequious to his superiors , insolent to his subordinates ; and this , in addition to his position as responsible agent on board , which is always obnoxious to the sailors , made him as much disliked by the crew as Edmond Dantès was beloved by them .
+He	O
+was	O
+a	O
+man	O
+of	O
+twenty-five	O
+or	O
+twenty-six	O
+years	O
+of	O
+age	O
+,	O
+of	O
+unprepossessing	O
+countenance	O
+,	O
+obsequious	O
+to	O
+his	O
+superiors	O
+,	O
+insolent	O
+to	O
+his	O
+subordinates	O
+;	O
+and	O
+this	O
+,	O
+in	O
+addition	O
+to	O
+his	O
+position	O
+as	O
+responsible	O
+agent	O
+on	O
+board	O
+,	O
+which	O
+is	O
+always	O
+obnoxious	O
+to	O
+the	O
+sailors	O
+,	O
+made	O
+him	O
+as	O
+much	O
+disliked	O
+by	O
+the	O
+crew	O
+as	O
+Edmond	B-CHARACTER
+Dantès	I-CHARACTER
+was	O
+beloved	O
+by	O
+them	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000052
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , M. Morrel , ''
+``	O
+Well	O
+,	O
+M.	B-CHARACTER
+Morrel	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000053
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Danglars , `` you have heard of the misfortune that has befallen us ? ''
+said	O
+Danglars	B-CHARACTER
+,	O
+``	O
+you	O
+have	O
+heard	O
+of	O
+the	O
+misfortune	O
+that	O
+has	O
+befallen	O
+us	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000054
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes -- yes : poor Captain Leclere !
+``	O
+Yes	O
+--	O
+yes	O
+:	O
+poor	O
+Captain	B-CHARACTER
+Leclere	I-CHARACTER
+!	O
+
+# id = conivel-the-count-of-monte-cristo-000055
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was a brave and an honest man . ''
+He	O
+was	O
+a	O
+brave	O
+and	O
+an	O
+honest	O
+man	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000056
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And a first-rate seaman , one who had seen long and honorable service , as became a man charged with the interests of a house so important as that of Morrel & Son , ''
+``	O
+And	O
+a	O
+first-rate	O
+seaman	O
+,	O
+one	O
+who	O
+had	O
+seen	O
+long	O
+and	O
+honorable	O
+service	O
+,	O
+as	O
+became	O
+a	O
+man	O
+charged	O
+with	O
+the	O
+interests	O
+of	O
+a	O
+house	O
+so	O
+important	O
+as	O
+that	O
+of	O
+Morrel	O
+&	O
+Son	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000057
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = replied Danglars .
+replied	O
+Danglars	B-CHARACTER
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000058
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But , ''
+``	O
+But	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000059
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = replied the owner , glancing after Dantès , who was watching the anchoring of his vessel , `` it seems to me that a sailor needs not be so old as you say , Danglars , to understand his business , for our friend Edmond seems to understand it thoroughly , and not to require instruction from any one . ''
+replied	O
+the	O
+owner	O
+,	O
+glancing	O
+after	O
+Dantès	B-CHARACTER
+,	O
+who	O
+was	O
+watching	O
+the	O
+anchoring	O
+of	O
+his	O
+vessel	O
+,	O
+``	O
+it	O
+seems	O
+to	O
+me	O
+that	O
+a	O
+sailor	O
+needs	O
+not	O
+be	O
+so	O
+old	O
+as	O
+you	O
+say	O
+,	O
+Danglars	B-CHARACTER
+,	O
+to	O
+understand	O
+his	O
+business	O
+,	O
+for	O
+our	O
+friend	O
+Edmond	B-CHARACTER
+seems	O
+to	O
+understand	O
+it	O
+thoroughly	O
+,	O
+and	O
+not	O
+to	O
+require	O
+instruction	O
+from	O
+any	O
+one	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000060
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , ''
+``	O
+Yes	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000061
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Danglars , darting at Edmond a look gleaming with hate .
+said	O
+Danglars	B-CHARACTER
+,	O
+darting	O
+at	O
+Edmond	B-CHARACTER
+a	O
+look	O
+gleaming	O
+with	O
+hate	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000062
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , he is young , and youth is invariably self-confident .
+``	O
+Yes	O
+,	O
+he	O
+is	O
+young	O
+,	O
+and	O
+youth	O
+is	O
+invariably	O
+self-confident	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000063
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Scarcely was the captain 's breath out of his body when he assumed the command without consulting anyone , and he caused us to lose a day and a half at the Island of Elba , instead of making for Marseilles direct . ''
+Scarcely	O
+was	O
+the	O
+captain	O
+'s	O
+breath	O
+out	O
+of	O
+his	O
+body	O
+when	O
+he	O
+assumed	O
+the	O
+command	O
+without	O
+consulting	O
+anyone	O
+,	O
+and	O
+he	O
+caused	O
+us	O
+to	O
+lose	O
+a	O
+day	O
+and	O
+a	O
+half	O
+at	O
+the	O
+Island	B-LOCATION
+of	I-LOCATION
+Elba	I-LOCATION
+,	O
+instead	O
+of	O
+making	O
+for	O
+Marseilles	B-LOCATION
+direct	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000064
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` As to taking command of the vessel , ''
+``	O
+As	O
+to	O
+taking	O
+command	O
+of	O
+the	O
+vessel	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000065
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = replied Morrel , `` that was his duty as captain 's mate ; as to losing a day and a half off the Island of Elba , he was wrong , unless the vessel needed repairs . ''
+replied	O
+Morrel	B-CHARACTER
+,	O
+``	O
+that	O
+was	O
+his	O
+duty	O
+as	O
+captain	O
+'s	O
+mate	O
+;	O
+as	O
+to	O
+losing	O
+a	O
+day	O
+and	O
+a	O
+half	O
+off	O
+the	O
+Island	B-LOCATION
+of	I-LOCATION
+Elba	I-LOCATION
+,	O
+he	O
+was	O
+wrong	O
+,	O
+unless	O
+the	O
+vessel	O
+needed	O
+repairs	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000066
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The vessel was in as good condition as I am , and as , I hope you are , M. Morrel , and this day and a half was lost from pure whim , for the pleasure of going ashore , and nothing else . ''
+``	O
+The	O
+vessel	O
+was	O
+in	O
+as	O
+good	O
+condition	O
+as	O
+I	O
+am	O
+,	O
+and	O
+as	O
+,	O
+I	O
+hope	O
+you	O
+are	O
+,	O
+M.	B-CHARACTER
+Morrel	I-CHARACTER
+,	O
+and	O
+this	O
+day	O
+and	O
+a	O
+half	O
+was	O
+lost	O
+from	O
+pure	O
+whim	O
+,	O
+for	O
+the	O
+pleasure	O
+of	O
+going	O
+ashore	O
+,	O
+and	O
+nothing	O
+else	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000067
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Dantès , ''
+``	O
+Dantès	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000068
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the shipowner , turning towards the young man , `` come this way ! ''
+said	O
+the	O
+shipowner	O
+,	O
+turning	O
+towards	O
+the	O
+young	O
+man	O
+,	O
+``	O
+come	O
+this	O
+way	O
+!	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000069
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` In a moment , sir , ''
+``	O
+In	O
+a	O
+moment	O
+,	O
+sir	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000070
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = answered Dantès , `` and I 'm with you . ''
+answered	O
+Dantès	B-CHARACTER
+,	O
+``	O
+and	O
+I	O
+'m	O
+with	O
+you	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000071
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then calling to the crew , he said -- `` Let go ! ''
+Then	O
+calling	O
+to	O
+the	O
+crew	O
+,	O
+he	O
+said	O
+--	O
+``	O
+Let	O
+go	O
+!	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000072
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The anchor was instantly dropped , and the chain ran rattling through the port-hole .
+The	O
+anchor	O
+was	O
+instantly	O
+dropped	O
+,	O
+and	O
+the	O
+chain	O
+ran	O
+rattling	O
+through	O
+the	O
+port-hole	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000073
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Dantès continued at his post in spite of the presence of the pilot , until this manoeuvre was completed , and then he added , `` Half-mast the colors , and square the yards ! ''
+Dantès	B-CHARACTER
+continued	O
+at	O
+his	O
+post	O
+in	O
+spite	O
+of	O
+the	O
+presence	O
+of	O
+the	O
+pilot	O
+,	O
+until	O
+this	O
+manoeuvre	O
+was	O
+completed	O
+,	O
+and	O
+then	O
+he	O
+added	O
+,	O
+``	O
+Half-mast	O
+the	O
+colors	O
+,	O
+and	O
+square	O
+the	O
+yards	O
+!	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000074
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You see , ''
+``	O
+You	O
+see	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000075
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Danglars , `` he fancies himself captain already , upon my word . ''
+said	O
+Danglars	B-CHARACTER
+,	O
+``	O
+he	O
+fancies	O
+himself	O
+captain	O
+already	O
+,	O
+upon	O
+my	O
+word	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000076
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And so , in fact , he is , ''
+``	O
+And	O
+so	O
+,	O
+in	O
+fact	O
+,	O
+he	O
+is	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000077
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the owner .
+said	O
+the	O
+owner	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000078
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Except your signature and your partner 's , M. Morrel . ''
+``	O
+Except	O
+your	O
+signature	O
+and	O
+your	O
+partner	O
+'s	O
+,	O
+M.	B-CHARACTER
+Morrel	I-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000079
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And why should he not have this ? ''
+``	O
+And	O
+why	O
+should	O
+he	O
+not	O
+have	O
+this	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000080
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = asked the owner ; `` he is young , it is true , but he seems to me a thorough seaman , and of full experience . ''
+asked	O
+the	O
+owner	O
+;	O
+``	O
+he	O
+is	O
+young	O
+,	O
+it	O
+is	O
+true	O
+,	O
+but	O
+he	O
+seems	O
+to	O
+me	O
+a	O
+thorough	O
+seaman	O
+,	O
+and	O
+of	O
+full	O
+experience	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000081
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A cloud passed over Danglars ' brow .
+A	O
+cloud	O
+passed	O
+over	O
+Danglars	B-CHARACTER
+'	O
+brow	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000082
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Your pardon , M. Morrel , ''
+``	O
+Your	O
+pardon	O
+,	O
+M.	B-CHARACTER
+Morrel	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000083
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Dantès , approaching , `` the vessel now rides at anchor , and I am at your service .
+said	O
+Dantès	B-CHARACTER
+,	O
+approaching	O
+,	O
+``	O
+the	O
+vessel	O
+now	O
+rides	O
+at	O
+anchor	O
+,	O
+and	O
+I	O
+am	O
+at	O
+your	O
+service	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000084
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You hailed me , I think ? ''
+You	O
+hailed	O
+me	O
+,	O
+I	O
+think	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000085
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Danglars retreated a step or two .
+Danglars	B-CHARACTER
+retreated	O
+a	O
+step	O
+or	O
+two	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000086
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I wished to inquire why you stopped at the Island of Elba ? ''
+``	O
+I	O
+wished	O
+to	O
+inquire	O
+why	O
+you	O
+stopped	O
+at	O
+the	O
+Island	B-LOCATION
+of	I-LOCATION
+Elba	I-LOCATION
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000087
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do not know , sir ; it was to fulfil the last instructions of Captain Leclere , who , when dying , gave me a packet for Marshal Bertrand . ''
+``	O
+I	O
+do	O
+not	O
+know	O
+,	O
+sir	O
+;	O
+it	O
+was	O
+to	O
+fulfil	O
+the	O
+last	O
+instructions	O
+of	O
+Captain	B-CHARACTER
+Leclere	I-CHARACTER
+,	O
+who	O
+,	O
+when	O
+dying	O
+,	O
+gave	O
+me	O
+a	O
+packet	O
+for	O
+Marshal	B-CHARACTER
+Bertrand	I-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000088
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Then did you see him , Edmond ? ''
+``	O
+Then	O
+did	O
+you	O
+see	O
+him	O
+,	O
+Edmond	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000089
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Who ? ''
+``	O
+Who	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000090
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The marshal . ''
+``	O
+The	O
+marshal	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000091
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes . ''
+``	O
+Yes	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000092
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Morrel looked around him , and then , drawing Dantès on one side , he said suddenly -- `` And how is the emperor ? ''
+Morrel	B-CHARACTER
+looked	O
+around	O
+him	O
+,	O
+and	O
+then	O
+,	O
+drawing	O
+Dantès	B-CHARACTER
+on	O
+one	O
+side	O
+,	O
+he	O
+said	O
+suddenly	O
+--	O
+``	O
+And	O
+how	O
+is	O
+the	O
+emperor	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000093
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Very well , as far as I could judge from the sight of him . ''
+``	O
+Very	O
+well	O
+,	O
+as	O
+far	O
+as	O
+I	O
+could	O
+judge	O
+from	O
+the	O
+sight	O
+of	O
+him	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000094
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You saw the emperor , then ? ''
+``	O
+You	O
+saw	O
+the	O
+emperor	O
+,	O
+then	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000095
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He entered the marshal 's apartment while I was there . ''
+``	O
+He	O
+entered	O
+the	O
+marshal	O
+'s	O
+apartment	O
+while	O
+I	O
+was	O
+there	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000096
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And you spoke to him ? ''
+``	O
+And	O
+you	O
+spoke	O
+to	O
+him	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000097
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Why , it was he who spoke to me , sir , ''
+``	O
+Why	O
+,	O
+it	O
+was	O
+he	O
+who	O
+spoke	O
+to	O
+me	O
+,	O
+sir	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000098
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Dantès , with a smile .
+said	O
+Dantès	B-CHARACTER
+,	O
+with	O
+a	O
+smile	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000099
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And what did he say to you ? ''
+``	O
+And	O
+what	O
+did	O
+he	O
+say	O
+to	O
+you	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000100
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Asked me questions about the vessel , the time she left Marseilles , the course she had taken , and what was her cargo .
+``	O
+Asked	O
+me	O
+questions	O
+about	O
+the	O
+vessel	O
+,	O
+the	O
+time	O
+she	O
+left	O
+Marseilles	B-LOCATION
+,	O
+the	O
+course	O
+she	O
+had	O
+taken	O
+,	O
+and	O
+what	O
+was	O
+her	O
+cargo	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000101
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I believe , if she had not been laden , and I had been her master , he would have bought her .
+I	O
+believe	O
+,	O
+if	O
+she	O
+had	O
+not	O
+been	O
+laden	O
+,	O
+and	O
+I	O
+had	O
+been	O
+her	O
+master	O
+,	O
+he	O
+would	O
+have	O
+bought	O
+her	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000102
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But I told him I was only mate , and that she belonged to the firm of Morrel & Son . ''
+But	O
+I	O
+told	O
+him	O
+I	O
+was	O
+only	O
+mate	O
+,	O
+and	O
+that	O
+she	O
+belonged	O
+to	O
+the	O
+firm	O
+of	O
+Morrel	O
+&	O
+Son	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000103
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ah , yes , ''
+``	O
+Ah	O
+,	O
+yes	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000104
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said , `` I know them .
+he	O
+said	O
+,	O
+``	O
+I	O
+know	O
+them	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000105
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Morrels have been shipowners from father to son ; and there was a Morrel who served in the same regiment with me when I was in garrison at Valence . ''
+The	O
+Morrels	B-CHARACTER
+have	O
+been	O
+shipowners	O
+from	O
+father	O
+to	O
+son	O
+;	O
+and	O
+there	O
+was	O
+a	O
+Morrel	B-CHARACTER
+who	O
+served	O
+in	O
+the	O
+same	O
+regiment	O
+with	O
+me	O
+when	O
+I	O
+was	O
+in	O
+garrison	O
+at	O
+Valence	B-LOCATION
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000106
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` _ Pardieu !
+``	O
+_	O
+Pardieu	O
+!	O
+
+# id = conivel-the-count-of-monte-cristo-000107
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = _ , and that is true ! ''
+_	O
+,	O
+and	O
+that	O
+is	O
+true	O
+!	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000108
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried the owner , greatly delighted .
+cried	O
+the	O
+owner	O
+,	O
+greatly	O
+delighted	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000109
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And that was Policar Morrel , my uncle , who was afterwards a captain .
+``	O
+And	O
+that	O
+was	O
+Policar	B-CHARACTER
+Morrel	I-CHARACTER
+,	O
+my	O
+uncle	O
+,	O
+who	O
+was	O
+afterwards	O
+a	O
+captain	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000110
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Dantès , you must tell my uncle that the emperor remembered him , and you will see it will bring tears into the old soldier 's eyes .
+Dantès	B-CHARACTER
+,	O
+you	O
+must	O
+tell	O
+my	O
+uncle	O
+that	O
+the	O
+emperor	O
+remembered	O
+him	O
+,	O
+and	O
+you	O
+will	O
+see	O
+it	O
+will	O
+bring	O
+tears	O
+into	O
+the	O
+old	O
+soldier	O
+'s	O
+eyes	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000111
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Come , come , ''
+Come	O
+,	O
+come	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000112
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = continued he , patting Edmond 's shoulder kindly , `` you did very right , Dantès , to follow Captain Leclere 's instructions , and touch at Elba , although if it were known that you had conveyed a packet to the marshal , and had conversed with the emperor , it might bring you into trouble . ''
+continued	O
+he	O
+,	O
+patting	O
+Edmond	B-CHARACTER
+'s	O
+shoulder	O
+kindly	O
+,	O
+``	O
+you	O
+did	O
+very	O
+right	O
+,	O
+Dantès	B-CHARACTER
+,	O
+to	O
+follow	O
+Captain	B-CHARACTER
+Leclere	I-CHARACTER
+'s	O
+instructions	O
+,	O
+and	O
+touch	O
+at	O
+Elba	B-LOCATION
+,	O
+although	O
+if	O
+it	O
+were	O
+known	O
+that	O
+you	O
+had	O
+conveyed	O
+a	O
+packet	O
+to	O
+the	O
+marshal	O
+,	O
+and	O
+had	O
+conversed	O
+with	O
+the	O
+emperor	O
+,	O
+it	O
+might	O
+bring	O
+you	O
+into	O
+trouble	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000113
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How could that bring me into trouble , sir ? ''
+``	O
+How	O
+could	O
+that	O
+bring	O
+me	O
+into	O
+trouble	O
+,	O
+sir	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000114
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = asked Dantès ; `` for I did not even know of what I was the bearer ; and the emperor merely made such inquiries as he would of the first comer .
+asked	O
+Dantès	B-CHARACTER
+;	O
+``	O
+for	O
+I	O
+did	O
+not	O
+even	O
+know	O
+of	O
+what	O
+I	O
+was	O
+the	O
+bearer	O
+;	O
+and	O
+the	O
+emperor	O
+merely	O
+made	O
+such	O
+inquiries	O
+as	O
+he	O
+would	O
+of	O
+the	O
+first	O
+comer	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000115
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But , pardon me , here are the health officers and the customs inspectors coming alongside . ''
+But	O
+,	O
+pardon	O
+me	O
+,	O
+here	O
+are	O
+the	O
+health	O
+officers	O
+and	O
+the	O
+customs	O
+inspectors	O
+coming	O
+alongside	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000116
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And the young man went to the gangway .
+And	O
+the	O
+young	O
+man	O
+went	O
+to	O
+the	O
+gangway	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000117
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As he departed , Danglars approached , and said , -- `` Well , it appears that he has given you satisfactory reasons for his landing at Porto-Ferrajo ? ''
+As	O
+he	O
+departed	O
+,	O
+Danglars	B-CHARACTER
+approached	O
+,	O
+and	O
+said	O
+,	O
+--	O
+``	O
+Well	O
+,	O
+it	O
+appears	O
+that	O
+he	O
+has	O
+given	O
+you	O
+satisfactory	O
+reasons	O
+for	O
+his	O
+landing	O
+at	O
+Porto-Ferrajo	B-LOCATION
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000118
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , most satisfactory , my dear Danglars . ''
+``	O
+Yes	O
+,	O
+most	O
+satisfactory	O
+,	O
+my	O
+dear	O
+Danglars	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000119
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , so much the better , ''
+``	O
+Well	O
+,	O
+so	O
+much	O
+the	O
+better	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000120
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the supercargo ; `` for it is not pleasant to think that a comrade has not done his duty . ''
+said	O
+the	O
+supercargo	O
+;	O
+``	O
+for	O
+it	O
+is	O
+not	O
+pleasant	O
+to	O
+think	O
+that	O
+a	O
+comrade	O
+has	O
+not	O
+done	O
+his	O
+duty	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000121
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Dantès has done his , ''
+``	O
+Dantès	B-CHARACTER
+has	O
+done	O
+his	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000122
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = replied the owner , `` and that is not saying much .
+replied	O
+the	O
+owner	O
+,	O
+``	O
+and	O
+that	O
+is	O
+not	O
+saying	O
+much	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000123
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was Captain Leclere who gave orders for this delay . ''
+It	O
+was	O
+Captain	B-CHARACTER
+Leclere	I-CHARACTER
+who	O
+gave	O
+orders	O
+for	O
+this	O
+delay	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000124
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Talking of Captain Leclere , has not Dantès given you a letter from him ? ''
+``	O
+Talking	O
+of	O
+Captain	B-CHARACTER
+Leclere	I-CHARACTER
+,	O
+has	O
+not	O
+Dantès	B-CHARACTER
+given	O
+you	O
+a	O
+letter	O
+from	O
+him	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000125
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` To me ?
+``	O
+To	O
+me	O
+?	O
+
+# id = conivel-the-count-of-monte-cristo-000126
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- no -- was there one ? ''
+--	O
+no	O
+--	O
+was	O
+there	O
+one	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000127
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I believe that , besides the packet , Captain Leclere confided a letter to his care . ''
+``	O
+I	O
+believe	O
+that	O
+,	O
+besides	O
+the	O
+packet	O
+,	O
+Captain	B-CHARACTER
+Leclere	I-CHARACTER
+confided	O
+a	O
+letter	O
+to	O
+his	O
+care	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000128
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Of what packet are you speaking , Danglars ? ''
+``	O
+Of	O
+what	O
+packet	O
+are	O
+you	O
+speaking	O
+,	O
+Danglars	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000129
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Why , that which Dantès left at Porto-Ferrajo . ''
+``	O
+Why	O
+,	O
+that	O
+which	O
+Dantès	B-CHARACTER
+left	O
+at	O
+Porto-Ferrajo	B-LOCATION
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000130
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How do you know he had a packet to leave at Porto-Ferrajo ? ''
+``	O
+How	O
+do	O
+you	O
+know	O
+he	O
+had	O
+a	O
+packet	O
+to	O
+leave	O
+at	O
+Porto-Ferrajo	B-LOCATION
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000131
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Danglars turned very red .
+Danglars	B-CHARACTER
+turned	O
+very	O
+red	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000132
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I was passing close to the door of the captain 's cabin , which was half open , and I saw him give the packet and letter to Dantès . ''
+``	O
+I	O
+was	O
+passing	O
+close	O
+to	O
+the	O
+door	O
+of	O
+the	O
+captain	O
+'s	O
+cabin	O
+,	O
+which	O
+was	O
+half	O
+open	O
+,	O
+and	O
+I	O
+saw	O
+him	O
+give	O
+the	O
+packet	O
+and	O
+letter	O
+to	O
+Dantès	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000133
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He did not speak to me of it , ''
+``	O
+He	O
+did	O
+not	O
+speak	O
+to	O
+me	O
+of	O
+it	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000134
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = replied the shipowner ; `` but if there be any letter he will give it to me . ''
+replied	O
+the	O
+shipowner	O
+;	O
+``	O
+but	O
+if	O
+there	O
+be	O
+any	O
+letter	O
+he	O
+will	O
+give	O
+it	O
+to	O
+me	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000135
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Danglars reflected for a moment .
+Danglars	B-CHARACTER
+reflected	O
+for	O
+a	O
+moment	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000136
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Then , M. Morrel , I beg of you , ''
+``	O
+Then	O
+,	O
+M.	B-CHARACTER
+Morrel	I-CHARACTER
+,	O
+I	O
+beg	O
+of	O
+you	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000137
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said he , `` not to say a word to Dantès on the subject .
+said	O
+he	O
+,	O
+``	O
+not	O
+to	O
+say	O
+a	O
+word	O
+to	O
+Dantès	B-CHARACTER
+on	O
+the	O
+subject	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000138
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I may have been mistaken . ''
+I	O
+may	O
+have	O
+been	O
+mistaken	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000139
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At this moment the young man returned ; Danglars withdrew .
+At	O
+this	O
+moment	O
+the	O
+young	O
+man	O
+returned	O
+;	O
+Danglars	B-CHARACTER
+withdrew	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000140
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , my dear Dantès , are you now free ? ''
+``	O
+Well	O
+,	O
+my	O
+dear	O
+Dantès	B-CHARACTER
+,	O
+are	O
+you	O
+now	O
+free	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000141
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = inquired the owner .
+inquired	O
+the	O
+owner	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000142
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , sir . ''
+``	O
+Yes	O
+,	O
+sir	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000143
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You have not been long detained . ''
+``	O
+You	O
+have	O
+not	O
+been	O
+long	O
+detained	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000144
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No .
+``	O
+No	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000145
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I gave the custom-house officers a copy of our bill of lading ; and as to the other papers , they sent a man off with the pilot , to whom I gave them . ''
+I	O
+gave	O
+the	O
+custom-house	O
+officers	O
+a	O
+copy	O
+of	O
+our	O
+bill	O
+of	O
+lading	O
+;	O
+and	O
+as	O
+to	O
+the	O
+other	O
+papers	O
+,	O
+they	O
+sent	O
+a	O
+man	O
+off	O
+with	O
+the	O
+pilot	O
+,	O
+to	O
+whom	O
+I	O
+gave	O
+them	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000146
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Then you have nothing more to do here ? ''
+``	O
+Then	O
+you	O
+have	O
+nothing	O
+more	O
+to	O
+do	O
+here	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000147
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No -- everything is all right now . ''
+``	O
+No	O
+--	O
+everything	O
+is	O
+all	O
+right	O
+now	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000148
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Then you can come and dine with me ? ''
+``	O
+Then	O
+you	O
+can	O
+come	O
+and	O
+dine	O
+with	O
+me	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000149
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I really must ask you to excuse me , M. Morrel .
+``	O
+I	O
+really	O
+must	O
+ask	O
+you	O
+to	O
+excuse	O
+me	O
+,	O
+M.	B-CHARACTER
+Morrel	I-CHARACTER
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000150
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My first visit is due to my father , though I am not the less grateful for the honor you have done me . ''
+My	O
+first	O
+visit	O
+is	O
+due	O
+to	O
+my	O
+father	O
+,	O
+though	O
+I	O
+am	O
+not	O
+the	O
+less	O
+grateful	O
+for	O
+the	O
+honor	O
+you	O
+have	O
+done	O
+me	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000151
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Right , Dantès , quite right .
+``	O
+Right	O
+,	O
+Dantès	B-CHARACTER
+,	O
+quite	O
+right	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000152
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I always knew you were a good son . ''
+I	O
+always	O
+knew	O
+you	O
+were	O
+a	O
+good	O
+son	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000153
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And , ''
+``	O
+And	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000154
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = inquired Dantès , with some hesitation , `` do you know how my father is ? ''
+inquired	O
+Dantès	B-CHARACTER
+,	O
+with	O
+some	O
+hesitation	O
+,	O
+``	O
+do	O
+you	O
+know	O
+how	O
+my	O
+father	O
+is	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000155
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , I believe , my dear Edmond , though I have not seen him lately . ''
+``	O
+Well	O
+,	O
+I	O
+believe	O
+,	O
+my	O
+dear	O
+Edmond	B-CHARACTER
+,	O
+though	O
+I	O
+have	O
+not	O
+seen	O
+him	O
+lately	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000156
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , he likes to keep himself shut up in his little room . ''
+``	O
+Yes	O
+,	O
+he	O
+likes	O
+to	O
+keep	O
+himself	O
+shut	O
+up	O
+in	O
+his	O
+little	O
+room	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000157
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That proves , at least , that he has wanted for nothing during your absence . ''
+``	O
+That	O
+proves	O
+,	O
+at	O
+least	O
+,	O
+that	O
+he	O
+has	O
+wanted	O
+for	O
+nothing	O
+during	O
+your	O
+absence	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000158
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Dantès smiled .
+Dantès	B-CHARACTER
+smiled	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000159
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` My father is proud , sir , and if he had not a meal left , I doubt if he would have asked anything from anyone , except from Heaven . ''
+``	O
+My	O
+father	O
+is	O
+proud	O
+,	O
+sir	O
+,	O
+and	O
+if	O
+he	O
+had	O
+not	O
+a	O
+meal	O
+left	O
+,	O
+I	O
+doubt	O
+if	O
+he	O
+would	O
+have	O
+asked	O
+anything	O
+from	O
+anyone	O
+,	O
+except	O
+from	O
+Heaven	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000160
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , then , after this first visit has been made we shall count on you . ''
+``	O
+Well	O
+,	O
+then	O
+,	O
+after	O
+this	O
+first	O
+visit	O
+has	O
+been	O
+made	O
+we	O
+shall	O
+count	O
+on	O
+you	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000161
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I must again excuse myself , M. Morrel , for after this first visit has been paid I have another which I am most anxious to pay . ''
+``	O
+I	O
+must	O
+again	O
+excuse	O
+myself	O
+,	O
+M.	B-CHARACTER
+Morrel	I-CHARACTER
+,	O
+for	O
+after	O
+this	O
+first	O
+visit	O
+has	O
+been	O
+paid	O
+I	O
+have	O
+another	O
+which	O
+I	O
+am	O
+most	O
+anxious	O
+to	O
+pay	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000162
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` True , Dantès , I forgot that there was at the Catalans someone who expects you no less impatiently than your father -- the lovely Mercédès . ''
+``	O
+True	O
+,	O
+Dantès	B-CHARACTER
+,	O
+I	O
+forgot	O
+that	O
+there	O
+was	O
+at	O
+the	O
+Catalans	B-LOCATION
+someone	O
+who	O
+expects	O
+you	O
+no	O
+less	O
+impatiently	O
+than	O
+your	O
+father	O
+--	O
+the	O
+lovely	O
+Mercédès	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000163
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Dantès blushed .
+Dantès	B-CHARACTER
+blushed	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000164
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ah , ha , ''
+``	O
+Ah	O
+,	O
+ha	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000165
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the shipowner , `` I am not in the least surprised , for she has been to me three times , inquiring if there were any news of the _ Pharaon _ .
+said	O
+the	O
+shipowner	O
+,	O
+``	O
+I	O
+am	O
+not	O
+in	O
+the	O
+least	O
+surprised	O
+,	O
+for	O
+she	O
+has	O
+been	O
+to	O
+me	O
+three	O
+times	O
+,	O
+inquiring	O
+if	O
+there	O
+were	O
+any	O
+news	O
+of	O
+the	O
+_	O
+Pharaon	O
+_	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000166
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = _ Peste !
+_	O
+Peste	O
+!	O
+
+# id = conivel-the-count-of-monte-cristo-000167
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = _ , Edmond , you have a very handsome mistress ! ''
+_	O
+,	O
+Edmond	B-CHARACTER
+,	O
+you	O
+have	O
+a	O
+very	O
+handsome	O
+mistress	O
+!	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000168
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` She is not my mistress , ''
+``	O
+She	O
+is	O
+not	O
+my	O
+mistress	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000169
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = replied the young sailor , gravely ; `` she is my betrothed . ''
+replied	O
+the	O
+young	O
+sailor	O
+,	O
+gravely	O
+;	O
+``	O
+she	O
+is	O
+my	O
+betrothed	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000170
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Sometimes one and the same thing , ''
+``	O
+Sometimes	O
+one	O
+and	O
+the	O
+same	O
+thing	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000171
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Morrel , with a smile .
+said	O
+Morrel	B-CHARACTER
+,	O
+with	O
+a	O
+smile	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000172
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Not with us , sir , ''
+``	O
+Not	O
+with	O
+us	O
+,	O
+sir	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000173
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = replied Dantès .
+replied	O
+Dantès	B-CHARACTER
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000174
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , well , my dear Edmond , ''
+``	O
+Well	O
+,	O
+well	O
+,	O
+my	O
+dear	O
+Edmond	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000175
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = continued the owner , `` do n't let me detain you .
+continued	O
+the	O
+owner	O
+,	O
+``	O
+do	O
+n't	O
+let	O
+me	O
+detain	O
+you	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000176
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You have managed my affairs so well that I ought to allow you all the time you require for your own .
+You	O
+have	O
+managed	O
+my	O
+affairs	O
+so	O
+well	O
+that	O
+I	O
+ought	O
+to	O
+allow	O
+you	O
+all	O
+the	O
+time	O
+you	O
+require	O
+for	O
+your	O
+own	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000177
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Do you want any money ? ''
+Do	O
+you	O
+want	O
+any	O
+money	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000178
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , sir ; I have all my pay to take -- nearly three months ' wages . ''
+``	O
+No	O
+,	O
+sir	O
+;	O
+I	O
+have	O
+all	O
+my	O
+pay	O
+to	O
+take	O
+--	O
+nearly	O
+three	O
+months	O
+'	O
+wages	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000179
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You are a careful fellow , Edmond . ''
+``	O
+You	O
+are	O
+a	O
+careful	O
+fellow	O
+,	O
+Edmond	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000180
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Say I have a poor father , sir . ''
+``	O
+Say	O
+I	O
+have	O
+a	O
+poor	O
+father	O
+,	O
+sir	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000181
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , yes , I know how good a son you are , so now hasten away to see your father .
+``	O
+Yes	O
+,	O
+yes	O
+,	O
+I	O
+know	O
+how	O
+good	O
+a	O
+son	O
+you	O
+are	O
+,	O
+so	O
+now	O
+hasten	O
+away	O
+to	O
+see	O
+your	O
+father	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000182
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I have a son too , and I should be very wroth with those who detained him from me after a three months ' voyage . ''
+I	O
+have	O
+a	O
+son	O
+too	O
+,	O
+and	O
+I	O
+should	O
+be	O
+very	O
+wroth	O
+with	O
+those	O
+who	O
+detained	O
+him	O
+from	O
+me	O
+after	O
+a	O
+three	O
+months	O
+'	O
+voyage	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000183
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Then I have your leave , sir ? ''
+``	O
+Then	O
+I	O
+have	O
+your	O
+leave	O
+,	O
+sir	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000184
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , if you have nothing more to say to me . ''
+``	O
+Yes	O
+,	O
+if	O
+you	O
+have	O
+nothing	O
+more	O
+to	O
+say	O
+to	O
+me	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000185
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Nothing . ''
+``	O
+Nothing	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000186
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Captain Leclere did not , before he died , give you a letter for me ? ''
+``	O
+Captain	B-CHARACTER
+Leclere	I-CHARACTER
+did	O
+not	O
+,	O
+before	O
+he	O
+died	O
+,	O
+give	O
+you	O
+a	O
+letter	O
+for	O
+me	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000187
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He was unable to write , sir .
+``	O
+He	O
+was	O
+unable	O
+to	O
+write	O
+,	O
+sir	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000188
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But that reminds me that I must ask your leave of absence for some days . ''
+But	O
+that	O
+reminds	O
+me	O
+that	O
+I	O
+must	O
+ask	O
+your	O
+leave	O
+of	O
+absence	O
+for	O
+some	O
+days	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000189
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` To get married ? ''
+``	O
+To	O
+get	O
+married	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000190
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , first , and then to go to Paris . ''
+``	O
+Yes	O
+,	O
+first	O
+,	O
+and	O
+then	O
+to	O
+go	O
+to	O
+Paris	B-LOCATION
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000191
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Very good ; have what time you require , Dantès .
+``	O
+Very	O
+good	O
+;	O
+have	O
+what	O
+time	O
+you	O
+require	O
+,	O
+Dantès	B-CHARACTER
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000192
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It will take quite six weeks to unload the cargo , and we can not get you ready for sea until three months after that ; only be back again in three months , for the _ Pharaon _ , ''
+It	O
+will	O
+take	O
+quite	O
+six	O
+weeks	O
+to	O
+unload	O
+the	O
+cargo	O
+,	O
+and	O
+we	O
+can	O
+not	O
+get	O
+you	O
+ready	O
+for	O
+sea	O
+until	O
+three	O
+months	O
+after	O
+that	O
+;	O
+only	O
+be	O
+back	O
+again	O
+in	O
+three	O
+months	O
+,	O
+for	O
+the	O
+_	O
+Pharaon	O
+_	O
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000193
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = added the owner , patting the young sailor on the back , `` can not sail without her captain . ''
+added	O
+the	O
+owner	O
+,	O
+patting	O
+the	O
+young	O
+sailor	O
+on	O
+the	O
+back	O
+,	O
+``	O
+can	O
+not	O
+sail	O
+without	O
+her	O
+captain	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000194
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Without her captain ! ''
+``	O
+Without	O
+her	O
+captain	O
+!	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000195
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried Dantès , his eyes sparkling with animation ; `` pray mind what you say , for you are touching on the most secret wishes of my heart .
+cried	O
+Dantès	B-CHARACTER
+,	O
+his	O
+eyes	O
+sparkling	O
+with	O
+animation	O
+;	O
+``	O
+pray	O
+mind	O
+what	O
+you	O
+say	O
+,	O
+for	O
+you	O
+are	O
+touching	O
+on	O
+the	O
+most	O
+secret	O
+wishes	O
+of	O
+my	O
+heart	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000196
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Is it really your intention to make me captain of the _ Pharaon _ ? ''
+Is	O
+it	O
+really	O
+your	O
+intention	O
+to	O
+make	O
+me	O
+captain	O
+of	O
+the	O
+_	O
+Pharaon	O
+_	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000197
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` If I were sole owner we 'd shake hands on it now , my dear Dantès , and call it settled ; but I have a partner , and you know the Italian proverb - - _ Chi ha compagno ha padrone _ -- ` He who has a partner has a master .
+``	O
+If	O
+I	O
+were	O
+sole	O
+owner	O
+we	O
+'d	O
+shake	O
+hands	O
+on	O
+it	O
+now	O
+,	O
+my	O
+dear	O
+Dantès	B-CHARACTER
+,	O
+and	O
+call	O
+it	O
+settled	O
+;	O
+but	O
+I	O
+have	O
+a	O
+partner	O
+,	O
+and	O
+you	O
+know	O
+the	O
+Italian	O
+proverb	O
+-	O
+-	O
+_	O
+Chi	O
+ha	O
+compagno	O
+ha	O
+padrone	O
+_	O
+--	O
+`	O
+He	O
+who	O
+has	O
+a	O
+partner	O
+has	O
+a	O
+master	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000198
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' But the thing is at least half done , as you have one out of two votes .
+'	O
+But	O
+the	O
+thing	O
+is	O
+at	O
+least	O
+half	O
+done	O
+,	O
+as	O
+you	O
+have	O
+one	O
+out	O
+of	O
+two	O
+votes	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000199
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Rely on me to procure you the other ; I will do my best . ''
+Rely	O
+on	O
+me	O
+to	O
+procure	O
+you	O
+the	O
+other	O
+;	O
+I	O
+will	O
+do	O
+my	O
+best	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000200
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ah , M. Morrel , ''
+``	O
+Ah	O
+,	O
+M.	B-CHARACTER
+Morrel	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000201
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = exclaimed the young seaman , with tears in his eyes , and grasping the owner 's hand , `` M. Morrel , I thank you in the name of my father and of Mercédès . ''
+exclaimed	O
+the	O
+young	O
+seaman	O
+,	O
+with	O
+tears	O
+in	O
+his	O
+eyes	O
+,	O
+and	O
+grasping	O
+the	O
+owner	O
+'s	O
+hand	O
+,	O
+``	O
+M.	B-CHARACTER
+Morrel	I-CHARACTER
+,	O
+I	O
+thank	O
+you	O
+in	O
+the	O
+name	O
+of	O
+my	O
+father	O
+and	O
+of	O
+Mercédès	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000202
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That 's all right , Edmond .
+``	O
+That	O
+'s	O
+all	O
+right	O
+,	O
+Edmond	B-CHARACTER
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000203
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There 's a providence that watches over the deserving .
+There	O
+'s	O
+a	O
+providence	O
+that	O
+watches	O
+over	O
+the	O
+deserving	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000204
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Go to your father : go and see Mercédès , and afterwards come to me . ''
+Go	O
+to	O
+your	O
+father	O
+:	O
+go	O
+and	O
+see	O
+Mercédès	B-CHARACTER
+,	O
+and	O
+afterwards	O
+come	O
+to	O
+me	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000205
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Shall I row you ashore ? ''
+``	O
+Shall	O
+I	O
+row	O
+you	O
+ashore	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000206
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , thank you ; I shall remain and look over the accounts with Danglars .
+``	O
+No	O
+,	O
+thank	O
+you	O
+;	O
+I	O
+shall	O
+remain	O
+and	O
+look	O
+over	O
+the	O
+accounts	O
+with	O
+Danglars	B-CHARACTER
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000207
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Have you been satisfied with him this voyage ? ''
+Have	O
+you	O
+been	O
+satisfied	O
+with	O
+him	O
+this	O
+voyage	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000208
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That is according to the sense you attach to the question , sir .
+``	O
+That	O
+is	O
+according	O
+to	O
+the	O
+sense	O
+you	O
+attach	O
+to	O
+the	O
+question	O
+,	O
+sir	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000209
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Do you mean is he a good comrade ?
+Do	O
+you	O
+mean	O
+is	O
+he	O
+a	O
+good	O
+comrade	O
+?	O
+
+# id = conivel-the-count-of-monte-cristo-000210
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No , for I think he never liked me since the day when I was silly enough , after a little quarrel we had , to propose to him to stop for ten minutes at the island of Monte Cristo to settle the dispute -- a proposition which I was wrong to suggest , and he quite right to refuse .
+No	O
+,	O
+for	O
+I	O
+think	O
+he	O
+never	O
+liked	O
+me	O
+since	O
+the	O
+day	O
+when	O
+I	O
+was	O
+silly	O
+enough	O
+,	O
+after	O
+a	O
+little	O
+quarrel	O
+we	O
+had	O
+,	O
+to	O
+propose	O
+to	O
+him	O
+to	O
+stop	O
+for	O
+ten	O
+minutes	O
+at	O
+the	O
+island	O
+of	O
+Monte	B-LOCATION
+Cristo	I-LOCATION
+to	O
+settle	O
+the	O
+dispute	O
+--	O
+a	O
+proposition	O
+which	O
+I	O
+was	O
+wrong	O
+to	O
+suggest	O
+,	O
+and	O
+he	O
+quite	O
+right	O
+to	O
+refuse	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000211
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If you mean as responsible agent when you ask me the question , I believe there is nothing to say against him , and that you will be content with the way in which he has performed his duty . ''
+If	O
+you	O
+mean	O
+as	O
+responsible	O
+agent	O
+when	O
+you	O
+ask	O
+me	O
+the	O
+question	O
+,	O
+I	O
+believe	O
+there	O
+is	O
+nothing	O
+to	O
+say	O
+against	O
+him	O
+,	O
+and	O
+that	O
+you	O
+will	O
+be	O
+content	O
+with	O
+the	O
+way	O
+in	O
+which	O
+he	O
+has	O
+performed	O
+his	O
+duty	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000212
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But tell me , Dantès , if you had command of the _ Pharaon _ should you be glad to see Danglars remain ? ''
+``	O
+But	O
+tell	O
+me	O
+,	O
+Dantès	B-CHARACTER
+,	O
+if	O
+you	O
+had	O
+command	O
+of	O
+the	O
+_	O
+Pharaon	O
+_	O
+should	O
+you	O
+be	O
+glad	O
+to	O
+see	O
+Danglars	B-CHARACTER
+remain	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000213
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Captain or mate , M. Morrel , I shall always have the greatest respect for those who possess the owners ' confidence . ''
+``	O
+Captain	O
+or	O
+mate	O
+,	O
+M.	B-CHARACTER
+Morrel	I-CHARACTER
+,	O
+I	O
+shall	O
+always	O
+have	O
+the	O
+greatest	O
+respect	O
+for	O
+those	O
+who	O
+possess	O
+the	O
+owners	O
+'	O
+confidence	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000214
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That 's right , that 's right , Dantès !
+``	O
+That	O
+'s	O
+right	O
+,	O
+that	O
+'s	O
+right	O
+,	O
+Dantès	B-CHARACTER
+!	O
+
+# id = conivel-the-count-of-monte-cristo-000215
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I see you are a thoroughly good fellow , and will detain you no longer .
+I	O
+see	O
+you	O
+are	O
+a	O
+thoroughly	O
+good	O
+fellow	O
+,	O
+and	O
+will	O
+detain	O
+you	O
+no	O
+longer	O
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000216
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Go , for I see how impatient you are . ''
+Go	O
+,	O
+for	O
+I	O
+see	O
+how	O
+impatient	O
+you	O
+are	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000217
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Then I have leave ? ''
+``	O
+Then	O
+I	O
+have	O
+leave	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000218
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Go , I tell you . ''
+``	O
+Go	O
+,	O
+I	O
+tell	O
+you	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000219
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` May I have the use of your skiff ? ''
+``	O
+May	O
+I	O
+have	O
+the	O
+use	O
+of	O
+your	O
+skiff	O
+?	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000220
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Certainly . ''
+``	O
+Certainly	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000221
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Then , for the present , M. Morrel , farewell , and a thousand thanks ! ''
+``	O
+Then	O
+,	O
+for	O
+the	O
+present	O
+,	O
+M.	B-CHARACTER
+Morrel	I-CHARACTER
+,	O
+farewell	O
+,	O
+and	O
+a	O
+thousand	O
+thanks	O
+!	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000222
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I hope soon to see you again , my dear Edmond .
+``	O
+I	O
+hope	O
+soon	O
+to	O
+see	O
+you	O
+again	O
+,	O
+my	O
+dear	O
+Edmond	B-CHARACTER
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000223
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Good luck to you . ''
+Good	O
+luck	O
+to	O
+you	O
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000224
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The young sailor jumped into the skiff , and sat down in the stern sheets , with the order that he be put ashore at La Canebière .
+The	O
+young	O
+sailor	O
+jumped	O
+into	O
+the	O
+skiff	O
+,	O
+and	O
+sat	O
+down	O
+in	O
+the	O
+stern	O
+sheets	O
+,	O
+with	O
+the	O
+order	O
+that	O
+he	O
+be	O
+put	O
+ashore	O
+at	O
+La	B-LOCATION
+Canebière	I-LOCATION
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000225
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The two oarsmen bent to their work , and the little boat glided away as rapidly as possible in the midst of the thousand vessels which choke up the narrow way which leads between the two rows of ships from the mouth of the harbor to the Quai d'Orléans .
+The	O
+two	O
+oarsmen	O
+bent	O
+to	O
+their	O
+work	O
+,	O
+and	O
+the	O
+little	O
+boat	O
+glided	O
+away	O
+as	O
+rapidly	O
+as	O
+possible	O
+in	O
+the	O
+midst	O
+of	O
+the	O
+thousand	O
+vessels	O
+which	O
+choke	O
+up	O
+the	O
+narrow	O
+way	O
+which	O
+leads	O
+between	O
+the	O
+two	O
+rows	O
+of	O
+ships	O
+from	O
+the	O
+mouth	O
+of	O
+the	O
+harbor	O
+to	O
+the	O
+Quai	B-LOCATION
+d'Orléans	I-LOCATION
+.	O
+
+# id = conivel-the-count-of-monte-cristo-000226
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The shipowner , smiling , followed him with his eyes until he saw him spring out on the quay and disappear in the midst of the throng , which from five o'clock in the morning until nine oâ€™clock at night , swarms in the famous street of La Canebière , -- a street of which the modern Phocéens are so proud that they say with all the gravity in the world , and with that accent which gives so much character to what is said , `` If Paris had La Canebière , Paris would be a second Marseilles . ''
+The	O
+shipowner	O
+,	O
+smiling	O
+,	O
+followed	O
+him	O
+with	O
+his	O
+eyes	O
+until	O
+he	O
+saw	O
+him	O
+spring	O
+out	O
+on	O
+the	O
+quay	O
+and	O
+disappear	O
+in	O
+the	O
+midst	O
+of	O
+the	O
+throng	O
+,	O
+which	O
+from	O
+five	O
+o'clock	O
+in	O
+the	O
+morning	O
+until	O
+nine	O
+oâ€™clock	O
+at	O
+night	O
+,	O
+swarms	O
+in	O
+the	O
+famous	O
+street	O
+of	O
+La	B-LOCATION
+Canebière	I-LOCATION
+,	O
+--	O
+a	O
+street	O
+of	O
+which	O
+the	O
+modern	O
+Phocéens	O
+are	O
+so	O
+proud	O
+that	O
+they	O
+say	O
+with	O
+all	O
+the	O
+gravity	O
+in	O
+the	O
+world	O
+,	O
+and	O
+with	O
+that	O
+accent	O
+which	O
+gives	O
+so	O
+much	O
+character	O
+to	O
+what	O
+is	O
+said	O
+,	O
+``	O
+If	O
+Paris	B-LOCATION
+had	O
+La	B-LOCATION
+Canebière	I-LOCATION
+,	O
+Paris	B-LOCATION
+would	O
+be	O
+a	O
+second	O
+Marseilles	B-LOCATION
+.	O
+''	O
+
+# id = conivel-the-count-of-monte-cristo-000227
+# source = Conivel corrected OWTO literary NER
+# book = The Count of Monte Cristo
+# source_file = TheCountOfMonteCristo.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = On turning round the owner saw Danglars behind him , apparently awaiting orders , but in reality also watching the young sailor , -- but there was a great difference in the expression of the two men who thus followed the movements of Edmond Dantès .
+On	O
+turning	O
+round	O
+the	O
+owner	O
+saw	O
+Danglars	B-CHARACTER
+behind	O
+him	O
+,	O
+apparently	O
+awaiting	O
+orders	O
+,	O
+but	O
+in	O
+reality	O
+also	O
+watching	O
+the	O
+young	O
+sailor	O
+,	O
+--	O
+but	O
+there	O
+was	O
+a	O
+great	O
+difference	O
+in	O
+the	O
+expression	O
+of	O
+the	O
+two	O
+men	O
+who	O
+thus	O
+followed	O
+the	O
+movements	O
+of	O
+Edmond	B-CHARACTER
+Dantès	I-CHARACTER
+.	O
+

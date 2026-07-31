@@ -1,0 +1,5331 @@
+# id = conivel-ulysses-000001
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He held the bowl aloft and intoned : -- Introibo ad altare Dei .
+He	O
+held	O
+the	O
+bowl	O
+aloft	O
+and	O
+intoned	O
+:	O
+--	O
+Introibo	O
+ad	O
+altare	O
+Dei	O
+.	O
+
+# id = conivel-ulysses-000002
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Halted , he peered down the dark winding stairs and called out coarsely : -- Come up , Kinch !
+Halted	O
+,	O
+he	O
+peered	O
+down	O
+the	O
+dark	O
+winding	O
+stairs	O
+and	O
+called	O
+out	O
+coarsely	O
+:	O
+--	O
+Come	O
+up	O
+,	O
+Kinch	B-CHARACTER
+!	O
+
+# id = conivel-ulysses-000003
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Come up , you fearful jesuit !
+Come	O
+up	O
+,	O
+you	O
+fearful	O
+jesuit	O
+!	O
+
+# id = conivel-ulysses-000004
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Back to barracks !
+--	O
+Back	O
+to	O
+barracks	O
+!	O
+
+# id = conivel-ulysses-000005
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said sternly .
+he	O
+said	O
+sternly	O
+.	O
+
+# id = conivel-ulysses-000006
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He added in a preacher 's tone : -- For this , O dearly beloved , is the genuine Christine : body and soul and blood and ouns .
+He	O
+added	O
+in	O
+a	O
+preacher	O
+'s	O
+tone	O
+:	O
+--	O
+For	O
+this	O
+,	O
+O	O
+dearly	O
+beloved	O
+,	O
+is	O
+the	O
+genuine	O
+Christine	B-CHARACTER
+:	O
+body	O
+and	O
+soul	O
+and	O
+blood	O
+and	O
+ouns	O
+.	O
+
+# id = conivel-ulysses-000007
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Slow music , please .
+Slow	O
+music	O
+,	O
+please	O
+.	O
+
+# id = conivel-ulysses-000008
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Shut your eyes , gents .
+Shut	O
+your	O
+eyes	O
+,	O
+gents	O
+.	O
+
+# id = conivel-ulysses-000009
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One moment .
+One	O
+moment	O
+.	O
+
+# id = conivel-ulysses-000010
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Silence , all .
+Silence	O
+,	O
+all	O
+.	O
+
+# id = conivel-ulysses-000011
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He peered sideways up and gave a long slow whistle of call , then paused awhile in rapt attention , his even white teeth glistening here and there with gold points .
+He	O
+peered	O
+sideways	O
+up	O
+and	O
+gave	O
+a	O
+long	O
+slow	O
+whistle	O
+of	O
+call	O
+,	O
+then	O
+paused	O
+awhile	O
+in	O
+rapt	O
+attention	O
+,	O
+his	O
+even	O
+white	O
+teeth	O
+glistening	O
+here	O
+and	O
+there	O
+with	O
+gold	O
+points	O
+.	O
+
+# id = conivel-ulysses-000012
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Chrysostomos .
+Chrysostomos	O
+.	O
+
+# id = conivel-ulysses-000013
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Two strong shrill whistles answered through the calm .
+Two	O
+strong	O
+shrill	O
+whistles	O
+answered	O
+through	O
+the	O
+calm	O
+.	O
+
+# id = conivel-ulysses-000014
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Thanks , old chap , he cried briskly .
+--	O
+Thanks	O
+,	O
+old	O
+chap	O
+,	O
+he	O
+cried	O
+briskly	O
+.	O
+
+# id = conivel-ulysses-000015
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That will do nicely .
+That	O
+will	O
+do	O
+nicely	O
+.	O
+
+# id = conivel-ulysses-000016
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Switch off the current , will you ?
+Switch	O
+off	O
+the	O
+current	O
+,	O
+will	O
+you	O
+?	O
+
+# id = conivel-ulysses-000017
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He skipped off the gunrest and looked gravely at his watcher , gathering about his legs the loose folds of his gown .
+He	O
+skipped	O
+off	O
+the	O
+gunrest	O
+and	O
+looked	O
+gravely	O
+at	O
+his	O
+watcher	O
+,	O
+gathering	O
+about	O
+his	O
+legs	O
+the	O
+loose	O
+folds	O
+of	O
+his	O
+gown	O
+.	O
+
+# id = conivel-ulysses-000018
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The plump shadowed face and sullen oval jowl recalled a prelate , patron of arts in the middle ages .
+The	O
+plump	O
+shadowed	O
+face	O
+and	O
+sullen	O
+oval	O
+jowl	O
+recalled	O
+a	O
+prelate	O
+,	O
+patron	O
+of	O
+arts	O
+in	O
+the	O
+middle	O
+ages	O
+.	O
+
+# id = conivel-ulysses-000019
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A pleasant smile broke quietly over his lips .
+A	O
+pleasant	O
+smile	O
+broke	O
+quietly	O
+over	O
+his	O
+lips	O
+.	O
+
+# id = conivel-ulysses-000020
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- The mockery of it !
+--	O
+The	O
+mockery	O
+of	O
+it	O
+!	O
+
+# id = conivel-ulysses-000021
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said gaily .
+he	O
+said	O
+gaily	O
+.	O
+
+# id = conivel-ulysses-000022
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Your absurd name , an ancient Greek !
+Your	O
+absurd	O
+name	O
+,	O
+an	O
+ancient	O
+Greek	O
+!	O
+
+# id = conivel-ulysses-000023
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He pointed his finger in friendly jest and went over to the parapet , laughing to himself .
+He	O
+pointed	O
+his	O
+finger	O
+in	O
+friendly	O
+jest	O
+and	O
+went	O
+over	O
+to	O
+the	O
+parapet	O
+,	O
+laughing	O
+to	O
+himself	O
+.	O
+
+# id = conivel-ulysses-000024
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Buck Mulligan 's gay voice went on .
+Buck	B-CHARACTER
+Mulligan	I-CHARACTER
+'s	O
+gay	O
+voice	O
+went	O
+on	O
+.	O
+
+# id = conivel-ulysses-000025
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- My name is absurd too : Malachi Mulligan , two dactyls .
+--	O
+My	O
+name	O
+is	O
+absurd	O
+too	O
+:	O
+Malachi	B-CHARACTER
+Mulligan	I-CHARACTER
+,	O
+two	O
+dactyls	O
+.	O
+
+# id = conivel-ulysses-000026
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But it has a Hellenic ring , has n't it ?
+But	O
+it	O
+has	O
+a	O
+Hellenic	O
+ring	O
+,	O
+has	O
+n't	O
+it	O
+?	O
+
+# id = conivel-ulysses-000027
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tripping and sunny like the buck himself .
+Tripping	O
+and	O
+sunny	O
+like	O
+the	O
+buck	O
+himself	O
+.	O
+
+# id = conivel-ulysses-000028
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Will you come if I can get the aunt to fork out twenty quid ?
+Will	O
+you	O
+come	O
+if	O
+I	O
+can	O
+get	O
+the	O
+aunt	O
+to	O
+fork	O
+out	O
+twenty	O
+quid	O
+?	O
+
+# id = conivel-ulysses-000029
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He laid the brush aside and , laughing with delight , cried : -- Will he come ?
+He	O
+laid	O
+the	O
+brush	O
+aside	O
+and	O
+,	O
+laughing	O
+with	O
+delight	O
+,	O
+cried	O
+:	O
+--	O
+Will	O
+he	O
+come	O
+?	O
+
+# id = conivel-ulysses-000030
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The jejune jesuit !
+The	O
+jejune	O
+jesuit	O
+!	O
+
+# id = conivel-ulysses-000031
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ceasing , he began to shave with care .
+Ceasing	O
+,	O
+he	O
+began	O
+to	O
+shave	O
+with	O
+care	O
+.	O
+
+# id = conivel-ulysses-000032
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Tell me , Mulligan , Stephen said quietly .
+--	O
+Tell	O
+me	O
+,	O
+Mulligan	B-CHARACTER
+,	O
+Stephen	B-CHARACTER
+said	O
+quietly	O
+.	O
+
+# id = conivel-ulysses-000033
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Yes , my love ?
+--	O
+Yes	O
+,	O
+my	O
+love	O
+?	O
+
+# id = conivel-ulysses-000034
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- How long is Haines going to stay in this tower ?
+--	O
+How	O
+long	O
+is	O
+Haines	B-CHARACTER
+going	O
+to	O
+stay	O
+in	O
+this	O
+tower	O
+?	O
+
+# id = conivel-ulysses-000035
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- God , is n't he dreadful ?
+--	O
+God	B-CHARACTER
+,	O
+is	O
+n't	O
+he	O
+dreadful	O
+?	O
+
+# id = conivel-ulysses-000036
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said frankly .
+he	O
+said	O
+frankly	O
+.	O
+
+# id = conivel-ulysses-000037
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A ponderous Saxon .
+A	O
+ponderous	O
+Saxon	O
+.	O
+
+# id = conivel-ulysses-000038
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He thinks you 're not a gentleman .
+He	O
+thinks	O
+you	O
+'re	O
+not	O
+a	O
+gentleman	O
+.	O
+
+# id = conivel-ulysses-000039
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = God , these bloody English !
+God	B-CHARACTER
+,	O
+these	O
+bloody	O
+English	O
+!	O
+
+# id = conivel-ulysses-000040
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bursting with money and indigestion .
+Bursting	O
+with	O
+money	O
+and	O
+indigestion	O
+.	O
+
+# id = conivel-ulysses-000041
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He ca n't make you out .
+He	O
+ca	O
+n't	O
+make	O
+you	O
+out	O
+.	O
+
+# id = conivel-ulysses-000042
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He shaved warily over his chin .
+He	O
+shaved	O
+warily	O
+over	O
+his	O
+chin	O
+.	O
+
+# id = conivel-ulysses-000043
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- He was raving all night about a black panther , Stephen said .
+--	O
+He	O
+was	O
+raving	O
+all	O
+night	O
+about	O
+a	O
+black	O
+panther	O
+,	O
+Stephen	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-ulysses-000044
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Where is his guncase ?
+Where	O
+is	O
+his	O
+guncase	O
+?	O
+
+# id = conivel-ulysses-000045
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- A woful lunatic !
+--	O
+A	O
+woful	O
+lunatic	O
+!	O
+
+# id = conivel-ulysses-000046
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Were you in a funk ?
+Were	O
+you	O
+in	O
+a	O
+funk	O
+?	O
+
+# id = conivel-ulysses-000047
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- I was , Stephen said with energy and growing fear .
+--	O
+I	O
+was	O
+,	O
+Stephen	B-CHARACTER
+said	O
+with	O
+energy	O
+and	O
+growing	O
+fear	O
+.	O
+
+# id = conivel-ulysses-000048
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Out here in the dark with a man I do n't know raving and moaning to himself about shooting a black panther .
+Out	O
+here	O
+in	O
+the	O
+dark	O
+with	O
+a	O
+man	O
+I	O
+do	O
+n't	O
+know	O
+raving	O
+and	O
+moaning	O
+to	O
+himself	O
+about	O
+shooting	O
+a	O
+black	O
+panther	O
+.	O
+
+# id = conivel-ulysses-000049
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You saved men from drowning .
+You	O
+saved	O
+men	O
+from	O
+drowning	O
+.	O
+
+# id = conivel-ulysses-000050
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'm not a hero , however .
+I	O
+'m	O
+not	O
+a	O
+hero	O
+,	O
+however	O
+.	O
+
+# id = conivel-ulysses-000051
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If he stays on here I am off .
+If	O
+he	O
+stays	O
+on	O
+here	O
+I	O
+am	O
+off	O
+.	O
+
+# id = conivel-ulysses-000052
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He hopped down from his perch and began to search his trouser pockets hastily .
+He	O
+hopped	O
+down	O
+from	O
+his	O
+perch	O
+and	O
+began	O
+to	O
+search	O
+his	O
+trouser	O
+pockets	O
+hastily	O
+.	O
+
+# id = conivel-ulysses-000053
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Scutter !
+--	O
+Scutter	O
+!	O
+
+# id = conivel-ulysses-000054
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he cried thickly .
+he	O
+cried	O
+thickly	O
+.	O
+
+# id = conivel-ulysses-000055
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He came over to the gunrest and , thrusting a hand into Stephen 's upper pocket , said : -- Lend us a loan of your noserag to wipe my razor .
+He	O
+came	O
+over	O
+to	O
+the	O
+gunrest	O
+and	O
+,	O
+thrusting	O
+a	O
+hand	O
+into	O
+Stephen	B-CHARACTER
+'s	O
+upper	O
+pocket	O
+,	O
+said	O
+:	O
+--	O
+Lend	O
+us	O
+a	O
+loan	O
+of	O
+your	O
+noserag	O
+to	O
+wipe	O
+my	O
+razor	O
+.	O
+
+# id = conivel-ulysses-000056
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then , gazing over the handkerchief , he said : -- The bard 's noserag !
+Then	O
+,	O
+gazing	O
+over	O
+the	O
+handkerchief	O
+,	O
+he	O
+said	O
+:	O
+--	O
+The	O
+bard	O
+'s	O
+noserag	O
+!	O
+
+# id = conivel-ulysses-000057
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A new art colour for our Irish poets : snotgreen .
+A	O
+new	O
+art	O
+colour	O
+for	O
+our	O
+Irish	O
+poets	O
+:	O
+snotgreen	O
+.	O
+
+# id = conivel-ulysses-000058
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You can almost taste it , ca n't you ?
+You	O
+can	O
+almost	O
+taste	O
+it	O
+,	O
+ca	O
+n't	O
+you	O
+?	O
+
+# id = conivel-ulysses-000059
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- God !
+--	O
+God	B-CHARACTER
+!	O
+
+# id = conivel-ulysses-000060
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said quietly .
+he	O
+said	O
+quietly	O
+.	O
+
+# id = conivel-ulysses-000061
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Is n't the sea what Algy calls it : a great sweet mother ?
+Is	O
+n't	O
+the	O
+sea	O
+what	O
+Algy	B-CHARACTER
+calls	O
+it	O
+:	O
+a	O
+great	O
+sweet	O
+mother	O
+?	O
+
+# id = conivel-ulysses-000062
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The snotgreen sea .
+The	O
+snotgreen	O
+sea	O
+.	O
+
+# id = conivel-ulysses-000063
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The scrotumtightening sea .
+The	O
+scrotumtightening	O
+sea	O
+.	O
+
+# id = conivel-ulysses-000064
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Epi oinopa ponton .
+Epi	O
+oinopa	O
+ponton	O
+.	O
+
+# id = conivel-ulysses-000065
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I must teach you .
+I	O
+must	O
+teach	O
+you	O
+.	O
+
+# id = conivel-ulysses-000066
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You must read them in the original .
+You	O
+must	O
+read	O
+them	O
+in	O
+the	O
+original	O
+.	O
+
+# id = conivel-ulysses-000067
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Thalatta !
+Thalatta	O
+!	O
+
+# id = conivel-ulysses-000068
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Thalatta !
+Thalatta	O
+!	O
+
+# id = conivel-ulysses-000069
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She is our great sweet mother .
+She	O
+is	O
+our	O
+great	O
+sweet	O
+mother	O
+.	O
+
+# id = conivel-ulysses-000070
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Come and look .
+Come	O
+and	O
+look	O
+.	O
+
+# id = conivel-ulysses-000071
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Our mighty mother !
+--	O
+Our	O
+mighty	O
+mother	O
+!	O
+
+# id = conivel-ulysses-000072
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He turned abruptly his grey searching eyes from the sea to Stephen 's face .
+He	O
+turned	O
+abruptly	O
+his	O
+grey	O
+searching	O
+eyes	O
+from	O
+the	O
+sea	O
+to	O
+Stephen	B-CHARACTER
+'s	O
+face	O
+.	O
+
+# id = conivel-ulysses-000073
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- The aunt thinks you killed your mother , he said .
+--	O
+The	O
+aunt	O
+thinks	O
+you	O
+killed	O
+your	O
+mother	O
+,	O
+he	O
+said	O
+.	O
+
+# id = conivel-ulysses-000074
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That 's why she wo n't let me have anything to do with you .
+That	O
+'s	O
+why	O
+she	O
+wo	O
+n't	O
+let	O
+me	O
+have	O
+anything	O
+to	O
+do	O
+with	O
+you	O
+.	O
+
+# id = conivel-ulysses-000075
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Someone killed her , Stephen said gloomily .
+--	O
+Someone	O
+killed	O
+her	O
+,	O
+Stephen	B-CHARACTER
+said	O
+gloomily	O
+.	O
+
+# id = conivel-ulysses-000076
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- You could have knelt down , damn it , Kinch , when your dying mother asked you , Buck Mulligan said .
+--	O
+You	O
+could	O
+have	O
+knelt	O
+down	O
+,	O
+damn	O
+it	O
+,	O
+Kinch	B-CHARACTER
+,	O
+when	O
+your	O
+dying	O
+mother	O
+asked	O
+you	O
+,	O
+Buck	B-CHARACTER
+Mulligan	I-CHARACTER
+said	O
+.	O
+
+# id = conivel-ulysses-000077
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'm hyperborean as much as you .
+I	O
+'m	O
+hyperborean	O
+as	O
+much	O
+as	O
+you	O
+.	O
+
+# id = conivel-ulysses-000078
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But to think of your mother begging you with her last breath to kneel down and pray for her .
+But	O
+to	O
+think	O
+of	O
+your	O
+mother	O
+begging	O
+you	O
+with	O
+her	O
+last	O
+breath	O
+to	O
+kneel	O
+down	O
+and	O
+pray	O
+for	O
+her	O
+.	O
+
+# id = conivel-ulysses-000079
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And you refused .
+And	O
+you	O
+refused	O
+.	O
+
+# id = conivel-ulysses-000080
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There is something sinister in you ... He broke off and lathered again lightly his farther cheek .
+There	O
+is	O
+something	O
+sinister	O
+in	O
+you	O
+...	O
+He	O
+broke	O
+off	O
+and	O
+lathered	O
+again	O
+lightly	O
+his	O
+farther	O
+cheek	O
+.	O
+
+# id = conivel-ulysses-000081
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A tolerant smile curled his lips .
+A	O
+tolerant	O
+smile	O
+curled	O
+his	O
+lips	O
+.	O
+
+# id = conivel-ulysses-000082
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- But a lovely mummer !
+--	O
+But	O
+a	O
+lovely	O
+mummer	O
+!	O
+
+# id = conivel-ulysses-000083
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he murmured to himself .
+he	O
+murmured	O
+to	O
+himself	O
+.	O
+
+# id = conivel-ulysses-000084
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He shaved evenly and with care , in silence , seriously .
+He	O
+shaved	O
+evenly	O
+and	O
+with	O
+care	O
+,	O
+in	O
+silence	O
+,	O
+seriously	O
+.	O
+
+# id = conivel-ulysses-000085
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pain , that was not yet the pain of love , fretted his heart .
+Pain	O
+,	O
+that	O
+was	O
+not	O
+yet	O
+the	O
+pain	O
+of	O
+love	O
+,	O
+fretted	O
+his	O
+heart	O
+.	O
+
+# id = conivel-ulysses-000086
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Silently , in a dream she had come to him after her death , her wasted body within its loose brown graveclothes giving off an odour of wax and rosewood , her breath , that had bent upon him , mute , reproachful , a faint odour of wetted ashes .
+Silently	O
+,	O
+in	O
+a	O
+dream	O
+she	O
+had	O
+come	O
+to	O
+him	O
+after	O
+her	O
+death	O
+,	O
+her	O
+wasted	O
+body	O
+within	O
+its	O
+loose	O
+brown	O
+graveclothes	O
+giving	O
+off	O
+an	O
+odour	O
+of	O
+wax	O
+and	O
+rosewood	O
+,	O
+her	O
+breath	O
+,	O
+that	O
+had	O
+bent	O
+upon	O
+him	O
+,	O
+mute	O
+,	O
+reproachful	O
+,	O
+a	O
+faint	O
+odour	O
+of	O
+wetted	O
+ashes	O
+.	O
+
+# id = conivel-ulysses-000087
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Across the threadbare cuffedge he saw the sea hailed as a great sweet mother by the wellfed voice beside him .
+Across	O
+the	O
+threadbare	O
+cuffedge	O
+he	O
+saw	O
+the	O
+sea	O
+hailed	O
+as	O
+a	O
+great	O
+sweet	O
+mother	O
+by	O
+the	O
+wellfed	O
+voice	O
+beside	O
+him	O
+.	O
+
+# id = conivel-ulysses-000088
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The ring of bay and skyline held a dull green mass of liquid .
+The	O
+ring	O
+of	O
+bay	O
+and	O
+skyline	O
+held	O
+a	O
+dull	O
+green	O
+mass	O
+of	O
+liquid	O
+.	O
+
+# id = conivel-ulysses-000089
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A bowl of white china had stood beside her deathbed holding the green sluggish bile which she had torn up from her rotting liver by fits of loud groaning vomiting .
+A	O
+bowl	O
+of	O
+white	O
+china	O
+had	O
+stood	O
+beside	O
+her	O
+deathbed	O
+holding	O
+the	O
+green	O
+sluggish	O
+bile	O
+which	O
+she	O
+had	O
+torn	O
+up	O
+from	O
+her	O
+rotting	O
+liver	O
+by	O
+fits	O
+of	O
+loud	O
+groaning	O
+vomiting	O
+.	O
+
+# id = conivel-ulysses-000090
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Ah , poor dogsbody !
+--	O
+Ah	O
+,	O
+poor	O
+dogsbody	O
+!	O
+
+# id = conivel-ulysses-000091
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said in a kind voice .
+he	O
+said	O
+in	O
+a	O
+kind	O
+voice	O
+.	O
+
+# id = conivel-ulysses-000092
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I must give you a shirt and a few noserags .
+I	O
+must	O
+give	O
+you	O
+a	O
+shirt	O
+and	O
+a	O
+few	O
+noserags	O
+.	O
+
+# id = conivel-ulysses-000093
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How are the secondhand breeks ?
+How	O
+are	O
+the	O
+secondhand	O
+breeks	O
+?	O
+
+# id = conivel-ulysses-000094
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- They fit well enough , Stephen answered .
+--	O
+They	O
+fit	O
+well	O
+enough	O
+,	O
+Stephen	B-CHARACTER
+answered	O
+.	O
+
+# id = conivel-ulysses-000095
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- The mockery of it , he said contentedly .
+--	O
+The	O
+mockery	O
+of	O
+it	O
+,	O
+he	O
+said	O
+contentedly	O
+.	O
+
+# id = conivel-ulysses-000096
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Secondleg they should be .
+Secondleg	O
+they	O
+should	O
+be	O
+.	O
+
+# id = conivel-ulysses-000097
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = God knows what poxy bowsy left them off .
+God	B-CHARACTER
+knows	O
+what	O
+poxy	O
+bowsy	O
+left	O
+them	O
+off	O
+.	O
+
+# id = conivel-ulysses-000098
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I have a lovely pair with a hair stripe , grey .
+I	O
+have	O
+a	O
+lovely	O
+pair	O
+with	O
+a	O
+hair	O
+stripe	O
+,	O
+grey	O
+.	O
+
+# id = conivel-ulysses-000099
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You 'll look spiffing in them .
+You	O
+'ll	O
+look	O
+spiffing	O
+in	O
+them	O
+.	O
+
+# id = conivel-ulysses-000100
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'm not joking , Kinch .
+I	O
+'m	O
+not	O
+joking	O
+,	O
+Kinch	B-CHARACTER
+.	O
+
+# id = conivel-ulysses-000101
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You look damn well when you 're dressed .
+You	O
+look	O
+damn	O
+well	O
+when	O
+you	O
+'re	O
+dressed	O
+.	O
+
+# id = conivel-ulysses-000102
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Thanks , Stephen said .
+--	O
+Thanks	O
+,	O
+Stephen	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-ulysses-000103
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I ca n't wear them if they are grey .
+I	O
+ca	O
+n't	O
+wear	O
+them	O
+if	O
+they	O
+are	O
+grey	O
+.	O
+
+# id = conivel-ulysses-000104
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- He ca n't wear them , Buck Mulligan told his face in the mirror .
+--	O
+He	O
+ca	O
+n't	O
+wear	O
+them	O
+,	O
+Buck	B-CHARACTER
+Mulligan	I-CHARACTER
+told	O
+his	O
+face	O
+in	O
+the	O
+mirror	O
+.	O
+
+# id = conivel-ulysses-000105
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Etiquette is etiquette .
+Etiquette	O
+is	O
+etiquette	O
+.	O
+
+# id = conivel-ulysses-000106
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He kills his mother but he ca n't wear grey trousers .
+He	O
+kills	O
+his	O
+mother	O
+but	O
+he	O
+ca	O
+n't	O
+wear	O
+grey	O
+trousers	O
+.	O
+
+# id = conivel-ulysses-000107
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He folded his razor neatly and with stroking palps of fingers felt the smooth skin .
+He	O
+folded	O
+his	O
+razor	O
+neatly	O
+and	O
+with	O
+stroking	O
+palps	O
+of	O
+fingers	O
+felt	O
+the	O
+smooth	O
+skin	O
+.	O
+
+# id = conivel-ulysses-000108
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- That fellow I was with in the Ship last night , said Buck Mulligan , says you have g. p. i. He 's up in Dottyville with Connolly Norman .
+--	O
+That	O
+fellow	O
+I	O
+was	O
+with	O
+in	O
+the	O
+Ship	O
+last	O
+night	O
+,	O
+said	O
+Buck	B-CHARACTER
+Mulligan	I-CHARACTER
+,	O
+says	O
+you	O
+have	O
+g.	O
+p.	O
+i.	O
+He	O
+'s	O
+up	O
+in	O
+Dottyville	B-LOCATION
+with	O
+Connolly	B-CHARACTER
+Norman	I-CHARACTER
+.	O
+
+# id = conivel-ulysses-000109
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = General paralysis of the insane !
+General	O
+paralysis	O
+of	O
+the	O
+insane	O
+!	O
+
+# id = conivel-ulysses-000110
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He swept the mirror a half circle in the air to flash the tidings abroad in sunlight now radiant on the sea .
+He	O
+swept	O
+the	O
+mirror	O
+a	O
+half	O
+circle	O
+in	O
+the	O
+air	O
+to	O
+flash	O
+the	O
+tidings	O
+abroad	O
+in	O
+sunlight	O
+now	O
+radiant	O
+on	O
+the	O
+sea	O
+.	O
+
+# id = conivel-ulysses-000111
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His curling shaven lips laughed and the edges of his white glittering teeth .
+His	O
+curling	O
+shaven	O
+lips	O
+laughed	O
+and	O
+the	O
+edges	O
+of	O
+his	O
+white	O
+glittering	O
+teeth	O
+.	O
+
+# id = conivel-ulysses-000112
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laughter seized all his strong wellknit trunk .
+Laughter	O
+seized	O
+all	O
+his	O
+strong	O
+wellknit	O
+trunk	O
+.	O
+
+# id = conivel-ulysses-000113
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Look at yourself , he said , you dreadful bard !
+--	O
+Look	O
+at	O
+yourself	O
+,	O
+he	O
+said	O
+,	O
+you	O
+dreadful	O
+bard	O
+!	O
+
+# id = conivel-ulysses-000114
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Hair on end .
+Hair	O
+on	O
+end	O
+.	O
+
+# id = conivel-ulysses-000115
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As he and others see me .
+As	O
+he	O
+and	O
+others	O
+see	O
+me	O
+.	O
+
+# id = conivel-ulysses-000116
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Who chose this face for me ?
+Who	O
+chose	O
+this	O
+face	O
+for	O
+me	O
+?	O
+
+# id = conivel-ulysses-000117
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This dogsbody to rid of vermin .
+This	O
+dogsbody	O
+to	O
+rid	O
+of	O
+vermin	O
+.	O
+
+# id = conivel-ulysses-000118
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It asks me too .
+It	O
+asks	O
+me	O
+too	O
+.	O
+
+# id = conivel-ulysses-000119
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- I pinched it out of the skivvy 's room , Buck Mulligan said .
+--	O
+I	O
+pinched	O
+it	O
+out	O
+of	O
+the	O
+skivvy	O
+'s	O
+room	O
+,	O
+Buck	B-CHARACTER
+Mulligan	I-CHARACTER
+said	O
+.	O
+
+# id = conivel-ulysses-000120
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It does her all right .
+It	O
+does	O
+her	O
+all	O
+right	O
+.	O
+
+# id = conivel-ulysses-000121
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Lead him not into temptation .
+Lead	O
+him	O
+not	O
+into	O
+temptation	O
+.	O
+
+# id = conivel-ulysses-000122
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laughing again , he brought the mirror away from Stephen 's peering eyes .
+Laughing	O
+again	O
+,	O
+he	O
+brought	O
+the	O
+mirror	O
+away	O
+from	O
+Stephen	B-CHARACTER
+'s	O
+peering	O
+eyes	O
+.	O
+
+# id = conivel-ulysses-000123
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- The rage of Caliban at not seeing his face in a mirror , he said .
+--	O
+The	O
+rage	O
+of	O
+Caliban	B-CHARACTER
+at	O
+not	O
+seeing	O
+his	O
+face	O
+in	O
+a	O
+mirror	O
+,	O
+he	O
+said	O
+.	O
+
+# id = conivel-ulysses-000124
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If Wilde were only alive to see you !
+If	O
+Wilde	B-CHARACTER
+were	O
+only	O
+alive	O
+to	O
+see	O
+you	O
+!	O
+
+# id = conivel-ulysses-000125
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Drawing back and pointing , Stephen said with bitterness : -- It is a symbol of Irish art .
+Drawing	O
+back	O
+and	O
+pointing	O
+,	O
+Stephen	B-CHARACTER
+said	O
+with	O
+bitterness	O
+:	O
+--	O
+It	O
+is	O
+a	O
+symbol	O
+of	O
+Irish	O
+art	O
+.	O
+
+# id = conivel-ulysses-000126
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The cracked lookingglass of a servant .
+The	O
+cracked	O
+lookingglass	O
+of	O
+a	O
+servant	O
+.	O
+
+# id = conivel-ulysses-000127
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Buck Mulligan suddenly linked his arm in Stephen 's and walked with him round the tower , his razor and mirror clacking in the pocket where he had thrust them .
+Buck	B-CHARACTER
+Mulligan	I-CHARACTER
+suddenly	O
+linked	O
+his	O
+arm	O
+in	O
+Stephen	B-CHARACTER
+'s	O
+and	O
+walked	O
+with	O
+him	O
+round	O
+the	O
+tower	O
+,	O
+his	O
+razor	O
+and	O
+mirror	O
+clacking	O
+in	O
+the	O
+pocket	O
+where	O
+he	O
+had	O
+thrust	O
+them	O
+.	O
+
+# id = conivel-ulysses-000128
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- It 's not fair to tease you like that , Kinch , is it ?
+--	O
+It	O
+'s	O
+not	O
+fair	O
+to	O
+tease	O
+you	O
+like	O
+that	O
+,	O
+Kinch	B-CHARACTER
+,	O
+is	O
+it	O
+?	O
+
+# id = conivel-ulysses-000129
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said kindly .
+he	O
+said	O
+kindly	O
+.	O
+
+# id = conivel-ulysses-000130
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = God knows you have more spirit than any of them .
+God	B-CHARACTER
+knows	O
+you	O
+have	O
+more	O
+spirit	O
+than	O
+any	O
+of	O
+them	O
+.	O
+
+# id = conivel-ulysses-000131
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Parried again .
+Parried	O
+again	O
+.	O
+
+# id = conivel-ulysses-000132
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He fears the lancet of my art as I fear that of his .
+He	O
+fears	O
+the	O
+lancet	O
+of	O
+my	O
+art	O
+as	O
+I	O
+fear	O
+that	O
+of	O
+his	O
+.	O
+
+# id = conivel-ulysses-000133
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The cold steel pen .
+The	O
+cold	O
+steel	O
+pen	O
+.	O
+
+# id = conivel-ulysses-000134
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Cracked lookingglass of a servant !
+--	O
+Cracked	O
+lookingglass	O
+of	O
+a	O
+servant	O
+!	O
+
+# id = conivel-ulysses-000135
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tell that to the oxy chap downstairs and touch him for a guinea .
+Tell	O
+that	O
+to	O
+the	O
+oxy	O
+chap	O
+downstairs	O
+and	O
+touch	O
+him	O
+for	O
+a	O
+guinea	O
+.	O
+
+# id = conivel-ulysses-000136
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He 's stinking with money and thinks you 're not a gentleman .
+He	O
+'s	O
+stinking	O
+with	O
+money	O
+and	O
+thinks	O
+you	O
+'re	O
+not	O
+a	O
+gentleman	O
+.	O
+
+# id = conivel-ulysses-000137
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His old fellow made his tin by selling jalap to Zulus or some bloody swindle or other .
+His	O
+old	O
+fellow	O
+made	O
+his	O
+tin	O
+by	O
+selling	O
+jalap	O
+to	O
+Zulus	O
+or	O
+some	O
+bloody	O
+swindle	O
+or	O
+other	O
+.	O
+
+# id = conivel-ulysses-000138
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Hellenise it .
+Hellenise	O
+it	O
+.	O
+
+# id = conivel-ulysses-000139
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cranly 's arm .
+Cranly	B-CHARACTER
+'s	O
+arm	O
+.	O
+
+# id = conivel-ulysses-000140
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His arm .
+His	O
+arm	O
+.	O
+
+# id = conivel-ulysses-000141
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- And to think of your having to beg from these swine .
+--	O
+And	O
+to	O
+think	O
+of	O
+your	O
+having	O
+to	O
+beg	O
+from	O
+these	O
+swine	O
+.	O
+
+# id = conivel-ulysses-000142
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'm the only one that knows what you are .
+I	O
+'m	O
+the	O
+only	O
+one	O
+that	O
+knows	O
+what	O
+you	O
+are	O
+.	O
+
+# id = conivel-ulysses-000143
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Why do n't you trust me more ?
+Why	O
+do	O
+n't	O
+you	O
+trust	O
+me	O
+more	O
+?	O
+
+# id = conivel-ulysses-000144
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What have you up your nose against me ?
+What	O
+have	O
+you	O
+up	O
+your	O
+nose	O
+against	O
+me	O
+?	O
+
+# id = conivel-ulysses-000145
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If he makes any noise here I 'll bring down Seymour and we 'll give him a ragging worse than they gave Clive Kempthorpe .
+If	O
+he	O
+makes	O
+any	O
+noise	O
+here	O
+I	O
+'ll	O
+bring	O
+down	O
+Seymour	B-CHARACTER
+and	O
+we	O
+'ll	O
+give	O
+him	O
+a	O
+ragging	O
+worse	O
+than	O
+they	O
+gave	O
+Clive	B-CHARACTER
+Kempthorpe	I-CHARACTER
+.	O
+
+# id = conivel-ulysses-000146
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Young shouts of moneyed voices in Clive Kempthorpe 's rooms .
+Young	O
+shouts	O
+of	O
+moneyed	O
+voices	O
+in	O
+Clive	B-CHARACTER
+Kempthorpe	I-CHARACTER
+'s	O
+rooms	O
+.	O
+
+# id = conivel-ulysses-000147
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Palefaces : they hold their ribs with laughter , one clasping another .
+Palefaces	O
+:	O
+they	O
+hold	O
+their	O
+ribs	O
+with	O
+laughter	O
+,	O
+one	O
+clasping	O
+another	O
+.	O
+
+# id = conivel-ulysses-000148
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = O , I shall expire !
+O	O
+,	O
+I	O
+shall	O
+expire	O
+!	O
+
+# id = conivel-ulysses-000149
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Break the news to her gently , Aubrey !
+Break	O
+the	O
+news	O
+to	O
+her	O
+gently	O
+,	O
+Aubrey	B-CHARACTER
+!	O
+
+# id = conivel-ulysses-000150
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I shall die !
+I	O
+shall	O
+die	O
+!	O
+
+# id = conivel-ulysses-000151
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = With slit ribbons of his shirt whipping the air he hops and hobbles round the table , with trousers down at heels , chased by Ades of Magdalen with the tailor 's shears .
+With	O
+slit	O
+ribbons	O
+of	O
+his	O
+shirt	O
+whipping	O
+the	O
+air	O
+he	O
+hops	O
+and	O
+hobbles	O
+round	O
+the	O
+table	O
+,	O
+with	O
+trousers	O
+down	O
+at	O
+heels	O
+,	O
+chased	O
+by	O
+Ades	B-CHARACTER
+of	O
+Magdalen	O
+with	O
+the	O
+tailor	O
+'s	O
+shears	O
+.	O
+
+# id = conivel-ulysses-000152
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A scared calf 's face gilded with marmalade .
+A	O
+scared	O
+calf	O
+'s	O
+face	O
+gilded	O
+with	O
+marmalade	O
+.	O
+
+# id = conivel-ulysses-000153
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I do n't want to be debagged !
+I	O
+do	O
+n't	O
+want	O
+to	O
+be	O
+debagged	O
+!	O
+
+# id = conivel-ulysses-000154
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Do n't you play the giddy ox with me !
+Do	O
+n't	O
+you	O
+play	O
+the	O
+giddy	O
+ox	O
+with	O
+me	O
+!	O
+
+# id = conivel-ulysses-000155
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Shouts from the open window startling evening in the quadrangle .
+Shouts	O
+from	O
+the	O
+open	O
+window	O
+startling	O
+evening	O
+in	O
+the	O
+quadrangle	O
+.	O
+
+# id = conivel-ulysses-000156
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A deaf gardener , aproned , masked with Matthew Arnold 's face , pushes his mower on the sombre lawn watching narrowly the dancing motes of grasshalms .
+A	O
+deaf	O
+gardener	O
+,	O
+aproned	O
+,	O
+masked	O
+with	O
+Matthew	B-CHARACTER
+Arnold	I-CHARACTER
+'s	O
+face	O
+,	O
+pushes	O
+his	O
+mower	O
+on	O
+the	O
+sombre	O
+lawn	O
+watching	O
+narrowly	O
+the	O
+dancing	O
+motes	O
+of	O
+grasshalms	O
+.	O
+
+# id = conivel-ulysses-000157
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = To ourselves ... new paganism ... omphalos .
+To	O
+ourselves	O
+...	O
+new	O
+paganism	O
+...	O
+omphalos	O
+.	O
+
+# id = conivel-ulysses-000158
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Let him stay , Stephen said .
+--	O
+Let	O
+him	O
+stay	O
+,	O
+Stephen	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-ulysses-000159
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There 's nothing wrong with him except at night .
+There	O
+'s	O
+nothing	O
+wrong	O
+with	O
+him	O
+except	O
+at	O
+night	O
+.	O
+
+# id = conivel-ulysses-000160
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Then what is it ?
+--	O
+Then	O
+what	O
+is	O
+it	O
+?	O
+
+# id = conivel-ulysses-000161
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Buck Mulligan asked impatiently .
+Buck	B-CHARACTER
+Mulligan	I-CHARACTER
+asked	O
+impatiently	O
+.	O
+
+# id = conivel-ulysses-000162
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cough it up .
+Cough	O
+it	O
+up	O
+.	O
+
+# id = conivel-ulysses-000163
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'm quite frank with you .
+I	O
+'m	O
+quite	O
+frank	O
+with	O
+you	O
+.	O
+
+# id = conivel-ulysses-000164
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What have you against me now ?
+What	O
+have	O
+you	O
+against	O
+me	O
+now	O
+?	O
+
+# id = conivel-ulysses-000165
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They halted , looking towards the blunt cape of Bray Head that lay on the water like the snout of a sleeping whale .
+They	O
+halted	O
+,	O
+looking	O
+towards	O
+the	O
+blunt	O
+cape	O
+of	O
+Bray	B-LOCATION
+Head	I-LOCATION
+that	O
+lay	O
+on	O
+the	O
+water	O
+like	O
+the	O
+snout	O
+of	O
+a	O
+sleeping	O
+whale	O
+.	O
+
+# id = conivel-ulysses-000166
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Stephen freed his arm quietly .
+Stephen	B-CHARACTER
+freed	O
+his	O
+arm	O
+quietly	O
+.	O
+
+# id = conivel-ulysses-000167
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Do you wish me to tell you ?
+--	O
+Do	O
+you	O
+wish	O
+me	O
+to	O
+tell	O
+you	O
+?	O
+
+# id = conivel-ulysses-000168
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he asked .
+he	O
+asked	O
+.	O
+
+# id = conivel-ulysses-000169
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Yes , what is it ?
+--	O
+Yes	O
+,	O
+what	O
+is	O
+it	O
+?	O
+
+# id = conivel-ulysses-000170
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Buck Mulligan answered .
+Buck	B-CHARACTER
+Mulligan	I-CHARACTER
+answered	O
+.	O
+
+# id = conivel-ulysses-000171
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I do n't remember anything .
+I	O
+do	O
+n't	O
+remember	O
+anything	O
+.	O
+
+# id = conivel-ulysses-000172
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He looked in Stephen 's face as he spoke .
+He	O
+looked	O
+in	O
+Stephen	B-CHARACTER
+'s	O
+face	O
+as	O
+he	O
+spoke	O
+.	O
+
+# id = conivel-ulysses-000173
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A light wind passed his brow , fanning softly his fair uncombed hair and stirring silver points of anxiety in his eyes .
+A	O
+light	O
+wind	O
+passed	O
+his	O
+brow	O
+,	O
+fanning	O
+softly	O
+his	O
+fair	O
+uncombed	O
+hair	O
+and	O
+stirring	O
+silver	O
+points	O
+of	O
+anxiety	O
+in	O
+his	O
+eyes	O
+.	O
+
+# id = conivel-ulysses-000174
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Stephen , depressed by his own voice , said : -- Do you remember the first day I went to your house after my mother 's death ?
+Stephen	B-CHARACTER
+,	O
+depressed	O
+by	O
+his	O
+own	O
+voice	O
+,	O
+said	O
+:	O
+--	O
+Do	O
+you	O
+remember	O
+the	O
+first	O
+day	O
+I	O
+went	O
+to	O
+your	O
+house	O
+after	O
+my	O
+mother	O
+'s	O
+death	O
+?	O
+
+# id = conivel-ulysses-000175
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Buck Mulligan frowned quickly and said : -- What ?
+Buck	B-CHARACTER
+Mulligan	I-CHARACTER
+frowned	O
+quickly	O
+and	O
+said	O
+:	O
+--	O
+What	O
+?	O
+
+# id = conivel-ulysses-000176
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Where ?
+Where	O
+?	O
+
+# id = conivel-ulysses-000177
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I ca n't remember anything .
+I	O
+ca	O
+n't	O
+remember	O
+anything	O
+.	O
+
+# id = conivel-ulysses-000178
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I remember only ideas and sensations .
+I	O
+remember	O
+only	O
+ideas	O
+and	O
+sensations	O
+.	O
+
+# id = conivel-ulysses-000179
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Why ?
+Why	O
+?	O
+
+# id = conivel-ulysses-000180
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What happened in the name of God ?
+What	O
+happened	O
+in	O
+the	O
+name	O
+of	O
+God	B-CHARACTER
+?	O
+
+# id = conivel-ulysses-000181
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- You were making tea , Stephen said , and went across the landing to get more hot water .
+--	O
+You	O
+were	O
+making	O
+tea	O
+,	O
+Stephen	B-CHARACTER
+said	O
+,	O
+and	O
+went	O
+across	O
+the	O
+landing	O
+to	O
+get	O
+more	O
+hot	O
+water	O
+.	O
+
+# id = conivel-ulysses-000182
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Your mother and some visitor came out of the drawingroom .
+Your	O
+mother	O
+and	O
+some	O
+visitor	O
+came	O
+out	O
+of	O
+the	O
+drawingroom	O
+.	O
+
+# id = conivel-ulysses-000183
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She asked you who was in your room .
+She	O
+asked	O
+you	O
+who	O
+was	O
+in	O
+your	O
+room	O
+.	O
+
+# id = conivel-ulysses-000184
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Yes ?
+--	O
+Yes	O
+?	O
+
+# id = conivel-ulysses-000185
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What did I say ?
+What	O
+did	O
+I	O
+say	O
+?	O
+
+# id = conivel-ulysses-000186
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I forget .
+I	O
+forget	O
+.	O
+
+# id = conivel-ulysses-000187
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- You said , Stephen answered , O , it 's only Dedalus whose mother is beastly dead .
+--	O
+You	O
+said	O
+,	O
+Stephen	B-CHARACTER
+answered	O
+,	O
+O	O
+,	O
+it	O
+'s	O
+only	O
+Dedalus	B-CHARACTER
+whose	O
+mother	O
+is	O
+beastly	O
+dead	O
+.	O
+
+# id = conivel-ulysses-000188
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A flush which made him seem younger and more engaging rose to Buck Mulligan 's cheek .
+A	O
+flush	O
+which	O
+made	O
+him	O
+seem	O
+younger	O
+and	O
+more	O
+engaging	O
+rose	O
+to	O
+Buck	B-CHARACTER
+Mulligan	I-CHARACTER
+'s	O
+cheek	O
+.	O
+
+# id = conivel-ulysses-000189
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Did I say that ?
+--	O
+Did	O
+I	O
+say	O
+that	O
+?	O
+
+# id = conivel-ulysses-000190
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he asked .
+he	O
+asked	O
+.	O
+
+# id = conivel-ulysses-000191
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well ?
+Well	O
+?	O
+
+# id = conivel-ulysses-000192
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What harm is that ?
+What	O
+harm	O
+is	O
+that	O
+?	O
+
+# id = conivel-ulysses-000193
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He shook his constraint from him nervously .
+He	O
+shook	O
+his	O
+constraint	O
+from	O
+him	O
+nervously	O
+.	O
+
+# id = conivel-ulysses-000194
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- And what is death , he asked , your mother 's or yours or my own ?
+--	O
+And	O
+what	O
+is	O
+death	O
+,	O
+he	O
+asked	O
+,	O
+your	O
+mother	O
+'s	O
+or	O
+yours	O
+or	O
+my	O
+own	O
+?	O
+
+# id = conivel-ulysses-000195
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You saw only your mother die .
+You	O
+saw	O
+only	O
+your	O
+mother	O
+die	O
+.	O
+
+# id = conivel-ulysses-000196
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I see them pop off every day in the Mater and Richmond and cut up into tripes in the dissectingroom .
+I	O
+see	O
+them	O
+pop	O
+off	O
+every	O
+day	O
+in	O
+the	O
+Mater	B-LOCATION
+and	O
+Richmond	B-LOCATION
+and	O
+cut	O
+up	O
+into	O
+tripes	O
+in	O
+the	O
+dissectingroom	O
+.	O
+
+# id = conivel-ulysses-000197
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's a beastly thing and nothing else .
+It	O
+'s	O
+a	O
+beastly	O
+thing	O
+and	O
+nothing	O
+else	O
+.	O
+
+# id = conivel-ulysses-000198
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It simply does n't matter .
+It	O
+simply	O
+does	O
+n't	O
+matter	O
+.	O
+
+# id = conivel-ulysses-000199
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You would n't kneel down to pray for your mother on her deathbed when she asked you .
+You	O
+would	O
+n't	O
+kneel	O
+down	O
+to	O
+pray	O
+for	O
+your	O
+mother	O
+on	O
+her	O
+deathbed	O
+when	O
+she	O
+asked	O
+you	O
+.	O
+
+# id = conivel-ulysses-000200
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Why ?
+Why	O
+?	O
+
+# id = conivel-ulysses-000201
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Because you have the cursed jesuit strain in you , only it 's injected the wrong way .
+Because	O
+you	O
+have	O
+the	O
+cursed	O
+jesuit	O
+strain	O
+in	O
+you	O
+,	O
+only	O
+it	O
+'s	O
+injected	O
+the	O
+wrong	O
+way	O
+.	O
+
+# id = conivel-ulysses-000202
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = To me it 's all a mockery and beastly .
+To	O
+me	O
+it	O
+'s	O
+all	O
+a	O
+mockery	O
+and	O
+beastly	O
+.	O
+
+# id = conivel-ulysses-000203
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her cerebral lobes are not functioning .
+Her	O
+cerebral	O
+lobes	O
+are	O
+not	O
+functioning	O
+.	O
+
+# id = conivel-ulysses-000204
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She calls the doctor sir Peter Teazle and picks buttercups off the quilt .
+She	O
+calls	O
+the	O
+doctor	O
+sir	O
+Peter	B-CHARACTER
+Teazle	I-CHARACTER
+and	O
+picks	O
+buttercups	O
+off	O
+the	O
+quilt	O
+.	O
+
+# id = conivel-ulysses-000205
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Humour her till it 's over .
+Humour	O
+her	O
+till	O
+it	O
+'s	O
+over	O
+.	O
+
+# id = conivel-ulysses-000206
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You crossed her last wish in death and yet you sulk with me because I do n't whinge like some hired mute from Lalouette 's .
+You	O
+crossed	O
+her	O
+last	O
+wish	O
+in	O
+death	O
+and	O
+yet	O
+you	O
+sulk	O
+with	O
+me	O
+because	O
+I	O
+do	O
+n't	O
+whinge	O
+like	O
+some	O
+hired	O
+mute	O
+from	O
+Lalouette	O
+'s	O
+.	O
+
+# id = conivel-ulysses-000207
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Absurd !
+Absurd	O
+!	O
+
+# id = conivel-ulysses-000208
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I suppose I did say it .
+I	O
+suppose	O
+I	O
+did	O
+say	O
+it	O
+.	O
+
+# id = conivel-ulysses-000209
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I did n't mean to offend the memory of your mother .
+I	O
+did	O
+n't	O
+mean	O
+to	O
+offend	O
+the	O
+memory	O
+of	O
+your	O
+mother	O
+.	O
+
+# id = conivel-ulysses-000210
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had spoken himself into boldness .
+He	O
+had	O
+spoken	O
+himself	O
+into	O
+boldness	O
+.	O
+
+# id = conivel-ulysses-000211
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Stephen , shielding the gaping wounds which the words had left in his heart , said very coldly : -- I am not thinking of the offence to my mother .
+Stephen	B-CHARACTER
+,	O
+shielding	O
+the	O
+gaping	O
+wounds	O
+which	O
+the	O
+words	O
+had	O
+left	O
+in	O
+his	O
+heart	O
+,	O
+said	O
+very	O
+coldly	O
+:	O
+--	O
+I	O
+am	O
+not	O
+thinking	O
+of	O
+the	O
+offence	O
+to	O
+my	O
+mother	O
+.	O
+
+# id = conivel-ulysses-000212
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Of what then ?
+--	O
+Of	O
+what	O
+then	O
+?	O
+
+# id = conivel-ulysses-000213
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Buck Mulligan asked .
+Buck	B-CHARACTER
+Mulligan	I-CHARACTER
+asked	O
+.	O
+
+# id = conivel-ulysses-000214
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Of the offence to me , Stephen answered .
+--	O
+Of	O
+the	O
+offence	O
+to	O
+me	O
+,	O
+Stephen	B-CHARACTER
+answered	O
+.	O
+
+# id = conivel-ulysses-000215
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Buck Mulligan swung round on his heel .
+Buck	B-CHARACTER
+Mulligan	I-CHARACTER
+swung	O
+round	O
+on	O
+his	O
+heel	O
+.	O
+
+# id = conivel-ulysses-000216
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- O , an impossible person !
+--	O
+O	O
+,	O
+an	O
+impossible	O
+person	O
+!	O
+
+# id = conivel-ulysses-000217
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he exclaimed .
+he	O
+exclaimed	O
+.	O
+
+# id = conivel-ulysses-000218
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He walked off quickly round the parapet .
+He	O
+walked	O
+off	O
+quickly	O
+round	O
+the	O
+parapet	O
+.	O
+
+# id = conivel-ulysses-000219
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Stephen stood at his post , gazing over the calm sea towards the headland .
+Stephen	B-CHARACTER
+stood	O
+at	O
+his	O
+post	O
+,	O
+gazing	O
+over	O
+the	O
+calm	O
+sea	O
+towards	O
+the	O
+headland	O
+.	O
+
+# id = conivel-ulysses-000220
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Sea and headland now grew dim .
+Sea	O
+and	O
+headland	O
+now	O
+grew	O
+dim	O
+.	O
+
+# id = conivel-ulysses-000221
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pulses were beating in his eyes , veiling their sight , and he felt the fever of his cheeks .
+Pulses	O
+were	O
+beating	O
+in	O
+his	O
+eyes	O
+,	O
+veiling	O
+their	O
+sight	O
+,	O
+and	O
+he	O
+felt	O
+the	O
+fever	O
+of	O
+his	O
+cheeks	O
+.	O
+
+# id = conivel-ulysses-000222
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A voice within the tower called loudly : -- Are you up there , Mulligan ?
+A	O
+voice	O
+within	O
+the	O
+tower	O
+called	O
+loudly	O
+:	O
+--	O
+Are	O
+you	O
+up	O
+there	O
+,	O
+Mulligan	B-CHARACTER
+?	O
+
+# id = conivel-ulysses-000223
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- I 'm coming , Buck Mulligan answered .
+--	O
+I	O
+'m	O
+coming	O
+,	O
+Buck	B-CHARACTER
+Mulligan	I-CHARACTER
+answered	O
+.	O
+
+# id = conivel-ulysses-000224
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He turned towards Stephen and said : -- Look at the sea .
+He	O
+turned	O
+towards	O
+Stephen	B-CHARACTER
+and	O
+said	O
+:	O
+--	O
+Look	O
+at	O
+the	O
+sea	O
+.	O
+
+# id = conivel-ulysses-000225
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What does it care about offences ?
+What	O
+does	O
+it	O
+care	O
+about	O
+offences	O
+?	O
+
+# id = conivel-ulysses-000226
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Chuck Loyola , Kinch , and come on down .
+Chuck	B-CHARACTER
+Loyola	I-CHARACTER
+,	O
+Kinch	B-CHARACTER
+,	O
+and	O
+come	O
+on	O
+down	O
+.	O
+
+# id = conivel-ulysses-000227
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Sassenach wants his morning rashers .
+The	O
+Sassenach	O
+wants	O
+his	O
+morning	O
+rashers	O
+.	O
+
+# id = conivel-ulysses-000228
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His head halted again for a moment at the top of the staircase , level with the roof : -- Do n't mope over it all day , he said .
+His	O
+head	O
+halted	O
+again	O
+for	O
+a	O
+moment	O
+at	O
+the	O
+top	O
+of	O
+the	O
+staircase	O
+,	O
+level	O
+with	O
+the	O
+roof	O
+:	O
+--	O
+Do	O
+n't	O
+mope	O
+over	O
+it	O
+all	O
+day	O
+,	O
+he	O
+said	O
+.	O
+
+# id = conivel-ulysses-000229
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'm inconsequent .
+I	O
+'m	O
+inconsequent	O
+.	O
+
+# id = conivel-ulysses-000230
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Give up the moody brooding .
+Give	O
+up	O
+the	O
+moody	O
+brooding	O
+.	O
+
+# id = conivel-ulysses-000231
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His head vanished but the drone of his descending voice boomed out of the stairhead : And no more turn aside and brood Upon love 's bitter mystery For Fergus rules the brazen cars .
+His	O
+head	O
+vanished	O
+but	O
+the	O
+drone	O
+of	O
+his	O
+descending	O
+voice	O
+boomed	O
+out	O
+of	O
+the	O
+stairhead	O
+:	O
+And	O
+no	O
+more	O
+turn	O
+aside	O
+and	O
+brood	O
+Upon	O
+love	O
+'s	O
+bitter	O
+mystery	O
+For	O
+Fergus	B-CHARACTER
+rules	O
+the	O
+brazen	O
+cars	O
+.	O
+
+# id = conivel-ulysses-000232
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Woodshadows floated silently by through the morning peace from the stairhead seaward where he gazed .
+Woodshadows	O
+floated	O
+silently	O
+by	O
+through	O
+the	O
+morning	O
+peace	O
+from	O
+the	O
+stairhead	O
+seaward	O
+where	O
+he	O
+gazed	O
+.	O
+
+# id = conivel-ulysses-000233
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Inshore and farther out the mirror of water whitened , spurned by lightshod hurrying feet .
+Inshore	O
+and	O
+farther	O
+out	O
+the	O
+mirror	O
+of	O
+water	O
+whitened	O
+,	O
+spurned	O
+by	O
+lightshod	O
+hurrying	O
+feet	O
+.	O
+
+# id = conivel-ulysses-000234
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = White breast of the dim sea .
+White	O
+breast	O
+of	O
+the	O
+dim	O
+sea	O
+.	O
+
+# id = conivel-ulysses-000235
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The twining stresses , two by two .
+The	O
+twining	O
+stresses	O
+,	O
+two	O
+by	O
+two	O
+.	O
+
+# id = conivel-ulysses-000236
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A hand plucking the harpstrings , merging their twining chords .
+A	O
+hand	O
+plucking	O
+the	O
+harpstrings	O
+,	O
+merging	O
+their	O
+twining	O
+chords	O
+.	O
+
+# id = conivel-ulysses-000237
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Wavewhite wedded words shimmering on the dim tide .
+Wavewhite	O
+wedded	O
+words	O
+shimmering	O
+on	O
+the	O
+dim	O
+tide	O
+.	O
+
+# id = conivel-ulysses-000238
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A cloud began to cover the sun slowly , wholly , shadowing the bay in deeper green .
+A	O
+cloud	O
+began	O
+to	O
+cover	O
+the	O
+sun	O
+slowly	O
+,	O
+wholly	O
+,	O
+shadowing	O
+the	O
+bay	O
+in	O
+deeper	O
+green	O
+.	O
+
+# id = conivel-ulysses-000239
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It lay beneath him , a bowl of bitter waters .
+It	O
+lay	O
+beneath	O
+him	O
+,	O
+a	O
+bowl	O
+of	O
+bitter	O
+waters	O
+.	O
+
+# id = conivel-ulysses-000240
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Fergus ' song : I sang it alone in the house , holding down the long dark chords .
+Fergus	B-CHARACTER
+'	O
+song	O
+:	O
+I	O
+sang	O
+it	O
+alone	O
+in	O
+the	O
+house	O
+,	O
+holding	O
+down	O
+the	O
+long	O
+dark	O
+chords	O
+.	O
+
+# id = conivel-ulysses-000241
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her door was open : she wanted to hear my music .
+Her	O
+door	O
+was	O
+open	O
+:	O
+she	O
+wanted	O
+to	O
+hear	O
+my	O
+music	O
+.	O
+
+# id = conivel-ulysses-000242
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Silent with awe and pity I went to her bedside .
+Silent	O
+with	O
+awe	O
+and	O
+pity	O
+I	O
+went	O
+to	O
+her	O
+bedside	O
+.	O
+
+# id = conivel-ulysses-000243
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She was crying in her wretched bed .
+She	O
+was	O
+crying	O
+in	O
+her	O
+wretched	O
+bed	O
+.	O
+
+# id = conivel-ulysses-000244
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For those words , Stephen : love 's bitter mystery .
+For	O
+those	O
+words	O
+,	O
+Stephen	B-CHARACTER
+:	O
+love	O
+'s	O
+bitter	O
+mystery	O
+.	O
+
+# id = conivel-ulysses-000245
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Where now ?
+Where	O
+now	O
+?	O
+
+# id = conivel-ulysses-000246
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her secrets : old featherfans , tasselled dancecards , powdered with musk , a gaud of amber beads in her locked drawer .
+Her	O
+secrets	O
+:	O
+old	O
+featherfans	O
+,	O
+tasselled	O
+dancecards	O
+,	O
+powdered	O
+with	O
+musk	O
+,	O
+a	O
+gaud	O
+of	O
+amber	O
+beads	O
+in	O
+her	O
+locked	O
+drawer	O
+.	O
+
+# id = conivel-ulysses-000247
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A birdcage hung in the sunny window of her house when she was a girl .
+A	O
+birdcage	O
+hung	O
+in	O
+the	O
+sunny	O
+window	O
+of	O
+her	O
+house	O
+when	O
+she	O
+was	O
+a	O
+girl	O
+.	O
+
+# id = conivel-ulysses-000248
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She heard old Royce sing in the pantomime of Turko the Terrible and laughed with others when he sang : I am the boy That can enjoy Invisibility .
+She	O
+heard	O
+old	O
+Royce	B-CHARACTER
+sing	O
+in	O
+the	O
+pantomime	O
+of	O
+Turko	B-CHARACTER
+the	I-CHARACTER
+Terrible	I-CHARACTER
+and	O
+laughed	O
+with	O
+others	O
+when	O
+he	O
+sang	O
+:	O
+I	O
+am	O
+the	O
+boy	O
+That	O
+can	O
+enjoy	O
+Invisibility	O
+.	O
+
+# id = conivel-ulysses-000249
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Phantasmal mirth , folded away : muskperfumed .
+Phantasmal	O
+mirth	O
+,	O
+folded	O
+away	O
+:	O
+muskperfumed	O
+.	O
+
+# id = conivel-ulysses-000250
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And no more turn aside and brood .
+And	O
+no	O
+more	O
+turn	O
+aside	O
+and	O
+brood	O
+.	O
+
+# id = conivel-ulysses-000251
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Folded away in the memory of nature with her toys .
+Folded	O
+away	O
+in	O
+the	O
+memory	O
+of	O
+nature	O
+with	O
+her	O
+toys	O
+.	O
+
+# id = conivel-ulysses-000252
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Memories beset his brooding brain .
+Memories	O
+beset	O
+his	O
+brooding	O
+brain	O
+.	O
+
+# id = conivel-ulysses-000253
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her glass of water from the kitchen tap when she had approached the sacrament .
+Her	O
+glass	O
+of	O
+water	O
+from	O
+the	O
+kitchen	O
+tap	O
+when	O
+she	O
+had	O
+approached	O
+the	O
+sacrament	O
+.	O
+
+# id = conivel-ulysses-000254
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A cored apple , filled with brown sugar , roasting for her at the hob on a dark autumn evening .
+A	O
+cored	O
+apple	O
+,	O
+filled	O
+with	O
+brown	O
+sugar	O
+,	O
+roasting	O
+for	O
+her	O
+at	O
+the	O
+hob	O
+on	O
+a	O
+dark	O
+autumn	O
+evening	O
+.	O
+
+# id = conivel-ulysses-000255
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her shapely fingernails reddened by the blood of squashed lice from the children 's shirts .
+Her	O
+shapely	O
+fingernails	O
+reddened	O
+by	O
+the	O
+blood	O
+of	O
+squashed	O
+lice	O
+from	O
+the	O
+children	O
+'s	O
+shirts	O
+.	O
+
+# id = conivel-ulysses-000256
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In a dream , silently , she had come to him , her wasted body within its loose graveclothes giving off an odour of wax and rosewood , her breath , bent over him with mute secret words , a faint odour of wetted ashes .
+In	O
+a	O
+dream	O
+,	O
+silently	O
+,	O
+she	O
+had	O
+come	O
+to	O
+him	O
+,	O
+her	O
+wasted	O
+body	O
+within	O
+its	O
+loose	O
+graveclothes	O
+giving	O
+off	O
+an	O
+odour	O
+of	O
+wax	O
+and	O
+rosewood	O
+,	O
+her	O
+breath	O
+,	O
+bent	O
+over	O
+him	O
+with	O
+mute	O
+secret	O
+words	O
+,	O
+a	O
+faint	O
+odour	O
+of	O
+wetted	O
+ashes	O
+.	O
+
+# id = conivel-ulysses-000257
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her glazing eyes , staring out of death , to shake and bend my soul .
+Her	O
+glazing	O
+eyes	O
+,	O
+staring	O
+out	O
+of	O
+death	O
+,	O
+to	O
+shake	O
+and	O
+bend	O
+my	O
+soul	O
+.	O
+
+# id = conivel-ulysses-000258
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = On me alone .
+On	O
+me	O
+alone	O
+.	O
+
+# id = conivel-ulysses-000259
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The ghostcandle to light her agony .
+The	O
+ghostcandle	O
+to	O
+light	O
+her	O
+agony	O
+.	O
+
+# id = conivel-ulysses-000260
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ghostly light on the tortured face .
+Ghostly	O
+light	O
+on	O
+the	O
+tortured	O
+face	O
+.	O
+
+# id = conivel-ulysses-000261
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her hoarse loud breath rattling in horror , while all prayed on their knees .
+Her	O
+hoarse	O
+loud	O
+breath	O
+rattling	O
+in	O
+horror	O
+,	O
+while	O
+all	O
+prayed	O
+on	O
+their	O
+knees	O
+.	O
+
+# id = conivel-ulysses-000262
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her eyes on me to strike me down .
+Her	O
+eyes	O
+on	O
+me	O
+to	O
+strike	O
+me	O
+down	O
+.	O
+
+# id = conivel-ulysses-000263
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Liliata rutilantium te confessorum turma circumdet : iubilantium te virginum chorus excipiat .
+Liliata	O
+rutilantium	O
+te	O
+confessorum	O
+turma	O
+circumdet	O
+:	O
+iubilantium	O
+te	O
+virginum	O
+chorus	O
+excipiat	O
+.	O
+
+# id = conivel-ulysses-000264
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ghoul !
+Ghoul	O
+!	O
+
+# id = conivel-ulysses-000265
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Chewer of corpses !
+Chewer	O
+of	O
+corpses	O
+!	O
+
+# id = conivel-ulysses-000266
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No , mother !
+No	O
+,	O
+mother	O
+!	O
+
+# id = conivel-ulysses-000267
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Let me be and let me live .
+Let	O
+me	O
+be	O
+and	O
+let	O
+me	O
+live	O
+.	O
+
+# id = conivel-ulysses-000268
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Kinch ahoy !
+--	O
+Kinch	B-CHARACTER
+ahoy	O
+!	O
+
+# id = conivel-ulysses-000269
+# source = Conivel corrected OWTO literary NER
+# book = Ulysses
+# source_file = Ulysses.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Buck Mulligan 's voice sang from within the tower .
+Buck	B-CHARACTER
+Mulligan	I-CHARACTER
+'s	O
+voice	O
+sang	O
+from	O
+within	O
+the	O
+tower	O
+.	O
+

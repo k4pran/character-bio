@@ -1,0 +1,7709 @@
+# id = conivel-the-painted-man-000001
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen paused in his work , looking up at the lavender wash of the dawn sky .
+Arlen	B-CHARACTER
+paused	O
+in	O
+his	O
+work	O
+,	O
+looking	O
+up	O
+at	O
+the	O
+lavender	O
+wash	O
+of	O
+the	O
+dawn	O
+sky	O
+.	O
+
+# id = conivel-the-painted-man-000002
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mist still clung to the air , bringing with it a damp , acrid taste that was all too familiar .
+Mist	O
+still	O
+clung	O
+to	O
+the	O
+air	O
+,	O
+bringing	O
+with	O
+it	O
+a	O
+damp	O
+,	O
+acrid	O
+taste	O
+that	O
+was	O
+all	O
+too	O
+familiar	O
+.	O
+
+# id = conivel-the-painted-man-000003
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A quiet dread built in his gut as he waited in the morning stillness , hoping that it had been his imagination .
+A	O
+quiet	O
+dread	O
+built	O
+in	O
+his	O
+gut	O
+as	O
+he	O
+waited	O
+in	O
+the	O
+morning	O
+stillness	O
+,	O
+hoping	O
+that	O
+it	O
+had	O
+been	O
+his	O
+imagination	O
+.	O
+
+# id = conivel-the-painted-man-000004
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was eleven years old .
+He	O
+was	O
+eleven	O
+years	O
+old	O
+.	O
+
+# id = conivel-the-painted-man-000005
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was a pause , and then the horn blew twice in rapid succession .
+There	O
+was	O
+a	O
+pause	O
+,	O
+and	O
+then	O
+the	O
+horn	O
+blew	O
+twice	O
+in	O
+rapid	O
+succession	O
+.	O
+
+# id = conivel-the-painted-man-000006
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One long and two short meant south and east .
+One	O
+long	O
+and	O
+two	O
+short	O
+meant	O
+south	O
+and	O
+east	O
+.	O
+
+# id = conivel-the-painted-man-000007
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Cluster by the Woods .
+The	B-LOCATION
+Cluster	B-LOCATION
+by	I-LOCATION
+the	I-LOCATION
+Woods	I-LOCATION
+.	O
+
+# id = conivel-the-painted-man-000008
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His father had friends among the cutters .
+His	O
+father	O
+had	O
+friends	O
+among	O
+the	O
+cutters	O
+.	O
+
+# id = conivel-the-painted-man-000009
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Behind Arlen , the door to the house opened , and he knew his mother would be there , covering her mouth with both hands .
+Behind	O
+Arlen	B-CHARACTER
+,	O
+the	O
+door	O
+to	O
+the	O
+house	O
+opened	O
+,	O
+and	O
+he	O
+knew	O
+his	O
+mother	O
+would	O
+be	O
+there	O
+,	O
+covering	O
+her	O
+mouth	O
+with	O
+both	O
+hands	O
+.	O
+
+# id = conivel-the-painted-man-000010
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen returned to his work , not needing to be told to hurry .
+Arlen	B-CHARACTER
+returned	O
+to	O
+his	O
+work	O
+,	O
+not	O
+needing	O
+to	O
+be	O
+told	O
+to	O
+hurry	O
+.	O
+
+# id = conivel-the-painted-man-000011
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Some chores could wait a day , but the stock still needed to be fed and the cows milked .
+Some	O
+chores	O
+could	O
+wait	O
+a	O
+day	O
+,	O
+but	O
+the	O
+stock	O
+still	O
+needed	O
+to	O
+be	O
+fed	O
+and	O
+the	O
+cows	O
+milked	O
+.	O
+
+# id = conivel-the-painted-man-000012
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He left the animals in the barns and opened the hay stores , slopped the pigs , and ran to fetch a wooden milk bucket .
+He	O
+left	O
+the	O
+animals	O
+in	O
+the	O
+barns	O
+and	O
+opened	O
+the	O
+hay	O
+stores	O
+,	O
+slopped	O
+the	O
+pigs	O
+,	O
+and	O
+ran	O
+to	O
+fetch	O
+a	O
+wooden	O
+milk	O
+bucket	O
+.	O
+
+# id = conivel-the-painted-man-000013
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His mother was already squatting beneath the first of the cows .
+His	O
+mother	O
+was	O
+already	O
+squatting	O
+beneath	O
+the	O
+first	O
+of	O
+the	O
+cows	O
+.	O
+
+# id = conivel-the-painted-man-000014
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He snatched the spare stool and they found cadence in their work , the sound of milk striking wood drumming a funeral march .
+He	O
+snatched	O
+the	O
+spare	O
+stool	O
+and	O
+they	O
+found	O
+cadence	O
+in	O
+their	O
+work	O
+,	O
+the	O
+sound	O
+of	O
+milk	O
+striking	O
+wood	O
+drumming	O
+a	O
+funeral	O
+march	O
+.	O
+
+# id = conivel-the-painted-man-000015
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As they moved to the next pair down the line , Arlen saw his father begin hitching their strongest horse , a five-year-old chestnut-colored mare named Missy , to the cart .
+As	O
+they	O
+moved	O
+to	O
+the	O
+next	O
+pair	O
+down	O
+the	O
+line	O
+,	O
+Arlen	B-CHARACTER
+saw	O
+his	O
+father	O
+begin	O
+hitching	O
+their	O
+strongest	O
+horse	O
+,	O
+a	O
+five-year-old	O
+chestnut-colored	O
+mare	O
+named	O
+Missy	B-CHARACTER
+,	O
+to	O
+the	O
+cart	O
+.	O
+
+# id = conivel-the-painted-man-000016
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His face was grim as he worked .
+His	O
+face	O
+was	O
+grim	O
+as	O
+he	O
+worked	O
+.	O
+
+# id = conivel-the-painted-man-000017
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What would they find this time ?
+What	O
+would	O
+they	O
+find	O
+this	O
+time	O
+?	O
+
+# id = conivel-the-painted-man-000018
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Before long , they were in the cart , trundling toward the small cluster of houses by the woods .
+Before	O
+long	O
+,	O
+they	O
+were	O
+in	O
+the	O
+cart	O
+,	O
+trundling	O
+toward	O
+the	O
+small	O
+cluster	O
+of	O
+houses	O
+by	O
+the	O
+woods	O
+.	O
+
+# id = conivel-the-painted-man-000019
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was dangerous there , over an hour 's run to the nearest warded structure , but the lumber was needed .
+It	O
+was	O
+dangerous	O
+there	O
+,	O
+over	O
+an	O
+hour	O
+'s	O
+run	O
+to	O
+the	O
+nearest	O
+warded	O
+structure	O
+,	O
+but	O
+the	O
+lumber	O
+was	O
+needed	O
+.	O
+
+# id = conivel-the-painted-man-000020
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen 's mother , wrapped in her worn shawl , held him tightly as they rode .
+Arlen	B-CHARACTER
+'s	O
+mother	O
+,	O
+wrapped	O
+in	O
+her	O
+worn	O
+shawl	O
+,	O
+held	O
+him	O
+tightly	O
+as	O
+they	O
+rode	O
+.	O
+
+# id = conivel-the-painted-man-000021
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm a big boy , Mam , ''
+``	O
+I	O
+'m	O
+a	O
+big	O
+boy	O
+,	O
+Mam	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000022
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen complained .
+Arlen	B-CHARACTER
+complained	O
+.	O
+
+# id = conivel-the-painted-man-000023
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do n't need you to hold me like a baby .
+``	O
+I	O
+do	O
+n't	O
+need	O
+you	O
+to	O
+hold	O
+me	O
+like	O
+a	O
+baby	O
+.	O
+
+# id = conivel-the-painted-man-000024
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'm not scared . ''
+I	O
+'m	O
+not	O
+scared	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000025
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was n't entirely true , but it would not do for the other children to see him clinging to his mother as they rode in .
+It	O
+was	O
+n't	O
+entirely	O
+true	O
+,	O
+but	O
+it	O
+would	O
+not	O
+do	O
+for	O
+the	O
+other	O
+children	O
+to	O
+see	O
+him	O
+clinging	O
+to	O
+his	O
+mother	O
+as	O
+they	O
+rode	O
+in	O
+.	O
+
+# id = conivel-the-painted-man-000026
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They made mock of him enough as it was .
+They	O
+made	O
+mock	O
+of	O
+him	O
+enough	O
+as	O
+it	O
+was	O
+.	O
+
+# id = conivel-the-painted-man-000027
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm scared , ''
+``	O
+I	O
+'m	O
+scared	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000028
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = his mother said .
+his	O
+mother	O
+said	O
+.	O
+
+# id = conivel-the-painted-man-000029
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What if it 's me who needs to be held ? ''
+``	O
+What	O
+if	O
+it	O
+'s	O
+me	O
+who	O
+needs	O
+to	O
+be	O
+held	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000030
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Feeling suddenly proud , Arlen pulled close to his mother again as they traveled down the road .
+Feeling	O
+suddenly	O
+proud	O
+,	O
+Arlen	B-CHARACTER
+pulled	O
+close	O
+to	O
+his	O
+mother	O
+again	O
+as	O
+they	O
+traveled	O
+down	O
+the	O
+road	O
+.	O
+
+# id = conivel-the-painted-man-000031
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She could never fool him , but she always knew what to say just the same .
+She	O
+could	O
+never	O
+fool	O
+him	O
+,	O
+but	O
+she	O
+always	O
+knew	O
+what	O
+to	O
+say	O
+just	O
+the	O
+same	O
+.	O
+
+# id = conivel-the-painted-man-000032
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A pillar of greasy smoke told them more than they wanted to know long before they reached their destination .
+A	O
+pillar	O
+of	O
+greasy	O
+smoke	O
+told	O
+them	O
+more	O
+than	O
+they	O
+wanted	O
+to	O
+know	O
+long	O
+before	O
+they	O
+reached	O
+their	O
+destination	O
+.	O
+
+# id = conivel-the-painted-man-000033
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were burning the dead .
+They	O
+were	O
+burning	O
+the	O
+dead	O
+.	O
+
+# id = conivel-the-painted-man-000034
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And starting the fires this early , without waiting for others to arrive and pray , meant there were a great many .
+And	O
+starting	O
+the	O
+fires	O
+this	O
+early	O
+,	O
+without	O
+waiting	O
+for	O
+others	O
+to	O
+arrive	O
+and	O
+pray	O
+,	O
+meant	O
+there	O
+were	O
+a	O
+great	O
+many	O
+.	O
+
+# id = conivel-the-painted-man-000035
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Too many to pray over each one , if the work was to be complete before dusk .
+Too	O
+many	O
+to	O
+pray	O
+over	O
+each	O
+one	O
+,	O
+if	O
+the	O
+work	O
+was	O
+to	O
+be	O
+complete	O
+before	O
+dusk	O
+.	O
+
+# id = conivel-the-painted-man-000036
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was more than five miles from Arlen 's father 's farm to the Cluster by the Woods .
+It	O
+was	O
+more	O
+than	O
+five	O
+miles	O
+from	O
+Arlen	B-CHARACTER
+'s	O
+father	O
+'s	O
+farm	O
+to	O
+the	O
+Cluster	B-LOCATION
+by	I-LOCATION
+the	I-LOCATION
+Woods	I-LOCATION
+.	O
+
+# id = conivel-the-painted-man-000037
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = By the time they arrived , the few remaining cabin fires had been put out , though in truth there was little left to burn .
+By	O
+the	O
+time	O
+they	O
+arrived	O
+,	O
+the	O
+few	O
+remaining	O
+cabin	O
+fires	O
+had	O
+been	O
+put	O
+out	O
+,	O
+though	O
+in	O
+truth	O
+there	O
+was	O
+little	O
+left	O
+to	O
+burn	O
+.	O
+
+# id = conivel-the-painted-man-000038
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Fifteen houses , all reduced to rubble and ash .
+Fifteen	O
+houses	O
+,	O
+all	O
+reduced	O
+to	O
+rubble	O
+and	O
+ash	O
+.	O
+
+# id = conivel-the-painted-man-000039
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The woodpiles , too , ''
+``	O
+The	O
+woodpiles	O
+,	O
+too	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000040
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen 's father said , spitting over the side of the cart .
+Arlen	B-CHARACTER
+'s	O
+father	O
+said	O
+,	O
+spitting	O
+over	O
+the	O
+side	O
+of	O
+the	O
+cart	O
+.	O
+
+# id = conivel-the-painted-man-000041
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He gestured with his chin toward the blackened ruin that remained of a season 's cutting .
+He	O
+gestured	O
+with	O
+his	O
+chin	O
+toward	O
+the	O
+blackened	O
+ruin	O
+that	O
+remained	O
+of	O
+a	O
+season	O
+'s	O
+cutting	O
+.	O
+
+# id = conivel-the-painted-man-000042
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen grimaced at the thought of how the rickety fence that penned the animals would have to last another year , and immediately felt guilty .
+Arlen	B-CHARACTER
+grimaced	O
+at	O
+the	O
+thought	O
+of	O
+how	O
+the	O
+rickety	O
+fence	O
+that	O
+penned	O
+the	O
+animals	O
+would	O
+have	O
+to	O
+last	O
+another	O
+year	O
+,	O
+and	O
+immediately	O
+felt	O
+guilty	O
+.	O
+
+# id = conivel-the-painted-man-000043
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was only wood , after all .
+It	O
+was	O
+only	O
+wood	O
+,	O
+after	O
+all	O
+.	O
+
+# id = conivel-the-painted-man-000044
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The town Speaker approached their cart as it pulled up .
+The	O
+town	O
+Speaker	O
+approached	O
+their	O
+cart	O
+as	O
+it	O
+pulled	O
+up	O
+.	O
+
+# id = conivel-the-painted-man-000045
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia , whom Arlen 's mother sometimes called Selia the Barren , was a hard woman , tall and thin , with skin like tough leather .
+Selia	B-CHARACTER
+,	O
+whom	O
+Arlen	B-CHARACTER
+'s	O
+mother	O
+sometimes	O
+called	O
+Selia	B-CHARACTER
+the	I-CHARACTER
+Barren	I-CHARACTER
+,	O
+was	O
+a	O
+hard	O
+woman	O
+,	O
+tall	O
+and	O
+thin	O
+,	O
+with	O
+skin	O
+like	O
+tough	O
+leather	O
+.	O
+
+# id = conivel-the-painted-man-000046
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her long gray hair was pulled into a tight bun , and she wore her shawl like a badge of office .
+Her	O
+long	O
+gray	O
+hair	O
+was	O
+pulled	O
+into	O
+a	O
+tight	O
+bun	O
+,	O
+and	O
+she	O
+wore	O
+her	O
+shawl	O
+like	O
+a	O
+badge	O
+of	O
+office	O
+.	O
+
+# id = conivel-the-painted-man-000047
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She brooked no nonsense , as Arlen had learned more than once at the end of her stick , but today he was comforted by her presence .
+She	O
+brooked	O
+no	O
+nonsense	O
+,	O
+as	O
+Arlen	B-CHARACTER
+had	O
+learned	O
+more	O
+than	O
+once	O
+at	O
+the	O
+end	O
+of	O
+her	O
+stick	O
+,	O
+but	O
+today	O
+he	O
+was	O
+comforted	O
+by	O
+her	O
+presence	O
+.	O
+
+# id = conivel-the-painted-man-000048
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Like Arlen 's father , something about Selia made him feel safe .
+Like	O
+Arlen	B-CHARACTER
+'s	O
+father	O
+,	O
+something	O
+about	O
+Selia	B-CHARACTER
+made	O
+him	O
+feel	O
+safe	O
+.	O
+
+# id = conivel-the-painted-man-000049
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Though she had never had children of her own , Selia acted as a parent to everyone in Tibbet 's Brook .
+Though	O
+she	O
+had	O
+never	O
+had	O
+children	O
+of	O
+her	O
+own	O
+,	O
+Selia	B-CHARACTER
+acted	O
+as	O
+a	O
+parent	O
+to	O
+everyone	O
+in	O
+Tibbet	B-LOCATION
+'s	I-LOCATION
+Brook	I-LOCATION
+.	O
+
+# id = conivel-the-painted-man-000050
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Few could match her wisdom , and fewer still her stubbornness .
+Few	O
+could	O
+match	O
+her	O
+wisdom	O
+,	O
+and	O
+fewer	O
+still	O
+her	O
+stubbornness	O
+.	O
+
+# id = conivel-the-painted-man-000051
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When you were on Selia 's good side , it felt like the safest place in the world .
+When	O
+you	O
+were	O
+on	O
+Selia	B-CHARACTER
+'s	O
+good	O
+side	O
+,	O
+it	O
+felt	O
+like	O
+the	O
+safest	O
+place	O
+in	O
+the	O
+world	O
+.	O
+
+# id = conivel-the-painted-man-000052
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's good that you 've come , Jeph , ''
+``	O
+It	O
+'s	O
+good	O
+that	O
+you	O
+'ve	O
+come	O
+,	O
+Jeph	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-the-painted-man-000053
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia told Arlen 's father .
+Selia	B-CHARACTER
+told	O
+Arlen	B-CHARACTER
+'s	O
+father	O
+.	O
+
+# id = conivel-the-painted-man-000054
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Silvy and young Arlen , too , ''
+``	O
+Silvy	B-CHARACTER
+and	O
+young	O
+Arlen	B-CHARACTER
+,	O
+too	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000055
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she said , nodding to them .
+she	O
+said	O
+,	O
+nodding	O
+to	O
+them	O
+.	O
+
+# id = conivel-the-painted-man-000056
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We need every hand we can get .
+``	O
+We	O
+need	O
+every	O
+hand	O
+we	O
+can	O
+get	O
+.	O
+
+# id = conivel-the-painted-man-000057
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Even the boy can help . ''
+Even	O
+the	O
+boy	O
+can	O
+help	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000058
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen 's father grunted , stepping down from the cart .
+Arlen	B-CHARACTER
+'s	O
+father	O
+grunted	O
+,	O
+stepping	O
+down	O
+from	O
+the	O
+cart	O
+.	O
+
+# id = conivel-the-painted-man-000059
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I brought my tools , ''
+``	O
+I	O
+brought	O
+my	O
+tools	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000060
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said .
+he	O
+said	O
+.	O
+
+# id = conivel-the-painted-man-000061
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Just tell me where we can throw in . ''
+``	O
+Just	O
+tell	O
+me	O
+where	O
+we	O
+can	O
+throw	O
+in	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000062
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen collected the precious tools from the back of their cart .
+Arlen	B-CHARACTER
+collected	O
+the	O
+precious	O
+tools	O
+from	O
+the	O
+back	O
+of	O
+their	O
+cart	O
+.	O
+
+# id = conivel-the-painted-man-000063
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Metal was scarce in the Brook , and his father was proud of his two shovels , his pick , and his saw .
+Metal	O
+was	O
+scarce	O
+in	O
+the	O
+Brook	B-LOCATION
+,	O
+and	O
+his	O
+father	O
+was	O
+proud	O
+of	O
+his	O
+two	O
+shovels	O
+,	O
+his	O
+pick	O
+,	O
+and	O
+his	O
+saw	O
+.	O
+
+# id = conivel-the-painted-man-000064
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They would all see heavy use this day .
+They	O
+would	O
+all	O
+see	O
+heavy	O
+use	O
+this	O
+day	O
+.	O
+
+# id = conivel-the-painted-man-000065
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How many lost ? ''
+``	O
+How	O
+many	O
+lost	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000066
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jeph asked , though he did n't really seem to want to know .
+Jeph	B-CHARACTER
+asked	O
+,	O
+though	O
+he	O
+did	O
+n't	O
+really	O
+seem	O
+to	O
+want	O
+to	O
+know	O
+.	O
+
+# id = conivel-the-painted-man-000067
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Twenty-seven , ''
+``	O
+Twenty-seven	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000068
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia said .
+Selia	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-painted-man-000069
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Silvy choked and covered her mouth , tears welling in her eyes .
+Silvy	B-CHARACTER
+choked	O
+and	O
+covered	O
+her	O
+mouth	O
+,	O
+tears	O
+welling	O
+in	O
+her	O
+eyes	O
+.	O
+
+# id = conivel-the-painted-man-000070
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jeph spat again .
+Jeph	B-CHARACTER
+spat	O
+again	O
+.	O
+
+# id = conivel-the-painted-man-000071
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Any survivors ? ''
+``	O
+Any	O
+survivors	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000072
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he asked .
+he	O
+asked	O
+.	O
+
+# id = conivel-the-painted-man-000073
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A few , ''
+``	O
+A	O
+few	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000074
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia said .
+Selia	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-painted-man-000075
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Manie ''
+``	O
+Manie	B-CHARACTER
+''	O
+
+# id = conivel-the-painted-man-000076
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- she pointed with her stick at a boy who stood staring at the funeral pyre -- `` ran all the way to my house in the dark . ''
+--	O
+she	O
+pointed	O
+with	O
+her	O
+stick	O
+at	O
+a	O
+boy	O
+who	O
+stood	O
+staring	O
+at	O
+the	O
+funeral	O
+pyre	O
+--	O
+``	O
+ran	O
+all	O
+the	O
+way	O
+to	O
+my	O
+house	O
+in	O
+the	O
+dark	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000077
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Silvy gasped .
+Silvy	B-CHARACTER
+gasped	O
+.	O
+
+# id = conivel-the-painted-man-000078
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No one had ever run so far and lived .
+No	O
+one	O
+had	O
+ever	O
+run	O
+so	O
+far	O
+and	O
+lived	O
+.	O
+
+# id = conivel-the-painted-man-000079
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The wards on Brine Cutter 's house held for most of the night , ''
+``	O
+The	O
+wards	O
+on	O
+Brine	B-CHARACTER
+Cutter	I-CHARACTER
+'s	O
+house	O
+held	O
+for	O
+most	O
+of	O
+the	O
+night	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000080
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia went on .
+Selia	B-CHARACTER
+went	O
+on	O
+.	O
+
+# id = conivel-the-painted-man-000081
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He and his family watched everything .
+``	O
+He	O
+and	O
+his	O
+family	O
+watched	O
+everything	O
+.	O
+
+# id = conivel-the-painted-man-000082
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A few others fled the corelings and succored there , until the fires spread and their roof caught .
+A	O
+few	O
+others	O
+fled	O
+the	O
+corelings	O
+and	O
+succored	O
+there	O
+,	O
+until	O
+the	O
+fires	O
+spread	O
+and	O
+their	O
+roof	O
+caught	O
+.	O
+
+# id = conivel-the-painted-man-000083
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They waited in the burning house until the beams started to crack , and then took their chances outside in the minutes before dawn .
+They	O
+waited	O
+in	O
+the	O
+burning	O
+house	O
+until	O
+the	O
+beams	O
+started	O
+to	O
+crack	O
+,	O
+and	O
+then	O
+took	O
+their	O
+chances	O
+outside	O
+in	O
+the	O
+minutes	O
+before	O
+dawn	O
+.	O
+
+# id = conivel-the-painted-man-000084
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The corelings killed Brine 's wife Meena and their son Poul , but the others made it .
+The	O
+corelings	O
+killed	O
+Brine	B-CHARACTER
+'s	O
+wife	O
+Meena	B-CHARACTER
+and	O
+their	O
+son	O
+Poul	B-CHARACTER
+,	O
+but	O
+the	O
+others	O
+made	O
+it	O
+.	O
+
+# id = conivel-the-painted-man-000085
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The burns will heal and the children will be all right in time , but the others ... ''
+The	O
+burns	O
+will	O
+heal	O
+and	O
+the	O
+children	O
+will	O
+be	O
+all	O
+right	O
+in	O
+time	O
+,	O
+but	O
+the	O
+others	O
+...	O
+''	O
+
+# id = conivel-the-painted-man-000086
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She did n't need to finish the sentence .
+She	O
+did	O
+n't	O
+need	O
+to	O
+finish	O
+the	O
+sentence	O
+.	O
+
+# id = conivel-the-painted-man-000087
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Survivors of a demon attack had a way of dying soon after .
+Survivors	O
+of	O
+a	O
+demon	O
+attack	O
+had	O
+a	O
+way	O
+of	O
+dying	O
+soon	O
+after	O
+.	O
+
+# id = conivel-the-painted-man-000088
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not all , or even most , but enough .
+Not	O
+all	O
+,	O
+or	O
+even	O
+most	O
+,	O
+but	O
+enough	O
+.	O
+
+# id = conivel-the-painted-man-000089
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Some of them took their own lives , and others simply stared blankly , refusing to eat or drink until they wasted away .
+Some	O
+of	O
+them	O
+took	O
+their	O
+own	O
+lives	O
+,	O
+and	O
+others	O
+simply	O
+stared	O
+blankly	O
+,	O
+refusing	O
+to	O
+eat	O
+or	O
+drink	O
+until	O
+they	O
+wasted	O
+away	O
+.	O
+
+# id = conivel-the-painted-man-000090
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was said you did not truly survive an attack until a year and a day had passed .
+It	O
+was	O
+said	O
+you	O
+did	O
+not	O
+truly	O
+survive	O
+an	O
+attack	O
+until	O
+a	O
+year	O
+and	O
+a	O
+day	O
+had	O
+passed	O
+.	O
+
+# id = conivel-the-painted-man-000091
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There are still a dozen unaccounted for , ''
+``	O
+There	O
+are	O
+still	O
+a	O
+dozen	O
+unaccounted	O
+for	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000092
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia said , but with little hope in her voice .
+Selia	B-CHARACTER
+said	O
+,	O
+but	O
+with	O
+little	O
+hope	O
+in	O
+her	O
+voice	O
+.	O
+
+# id = conivel-the-painted-man-000093
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We 'll dig them out , ''
+``	O
+We	O
+'ll	O
+dig	O
+them	O
+out	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000094
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jeph agreed grimly , looking at the collapsed houses , many still smoldering .
+Jeph	B-CHARACTER
+agreed	O
+grimly	O
+,	O
+looking	O
+at	O
+the	O
+collapsed	O
+houses	O
+,	O
+many	O
+still	O
+smoldering	O
+.	O
+
+# id = conivel-the-painted-man-000095
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The cutters built their homes mostly out of stone to protect against fire , but even stone would burn if the wards failed and enough flame demons gathered in one place .
+The	O
+cutters	O
+built	O
+their	O
+homes	O
+mostly	O
+out	O
+of	O
+stone	O
+to	O
+protect	O
+against	O
+fire	O
+,	O
+but	O
+even	O
+stone	O
+would	O
+burn	O
+if	O
+the	O
+wards	O
+failed	O
+and	O
+enough	O
+flame	O
+demons	O
+gathered	O
+in	O
+one	O
+place	O
+.	O
+
+# id = conivel-the-painted-man-000096
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jeph joined the other men and a few of the stronger women in clearing the rubble and carting the dead to the pyre .
+Jeph	B-CHARACTER
+joined	O
+the	O
+other	O
+men	O
+and	O
+a	O
+few	O
+of	O
+the	O
+stronger	O
+women	O
+in	O
+clearing	O
+the	O
+rubble	O
+and	O
+carting	O
+the	O
+dead	O
+to	O
+the	O
+pyre	O
+.	O
+
+# id = conivel-the-painted-man-000097
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The bodies had to be burned , of course .
+The	O
+bodies	O
+had	O
+to	O
+be	O
+burned	O
+,	O
+of	O
+course	O
+.	O
+
+# id = conivel-the-painted-man-000098
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No one would want to be buried in the same ground the demons rose out of each night .
+No	O
+one	O
+would	O
+want	O
+to	O
+be	O
+buried	O
+in	O
+the	O
+same	O
+ground	O
+the	O
+demons	O
+rose	O
+out	O
+of	O
+each	O
+night	O
+.	O
+
+# id = conivel-the-painted-man-000099
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tender Harral , the sleeves of his robe rolled up to bare his thick arms , lifted each into the fire himself , muttering prayers and drawing wards in the air as the flames took them .
+Tender	B-CHARACTER
+Harral	I-CHARACTER
+,	O
+the	O
+sleeves	O
+of	O
+his	O
+robe	O
+rolled	O
+up	O
+to	O
+bare	O
+his	O
+thick	O
+arms	O
+,	O
+lifted	O
+each	O
+into	O
+the	O
+fire	O
+himself	O
+,	O
+muttering	O
+prayers	O
+and	O
+drawing	O
+wards	O
+in	O
+the	O
+air	O
+as	O
+the	O
+flames	O
+took	O
+them	O
+.	O
+
+# id = conivel-the-painted-man-000100
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Silvy joined the other women in gathering the younger children and tending to the wounded under the watchful eye of the Brook 's Herb Gatherer , Coline Trigg .
+Silvy	B-CHARACTER
+joined	O
+the	O
+other	O
+women	O
+in	O
+gathering	O
+the	O
+younger	O
+children	O
+and	O
+tending	O
+to	O
+the	O
+wounded	O
+under	O
+the	O
+watchful	O
+eye	O
+of	O
+the	O
+Brook	B-LOCATION
+'s	O
+Herb	O
+Gatherer	O
+,	O
+Coline	B-CHARACTER
+Trigg	I-CHARACTER
+.	O
+
+# id = conivel-the-painted-man-000101
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But no herbs could ease the pain of the survivors .
+But	O
+no	O
+herbs	O
+could	O
+ease	O
+the	O
+pain	O
+of	O
+the	O
+survivors	O
+.	O
+
+# id = conivel-the-painted-man-000102
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Brine Cutter , also called Brine Broad-shoulders , was a great bear of a man with a booming laugh who used to throw Arlen into the air when they came to trade for wood .
+Brine	B-CHARACTER
+Cutter	I-CHARACTER
+,	O
+also	O
+called	O
+Brine	B-CHARACTER
+Broad-shoulders	I-CHARACTER
+,	O
+was	O
+a	O
+great	O
+bear	O
+of	O
+a	O
+man	O
+with	O
+a	O
+booming	O
+laugh	O
+who	O
+used	O
+to	O
+throw	O
+Arlen	B-CHARACTER
+into	O
+the	O
+air	O
+when	O
+they	O
+came	O
+to	O
+trade	O
+for	O
+wood	O
+.	O
+
+# id = conivel-the-painted-man-000103
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now Brine sat in the ashes beside his ruined house , slowly knocking his head against the blackened wall .
+Now	O
+Brine	B-CHARACTER
+sat	O
+in	O
+the	O
+ashes	O
+beside	O
+his	O
+ruined	O
+house	O
+,	O
+slowly	O
+knocking	O
+his	O
+head	O
+against	O
+the	O
+blackened	O
+wall	O
+.	O
+
+# id = conivel-the-painted-man-000104
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He muttered to himself and clutched his arms tightly , as if cold .
+He	O
+muttered	O
+to	O
+himself	O
+and	O
+clutched	O
+his	O
+arms	O
+tightly	O
+,	O
+as	O
+if	O
+cold	O
+.	O
+
+# id = conivel-the-painted-man-000105
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen and the other children were put to work carrying water and sorting through the woodpiles for salvageable lumber .
+Arlen	B-CHARACTER
+and	O
+the	O
+other	O
+children	O
+were	O
+put	O
+to	O
+work	O
+carrying	O
+water	O
+and	O
+sorting	O
+through	O
+the	O
+woodpiles	O
+for	O
+salvageable	O
+lumber	O
+.	O
+
+# id = conivel-the-painted-man-000106
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There were still a few warm months left to the year , but there would not be time to cut enough wood to last the winter .
+There	O
+were	O
+still	O
+a	O
+few	O
+warm	O
+months	O
+left	O
+to	O
+the	O
+year	O
+,	O
+but	O
+there	O
+would	O
+not	O
+be	O
+time	O
+to	O
+cut	O
+enough	O
+wood	O
+to	O
+last	O
+the	O
+winter	O
+.	O
+
+# id = conivel-the-painted-man-000107
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They would be burning dung again this year , and the house would reek .
+They	O
+would	O
+be	O
+burning	O
+dung	O
+again	O
+this	O
+year	O
+,	O
+and	O
+the	O
+house	O
+would	O
+reek	O
+.	O
+
+# id = conivel-the-painted-man-000108
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Again Arlen weathered a wave of guilt .
+Again	O
+Arlen	B-CHARACTER
+weathered	O
+a	O
+wave	O
+of	O
+guilt	O
+.	O
+
+# id = conivel-the-painted-man-000109
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was not in the pyre , nor banging his head in shock , having lost everything .
+He	O
+was	O
+not	O
+in	O
+the	O
+pyre	O
+,	O
+nor	O
+banging	O
+his	O
+head	O
+in	O
+shock	O
+,	O
+having	O
+lost	O
+everything	O
+.	O
+
+# id = conivel-the-painted-man-000110
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There were worse fates than a house smelling of dung .
+There	O
+were	O
+worse	O
+fates	O
+than	O
+a	O
+house	O
+smelling	O
+of	O
+dung	O
+.	O
+
+# id = conivel-the-painted-man-000111
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = More and more villagers arrived as the morning wore on .
+More	O
+and	O
+more	O
+villagers	O
+arrived	O
+as	O
+the	O
+morning	O
+wore	O
+on	O
+.	O
+
+# id = conivel-the-painted-man-000112
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bringing their families and whatever provisions they could spare , they came from Fishing Hole and Town Square ; they came from the Boggin 's Hill , and Soggy Marsh .
+Bringing	O
+their	O
+families	O
+and	O
+whatever	O
+provisions	O
+they	O
+could	O
+spare	O
+,	O
+they	O
+came	O
+from	O
+Fishing	B-LOCATION
+Hole	I-LOCATION
+and	O
+Town	B-LOCATION
+Square	I-LOCATION
+;	O
+they	O
+came	O
+from	O
+the	O
+Boggin	B-LOCATION
+'s	I-LOCATION
+Hill	I-LOCATION
+,	O
+and	O
+Soggy	B-LOCATION
+Marsh	I-LOCATION
+.	O
+
+# id = conivel-the-painted-man-000113
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Some even came all the way from Southwatch .
+Some	O
+even	O
+came	O
+all	O
+the	O
+way	O
+from	O
+Southwatch	B-LOCATION
+.	O
+
+# id = conivel-the-painted-man-000114
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And one by one , Selia greeted them with the grim news and put them to work .
+And	O
+one	O
+by	O
+one	O
+,	O
+Selia	B-CHARACTER
+greeted	O
+them	O
+with	O
+the	O
+grim	O
+news	O
+and	O
+put	O
+them	O
+to	O
+work	O
+.	O
+
+# id = conivel-the-painted-man-000115
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = With more than a hundred hands , the men doubled their efforts , half of them continuing to dig as the others descended upon the only salvageable structure left in the Cluster : Brine Cutter 's house .
+With	O
+more	O
+than	O
+a	O
+hundred	O
+hands	O
+,	O
+the	O
+men	O
+doubled	O
+their	O
+efforts	O
+,	O
+half	O
+of	O
+them	O
+continuing	O
+to	O
+dig	O
+as	O
+the	O
+others	O
+descended	O
+upon	O
+the	O
+only	O
+salvageable	O
+structure	O
+left	O
+in	O
+the	O
+Cluster	B-LOCATION
+:	O
+Brine	B-CHARACTER
+Cutter	I-CHARACTER
+'s	O
+house	O
+.	O
+
+# id = conivel-the-painted-man-000116
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia led Brine away , somehow supporting the giant man as he stumbled , while the men cleared the rubble and began hauling new stones .
+Selia	B-CHARACTER
+led	O
+Brine	B-CHARACTER
+away	O
+,	O
+somehow	O
+supporting	O
+the	O
+giant	O
+man	O
+as	O
+he	O
+stumbled	O
+,	O
+while	O
+the	O
+men	O
+cleared	O
+the	O
+rubble	O
+and	O
+began	O
+hauling	O
+new	O
+stones	O
+.	O
+
+# id = conivel-the-painted-man-000117
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A few took out warding kits and began to paint fresh wards while children made thatch .
+A	O
+few	O
+took	O
+out	O
+warding	O
+kits	O
+and	O
+began	O
+to	O
+paint	O
+fresh	O
+wards	O
+while	O
+children	O
+made	O
+thatch	O
+.	O
+
+# id = conivel-the-painted-man-000118
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The house would be restored by nightfall .
+The	O
+house	O
+would	O
+be	O
+restored	O
+by	O
+nightfall	O
+.	O
+
+# id = conivel-the-painted-man-000119
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen was partnered with Cobie Fisher in hauling wood .
+Arlen	B-CHARACTER
+was	O
+partnered	O
+with	O
+Cobie	B-CHARACTER
+Fisher	I-CHARACTER
+in	O
+hauling	O
+wood	O
+.	O
+
+# id = conivel-the-painted-man-000120
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The children had amassed a sizable pile , though it was only a fraction of what had been lost .
+The	O
+children	O
+had	O
+amassed	O
+a	O
+sizable	O
+pile	O
+,	O
+though	O
+it	O
+was	O
+only	O
+a	O
+fraction	O
+of	O
+what	O
+had	O
+been	O
+lost	O
+.	O
+
+# id = conivel-the-painted-man-000121
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cobie was a tall , thickly built boy with dark curls and hairy arms .
+Cobie	B-CHARACTER
+was	O
+a	O
+tall	O
+,	O
+thickly	O
+built	O
+boy	O
+with	O
+dark	O
+curls	O
+and	O
+hairy	O
+arms	O
+.	O
+
+# id = conivel-the-painted-man-000122
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was popular among the other children , but it was popularity built at others ' expense .
+He	O
+was	O
+popular	O
+among	O
+the	O
+other	O
+children	O
+,	O
+but	O
+it	O
+was	O
+popularity	O
+built	O
+at	O
+others	O
+'	O
+expense	O
+.	O
+
+# id = conivel-the-painted-man-000123
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Few children cared to weather his insults , and fewer still his beatings .
+Few	O
+children	O
+cared	O
+to	O
+weather	O
+his	O
+insults	O
+,	O
+and	O
+fewer	O
+still	O
+his	O
+beatings	O
+.	O
+
+# id = conivel-the-painted-man-000124
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cobie had tortured Arlen for years , and the other children had gone along .
+Cobie	B-CHARACTER
+had	O
+tortured	O
+Arlen	B-CHARACTER
+for	O
+years	O
+,	O
+and	O
+the	O
+other	O
+children	O
+had	O
+gone	O
+along	O
+.	O
+
+# id = conivel-the-painted-man-000125
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jeph 's farm was the northernmost in the Brook , far from where the children tended to gather in Town Square , and Arlen spent most of his free time wandering the Brook by himself .
+Jeph	B-CHARACTER
+'s	O
+farm	O
+was	O
+the	O
+northernmost	O
+in	O
+the	O
+Brook	B-LOCATION
+,	O
+far	O
+from	O
+where	O
+the	O
+children	O
+tended	O
+to	O
+gather	O
+in	O
+Town	B-LOCATION
+Square	I-LOCATION
+,	O
+and	O
+Arlen	B-CHARACTER
+spent	O
+most	O
+of	O
+his	O
+free	O
+time	O
+wandering	O
+the	O
+Brook	B-LOCATION
+by	O
+himself	O
+.	O
+
+# id = conivel-the-painted-man-000126
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Sacrificing him to Cobie 's wrath seemed a fair trade to most children .
+Sacrificing	O
+him	O
+to	O
+Cobie	B-CHARACTER
+'s	O
+wrath	O
+seemed	O
+a	O
+fair	O
+trade	O
+to	O
+most	O
+children	O
+.	O
+
+# id = conivel-the-painted-man-000127
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Whenever Arlen went fishing , or passed by Fishing Hole on the way to Town Square , Cobie and his friends seemed to hear about it , and were waiting in the same spot on his way home .
+Whenever	O
+Arlen	B-CHARACTER
+went	O
+fishing	O
+,	O
+or	O
+passed	O
+by	O
+Fishing	B-LOCATION
+Hole	I-LOCATION
+on	O
+the	O
+way	O
+to	O
+Town	B-LOCATION
+Square	I-LOCATION
+,	O
+Cobie	B-CHARACTER
+and	O
+his	O
+friends	O
+seemed	O
+to	O
+hear	O
+about	O
+it	O
+,	O
+and	O
+were	O
+waiting	O
+in	O
+the	O
+same	O
+spot	O
+on	O
+his	O
+way	O
+home	O
+.	O
+
+# id = conivel-the-painted-man-000128
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Sometimes they just called him names , or pushed him , but other times he came home bloody and bruised , and his mother shouted at him for fighting .
+Sometimes	O
+they	O
+just	O
+called	O
+him	O
+names	O
+,	O
+or	O
+pushed	O
+him	O
+,	O
+but	O
+other	O
+times	O
+he	O
+came	O
+home	O
+bloody	O
+and	O
+bruised	O
+,	O
+and	O
+his	O
+mother	O
+shouted	O
+at	O
+him	O
+for	O
+fighting	O
+.	O
+
+# id = conivel-the-painted-man-000129
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Finally , Arlen had enough .
+Finally	O
+,	O
+Arlen	B-CHARACTER
+had	O
+enough	O
+.	O
+
+# id = conivel-the-painted-man-000130
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He left a stout stick hidden in that spot , and the next time Cobie and his friends pounced , Arlen pretended to run , only to produce the weapon as if from thin air and come back swinging .
+He	O
+left	O
+a	O
+stout	O
+stick	O
+hidden	O
+in	O
+that	O
+spot	O
+,	O
+and	O
+the	O
+next	O
+time	O
+Cobie	B-CHARACTER
+and	O
+his	O
+friends	O
+pounced	O
+,	O
+Arlen	B-CHARACTER
+pretended	O
+to	O
+run	O
+,	O
+only	O
+to	O
+produce	O
+the	O
+weapon	O
+as	O
+if	O
+from	O
+thin	O
+air	O
+and	O
+come	O
+back	O
+swinging	O
+.	O
+
+# id = conivel-the-painted-man-000131
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cobie was the first one struck , a hard blow that left him crying in the dirt with blood running from his ear .
+Cobie	B-CHARACTER
+was	O
+the	O
+first	O
+one	O
+struck	O
+,	O
+a	O
+hard	O
+blow	O
+that	O
+left	O
+him	O
+crying	O
+in	O
+the	O
+dirt	O
+with	O
+blood	O
+running	O
+from	O
+his	O
+ear	O
+.	O
+
+# id = conivel-the-painted-man-000132
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Willum received a broken finger , and Gart walked with a limp for over a week .
+Willum	B-CHARACTER
+received	O
+a	O
+broken	O
+finger	O
+,	O
+and	O
+Gart	B-CHARACTER
+walked	O
+with	O
+a	O
+limp	O
+for	O
+over	O
+a	O
+week	O
+.	O
+
+# id = conivel-the-painted-man-000133
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It had done nothing to improve Arlen 's popularity among the other children , and Arlen 's father had caned him , but the other boys never bothered him again .
+It	O
+had	O
+done	O
+nothing	O
+to	O
+improve	O
+Arlen	B-CHARACTER
+'s	O
+popularity	O
+among	O
+the	O
+other	O
+children	O
+,	O
+and	O
+Arlen	B-CHARACTER
+'s	O
+father	O
+had	O
+caned	O
+him	O
+,	O
+but	O
+the	O
+other	O
+boys	O
+never	O
+bothered	O
+him	O
+again	O
+.	O
+
+# id = conivel-the-painted-man-000134
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Even now , Cobie gave him a wide berth and flinched if Arlen made a sudden move , even though he was bigger by far .
+Even	O
+now	O
+,	O
+Cobie	B-CHARACTER
+gave	O
+him	O
+a	O
+wide	O
+berth	O
+and	O
+flinched	O
+if	O
+Arlen	B-CHARACTER
+made	O
+a	O
+sudden	O
+move	O
+,	O
+even	O
+though	O
+he	O
+was	O
+bigger	O
+by	O
+far	O
+.	O
+
+# id = conivel-the-painted-man-000135
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Survivors ! ''
+``	O
+Survivors	O
+!	O
+''	O
+
+# id = conivel-the-painted-man-000136
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bil Baker called suddenly , standing by a collapsed house at the edge of the Cluster .
+Bil	B-CHARACTER
+Baker	I-CHARACTER
+called	O
+suddenly	O
+,	O
+standing	O
+by	O
+a	O
+collapsed	O
+house	O
+at	O
+the	O
+edge	O
+of	O
+the	O
+Cluster	B-LOCATION
+.	O
+
+# id = conivel-the-painted-man-000137
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I can hear them trapped in the root cellar ! ''
+``	O
+I	O
+can	O
+hear	O
+them	O
+trapped	O
+in	O
+the	O
+root	O
+cellar	O
+!	O
+''	O
+
+# id = conivel-the-painted-man-000138
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Immediately , everyone dropped what they were doing and rushed over .
+Immediately	O
+,	O
+everyone	O
+dropped	O
+what	O
+they	O
+were	O
+doing	O
+and	O
+rushed	O
+over	O
+.	O
+
+# id = conivel-the-painted-man-000139
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Clearing the rubble would take too long , so the men began to dig , bending their backs with silent fervor .
+Clearing	O
+the	O
+rubble	O
+would	O
+take	O
+too	O
+long	O
+,	O
+so	O
+the	O
+men	O
+began	O
+to	O
+dig	O
+,	O
+bending	O
+their	O
+backs	O
+with	O
+silent	O
+fervor	O
+.	O
+
+# id = conivel-the-painted-man-000140
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Soon after , they broke through the side of the cellar , and began hauling out the survivors .
+Soon	O
+after	O
+,	O
+they	O
+broke	O
+through	O
+the	O
+side	O
+of	O
+the	O
+cellar	O
+,	O
+and	O
+began	O
+hauling	O
+out	O
+the	O
+survivors	O
+.	O
+
+# id = conivel-the-painted-man-000141
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were filthy and terrified , but all were very much alive .
+They	O
+were	O
+filthy	O
+and	O
+terrified	O
+,	O
+but	O
+all	O
+were	O
+very	O
+much	O
+alive	O
+.	O
+
+# id = conivel-the-painted-man-000142
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Three women , six children , and one man .
+Three	O
+women	O
+,	O
+six	O
+children	O
+,	O
+and	O
+one	O
+man	O
+.	O
+
+# id = conivel-the-painted-man-000143
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Uncle Cholie ! ''
+``	O
+Uncle	B-CHARACTER
+Cholie	I-CHARACTER
+!	O
+''	O
+
+# id = conivel-the-painted-man-000144
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen cried , and his mother was there in an instant , cradling her brother , who stumbled drunkenly .
+Arlen	B-CHARACTER
+cried	O
+,	O
+and	O
+his	O
+mother	O
+was	O
+there	O
+in	O
+an	O
+instant	O
+,	O
+cradling	O
+her	O
+brother	O
+,	O
+who	O
+stumbled	O
+drunkenly	O
+.	O
+
+# id = conivel-the-painted-man-000145
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen ran to them , ducking under his other arm to steady him .
+Arlen	B-CHARACTER
+ran	O
+to	O
+them	O
+,	O
+ducking	O
+under	O
+his	O
+other	O
+arm	O
+to	O
+steady	O
+him	O
+.	O
+
+# id = conivel-the-painted-man-000146
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Cholie , what are you doing here ? ''
+``	O
+Cholie	B-CHARACTER
+,	O
+what	O
+are	O
+you	O
+doing	O
+here	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000147
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Silvy asked .
+Silvy	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-the-painted-man-000148
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cholie seldom left his workshop in Town Square .
+Cholie	B-CHARACTER
+seldom	O
+left	O
+his	O
+workshop	O
+in	O
+Town	B-LOCATION
+Square	I-LOCATION
+.	O
+
+# id = conivel-the-painted-man-000149
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen 's mother had told the tale a thousand times of how she and her brother had run the farrier 's shop together before Jeph began breaking his horses ' shoes on purpose for a reason to come court .
+Arlen	B-CHARACTER
+'s	O
+mother	O
+had	O
+told	O
+the	O
+tale	O
+a	O
+thousand	O
+times	O
+of	O
+how	O
+she	O
+and	O
+her	O
+brother	O
+had	O
+run	O
+the	O
+farrier	O
+'s	O
+shop	O
+together	O
+before	O
+Jeph	B-CHARACTER
+began	O
+breaking	O
+his	O
+horses	O
+'	O
+shoes	O
+on	O
+purpose	O
+for	O
+a	O
+reason	O
+to	O
+come	O
+court	O
+.	O
+
+# id = conivel-the-painted-man-000150
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Came to court Ana Cutter , ''
+``	O
+Came	O
+to	O
+court	O
+Ana	B-CHARACTER
+Cutter	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-the-painted-man-000151
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cholie mumbled .
+Cholie	B-CHARACTER
+mumbled	O
+.	O
+
+# id = conivel-the-painted-man-000152
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He pulled at his hair , having already torn whole clumps free .
+He	O
+pulled	O
+at	O
+his	O
+hair	O
+,	O
+having	O
+already	O
+torn	O
+whole	O
+clumps	O
+free	O
+.	O
+
+# id = conivel-the-painted-man-000153
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We 'd just opened the bolt-hole when they came through the wards ... ''
+``	O
+We	O
+'d	O
+just	O
+opened	O
+the	O
+bolt-hole	O
+when	O
+they	O
+came	O
+through	O
+the	O
+wards	O
+...	O
+''	O
+
+# id = conivel-the-painted-man-000154
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His knees buckled , pulling Arlen and Silvy down with his weight .
+His	O
+knees	O
+buckled	O
+,	O
+pulling	O
+Arlen	B-CHARACTER
+and	O
+Silvy	B-CHARACTER
+down	O
+with	O
+his	O
+weight	O
+.	O
+
+# id = conivel-the-painted-man-000155
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kneeling in the dirt , he wept .
+Kneeling	O
+in	O
+the	O
+dirt	O
+,	O
+he	O
+wept	O
+.	O
+
+# id = conivel-the-painted-man-000156
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen looked at the other survivors .
+Arlen	B-CHARACTER
+looked	O
+at	O
+the	O
+other	O
+survivors	O
+.	O
+
+# id = conivel-the-painted-man-000157
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ana Cutter was n't among them .
+Ana	B-CHARACTER
+Cutter	I-CHARACTER
+was	O
+n't	O
+among	O
+them	O
+.	O
+
+# id = conivel-the-painted-man-000158
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His throat tightened as the children passed .
+His	O
+throat	O
+tightened	O
+as	O
+the	O
+children	O
+passed	O
+.	O
+
+# id = conivel-the-painted-man-000159
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He knew every one of them ; their families , what their houses were like inside and out , their animals ' names .
+He	O
+knew	O
+every	O
+one	O
+of	O
+them	O
+;	O
+their	O
+families	O
+,	O
+what	O
+their	O
+houses	O
+were	O
+like	O
+inside	O
+and	O
+out	O
+,	O
+their	O
+animals	O
+'	O
+names	O
+.	O
+
+# id = conivel-the-painted-man-000160
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They met his eyes for a second as they went by , and in that moment , he lived the attack through their eyes .
+They	O
+met	O
+his	O
+eyes	O
+for	O
+a	O
+second	O
+as	O
+they	O
+went	O
+by	O
+,	O
+and	O
+in	O
+that	O
+moment	O
+,	O
+he	O
+lived	O
+the	O
+attack	O
+through	O
+their	O
+eyes	O
+.	O
+
+# id = conivel-the-painted-man-000161
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He saw himself shoved into a cramped hole in the ground while those unable to fit turned to face the corelings and the fire .
+He	O
+saw	O
+himself	O
+shoved	O
+into	O
+a	O
+cramped	O
+hole	O
+in	O
+the	O
+ground	O
+while	O
+those	O
+unable	O
+to	O
+fit	O
+turned	O
+to	O
+face	O
+the	O
+corelings	O
+and	O
+the	O
+fire	O
+.	O
+
+# id = conivel-the-painted-man-000162
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Suddenly he started gasping , unable to stop until Jeph slapped him on the back and brought him to his senses .
+Suddenly	O
+he	O
+started	O
+gasping	O
+,	O
+unable	O
+to	O
+stop	O
+until	O
+Jeph	B-CHARACTER
+slapped	O
+him	O
+on	O
+the	O
+back	O
+and	O
+brought	O
+him	O
+to	O
+his	O
+senses	O
+.	O
+
+# id = conivel-the-painted-man-000163
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were finishing a cold midday meal when a horn sounded on the far side of the Brook .
+They	O
+were	O
+finishing	O
+a	O
+cold	O
+midday	O
+meal	O
+when	O
+a	O
+horn	O
+sounded	O
+on	O
+the	O
+far	O
+side	O
+of	O
+the	O
+Brook	B-LOCATION
+.	O
+
+# id = conivel-the-painted-man-000164
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Not two in one day ? ''
+``	O
+Not	O
+two	O
+in	O
+one	O
+day	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000165
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Silvy gasped , covering her mouth .
+Silvy	B-CHARACTER
+gasped	O
+,	O
+covering	O
+her	O
+mouth	O
+.	O
+
+# id = conivel-the-painted-man-000166
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Bah , ''
+``	O
+Bah	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000167
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia grunted .
+Selia	B-CHARACTER
+grunted	O
+.	O
+
+# id = conivel-the-painted-man-000168
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` At midday ?
+``	O
+At	O
+midday	O
+?	O
+
+# id = conivel-the-painted-man-000169
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Use your head , girl ! ''
+Use	O
+your	O
+head	O
+,	O
+girl	O
+!	O
+''	O
+
+# id = conivel-the-painted-man-000170
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Then what ... ? ''
+``	O
+Then	O
+what	O
+...	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000171
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia ignored her , rising to fetch a horn blower to signal back .
+Selia	B-CHARACTER
+ignored	O
+her	O
+,	O
+rising	O
+to	O
+fetch	O
+a	O
+horn	O
+blower	O
+to	O
+signal	O
+back	O
+.	O
+
+# id = conivel-the-painted-man-000172
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Keven Marsh had his horn ready , as the folks from Soggy Marsh always did .
+Keven	B-CHARACTER
+Marsh	I-CHARACTER
+had	O
+his	O
+horn	O
+ready	O
+,	O
+as	O
+the	O
+folks	O
+from	O
+Soggy	B-LOCATION
+Marsh	I-LOCATION
+always	O
+did	O
+.	O
+
+# id = conivel-the-painted-man-000173
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was easy to get separated in the marshes , and no one wanted to be wandering lost when the swamp demons rose .
+It	O
+was	O
+easy	O
+to	O
+get	O
+separated	O
+in	O
+the	O
+marshes	O
+,	O
+and	O
+no	O
+one	O
+wanted	O
+to	O
+be	O
+wandering	O
+lost	O
+when	O
+the	O
+swamp	O
+demons	O
+rose	O
+.	O
+
+# id = conivel-the-painted-man-000174
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Keven 's cheeks inflated like a frog 's chin as he blew a series of notes .
+Keven	B-CHARACTER
+'s	O
+cheeks	O
+inflated	O
+like	O
+a	O
+frog	O
+'s	O
+chin	O
+as	O
+he	O
+blew	O
+a	O
+series	O
+of	O
+notes	O
+.	O
+
+# id = conivel-the-painted-man-000175
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Messenger horn , ''
+``	O
+Messenger	O
+horn	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000176
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Coran Marsh advised Silvy .
+Coran	B-CHARACTER
+Marsh	I-CHARACTER
+advised	O
+Silvy	B-CHARACTER
+.	O
+
+# id = conivel-the-painted-man-000177
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A graybeard , he was Speaker for Soggy Marsh and Keven 's father .
+A	O
+graybeard	O
+,	O
+he	O
+was	O
+Speaker	O
+for	O
+Soggy	B-LOCATION
+Marsh	I-LOCATION
+and	O
+Keven	B-CHARACTER
+'s	O
+father	O
+.	O
+
+# id = conivel-the-painted-man-000178
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They prob ' ly saw the smoke .
+``	O
+They	O
+prob	O
+'	O
+ly	O
+saw	O
+the	O
+smoke	O
+.	O
+
+# id = conivel-the-painted-man-000179
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Keven 's telling 'em what 's happened and where everyone is . ''
+Keven	B-CHARACTER
+'s	O
+telling	O
+'em	O
+what	O
+'s	O
+happened	O
+and	O
+where	O
+everyone	O
+is	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000180
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A Messenger in spring ? ''
+``	O
+A	O
+Messenger	O
+in	O
+spring	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000181
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen asked .
+Arlen	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-the-painted-man-000182
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I thought they come in the fall after harvest .
+``	O
+I	O
+thought	O
+they	O
+come	O
+in	O
+the	O
+fall	O
+after	O
+harvest	O
+.	O
+
+# id = conivel-the-painted-man-000183
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We only finished planting this past moon ! ''
+We	O
+only	O
+finished	O
+planting	O
+this	O
+past	O
+moon	O
+!	O
+''	O
+
+# id = conivel-the-painted-man-000184
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Messenger never came last fall , ''
+``	O
+Messenger	O
+never	O
+came	O
+last	O
+fall	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000185
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Coran said , spitting foamy brown juice from the root he was chewing through the gap of his missing teeth .
+Coran	B-CHARACTER
+said	O
+,	O
+spitting	O
+foamy	O
+brown	O
+juice	O
+from	O
+the	O
+root	O
+he	O
+was	O
+chewing	O
+through	O
+the	O
+gap	O
+of	O
+his	O
+missing	O
+teeth	O
+.	O
+
+# id = conivel-the-painted-man-000186
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We been worried sumpin ' happened .
+``	O
+We	O
+been	O
+worried	O
+sumpin	O
+'	O
+happened	O
+.	O
+
+# id = conivel-the-painted-man-000187
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Thought we might not have a Messenger bring salt till next fall .
+Thought	O
+we	O
+might	O
+not	O
+have	O
+a	O
+Messenger	O
+bring	O
+salt	O
+till	O
+next	O
+fall	O
+.	O
+
+# id = conivel-the-painted-man-000188
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Or maybe that the corelings got the Free Cities and we 's cut off . ''
+Or	O
+maybe	O
+that	O
+the	O
+corelings	O
+got	O
+the	O
+Free	B-LOCATION
+Cities	I-LOCATION
+and	O
+we	O
+'s	O
+cut	O
+off	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000189
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The corelings could never get the Free Cities , ''
+``	O
+The	O
+corelings	O
+could	O
+never	O
+get	O
+the	O
+Free	B-LOCATION
+Cities	I-LOCATION
+,	O
+''	O
+
+# id = conivel-the-painted-man-000190
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen said .
+Arlen	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-painted-man-000191
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Arlen , shush your mouth ! ''
+``	O
+Arlen	B-CHARACTER
+,	O
+shush	O
+your	O
+mouth	O
+!	O
+''	O
+
+# id = conivel-the-painted-man-000192
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Silvy hissed .
+Silvy	B-CHARACTER
+hissed	O
+.	O
+
+# id = conivel-the-painted-man-000193
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He 's your elder ! ''
+``	O
+He	O
+'s	O
+your	O
+elder	O
+!	O
+''	O
+
+# id = conivel-the-painted-man-000194
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Let the boy speak , ''
+``	O
+Let	O
+the	O
+boy	O
+speak	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000195
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Coran said .
+Coran	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-painted-man-000196
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ever bin to a free city , boy ? ''
+``	O
+Ever	O
+bin	O
+to	O
+a	O
+free	O
+city	O
+,	O
+boy	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000197
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he asked Arlen .
+he	O
+asked	O
+Arlen	B-CHARACTER
+.	O
+
+# id = conivel-the-painted-man-000198
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , ''
+``	O
+No	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000199
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen admitted .
+Arlen	B-CHARACTER
+admitted	O
+.	O
+
+# id = conivel-the-painted-man-000200
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ever know anyone who had ? ''
+``	O
+Ever	O
+know	O
+anyone	O
+who	O
+had	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000201
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , ''
+``	O
+No	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000202
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen said again .
+Arlen	B-CHARACTER
+said	O
+again	O
+.	O
+
+# id = conivel-the-painted-man-000203
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` So what makes you such an expert ? ''
+``	O
+So	O
+what	O
+makes	O
+you	O
+such	O
+an	O
+expert	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000204
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Coran asked .
+Coran	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-the-painted-man-000205
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ent no one been to one ' cept the Messengers .
+``	O
+Ent	O
+no	O
+one	O
+been	O
+to	O
+one	O
+'	O
+cept	O
+the	O
+Messengers	O
+.	O
+
+# id = conivel-the-painted-man-000206
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They 're the only ones what brave the night to go so far .
+They	O
+'re	O
+the	O
+only	O
+ones	O
+what	O
+brave	O
+the	O
+night	O
+to	O
+go	O
+so	O
+far	O
+.	O
+
+# id = conivel-the-painted-man-000207
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Who 's to say the Free Cities ent just places like the Brook ?
+Who	O
+'s	O
+to	O
+say	O
+the	O
+Free	B-LOCATION
+Cities	I-LOCATION
+ent	O
+just	O
+places	O
+like	O
+the	B-LOCATION
+Brook	B-LOCATION
+?	O
+
+# id = conivel-the-painted-man-000208
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If the corelings can get us , they can get them , too . ''
+If	O
+the	O
+corelings	O
+can	O
+get	O
+us	O
+,	O
+they	O
+can	O
+get	O
+them	O
+,	O
+too	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000209
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Old Hog is from the Free Cities , ''
+``	O
+Old	B-CHARACTER
+Hog	I-CHARACTER
+is	O
+from	O
+the	O
+Free	B-LOCATION
+Cities	I-LOCATION
+,	O
+''	O
+
+# id = conivel-the-painted-man-000210
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen said .
+Arlen	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-painted-man-000211
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Rusco Hog was the richest man in the Brook .
+Rusco	B-CHARACTER
+Hog	I-CHARACTER
+was	O
+the	O
+richest	O
+man	O
+in	O
+the	O
+Brook	B-LOCATION
+.	O
+
+# id = conivel-the-painted-man-000212
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He ran the general store , which was the crux of all commerce in Tibbet 's Brook .
+He	O
+ran	O
+the	O
+general	O
+store	O
+,	O
+which	O
+was	O
+the	O
+crux	O
+of	O
+all	O
+commerce	O
+in	O
+Tibbet	B-LOCATION
+'s	I-LOCATION
+Brook	I-LOCATION
+.	O
+
+# id = conivel-the-painted-man-000213
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ay , ''
+``	O
+Ay	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000214
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Coran said , `` an ' old Hog told me years ago that one trip was enough for him .
+Coran	B-CHARACTER
+said	O
+,	O
+``	O
+an	O
+'	O
+old	O
+Hog	B-CHARACTER
+told	O
+me	O
+years	O
+ago	O
+that	O
+one	O
+trip	O
+was	O
+enough	O
+for	O
+him	O
+.	O
+
+# id = conivel-the-painted-man-000215
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He meant to go back after a few years , but said it was n't worth the risk .
+He	O
+meant	O
+to	O
+go	O
+back	O
+after	O
+a	O
+few	O
+years	O
+,	O
+but	O
+said	O
+it	O
+was	O
+n't	O
+worth	O
+the	O
+risk	O
+.	O
+
+# id = conivel-the-painted-man-000216
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So you ask him if the Free Cities are any safer than anywhere else . ''
+So	O
+you	O
+ask	O
+him	O
+if	O
+the	O
+Free	B-LOCATION
+Cities	I-LOCATION
+are	O
+any	O
+safer	O
+than	O
+anywhere	O
+else	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000217
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen did n't want to believe it .
+Arlen	B-CHARACTER
+did	O
+n't	O
+want	O
+to	O
+believe	O
+it	O
+.	O
+
+# id = conivel-the-painted-man-000218
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There had to be safe places in the world .
+There	O
+had	O
+to	O
+be	O
+safe	O
+places	O
+in	O
+the	O
+world	O
+.	O
+
+# id = conivel-the-painted-man-000219
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But again the image of himself being thrown into the cellar flashed across his mind , and he knew that nowhere was truly safe at night .
+But	O
+again	O
+the	O
+image	O
+of	O
+himself	O
+being	O
+thrown	O
+into	O
+the	O
+cellar	O
+flashed	O
+across	O
+his	O
+mind	O
+,	O
+and	O
+he	O
+knew	O
+that	O
+nowhere	O
+was	O
+truly	O
+safe	O
+at	O
+night	O
+.	O
+
+# id = conivel-the-painted-man-000220
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Messenger arrived an hour later .
+The	O
+Messenger	B-CHARACTER
+arrived	O
+an	O
+hour	O
+later	O
+.	O
+
+# id = conivel-the-painted-man-000221
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was a tall man in his early thirties , with cropped brown hair and a short , thick beard .
+He	O
+was	O
+a	O
+tall	O
+man	O
+in	O
+his	O
+early	O
+thirties	O
+,	O
+with	O
+cropped	O
+brown	O
+hair	O
+and	O
+a	O
+short	O
+,	O
+thick	O
+beard	O
+.	O
+
+# id = conivel-the-painted-man-000222
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Draped about his broad shoulders was a shirt of metal links , and he wore a long dark cloak with thick leather breeches and boots .
+Draped	O
+about	O
+his	O
+broad	O
+shoulders	O
+was	O
+a	O
+shirt	O
+of	O
+metal	O
+links	O
+,	O
+and	O
+he	O
+wore	O
+a	O
+long	O
+dark	O
+cloak	O
+with	O
+thick	O
+leather	O
+breeches	O
+and	O
+boots	O
+.	O
+
+# id = conivel-the-painted-man-000223
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His mare was a sleek brown courser .
+His	O
+mare	O
+was	O
+a	O
+sleek	O
+brown	O
+courser	O
+.	O
+
+# id = conivel-the-painted-man-000224
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Strapped to the horse 's saddle was a harness holding a number of different spears .
+Strapped	O
+to	O
+the	O
+horse	O
+'s	O
+saddle	O
+was	O
+a	O
+harness	O
+holding	O
+a	O
+number	O
+of	O
+different	O
+spears	O
+.	O
+
+# id = conivel-the-painted-man-000225
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His face was grim as he approached , but his shoulders were high and proud .
+His	O
+face	O
+was	O
+grim	O
+as	O
+he	O
+approached	O
+,	O
+but	O
+his	O
+shoulders	O
+were	O
+high	O
+and	O
+proud	O
+.	O
+
+# id = conivel-the-painted-man-000226
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He scanned the crowd and spotted the Speaker easily as she stood giving orders .
+He	O
+scanned	O
+the	O
+crowd	O
+and	O
+spotted	O
+the	O
+Speaker	B-CHARACTER
+easily	O
+as	O
+she	O
+stood	O
+giving	O
+orders	O
+.	O
+
+# id = conivel-the-painted-man-000227
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He turned his horse toward her .
+He	O
+turned	O
+his	O
+horse	O
+toward	O
+her	O
+.	O
+
+# id = conivel-the-painted-man-000228
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Riding a few paces behind on a heavily laden cart pulled by a pair of dark brown mollies was the Jongleur .
+Riding	O
+a	O
+few	O
+paces	O
+behind	O
+on	O
+a	O
+heavily	O
+laden	O
+cart	O
+pulled	O
+by	O
+a	O
+pair	O
+of	O
+dark	O
+brown	O
+mollies	O
+was	O
+the	O
+Jongleur	B-CHARACTER
+.	O
+
+# id = conivel-the-painted-man-000229
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His clothes were a brightly colored patchwork , and he had a lute resting on the bench next to him .
+His	O
+clothes	O
+were	O
+a	O
+brightly	O
+colored	O
+patchwork	O
+,	O
+and	O
+he	O
+had	O
+a	O
+lute	O
+resting	O
+on	O
+the	O
+bench	O
+next	O
+to	O
+him	O
+.	O
+
+# id = conivel-the-painted-man-000230
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His hair was a color Arlen had never seen before , like a pale carrot , and his skin was so fair it seemed the sun had never touched it .
+His	O
+hair	O
+was	O
+a	O
+color	O
+Arlen	B-CHARACTER
+had	O
+never	O
+seen	O
+before	O
+,	O
+like	O
+a	O
+pale	O
+carrot	O
+,	O
+and	O
+his	O
+skin	O
+was	O
+so	O
+fair	O
+it	O
+seemed	O
+the	O
+sun	O
+had	O
+never	O
+touched	O
+it	O
+.	O
+
+# id = conivel-the-painted-man-000231
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His shoulders slumped , and he looked thoroughly exhausted .
+His	O
+shoulders	O
+slumped	O
+,	O
+and	O
+he	O
+looked	O
+thoroughly	O
+exhausted	O
+.	O
+
+# id = conivel-the-painted-man-000232
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was always a Jongleur with the annual Messenger .
+There	O
+was	O
+always	O
+a	O
+Jongleur	O
+with	O
+the	O
+annual	O
+Messenger	O
+.	O
+
+# id = conivel-the-painted-man-000233
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = To the children , and some of the adults , the Jongleur was the more important of the two .
+To	O
+the	O
+children	O
+,	O
+and	O
+some	O
+of	O
+the	O
+adults	O
+,	O
+the	O
+Jongleur	O
+was	O
+the	O
+more	O
+important	O
+of	O
+the	O
+two	O
+.	O
+
+# id = conivel-the-painted-man-000234
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For as long as Arlen could remember , it had been the same man , gray-haired but spry and full of cheer .
+For	O
+as	O
+long	O
+as	O
+Arlen	B-CHARACTER
+could	O
+remember	O
+,	O
+it	O
+had	O
+been	O
+the	O
+same	O
+man	O
+,	O
+gray-haired	O
+but	O
+spry	O
+and	O
+full	O
+of	O
+cheer	O
+.	O
+
+# id = conivel-the-painted-man-000235
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This new one was younger , and he seemed sullen .
+This	O
+new	O
+one	O
+was	O
+younger	O
+,	O
+and	O
+he	O
+seemed	O
+sullen	O
+.	O
+
+# id = conivel-the-painted-man-000236
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Children ran to him immediately , and the young Jongleur perked up , the frustration melting from his face so quickly Arlen began to doubt it was ever there .
+Children	O
+ran	O
+to	O
+him	O
+immediately	O
+,	O
+and	O
+the	O
+young	O
+Jongleur	B-CHARACTER
+perked	O
+up	O
+,	O
+the	O
+frustration	O
+melting	O
+from	O
+his	O
+face	O
+so	O
+quickly	O
+Arlen	B-CHARACTER
+began	O
+to	O
+doubt	O
+it	O
+was	O
+ever	O
+there	O
+.	O
+
+# id = conivel-the-painted-man-000237
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In an instant , the Jongleur was off the cart and spinning his colored balls into the air as the children cheered .
+In	O
+an	O
+instant	O
+,	O
+the	O
+Jongleur	B-CHARACTER
+was	O
+off	O
+the	O
+cart	O
+and	O
+spinning	O
+his	O
+colored	O
+balls	O
+into	O
+the	O
+air	O
+as	O
+the	O
+children	O
+cheered	O
+.	O
+
+# id = conivel-the-painted-man-000238
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Others , Arlen among them , forgot their work , drifting toward the newcomers .
+Others	O
+,	O
+Arlen	B-CHARACTER
+among	O
+them	O
+,	O
+forgot	O
+their	O
+work	O
+,	O
+drifting	O
+toward	O
+the	O
+newcomers	O
+.	O
+
+# id = conivel-the-painted-man-000239
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia whirled on them , having none of it .
+Selia	B-CHARACTER
+whirled	O
+on	O
+them	O
+,	O
+having	O
+none	O
+of	O
+it	O
+.	O
+
+# id = conivel-the-painted-man-000240
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The day is no longer because the Messenger 's come ! ''
+``	O
+The	O
+day	O
+is	O
+no	O
+longer	O
+because	O
+the	O
+Messenger	O
+'s	O
+come	O
+!	O
+''	O
+
+# id = conivel-the-painted-man-000241
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she barked .
+she	O
+barked	O
+.	O
+
+# id = conivel-the-painted-man-000242
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Back to your work ! ''
+``	O
+Back	O
+to	O
+your	O
+work	O
+!	O
+''	O
+
+# id = conivel-the-painted-man-000243
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There were grumbles , but everyone went back to work .
+There	O
+were	O
+grumbles	O
+,	O
+but	O
+everyone	O
+went	O
+back	O
+to	O
+work	O
+.	O
+
+# id = conivel-the-painted-man-000244
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Not you , Arlen , ''
+``	O
+Not	O
+you	O
+,	O
+Arlen	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-the-painted-man-000245
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia said .
+Selia	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-painted-man-000246
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Come here . ''
+``	O
+Come	O
+here	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000247
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arlen pulled his eyes from the Jongleur and went to her as the Messenger arrived .
+Arlen	B-CHARACTER
+pulled	O
+his	O
+eyes	O
+from	O
+the	O
+Jongleur	B-CHARACTER
+and	O
+went	O
+to	O
+her	O
+as	O
+the	O
+Messenger	B-CHARACTER
+arrived	O
+.	O
+
+# id = conivel-the-painted-man-000248
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Selia Barren ? ''
+``	O
+Selia	B-CHARACTER
+Barren	I-CHARACTER
+?	O
+''	O
+
+# id = conivel-the-painted-man-000249
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the Messenger asked .
+the	O
+Messenger	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-the-painted-man-000250
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Just Selia will do , ''
+``	O
+Just	O
+Selia	B-CHARACTER
+will	O
+do	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000251
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia replied primly .
+Selia	B-CHARACTER
+replied	O
+primly	O
+.	O
+
+# id = conivel-the-painted-man-000252
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Messenger 's eyes widened , and he blushed , the tops of his pale cheeks turning a deep red above his beard .
+The	O
+Messenger	B-CHARACTER
+'s	O
+eyes	O
+widened	O
+,	O
+and	O
+he	O
+blushed	O
+,	O
+the	O
+tops	O
+of	O
+his	O
+pale	O
+cheeks	O
+turning	O
+a	O
+deep	O
+red	O
+above	O
+his	O
+beard	O
+.	O
+
+# id = conivel-the-painted-man-000253
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He leapt down from his horse and bowed low .
+He	O
+leapt	O
+down	O
+from	O
+his	O
+horse	O
+and	O
+bowed	O
+low	O
+.	O
+
+# id = conivel-the-painted-man-000254
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Apologies , ''
+``	O
+Apologies	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000255
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said .
+he	O
+said	O
+.	O
+
+# id = conivel-the-painted-man-000256
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I did not think .
+``	O
+I	O
+did	O
+not	O
+think	O
+.	O
+
+# id = conivel-the-painted-man-000257
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Graig , your usual Messenger , told me that 's what you were called . ''
+Graig	B-CHARACTER
+,	O
+your	O
+usual	O
+Messenger	O
+,	O
+told	O
+me	O
+that	O
+'s	O
+what	O
+you	O
+were	O
+called	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000258
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's pleasing to know what Graig thinks of me after all these years , ''
+``	O
+It	O
+'s	O
+pleasing	O
+to	O
+know	O
+what	O
+Graig	B-CHARACTER
+thinks	O
+of	O
+me	O
+after	O
+all	O
+these	O
+years	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000259
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia said , sounding not at all pleased .
+Selia	B-CHARACTER
+said	O
+,	O
+sounding	O
+not	O
+at	O
+all	O
+pleased	O
+.	O
+
+# id = conivel-the-painted-man-000260
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Thought , ''
+``	O
+Thought	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000261
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the Messenger corrected .
+the	O
+Messenger	B-CHARACTER
+corrected	O
+.	O
+
+# id = conivel-the-painted-man-000262
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He 's dead , ma'am . ''
+``	O
+He	O
+'s	O
+dead	O
+,	O
+ma'am	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000263
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Dead ? ''
+``	O
+Dead	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000264
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia asked , looking suddenly sad .
+Selia	B-CHARACTER
+asked	O
+,	O
+looking	O
+suddenly	O
+sad	O
+.	O
+
+# id = conivel-the-painted-man-000265
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Was it ... ? ''
+``	O
+Was	O
+it	O
+...	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000266
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Messenger shook his head .
+The	O
+Messenger	B-CHARACTER
+shook	O
+his	O
+head	O
+.	O
+
+# id = conivel-the-painted-man-000267
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It was a chill took him , not corelings .
+``	O
+It	O
+was	O
+a	O
+chill	O
+took	O
+him	O
+,	O
+not	O
+corelings	O
+.	O
+
+# id = conivel-the-painted-man-000268
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'm Ragen , your Messenger this year , as a favor to his widow .
+I	O
+'m	O
+Ragen	B-CHARACTER
+,	O
+your	O
+Messenger	O
+this	O
+year	O
+,	O
+as	O
+a	O
+favor	O
+to	O
+his	O
+widow	O
+.	O
+
+# id = conivel-the-painted-man-000269
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The guild will select a new Messenger for you starting next fall . ''
+The	O
+guild	O
+will	O
+select	O
+a	O
+new	O
+Messenger	O
+for	O
+you	O
+starting	O
+next	O
+fall	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000270
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A year and a half again before the next Messenger ? ''
+``	O
+A	O
+year	O
+and	O
+a	O
+half	O
+again	O
+before	O
+the	O
+next	O
+Messenger	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000271
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia asked , sounding like she was readying a scolding .
+Selia	B-CHARACTER
+asked	O
+,	O
+sounding	O
+like	O
+she	O
+was	O
+readying	O
+a	O
+scolding	O
+.	O
+
+# id = conivel-the-painted-man-000272
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We barely made it through this past winter without the fall salt , ''
+``	O
+We	O
+barely	O
+made	O
+it	O
+through	O
+this	O
+past	O
+winter	O
+without	O
+the	O
+fall	O
+salt	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000273
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she said .
+she	O
+said	O
+.	O
+
+# id = conivel-the-painted-man-000274
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I know you take it for granted in Miln , but half our meat and fish spoiled for lack of proper curing .
+``	O
+I	O
+know	O
+you	O
+take	O
+it	O
+for	O
+granted	O
+in	O
+Miln	B-LOCATION
+,	O
+but	O
+half	O
+our	O
+meat	O
+and	O
+fish	O
+spoiled	O
+for	O
+lack	O
+of	O
+proper	O
+curing	O
+.	O
+
+# id = conivel-the-painted-man-000275
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And what of our letters ? ''
+And	O
+what	O
+of	O
+our	O
+letters	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000276
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Sorry , ma'am , ''
+``	O
+Sorry	O
+,	O
+ma'am	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000277
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ragen said .
+Ragen	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-painted-man-000278
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Your towns are well off the common roads , and paying a Messenger to commit for a month and more of travel each year is costly .
+``	O
+Your	O
+towns	O
+are	O
+well	O
+off	O
+the	O
+common	O
+roads	O
+,	O
+and	O
+paying	O
+a	O
+Messenger	O
+to	O
+commit	O
+for	O
+a	O
+month	O
+and	O
+more	O
+of	O
+travel	O
+each	O
+year	O
+is	O
+costly	O
+.	O
+
+# id = conivel-the-painted-man-000279
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Messengers ' Guild is shorthanded , what with Graig catching that chill . ''
+The	O
+Messengers	O
+'	O
+Guild	O
+is	O
+shorthanded	O
+,	O
+what	O
+with	O
+Graig	B-CHARACTER
+catching	O
+that	O
+chill	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000280
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He chuckled and shook his head , but noticed Selia 's visage darken in response .
+He	O
+chuckled	O
+and	O
+shook	O
+his	O
+head	O
+,	O
+but	O
+noticed	O
+Selia	B-CHARACTER
+'s	O
+visage	O
+darken	O
+in	O
+response	O
+.	O
+
+# id = conivel-the-painted-man-000281
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No offense meant , ma'am , ''
+``	O
+No	O
+offense	O
+meant	O
+,	O
+ma'am	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000282
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ragen said .
+Ragen	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-painted-man-000283
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He was my friend as well .
+``	O
+He	O
+was	O
+my	O
+friend	O
+as	O
+well	O
+.	O
+
+# id = conivel-the-painted-man-000284
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's just ... it 's not many of us Messengers get to go with a roof above , a bed below , and a young wife at our side .
+It	O
+'s	O
+just	O
+...	O
+it	O
+'s	O
+not	O
+many	O
+of	O
+us	O
+Messengers	O
+get	O
+to	O
+go	O
+with	O
+a	O
+roof	O
+above	O
+,	O
+a	O
+bed	O
+below	O
+,	O
+and	O
+a	O
+young	O
+wife	O
+at	O
+our	O
+side	O
+.	O
+
+# id = conivel-the-painted-man-000285
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The night usually gets us before that , you see ? ''
+The	O
+night	O
+usually	O
+gets	O
+us	O
+before	O
+that	O
+,	O
+you	O
+see	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000286
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do , ''
+``	O
+I	O
+do	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000287
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia said .
+Selia	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-painted-man-000288
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do you have a wife , Ragen ? ''
+``	O
+Do	O
+you	O
+have	O
+a	O
+wife	O
+,	O
+Ragen	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-the-painted-man-000289
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she asked .
+she	O
+asked	O
+.	O
+
+# id = conivel-the-painted-man-000290
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ay , ''
+``	O
+Ay	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000291
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the Messenger said , `` though to her pleasure and my pain , I see my mare more than my bride . ''
+the	O
+Messenger	B-CHARACTER
+said	O
+,	O
+``	O
+though	O
+to	O
+her	O
+pleasure	O
+and	O
+my	O
+pain	O
+,	O
+I	O
+see	O
+my	O
+mare	O
+more	O
+than	O
+my	O
+bride	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000292
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He laughed , confusing Arlen , who did n't think having a wife not miss you was funny .
+He	O
+laughed	O
+,	O
+confusing	O
+Arlen	B-CHARACTER
+,	O
+who	O
+did	O
+n't	O
+think	O
+having	O
+a	O
+wife	O
+not	O
+miss	O
+you	O
+was	O
+funny	O
+.	O
+
+# id = conivel-the-painted-man-000293
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia did n't seem to notice .
+Selia	B-CHARACTER
+did	O
+n't	O
+seem	O
+to	O
+notice	O
+.	O
+
+# id = conivel-the-painted-man-000294
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What if you could n't see her at all ? ''
+``	O
+What	O
+if	O
+you	O
+could	O
+n't	O
+see	O
+her	O
+at	O
+all	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000295
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she asked .
+she	O
+asked	O
+.	O
+
+# id = conivel-the-painted-man-000296
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What if all you had were letters once a year to connect you to her ?
+``	O
+What	O
+if	O
+all	O
+you	O
+had	O
+were	O
+letters	O
+once	O
+a	O
+year	O
+to	O
+connect	O
+you	O
+to	O
+her	O
+?	O
+
+# id = conivel-the-painted-man-000297
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How would you feel to hear your letters would be delayed half a year ?
+How	O
+would	O
+you	O
+feel	O
+to	O
+hear	O
+your	O
+letters	O
+would	O
+be	O
+delayed	O
+half	O
+a	O
+year	O
+?	O
+
+# id = conivel-the-painted-man-000298
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There are some in this town with kin in the Free Cities .
+There	O
+are	O
+some	O
+in	O
+this	O
+town	O
+with	O
+kin	O
+in	O
+the	O
+Free	B-LOCATION
+Cities	I-LOCATION
+.	O
+
+# id = conivel-the-painted-man-000299
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Left with one Messenger or another , some as much as two generations gone .
+Left	O
+with	O
+one	O
+Messenger	O
+or	O
+another	O
+,	O
+some	O
+as	O
+much	O
+as	O
+two	O
+generations	O
+gone	O
+.	O
+
+# id = conivel-the-painted-man-000300
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Those people ent going to come home , Ragen .
+Those	O
+people	O
+ent	O
+going	O
+to	O
+come	O
+home	O
+,	O
+Ragen	B-CHARACTER
+.	O
+
+# id = conivel-the-painted-man-000301
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Letters are all we have of them , and they of us . ''
+Letters	O
+are	O
+all	O
+we	O
+have	O
+of	O
+them	O
+,	O
+and	O
+they	O
+of	O
+us	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000302
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I am in full agreement with you , ma'am , ''
+``	O
+I	O
+am	O
+in	O
+full	O
+agreement	O
+with	O
+you	O
+,	O
+ma'am	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000303
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ragen said , `` but the decision is not mine to make .
+Ragen	B-CHARACTER
+said	O
+,	O
+``	O
+but	O
+the	O
+decision	O
+is	O
+not	O
+mine	O
+to	O
+make	O
+.	O
+
+# id = conivel-the-painted-man-000304
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The duke ... ''
+The	O
+duke	O
+...	O
+''	O
+
+# id = conivel-the-painted-man-000305
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But you will speak to the duke upon your return , yes ? ''
+``	O
+But	O
+you	O
+will	O
+speak	O
+to	O
+the	O
+duke	O
+upon	O
+your	O
+return	O
+,	O
+yes	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000306
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia asked .
+Selia	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-the-painted-man-000307
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I will , ''
+``	O
+I	O
+will	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000308
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said .
+he	O
+said	O
+.	O
+
+# id = conivel-the-painted-man-000309
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Shall I write the message down for you ? ''
+``	O
+Shall	O
+I	O
+write	O
+the	O
+message	O
+down	O
+for	O
+you	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000310
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia asked .
+Selia	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-the-painted-man-000311
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ragen smiled .
+Ragen	B-CHARACTER
+smiled	O
+.	O
+
+# id = conivel-the-painted-man-000312
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I think I can remember it , ma'am . ''
+``	O
+I	O
+think	O
+I	O
+can	O
+remember	O
+it	O
+,	O
+ma'am	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000313
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` See that you do . ''
+``	O
+See	O
+that	O
+you	O
+do	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000314
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ragen bowed again , still lower .
+Ragen	B-CHARACTER
+bowed	O
+again	O
+,	O
+still	O
+lower	O
+.	O
+
+# id = conivel-the-painted-man-000315
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Apologies , for coming to call on such a dark day , ''
+``	O
+Apologies	O
+,	O
+for	O
+coming	O
+to	O
+call	O
+on	O
+such	O
+a	O
+dark	O
+day	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000316
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said , his eyes flicking to the funeral pyre .
+he	O
+said	O
+,	O
+his	O
+eyes	O
+flicking	O
+to	O
+the	O
+funeral	O
+pyre	O
+.	O
+
+# id = conivel-the-painted-man-000317
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We can not tell the rain when to come , nor the wind , nor the cold , ''
+``	O
+We	O
+can	O
+not	O
+tell	O
+the	O
+rain	O
+when	O
+to	O
+come	O
+,	O
+nor	O
+the	O
+wind	O
+,	O
+nor	O
+the	O
+cold	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000318
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia said .
+Selia	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-painted-man-000319
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Not the corelings , either .
+``	O
+Not	O
+the	O
+corelings	O
+,	O
+either	O
+.	O
+
+# id = conivel-the-painted-man-000320
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So life must go on despite these things . ''
+So	O
+life	O
+must	O
+go	O
+on	O
+despite	O
+these	O
+things	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000321
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Life goes on , ''
+``	O
+Life	O
+goes	O
+on	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000322
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ragen agreed , `` but if there 's anything I or my Jongleur can do to help ; I 've a strong back and I 've treated coreling wounds many times . ''
+Ragen	B-CHARACTER
+agreed	O
+,	O
+``	O
+but	O
+if	O
+there	O
+'s	O
+anything	O
+I	O
+or	O
+my	O
+Jongleur	B-CHARACTER
+can	O
+do	O
+to	O
+help	O
+;	O
+I	O
+'ve	O
+a	O
+strong	O
+back	O
+and	O
+I	O
+'ve	O
+treated	O
+coreling	O
+wounds	O
+many	O
+times	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000323
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Your Jongleur is helping already , ''
+``	O
+Your	O
+Jongleur	B-CHARACTER
+is	O
+helping	O
+already	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000324
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia said , nodding toward the young man as he sang and did his tricks , `` distracting the young ones while their kin do their work .
+Selia	B-CHARACTER
+said	O
+,	O
+nodding	O
+toward	O
+the	O
+young	O
+man	O
+as	O
+he	O
+sang	O
+and	O
+did	O
+his	O
+tricks	O
+,	O
+``	O
+distracting	O
+the	O
+young	O
+ones	O
+while	O
+their	O
+kin	O
+do	O
+their	O
+work	O
+.	O
+
+# id = conivel-the-painted-man-000325
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As for you , I 've much to do over the next few days , if we 're to recover from this loss .
+As	O
+for	O
+you	O
+,	O
+I	O
+'ve	O
+much	O
+to	O
+do	O
+over	O
+the	O
+next	O
+few	O
+days	O
+,	O
+if	O
+we	O
+'re	O
+to	O
+recover	O
+from	O
+this	O
+loss	O
+.	O
+
+# id = conivel-the-painted-man-000326
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I wo n't have time to hand the mail and read to those who have n't learned their letters . ''
+I	O
+wo	O
+n't	O
+have	O
+time	O
+to	O
+hand	O
+the	O
+mail	O
+and	O
+read	O
+to	O
+those	O
+who	O
+have	O
+n't	O
+learned	O
+their	O
+letters	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000327
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I can read to those who ca n't , ma'am , ''
+``	O
+I	O
+can	O
+read	O
+to	O
+those	O
+who	O
+ca	O
+n't	O
+,	O
+ma'am	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000328
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ragen said , `` but I do n't know your town well enough to distribute . ''
+Ragen	B-CHARACTER
+said	O
+,	O
+``	O
+but	O
+I	O
+do	O
+n't	O
+know	O
+your	O
+town	O
+well	O
+enough	O
+to	O
+distribute	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000329
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No need , ''
+``	O
+No	O
+need	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000330
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia said , pulling Arlen forward .
+Selia	B-CHARACTER
+said	O
+,	O
+pulling	O
+Arlen	B-CHARACTER
+forward	O
+.	O
+
+# id = conivel-the-painted-man-000331
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Arlen here will take you to the general store in Town Square .
+``	O
+Arlen	B-CHARACTER
+here	O
+will	O
+take	O
+you	O
+to	O
+the	O
+general	O
+store	O
+in	O
+Town	B-LOCATION
+Square	I-LOCATION
+.	O
+
+# id = conivel-the-painted-man-000332
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Give the letters and packages to Rusco Hog when you deliver the salt .
+Give	O
+the	O
+letters	O
+and	O
+packages	O
+to	O
+Rusco	B-CHARACTER
+Hog	I-CHARACTER
+when	O
+you	O
+deliver	O
+the	O
+salt	O
+.	O
+
+# id = conivel-the-painted-man-000333
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Most everyone will come running now that the salt 's in , and Rusco 's one of the few in town with letters and numbers .
+Most	O
+everyone	O
+will	O
+come	O
+running	O
+now	O
+that	O
+the	O
+salt	O
+'s	O
+in	O
+,	O
+and	O
+Rusco	B-CHARACTER
+'s	O
+one	O
+of	O
+the	O
+few	O
+in	O
+town	O
+with	O
+letters	O
+and	O
+numbers	O
+.	O
+
+# id = conivel-the-painted-man-000334
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The old crook will complain and try to insist on payment , but you tell him that in time of trouble , the whole town must throw in .
+The	O
+old	O
+crook	O
+will	O
+complain	O
+and	O
+try	O
+to	O
+insist	O
+on	O
+payment	O
+,	O
+but	O
+you	O
+tell	O
+him	O
+that	O
+in	O
+time	O
+of	O
+trouble	O
+,	O
+the	O
+whole	O
+town	O
+must	O
+throw	O
+in	O
+.	O
+
+# id = conivel-the-painted-man-000335
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You tell him to give out the letters and read to those who ca n't , or I 'll not lift a finger the next time the town wants to throw a rope around his neck . ''
+You	O
+tell	O
+him	O
+to	O
+give	O
+out	O
+the	O
+letters	O
+and	O
+read	O
+to	O
+those	O
+who	O
+ca	O
+n't	O
+,	O
+or	O
+I	O
+'ll	O
+not	O
+lift	O
+a	O
+finger	O
+the	O
+next	O
+time	O
+the	O
+town	O
+wants	O
+to	O
+throw	O
+a	O
+rope	O
+around	O
+his	O
+neck	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000336
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ragen looked closely at Selia , perhaps trying to tell if she was joking , but her stony face gave no indication .
+Ragen	B-CHARACTER
+looked	O
+closely	O
+at	O
+Selia	B-CHARACTER
+,	O
+perhaps	O
+trying	O
+to	O
+tell	O
+if	O
+she	O
+was	O
+joking	O
+,	O
+but	O
+her	O
+stony	O
+face	O
+gave	O
+no	O
+indication	O
+.	O
+
+# id = conivel-the-painted-man-000337
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He bowed again .
+He	O
+bowed	O
+again	O
+.	O
+
+# id = conivel-the-painted-man-000338
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Hurry along , then , ''
+``	O
+Hurry	O
+along	O
+,	O
+then	O
+,	O
+''	O
+
+# id = conivel-the-painted-man-000339
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Selia said .
+Selia	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-painted-man-000340
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Lift your feet and you 'll both be back as everyone is readying to leave here for the night .
+``	O
+Lift	O
+your	O
+feet	O
+and	O
+you	O
+'ll	O
+both	O
+be	O
+back	O
+as	O
+everyone	O
+is	O
+readying	O
+to	O
+leave	O
+here	O
+for	O
+the	O
+night	O
+.	O
+
+# id = conivel-the-painted-man-000341
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If you and your Jongleur do n't want to pay Rusco for a room , any here will be glad to offer their homes . ''
+If	O
+you	O
+and	O
+your	O
+Jongleur	B-CHARACTER
+do	O
+n't	O
+want	O
+to	O
+pay	O
+Rusco	B-CHARACTER
+for	O
+a	O
+room	O
+,	O
+any	O
+here	O
+will	O
+be	O
+glad	O
+to	O
+offer	O
+their	O
+homes	O
+.	O
+''	O
+
+# id = conivel-the-painted-man-000342
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She shooed the two of them away and turned back to scold those pausing their work to stare at the newcomers .
+She	O
+shooed	O
+the	O
+two	O
+of	O
+them	O
+away	O
+and	O
+turned	O
+back	O
+to	O
+scold	O
+those	O
+pausing	O
+their	O
+work	O
+to	O
+stare	O
+at	O
+the	O
+newcomers	O
+.	O
+
+# id = conivel-the-painted-man-000343
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Is she always so ... forceful ? ''
+``	O
+Is	O
+she	O
+always	O
+so	O
+...	O
+forceful	O
+?	O
+''	O
+
+# id = conivel-the-painted-man-000344
+# source = Conivel corrected OWTO literary NER
+# book = The Painted Man
+# source_file = ThePaintedMan.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ragen asked Arlen as they walked over to where the Jongleur was mumming for the youngest children .
+Ragen	B-CHARACTER
+asked	O
+Arlen	B-CHARACTER
+as	O
+they	O
+walked	O
+over	O
+to	O
+where	O
+the	O
+Jongleur	B-CHARACTER
+was	O
+mumming	O
+for	O
+the	O
+youngest	O
+children	O
+.	O
+

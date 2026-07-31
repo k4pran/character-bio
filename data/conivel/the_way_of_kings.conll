@@ -1,0 +1,6456 @@
+# id = conivel-the-way-of-kings-000001
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The enormous stone beast lay on its side , riblike protrusions from its chest broken and cracked .
+The	O
+enormous	O
+stone	O
+beast	O
+lay	O
+on	O
+its	O
+side	O
+,	O
+riblike	O
+protrusions	O
+from	O
+its	O
+chest	O
+broken	O
+and	O
+cracked	O
+.	O
+
+# id = conivel-the-way-of-kings-000002
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The monstrosity was vaguely skeletal in shape , with unnaturally long limbs that sprouted from granite shoulders .
+The	O
+monstrosity	O
+was	O
+vaguely	O
+skeletal	O
+in	O
+shape	O
+,	O
+with	O
+unnaturally	O
+long	O
+limbs	O
+that	O
+sprouted	O
+from	O
+granite	O
+shoulders	O
+.	O
+
+# id = conivel-the-way-of-kings-000003
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The eyes were deep red spots on the arrowhead face , as if created by a fire burning deep within the stone .
+The	O
+eyes	O
+were	O
+deep	O
+red	O
+spots	O
+on	O
+the	O
+arrowhead	O
+face	O
+,	O
+as	O
+if	O
+created	O
+by	O
+a	O
+fire	O
+burning	O
+deep	O
+within	O
+the	O
+stone	O
+.	O
+
+# id = conivel-the-way-of-kings-000004
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They faded .
+They	O
+faded	O
+.	O
+
+# id = conivel-the-way-of-kings-000005
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Even after all these centuries , seeing a thunderclast up close made Kalak shiver .
+Even	O
+after	O
+all	O
+these	O
+centuries	O
+,	O
+seeing	O
+a	O
+thunderclast	O
+up	O
+close	O
+made	O
+Kalak	B-CHARACTER
+shiver	O
+.	O
+
+# id = conivel-the-way-of-kings-000006
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The beast 's hand was as long as a man was tall .
+The	O
+beast	O
+'s	O
+hand	O
+was	O
+as	O
+long	O
+as	O
+a	O
+man	O
+was	O
+tall	O
+.	O
+
+# id = conivel-the-way-of-kings-000007
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He 'd been killed by hands like those before , and it had n't been pleasant .
+He	O
+'d	O
+been	O
+killed	O
+by	O
+hands	O
+like	O
+those	O
+before	O
+,	O
+and	O
+it	O
+had	O
+n't	O
+been	O
+pleasant	O
+.	O
+
+# id = conivel-the-way-of-kings-000008
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Of course , dying rarely was .
+Of	O
+course	O
+,	O
+dying	O
+rarely	O
+was	O
+.	O
+
+# id = conivel-the-way-of-kings-000009
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He rounded the creature , picking his way more carefully across the battlefield .
+He	O
+rounded	O
+the	O
+creature	O
+,	O
+picking	O
+his	O
+way	O
+more	O
+carefully	O
+across	O
+the	O
+battlefield	O
+.	O
+
+# id = conivel-the-way-of-kings-000010
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The plain was a place of misshapen rock and stone , natural pillars rising around him , bodies littering the ground .
+The	O
+plain	O
+was	O
+a	O
+place	O
+of	O
+misshapen	O
+rock	O
+and	O
+stone	O
+,	O
+natural	O
+pillars	O
+rising	O
+around	O
+him	O
+,	O
+bodies	O
+littering	O
+the	O
+ground	O
+.	O
+
+# id = conivel-the-way-of-kings-000011
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Few plants lived here .
+Few	O
+plants	O
+lived	O
+here	O
+.	O
+
+# id = conivel-the-way-of-kings-000012
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The stone ridges and mounds bore numerous scars .
+The	O
+stone	O
+ridges	O
+and	O
+mounds	O
+bore	O
+numerous	O
+scars	O
+.	O
+
+# id = conivel-the-way-of-kings-000013
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Some were shattered , blasted-out sections where Surgebinders had fought .
+Some	O
+were	O
+shattered	O
+,	O
+blasted-out	O
+sections	O
+where	O
+Surgebinders	O
+had	O
+fought	O
+.	O
+
+# id = conivel-the-way-of-kings-000014
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Less frequently , he passed cracked , oddly shaped hollows where thunderclasts had ripped themselves free of the stone to join the fray .
+Less	O
+frequently	O
+,	O
+he	O
+passed	O
+cracked	O
+,	O
+oddly	O
+shaped	O
+hollows	O
+where	O
+thunderclasts	O
+had	O
+ripped	O
+themselves	O
+free	O
+of	O
+the	O
+stone	O
+to	O
+join	O
+the	O
+fray	O
+.	O
+
+# id = conivel-the-way-of-kings-000015
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Many of the bodies around him were human ; many were not .
+Many	O
+of	O
+the	O
+bodies	O
+around	O
+him	O
+were	O
+human	O
+;	O
+many	O
+were	O
+not	O
+.	O
+
+# id = conivel-the-way-of-kings-000016
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Blood mixed .
+Blood	O
+mixed	O
+.	O
+
+# id = conivel-the-way-of-kings-000017
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Red .
+Red	O
+.	O
+
+# id = conivel-the-way-of-kings-000018
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Orange .
+Orange	O
+.	O
+
+# id = conivel-the-way-of-kings-000019
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Violet .
+Violet	O
+.	O
+
+# id = conivel-the-way-of-kings-000020
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Though none of the bodies around him stirred , an indistinct haze of sounds hung in the air .
+Though	O
+none	O
+of	O
+the	O
+bodies	O
+around	O
+him	O
+stirred	O
+,	O
+an	O
+indistinct	O
+haze	O
+of	O
+sounds	O
+hung	O
+in	O
+the	O
+air	O
+.	O
+
+# id = conivel-the-way-of-kings-000021
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Moans of pain , cries of grief .
+Moans	O
+of	O
+pain	O
+,	O
+cries	O
+of	O
+grief	O
+.	O
+
+# id = conivel-the-way-of-kings-000022
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They did not seem like the sounds of victory .
+They	O
+did	O
+not	O
+seem	O
+like	O
+the	O
+sounds	O
+of	O
+victory	O
+.	O
+
+# id = conivel-the-way-of-kings-000023
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Smoke curled from the occasional patches of growth or heaps of burning corpses .
+Smoke	O
+curled	O
+from	O
+the	O
+occasional	O
+patches	O
+of	O
+growth	O
+or	O
+heaps	O
+of	O
+burning	O
+corpses	O
+.	O
+
+# id = conivel-the-way-of-kings-000024
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Even some sections of rock smoldered .
+Even	O
+some	O
+sections	O
+of	O
+rock	O
+smoldered	O
+.	O
+
+# id = conivel-the-way-of-kings-000025
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Dustbringers had done their work well .
+The	O
+Dustbringers	O
+had	O
+done	O
+their	O
+work	O
+well	O
+.	O
+
+# id = conivel-the-way-of-kings-000026
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But I survived , Kalak thought , hand to breast as he hastened to the meeting place .
+But	O
+I	O
+survived	O
+,	O
+Kalak	B-CHARACTER
+thought	O
+,	O
+hand	O
+to	O
+breast	O
+as	O
+he	O
+hastened	O
+to	O
+the	O
+meeting	O
+place	O
+.	O
+
+# id = conivel-the-way-of-kings-000027
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I actually survived this time .
+I	O
+actually	O
+survived	O
+this	O
+time	O
+.	O
+
+# id = conivel-the-way-of-kings-000028
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That was dangerous .
+That	O
+was	O
+dangerous	O
+.	O
+
+# id = conivel-the-way-of-kings-000029
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When he died , he was sent back , no choice .
+When	O
+he	O
+died	O
+,	O
+he	O
+was	O
+sent	O
+back	O
+,	O
+no	O
+choice	O
+.	O
+
+# id = conivel-the-way-of-kings-000030
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When he survived the Desolation , he was supposed to go back as well .
+When	O
+he	O
+survived	O
+the	O
+Desolation	O
+,	O
+he	O
+was	O
+supposed	O
+to	O
+go	O
+back	O
+as	O
+well	O
+.	O
+
+# id = conivel-the-way-of-kings-000031
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Back to that place that he dreaded .
+Back	O
+to	O
+that	O
+place	O
+that	O
+he	O
+dreaded	O
+.	O
+
+# id = conivel-the-way-of-kings-000032
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Back to that place of pain and fire .
+Back	O
+to	O
+that	O
+place	O
+of	O
+pain	O
+and	O
+fire	O
+.	O
+
+# id = conivel-the-way-of-kings-000033
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What if he just decided ... not to go ?
+What	O
+if	O
+he	O
+just	O
+decided	O
+...	O
+not	O
+to	O
+go	O
+?	O
+
+# id = conivel-the-way-of-kings-000034
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Perilous thoughts , perhaps traitorous thoughts .
+Perilous	O
+thoughts	O
+,	O
+perhaps	O
+traitorous	O
+thoughts	O
+.	O
+
+# id = conivel-the-way-of-kings-000035
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He hastened on his way .
+He	O
+hastened	O
+on	O
+his	O
+way	O
+.	O
+
+# id = conivel-the-way-of-kings-000036
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The place of meeting was in the shadow of a large rock formation , a spire rising into the sky .
+The	O
+place	O
+of	O
+meeting	O
+was	O
+in	O
+the	O
+shadow	O
+of	O
+a	O
+large	O
+rock	O
+formation	O
+,	O
+a	O
+spire	O
+rising	O
+into	O
+the	O
+sky	O
+.	O
+
+# id = conivel-the-way-of-kings-000037
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As always , the ten of them had decided upon it before the battle .
+As	O
+always	O
+,	O
+the	O
+ten	O
+of	O
+them	O
+had	O
+decided	O
+upon	O
+it	O
+before	O
+the	O
+battle	O
+.	O
+
+# id = conivel-the-way-of-kings-000038
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The survivors would make their way here .
+The	O
+survivors	O
+would	O
+make	O
+their	O
+way	O
+here	O
+.	O
+
+# id = conivel-the-way-of-kings-000039
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Oddly , only one of the others was waiting for him .
+Oddly	O
+,	O
+only	O
+one	O
+of	O
+the	O
+others	O
+was	O
+waiting	O
+for	O
+him	O
+.	O
+
+# id = conivel-the-way-of-kings-000040
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jezrien .
+Jezrien	B-CHARACTER
+.	O
+
+# id = conivel-the-way-of-kings-000041
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Had the other eight all died ?
+Had	O
+the	O
+other	O
+eight	O
+all	O
+died	O
+?	O
+
+# id = conivel-the-way-of-kings-000042
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was possible .
+It	O
+was	O
+possible	O
+.	O
+
+# id = conivel-the-way-of-kings-000043
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The battle had been so furious this time , one of the worst .
+The	O
+battle	O
+had	O
+been	O
+so	O
+furious	O
+this	O
+time	O
+,	O
+one	O
+of	O
+the	O
+worst	O
+.	O
+
+# id = conivel-the-way-of-kings-000044
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The enemy was growing increasingly tenacious .
+The	O
+enemy	O
+was	O
+growing	O
+increasingly	O
+tenacious	O
+.	O
+
+# id = conivel-the-way-of-kings-000045
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But no .
+But	O
+no	O
+.	O
+
+# id = conivel-the-way-of-kings-000046
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kalak frowned as he stepped up to the base of the spire .
+Kalak	B-CHARACTER
+frowned	O
+as	O
+he	O
+stepped	O
+up	O
+to	O
+the	O
+base	O
+of	O
+the	O
+spire	O
+.	O
+
+# id = conivel-the-way-of-kings-000047
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Seven magnificent swords stood proudly here , driven point-first into the stone ground .
+Seven	O
+magnificent	O
+swords	O
+stood	O
+proudly	O
+here	O
+,	O
+driven	O
+point-first	O
+into	O
+the	O
+stone	O
+ground	O
+.	O
+
+# id = conivel-the-way-of-kings-000048
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Each was a masterly work of art , flowing in design , inscribed with glyphs and patterns .
+Each	O
+was	O
+a	O
+masterly	O
+work	O
+of	O
+art	O
+,	O
+flowing	O
+in	O
+design	O
+,	O
+inscribed	O
+with	O
+glyphs	O
+and	O
+patterns	O
+.	O
+
+# id = conivel-the-way-of-kings-000049
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He recognized each one .
+He	O
+recognized	O
+each	O
+one	O
+.	O
+
+# id = conivel-the-way-of-kings-000050
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If their masters had died , the Blades would have vanished .
+If	O
+their	O
+masters	O
+had	O
+died	O
+,	O
+the	O
+Blades	O
+would	O
+have	O
+vanished	O
+.	O
+
+# id = conivel-the-way-of-kings-000051
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = These Blades were weapons of power beyond even Shardblades .
+These	O
+Blades	O
+were	O
+weapons	O
+of	O
+power	O
+beyond	O
+even	O
+Shardblades	O
+.	O
+
+# id = conivel-the-way-of-kings-000052
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = These were unique .
+These	O
+were	O
+unique	O
+.	O
+
+# id = conivel-the-way-of-kings-000053
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Precious .
+Precious	O
+.	O
+
+# id = conivel-the-way-of-kings-000054
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jezrien stood outside the ring of swords , looking eastward .
+Jezrien	B-CHARACTER
+stood	O
+outside	O
+the	O
+ring	O
+of	O
+swords	O
+,	O
+looking	O
+eastward	O
+.	O
+
+# id = conivel-the-way-of-kings-000055
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Jezrien ? ''
+``	O
+Jezrien	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-the-way-of-kings-000056
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The figure in white and blue glanced toward him .
+The	O
+figure	O
+in	O
+white	O
+and	O
+blue	O
+glanced	O
+toward	O
+him	O
+.	O
+
+# id = conivel-the-way-of-kings-000057
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Even after all these centuries , Jezrien looked young , like a man barely into his thirtieth year .
+Even	O
+after	O
+all	O
+these	O
+centuries	O
+,	O
+Jezrien	B-CHARACTER
+looked	O
+young	O
+,	O
+like	O
+a	O
+man	O
+barely	O
+into	O
+his	O
+thirtieth	O
+year	O
+.	O
+
+# id = conivel-the-way-of-kings-000058
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His short black beard was neatly trimmed , though his once-fine clothing was scorched and stained with blood .
+His	O
+short	O
+black	O
+beard	O
+was	O
+neatly	O
+trimmed	O
+,	O
+though	O
+his	O
+once-fine	O
+clothing	O
+was	O
+scorched	O
+and	O
+stained	O
+with	O
+blood	O
+.	O
+
+# id = conivel-the-way-of-kings-000059
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He folded his arms behind his back as he turned to Kalak .
+He	O
+folded	O
+his	O
+arms	O
+behind	O
+his	O
+back	O
+as	O
+he	O
+turned	O
+to	O
+Kalak	B-CHARACTER
+.	O
+
+# id = conivel-the-way-of-kings-000060
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What is this , Jezrien ? ''
+``	O
+What	O
+is	O
+this	O
+,	O
+Jezrien	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-the-way-of-kings-000061
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kalak asked .
+Kalak	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-the-way-of-kings-000062
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Where are the others ? ''
+``	O
+Where	O
+are	O
+the	O
+others	O
+?	O
+''	O
+
+# id = conivel-the-way-of-kings-000063
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Departed . ''
+``	O
+Departed	O
+.	O
+''	O
+
+# id = conivel-the-way-of-kings-000064
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jezrien 's voice was calm , deep , regal .
+Jezrien	B-CHARACTER
+'s	O
+voice	O
+was	O
+calm	O
+,	O
+deep	O
+,	O
+regal	O
+.	O
+
+# id = conivel-the-way-of-kings-000065
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Though he had n't worn a crown in centuries , his royal manner lingered .
+Though	O
+he	O
+had	O
+n't	O
+worn	O
+a	O
+crown	O
+in	O
+centuries	O
+,	O
+his	O
+royal	O
+manner	O
+lingered	O
+.	O
+
+# id = conivel-the-way-of-kings-000066
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He always seemed to know what to do .
+He	O
+always	O
+seemed	O
+to	O
+know	O
+what	O
+to	O
+do	O
+.	O
+
+# id = conivel-the-way-of-kings-000067
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You might call it a miracle .
+``	O
+You	O
+might	O
+call	O
+it	O
+a	O
+miracle	O
+.	O
+
+# id = conivel-the-way-of-kings-000068
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Only one of us died this time . ''
+Only	O
+one	O
+of	O
+us	O
+died	O
+this	O
+time	O
+.	O
+''	O
+
+# id = conivel-the-way-of-kings-000069
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Talenel , ''
+``	O
+Talenel	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-the-way-of-kings-000070
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kalak said .
+Kalak	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-way-of-kings-000071
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His was the only Blade unaccounted for .
+His	O
+was	O
+the	O
+only	O
+Blade	O
+unaccounted	O
+for	O
+.	O
+
+# id = conivel-the-way-of-kings-000072
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes .
+``	O
+Yes	O
+.	O
+
+# id = conivel-the-way-of-kings-000073
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He died holding that passage by the northern waterway . ''
+He	O
+died	O
+holding	O
+that	O
+passage	O
+by	O
+the	O
+northern	O
+waterway	O
+.	O
+''	O
+
+# id = conivel-the-way-of-kings-000074
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kalak nodded .
+Kalak	B-CHARACTER
+nodded	O
+.	O
+
+# id = conivel-the-way-of-kings-000075
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Taln had a tendency to choose seemingly hopeless fights and win them .
+Taln	B-CHARACTER
+had	O
+a	O
+tendency	O
+to	O
+choose	O
+seemingly	O
+hopeless	O
+fights	O
+and	O
+win	O
+them	O
+.	O
+
+# id = conivel-the-way-of-kings-000076
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He also had a tendency to die in the process .
+He	O
+also	O
+had	O
+a	O
+tendency	O
+to	O
+die	O
+in	O
+the	O
+process	O
+.	O
+
+# id = conivel-the-way-of-kings-000077
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He would be back now , in the place where they went between Desolations .
+He	O
+would	O
+be	O
+back	O
+now	O
+,	O
+in	O
+the	O
+place	O
+where	O
+they	O
+went	O
+between	O
+Desolations	O
+.	O
+
+# id = conivel-the-way-of-kings-000078
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The place of nightmares .
+The	O
+place	O
+of	O
+nightmares	O
+.	O
+
+# id = conivel-the-way-of-kings-000079
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kalak found himself shaking .
+Kalak	B-CHARACTER
+found	O
+himself	O
+shaking	O
+.	O
+
+# id = conivel-the-way-of-kings-000080
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When had he become so weak ?
+When	O
+had	O
+he	O
+become	O
+so	O
+weak	O
+?	O
+
+# id = conivel-the-way-of-kings-000081
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Jezrien , I ca n't return this time . ''
+``	O
+Jezrien	B-CHARACTER
+,	O
+I	O
+ca	O
+n't	O
+return	O
+this	O
+time	O
+.	O
+''	O
+
+# id = conivel-the-way-of-kings-000082
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kalak whispered the words , stepping up and gripping the other man 's arm .
+Kalak	B-CHARACTER
+whispered	O
+the	O
+words	O
+,	O
+stepping	O
+up	O
+and	O
+gripping	O
+the	O
+other	O
+man	O
+'s	O
+arm	O
+.	O
+
+# id = conivel-the-way-of-kings-000083
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I ca n't . ''
+``	O
+I	O
+ca	O
+n't	O
+.	O
+''	O
+
+# id = conivel-the-way-of-kings-000084
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kalak felt something within him break at the admission .
+Kalak	B-CHARACTER
+felt	O
+something	O
+within	O
+him	O
+break	O
+at	O
+the	O
+admission	O
+.	O
+
+# id = conivel-the-way-of-kings-000085
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How long had it been ?
+How	O
+long	O
+had	O
+it	O
+been	O
+?	O
+
+# id = conivel-the-way-of-kings-000086
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Centuries , perhaps millennia , of torture .
+Centuries	O
+,	O
+perhaps	O
+millennia	O
+,	O
+of	O
+torture	O
+.	O
+
+# id = conivel-the-way-of-kings-000087
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was so hard to keep track .
+It	O
+was	O
+so	O
+hard	O
+to	O
+keep	O
+track	O
+.	O
+
+# id = conivel-the-way-of-kings-000088
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Those fires , those hooks , digging into his flesh anew each day .
+Those	O
+fires	O
+,	O
+those	O
+hooks	O
+,	O
+digging	O
+into	O
+his	O
+flesh	O
+anew	O
+each	O
+day	O
+.	O
+
+# id = conivel-the-way-of-kings-000089
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Searing the skin off his arm , then burning the fat , then driving to the bone .
+Searing	O
+the	O
+skin	O
+off	O
+his	O
+arm	O
+,	O
+then	O
+burning	O
+the	O
+fat	O
+,	O
+then	O
+driving	O
+to	O
+the	O
+bone	O
+.	O
+
+# id = conivel-the-way-of-kings-000090
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He could smell it .
+He	O
+could	O
+smell	O
+it	O
+.	O
+
+# id = conivel-the-way-of-kings-000091
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Almighty , he could smell it !
+Almighty	O
+,	O
+he	O
+could	O
+smell	O
+it	O
+!	O
+
+# id = conivel-the-way-of-kings-000092
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Leave your sword , ''
+``	O
+Leave	O
+your	O
+sword	O
+,	O
+''	O
+
+# id = conivel-the-way-of-kings-000093
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jezrien said .
+Jezrien	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-way-of-kings-000094
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What ? ''
+``	O
+What	O
+?	O
+''	O
+
+# id = conivel-the-way-of-kings-000095
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jezrien nodded to the ring of weapons .
+Jezrien	B-CHARACTER
+nodded	O
+to	O
+the	O
+ring	O
+of	O
+weapons	O
+.	O
+
+# id = conivel-the-way-of-kings-000096
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I was chosen to wait for you .
+``	O
+I	O
+was	O
+chosen	O
+to	O
+wait	O
+for	O
+you	O
+.	O
+
+# id = conivel-the-way-of-kings-000097
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We were n't certain if you had survived .
+We	O
+were	O
+n't	O
+certain	O
+if	O
+you	O
+had	O
+survived	O
+.	O
+
+# id = conivel-the-way-of-kings-000098
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A ... a decision has been made .
+A	O
+...	O
+a	O
+decision	O
+has	O
+been	O
+made	O
+.	O
+
+# id = conivel-the-way-of-kings-000099
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It is time for the Oathpact to end . ''
+It	O
+is	O
+time	O
+for	O
+the	O
+Oathpact	O
+to	O
+end	O
+.	O
+''	O
+
+# id = conivel-the-way-of-kings-000100
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kalak felt a sharp stab of horror .
+Kalak	B-CHARACTER
+felt	O
+a	O
+sharp	O
+stab	O
+of	O
+horror	O
+.	O
+
+# id = conivel-the-way-of-kings-000101
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What will that do ? ''
+``	O
+What	O
+will	O
+that	O
+do	O
+?	O
+''	O
+
+# id = conivel-the-way-of-kings-000102
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ishar believes that so long as there is one of us still bound to the Oathpact , it may be enough .
+``	O
+Ishar	B-CHARACTER
+believes	O
+that	O
+so	O
+long	O
+as	O
+there	O
+is	O
+one	O
+of	O
+us	O
+still	O
+bound	O
+to	O
+the	O
+Oathpact	O
+,	O
+it	O
+may	O
+be	O
+enough	O
+.	O
+
+# id = conivel-the-way-of-kings-000103
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There is a chance we might end the cycle of Desolations . ''
+There	O
+is	O
+a	O
+chance	O
+we	O
+might	O
+end	O
+the	O
+cycle	O
+of	O
+Desolations	O
+.	O
+''	O
+
+# id = conivel-the-way-of-kings-000104
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kalak looked into the immortal king 's eyes .
+Kalak	B-CHARACTER
+looked	O
+into	O
+the	O
+immortal	O
+king	O
+'s	O
+eyes	O
+.	O
+
+# id = conivel-the-way-of-kings-000105
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Black smoke rose from a small patch to their left .
+Black	O
+smoke	O
+rose	O
+from	O
+a	O
+small	O
+patch	O
+to	O
+their	O
+left	O
+.	O
+
+# id = conivel-the-way-of-kings-000106
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Groans of the dying haunted them from behind .
+Groans	O
+of	O
+the	O
+dying	O
+haunted	O
+them	O
+from	O
+behind	O
+.	O
+
+# id = conivel-the-way-of-kings-000107
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There , in Jezrien 's eyes , Kalak saw anguish and grief .
+There	O
+,	O
+in	O
+Jezrien	B-CHARACTER
+'s	O
+eyes	O
+,	O
+Kalak	B-CHARACTER
+saw	O
+anguish	O
+and	O
+grief	O
+.	O
+
+# id = conivel-the-way-of-kings-000108
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Perhaps even cowardice .
+Perhaps	O
+even	O
+cowardice	O
+.	O
+
+# id = conivel-the-way-of-kings-000109
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This was a man hanging from a cliff by a thread .
+This	O
+was	O
+a	O
+man	O
+hanging	O
+from	O
+a	O
+cliff	O
+by	O
+a	O
+thread	O
+.	O
+
+# id = conivel-the-way-of-kings-000110
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Almighty above , Kalak thought .
+Almighty	O
+above	O
+,	O
+Kalak	B-CHARACTER
+thought	O
+.	O
+
+# id = conivel-the-way-of-kings-000111
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You 're broken too , are n't you ?
+You	O
+'re	O
+broken	O
+too	O
+,	O
+are	O
+n't	O
+you	O
+?	O
+
+# id = conivel-the-way-of-kings-000112
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They all were .
+They	O
+all	O
+were	O
+.	O
+
+# id = conivel-the-way-of-kings-000113
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kalak turned and walked to the side , where a low ridge overlooked part of the battlefield .
+Kalak	B-CHARACTER
+turned	O
+and	O
+walked	O
+to	O
+the	O
+side	O
+,	O
+where	O
+a	O
+low	O
+ridge	O
+overlooked	O
+part	O
+of	O
+the	O
+battlefield	O
+.	O
+
+# id = conivel-the-way-of-kings-000114
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There were so many corpses , and among them walked the living .
+There	O
+were	O
+so	O
+many	O
+corpses	O
+,	O
+and	O
+among	O
+them	O
+walked	O
+the	O
+living	O
+.	O
+
+# id = conivel-the-way-of-kings-000115
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Men in primitive wraps , carrying spears topped by bronze heads .
+Men	O
+in	O
+primitive	O
+wraps	O
+,	O
+carrying	O
+spears	O
+topped	O
+by	O
+bronze	O
+heads	O
+.	O
+
+# id = conivel-the-way-of-kings-000116
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Juxtaposed between them were others in gleaming plate armor .
+Juxtaposed	O
+between	O
+them	O
+were	O
+others	O
+in	O
+gleaming	O
+plate	O
+armor	O
+.	O
+
+# id = conivel-the-way-of-kings-000117
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One group walked past , four men in their ragged tanned skins or shoddy leather joining a powerful figure in beautiful silver plate , amazingly intricate .
+One	O
+group	O
+walked	O
+past	O
+,	O
+four	O
+men	O
+in	O
+their	O
+ragged	O
+tanned	O
+skins	O
+or	O
+shoddy	O
+leather	O
+joining	O
+a	O
+powerful	O
+figure	O
+in	O
+beautiful	O
+silver	O
+plate	O
+,	O
+amazingly	O
+intricate	O
+.	O
+
+# id = conivel-the-way-of-kings-000118
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Such a contrast .
+Such	O
+a	O
+contrast	O
+.	O
+
+# id = conivel-the-way-of-kings-000119
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jezrien stepped up beside him .
+Jezrien	B-CHARACTER
+stepped	O
+up	O
+beside	O
+him	O
+.	O
+
+# id = conivel-the-way-of-kings-000120
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They see us as divinities , ''
+``	O
+They	O
+see	O
+us	O
+as	O
+divinities	O
+,	O
+''	O
+
+# id = conivel-the-way-of-kings-000121
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kalak whispered .
+Kalak	B-CHARACTER
+whispered	O
+.	O
+
+# id = conivel-the-way-of-kings-000122
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They rely upon us , Jezrien .
+``	O
+They	O
+rely	O
+upon	O
+us	O
+,	O
+Jezrien	B-CHARACTER
+.	O
+
+# id = conivel-the-way-of-kings-000123
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We 're all that they have . ''
+We	O
+'re	O
+all	O
+that	O
+they	O
+have	O
+.	O
+''	O
+
+# id = conivel-the-way-of-kings-000124
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They have the Radiants .
+``	O
+They	O
+have	O
+the	O
+Radiants	O
+.	O
+
+# id = conivel-the-way-of-kings-000125
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That will be enough . ''
+That	O
+will	O
+be	O
+enough	O
+.	O
+''	O
+
+# id = conivel-the-way-of-kings-000126
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kalak shook his head .
+Kalak	B-CHARACTER
+shook	O
+his	O
+head	O
+.	O
+
+# id = conivel-the-way-of-kings-000127
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He will not remain bound by this .
+``	O
+He	O
+will	O
+not	O
+remain	O
+bound	O
+by	O
+this	O
+.	O
+
+# id = conivel-the-way-of-kings-000128
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The enemy .
+The	O
+enemy	O
+.	O
+
+# id = conivel-the-way-of-kings-000129
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He will find a way around it .
+He	O
+will	O
+find	O
+a	O
+way	O
+around	O
+it	O
+.	O
+
+# id = conivel-the-way-of-kings-000130
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You know he will . ''
+You	O
+know	O
+he	O
+will	O
+.	O
+''	O
+
+# id = conivel-the-way-of-kings-000131
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Perhaps . ''
+``	O
+Perhaps	O
+.	O
+''	O
+
+# id = conivel-the-way-of-kings-000132
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The king of Heralds offered no further explanation .
+The	O
+king	O
+of	O
+Heralds	O
+offered	O
+no	O
+further	O
+explanation	O
+.	O
+
+# id = conivel-the-way-of-kings-000133
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And Taln ? ''
+``	O
+And	O
+Taln	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-the-way-of-kings-000134
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kalak asked .
+Kalak	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-the-way-of-kings-000135
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The flesh burning .
+The	O
+flesh	O
+burning	O
+.	O
+
+# id = conivel-the-way-of-kings-000136
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The fires .
+The	O
+fires	O
+.	O
+
+# id = conivel-the-way-of-kings-000137
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The pain over and over and over ... `` Better that one man should suffer than ten , ''
+The	O
+pain	O
+over	O
+and	O
+over	O
+and	O
+over	O
+...	O
+``	O
+Better	O
+that	O
+one	O
+man	O
+should	O
+suffer	O
+than	O
+ten	O
+,	O
+''	O
+
+# id = conivel-the-way-of-kings-000138
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jezrien whispered .
+Jezrien	B-CHARACTER
+whispered	O
+.	O
+
+# id = conivel-the-way-of-kings-000139
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He seemed so cold .
+He	O
+seemed	O
+so	O
+cold	O
+.	O
+
+# id = conivel-the-way-of-kings-000140
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Like a shadow caused by heat and light falling on someone honorable and true , casting this black imitation behind .
+Like	O
+a	O
+shadow	O
+caused	O
+by	O
+heat	O
+and	O
+light	O
+falling	O
+on	O
+someone	O
+honorable	O
+and	O
+true	O
+,	O
+casting	O
+this	O
+black	O
+imitation	O
+behind	O
+.	O
+
+# id = conivel-the-way-of-kings-000141
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jezrien walked back to the ring of swords .
+Jezrien	B-CHARACTER
+walked	O
+back	O
+to	O
+the	O
+ring	O
+of	O
+swords	O
+.	O
+
+# id = conivel-the-way-of-kings-000142
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His own Blade formed in his hands , appearing from mist , wet with condensation .
+His	O
+own	O
+Blade	O
+formed	O
+in	O
+his	O
+hands	O
+,	O
+appearing	O
+from	O
+mist	O
+,	O
+wet	O
+with	O
+condensation	O
+.	O
+
+# id = conivel-the-way-of-kings-000143
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It has been decided , Kalak .
+``	O
+It	O
+has	O
+been	O
+decided	O
+,	O
+Kalak	B-CHARACTER
+.	O
+
+# id = conivel-the-way-of-kings-000144
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We will go our ways , and we will not seek out one another .
+We	O
+will	O
+go	O
+our	O
+ways	O
+,	O
+and	O
+we	O
+will	O
+not	O
+seek	O
+out	O
+one	O
+another	O
+.	O
+
+# id = conivel-the-way-of-kings-000145
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Our Blades must be left .
+Our	O
+Blades	O
+must	O
+be	O
+left	O
+.	O
+
+# id = conivel-the-way-of-kings-000146
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Oathpact ends now . ''
+The	O
+Oathpact	O
+ends	O
+now	O
+.	O
+''	O
+
+# id = conivel-the-way-of-kings-000147
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He lifted his sword and rammed it into the stone with the other seven .
+He	O
+lifted	O
+his	O
+sword	O
+and	O
+rammed	O
+it	O
+into	O
+the	O
+stone	O
+with	O
+the	O
+other	O
+seven	O
+.	O
+
+# id = conivel-the-way-of-kings-000148
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jezrien hesitated , looking at the sword , then bowed his head and turned away .
+Jezrien	B-CHARACTER
+hesitated	O
+,	O
+looking	O
+at	O
+the	O
+sword	O
+,	O
+then	O
+bowed	O
+his	O
+head	O
+and	O
+turned	O
+away	O
+.	O
+
+# id = conivel-the-way-of-kings-000149
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As if ashamed .
+As	O
+if	O
+ashamed	O
+.	O
+
+# id = conivel-the-way-of-kings-000150
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We chose this burden willingly .
+``	O
+We	O
+chose	O
+this	O
+burden	O
+willingly	O
+.	O
+
+# id = conivel-the-way-of-kings-000151
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , we can choose to drop it if we wish . ''
+Well	O
+,	O
+we	O
+can	O
+choose	O
+to	O
+drop	O
+it	O
+if	O
+we	O
+wish	O
+.	O
+''	O
+
+# id = conivel-the-way-of-kings-000152
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What do we tell the people , Jezrien ? ''
+``	O
+What	O
+do	O
+we	O
+tell	O
+the	O
+people	O
+,	O
+Jezrien	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-the-way-of-kings-000153
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kalak asked .
+Kalak	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-the-way-of-kings-000154
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What will they say of this day ? ''
+``	O
+What	O
+will	O
+they	O
+say	O
+of	O
+this	O
+day	O
+?	O
+''	O
+
+# id = conivel-the-way-of-kings-000155
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's simple , ''
+``	O
+It	O
+'s	O
+simple	O
+,	O
+''	O
+
+# id = conivel-the-way-of-kings-000156
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jezrien said , walking away .
+Jezrien	B-CHARACTER
+said	O
+,	O
+walking	O
+away	O
+.	O
+
+# id = conivel-the-way-of-kings-000157
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We tell them that they finally won .
+``	O
+We	O
+tell	O
+them	O
+that	O
+they	O
+finally	O
+won	O
+.	O
+
+# id = conivel-the-way-of-kings-000158
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's an easy enough lie .
+It	O
+'s	O
+an	O
+easy	O
+enough	O
+lie	O
+.	O
+
+# id = conivel-the-way-of-kings-000159
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Who knows ?
+Who	O
+knows	O
+?	O
+
+# id = conivel-the-way-of-kings-000160
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Maybe it will turn out to be true . ''
+Maybe	O
+it	O
+will	O
+turn	O
+out	O
+to	O
+be	O
+true	O
+.	O
+''	O
+
+# id = conivel-the-way-of-kings-000161
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kalak watched Jezrien depart across the burned landscape .
+Kalak	B-CHARACTER
+watched	O
+Jezrien	B-CHARACTER
+depart	O
+across	O
+the	O
+burned	O
+landscape	O
+.	O
+
+# id = conivel-the-way-of-kings-000162
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Finally , he summoned his own Blade and slammed it into the stone beside the other eight .
+Finally	O
+,	O
+he	O
+summoned	O
+his	O
+own	O
+Blade	O
+and	O
+slammed	O
+it	O
+into	O
+the	O
+stone	O
+beside	O
+the	O
+other	O
+eight	O
+.	O
+
+# id = conivel-the-way-of-kings-000163
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He turned and walked in the direction opposite from Jezrien .
+He	O
+turned	O
+and	O
+walked	O
+in	O
+the	O
+direction	O
+opposite	O
+from	O
+Jezrien	B-CHARACTER
+.	O
+
+# id = conivel-the-way-of-kings-000164
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And yet , he could not help glancing back at the ring of swords and the single open spot .
+And	O
+yet	O
+,	O
+he	O
+could	O
+not	O
+help	O
+glancing	O
+back	O
+at	O
+the	O
+ring	O
+of	O
+swords	O
+and	O
+the	O
+single	O
+open	O
+spot	O
+.	O
+
+# id = conivel-the-way-of-kings-000165
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The place where the tenth sword should have gone .
+The	O
+place	O
+where	O
+the	O
+tenth	O
+sword	O
+should	O
+have	O
+gone	O
+.	O
+
+# id = conivel-the-way-of-kings-000166
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The one of them who was lost .
+The	O
+one	O
+of	O
+them	O
+who	O
+was	O
+lost	O
+.	O
+
+# id = conivel-the-way-of-kings-000167
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The one they had abandoned .
+The	O
+one	O
+they	O
+had	O
+abandoned	O
+.	O
+
+# id = conivel-the-way-of-kings-000168
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Forgive us , Kalak thought , then left .
+Forgive	O
+us	O
+,	O
+Kalak	B-CHARACTER
+thought	O
+,	O
+then	O
+left	O
+.	O
+
+# id = conivel-the-way-of-kings-000169
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Map of Alethkar and surroundings , created by His Majesty Gavilar Kholin 's royal surveyors , circa 1167 .
+Map	O
+of	O
+Alethkar	B-LOCATION
+and	O
+surroundings	O
+,	O
+created	O
+by	O
+His	O
+Majesty	B-CHARACTER
+Gavilar	I-CHARACTER
+Kholin	I-CHARACTER
+'s	O
+royal	O
+surveyors	O
+,	O
+circa	O
+1167	O
+.	O
+
+# id = conivel-the-way-of-kings-000170
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The love of men is a frigid thing , a mountain stream only three steps from the ice .
+``	O
+The	O
+love	O
+of	O
+men	O
+is	O
+a	O
+frigid	O
+thing	O
+,	O
+a	O
+mountain	O
+stream	O
+only	O
+three	O
+steps	O
+from	O
+the	O
+ice	O
+.	O
+
+# id = conivel-the-way-of-kings-000171
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We are his .
+We	O
+are	O
+his	O
+.	O
+
+# id = conivel-the-way-of-kings-000172
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Oh Stormfather ... we are his .
+Oh	O
+Stormfather	B-CHARACTER
+...	O
+we	O
+are	O
+his	O
+.	O
+
+# id = conivel-the-way-of-kings-000173
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It is but a thousand days , and the Everstorm comes . ''
+It	O
+is	O
+but	O
+a	O
+thousand	O
+days	O
+,	O
+and	O
+the	O
+Everstorm	O
+comes	O
+.	O
+''	O
+
+# id = conivel-the-way-of-kings-000174
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Collected on the first day of the week Palah of the month Shash of the year 1171 , thirty-one seconds before death .
+--	O
+Collected	O
+on	O
+the	O
+first	O
+day	O
+of	O
+the	O
+week	O
+Palah	O
+of	O
+the	O
+month	O
+Shash	O
+of	O
+the	O
+year	O
+1171	O
+,	O
+thirty-one	O
+seconds	O
+before	O
+death	O
+.	O
+
+# id = conivel-the-way-of-kings-000175
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Subject was a darkeyed pregnant woman of middle years .
+Subject	O
+was	O
+a	O
+darkeyed	O
+pregnant	O
+woman	O
+of	O
+middle	O
+years	O
+.	O
+
+# id = conivel-the-way-of-kings-000176
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The child did not survive .
+The	O
+child	O
+did	O
+not	O
+survive	O
+.	O
+
+# id = conivel-the-way-of-kings-000177
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Szeth-son-son-Vallano , Truthless of Shinovar , wore white on the day he was to kill a king .
+Szeth-son-son-Vallano	B-CHARACTER
+,	O
+Truthless	O
+of	O
+Shinovar	B-LOCATION
+,	O
+wore	O
+white	O
+on	O
+the	O
+day	O
+he	O
+was	O
+to	O
+kill	O
+a	O
+king	O
+.	O
+
+# id = conivel-the-way-of-kings-000178
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The white clothing was a Parshendi tradition , foreign to him .
+The	O
+white	O
+clothing	O
+was	O
+a	O
+Parshendi	O
+tradition	O
+,	O
+foreign	O
+to	O
+him	O
+.	O
+
+# id = conivel-the-way-of-kings-000179
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But he did as his masters required and did not ask for an explanation .
+But	O
+he	O
+did	O
+as	O
+his	O
+masters	O
+required	O
+and	O
+did	O
+not	O
+ask	O
+for	O
+an	O
+explanation	O
+.	O
+
+# id = conivel-the-way-of-kings-000180
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He sat in a large stone room , baked by enormous firepits that cast a garish light upon the revelers , causing beads of sweat to form on their skin as they danced , and drank , and yelled , and sang , and clapped .
+He	O
+sat	O
+in	O
+a	O
+large	O
+stone	O
+room	O
+,	O
+baked	O
+by	O
+enormous	O
+firepits	O
+that	O
+cast	O
+a	O
+garish	O
+light	O
+upon	O
+the	O
+revelers	O
+,	O
+causing	O
+beads	O
+of	O
+sweat	O
+to	O
+form	O
+on	O
+their	O
+skin	O
+as	O
+they	O
+danced	O
+,	O
+and	O
+drank	O
+,	O
+and	O
+yelled	O
+,	O
+and	O
+sang	O
+,	O
+and	O
+clapped	O
+.	O
+
+# id = conivel-the-way-of-kings-000181
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Some fell to the ground red-faced , the revelry too much for them , their stomachs proving to be inferior wineskins .
+Some	O
+fell	O
+to	O
+the	O
+ground	O
+red-faced	O
+,	O
+the	O
+revelry	O
+too	O
+much	O
+for	O
+them	O
+,	O
+their	O
+stomachs	O
+proving	O
+to	O
+be	O
+inferior	O
+wineskins	O
+.	O
+
+# id = conivel-the-way-of-kings-000182
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They looked as if they were dead , at least until their friends carried them out of the feast hall to waiting beds .
+They	O
+looked	O
+as	O
+if	O
+they	O
+were	O
+dead	O
+,	O
+at	O
+least	O
+until	O
+their	O
+friends	O
+carried	O
+them	O
+out	O
+of	O
+the	O
+feast	O
+hall	O
+to	O
+waiting	O
+beds	O
+.	O
+
+# id = conivel-the-way-of-kings-000183
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Szeth did not sway to the drums , drink the sapphire wine , or stand to dance .
+Szeth	B-CHARACTER
+did	O
+not	O
+sway	O
+to	O
+the	O
+drums	O
+,	O
+drink	O
+the	O
+sapphire	O
+wine	O
+,	O
+or	O
+stand	O
+to	O
+dance	O
+.	O
+
+# id = conivel-the-way-of-kings-000184
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He sat on a bench at the back , a still servant in white robes .
+He	O
+sat	O
+on	O
+a	O
+bench	O
+at	O
+the	O
+back	O
+,	O
+a	O
+still	O
+servant	O
+in	O
+white	O
+robes	O
+.	O
+
+# id = conivel-the-way-of-kings-000185
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Few at the treaty-signing celebration noticed him .
+Few	O
+at	O
+the	O
+treaty-signing	O
+celebration	O
+noticed	O
+him	O
+.	O
+
+# id = conivel-the-way-of-kings-000186
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was just a servant , and Shin were easy to ignore .
+He	O
+was	O
+just	O
+a	O
+servant	O
+,	O
+and	O
+Shin	B-CHARACTER
+were	O
+easy	O
+to	O
+ignore	O
+.	O
+
+# id = conivel-the-way-of-kings-000187
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Most out here in the East thought Szeth 's kind were docile and harmless .
+Most	O
+out	O
+here	O
+in	O
+the	O
+East	B-LOCATION
+thought	O
+Szeth	B-CHARACTER
+'s	O
+kind	O
+were	O
+docile	O
+and	O
+harmless	O
+.	O
+
+# id = conivel-the-way-of-kings-000188
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were generally right .
+They	O
+were	O
+generally	O
+right	O
+.	O
+
+# id = conivel-the-way-of-kings-000189
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The drummers began a new rhythm .
+The	O
+drummers	O
+began	O
+a	O
+new	O
+rhythm	O
+.	O
+
+# id = conivel-the-way-of-kings-000190
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The beats shook Szeth like a quartet of thumping hearts , pumping waves of invisible blood through the room .
+The	O
+beats	O
+shook	O
+Szeth	B-CHARACTER
+like	O
+a	O
+quartet	O
+of	O
+thumping	O
+hearts	O
+,	O
+pumping	O
+waves	O
+of	O
+invisible	O
+blood	O
+through	O
+the	O
+room	O
+.	O
+
+# id = conivel-the-way-of-kings-000191
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Szeth 's masters -- who were dismissed as savages by those in more civilized kingdoms -- sat at their own tables .
+Szeth	B-CHARACTER
+'s	O
+masters	O
+--	O
+who	O
+were	O
+dismissed	O
+as	O
+savages	O
+by	O
+those	O
+in	O
+more	O
+civilized	O
+kingdoms	O
+--	O
+sat	O
+at	O
+their	O
+own	O
+tables	O
+.	O
+
+# id = conivel-the-way-of-kings-000192
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were men with skin of black marbled with red .
+They	O
+were	O
+men	O
+with	O
+skin	O
+of	O
+black	O
+marbled	O
+with	O
+red	O
+.	O
+
+# id = conivel-the-way-of-kings-000193
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Parshendi , they were named -- cousins to the more docile servant peoples known as parshmen in most of the world .
+Parshendi	O
+,	O
+they	O
+were	O
+named	O
+--	O
+cousins	O
+to	O
+the	O
+more	O
+docile	O
+servant	O
+peoples	O
+known	O
+as	O
+parshmen	O
+in	O
+most	O
+of	O
+the	O
+world	O
+.	O
+
+# id = conivel-the-way-of-kings-000194
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = An oddity .
+An	O
+oddity	O
+.	O
+
+# id = conivel-the-way-of-kings-000195
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They did not call themselves Parshendi ; this was the Alethi name for them .
+They	O
+did	O
+not	O
+call	O
+themselves	O
+Parshendi	O
+;	O
+this	O
+was	O
+the	O
+Alethi	O
+name	O
+for	O
+them	O
+.	O
+
+# id = conivel-the-way-of-kings-000196
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It meant , roughly , `` parshmen who can think . ''
+It	O
+meant	O
+,	O
+roughly	O
+,	O
+``	O
+parshmen	O
+who	O
+can	O
+think	O
+.	O
+''	O
+
+# id = conivel-the-way-of-kings-000197
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Neither side seemed to see that as an insult .
+Neither	O
+side	O
+seemed	O
+to	O
+see	O
+that	O
+as	O
+an	O
+insult	O
+.	O
+
+# id = conivel-the-way-of-kings-000198
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Parshendi had brought the musicians .
+The	O
+Parshendi	O
+had	O
+brought	O
+the	O
+musicians	O
+.	O
+
+# id = conivel-the-way-of-kings-000199
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At first , the Alethi lighteyes had been hesitant .
+At	O
+first	O
+,	O
+the	O
+Alethi	O
+lighteyes	O
+had	O
+been	O
+hesitant	O
+.	O
+
+# id = conivel-the-way-of-kings-000200
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = To them , drums were base instruments of the common , darkeyed people .
+To	O
+them	O
+,	O
+drums	O
+were	O
+base	O
+instruments	O
+of	O
+the	O
+common	O
+,	O
+darkeyed	O
+people	O
+.	O
+
+# id = conivel-the-way-of-kings-000201
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But wine was the great assassin of both tradition and propriety , and now the Alethi elite danced with abandon .
+But	O
+wine	O
+was	O
+the	O
+great	O
+assassin	O
+of	O
+both	O
+tradition	O
+and	O
+propriety	O
+,	O
+and	O
+now	O
+the	O
+Alethi	O
+elite	O
+danced	O
+with	O
+abandon	O
+.	O
+
+# id = conivel-the-way-of-kings-000202
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Szeth stood and began to pick his way through the room .
+Szeth	B-CHARACTER
+stood	O
+and	O
+began	O
+to	O
+pick	O
+his	O
+way	O
+through	O
+the	O
+room	O
+.	O
+
+# id = conivel-the-way-of-kings-000203
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The revelry had lasted long ; even the king had retired hours ago .
+The	O
+revelry	O
+had	O
+lasted	O
+long	O
+;	O
+even	O
+the	O
+king	O
+had	O
+retired	O
+hours	O
+ago	O
+.	O
+
+# id = conivel-the-way-of-kings-000204
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But many still celebrated .
+But	O
+many	O
+still	O
+celebrated	O
+.	O
+
+# id = conivel-the-way-of-kings-000205
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As he walked , Szeth was forced to step around Dalinar Kholin -- the king 's own brother -- who slumped drunken at a small table .
+As	O
+he	O
+walked	O
+,	O
+Szeth	B-CHARACTER
+was	O
+forced	O
+to	O
+step	O
+around	O
+Dalinar	B-CHARACTER
+Kholin	I-CHARACTER
+--	O
+the	O
+king	O
+'s	O
+own	O
+brother	O
+--	O
+who	O
+slumped	O
+drunken	O
+at	O
+a	O
+small	O
+table	O
+.	O
+
+# id = conivel-the-way-of-kings-000206
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The aging but powerfully built man kept waving away those who tried to encourage him to bed .
+The	O
+aging	O
+but	O
+powerfully	O
+built	O
+man	O
+kept	O
+waving	O
+away	O
+those	O
+who	O
+tried	O
+to	O
+encourage	O
+him	O
+to	O
+bed	O
+.	O
+
+# id = conivel-the-way-of-kings-000207
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Where was Jasnah , the king 's daughter ?
+Where	O
+was	O
+Jasnah	B-CHARACTER
+,	O
+the	O
+king	O
+'s	O
+daughter	O
+?	O
+
+# id = conivel-the-way-of-kings-000208
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Elhokar , the king 's son and heir , sat at the high table , ruling the feast in his father 's absence .
+Elhokar	B-CHARACTER
+,	O
+the	O
+king	O
+'s	O
+son	O
+and	O
+heir	O
+,	O
+sat	O
+at	O
+the	O
+high	O
+table	O
+,	O
+ruling	O
+the	O
+feast	O
+in	O
+his	O
+father	O
+'s	O
+absence	O
+.	O
+
+# id = conivel-the-way-of-kings-000209
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was in conversation with two men , a dark-skinned Azish man who had an odd patch of pale skin on his cheek and a thinner , Alethi-looking man who kept glancing over his shoulder .
+He	O
+was	O
+in	O
+conversation	O
+with	O
+two	O
+men	O
+,	O
+a	O
+dark-skinned	O
+Azish	O
+man	O
+who	O
+had	O
+an	O
+odd	O
+patch	O
+of	O
+pale	O
+skin	O
+on	O
+his	O
+cheek	O
+and	O
+a	O
+thinner	O
+,	O
+Alethi-looking	O
+man	O
+who	O
+kept	O
+glancing	O
+over	O
+his	O
+shoulder	O
+.	O
+
+# id = conivel-the-way-of-kings-000210
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The heir 's feasting companions were unimportant .
+The	O
+heir	O
+'s	O
+feasting	O
+companions	O
+were	O
+unimportant	O
+.	O
+
+# id = conivel-the-way-of-kings-000211
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Szeth stayed far from the heir , skirting the sides of the room , passing the drummers .
+Szeth	B-CHARACTER
+stayed	O
+far	O
+from	O
+the	O
+heir	O
+,	O
+skirting	O
+the	O
+sides	O
+of	O
+the	O
+room	O
+,	O
+passing	O
+the	O
+drummers	O
+.	O
+
+# id = conivel-the-way-of-kings-000212
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Musicspren zipped through the air around them , the tiny spirits taking the form of spinning translucent ribbons .
+Musicspren	O
+zipped	O
+through	O
+the	O
+air	O
+around	O
+them	O
+,	O
+the	O
+tiny	O
+spirits	O
+taking	O
+the	O
+form	O
+of	O
+spinning	O
+translucent	O
+ribbons	O
+.	O
+
+# id = conivel-the-way-of-kings-000213
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As Szeth passed the drummers , they noted him .
+As	O
+Szeth	B-CHARACTER
+passed	O
+the	O
+drummers	O
+,	O
+they	O
+noted	O
+him	O
+.	O
+
+# id = conivel-the-way-of-kings-000214
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They would withdraw soon , along with all of the other Parshendi .
+They	O
+would	O
+withdraw	O
+soon	O
+,	O
+along	O
+with	O
+all	O
+of	O
+the	O
+other	O
+Parshendi	O
+.	O
+
+# id = conivel-the-way-of-kings-000215
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They did not seem offended .
+They	O
+did	O
+not	O
+seem	O
+offended	O
+.	O
+
+# id = conivel-the-way-of-kings-000216
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They did not seem angry .
+They	O
+did	O
+not	O
+seem	O
+angry	O
+.	O
+
+# id = conivel-the-way-of-kings-000217
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And yet they were going to break their treaty of only a few hours .
+And	O
+yet	O
+they	O
+were	O
+going	O
+to	O
+break	O
+their	O
+treaty	O
+of	O
+only	O
+a	O
+few	O
+hours	O
+.	O
+
+# id = conivel-the-way-of-kings-000218
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It made no sense .
+It	O
+made	O
+no	O
+sense	O
+.	O
+
+# id = conivel-the-way-of-kings-000219
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But Szeth did not ask questions .
+But	O
+Szeth	B-CHARACTER
+did	O
+not	O
+ask	O
+questions	O
+.	O
+
+# id = conivel-the-way-of-kings-000220
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At the edge of the room , he passed rows of unwavering azure lights that bulged out where wall met floor .
+At	O
+the	O
+edge	O
+of	O
+the	O
+room	O
+,	O
+he	O
+passed	O
+rows	O
+of	O
+unwavering	O
+azure	O
+lights	O
+that	O
+bulged	O
+out	O
+where	O
+wall	O
+met	O
+floor	O
+.	O
+
+# id = conivel-the-way-of-kings-000221
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They held sapphires infused with Stormlight .
+They	O
+held	O
+sapphires	O
+infused	O
+with	O
+Stormlight	O
+.	O
+
+# id = conivel-the-way-of-kings-000222
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Profane .
+Profane	O
+.	O
+
+# id = conivel-the-way-of-kings-000223
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How could the men of these lands use something so sacred for mere illumination ?
+How	O
+could	O
+the	O
+men	O
+of	O
+these	O
+lands	O
+use	O
+something	O
+so	O
+sacred	O
+for	O
+mere	O
+illumination	O
+?	O
+
+# id = conivel-the-way-of-kings-000224
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Worse , the Alethi scholars were said to be close to creating new Shardblades .
+Worse	O
+,	O
+the	O
+Alethi	O
+scholars	O
+were	O
+said	O
+to	O
+be	O
+close	O
+to	O
+creating	O
+new	O
+Shardblades	O
+.	O
+
+# id = conivel-the-way-of-kings-000225
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Szeth hoped that was just wishful boasting .
+Szeth	B-CHARACTER
+hoped	O
+that	O
+was	O
+just	O
+wishful	O
+boasting	O
+.	O
+
+# id = conivel-the-way-of-kings-000226
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For if it did happen , the world would be changed .
+For	O
+if	O
+it	O
+did	O
+happen	O
+,	O
+the	O
+world	O
+would	O
+be	O
+changed	O
+.	O
+
+# id = conivel-the-way-of-kings-000227
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Likely in a way that ended with people in all countries -- from distant Thaylenah to towering Jah Keved -- speaking Alethi to their children .
+Likely	O
+in	O
+a	O
+way	O
+that	O
+ended	O
+with	O
+people	O
+in	O
+all	O
+countries	O
+--	O
+from	O
+distant	O
+Thaylenah	B-LOCATION
+to	O
+towering	O
+Jah	B-LOCATION
+Keved	I-LOCATION
+--	O
+speaking	O
+Alethi	O
+to	O
+their	O
+children	O
+.	O
+
+# id = conivel-the-way-of-kings-000228
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were a grand people , these Alethi .
+They	O
+were	O
+a	O
+grand	O
+people	O
+,	O
+these	O
+Alethi	O
+.	O
+
+# id = conivel-the-way-of-kings-000229
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Even drunk , there was a natural nobility to them .
+Even	O
+drunk	O
+,	O
+there	O
+was	O
+a	O
+natural	O
+nobility	O
+to	O
+them	O
+.	O
+
+# id = conivel-the-way-of-kings-000230
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tall and well made , the men dressed in dark silk coats that buttoned down the sides of the chest and were elaborately embroidered in silver or gold .
+Tall	O
+and	O
+well	O
+made	O
+,	O
+the	O
+men	O
+dressed	O
+in	O
+dark	O
+silk	O
+coats	O
+that	O
+buttoned	O
+down	O
+the	O
+sides	O
+of	O
+the	O
+chest	O
+and	O
+were	O
+elaborately	O
+embroidered	O
+in	O
+silver	O
+or	O
+gold	O
+.	O
+
+# id = conivel-the-way-of-kings-000231
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Each one looked a general on the field .
+Each	O
+one	O
+looked	O
+a	O
+general	O
+on	O
+the	O
+field	O
+.	O
+
+# id = conivel-the-way-of-kings-000232
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The women were even more splendid .
+The	O
+women	O
+were	O
+even	O
+more	O
+splendid	O
+.	O
+
+# id = conivel-the-way-of-kings-000233
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They wore grand silk dresses , tightly fitted , the bright colors a contrast to the dark tones favored by the men .
+They	O
+wore	O
+grand	O
+silk	O
+dresses	O
+,	O
+tightly	O
+fitted	O
+,	O
+the	O
+bright	O
+colors	O
+a	O
+contrast	O
+to	O
+the	O
+dark	O
+tones	O
+favored	O
+by	O
+the	O
+men	O
+.	O
+
+# id = conivel-the-way-of-kings-000234
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The left sleeve of each dress was longer than the right one , covering the hand .
+The	O
+left	O
+sleeve	O
+of	O
+each	O
+dress	O
+was	O
+longer	O
+than	O
+the	O
+right	O
+one	O
+,	O
+covering	O
+the	O
+hand	O
+.	O
+
+# id = conivel-the-way-of-kings-000235
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Alethi had an odd sense of propriety .
+Alethi	O
+had	O
+an	O
+odd	O
+sense	O
+of	O
+propriety	O
+.	O
+
+# id = conivel-the-way-of-kings-000236
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Their pure black hair was pinned up atop their heads , either in intricate weavings of braids or in loose piles .
+Their	O
+pure	O
+black	O
+hair	O
+was	O
+pinned	O
+up	O
+atop	O
+their	O
+heads	O
+,	O
+either	O
+in	O
+intricate	O
+weavings	O
+of	O
+braids	O
+or	O
+in	O
+loose	O
+piles	O
+.	O
+
+# id = conivel-the-way-of-kings-000237
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was often woven with gold ribbons or ornaments , along with gems that glowed with Stormlight .
+It	O
+was	O
+often	O
+woven	O
+with	O
+gold	O
+ribbons	O
+or	O
+ornaments	O
+,	O
+along	O
+with	O
+gems	O
+that	O
+glowed	O
+with	O
+Stormlight	O
+.	O
+
+# id = conivel-the-way-of-kings-000238
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Beautiful .
+Beautiful	O
+.	O
+
+# id = conivel-the-way-of-kings-000239
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Profane , but beautiful .
+Profane	O
+,	O
+but	O
+beautiful	O
+.	O
+
+# id = conivel-the-way-of-kings-000240
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Szeth left the feasting chamber behind .
+Szeth	B-CHARACTER
+left	O
+the	O
+feasting	O
+chamber	O
+behind	O
+.	O
+
+# id = conivel-the-way-of-kings-000241
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Just outside , he passed the doorway into the Beggars ' Feast .
+Just	O
+outside	O
+,	O
+he	O
+passed	O
+the	O
+doorway	O
+into	O
+the	O
+Beggars	B-LOCATION
+'	I-LOCATION
+Feast	I-LOCATION
+.	O
+
+# id = conivel-the-way-of-kings-000242
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was an Alethi tradition , a room where some of the poorest men and women in the city were given a feast complementing that of the king and his guests .
+It	O
+was	O
+an	O
+Alethi	O
+tradition	O
+,	O
+a	O
+room	O
+where	O
+some	O
+of	O
+the	O
+poorest	O
+men	O
+and	O
+women	O
+in	O
+the	O
+city	O
+were	O
+given	O
+a	O
+feast	O
+complementing	O
+that	O
+of	O
+the	O
+king	O
+and	O
+his	O
+guests	O
+.	O
+
+# id = conivel-the-way-of-kings-000243
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A man with a long grey and black beard slumped in the doorway , smiling foolishly -- though whether from wine or a weak mind , Szeth could not tell .
+A	O
+man	O
+with	O
+a	O
+long	O
+grey	O
+and	O
+black	O
+beard	O
+slumped	O
+in	O
+the	O
+doorway	O
+,	O
+smiling	O
+foolishly	O
+--	O
+though	O
+whether	O
+from	O
+wine	O
+or	O
+a	O
+weak	O
+mind	O
+,	O
+Szeth	B-CHARACTER
+could	O
+not	O
+tell	O
+.	O
+
+# id = conivel-the-way-of-kings-000244
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Have you seen me ? ''
+``	O
+Have	O
+you	O
+seen	O
+me	O
+?	O
+''	O
+
+# id = conivel-the-way-of-kings-000245
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the man asked with slurred speech .
+the	O
+man	O
+asked	O
+with	O
+slurred	O
+speech	O
+.	O
+
+# id = conivel-the-way-of-kings-000246
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He laughed , then began to speak in gibberish , reaching for a wineskin .
+He	O
+laughed	O
+,	O
+then	O
+began	O
+to	O
+speak	O
+in	O
+gibberish	O
+,	O
+reaching	O
+for	O
+a	O
+wineskin	O
+.	O
+
+# id = conivel-the-way-of-kings-000247
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So it was drink after all .
+So	O
+it	O
+was	O
+drink	O
+after	O
+all	O
+.	O
+
+# id = conivel-the-way-of-kings-000248
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Szeth brushed by , continuing past a line of statues depicting the Ten Heralds from ancient Vorin theology .
+Szeth	B-CHARACTER
+brushed	O
+by	O
+,	O
+continuing	O
+past	O
+a	O
+line	O
+of	O
+statues	O
+depicting	O
+the	O
+Ten	O
+Heralds	O
+from	O
+ancient	O
+Vorin	O
+theology	O
+.	O
+
+# id = conivel-the-way-of-kings-000249
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jezerezeh , Ishi , Kelek , Talenelat .
+Jezerezeh	B-CHARACTER
+,	O
+Ishi	B-CHARACTER
+,	O
+Kelek	B-CHARACTER
+,	O
+Talenelat	B-CHARACTER
+.	O
+
+# id = conivel-the-way-of-kings-000250
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He counted off each one , and realized there were only nine here .
+He	O
+counted	O
+off	O
+each	O
+one	O
+,	O
+and	O
+realized	O
+there	O
+were	O
+only	O
+nine	O
+here	O
+.	O
+
+# id = conivel-the-way-of-kings-000251
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One was conspicuously missing .
+One	O
+was	O
+conspicuously	O
+missing	O
+.	O
+
+# id = conivel-the-way-of-kings-000252
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Why had Shalash 's statue been removed ?
+Why	O
+had	O
+Shalash	B-CHARACTER
+'s	O
+statue	O
+been	O
+removed	O
+?	O
+
+# id = conivel-the-way-of-kings-000253
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = King Gavilar was said to be very devout in his Vorin worship .
+King	B-CHARACTER
+Gavilar	I-CHARACTER
+was	O
+said	O
+to	O
+be	O
+very	O
+devout	O
+in	O
+his	O
+Vorin	O
+worship	O
+.	O
+
+# id = conivel-the-way-of-kings-000254
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Too devout , by some people 's standards .
+Too	O
+devout	O
+,	O
+by	O
+some	O
+people	O
+'s	O
+standards	O
+.	O
+
+# id = conivel-the-way-of-kings-000255
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The hallway here curved to the right , running around the perimeter of the domed palace .
+The	O
+hallway	O
+here	O
+curved	O
+to	O
+the	O
+right	O
+,	O
+running	O
+around	O
+the	O
+perimeter	O
+of	O
+the	O
+domed	O
+palace	O
+.	O
+
+# id = conivel-the-way-of-kings-000256
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were on the king 's floor , two levels up , surrounded by rock walls , ceiling , and floor .
+They	O
+were	O
+on	O
+the	O
+king	O
+'s	O
+floor	O
+,	O
+two	O
+levels	O
+up	O
+,	O
+surrounded	O
+by	O
+rock	O
+walls	O
+,	O
+ceiling	O
+,	O
+and	O
+floor	O
+.	O
+
+# id = conivel-the-way-of-kings-000257
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That was profane .
+That	O
+was	O
+profane	O
+.	O
+
+# id = conivel-the-way-of-kings-000258
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Stone was not to be trod upon .
+Stone	O
+was	O
+not	O
+to	O
+be	O
+trod	O
+upon	O
+.	O
+
+# id = conivel-the-way-of-kings-000259
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But what was he to do ?
+But	O
+what	O
+was	O
+he	O
+to	O
+do	O
+?	O
+
+# id = conivel-the-way-of-kings-000260
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was Truthless .
+He	O
+was	O
+Truthless	O
+.	O
+
+# id = conivel-the-way-of-kings-000261
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He did as his masters demanded .
+He	O
+did	O
+as	O
+his	O
+masters	O
+demanded	O
+.	O
+
+# id = conivel-the-way-of-kings-000262
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Today , that included wearing white .
+Today	O
+,	O
+that	O
+included	O
+wearing	O
+white	O
+.	O
+
+# id = conivel-the-way-of-kings-000263
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Loose white trousers tied at the waist with a rope , and over them a filmy shirt with long sleeves , open at the front .
+Loose	O
+white	O
+trousers	O
+tied	O
+at	O
+the	O
+waist	O
+with	O
+a	O
+rope	O
+,	O
+and	O
+over	O
+them	O
+a	O
+filmy	O
+shirt	O
+with	O
+long	O
+sleeves	O
+,	O
+open	O
+at	O
+the	O
+front	O
+.	O
+
+# id = conivel-the-way-of-kings-000264
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = White clothing for a killer was a tradition among the Parshendi .
+White	O
+clothing	O
+for	O
+a	O
+killer	O
+was	O
+a	O
+tradition	O
+among	O
+the	O
+Parshendi	O
+.	O
+
+# id = conivel-the-way-of-kings-000265
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Although Szeth had not asked , his masters had explained why .
+Although	O
+Szeth	B-CHARACTER
+had	O
+not	O
+asked	O
+,	O
+his	O
+masters	O
+had	O
+explained	O
+why	O
+.	O
+
+# id = conivel-the-way-of-kings-000266
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = White to be bold .
+White	O
+to	O
+be	O
+bold	O
+.	O
+
+# id = conivel-the-way-of-kings-000267
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = White to not blend into the night .
+White	O
+to	O
+not	O
+blend	O
+into	O
+the	O
+night	O
+.	O
+
+# id = conivel-the-way-of-kings-000268
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = White to give warning .
+White	O
+to	O
+give	O
+warning	O
+.	O
+
+# id = conivel-the-way-of-kings-000269
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For if you were going to assassinate a man , he was entitled to see you coming .
+For	O
+if	O
+you	O
+were	O
+going	O
+to	O
+assassinate	O
+a	O
+man	O
+,	O
+he	O
+was	O
+entitled	O
+to	O
+see	O
+you	O
+coming	O
+.	O
+
+# id = conivel-the-way-of-kings-000270
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Szeth turned right , taking the hallway directly toward the king 's chambers .
+Szeth	B-CHARACTER
+turned	O
+right	O
+,	O
+taking	O
+the	O
+hallway	O
+directly	O
+toward	O
+the	O
+king	O
+'s	O
+chambers	O
+.	O
+
+# id = conivel-the-way-of-kings-000271
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Torches burned on the walls , their light unsatisfying to him , a meal of thin broth after a long fast .
+Torches	O
+burned	O
+on	O
+the	O
+walls	O
+,	O
+their	O
+light	O
+unsatisfying	O
+to	O
+him	O
+,	O
+a	O
+meal	O
+of	O
+thin	O
+broth	O
+after	O
+a	O
+long	O
+fast	O
+.	O
+
+# id = conivel-the-way-of-kings-000272
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tiny flamespren danced around them , like insects made solely of congealed light .
+Tiny	O
+flamespren	O
+danced	O
+around	O
+them	O
+,	O
+like	O
+insects	O
+made	O
+solely	O
+of	O
+congealed	O
+light	O
+.	O
+
+# id = conivel-the-way-of-kings-000273
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The torches were useless to him .
+The	O
+torches	O
+were	O
+useless	O
+to	O
+him	O
+.	O
+
+# id = conivel-the-way-of-kings-000274
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He reached for his pouch and the spheres it contained , but then hesitated when he saw more of the blue lights ahead : a pair of Stormlight lamps hanging on the wall , brilliant sapphires glowing at their hearts .
+He	O
+reached	O
+for	O
+his	O
+pouch	O
+and	O
+the	O
+spheres	O
+it	O
+contained	O
+,	O
+but	O
+then	O
+hesitated	O
+when	O
+he	O
+saw	O
+more	O
+of	O
+the	O
+blue	O
+lights	O
+ahead	O
+:	O
+a	O
+pair	O
+of	O
+Stormlight	O
+lamps	O
+hanging	O
+on	O
+the	O
+wall	O
+,	O
+brilliant	O
+sapphires	O
+glowing	O
+at	O
+their	O
+hearts	O
+.	O
+
+# id = conivel-the-way-of-kings-000275
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Szeth walked up to one of these , holding out his hand to cup it around the glass-shrouded gemstone .
+Szeth	B-CHARACTER
+walked	O
+up	O
+to	O
+one	O
+of	O
+these	O
+,	O
+holding	O
+out	O
+his	O
+hand	O
+to	O
+cup	O
+it	O
+around	O
+the	O
+glass-shrouded	O
+gemstone	O
+.	O
+
+# id = conivel-the-way-of-kings-000276
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You there ! ''
+``	O
+You	O
+there	O
+!	O
+''	O
+
+# id = conivel-the-way-of-kings-000277
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = a voice called in Alethi .
+a	O
+voice	O
+called	O
+in	O
+Alethi	O
+.	O
+
+# id = conivel-the-way-of-kings-000278
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There were two guards at the intersection .
+There	O
+were	O
+two	O
+guards	O
+at	O
+the	O
+intersection	O
+.	O
+
+# id = conivel-the-way-of-kings-000279
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Double guard , for there were savages abroad in Kholinar this night .
+Double	O
+guard	O
+,	O
+for	O
+there	O
+were	O
+savages	O
+abroad	O
+in	O
+Kholinar	B-LOCATION
+this	O
+night	O
+.	O
+
+# id = conivel-the-way-of-kings-000280
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = True , those savages were supposed to be allies now .
+True	O
+,	O
+those	O
+savages	O
+were	O
+supposed	O
+to	O
+be	O
+allies	O
+now	O
+.	O
+
+# id = conivel-the-way-of-kings-000281
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But alliances could be shallow things indeed .
+But	O
+alliances	O
+could	O
+be	O
+shallow	O
+things	O
+indeed	O
+.	O
+
+# id = conivel-the-way-of-kings-000282
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This one would n't last the hour .
+This	O
+one	O
+would	O
+n't	O
+last	O
+the	O
+hour	O
+.	O
+
+# id = conivel-the-way-of-kings-000283
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Szeth looked as the two guards approached .
+Szeth	B-CHARACTER
+looked	O
+as	O
+the	O
+two	O
+guards	O
+approached	O
+.	O
+
+# id = conivel-the-way-of-kings-000284
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They carried spears ; they were n't lighteyes , and were therefore forbidden the sword .
+They	O
+carried	O
+spears	O
+;	O
+they	O
+were	O
+n't	O
+lighteyes	O
+,	O
+and	O
+were	O
+therefore	O
+forbidden	O
+the	O
+sword	O
+.	O
+
+# id = conivel-the-way-of-kings-000285
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Their painted red breastplates were ornate , however , as were their helms .
+Their	O
+painted	O
+red	O
+breastplates	O
+were	O
+ornate	O
+,	O
+however	O
+,	O
+as	O
+were	O
+their	O
+helms	O
+.	O
+
+# id = conivel-the-way-of-kings-000286
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They might be darkeyed , but they were high-ranking citizens with honored positions in the royal guard .
+They	O
+might	O
+be	O
+darkeyed	O
+,	O
+but	O
+they	O
+were	O
+high-ranking	O
+citizens	O
+with	O
+honored	O
+positions	O
+in	O
+the	O
+royal	O
+guard	O
+.	O
+
+# id = conivel-the-way-of-kings-000287
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Stopping a few feet away , the guard at the front gestured with his spear .
+Stopping	O
+a	O
+few	O
+feet	O
+away	O
+,	O
+the	O
+guard	O
+at	O
+the	O
+front	O
+gestured	O
+with	O
+his	O
+spear	O
+.	O
+
+# id = conivel-the-way-of-kings-000288
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Go on , now .
+``	O
+Go	O
+on	O
+,	O
+now	O
+.	O
+
+# id = conivel-the-way-of-kings-000289
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This is no place for you . ''
+This	O
+is	O
+no	O
+place	O
+for	O
+you	O
+.	O
+''	O
+
+# id = conivel-the-way-of-kings-000290
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had tan Alethi skin and a thin mustache that ran all the way around his mouth , becoming a beard at the bottom .
+He	O
+had	O
+tan	O
+Alethi	O
+skin	O
+and	O
+a	O
+thin	O
+mustache	O
+that	O
+ran	O
+all	O
+the	O
+way	O
+around	O
+his	O
+mouth	O
+,	O
+becoming	O
+a	O
+beard	O
+at	O
+the	O
+bottom	O
+.	O
+
+# id = conivel-the-way-of-kings-000291
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Szeth did n't move .
+Szeth	B-CHARACTER
+did	O
+n't	O
+move	O
+.	O
+
+# id = conivel-the-way-of-kings-000292
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well ? ''
+``	O
+Well	O
+?	O
+''	O
+
+# id = conivel-the-way-of-kings-000293
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the guard said .
+the	O
+guard	O
+said	O
+.	O
+
+# id = conivel-the-way-of-kings-000294
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What are you waiting for ? ''
+``	O
+What	O
+are	O
+you	O
+waiting	O
+for	O
+?	O
+''	O
+
+# id = conivel-the-way-of-kings-000295
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Szeth breathed in deeply , drawing forth the Stormlight .
+Szeth	B-CHARACTER
+breathed	O
+in	O
+deeply	O
+,	O
+drawing	O
+forth	O
+the	O
+Stormlight	O
+.	O
+
+# id = conivel-the-way-of-kings-000296
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It streamed into him , siphoned from the twin sapphire lamps on the walls , sucked in as if by his deep inhalation .
+It	O
+streamed	O
+into	O
+him	O
+,	O
+siphoned	O
+from	O
+the	O
+twin	O
+sapphire	O
+lamps	O
+on	O
+the	O
+walls	O
+,	O
+sucked	O
+in	O
+as	O
+if	O
+by	O
+his	O
+deep	O
+inhalation	O
+.	O
+
+# id = conivel-the-way-of-kings-000297
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Stormlight raged inside of him , and the hallway suddenly grew darker , falling into shade like a hilltop cut off from the sun by a transient cloud .
+The	O
+Stormlight	O
+raged	O
+inside	O
+of	O
+him	O
+,	O
+and	O
+the	O
+hallway	O
+suddenly	O
+grew	O
+darker	O
+,	O
+falling	O
+into	O
+shade	O
+like	O
+a	O
+hilltop	O
+cut	O
+off	O
+from	O
+the	O
+sun	O
+by	O
+a	O
+transient	O
+cloud	O
+.	O
+
+# id = conivel-the-way-of-kings-000298
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Szeth could feel the Light 's warmth , its fury , like a tempest that had been injected directly into his veins .
+Szeth	B-CHARACTER
+could	O
+feel	O
+the	O
+Light	O
+'s	O
+warmth	O
+,	O
+its	O
+fury	O
+,	O
+like	O
+a	O
+tempest	O
+that	O
+had	O
+been	O
+injected	O
+directly	O
+into	O
+his	O
+veins	O
+.	O
+
+# id = conivel-the-way-of-kings-000299
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The power of it was invigorating but dangerous .
+The	O
+power	O
+of	O
+it	O
+was	O
+invigorating	O
+but	O
+dangerous	O
+.	O
+
+# id = conivel-the-way-of-kings-000300
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It pushed him to act .
+It	O
+pushed	O
+him	O
+to	O
+act	O
+.	O
+
+# id = conivel-the-way-of-kings-000301
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = To move .
+To	O
+move	O
+.	O
+
+# id = conivel-the-way-of-kings-000302
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = To strike .
+To	O
+strike	O
+.	O
+
+# id = conivel-the-way-of-kings-000303
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Holding his breath , he clung to the Stormlight .
+Holding	O
+his	O
+breath	O
+,	O
+he	O
+clung	O
+to	O
+the	O
+Stormlight	O
+.	O
+
+# id = conivel-the-way-of-kings-000304
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He could still feel it leaking out .
+He	O
+could	O
+still	O
+feel	O
+it	O
+leaking	O
+out	O
+.	O
+
+# id = conivel-the-way-of-kings-000305
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Stormlight could be held for only a short time , a few minutes at most .
+Stormlight	O
+could	O
+be	O
+held	O
+for	O
+only	O
+a	O
+short	O
+time	O
+,	O
+a	O
+few	O
+minutes	O
+at	O
+most	O
+.	O
+
+# id = conivel-the-way-of-kings-000306
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It leaked away , the human body too porous a container .
+It	O
+leaked	O
+away	O
+,	O
+the	O
+human	O
+body	O
+too	O
+porous	O
+a	O
+container	O
+.	O
+
+# id = conivel-the-way-of-kings-000307
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had heard that the Voidbringers could hold it in perfectly .
+He	O
+had	O
+heard	O
+that	O
+the	O
+Voidbringers	O
+could	O
+hold	O
+it	O
+in	O
+perfectly	O
+.	O
+
+# id = conivel-the-way-of-kings-000308
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But , then , did they even exist ?
+But	O
+,	O
+then	O
+,	O
+did	O
+they	O
+even	O
+exist	O
+?	O
+
+# id = conivel-the-way-of-kings-000309
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His punishment declared that they did n't .
+His	O
+punishment	O
+declared	O
+that	O
+they	O
+did	O
+n't	O
+.	O
+
+# id = conivel-the-way-of-kings-000310
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His honor demanded that they did .
+His	O
+honor	O
+demanded	O
+that	O
+they	O
+did	O
+.	O
+
+# id = conivel-the-way-of-kings-000311
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Afire with holy energy , Szeth turned to the guards .
+Afire	O
+with	O
+holy	O
+energy	O
+,	O
+Szeth	B-CHARACTER
+turned	O
+to	O
+the	O
+guards	O
+.	O
+
+# id = conivel-the-way-of-kings-000312
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They could see that he was leaking Stormlight , wisps of it curling from his skin like luminescent smoke .
+They	O
+could	O
+see	O
+that	O
+he	O
+was	O
+leaking	O
+Stormlight	O
+,	O
+wisps	O
+of	O
+it	O
+curling	O
+from	O
+his	O
+skin	O
+like	O
+luminescent	O
+smoke	O
+.	O
+
+# id = conivel-the-way-of-kings-000313
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The lead guard squinted , frowning .
+The	O
+lead	O
+guard	O
+squinted	O
+,	O
+frowning	O
+.	O
+
+# id = conivel-the-way-of-kings-000314
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Szeth was sure the man had never seen anything like it before .
+Szeth	B-CHARACTER
+was	O
+sure	O
+the	O
+man	O
+had	O
+never	O
+seen	O
+anything	O
+like	O
+it	O
+before	O
+.	O
+
+# id = conivel-the-way-of-kings-000315
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As far as he knew , Szeth had killed every stonewalker who had ever seen what he could do .
+As	O
+far	O
+as	O
+he	O
+knew	O
+,	O
+Szeth	B-CHARACTER
+had	O
+killed	O
+every	O
+stonewalker	O
+who	O
+had	O
+ever	O
+seen	O
+what	O
+he	O
+could	O
+do	O
+.	O
+
+# id = conivel-the-way-of-kings-000316
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What ... what are you ? ''
+``	O
+What	O
+...	O
+what	O
+are	O
+you	O
+?	O
+''	O
+
+# id = conivel-the-way-of-kings-000317
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The guard 's voice had lost its certainty .
+The	O
+guard	O
+'s	O
+voice	O
+had	O
+lost	O
+its	O
+certainty	O
+.	O
+
+# id = conivel-the-way-of-kings-000318
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Spirit or man ? ''
+``	O
+Spirit	O
+or	O
+man	O
+?	O
+''	O
+
+# id = conivel-the-way-of-kings-000319
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What am I ? ''
+``	O
+What	O
+am	O
+I	O
+?	O
+''	O
+
+# id = conivel-the-way-of-kings-000320
+# source = Conivel corrected OWTO literary NER
+# book = The Way of Kings
+# source_file = TheWayOfKings.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Szeth whispered , a bit of Light leaking from his lips as he looked past the man down the long hallway .
+Szeth	B-CHARACTER
+whispered	O
+,	O
+a	O
+bit	O
+of	O
+Light	O
+leaking	O
+from	O
+his	O
+lips	O
+as	O
+he	O
+looked	O
+past	O
+the	O
+man	O
+down	O
+the	O
+long	O
+hallway	O
+.	O
+

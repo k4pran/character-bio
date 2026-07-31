@@ -1,0 +1,4734 @@
+# id = conivel-storm-front-000001
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He did n't sound right .
+He	O
+did	O
+n't	O
+sound	O
+right	O
+.	O
+
+# id = conivel-storm-front-000002
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His footsteps fell more heavily , jauntily , and he whistled .
+His	O
+footsteps	O
+fell	O
+more	O
+heavily	O
+,	O
+jauntily	O
+,	O
+and	O
+he	O
+whistled	O
+.	O
+
+# id = conivel-storm-front-000003
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A new guy .
+A	O
+new	O
+guy	O
+.	O
+
+# id = conivel-storm-front-000004
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He whistled his way to my office door , then fell silent for a moment .
+He	O
+whistled	O
+his	O
+way	O
+to	O
+my	O
+office	O
+door	O
+,	O
+then	O
+fell	O
+silent	O
+for	O
+a	O
+moment	O
+.	O
+
+# id = conivel-storm-front-000005
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then he laughed .
+Then	O
+he	O
+laughed	O
+.	O
+
+# id = conivel-storm-front-000006
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then he knocked .
+Then	O
+he	O
+knocked	O
+.	O
+
+# id = conivel-storm-front-000007
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I winced .
+I	O
+winced	O
+.	O
+
+# id = conivel-storm-front-000008
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My mail comes through the mail slot unless it 's registered .
+My	O
+mail	O
+comes	O
+through	O
+the	O
+mail	O
+slot	O
+unless	O
+it	O
+'s	O
+registered	O
+.	O
+
+# id = conivel-storm-front-000009
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I get a really limited selection of registered mail , and it 's never good news .
+I	O
+get	O
+a	O
+really	O
+limited	O
+selection	O
+of	O
+registered	O
+mail	O
+,	O
+and	O
+it	O
+'s	O
+never	O
+good	O
+news	O
+.	O
+
+# id = conivel-storm-front-000010
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I got up out of my office chair and opened the door .
+I	O
+got	O
+up	O
+out	O
+of	O
+my	O
+office	O
+chair	O
+and	O
+opened	O
+the	O
+door	O
+.	O
+
+# id = conivel-storm-front-000011
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The new mailman , who looked like a basketball with arms and legs and a sunburned , balding head , was chuckling at the sign on the door glass .
+The	O
+new	O
+mailman	O
+,	O
+who	O
+looked	O
+like	O
+a	O
+basketball	O
+with	O
+arms	O
+and	O
+legs	O
+and	O
+a	O
+sunburned	O
+,	O
+balding	O
+head	O
+,	O
+was	O
+chuckling	O
+at	O
+the	O
+sign	O
+on	O
+the	O
+door	O
+glass	O
+.	O
+
+# id = conivel-storm-front-000012
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He glanced at me and hooked a thumb toward the sign .
+He	O
+glanced	O
+at	O
+me	O
+and	O
+hooked	O
+a	O
+thumb	O
+toward	O
+the	O
+sign	O
+.	O
+
+# id = conivel-storm-front-000013
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 're kidding , right ? ''
+``	O
+You	O
+'re	O
+kidding	O
+,	O
+right	O
+?	O
+''	O
+
+# id = conivel-storm-front-000014
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I read the sign ( people change it occasionally ) , and shook my head .
+I	O
+read	O
+the	O
+sign	O
+(	O
+people	O
+change	O
+it	O
+occasionally	O
+)	O
+,	O
+and	O
+shook	O
+my	O
+head	O
+.	O
+
+# id = conivel-storm-front-000015
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , I 'm serious .
+``	O
+No	O
+,	O
+I	O
+'m	O
+serious	O
+.	O
+
+# id = conivel-storm-front-000016
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Can I have my mail , please . ''
+Can	O
+I	O
+have	O
+my	O
+mail	O
+,	O
+please	O
+.	O
+''	O
+
+# id = conivel-storm-front-000017
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` So , uh .
+``	O
+So	O
+,	O
+uh	O
+.	O
+
+# id = conivel-storm-front-000018
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Like parties , shows , stuff like that ? ''
+Like	O
+parties	O
+,	O
+shows	O
+,	O
+stuff	O
+like	O
+that	O
+?	O
+''	O
+
+# id = conivel-storm-front-000019
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He looked past me , as though he expected to see a white tiger , or possibly some skimpily clad assistants prancing around my one-room office .
+He	O
+looked	O
+past	O
+me	O
+,	O
+as	O
+though	O
+he	O
+expected	O
+to	O
+see	O
+a	O
+white	O
+tiger	O
+,	O
+or	O
+possibly	O
+some	O
+skimpily	O
+clad	O
+assistants	O
+prancing	O
+around	O
+my	O
+one-room	O
+office	O
+.	O
+
+# id = conivel-storm-front-000020
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I sighed , not in the mood to get mocked again , and reached for the mail he held in his hand .
+I	O
+sighed	O
+,	O
+not	O
+in	O
+the	O
+mood	O
+to	O
+get	O
+mocked	O
+again	O
+,	O
+and	O
+reached	O
+for	O
+the	O
+mail	O
+he	O
+held	O
+in	O
+his	O
+hand	O
+.	O
+
+# id = conivel-storm-front-000021
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , not like that .
+``	O
+No	O
+,	O
+not	O
+like	O
+that	O
+.	O
+
+# id = conivel-storm-front-000022
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I do n't do parties . ''
+I	O
+do	O
+n't	O
+do	O
+parties	O
+.	O
+''	O
+
+# id = conivel-storm-front-000023
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He held on to it , his head tilted curiously .
+He	O
+held	O
+on	O
+to	O
+it	O
+,	O
+his	O
+head	O
+tilted	O
+curiously	O
+.	O
+
+# id = conivel-storm-front-000024
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` So what ?
+``	O
+So	O
+what	O
+?	O
+
+# id = conivel-storm-front-000025
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Some kinda fortune-teller ?
+Some	O
+kinda	O
+fortune-teller	O
+?	O
+
+# id = conivel-storm-front-000026
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cards and crystal balls and things ? ''
+Cards	O
+and	O
+crystal	O
+balls	O
+and	O
+things	O
+?	O
+''	O
+
+# id = conivel-storm-front-000027
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , ''
+``	O
+No	O
+,	O
+''	O
+
+# id = conivel-storm-front-000028
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I told him .
+I	O
+told	O
+him	O
+.	O
+
+# id = conivel-storm-front-000029
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm not a psychic . ''
+``	O
+I	O
+'m	O
+not	O
+a	O
+psychic	O
+.	O
+''	O
+
+# id = conivel-storm-front-000030
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I tugged at the mail .
+I	O
+tugged	O
+at	O
+the	O
+mail	O
+.	O
+
+# id = conivel-storm-front-000031
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He held on to it .
+He	O
+held	O
+on	O
+to	O
+it	O
+.	O
+
+# id = conivel-storm-front-000032
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What are you , then ? ''
+``	O
+What	O
+are	O
+you	O
+,	O
+then	O
+?	O
+''	O
+
+# id = conivel-storm-front-000033
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What 's the sign on the door say ? ''
+``	O
+What	O
+'s	O
+the	O
+sign	O
+on	O
+the	O
+door	O
+say	O
+?	O
+''	O
+
+# id = conivel-storm-front-000034
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It says ` Harry Dresden .
+``	O
+It	O
+says	O
+`	O
+Harry	B-CHARACTER
+Dresden	I-CHARACTER
+.	O
+
+# id = conivel-storm-front-000035
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Wizard .
+Wizard	O
+.	O
+
+# id = conivel-storm-front-000036
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' ''
+'	O
+''	O
+
+# id = conivel-storm-front-000037
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That 's me , ''
+``	O
+That	O
+'s	O
+me	O
+,	O
+''	O
+
+# id = conivel-storm-front-000038
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I confirmed .
+I	O
+confirmed	O
+.	O
+
+# id = conivel-storm-front-000039
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` An actual wizard ? ''
+``	O
+An	O
+actual	O
+wizard	O
+?	O
+''	O
+
+# id = conivel-storm-front-000040
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he asked , grinning , as though I should let him in on the joke .
+he	O
+asked	O
+,	O
+grinning	O
+,	O
+as	O
+though	O
+I	O
+should	O
+let	O
+him	O
+in	O
+on	O
+the	O
+joke	O
+.	O
+
+# id = conivel-storm-front-000041
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Spells and potions ?
+``	O
+Spells	O
+and	O
+potions	O
+?	O
+
+# id = conivel-storm-front-000042
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Demons and incantations ?
+Demons	O
+and	O
+incantations	O
+?	O
+
+# id = conivel-storm-front-000043
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Subtle and quick to anger ? ''
+Subtle	O
+and	O
+quick	O
+to	O
+anger	O
+?	O
+''	O
+
+# id = conivel-storm-front-000044
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Not so subtle . ''
+``	O
+Not	O
+so	O
+subtle	O
+.	O
+''	O
+
+# id = conivel-storm-front-000045
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I jerked the mail out of his hand and looked pointedly at his clipboard .
+I	O
+jerked	O
+the	O
+mail	O
+out	O
+of	O
+his	O
+hand	O
+and	O
+looked	O
+pointedly	O
+at	O
+his	O
+clipboard	O
+.	O
+
+# id = conivel-storm-front-000046
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Can I sign for my mail please . ''
+``	O
+Can	O
+I	O
+sign	O
+for	O
+my	O
+mail	O
+please	O
+.	O
+''	O
+
+# id = conivel-storm-front-000047
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The new mailman 's grin vanished , replaced with a scowl .
+The	O
+new	O
+mailman	O
+'s	O
+grin	O
+vanished	O
+,	O
+replaced	O
+with	O
+a	O
+scowl	O
+.	O
+
+# id = conivel-storm-front-000048
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He passed over the clipboard to let me sign for the mail ( another late notice from my landlord ) , and said , `` You 're a nut .
+He	O
+passed	O
+over	O
+the	O
+clipboard	O
+to	O
+let	O
+me	O
+sign	O
+for	O
+the	O
+mail	O
+(	O
+another	O
+late	O
+notice	O
+from	O
+my	O
+landlord	O
+)	O
+,	O
+and	O
+said	O
+,	O
+``	O
+You	O
+'re	O
+a	O
+nut	O
+.	O
+
+# id = conivel-storm-front-000049
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That 's what you are . ''
+That	O
+'s	O
+what	O
+you	O
+are	O
+.	O
+''	O
+
+# id = conivel-storm-front-000050
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He took his clipboard back , and said , `` You have a nice day , sir . ''
+He	O
+took	O
+his	O
+clipboard	O
+back	O
+,	O
+and	O
+said	O
+,	O
+``	O
+You	O
+have	O
+a	O
+nice	O
+day	O
+,	O
+sir	O
+.	O
+''	O
+
+# id = conivel-storm-front-000051
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I watched him go .
+I	O
+watched	O
+him	O
+go	O
+.	O
+
+# id = conivel-storm-front-000052
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Typical , ''
+``	O
+Typical	O
+,	O
+''	O
+
+# id = conivel-storm-front-000053
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I muttered , and shut the door .
+I	O
+muttered	O
+,	O
+and	O
+shut	O
+the	O
+door	O
+.	O
+
+# id = conivel-storm-front-000054
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My name is Harry Blackstone Copperfield Dresden .
+My	O
+name	O
+is	O
+Harry	B-CHARACTER
+Blackstone	I-CHARACTER
+Copperfield	I-CHARACTER
+Dresden	I-CHARACTER
+.	O
+
+# id = conivel-storm-front-000055
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Conjure by it at your own risk .
+Conjure	O
+by	O
+it	O
+at	O
+your	O
+own	O
+risk	O
+.	O
+
+# id = conivel-storm-front-000056
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'm a wizard .
+I	O
+'m	O
+a	O
+wizard	O
+.	O
+
+# id = conivel-storm-front-000057
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I work out of an office in midtown Chicago .
+I	O
+work	O
+out	O
+of	O
+an	O
+office	O
+in	O
+midtown	O
+Chicago	B-LOCATION
+.	O
+
+# id = conivel-storm-front-000058
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As far as I know , I 'm the only openly practicing professional wizard in the country .
+As	O
+far	O
+as	O
+I	O
+know	O
+,	O
+I	O
+'m	O
+the	O
+only	O
+openly	O
+practicing	O
+professional	O
+wizard	O
+in	O
+the	O
+country	O
+.	O
+
+# id = conivel-storm-front-000059
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You can find me in the yellow pages , under ` Wizards .
+You	O
+can	O
+find	O
+me	O
+in	O
+the	O
+yellow	O
+pages	O
+,	O
+under	O
+`	O
+Wizards	O
+.	O
+
+# id = conivel-storm-front-000060
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' Believe it or not , I 'm the only one there .
+'	O
+Believe	O
+it	O
+or	O
+not	O
+,	O
+I	O
+'m	O
+the	O
+only	O
+one	O
+there	O
+.	O
+
+# id = conivel-storm-front-000061
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My ad looks like this : HARRY DRESDEN - WIZARD Lost Items Found .
+My	O
+ad	O
+looks	O
+like	O
+this	O
+:	O
+HARRY	B-CHARACTER
+DRESDEN	I-CHARACTER
+-	O
+WIZARD	O
+Lost	O
+Items	O
+Found	O
+.	O
+
+# id = conivel-storm-front-000062
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Paranormal Investigations .
+Paranormal	O
+Investigations	O
+.	O
+
+# id = conivel-storm-front-000063
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Consulting .
+Consulting	O
+.	O
+
+# id = conivel-storm-front-000064
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Advice .
+Advice	O
+.	O
+
+# id = conivel-storm-front-000065
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Reasonable Rates .
+Reasonable	O
+Rates	O
+.	O
+
+# id = conivel-storm-front-000066
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No Love Potions , Endless Purses , Parties , or Other Entertainment You 'd be surprised how many people call just to ask me if I 'm serious .
+No	O
+Love	O
+Potions	O
+,	O
+Endless	O
+Purses	O
+,	O
+Parties	O
+,	O
+or	O
+Other	O
+Entertainment	O
+You	O
+'d	O
+be	O
+surprised	O
+how	O
+many	O
+people	O
+call	O
+just	O
+to	O
+ask	O
+me	O
+if	O
+I	O
+'m	O
+serious	O
+.	O
+
+# id = conivel-storm-front-000067
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But then , if you 'd seen the things I 'd seen , if you knew half of what I knew , you 'd wonder how anyone could not think I was serious .
+But	O
+then	O
+,	O
+if	O
+you	O
+'d	O
+seen	O
+the	O
+things	O
+I	O
+'d	O
+seen	O
+,	O
+if	O
+you	O
+knew	O
+half	O
+of	O
+what	O
+I	O
+knew	O
+,	O
+you	O
+'d	O
+wonder	O
+how	O
+anyone	O
+could	O
+not	O
+think	O
+I	O
+was	O
+serious	O
+.	O
+
+# id = conivel-storm-front-000068
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The end of the twentieth century and the dawn of the new millennium had seen something of a renaissance in the public awareness of the paranormal .
+The	O
+end	O
+of	O
+the	O
+twentieth	O
+century	O
+and	O
+the	O
+dawn	O
+of	O
+the	O
+new	O
+millennium	O
+had	O
+seen	O
+something	O
+of	O
+a	O
+renaissance	O
+in	O
+the	O
+public	O
+awareness	O
+of	O
+the	O
+paranormal	O
+.	O
+
+# id = conivel-storm-front-000069
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Psychics , haunts , vampires-you name it .
+Psychics	O
+,	O
+haunts	O
+,	O
+vampires-you	O
+name	O
+it	O
+.	O
+
+# id = conivel-storm-front-000070
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = People still did n't take them seriously , but all the things Science had promised us had n't come to pass .
+People	O
+still	O
+did	O
+n't	O
+take	O
+them	O
+seriously	O
+,	O
+but	O
+all	O
+the	O
+things	O
+Science	O
+had	O
+promised	O
+us	O
+had	O
+n't	O
+come	O
+to	O
+pass	O
+.	O
+
+# id = conivel-storm-front-000071
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Disease was still a problem .
+Disease	O
+was	O
+still	O
+a	O
+problem	O
+.	O
+
+# id = conivel-storm-front-000072
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Starvation was still a problem .
+Starvation	O
+was	O
+still	O
+a	O
+problem	O
+.	O
+
+# id = conivel-storm-front-000073
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Violence and crime and war were still problems .
+Violence	O
+and	O
+crime	O
+and	O
+war	O
+were	O
+still	O
+problems	O
+.	O
+
+# id = conivel-storm-front-000074
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In spite of the advance of technology , things just had n't changed the way everyone had hoped and thought they would .
+In	O
+spite	O
+of	O
+the	O
+advance	O
+of	O
+technology	O
+,	O
+things	O
+just	O
+had	O
+n't	O
+changed	O
+the	O
+way	O
+everyone	O
+had	O
+hoped	O
+and	O
+thought	O
+they	O
+would	O
+.	O
+
+# id = conivel-storm-front-000075
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Science , the largest religion of the twentieth century , had become somewhat tarnished by images of exploding space shuttles , crack babies , and a generation of complacent Americans who had allowed the television to raise their children .
+Science	O
+,	O
+the	O
+largest	O
+religion	O
+of	O
+the	O
+twentieth	O
+century	O
+,	O
+had	O
+become	O
+somewhat	O
+tarnished	O
+by	O
+images	O
+of	O
+exploding	O
+space	O
+shuttles	O
+,	O
+crack	O
+babies	O
+,	O
+and	O
+a	O
+generation	O
+of	O
+complacent	O
+Americans	O
+who	O
+had	O
+allowed	O
+the	O
+television	O
+to	O
+raise	O
+their	O
+children	O
+.	O
+
+# id = conivel-storm-front-000076
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = People were looking for something-I think they just did n't know what .
+People	O
+were	O
+looking	O
+for	O
+something-I	O
+think	O
+they	O
+just	O
+did	O
+n't	O
+know	O
+what	O
+.	O
+
+# id = conivel-storm-front-000077
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And even though they were once again starting to open their eyes to the world of magic and the arcane that had been with them all the while , they still thought I must be some kind of joke .
+And	O
+even	O
+though	O
+they	O
+were	O
+once	O
+again	O
+starting	O
+to	O
+open	O
+their	O
+eyes	O
+to	O
+the	O
+world	O
+of	O
+magic	O
+and	O
+the	O
+arcane	O
+that	O
+had	O
+been	O
+with	O
+them	O
+all	O
+the	O
+while	O
+,	O
+they	O
+still	O
+thought	O
+I	O
+must	O
+be	O
+some	O
+kind	O
+of	O
+joke	O
+.	O
+
+# id = conivel-storm-front-000078
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Anyway , it had been a slow month .
+Anyway	O
+,	O
+it	O
+had	O
+been	O
+a	O
+slow	O
+month	O
+.	O
+
+# id = conivel-storm-front-000079
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A slow pair of months , actually .
+A	O
+slow	O
+pair	O
+of	O
+months	O
+,	O
+actually	O
+.	O
+
+# id = conivel-storm-front-000080
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My rent from February did n't get paid until the tenth of March , and it was looking like it might be even longer until I got caught up for this month .
+My	O
+rent	O
+from	O
+February	O
+did	O
+n't	O
+get	O
+paid	O
+until	O
+the	O
+tenth	O
+of	O
+March	O
+,	O
+and	O
+it	O
+was	O
+looking	O
+like	O
+it	O
+might	O
+be	O
+even	O
+longer	O
+until	O
+I	O
+got	O
+caught	O
+up	O
+for	O
+this	O
+month	O
+.	O
+
+# id = conivel-storm-front-000081
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My only job had been the previous week , when I 'd gone down to Branson , Missouri , to investigate a country singer 's possibly haunted house .
+My	O
+only	O
+job	O
+had	O
+been	O
+the	O
+previous	O
+week	O
+,	O
+when	O
+I	O
+'d	O
+gone	O
+down	O
+to	O
+Branson	B-LOCATION
+,	O
+Missouri	B-LOCATION
+,	O
+to	O
+investigate	O
+a	O
+country	O
+singer	O
+'s	O
+possibly	O
+haunted	O
+house	O
+.	O
+
+# id = conivel-storm-front-000082
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It had n't been .
+It	O
+had	O
+n't	O
+been	O
+.	O
+
+# id = conivel-storm-front-000083
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My client had n't been happy with that answer , and had been even less happy when I suggested he lay off of any intoxicating substances and try to get some exercise and sleep , and see if that did n't help things more than an exorcism .
+My	O
+client	O
+had	O
+n't	O
+been	O
+happy	O
+with	O
+that	O
+answer	O
+,	O
+and	O
+had	O
+been	O
+even	O
+less	O
+happy	O
+when	O
+I	O
+suggested	O
+he	O
+lay	O
+off	O
+of	O
+any	O
+intoxicating	O
+substances	O
+and	O
+try	O
+to	O
+get	O
+some	O
+exercise	O
+and	O
+sleep	O
+,	O
+and	O
+see	O
+if	O
+that	O
+did	O
+n't	O
+help	O
+things	O
+more	O
+than	O
+an	O
+exorcism	O
+.	O
+
+# id = conivel-storm-front-000084
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'd gotten travel expenses plus an hour 's pay , and gone away feeling I had done the honest , righteous , and impractical thing .
+I	O
+'d	O
+gotten	O
+travel	O
+expenses	O
+plus	O
+an	O
+hour	O
+'s	O
+pay	O
+,	O
+and	O
+gone	O
+away	O
+feeling	O
+I	O
+had	O
+done	O
+the	O
+honest	O
+,	O
+righteous	O
+,	O
+and	O
+impractical	O
+thing	O
+.	O
+
+# id = conivel-storm-front-000085
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I heard later that he 'd hired a shyster psychic to come in and perform a ceremony with a lot of incense and black lights .
+I	O
+heard	O
+later	O
+that	O
+he	O
+'d	O
+hired	O
+a	O
+shyster	O
+psychic	O
+to	O
+come	O
+in	O
+and	O
+perform	O
+a	O
+ceremony	O
+with	O
+a	O
+lot	O
+of	O
+incense	O
+and	O
+black	O
+lights	O
+.	O
+
+# id = conivel-storm-front-000086
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Some people .
+Some	O
+people	O
+.	O
+
+# id = conivel-storm-front-000087
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I finished up my paperback and tossed it into the DONE box .
+I	O
+finished	O
+up	O
+my	O
+paperback	O
+and	O
+tossed	O
+it	O
+into	O
+the	O
+DONE	O
+box	O
+.	O
+
+# id = conivel-storm-front-000088
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was a pile of read and discarded paperbacks in a cardboard box on one side of my desk , the spines bent and the pages mangled .
+There	O
+was	O
+a	O
+pile	O
+of	O
+read	O
+and	O
+discarded	O
+paperbacks	O
+in	O
+a	O
+cardboard	O
+box	O
+on	O
+one	O
+side	O
+of	O
+my	O
+desk	O
+,	O
+the	O
+spines	O
+bent	O
+and	O
+the	O
+pages	O
+mangled	O
+.	O
+
+# id = conivel-storm-front-000089
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'm terribly hard on books .
+I	O
+'m	O
+terribly	O
+hard	O
+on	O
+books	O
+.	O
+
+# id = conivel-storm-front-000090
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was eyeing the pile of unread books , considering which to start next , given that I had no real work to do , when my phone rang .
+I	O
+was	O
+eyeing	O
+the	O
+pile	O
+of	O
+unread	O
+books	O
+,	O
+considering	O
+which	O
+to	O
+start	O
+next	O
+,	O
+given	O
+that	O
+I	O
+had	O
+no	O
+real	O
+work	O
+to	O
+do	O
+,	O
+when	O
+my	O
+phone	O
+rang	O
+.	O
+
+# id = conivel-storm-front-000091
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I stared at it in a somewhat surly fashion .
+I	O
+stared	O
+at	O
+it	O
+in	O
+a	O
+somewhat	O
+surly	O
+fashion	O
+.	O
+
+# id = conivel-storm-front-000092
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We wizards are terrific at brooding .
+We	O
+wizards	O
+are	O
+terrific	O
+at	O
+brooding	O
+.	O
+
+# id = conivel-storm-front-000093
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = After the third ring , when I thought I would n't sound a little too eager , I picked up the receiver and said , `` Dresden . ''
+After	O
+the	O
+third	O
+ring	O
+,	O
+when	O
+I	O
+thought	O
+I	O
+would	O
+n't	O
+sound	O
+a	O
+little	O
+too	O
+eager	O
+,	O
+I	O
+picked	O
+up	O
+the	O
+receiver	O
+and	O
+said	O
+,	O
+``	O
+Dresden	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-storm-front-000094
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Oh .
+``	O
+Oh	O
+.	O
+
+# id = conivel-storm-front-000095
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Is this , um , Harry Dresden ?
+Is	O
+this	O
+,	O
+um	O
+,	O
+Harry	B-CHARACTER
+Dresden	I-CHARACTER
+?	O
+
+# id = conivel-storm-front-000096
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The , ah , wizard ? ''
+The	O
+,	O
+ah	O
+,	O
+wizard	O
+?	O
+''	O
+
+# id = conivel-storm-front-000097
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her tone was apologetic , as though she were terribly afraid she would be insulting me .
+Her	O
+tone	O
+was	O
+apologetic	O
+,	O
+as	O
+though	O
+she	O
+were	O
+terribly	O
+afraid	O
+she	O
+would	O
+be	O
+insulting	O
+me	O
+.	O
+
+# id = conivel-storm-front-000098
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No , I thought .
+No	O
+,	O
+I	O
+thought	O
+.	O
+
+# id = conivel-storm-front-000099
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's Harry Dresden the , ah , lizard .
+It	O
+'s	O
+Harry	B-CHARACTER
+Dresden	I-CHARACTER
+the	O
+,	O
+ah	O
+,	O
+lizard	O
+.	O
+
+# id = conivel-storm-front-000100
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Harry the wizard is one door down .
+Harry	B-CHARACTER
+the	O
+wizard	O
+is	O
+one	O
+door	O
+down	O
+.	O
+
+# id = conivel-storm-front-000101
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It is the prerogative of wizards to be grumpy .
+It	O
+is	O
+the	O
+prerogative	O
+of	O
+wizards	O
+to	O
+be	O
+grumpy	O
+.	O
+
+# id = conivel-storm-front-000102
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It is not , however , the prerogative of freelance consultants who are late on their rent , so instead of saying something smart , I told the woman on the phone , `` Yes , ma'am .
+It	O
+is	O
+not	O
+,	O
+however	O
+,	O
+the	O
+prerogative	O
+of	O
+freelance	O
+consultants	O
+who	O
+are	O
+late	O
+on	O
+their	O
+rent	O
+,	O
+so	O
+instead	O
+of	O
+saying	O
+something	O
+smart	O
+,	O
+I	O
+told	O
+the	O
+woman	O
+on	O
+the	O
+phone	O
+,	O
+``	O
+Yes	O
+,	O
+ma'am	O
+.	O
+
+# id = conivel-storm-front-000103
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How can I help you today ? ''
+How	O
+can	O
+I	O
+help	O
+you	O
+today	O
+?	O
+''	O
+
+# id = conivel-storm-front-000104
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I , um , ''
+``	O
+I	O
+,	O
+um	O
+,	O
+''	O
+
+# id = conivel-storm-front-000105
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she said .
+she	O
+said	O
+.	O
+
+# id = conivel-storm-front-000106
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm not sure .
+``	O
+I	O
+'m	O
+not	O
+sure	O
+.	O
+
+# id = conivel-storm-front-000107
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 've lost something , and I think maybe you could help me . ''
+I	O
+'ve	O
+lost	O
+something	O
+,	O
+and	O
+I	O
+think	O
+maybe	O
+you	O
+could	O
+help	O
+me	O
+.	O
+''	O
+
+# id = conivel-storm-front-000108
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Finding lost articles is a specialty , ''
+``	O
+Finding	O
+lost	O
+articles	O
+is	O
+a	O
+specialty	O
+,	O
+''	O
+
+# id = conivel-storm-front-000109
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I said .
+I	O
+said	O
+.	O
+
+# id = conivel-storm-front-000110
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What would I be looking for ? ''
+``	O
+What	O
+would	O
+I	O
+be	O
+looking	O
+for	O
+?	O
+''	O
+
+# id = conivel-storm-front-000111
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was a nervous pause .
+There	O
+was	O
+a	O
+nervous	O
+pause	O
+.	O
+
+# id = conivel-storm-front-000112
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` My husband , ''
+``	O
+My	O
+husband	O
+,	O
+''	O
+
+# id = conivel-storm-front-000113
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she said .
+she	O
+said	O
+.	O
+
+# id = conivel-storm-front-000114
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She had a voice that was a little hoarse , like a cheerleader who 'd been working a long tournament , but had enough weight of years in it to place her as an adult .
+She	O
+had	O
+a	O
+voice	O
+that	O
+was	O
+a	O
+little	O
+hoarse	O
+,	O
+like	O
+a	O
+cheerleader	O
+who	O
+'d	O
+been	O
+working	O
+a	O
+long	O
+tournament	O
+,	O
+but	O
+had	O
+enough	O
+weight	O
+of	O
+years	O
+in	O
+it	O
+to	O
+place	O
+her	O
+as	O
+an	O
+adult	O
+.	O
+
+# id = conivel-storm-front-000115
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My eyebrows went up .
+My	O
+eyebrows	O
+went	O
+up	O
+.	O
+
+# id = conivel-storm-front-000116
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ma'am , I 'm not really a missing-persons specialist .
+``	O
+Ma'am	O
+,	O
+I	O
+'m	O
+not	O
+really	O
+a	O
+missing-persons	O
+specialist	O
+.	O
+
+# id = conivel-storm-front-000117
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Have you contacted the police or a private investigator ? ''
+Have	O
+you	O
+contacted	O
+the	O
+police	O
+or	O
+a	O
+private	O
+investigator	O
+?	O
+''	O
+
+# id = conivel-storm-front-000118
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , ''
+``	O
+No	O
+,	O
+''	O
+
+# id = conivel-storm-front-000119
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she said , quickly .
+she	O
+said	O
+,	O
+quickly	O
+.	O
+
+# id = conivel-storm-front-000120
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , they ca n't .
+``	O
+No	O
+,	O
+they	O
+ca	O
+n't	O
+.	O
+
+# id = conivel-storm-front-000121
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That is , I have n't .
+That	O
+is	O
+,	O
+I	O
+have	O
+n't	O
+.	O
+
+# id = conivel-storm-front-000122
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Oh dear , this is all so complicated .
+Oh	O
+dear	O
+,	O
+this	O
+is	O
+all	O
+so	O
+complicated	O
+.	O
+
+# id = conivel-storm-front-000123
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not something someone can talk about on the phone .
+Not	O
+something	O
+someone	O
+can	O
+talk	O
+about	O
+on	O
+the	O
+phone	O
+.	O
+
+# id = conivel-storm-front-000124
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'm sorry to have taken up your time , Mr. Dresden . ''
+I	O
+'m	O
+sorry	O
+to	O
+have	O
+taken	O
+up	O
+your	O
+time	O
+,	O
+Mr.	B-CHARACTER
+Dresden	I-CHARACTER
+.	O
+''	O
+
+# id = conivel-storm-front-000125
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Hold on now , ''
+``	O
+Hold	O
+on	O
+now	O
+,	O
+''	O
+
+# id = conivel-storm-front-000126
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I said quickly .
+I	O
+said	O
+quickly	O
+.	O
+
+# id = conivel-storm-front-000127
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm sorry , you did n't tell me your name . ''
+``	O
+I	O
+'m	O
+sorry	O
+,	O
+you	O
+did	O
+n't	O
+tell	O
+me	O
+your	O
+name	O
+.	O
+''	O
+
+# id = conivel-storm-front-000128
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was that nervous pause again , as though she were checking a sheet of written notes before answering .
+There	O
+was	O
+that	O
+nervous	O
+pause	O
+again	O
+,	O
+as	O
+though	O
+she	O
+were	O
+checking	O
+a	O
+sheet	O
+of	O
+written	O
+notes	O
+before	O
+answering	O
+.	O
+
+# id = conivel-storm-front-000129
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Call me Monica . ''
+``	O
+Call	O
+me	O
+Monica	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-storm-front-000130
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = People who know diddly about wizards do n't like to give us their names .
+People	O
+who	O
+know	O
+diddly	O
+about	O
+wizards	O
+do	O
+n't	O
+like	O
+to	O
+give	O
+us	O
+their	O
+names	O
+.	O
+
+# id = conivel-storm-front-000131
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They 're convinced that if they give a wizard their name from their own lips it could be used against them .
+They	O
+'re	O
+convinced	O
+that	O
+if	O
+they	O
+give	O
+a	O
+wizard	O
+their	O
+name	O
+from	O
+their	O
+own	O
+lips	O
+it	O
+could	O
+be	O
+used	O
+against	O
+them	O
+.	O
+
+# id = conivel-storm-front-000132
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = To be fair , they 're right .
+To	O
+be	O
+fair	O
+,	O
+they	O
+'re	O
+right	O
+.	O
+
+# id = conivel-storm-front-000133
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I had to be as polite and harmless as I could .
+I	O
+had	O
+to	O
+be	O
+as	O
+polite	O
+and	O
+harmless	O
+as	O
+I	O
+could	O
+.	O
+
+# id = conivel-storm-front-000134
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She was about to hang up out of pure indecision , and I needed the job .
+She	O
+was	O
+about	O
+to	O
+hang	O
+up	O
+out	O
+of	O
+pure	O
+indecision	O
+,	O
+and	O
+I	O
+needed	O
+the	O
+job	O
+.	O
+
+# id = conivel-storm-front-000135
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I could probably turn hubby up , if I worked at it .
+I	O
+could	O
+probably	O
+turn	O
+hubby	O
+up	O
+,	O
+if	O
+I	O
+worked	O
+at	O
+it	O
+.	O
+
+# id = conivel-storm-front-000136
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Okay , Monica , ''
+``	O
+Okay	O
+,	O
+Monica	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-storm-front-000137
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I told her , trying to sound as melodious and friendly as I could .
+I	O
+told	O
+her	O
+,	O
+trying	O
+to	O
+sound	O
+as	O
+melodious	O
+and	O
+friendly	O
+as	O
+I	O
+could	O
+.	O
+
+# id = conivel-storm-front-000138
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` If you feel your situation is of a sensitive nature , maybe you could come by my office and talk about it .
+``	O
+If	O
+you	O
+feel	O
+your	O
+situation	O
+is	O
+of	O
+a	O
+sensitive	O
+nature	O
+,	O
+maybe	O
+you	O
+could	O
+come	O
+by	O
+my	O
+office	O
+and	O
+talk	O
+about	O
+it	O
+.	O
+
+# id = conivel-storm-front-000139
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If it turns out that I can help you best , I will , and if not , then I can direct you to someone I think can help you better . ''
+If	O
+it	O
+turns	O
+out	O
+that	O
+I	O
+can	O
+help	O
+you	O
+best	O
+,	O
+I	O
+will	O
+,	O
+and	O
+if	O
+not	O
+,	O
+then	O
+I	O
+can	O
+direct	O
+you	O
+to	O
+someone	O
+I	O
+think	O
+can	O
+help	O
+you	O
+better	O
+.	O
+''	O
+
+# id = conivel-storm-front-000140
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I gritted my teeth and pretended I was smiling .
+I	O
+gritted	O
+my	O
+teeth	O
+and	O
+pretended	O
+I	O
+was	O
+smiling	O
+.	O
+
+# id = conivel-storm-front-000141
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No charge . ''
+``	O
+No	O
+charge	O
+.	O
+''	O
+
+# id = conivel-storm-front-000142
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It must have been the no charge that did it .
+It	O
+must	O
+have	O
+been	O
+the	O
+no	O
+charge	O
+that	O
+did	O
+it	O
+.	O
+
+# id = conivel-storm-front-000143
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She agreed to come right out to the office , and told me that she would be there in an hour .
+She	O
+agreed	O
+to	O
+come	O
+right	O
+out	O
+to	O
+the	O
+office	O
+,	O
+and	O
+told	O
+me	O
+that	O
+she	O
+would	O
+be	O
+there	O
+in	O
+an	O
+hour	O
+.	O
+
+# id = conivel-storm-front-000144
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That put her estimated arrival at about two-thirty .
+That	O
+put	O
+her	O
+estimated	O
+arrival	O
+at	O
+about	O
+two-thirty	O
+.	O
+
+# id = conivel-storm-front-000145
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Plenty of time to go out and get some lunch , then get back to the office to meet her .
+Plenty	O
+of	O
+time	O
+to	O
+go	O
+out	O
+and	O
+get	O
+some	O
+lunch	O
+,	O
+then	O
+get	O
+back	O
+to	O
+the	O
+office	O
+to	O
+meet	O
+her	O
+.	O
+
+# id = conivel-storm-front-000146
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The phone rang again almost the instant I put it down , making me jump .
+The	O
+phone	O
+rang	O
+again	O
+almost	O
+the	O
+instant	O
+I	O
+put	O
+it	O
+down	O
+,	O
+making	O
+me	O
+jump	O
+.	O
+
+# id = conivel-storm-front-000147
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I peered at it .
+I	O
+peered	O
+at	O
+it	O
+.	O
+
+# id = conivel-storm-front-000148
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I do n't trust electronics .
+I	O
+do	O
+n't	O
+trust	O
+electronics	O
+.	O
+
+# id = conivel-storm-front-000149
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Anything manufactured after the forties is suspect-and does n't seem to have much liking for me .
+Anything	O
+manufactured	O
+after	O
+the	O
+forties	O
+is	O
+suspect-and	O
+does	O
+n't	O
+seem	O
+to	O
+have	O
+much	O
+liking	O
+for	O
+me	O
+.	O
+
+# id = conivel-storm-front-000150
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You name it : cars , radios , telephones , TVs , VCRs-none of them seem to behave well for me .
+You	O
+name	O
+it	O
+:	O
+cars	O
+,	O
+radios	O
+,	O
+telephones	O
+,	O
+TVs	O
+,	O
+VCRs-none	O
+of	O
+them	O
+seem	O
+to	O
+behave	O
+well	O
+for	O
+me	O
+.	O
+
+# id = conivel-storm-front-000151
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I do n't even like to use automatic pencils .
+I	O
+do	O
+n't	O
+even	O
+like	O
+to	O
+use	O
+automatic	O
+pencils	O
+.	O
+
+# id = conivel-storm-front-000152
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I answered the phone with the same false cheer I had summoned up for Monica Husband-Missing .
+I	O
+answered	O
+the	O
+phone	O
+with	O
+the	O
+same	O
+false	O
+cheer	O
+I	O
+had	O
+summoned	O
+up	O
+for	O
+Monica	B-CHARACTER
+Husband-Missing	I-CHARACTER
+.	O
+
+# id = conivel-storm-front-000153
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` This is Dresden , may I help you ? ''
+``	O
+This	O
+is	O
+Dresden	B-CHARACTER
+,	O
+may	O
+I	O
+help	O
+you	O
+?	O
+''	O
+
+# id = conivel-storm-front-000154
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Harry , I need you at the Madison in the next ten minutes .
+``	O
+Harry	B-CHARACTER
+,	O
+I	O
+need	O
+you	O
+at	O
+the	O
+Madison	B-LOCATION
+in	O
+the	O
+next	O
+ten	O
+minutes	O
+.	O
+
+# id = conivel-storm-front-000155
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Can you be there ? ''
+Can	O
+you	O
+be	O
+there	O
+?	O
+''	O
+
+# id = conivel-storm-front-000156
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The voice on the other end of the line was also a woman 's , cool , brisk , businesslike .
+The	O
+voice	O
+on	O
+the	O
+other	O
+end	O
+of	O
+the	O
+line	O
+was	O
+also	O
+a	O
+woman	O
+'s	O
+,	O
+cool	O
+,	O
+brisk	O
+,	O
+businesslike	O
+.	O
+
+# id = conivel-storm-front-000157
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Why , Lieutenant Murphy , ''
+``	O
+Why	O
+,	O
+Lieutenant	B-CHARACTER
+Murphy	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-storm-front-000158
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I gushed , overflowing with saccharine , `` It 's good to hear from you , too .
+I	O
+gushed	O
+,	O
+overflowing	O
+with	O
+saccharine	O
+,	O
+``	O
+It	O
+'s	O
+good	O
+to	O
+hear	O
+from	O
+you	O
+,	O
+too	O
+.	O
+
+# id = conivel-storm-front-000159
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's been so long .
+It	O
+'s	O
+been	O
+so	O
+long	O
+.	O
+
+# id = conivel-storm-front-000160
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Oh , they 're fine , fine .
+Oh	O
+,	O
+they	O
+'re	O
+fine	O
+,	O
+fine	O
+.	O
+
+# id = conivel-storm-front-000161
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And your family ? ''
+And	O
+your	O
+family	O
+?	O
+''	O
+
+# id = conivel-storm-front-000162
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Save it , Harry .
+``	O
+Save	O
+it	O
+,	O
+Harry	B-CHARACTER
+.	O
+
+# id = conivel-storm-front-000163
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 've got a couple of bodies here , and I need you to take a look around . ''
+I	O
+'ve	O
+got	O
+a	O
+couple	O
+of	O
+bodies	O
+here	O
+,	O
+and	O
+I	O
+need	O
+you	O
+to	O
+take	O
+a	O
+look	O
+around	O
+.	O
+''	O
+
+# id = conivel-storm-front-000164
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I sobered immediately .
+I	O
+sobered	O
+immediately	O
+.	O
+
+# id = conivel-storm-front-000165
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Karrin Murphy was the director of Special Investigations out of downtown Chicago , a de facto appointee of the Police Commissioner to investigate any crimes dubbed unusual .
+Karrin	B-CHARACTER
+Murphy	I-CHARACTER
+was	O
+the	O
+director	O
+of	O
+Special	O
+Investigations	O
+out	O
+of	O
+downtown	O
+Chicago	B-LOCATION
+,	O
+a	O
+de	O
+facto	O
+appointee	O
+of	O
+the	O
+Police	O
+Commissioner	O
+to	O
+investigate	O
+any	O
+crimes	O
+dubbed	O
+unusual	O
+.	O
+
+# id = conivel-storm-front-000166
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vampire attacks , troll mauraudings , and faery abductions of children did n't fit in very neatly on a police report-but at the same time , people got attacked , infants got stolen , property was damaged or destroyed .
+Vampire	O
+attacks	O
+,	O
+troll	O
+mauraudings	O
+,	O
+and	O
+faery	O
+abductions	O
+of	O
+children	O
+did	O
+n't	O
+fit	O
+in	O
+very	O
+neatly	O
+on	O
+a	O
+police	O
+report-but	O
+at	O
+the	O
+same	O
+time	O
+,	O
+people	O
+got	O
+attacked	O
+,	O
+infants	O
+got	O
+stolen	O
+,	O
+property	O
+was	O
+damaged	O
+or	O
+destroyed	O
+.	O
+
+# id = conivel-storm-front-000167
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And someone had to look into it .
+And	O
+someone	O
+had	O
+to	O
+look	O
+into	O
+it	O
+.	O
+
+# id = conivel-storm-front-000168
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In Chicago , or pretty much anywhere in Chicagoland , that person was Karrin Murphy .
+In	O
+Chicago	B-LOCATION
+,	O
+or	O
+pretty	O
+much	O
+anywhere	O
+in	O
+Chicagoland	B-LOCATION
+,	O
+that	O
+person	O
+was	O
+Karrin	B-CHARACTER
+Murphy	I-CHARACTER
+.	O
+
+# id = conivel-storm-front-000169
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was her library of the supernatural on legs , and a paid consultant for the police department .
+I	O
+was	O
+her	O
+library	O
+of	O
+the	O
+supernatural	O
+on	O
+legs	O
+,	O
+and	O
+a	O
+paid	O
+consultant	O
+for	O
+the	O
+police	O
+department	O
+.	O
+
+# id = conivel-storm-front-000170
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But two bodies ?
+But	O
+two	O
+bodies	O
+?	O
+
+# id = conivel-storm-front-000171
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Two deaths by means unknown ?
+Two	O
+deaths	O
+by	O
+means	O
+unknown	O
+?	O
+
+# id = conivel-storm-front-000172
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I had n't handled anything like that for her before .
+I	O
+had	O
+n't	O
+handled	O
+anything	O
+like	O
+that	O
+for	O
+her	O
+before	O
+.	O
+
+# id = conivel-storm-front-000173
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Where are you ? ''
+``	O
+Where	O
+are	O
+you	O
+?	O
+''	O
+
+# id = conivel-storm-front-000174
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I asked her .
+I	O
+asked	O
+her	O
+.	O
+
+# id = conivel-storm-front-000175
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Madison Hotel on Tenth , seventh floor . ''
+``	O
+Madison	B-LOCATION
+Hotel	I-LOCATION
+on	O
+Tenth	B-LOCATION
+,	O
+seventh	O
+floor	O
+.	O
+''	O
+
+# id = conivel-storm-front-000176
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That 's only a fifteen-minute walk from my office , ''
+``	O
+That	O
+'s	O
+only	O
+a	O
+fifteen-minute	O
+walk	O
+from	O
+my	O
+office	O
+,	O
+''	O
+
+# id = conivel-storm-front-000177
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I said .
+I	O
+said	O
+.	O
+
+# id = conivel-storm-front-000178
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` So you can be here in fifteen minutes .
+``	O
+So	O
+you	O
+can	O
+be	O
+here	O
+in	O
+fifteen	O
+minutes	O
+.	O
+
+# id = conivel-storm-front-000179
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Good . ''
+Good	O
+.	O
+''	O
+
+# id = conivel-storm-front-000180
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Um , ''
+``	O
+Um	O
+,	O
+''	O
+
+# id = conivel-storm-front-000181
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I said .
+I	O
+said	O
+.	O
+
+# id = conivel-storm-front-000182
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I looked at the clock .
+I	O
+looked	O
+at	O
+the	O
+clock	O
+.	O
+
+# id = conivel-storm-front-000183
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Monica No-Last-Name would be here in a little more than forty-five minutes .
+Monica	B-CHARACTER
+No-Last-Name	I-CHARACTER
+would	O
+be	O
+here	O
+in	O
+a	O
+little	O
+more	O
+than	O
+forty-five	O
+minutes	O
+.	O
+
+# id = conivel-storm-front-000184
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 've sort of got an appointment . ''
+``	O
+I	O
+'ve	O
+sort	O
+of	O
+got	O
+an	O
+appointment	O
+.	O
+''	O
+
+# id = conivel-storm-front-000185
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Dresden , I 've sort of got a pair of corpses with no leads and no suspects , and a killer walking around loose .
+``	O
+Dresden	B-CHARACTER
+,	O
+I	O
+'ve	O
+sort	O
+of	O
+got	O
+a	O
+pair	O
+of	O
+corpses	O
+with	O
+no	O
+leads	O
+and	O
+no	O
+suspects	O
+,	O
+and	O
+a	O
+killer	O
+walking	O
+around	O
+loose	O
+.	O
+
+# id = conivel-storm-front-000186
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Your appointment can wait . ''
+Your	O
+appointment	O
+can	O
+wait	O
+.	O
+''	O
+
+# id = conivel-storm-front-000187
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My temper flared .
+My	O
+temper	O
+flared	O
+.	O
+
+# id = conivel-storm-front-000188
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It does that occasionally .
+It	O
+does	O
+that	O
+occasionally	O
+.	O
+
+# id = conivel-storm-front-000189
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It ca n't , actually , ''
+``	O
+It	O
+ca	O
+n't	O
+,	O
+actually	O
+,	O
+''	O
+
+# id = conivel-storm-front-000190
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I said .
+I	O
+said	O
+.	O
+
+# id = conivel-storm-front-000191
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But I 'll tell you what .
+``	O
+But	O
+I	O
+'ll	O
+tell	O
+you	O
+what	O
+.	O
+
+# id = conivel-storm-front-000192
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'll stroll on over and take a look around , and be back here in time for it . ''
+I	O
+'ll	O
+stroll	O
+on	O
+over	O
+and	O
+take	O
+a	O
+look	O
+around	O
+,	O
+and	O
+be	O
+back	O
+here	O
+in	O
+time	O
+for	O
+it	O
+.	O
+''	O
+
+# id = conivel-storm-front-000193
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Have you had lunch yet ? ''
+``	O
+Have	O
+you	O
+had	O
+lunch	O
+yet	O
+?	O
+''	O
+
+# id = conivel-storm-front-000194
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she asked .
+she	O
+asked	O
+.	O
+
+# id = conivel-storm-front-000195
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What ? ''
+``	O
+What	O
+?	O
+''	O
+
+# id = conivel-storm-front-000196
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She repeated the question .
+She	O
+repeated	O
+the	O
+question	O
+.	O
+
+# id = conivel-storm-front-000197
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , ''
+``	O
+No	O
+,	O
+''	O
+
+# id = conivel-storm-front-000198
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I said .
+I	O
+said	O
+.	O
+
+# id = conivel-storm-front-000199
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do n't . ''
+``	O
+Do	O
+n't	O
+.	O
+''	O
+
+# id = conivel-storm-front-000200
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was a pause , and when she spoke again , there was a sort of greenish tone to her words .
+There	O
+was	O
+a	O
+pause	O
+,	O
+and	O
+when	O
+she	O
+spoke	O
+again	O
+,	O
+there	O
+was	O
+a	O
+sort	O
+of	O
+greenish	O
+tone	O
+to	O
+her	O
+words	O
+.	O
+
+# id = conivel-storm-front-000201
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's bad . ''
+``	O
+It	O
+'s	O
+bad	O
+.	O
+''	O
+
+# id = conivel-storm-front-000202
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How bad are we talking here , Murph ? ''
+``	O
+How	O
+bad	O
+are	O
+we	O
+talking	O
+here	O
+,	O
+Murph	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-storm-front-000203
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her voice softened , and that scared me more than any images of gore or violent death could have .
+Her	O
+voice	O
+softened	O
+,	O
+and	O
+that	O
+scared	O
+me	O
+more	O
+than	O
+any	O
+images	O
+of	O
+gore	O
+or	O
+violent	O
+death	O
+could	O
+have	O
+.	O
+
+# id = conivel-storm-front-000204
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Murphy was the original tough girl , and she prided herself on never showing weakness .
+Murphy	B-CHARACTER
+was	O
+the	O
+original	O
+tough	O
+girl	O
+,	O
+and	O
+she	O
+prided	O
+herself	O
+on	O
+never	O
+showing	O
+weakness	O
+.	O
+
+# id = conivel-storm-front-000205
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's bad , Harry .
+``	O
+It	O
+'s	O
+bad	O
+,	O
+Harry	B-CHARACTER
+.	O
+
+# id = conivel-storm-front-000206
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Please do n't take too long .
+Please	O
+do	O
+n't	O
+take	O
+too	O
+long	O
+.	O
+
+# id = conivel-storm-front-000207
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Special Crimes is itching to get their fingers on this one , and I know you do n't like people to touch the scene before you can look around . ''
+Special	O
+Crimes	O
+is	O
+itching	O
+to	O
+get	O
+their	O
+fingers	O
+on	O
+this	O
+one	O
+,	O
+and	O
+I	O
+know	O
+you	O
+do	O
+n't	O
+like	O
+people	O
+to	O
+touch	O
+the	O
+scene	O
+before	O
+you	O
+can	O
+look	O
+around	O
+.	O
+''	O
+
+# id = conivel-storm-front-000208
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm on the way , ''
+``	O
+I	O
+'m	O
+on	O
+the	O
+way	O
+,	O
+''	O
+
+# id = conivel-storm-front-000209
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I told her , already standing and pulling on my jacket .
+I	O
+told	O
+her	O
+,	O
+already	O
+standing	O
+and	O
+pulling	O
+on	O
+my	O
+jacket	O
+.	O
+
+# id = conivel-storm-front-000210
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Seventh floor , ''
+``	O
+Seventh	O
+floor	O
+,	O
+''	O
+
+# id = conivel-storm-front-000211
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she reminded me .
+she	O
+reminded	O
+me	O
+.	O
+
+# id = conivel-storm-front-000212
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` See you there . ''
+``	O
+See	O
+you	O
+there	O
+.	O
+''	O
+
+# id = conivel-storm-front-000213
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Okay . ''
+``	O
+Okay	O
+.	O
+''	O
+
+# id = conivel-storm-front-000214
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I turned off the lights to my office , went out the door , and locked up behind me , frowning .
+I	O
+turned	O
+off	O
+the	O
+lights	O
+to	O
+my	O
+office	O
+,	O
+went	O
+out	O
+the	O
+door	O
+,	O
+and	O
+locked	O
+up	O
+behind	O
+me	O
+,	O
+frowning	O
+.	O
+
+# id = conivel-storm-front-000215
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was n't sure how long it was going to take to investigate Murphy 's scene , and I did n't want to miss out on speaking with Monica Ask-Me-No-Questions .
+I	O
+was	O
+n't	O
+sure	O
+how	O
+long	O
+it	O
+was	O
+going	O
+to	O
+take	O
+to	O
+investigate	O
+Murphy	B-CHARACTER
+'s	O
+scene	O
+,	O
+and	O
+I	O
+did	O
+n't	O
+want	O
+to	O
+miss	O
+out	O
+on	O
+speaking	O
+with	O
+Monica	B-CHARACTER
+Ask-Me-No-Questions	I-CHARACTER
+.	O
+
+# id = conivel-storm-front-000216
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So I opened the door again , got out a piece of paper and a thumbtack , and wrote : Out briefly .
+So	O
+I	O
+opened	O
+the	O
+door	O
+again	O
+,	O
+got	O
+out	O
+a	O
+piece	O
+of	O
+paper	O
+and	O
+a	O
+thumbtack	O
+,	O
+and	O
+wrote	O
+:	O
+Out	O
+briefly	O
+.	O
+
+# id = conivel-storm-front-000217
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Back for appointment at 2:30 .
+Back	O
+for	O
+appointment	O
+at	O
+2:30	O
+.	O
+
+# id = conivel-storm-front-000218
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Dresden That done , I started down the stairs .
+Dresden	B-CHARACTER
+That	O
+done	O
+,	O
+I	O
+started	O
+down	O
+the	O
+stairs	O
+.	O
+
+# id = conivel-storm-front-000219
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I rarely use the elevator , even though I 'm on the fifth floor .
+I	O
+rarely	O
+use	O
+the	O
+elevator	O
+,	O
+even	O
+though	O
+I	O
+'m	O
+on	O
+the	O
+fifth	O
+floor	O
+.	O
+
+# id = conivel-storm-front-000220
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Like I said , I do n't trust machines .
+Like	O
+I	O
+said	O
+,	O
+I	O
+do	O
+n't	O
+trust	O
+machines	O
+.	O
+
+# id = conivel-storm-front-000221
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They 're always breaking down on me just when I need them .
+They	O
+'re	O
+always	O
+breaking	O
+down	O
+on	O
+me	O
+just	O
+when	O
+I	O
+need	O
+them	O
+.	O
+
+# id = conivel-storm-front-000222
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Besides which .
+Besides	O
+which	O
+.	O
+
+# id = conivel-storm-front-000223
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If I were someone in this town using magic to kill people two at a time , and I did n't want to get caught , I 'd make sure that I removed the only practicing wizard the police department kept on retainer .
+If	O
+I	O
+were	O
+someone	O
+in	O
+this	O
+town	O
+using	O
+magic	O
+to	O
+kill	O
+people	O
+two	O
+at	O
+a	O
+time	O
+,	O
+and	O
+I	O
+did	O
+n't	O
+want	O
+to	O
+get	O
+caught	O
+,	O
+I	O
+'d	O
+make	O
+sure	O
+that	O
+I	O
+removed	O
+the	O
+only	O
+practicing	O
+wizard	O
+the	O
+police	O
+department	O
+kept	O
+on	O
+retainer	O
+.	O
+
+# id = conivel-storm-front-000224
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I liked my odds on the stairwell a lot better than I did in the cramped confines of the elevator .
+I	O
+liked	O
+my	O
+odds	O
+on	O
+the	O
+stairwell	O
+a	O
+lot	O
+better	O
+than	O
+I	O
+did	O
+in	O
+the	O
+cramped	O
+confines	O
+of	O
+the	O
+elevator	O
+.	O
+
+# id = conivel-storm-front-000225
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Paranoid ?
+Paranoid	O
+?	O
+
+# id = conivel-storm-front-000226
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Probably .
+Probably	O
+.	O
+
+# id = conivel-storm-front-000227
+# source = Conivel corrected OWTO literary NER
+# book = Storm Front
+# source_file = StormFront.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But just because you 're paranoid does n't mean that there is n't an invisible demon about to eat your face .
+But	O
+just	O
+because	O
+you	O
+'re	O
+paranoid	O
+does	O
+n't	O
+mean	O
+that	O
+there	O
+is	O
+n't	O
+an	O
+invisible	O
+demon	O
+about	O
+to	O
+eat	O
+your	O
+face	O
+.	O
+

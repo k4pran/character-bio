@@ -1,0 +1,6716 @@
+# id = conivel-a-game-of-thrones-000001
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They set forth at daybreak to see a man beheaded , twenty in all , and Bran rode among them , nervous with excitement .
+They	O
+set	O
+forth	O
+at	O
+daybreak	O
+to	O
+see	O
+a	O
+man	O
+beheaded	O
+,	O
+twenty	O
+in	O
+all	O
+,	O
+and	O
+Bran	B-CHARACTER
+rode	O
+among	O
+them	O
+,	O
+nervous	O
+with	O
+excitement	O
+.	O
+
+# id = conivel-a-game-of-thrones-000002
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This was the first time he had been deemed old enough to go with his lord father and his brothers to see the king 's justice done .
+This	O
+was	O
+the	O
+first	O
+time	O
+he	O
+had	O
+been	O
+deemed	O
+old	O
+enough	O
+to	O
+go	O
+with	O
+his	O
+lord	O
+father	O
+and	O
+his	O
+brothers	O
+to	O
+see	O
+the	O
+king	O
+'s	O
+justice	O
+done	O
+.	O
+
+# id = conivel-a-game-of-thrones-000003
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was the ninth year of summer , and the seventh of Bran 's life .
+It	O
+was	O
+the	O
+ninth	O
+year	O
+of	O
+summer	O
+,	O
+and	O
+the	O
+seventh	O
+of	O
+Bran	B-CHARACTER
+'s	O
+life	O
+.	O
+
+# id = conivel-a-game-of-thrones-000004
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The man had been taken outside a small holdfast in the hills .
+The	O
+man	O
+had	O
+been	O
+taken	O
+outside	O
+a	O
+small	O
+holdfast	O
+in	O
+the	O
+hills	O
+.	O
+
+# id = conivel-a-game-of-thrones-000005
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Robb thought he was a wildling , his sword sworn to Mance Rayder , the King-beyond-the-Wall .
+Robb	B-CHARACTER
+thought	O
+he	O
+was	O
+a	O
+wildling	O
+,	O
+his	O
+sword	O
+sworn	O
+to	O
+Mance	B-CHARACTER
+Rayder	I-CHARACTER
+,	O
+the	O
+King-beyond-the-Wall	B-CHARACTER
+.	O
+
+# id = conivel-a-game-of-thrones-000006
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It made Bran 's skin prickle to think of it .
+It	O
+made	O
+Bran	B-CHARACTER
+'s	O
+skin	O
+prickle	O
+to	O
+think	O
+of	O
+it	O
+.	O
+
+# id = conivel-a-game-of-thrones-000007
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He remembered the hearth tales Old Nan told them .
+He	O
+remembered	O
+the	O
+hearth	O
+tales	O
+Old	B-CHARACTER
+Nan	I-CHARACTER
+told	O
+them	O
+.	O
+
+# id = conivel-a-game-of-thrones-000008
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The wildlings were cruel men , she said , slavers and slayers and thieves .
+The	O
+wildlings	O
+were	O
+cruel	O
+men	O
+,	O
+she	O
+said	O
+,	O
+slavers	O
+and	O
+slayers	O
+and	O
+thieves	O
+.	O
+
+# id = conivel-a-game-of-thrones-000009
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They consorted with giants and ghouls , stole girl children in the dead of night , and drank blood from polished horns .
+They	O
+consorted	O
+with	O
+giants	O
+and	O
+ghouls	O
+,	O
+stole	O
+girl	O
+children	O
+in	O
+the	O
+dead	O
+of	O
+night	O
+,	O
+and	O
+drank	O
+blood	O
+from	O
+polished	O
+horns	O
+.	O
+
+# id = conivel-a-game-of-thrones-000010
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And their women lay with the Others in the Long Night to sire terrible half-human children .
+And	O
+their	O
+women	O
+lay	O
+with	O
+the	O
+Others	O
+in	O
+the	O
+Long	O
+Night	O
+to	O
+sire	O
+terrible	O
+half-human	O
+children	O
+.	O
+
+# id = conivel-a-game-of-thrones-000011
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But the man they found bound hand and foot to the holdfast wall awaiting the king 's justice was old and scrawny , not much taller than Robb .
+But	O
+the	O
+man	O
+they	O
+found	O
+bound	O
+hand	O
+and	O
+foot	O
+to	O
+the	O
+holdfast	O
+wall	O
+awaiting	O
+the	O
+king	O
+'s	O
+justice	O
+was	O
+old	O
+and	O
+scrawny	O
+,	O
+not	O
+much	O
+taller	O
+than	O
+Robb	B-CHARACTER
+.	O
+
+# id = conivel-a-game-of-thrones-000012
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had lost both ears and a finger to frostbite , and he dressed all in black , the same as a brother of the Night 's Watch , except that his furs were ragged and greasy .
+He	O
+had	O
+lost	O
+both	O
+ears	O
+and	O
+a	O
+finger	O
+to	O
+frostbite	O
+,	O
+and	O
+he	O
+dressed	O
+all	O
+in	O
+black	O
+,	O
+the	O
+same	O
+as	O
+a	O
+brother	O
+of	O
+the	O
+Night	O
+'s	O
+Watch	O
+,	O
+except	O
+that	O
+his	O
+furs	O
+were	O
+ragged	O
+and	O
+greasy	O
+.	O
+
+# id = conivel-a-game-of-thrones-000013
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The breath of man and horse mingled , steaming , in the cold morning air as his lord father had the man cut down from the wall and dragged before them .
+The	O
+breath	O
+of	O
+man	O
+and	O
+horse	O
+mingled	O
+,	O
+steaming	O
+,	O
+in	O
+the	O
+cold	O
+morning	O
+air	O
+as	O
+his	O
+lord	O
+father	O
+had	O
+the	O
+man	O
+cut	O
+down	O
+from	O
+the	O
+wall	O
+and	O
+dragged	O
+before	O
+them	O
+.	O
+
+# id = conivel-a-game-of-thrones-000014
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Robb and Jon sat tall and still on their horses , with Bran between them on his pony , trying to seem older than seven , trying to pretend that he 'd seen all this before .
+Robb	B-CHARACTER
+and	O
+Jon	B-CHARACTER
+sat	O
+tall	O
+and	O
+still	O
+on	O
+their	O
+horses	O
+,	O
+with	O
+Bran	B-CHARACTER
+between	O
+them	O
+on	O
+his	O
+pony	O
+,	O
+trying	O
+to	O
+seem	O
+older	O
+than	O
+seven	O
+,	O
+trying	O
+to	O
+pretend	O
+that	O
+he	O
+'d	O
+seen	O
+all	O
+this	O
+before	O
+.	O
+
+# id = conivel-a-game-of-thrones-000015
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A faint wind blew through the holdfast gate .
+A	O
+faint	O
+wind	O
+blew	O
+through	O
+the	O
+holdfast	O
+gate	O
+.	O
+
+# id = conivel-a-game-of-thrones-000016
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Over their heads flapped the banner of the Starks of Winterfell : a grey direwolf racing across an ice-white field .
+Over	O
+their	O
+heads	O
+flapped	O
+the	O
+banner	O
+of	O
+the	O
+Starks	B-CHARACTER
+of	O
+Winterfell	B-LOCATION
+:	O
+a	O
+grey	O
+direwolf	O
+racing	O
+across	O
+an	O
+ice-white	O
+field	O
+.	O
+
+# id = conivel-a-game-of-thrones-000017
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran 's father sat solemnly on his horse , long brown hair stirring in the wind .
+Bran	B-CHARACTER
+'s	O
+father	O
+sat	O
+solemnly	O
+on	O
+his	O
+horse	O
+,	O
+long	O
+brown	O
+hair	O
+stirring	O
+in	O
+the	O
+wind	O
+.	O
+
+# id = conivel-a-game-of-thrones-000018
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His closely trimmed beard was shot with white , making him look older than his thirty-five years .
+His	O
+closely	O
+trimmed	O
+beard	O
+was	O
+shot	O
+with	O
+white	O
+,	O
+making	O
+him	O
+look	O
+older	O
+than	O
+his	O
+thirty-five	O
+years	O
+.	O
+
+# id = conivel-a-game-of-thrones-000019
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had a grim cast to his grey eyes this day , and he seemed not at all the man who would sit before the fire in the evening and talk softly of the age of heroes and the children of the forest .
+He	O
+had	O
+a	O
+grim	O
+cast	O
+to	O
+his	O
+grey	O
+eyes	O
+this	O
+day	O
+,	O
+and	O
+he	O
+seemed	O
+not	O
+at	O
+all	O
+the	O
+man	O
+who	O
+would	O
+sit	O
+before	O
+the	O
+fire	O
+in	O
+the	O
+evening	O
+and	O
+talk	O
+softly	O
+of	O
+the	O
+age	O
+of	O
+heroes	O
+and	O
+the	O
+children	O
+of	O
+the	O
+forest	O
+.	O
+
+# id = conivel-a-game-of-thrones-000020
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had taken off Father 's face , Bran thought , and donned the face of Lord Stark of Winterfell .
+He	O
+had	O
+taken	O
+off	O
+Father	O
+'s	O
+face	O
+,	O
+Bran	B-CHARACTER
+thought	O
+,	O
+and	O
+donned	O
+the	O
+face	O
+of	O
+Lord	B-CHARACTER
+Stark	I-CHARACTER
+of	O
+Winterfell	B-LOCATION
+.	O
+
+# id = conivel-a-game-of-thrones-000021
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There were questions asked and answers given there in the chill of morning , but afterward Bran could not recall much of what had been said .
+There	O
+were	O
+questions	O
+asked	O
+and	O
+answers	O
+given	O
+there	O
+in	O
+the	O
+chill	O
+of	O
+morning	O
+,	O
+but	O
+afterward	O
+Bran	B-CHARACTER
+could	O
+not	O
+recall	O
+much	O
+of	O
+what	O
+had	O
+been	O
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000022
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Finally his lord father gave a command , and two of his guardsmen dragged the ragged man to the ironwood stump in the center of the square .
+Finally	O
+his	O
+lord	O
+father	O
+gave	O
+a	O
+command	O
+,	O
+and	O
+two	O
+of	O
+his	O
+guardsmen	O
+dragged	O
+the	O
+ragged	O
+man	O
+to	O
+the	O
+ironwood	O
+stump	O
+in	O
+the	O
+center	O
+of	O
+the	O
+square	O
+.	O
+
+# id = conivel-a-game-of-thrones-000023
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They forced his head down onto the hard black wood .
+They	O
+forced	O
+his	O
+head	O
+down	O
+onto	O
+the	O
+hard	O
+black	O
+wood	O
+.	O
+
+# id = conivel-a-game-of-thrones-000024
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Lord Eddard Stark dismounted and his ward Theon Greyjoy brought forth the sword .
+Lord	B-CHARACTER
+Eddard	I-CHARACTER
+Stark	I-CHARACTER
+dismounted	O
+and	O
+his	O
+ward	O
+Theon	B-CHARACTER
+Greyjoy	I-CHARACTER
+brought	O
+forth	O
+the	O
+sword	O
+.	O
+
+# id = conivel-a-game-of-thrones-000025
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ice , ''
+``	O
+Ice	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000026
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = that sword was called .
+that	O
+sword	O
+was	O
+called	O
+.	O
+
+# id = conivel-a-game-of-thrones-000027
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was as wide across as a man 's hand , and taller even than Robb .
+It	O
+was	O
+as	O
+wide	O
+across	O
+as	O
+a	O
+man	O
+'s	O
+hand	O
+,	O
+and	O
+taller	O
+even	O
+than	O
+Robb	B-CHARACTER
+.	O
+
+# id = conivel-a-game-of-thrones-000028
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The blade was Valyrian steel , spell-forged and dark as smoke .
+The	O
+blade	O
+was	O
+Valyrian	O
+steel	O
+,	O
+spell-forged	O
+and	O
+dark	O
+as	O
+smoke	O
+.	O
+
+# id = conivel-a-game-of-thrones-000029
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nothing held an edge like Valyrian steel .
+Nothing	O
+held	O
+an	O
+edge	O
+like	O
+Valyrian	O
+steel	O
+.	O
+
+# id = conivel-a-game-of-thrones-000030
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His father peeled off his gloves and handed them to Jory Cassel , the captain of his household guard .
+His	O
+father	O
+peeled	O
+off	O
+his	O
+gloves	O
+and	O
+handed	O
+them	O
+to	O
+Jory	B-CHARACTER
+Cassel	I-CHARACTER
+,	O
+the	O
+captain	O
+of	O
+his	O
+household	O
+guard	O
+.	O
+
+# id = conivel-a-game-of-thrones-000031
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He took hold of Ice with both hands and said , `` In the name of Robert of the House Baratheon , the First of his Name , King of the Andals and the Rhoynar and the First Men , Lord of the Seven Kingdoms and Protector of the Realm , by the word of Eddard of the House Stark , Lord of Winterfell and Warden of the North , I do sentence you to die . ''
+He	O
+took	O
+hold	O
+of	O
+Ice	O
+with	O
+both	O
+hands	O
+and	O
+said	O
+,	O
+``	O
+In	O
+the	O
+name	O
+of	O
+Robert	B-CHARACTER
+of	O
+the	O
+House	O
+Baratheon	O
+,	O
+the	O
+First	O
+of	O
+his	O
+Name	O
+,	O
+King	O
+of	O
+the	O
+Andals	O
+and	O
+the	O
+Rhoynar	O
+and	O
+the	O
+First	O
+Men	O
+,	O
+Lord	O
+of	O
+the	O
+Seven	B-LOCATION
+Kingdoms	I-LOCATION
+and	O
+Protector	O
+of	O
+the	O
+Realm	O
+,	O
+by	O
+the	O
+word	O
+of	O
+Eddard	B-CHARACTER
+of	O
+the	O
+House	O
+Stark	O
+,	O
+Lord	O
+of	O
+Winterfell	B-LOCATION
+and	O
+Warden	O
+of	O
+the	O
+North	B-LOCATION
+,	O
+I	O
+do	O
+sentence	O
+you	O
+to	O
+die	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000032
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He lifted the greatsword high above his head .
+He	O
+lifted	O
+the	O
+greatsword	O
+high	O
+above	O
+his	O
+head	O
+.	O
+
+# id = conivel-a-game-of-thrones-000033
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran 's bastard brother Jon Snow moved closer .
+Bran	B-CHARACTER
+'s	O
+bastard	O
+brother	O
+Jon	B-CHARACTER
+Snow	I-CHARACTER
+moved	O
+closer	O
+.	O
+
+# id = conivel-a-game-of-thrones-000034
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Keep the pony well in hand , ''
+``	O
+Keep	O
+the	O
+pony	O
+well	O
+in	O
+hand	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000035
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he whispered .
+he	O
+whispered	O
+.	O
+
+# id = conivel-a-game-of-thrones-000036
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And do n't look away .
+``	O
+And	O
+do	O
+n't	O
+look	O
+away	O
+.	O
+
+# id = conivel-a-game-of-thrones-000037
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Father will know if you do . ''
+Father	O
+will	O
+know	O
+if	O
+you	O
+do	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000038
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran kept his pony well in hand , and did not look away .
+Bran	B-CHARACTER
+kept	O
+his	O
+pony	O
+well	O
+in	O
+hand	O
+,	O
+and	O
+did	O
+not	O
+look	O
+away	O
+.	O
+
+# id = conivel-a-game-of-thrones-000039
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His father took off the man 's head with a single sure stroke .
+His	O
+father	O
+took	O
+off	O
+the	O
+man	O
+'s	O
+head	O
+with	O
+a	O
+single	O
+sure	O
+stroke	O
+.	O
+
+# id = conivel-a-game-of-thrones-000040
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Blood sprayed out across the snow , as red as surnmerwine .
+Blood	O
+sprayed	O
+out	O
+across	O
+the	O
+snow	O
+,	O
+as	O
+red	O
+as	O
+surnmerwine	O
+.	O
+
+# id = conivel-a-game-of-thrones-000041
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One of the horses reared and had to be restrained to keep from bolting .
+One	O
+of	O
+the	O
+horses	O
+reared	O
+and	O
+had	O
+to	O
+be	O
+restrained	O
+to	O
+keep	O
+from	O
+bolting	O
+.	O
+
+# id = conivel-a-game-of-thrones-000042
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran could not take his eyes off the blood .
+Bran	B-CHARACTER
+could	O
+not	O
+take	O
+his	O
+eyes	O
+off	O
+the	O
+blood	O
+.	O
+
+# id = conivel-a-game-of-thrones-000043
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The snows around the stump drank it eagerly , reddening as he watched .
+The	O
+snows	O
+around	O
+the	O
+stump	O
+drank	O
+it	O
+eagerly	O
+,	O
+reddening	O
+as	O
+he	O
+watched	O
+.	O
+
+# id = conivel-a-game-of-thrones-000044
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The head bounced off a thick root and rolled .
+The	O
+head	O
+bounced	O
+off	O
+a	O
+thick	O
+root	O
+and	O
+rolled	O
+.	O
+
+# id = conivel-a-game-of-thrones-000045
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It came up near Greyjoy 's feet .
+It	O
+came	O
+up	O
+near	O
+Greyjoy	B-CHARACTER
+'s	O
+feet	O
+.	O
+
+# id = conivel-a-game-of-thrones-000046
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Theon was a lean , dark youth of nineteen who found everything amusing .
+Theon	B-CHARACTER
+was	O
+a	O
+lean	O
+,	O
+dark	O
+youth	O
+of	O
+nineteen	O
+who	O
+found	O
+everything	O
+amusing	O
+.	O
+
+# id = conivel-a-game-of-thrones-000047
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He laughed , put his boot on the head , and kicked it away .
+He	O
+laughed	O
+,	O
+put	O
+his	O
+boot	O
+on	O
+the	O
+head	O
+,	O
+and	O
+kicked	O
+it	O
+away	O
+.	O
+
+# id = conivel-a-game-of-thrones-000048
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ass , ''
+``	O
+Ass	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000049
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jon muttered , low enough so Greyjoy did not hear .
+Jon	B-CHARACTER
+muttered	O
+,	O
+low	O
+enough	O
+so	O
+Greyjoy	B-CHARACTER
+did	O
+not	O
+hear	O
+.	O
+
+# id = conivel-a-game-of-thrones-000050
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He put a hand on Bran 's shoulder , and Bran looked over at his bastard brother .
+He	O
+put	O
+a	O
+hand	O
+on	O
+Bran	B-CHARACTER
+'s	O
+shoulder	O
+,	O
+and	O
+Bran	B-CHARACTER
+looked	O
+over	O
+at	O
+his	O
+bastard	O
+brother	O
+.	O
+
+# id = conivel-a-game-of-thrones-000051
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You did well , ''
+``	O
+You	O
+did	O
+well	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000052
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jon told him solemnly .
+Jon	B-CHARACTER
+told	O
+him	O
+solemnly	O
+.	O
+
+# id = conivel-a-game-of-thrones-000053
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jon was fourteen , an old hand at justice .
+Jon	B-CHARACTER
+was	O
+fourteen	O
+,	O
+an	O
+old	O
+hand	O
+at	O
+justice	O
+.	O
+
+# id = conivel-a-game-of-thrones-000054
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It seemed colder on the long ride back to Winterfell , though the wind had died by then and the sun was higher in the sky .
+It	O
+seemed	O
+colder	O
+on	O
+the	O
+long	O
+ride	O
+back	O
+to	O
+Winterfell	B-LOCATION
+,	O
+though	O
+the	O
+wind	O
+had	O
+died	O
+by	O
+then	O
+and	O
+the	O
+sun	O
+was	O
+higher	O
+in	O
+the	O
+sky	O
+.	O
+
+# id = conivel-a-game-of-thrones-000055
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran rode with his brothers , well ahead of the main party , his pony struggling hard to keep up with their horses .
+Bran	B-CHARACTER
+rode	O
+with	O
+his	O
+brothers	O
+,	O
+well	O
+ahead	O
+of	O
+the	O
+main	O
+party	O
+,	O
+his	O
+pony	O
+struggling	O
+hard	O
+to	O
+keep	O
+up	O
+with	O
+their	O
+horses	O
+.	O
+
+# id = conivel-a-game-of-thrones-000056
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The deserter died bravely , ''
+``	O
+The	O
+deserter	O
+died	O
+bravely	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000057
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Robb said .
+Robb	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000058
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was big and broad and growing every day , with his mother 's coloring , the fair skin , red-brown hair , and blue eyes of the Tullys of Riverrun .
+He	O
+was	O
+big	O
+and	O
+broad	O
+and	O
+growing	O
+every	O
+day	O
+,	O
+with	O
+his	O
+mother	O
+'s	O
+coloring	O
+,	O
+the	O
+fair	O
+skin	O
+,	O
+red-brown	O
+hair	O
+,	O
+and	O
+blue	O
+eyes	O
+of	O
+the	O
+Tullys	B-CHARACTER
+of	O
+Riverrun	B-LOCATION
+.	O
+
+# id = conivel-a-game-of-thrones-000059
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He had courage , at the least . ''
+``	O
+He	O
+had	O
+courage	O
+,	O
+at	O
+the	O
+least	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000060
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , ''
+``	O
+No	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000061
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jon Snow said quietly .
+Jon	B-CHARACTER
+Snow	I-CHARACTER
+said	O
+quietly	O
+.	O
+
+# id = conivel-a-game-of-thrones-000062
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It was not courage .
+``	O
+It	O
+was	O
+not	O
+courage	O
+.	O
+
+# id = conivel-a-game-of-thrones-000063
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This one was dead of fear .
+This	O
+one	O
+was	O
+dead	O
+of	O
+fear	O
+.	O
+
+# id = conivel-a-game-of-thrones-000064
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You could see it in his eyes , Stark . ''
+You	O
+could	O
+see	O
+it	O
+in	O
+his	O
+eyes	O
+,	O
+Stark	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000065
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jon 's eyes were a grey so dark they seemed almost black , but there was little they did not see .
+Jon	B-CHARACTER
+'s	O
+eyes	O
+were	O
+a	O
+grey	O
+so	O
+dark	O
+they	O
+seemed	O
+almost	O
+black	O
+,	O
+but	O
+there	O
+was	O
+little	O
+they	O
+did	O
+not	O
+see	O
+.	O
+
+# id = conivel-a-game-of-thrones-000066
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was of an age with Robb , but they did not look alike .
+He	O
+was	O
+of	O
+an	O
+age	O
+with	O
+Robb	B-CHARACTER
+,	O
+but	O
+they	O
+did	O
+not	O
+look	O
+alike	O
+.	O
+
+# id = conivel-a-game-of-thrones-000067
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jon was slender where Robb was muscular , dark where Robb was fair , graceful and quick where his half brother was strong and fast .
+Jon	B-CHARACTER
+was	O
+slender	O
+where	O
+Robb	B-CHARACTER
+was	O
+muscular	O
+,	O
+dark	O
+where	O
+Robb	B-CHARACTER
+was	O
+fair	O
+,	O
+graceful	O
+and	O
+quick	O
+where	O
+his	O
+half	O
+brother	O
+was	O
+strong	O
+and	O
+fast	O
+.	O
+
+# id = conivel-a-game-of-thrones-000068
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Robb was not impressed .
+Robb	B-CHARACTER
+was	O
+not	O
+impressed	O
+.	O
+
+# id = conivel-a-game-of-thrones-000069
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The Others take his eyes , ''
+``	O
+The	O
+Others	O
+take	O
+his	O
+eyes	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000070
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he swore .
+he	O
+swore	O
+.	O
+
+# id = conivel-a-game-of-thrones-000071
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He died well .
+``	O
+He	O
+died	O
+well	O
+.	O
+
+# id = conivel-a-game-of-thrones-000072
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Race you to the bridge ? ''
+Race	O
+you	O
+to	O
+the	O
+bridge	O
+?	O
+''	O
+
+# id = conivel-a-game-of-thrones-000073
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Done , ''
+``	O
+Done	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000074
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jon said , kicking his horse forward .
+Jon	B-CHARACTER
+said	O
+,	O
+kicking	O
+his	O
+horse	O
+forward	O
+.	O
+
+# id = conivel-a-game-of-thrones-000075
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Robb cursed and followed , and they galloped off down the trail , Robb laughing and hooting , Jon silent and intent .
+Robb	B-CHARACTER
+cursed	O
+and	O
+followed	O
+,	O
+and	O
+they	O
+galloped	O
+off	O
+down	O
+the	O
+trail	O
+,	O
+Robb	B-CHARACTER
+laughing	O
+and	O
+hooting	O
+,	O
+Jon	B-CHARACTER
+silent	O
+and	O
+intent	O
+.	O
+
+# id = conivel-a-game-of-thrones-000076
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The hooves of their horses kicked up showers of snow as they went .
+The	O
+hooves	O
+of	O
+their	O
+horses	O
+kicked	O
+up	O
+showers	O
+of	O
+snow	O
+as	O
+they	O
+went	O
+.	O
+
+# id = conivel-a-game-of-thrones-000077
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran did not try to follow .
+Bran	B-CHARACTER
+did	O
+not	O
+try	O
+to	O
+follow	O
+.	O
+
+# id = conivel-a-game-of-thrones-000078
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His pony could not keep up .
+His	O
+pony	O
+could	O
+not	O
+keep	O
+up	O
+.	O
+
+# id = conivel-a-game-of-thrones-000079
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had seen the ragged man 's eyes , and he was thinking of them now .
+He	O
+had	O
+seen	O
+the	O
+ragged	O
+man	O
+'s	O
+eyes	O
+,	O
+and	O
+he	O
+was	O
+thinking	O
+of	O
+them	O
+now	O
+.	O
+
+# id = conivel-a-game-of-thrones-000080
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = After a while , the sound of Robb 's laughter receded , and the woods grew silent again .
+After	O
+a	O
+while	O
+,	O
+the	O
+sound	O
+of	O
+Robb	B-CHARACTER
+'s	O
+laughter	O
+receded	O
+,	O
+and	O
+the	O
+woods	O
+grew	O
+silent	O
+again	O
+.	O
+
+# id = conivel-a-game-of-thrones-000081
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So deep in thought was he that he never heard the rest of the party until his father moved up to ride beside him .
+So	O
+deep	O
+in	O
+thought	O
+was	O
+he	O
+that	O
+he	O
+never	O
+heard	O
+the	O
+rest	O
+of	O
+the	O
+party	O
+until	O
+his	O
+father	O
+moved	O
+up	O
+to	O
+ride	O
+beside	O
+him	O
+.	O
+
+# id = conivel-a-game-of-thrones-000082
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Are you well , Bran ? ''
+``	O
+Are	O
+you	O
+well	O
+,	O
+Bran	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-a-game-of-thrones-000083
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he asked , not unkindly .
+he	O
+asked	O
+,	O
+not	O
+unkindly	O
+.	O
+
+# id = conivel-a-game-of-thrones-000084
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , Father , ''
+``	O
+Yes	O
+,	O
+Father	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000085
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran told him .
+Bran	B-CHARACTER
+told	O
+him	O
+.	O
+
+# id = conivel-a-game-of-thrones-000086
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He looked up .
+He	O
+looked	O
+up	O
+.	O
+
+# id = conivel-a-game-of-thrones-000087
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Wrapped in his furs and leathers , mounted on his great warhorse , his lord father loomed over him like a giant .
+Wrapped	O
+in	O
+his	O
+furs	O
+and	O
+leathers	O
+,	O
+mounted	O
+on	O
+his	O
+great	O
+warhorse	O
+,	O
+his	O
+lord	O
+father	O
+loomed	O
+over	O
+him	O
+like	O
+a	O
+giant	O
+.	O
+
+# id = conivel-a-game-of-thrones-000088
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Robb says the man died bravely , but Jon says he was afraid . ''
+``	O
+Robb	B-CHARACTER
+says	O
+the	O
+man	O
+died	O
+bravely	O
+,	O
+but	O
+Jon	B-CHARACTER
+says	O
+he	O
+was	O
+afraid	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000089
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What do you think ? ''
+``	O
+What	O
+do	O
+you	O
+think	O
+?	O
+''	O
+
+# id = conivel-a-game-of-thrones-000090
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = his father asked .
+his	O
+father	O
+asked	O
+.	O
+
+# id = conivel-a-game-of-thrones-000091
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran thought about it .
+Bran	B-CHARACTER
+thought	O
+about	O
+it	O
+.	O
+
+# id = conivel-a-game-of-thrones-000092
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Can a man still be brave if he 's afraid ? ''
+``	O
+Can	O
+a	O
+man	O
+still	O
+be	O
+brave	O
+if	O
+he	O
+'s	O
+afraid	O
+?	O
+''	O
+
+# id = conivel-a-game-of-thrones-000093
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That is the only time a man can be brave , ''
+``	O
+That	O
+is	O
+the	O
+only	O
+time	O
+a	O
+man	O
+can	O
+be	O
+brave	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000094
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = his father told him .
+his	O
+father	O
+told	O
+him	O
+.	O
+
+# id = conivel-a-game-of-thrones-000095
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do you understand why I did it ? ''
+``	O
+Do	O
+you	O
+understand	O
+why	O
+I	O
+did	O
+it	O
+?	O
+''	O
+
+# id = conivel-a-game-of-thrones-000096
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He was a wildling , ''
+``	O
+He	O
+was	O
+a	O
+wildling	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000097
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran said .
+Bran	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000098
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They carry off women and sell them to the Others . ''
+``	O
+They	O
+carry	O
+off	O
+women	O
+and	O
+sell	O
+them	O
+to	O
+the	O
+Others	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000099
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His lord father smiled .
+His	O
+lord	O
+father	O
+smiled	O
+.	O
+
+# id = conivel-a-game-of-thrones-000100
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Old Nan has been telling you stories again .
+``	O
+Old	B-CHARACTER
+Nan	I-CHARACTER
+has	O
+been	O
+telling	O
+you	O
+stories	O
+again	O
+.	O
+
+# id = conivel-a-game-of-thrones-000101
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In truth , the man was an oathbreaker , a deserter from the Night 's Watch .
+In	O
+truth	O
+,	O
+the	O
+man	O
+was	O
+an	O
+oathbreaker	O
+,	O
+a	O
+deserter	O
+from	O
+the	O
+Night	O
+'s	O
+Watch	O
+.	O
+
+# id = conivel-a-game-of-thrones-000102
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No man is more dangerous .
+No	O
+man	O
+is	O
+more	O
+dangerous	O
+.	O
+
+# id = conivel-a-game-of-thrones-000103
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The deserter knows his life is forfeit if he is taken , so he will not flinch from any crime , no matter how vile .
+The	O
+deserter	O
+knows	O
+his	O
+life	O
+is	O
+forfeit	O
+if	O
+he	O
+is	O
+taken	O
+,	O
+so	O
+he	O
+will	O
+not	O
+flinch	O
+from	O
+any	O
+crime	O
+,	O
+no	O
+matter	O
+how	O
+vile	O
+.	O
+
+# id = conivel-a-game-of-thrones-000104
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But you mistake me .
+But	O
+you	O
+mistake	O
+me	O
+.	O
+
+# id = conivel-a-game-of-thrones-000105
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The question was not why the man had to die , but why I must do it . ''
+The	O
+question	O
+was	O
+not	O
+why	O
+the	O
+man	O
+had	O
+to	O
+die	O
+,	O
+but	O
+why	O
+I	O
+must	O
+do	O
+it	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000106
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran had no answer for that .
+Bran	B-CHARACTER
+had	O
+no	O
+answer	O
+for	O
+that	O
+.	O
+
+# id = conivel-a-game-of-thrones-000107
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` King Robert has a headsman , ''
+``	O
+King	B-CHARACTER
+Robert	I-CHARACTER
+has	O
+a	O
+headsman	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000108
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said , uncertainly .
+he	O
+said	O
+,	O
+uncertainly	O
+.	O
+
+# id = conivel-a-game-of-thrones-000109
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He does , ''
+``	O
+He	O
+does	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000110
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = his father admitted .
+his	O
+father	O
+admitted	O
+.	O
+
+# id = conivel-a-game-of-thrones-000111
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` As did the Targaryen kings before him .
+``	O
+As	O
+did	O
+the	O
+Targaryen	B-CHARACTER
+kings	O
+before	O
+him	O
+.	O
+
+# id = conivel-a-game-of-thrones-000112
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Yet our way is the older way .
+Yet	O
+our	O
+way	O
+is	O
+the	O
+older	O
+way	O
+.	O
+
+# id = conivel-a-game-of-thrones-000113
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The blood of the First Men still flows in the veins of the Starks , and we hold to the belief that the man who passes the sentence should swing the sword .
+The	O
+blood	O
+of	O
+the	O
+First	O
+Men	O
+still	O
+flows	O
+in	O
+the	O
+veins	O
+of	O
+the	O
+Starks	B-CHARACTER
+,	O
+and	O
+we	O
+hold	O
+to	O
+the	O
+belief	O
+that	O
+the	O
+man	O
+who	O
+passes	O
+the	O
+sentence	O
+should	O
+swing	O
+the	O
+sword	O
+.	O
+
+# id = conivel-a-game-of-thrones-000114
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If you would take a man 's life , you owe it to him to look into his eyes and hear his final words .
+If	O
+you	O
+would	O
+take	O
+a	O
+man	O
+'s	O
+life	O
+,	O
+you	O
+owe	O
+it	O
+to	O
+him	O
+to	O
+look	O
+into	O
+his	O
+eyes	O
+and	O
+hear	O
+his	O
+final	O
+words	O
+.	O
+
+# id = conivel-a-game-of-thrones-000115
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And if you can not bear to do that , then perhaps the man does not deserve to die . ''
+And	O
+if	O
+you	O
+can	O
+not	O
+bear	O
+to	O
+do	O
+that	O
+,	O
+then	O
+perhaps	O
+the	O
+man	O
+does	O
+not	O
+deserve	O
+to	O
+die	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000116
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` One day , Bran , you will be Robb 's bannerman , holding a keep of your own for your brother and your king , and justice will fall to you .
+``	O
+One	O
+day	O
+,	O
+Bran	B-CHARACTER
+,	O
+you	O
+will	O
+be	O
+Robb	B-CHARACTER
+'s	O
+bannerman	O
+,	O
+holding	O
+a	O
+keep	O
+of	O
+your	O
+own	O
+for	O
+your	O
+brother	O
+and	O
+your	O
+king	O
+,	O
+and	O
+justice	O
+will	O
+fall	O
+to	O
+you	O
+.	O
+
+# id = conivel-a-game-of-thrones-000117
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When that day comes , you must take no pleasure in the task , but neither must you look away .
+When	O
+that	O
+day	O
+comes	O
+,	O
+you	O
+must	O
+take	O
+no	O
+pleasure	O
+in	O
+the	O
+task	O
+,	O
+but	O
+neither	O
+must	O
+you	O
+look	O
+away	O
+.	O
+
+# id = conivel-a-game-of-thrones-000118
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A ruler who hides behind paid executioners soon forgets what death is . ''
+A	O
+ruler	O
+who	O
+hides	O
+behind	O
+paid	O
+executioners	O
+soon	O
+forgets	O
+what	O
+death	O
+is	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000119
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That was when Jon reappeared on the crest of the hill before them .
+That	O
+was	O
+when	O
+Jon	B-CHARACTER
+reappeared	O
+on	O
+the	O
+crest	O
+of	O
+the	O
+hill	O
+before	O
+them	O
+.	O
+
+# id = conivel-a-game-of-thrones-000120
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He waved and shouted down at them .
+He	O
+waved	O
+and	O
+shouted	O
+down	O
+at	O
+them	O
+.	O
+
+# id = conivel-a-game-of-thrones-000121
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Father , Bran , come quickly , see what Robb has found ! ''
+``	O
+Father	O
+,	O
+Bran	B-CHARACTER
+,	O
+come	O
+quickly	O
+,	O
+see	O
+what	O
+Robb	B-CHARACTER
+has	O
+found	O
+!	O
+''	O
+
+# id = conivel-a-game-of-thrones-000122
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then he was gone again .
+Then	O
+he	O
+was	O
+gone	O
+again	O
+.	O
+
+# id = conivel-a-game-of-thrones-000123
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jory rode up beside them .
+Jory	B-CHARACTER
+rode	O
+up	O
+beside	O
+them	O
+.	O
+
+# id = conivel-a-game-of-thrones-000124
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Trouble , my lord ? ''
+``	O
+Trouble	O
+,	O
+my	O
+lord	O
+?	O
+''	O
+
+# id = conivel-a-game-of-thrones-000125
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Beyond a doubt , ''
+``	O
+Beyond	O
+a	O
+doubt	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000126
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = his lord father said .
+his	O
+lord	O
+father	O
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000127
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Come , let us see what mischief my sons have rooted out now . ''
+``	O
+Come	O
+,	O
+let	O
+us	O
+see	O
+what	O
+mischief	O
+my	O
+sons	O
+have	O
+rooted	O
+out	O
+now	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000128
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He sent his horse into a trot .
+He	O
+sent	O
+his	O
+horse	O
+into	O
+a	O
+trot	O
+.	O
+
+# id = conivel-a-game-of-thrones-000129
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jory and Bran and the rest came after .
+Jory	B-CHARACTER
+and	O
+Bran	B-CHARACTER
+and	O
+the	O
+rest	O
+came	O
+after	O
+.	O
+
+# id = conivel-a-game-of-thrones-000130
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They found Robb on the riverbank north of the bridge , with Jon still mounted beside him .
+They	O
+found	O
+Robb	B-CHARACTER
+on	O
+the	O
+riverbank	O
+north	O
+of	O
+the	O
+bridge	O
+,	O
+with	O
+Jon	B-CHARACTER
+still	O
+mounted	O
+beside	O
+him	O
+.	O
+
+# id = conivel-a-game-of-thrones-000131
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The late summer snows had been heavy this moonturn .
+The	O
+late	O
+summer	O
+snows	O
+had	O
+been	O
+heavy	O
+this	O
+moonturn	O
+.	O
+
+# id = conivel-a-game-of-thrones-000132
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Robb stood knee-deep in white , his hood pulled back so the sun shone in his hair .
+Robb	B-CHARACTER
+stood	O
+knee-deep	O
+in	O
+white	O
+,	O
+his	O
+hood	O
+pulled	O
+back	O
+so	O
+the	O
+sun	O
+shone	O
+in	O
+his	O
+hair	O
+.	O
+
+# id = conivel-a-game-of-thrones-000133
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was cradling something in his arm , while the boys talked in hushed , excited voices .
+He	O
+was	O
+cradling	O
+something	O
+in	O
+his	O
+arm	O
+,	O
+while	O
+the	O
+boys	O
+talked	O
+in	O
+hushed	O
+,	O
+excited	O
+voices	O
+.	O
+
+# id = conivel-a-game-of-thrones-000134
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The riders picked their way carefully through the drifts , groping for solid footing on the hidden , uneven ground .
+The	O
+riders	O
+picked	O
+their	O
+way	O
+carefully	O
+through	O
+the	O
+drifts	O
+,	O
+groping	O
+for	O
+solid	O
+footing	O
+on	O
+the	O
+hidden	O
+,	O
+uneven	O
+ground	O
+.	O
+
+# id = conivel-a-game-of-thrones-000135
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jory Cassel and Theon Greyjoy were the first to reach the boys .
+Jory	B-CHARACTER
+Cassel	I-CHARACTER
+and	O
+Theon	B-CHARACTER
+Greyjoy	I-CHARACTER
+were	O
+the	O
+first	O
+to	O
+reach	O
+the	O
+boys	O
+.	O
+
+# id = conivel-a-game-of-thrones-000136
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Greyjoy was laughing and joking as he rode .
+Greyjoy	B-CHARACTER
+was	O
+laughing	O
+and	O
+joking	O
+as	O
+he	O
+rode	O
+.	O
+
+# id = conivel-a-game-of-thrones-000137
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran heard the breath go out of him .
+Bran	B-CHARACTER
+heard	O
+the	O
+breath	O
+go	O
+out	O
+of	O
+him	O
+.	O
+
+# id = conivel-a-game-of-thrones-000138
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Gods ! ''
+``	O
+Gods	O
+!	O
+''	O
+
+# id = conivel-a-game-of-thrones-000139
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he exclaimed , struggling to keep control of his horse as he reached for his sword .
+he	O
+exclaimed	O
+,	O
+struggling	O
+to	O
+keep	O
+control	O
+of	O
+his	O
+horse	O
+as	O
+he	O
+reached	O
+for	O
+his	O
+sword	O
+.	O
+
+# id = conivel-a-game-of-thrones-000140
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jory 's sword was already out .
+Jory	B-CHARACTER
+'s	O
+sword	O
+was	O
+already	O
+out	O
+.	O
+
+# id = conivel-a-game-of-thrones-000141
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Robb , get away from it ! ''
+``	O
+Robb	B-CHARACTER
+,	O
+get	O
+away	O
+from	O
+it	O
+!	O
+''	O
+
+# id = conivel-a-game-of-thrones-000142
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he called as his horse reared under him .
+he	O
+called	O
+as	O
+his	O
+horse	O
+reared	O
+under	O
+him	O
+.	O
+
+# id = conivel-a-game-of-thrones-000143
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Robb grinned and looked up from the bundle in his arms .
+Robb	B-CHARACTER
+grinned	O
+and	O
+looked	O
+up	O
+from	O
+the	O
+bundle	O
+in	O
+his	O
+arms	O
+.	O
+
+# id = conivel-a-game-of-thrones-000144
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` She ca n't hurt you , ''
+``	O
+She	O
+ca	O
+n't	O
+hurt	O
+you	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000145
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said .
+he	O
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000146
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` She 's dead , Jory . ''
+``	O
+She	O
+'s	O
+dead	O
+,	O
+Jory	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000147
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran was afire with curiosity by then .
+Bran	B-CHARACTER
+was	O
+afire	O
+with	O
+curiosity	O
+by	O
+then	O
+.	O
+
+# id = conivel-a-game-of-thrones-000148
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He would have spurred the pony faster , but his father made them dismount beside the bridge and approach on foot .
+He	O
+would	O
+have	O
+spurred	O
+the	O
+pony	O
+faster	O
+,	O
+but	O
+his	O
+father	O
+made	O
+them	O
+dismount	O
+beside	O
+the	O
+bridge	O
+and	O
+approach	O
+on	O
+foot	O
+.	O
+
+# id = conivel-a-game-of-thrones-000149
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran jumped off and ran .
+Bran	B-CHARACTER
+jumped	O
+off	O
+and	O
+ran	O
+.	O
+
+# id = conivel-a-game-of-thrones-000150
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = By then Jon , Jory , and Theon Greyjoy had all dismounted as well .
+By	O
+then	O
+Jon	B-CHARACTER
+,	O
+Jory	B-CHARACTER
+,	O
+and	O
+Theon	B-CHARACTER
+Greyjoy	I-CHARACTER
+had	O
+all	O
+dismounted	O
+as	O
+well	O
+.	O
+
+# id = conivel-a-game-of-thrones-000151
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What in the seven hells is it ? ''
+``	O
+What	O
+in	O
+the	O
+seven	O
+hells	O
+is	O
+it	O
+?	O
+''	O
+
+# id = conivel-a-game-of-thrones-000152
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Greyjoy was saying .
+Greyjoy	B-CHARACTER
+was	O
+saying	O
+.	O
+
+# id = conivel-a-game-of-thrones-000153
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A wolf , ''
+``	O
+A	O
+wolf	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000154
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Robb told him .
+Robb	B-CHARACTER
+told	O
+him	O
+.	O
+
+# id = conivel-a-game-of-thrones-000155
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A freak , ''
+``	O
+A	O
+freak	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000156
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Greyjoy said .
+Greyjoy	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000157
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Look at the size of it . ''
+``	O
+Look	O
+at	O
+the	O
+size	O
+of	O
+it	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000158
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran 's heart was thumping in his chest as he pushed through a waist-high drift to his brothers ' side .
+Bran	B-CHARACTER
+'s	O
+heart	O
+was	O
+thumping	O
+in	O
+his	O
+chest	O
+as	O
+he	O
+pushed	O
+through	O
+a	O
+waist-high	O
+drift	O
+to	O
+his	O
+brothers	O
+'	O
+side	O
+.	O
+
+# id = conivel-a-game-of-thrones-000159
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Half-buried in bloodstained snow , a huge dark shape slumped in death .
+Half-buried	O
+in	O
+bloodstained	O
+snow	O
+,	O
+a	O
+huge	O
+dark	O
+shape	O
+slumped	O
+in	O
+death	O
+.	O
+
+# id = conivel-a-game-of-thrones-000160
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ice had formed in its shaggy grey fur , and the faint smell of corruption clung to it like a woman 's perfume .
+Ice	O
+had	O
+formed	O
+in	O
+its	O
+shaggy	O
+grey	O
+fur	O
+,	O
+and	O
+the	O
+faint	O
+smell	O
+of	O
+corruption	O
+clung	O
+to	O
+it	O
+like	O
+a	O
+woman	O
+'s	O
+perfume	O
+.	O
+
+# id = conivel-a-game-of-thrones-000161
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran glimpsed blind eyes crawling with maggots , a wide mouth full of yellowed teeth .
+Bran	B-CHARACTER
+glimpsed	O
+blind	O
+eyes	O
+crawling	O
+with	O
+maggots	O
+,	O
+a	O
+wide	O
+mouth	O
+full	O
+of	O
+yellowed	O
+teeth	O
+.	O
+
+# id = conivel-a-game-of-thrones-000162
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But it was the size of it that made him gasp .
+But	O
+it	O
+was	O
+the	O
+size	O
+of	O
+it	O
+that	O
+made	O
+him	O
+gasp	O
+.	O
+
+# id = conivel-a-game-of-thrones-000163
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was bigger than his pony , twice the size of the largest hound in his father 's kennel .
+It	O
+was	O
+bigger	O
+than	O
+his	O
+pony	O
+,	O
+twice	O
+the	O
+size	O
+of	O
+the	O
+largest	O
+hound	O
+in	O
+his	O
+father	O
+'s	O
+kennel	O
+.	O
+
+# id = conivel-a-game-of-thrones-000164
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's no freak , ''
+``	O
+It	O
+'s	O
+no	O
+freak	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000165
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jon said calmly .
+Jon	B-CHARACTER
+said	O
+calmly	O
+.	O
+
+# id = conivel-a-game-of-thrones-000166
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That 's a direwolf .
+``	O
+That	O
+'s	O
+a	O
+direwolf	O
+.	O
+
+# id = conivel-a-game-of-thrones-000167
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They grow larger than the other kind . ''
+They	O
+grow	O
+larger	O
+than	O
+the	O
+other	O
+kind	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000168
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Theon Greyjoy said , `` There 's not been a direwolf sighted south of the Wall in two hundred years . ''
+Theon	B-CHARACTER
+Greyjoy	I-CHARACTER
+said	O
+,	O
+``	O
+There	O
+'s	O
+not	O
+been	O
+a	O
+direwolf	O
+sighted	O
+south	O
+of	O
+the	O
+Wall	B-LOCATION
+in	O
+two	O
+hundred	O
+years	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000169
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I see one now , ''
+``	O
+I	O
+see	O
+one	O
+now	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000170
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jon replied .
+Jon	B-CHARACTER
+replied	O
+.	O
+
+# id = conivel-a-game-of-thrones-000171
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran tore his eyes away from the monster .
+Bran	B-CHARACTER
+tore	O
+his	O
+eyes	O
+away	O
+from	O
+the	O
+monster	O
+.	O
+
+# id = conivel-a-game-of-thrones-000172
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That was when he noticed the bundle in Robb 's arms .
+That	O
+was	O
+when	O
+he	O
+noticed	O
+the	O
+bundle	O
+in	O
+Robb	B-CHARACTER
+'s	O
+arms	O
+.	O
+
+# id = conivel-a-game-of-thrones-000173
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He gave a cry of delight and moved closer .
+He	O
+gave	O
+a	O
+cry	O
+of	O
+delight	O
+and	O
+moved	O
+closer	O
+.	O
+
+# id = conivel-a-game-of-thrones-000174
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The pup was a tiny ball of grey-black fur , its eyes still closed .
+The	O
+pup	O
+was	O
+a	O
+tiny	O
+ball	O
+of	O
+grey-black	O
+fur	O
+,	O
+its	O
+eyes	O
+still	O
+closed	O
+.	O
+
+# id = conivel-a-game-of-thrones-000175
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It nuzzled blindly against Robb 's chest as he cradled it , searching for milk among his leathers , making a sad little whimpery sound .
+It	O
+nuzzled	O
+blindly	O
+against	O
+Robb	B-CHARACTER
+'s	O
+chest	O
+as	O
+he	O
+cradled	O
+it	O
+,	O
+searching	O
+for	O
+milk	O
+among	O
+his	O
+leathers	O
+,	O
+making	O
+a	O
+sad	O
+little	O
+whimpery	O
+sound	O
+.	O
+
+# id = conivel-a-game-of-thrones-000176
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran reached out hesitantly .
+Bran	B-CHARACTER
+reached	O
+out	O
+hesitantly	O
+.	O
+
+# id = conivel-a-game-of-thrones-000177
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Go on , ''
+``	O
+Go	O
+on	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000178
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Robb told him .
+Robb	B-CHARACTER
+told	O
+him	O
+.	O
+
+# id = conivel-a-game-of-thrones-000179
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You can touch him . ''
+``	O
+You	O
+can	O
+touch	O
+him	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000180
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran gave the pup a quick nervous stroke , then turned as Jon said , `` Here you go . ''
+Bran	B-CHARACTER
+gave	O
+the	O
+pup	O
+a	O
+quick	O
+nervous	O
+stroke	O
+,	O
+then	O
+turned	O
+as	O
+Jon	B-CHARACTER
+said	O
+,	O
+``	O
+Here	O
+you	O
+go	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000181
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His half brother put a second pup into his arms .
+His	O
+half	O
+brother	O
+put	O
+a	O
+second	O
+pup	O
+into	O
+his	O
+arms	O
+.	O
+
+# id = conivel-a-game-of-thrones-000182
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There are five of them . ''
+``	O
+There	O
+are	O
+five	O
+of	O
+them	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000183
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran sat down in the snow and hugged the wolf pup to his face .
+Bran	B-CHARACTER
+sat	O
+down	O
+in	O
+the	O
+snow	O
+and	O
+hugged	O
+the	O
+wolf	O
+pup	O
+to	O
+his	O
+face	O
+.	O
+
+# id = conivel-a-game-of-thrones-000184
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Its fur was soft and warm against his cheek .
+Its	O
+fur	O
+was	O
+soft	O
+and	O
+warm	O
+against	O
+his	O
+cheek	O
+.	O
+
+# id = conivel-a-game-of-thrones-000185
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Direwolves loose in the realm , after so many years , ''
+``	O
+Direwolves	O
+loose	O
+in	O
+the	O
+realm	O
+,	O
+after	O
+so	O
+many	O
+years	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000186
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = muttered Hullen , the master of horse .
+muttered	O
+Hullen	B-CHARACTER
+,	O
+the	O
+master	O
+of	O
+horse	O
+.	O
+
+# id = conivel-a-game-of-thrones-000187
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I like it not . ''
+``	O
+I	O
+like	O
+it	O
+not	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000188
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It is a sign , ''
+``	O
+It	O
+is	O
+a	O
+sign	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000189
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jory said .
+Jory	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000190
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Father frowned .
+Father	O
+frowned	O
+.	O
+
+# id = conivel-a-game-of-thrones-000191
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` This is only a dead animal , Jory , ''
+``	O
+This	O
+is	O
+only	O
+a	O
+dead	O
+animal	O
+,	O
+Jory	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000192
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said .
+he	O
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000193
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Yet he seemed troubled .
+Yet	O
+he	O
+seemed	O
+troubled	O
+.	O
+
+# id = conivel-a-game-of-thrones-000194
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Snow crunched under his boots as he moved around the body .
+Snow	O
+crunched	O
+under	O
+his	O
+boots	O
+as	O
+he	O
+moved	O
+around	O
+the	O
+body	O
+.	O
+
+# id = conivel-a-game-of-thrones-000195
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do we know what killed her ? ''
+``	O
+Do	O
+we	O
+know	O
+what	O
+killed	O
+her	O
+?	O
+''	O
+
+# id = conivel-a-game-of-thrones-000196
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There 's something in the throat , ''
+``	O
+There	O
+'s	O
+something	O
+in	O
+the	O
+throat	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000197
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Robb told him , proud to have found the answer before his father even asked .
+Robb	B-CHARACTER
+told	O
+him	O
+,	O
+proud	O
+to	O
+have	O
+found	O
+the	O
+answer	O
+before	O
+his	O
+father	O
+even	O
+asked	O
+.	O
+
+# id = conivel-a-game-of-thrones-000198
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There , just under the jaw . ''
+``	O
+There	O
+,	O
+just	O
+under	O
+the	O
+jaw	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000199
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His father knelt and groped under the beast 's head with his hand .
+His	O
+father	O
+knelt	O
+and	O
+groped	O
+under	O
+the	O
+beast	O
+'s	O
+head	O
+with	O
+his	O
+hand	O
+.	O
+
+# id = conivel-a-game-of-thrones-000200
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He gave a yank and held it up for all to see .
+He	O
+gave	O
+a	O
+yank	O
+and	O
+held	O
+it	O
+up	O
+for	O
+all	O
+to	O
+see	O
+.	O
+
+# id = conivel-a-game-of-thrones-000201
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A foot of shattered antler , tines snapped off , all wet with blood .
+A	O
+foot	O
+of	O
+shattered	O
+antler	O
+,	O
+tines	O
+snapped	O
+off	O
+,	O
+all	O
+wet	O
+with	O
+blood	O
+.	O
+
+# id = conivel-a-game-of-thrones-000202
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A sudden silence descended over the party .
+A	O
+sudden	O
+silence	O
+descended	O
+over	O
+the	O
+party	O
+.	O
+
+# id = conivel-a-game-of-thrones-000203
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The men looked at the antler uneasily , and no one dared to speak .
+The	O
+men	O
+looked	O
+at	O
+the	O
+antler	O
+uneasily	O
+,	O
+and	O
+no	O
+one	O
+dared	O
+to	O
+speak	O
+.	O
+
+# id = conivel-a-game-of-thrones-000204
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Even Bran could sense their fear , though he did not understand .
+Even	O
+Bran	B-CHARACTER
+could	O
+sense	O
+their	O
+fear	O
+,	O
+though	O
+he	O
+did	O
+not	O
+understand	O
+.	O
+
+# id = conivel-a-game-of-thrones-000205
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His father tossed the antler to the side and cleansed his hands in the snow .
+His	O
+father	O
+tossed	O
+the	O
+antler	O
+to	O
+the	O
+side	O
+and	O
+cleansed	O
+his	O
+hands	O
+in	O
+the	O
+snow	O
+.	O
+
+# id = conivel-a-game-of-thrones-000206
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm surprised she lived long enough to whelp , ''
+``	O
+I	O
+'m	O
+surprised	O
+she	O
+lived	O
+long	O
+enough	O
+to	O
+whelp	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000207
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said .
+he	O
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000208
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His voice broke the spell .
+His	O
+voice	O
+broke	O
+the	O
+spell	O
+.	O
+
+# id = conivel-a-game-of-thrones-000209
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Maybe she did n't , ''
+``	O
+Maybe	O
+she	O
+did	O
+n't	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000210
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jory said .
+Jory	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000211
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 've heard tales ... maybe the bitch was already dead when the pups came . ''
+``	O
+I	O
+'ve	O
+heard	O
+tales	O
+...	O
+maybe	O
+the	O
+bitch	O
+was	O
+already	O
+dead	O
+when	O
+the	O
+pups	O
+came	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000212
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Born with the dead , ''
+``	O
+Born	O
+with	O
+the	O
+dead	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000213
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = another man put in .
+another	O
+man	O
+put	O
+in	O
+.	O
+
+# id = conivel-a-game-of-thrones-000214
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Worse luck . ''
+``	O
+Worse	O
+luck	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000215
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No matter , ''
+``	O
+No	O
+matter	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000216
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Hullen .
+said	O
+Hullen	B-CHARACTER
+.	O
+
+# id = conivel-a-game-of-thrones-000217
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They be dead soon enough too . ''
+``	O
+They	O
+be	O
+dead	O
+soon	O
+enough	O
+too	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000218
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran gave a wordless cry of dismay .
+Bran	B-CHARACTER
+gave	O
+a	O
+wordless	O
+cry	O
+of	O
+dismay	O
+.	O
+
+# id = conivel-a-game-of-thrones-000219
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The sooner the better , ''
+``	O
+The	O
+sooner	O
+the	O
+better	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000220
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Theon Greyjoy agreed .
+Theon	B-CHARACTER
+Greyjoy	I-CHARACTER
+agreed	O
+.	O
+
+# id = conivel-a-game-of-thrones-000221
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He drew his sword .
+He	O
+drew	O
+his	O
+sword	O
+.	O
+
+# id = conivel-a-game-of-thrones-000222
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Give the beast here , Bran . ''
+``	O
+Give	O
+the	O
+beast	O
+here	O
+,	O
+Bran	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000223
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The little thing squirmed against him , as if it heard and understood .
+The	O
+little	O
+thing	O
+squirmed	O
+against	O
+him	O
+,	O
+as	O
+if	O
+it	O
+heard	O
+and	O
+understood	O
+.	O
+
+# id = conivel-a-game-of-thrones-000224
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No ! ''
+``	O
+No	O
+!	O
+''	O
+
+# id = conivel-a-game-of-thrones-000225
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran cried out fiercely .
+Bran	B-CHARACTER
+cried	O
+out	O
+fiercely	O
+.	O
+
+# id = conivel-a-game-of-thrones-000226
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's mine . ''
+``	O
+It	O
+'s	O
+mine	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000227
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Put away your sword , Greyjoy , ''
+``	O
+Put	O
+away	O
+your	O
+sword	O
+,	O
+Greyjoy	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000228
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Robb said .
+Robb	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000229
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For a moment he sounded as commanding as their father , like the lord he would someday be .
+For	O
+a	O
+moment	O
+he	O
+sounded	O
+as	O
+commanding	O
+as	O
+their	O
+father	O
+,	O
+like	O
+the	O
+lord	O
+he	O
+would	O
+someday	O
+be	O
+.	O
+
+# id = conivel-a-game-of-thrones-000230
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We will keep these pups . ''
+``	O
+We	O
+will	O
+keep	O
+these	O
+pups	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000231
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You can not do that , boy , ''
+``	O
+You	O
+can	O
+not	O
+do	O
+that	O
+,	O
+boy	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000232
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Harwin , who was Hullen 's son .
+said	O
+Harwin	B-CHARACTER
+,	O
+who	O
+was	O
+Hullen	B-CHARACTER
+'s	O
+son	O
+.	O
+
+# id = conivel-a-game-of-thrones-000233
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It be a mercy to kill them , ''
+``	O
+It	O
+be	O
+a	O
+mercy	O
+to	O
+kill	O
+them	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000234
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Hullen said .
+Hullen	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000235
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran looked to his lord father for rescue , but got only a frown , a furrowed brow .
+Bran	B-CHARACTER
+looked	O
+to	O
+his	O
+lord	O
+father	O
+for	O
+rescue	O
+,	O
+but	O
+got	O
+only	O
+a	O
+frown	O
+,	O
+a	O
+furrowed	O
+brow	O
+.	O
+
+# id = conivel-a-game-of-thrones-000236
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Hullen speaks truly , son .
+``	O
+Hullen	B-CHARACTER
+speaks	O
+truly	O
+,	O
+son	O
+.	O
+
+# id = conivel-a-game-of-thrones-000237
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Better a swift death than a hard one from cold and starvation . ''
+Better	O
+a	O
+swift	O
+death	O
+than	O
+a	O
+hard	O
+one	O
+from	O
+cold	O
+and	O
+starvation	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000238
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No ! ''
+``	O
+No	O
+!	O
+''	O
+
+# id = conivel-a-game-of-thrones-000239
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He could feel tears welling in his eyes , and he looked away .
+He	O
+could	O
+feel	O
+tears	O
+welling	O
+in	O
+his	O
+eyes	O
+,	O
+and	O
+he	O
+looked	O
+away	O
+.	O
+
+# id = conivel-a-game-of-thrones-000240
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He did not want to cry in front of his father .
+He	O
+did	O
+not	O
+want	O
+to	O
+cry	O
+in	O
+front	O
+of	O
+his	O
+father	O
+.	O
+
+# id = conivel-a-game-of-thrones-000241
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Robb resisted stubbornly .
+Robb	B-CHARACTER
+resisted	O
+stubbornly	O
+.	O
+
+# id = conivel-a-game-of-thrones-000242
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ser Rodrik 's red bitch whelped again last week , ''
+``	O
+Ser	B-CHARACTER
+Rodrik	I-CHARACTER
+'s	O
+red	O
+bitch	O
+whelped	O
+again	O
+last	O
+week	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000243
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said .
+he	O
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000244
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It was a small litter , only two live pups .
+``	O
+It	O
+was	O
+a	O
+small	O
+litter	O
+,	O
+only	O
+two	O
+live	O
+pups	O
+.	O
+
+# id = conivel-a-game-of-thrones-000245
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She 'll have milk enough . ''
+She	O
+'ll	O
+have	O
+milk	O
+enough	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000246
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` She 'll rip them apart when they try to nurse . ''
+``	O
+She	O
+'ll	O
+rip	O
+them	O
+apart	O
+when	O
+they	O
+try	O
+to	O
+nurse	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000247
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Lord Stark , ''
+``	O
+Lord	B-CHARACTER
+Stark	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000248
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jon said .
+Jon	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000249
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was strange to hear him call Father that , so formal .
+It	O
+was	O
+strange	O
+to	O
+hear	O
+him	O
+call	O
+Father	O
+that	O
+,	O
+so	O
+formal	O
+.	O
+
+# id = conivel-a-game-of-thrones-000250
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran looked at him with desperate hope .
+Bran	B-CHARACTER
+looked	O
+at	O
+him	O
+with	O
+desperate	O
+hope	O
+.	O
+
+# id = conivel-a-game-of-thrones-000251
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There are five pups , ''
+``	O
+There	O
+are	O
+five	O
+pups	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000252
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he told Father .
+he	O
+told	O
+Father	O
+.	O
+
+# id = conivel-a-game-of-thrones-000253
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Three male , two female . ''
+``	O
+Three	O
+male	O
+,	O
+two	O
+female	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000254
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What of it , Jon ? ''
+``	O
+What	O
+of	O
+it	O
+,	O
+Jon	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-a-game-of-thrones-000255
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You have five trueborn children , ''
+``	O
+You	O
+have	O
+five	O
+trueborn	O
+children	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000256
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jon said .
+Jon	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000257
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Three sons , two daughters .
+``	O
+Three	O
+sons	O
+,	O
+two	O
+daughters	O
+.	O
+
+# id = conivel-a-game-of-thrones-000258
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The direwolf is the sigil of your House .
+The	O
+direwolf	O
+is	O
+the	O
+sigil	O
+of	O
+your	O
+House	O
+.	O
+
+# id = conivel-a-game-of-thrones-000259
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Your children were meant to have these pups , my lord . ''
+Your	O
+children	O
+were	O
+meant	O
+to	O
+have	O
+these	O
+pups	O
+,	O
+my	O
+lord	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000260
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran saw his father 's face change , saw the other men exchange glances .
+Bran	B-CHARACTER
+saw	O
+his	O
+father	O
+'s	O
+face	O
+change	O
+,	O
+saw	O
+the	O
+other	O
+men	O
+exchange	O
+glances	O
+.	O
+
+# id = conivel-a-game-of-thrones-000261
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He loved Jon with all his heart at that moment .
+He	O
+loved	O
+Jon	B-CHARACTER
+with	O
+all	O
+his	O
+heart	O
+at	O
+that	O
+moment	O
+.	O
+
+# id = conivel-a-game-of-thrones-000262
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Even at seven , Bran understood what his brother had done .
+Even	O
+at	O
+seven	O
+,	O
+Bran	B-CHARACTER
+understood	O
+what	O
+his	O
+brother	O
+had	O
+done	O
+.	O
+
+# id = conivel-a-game-of-thrones-000263
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The count had come right only because Jon had omitted himself .
+The	O
+count	O
+had	O
+come	O
+right	O
+only	O
+because	O
+Jon	B-CHARACTER
+had	O
+omitted	O
+himself	O
+.	O
+
+# id = conivel-a-game-of-thrones-000264
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had included the girls , included even Rickon , the baby , but not the bastard who bore the surname Snow , the name that custom decreed be given to all those in the north unlucky enough to be born with no name of their own .
+He	O
+had	O
+included	O
+the	O
+girls	O
+,	O
+included	O
+even	O
+Rickon	B-CHARACTER
+,	O
+the	O
+baby	O
+,	O
+but	O
+not	O
+the	O
+bastard	O
+who	O
+bore	O
+the	O
+surname	O
+Snow	B-CHARACTER
+,	O
+the	O
+name	O
+that	O
+custom	O
+decreed	O
+be	O
+given	O
+to	O
+all	O
+those	O
+in	O
+the	O
+north	O
+unlucky	O
+enough	O
+to	O
+be	O
+born	O
+with	O
+no	O
+name	O
+of	O
+their	O
+own	O
+.	O
+
+# id = conivel-a-game-of-thrones-000265
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Their father understood as well .
+Their	O
+father	O
+understood	O
+as	O
+well	O
+.	O
+
+# id = conivel-a-game-of-thrones-000266
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You want no pup for yourself , Jon ? ''
+``	O
+You	O
+want	O
+no	O
+pup	O
+for	O
+yourself	O
+,	O
+Jon	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-a-game-of-thrones-000267
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he asked softly .
+he	O
+asked	O
+softly	O
+.	O
+
+# id = conivel-a-game-of-thrones-000268
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The direwolf graces the banners of House Stark , ''
+``	O
+The	O
+direwolf	O
+graces	O
+the	O
+banners	O
+of	O
+House	O
+Stark	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000269
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jon pointed out .
+Jon	B-CHARACTER
+pointed	O
+out	O
+.	O
+
+# id = conivel-a-game-of-thrones-000270
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I am no Stark , Father . ''
+``	O
+I	O
+am	O
+no	O
+Stark	B-CHARACTER
+,	O
+Father	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000271
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Their lord father regarded Jon thoughtfully .
+Their	O
+lord	O
+father	O
+regarded	O
+Jon	B-CHARACTER
+thoughtfully	O
+.	O
+
+# id = conivel-a-game-of-thrones-000272
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Robb rushed into the silence he left .
+Robb	B-CHARACTER
+rushed	O
+into	O
+the	O
+silence	O
+he	O
+left	O
+.	O
+
+# id = conivel-a-game-of-thrones-000273
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I will nurse him myself , Father , ''
+``	O
+I	O
+will	O
+nurse	O
+him	O
+myself	O
+,	O
+Father	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000274
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he promised .
+he	O
+promised	O
+.	O
+
+# id = conivel-a-game-of-thrones-000275
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I will soak a towel with warm milk , and give him suck from that . ''
+``	O
+I	O
+will	O
+soak	O
+a	O
+towel	O
+with	O
+warm	O
+milk	O
+,	O
+and	O
+give	O
+him	O
+suck	O
+from	O
+that	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000276
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Me too ! ''
+``	O
+Me	O
+too	O
+!	O
+''	O
+
+# id = conivel-a-game-of-thrones-000277
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran echoed .
+Bran	B-CHARACTER
+echoed	O
+.	O
+
+# id = conivel-a-game-of-thrones-000278
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The lord weighed his sons long and carefully with his eyes .
+The	O
+lord	O
+weighed	O
+his	O
+sons	O
+long	O
+and	O
+carefully	O
+with	O
+his	O
+eyes	O
+.	O
+
+# id = conivel-a-game-of-thrones-000279
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Easy to say , and harder to do .
+``	O
+Easy	O
+to	O
+say	O
+,	O
+and	O
+harder	O
+to	O
+do	O
+.	O
+
+# id = conivel-a-game-of-thrones-000280
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I will not have you wasting the servants ' time with this .
+I	O
+will	O
+not	O
+have	O
+you	O
+wasting	O
+the	O
+servants	O
+'	O
+time	O
+with	O
+this	O
+.	O
+
+# id = conivel-a-game-of-thrones-000281
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If you want these pups , you will feed them yourselves .
+If	O
+you	O
+want	O
+these	O
+pups	O
+,	O
+you	O
+will	O
+feed	O
+them	O
+yourselves	O
+.	O
+
+# id = conivel-a-game-of-thrones-000282
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Is that understood ? ''
+Is	O
+that	O
+understood	O
+?	O
+''	O
+
+# id = conivel-a-game-of-thrones-000283
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran nodded eagerly .
+Bran	B-CHARACTER
+nodded	O
+eagerly	O
+.	O
+
+# id = conivel-a-game-of-thrones-000284
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The pup squirmed in his grasp , licked at his face with a warm tongue .
+The	O
+pup	O
+squirmed	O
+in	O
+his	O
+grasp	O
+,	O
+licked	O
+at	O
+his	O
+face	O
+with	O
+a	O
+warm	O
+tongue	O
+.	O
+
+# id = conivel-a-game-of-thrones-000285
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You must train them as well , ''
+``	O
+You	O
+must	O
+train	O
+them	O
+as	O
+well	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000286
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = their father said .
+their	O
+father	O
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000287
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You must train them .
+``	O
+You	O
+must	O
+train	O
+them	O
+.	O
+
+# id = conivel-a-game-of-thrones-000288
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The kennelmaster will have nothing to do with these monsters , I promise you that .
+The	O
+kennelmaster	O
+will	O
+have	O
+nothing	O
+to	O
+do	O
+with	O
+these	O
+monsters	O
+,	O
+I	O
+promise	O
+you	O
+that	O
+.	O
+
+# id = conivel-a-game-of-thrones-000289
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And the gods help you if you neglect them , or brutalize them , or train them badly .
+And	O
+the	O
+gods	O
+help	O
+you	O
+if	O
+you	O
+neglect	O
+them	O
+,	O
+or	O
+brutalize	O
+them	O
+,	O
+or	O
+train	O
+them	O
+badly	O
+.	O
+
+# id = conivel-a-game-of-thrones-000290
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = These are not dogs to beg for treats and slink off at a kick .
+These	O
+are	O
+not	O
+dogs	O
+to	O
+beg	O
+for	O
+treats	O
+and	O
+slink	O
+off	O
+at	O
+a	O
+kick	O
+.	O
+
+# id = conivel-a-game-of-thrones-000291
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A direwolf will rip a man 's arm off his shoulder as easily as a dog will kill a rat .
+A	O
+direwolf	O
+will	O
+rip	O
+a	O
+man	O
+'s	O
+arm	O
+off	O
+his	O
+shoulder	O
+as	O
+easily	O
+as	O
+a	O
+dog	O
+will	O
+kill	O
+a	O
+rat	O
+.	O
+
+# id = conivel-a-game-of-thrones-000292
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Are you sure you want this ? ''
+Are	O
+you	O
+sure	O
+you	O
+want	O
+this	O
+?	O
+''	O
+
+# id = conivel-a-game-of-thrones-000293
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , Father , ''
+``	O
+Yes	O
+,	O
+Father	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000294
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran said .
+Bran	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000295
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , ''
+``	O
+Yes	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000296
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Robb agreed .
+Robb	B-CHARACTER
+agreed	O
+.	O
+
+# id = conivel-a-game-of-thrones-000297
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The pups may die anyway , despite all you do . ''
+``	O
+The	O
+pups	O
+may	O
+die	O
+anyway	O
+,	O
+despite	O
+all	O
+you	O
+do	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000298
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They wo n't die , ''
+``	O
+They	O
+wo	O
+n't	O
+die	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000299
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Robb said .
+Robb	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000300
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We wo n't let them die . ''
+``	O
+We	O
+wo	O
+n't	O
+let	O
+them	O
+die	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000301
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Keep them , then .
+``	O
+Keep	O
+them	O
+,	O
+then	O
+.	O
+
+# id = conivel-a-game-of-thrones-000302
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jory , Desmond , gather up the other pups .
+Jory	B-CHARACTER
+,	O
+Desmond	B-CHARACTER
+,	O
+gather	O
+up	O
+the	O
+other	O
+pups	O
+.	O
+
+# id = conivel-a-game-of-thrones-000303
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's time we were back to Winterfell . ''
+It	O
+'s	O
+time	O
+we	O
+were	O
+back	O
+to	O
+Winterfell	B-LOCATION
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000304
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was not until they were mounted and on their way that Bran allowed himself to taste the sweet air of victory .
+It	O
+was	O
+not	O
+until	O
+they	O
+were	O
+mounted	O
+and	O
+on	O
+their	O
+way	O
+that	O
+Bran	B-CHARACTER
+allowed	O
+himself	O
+to	O
+taste	O
+the	O
+sweet	O
+air	O
+of	O
+victory	O
+.	O
+
+# id = conivel-a-game-of-thrones-000305
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = By then , his pup was snuggled inside his leathers , warm against him , safe for the long ride home .
+By	O
+then	O
+,	O
+his	O
+pup	O
+was	O
+snuggled	O
+inside	O
+his	O
+leathers	O
+,	O
+warm	O
+against	O
+him	O
+,	O
+safe	O
+for	O
+the	O
+long	O
+ride	O
+home	O
+.	O
+
+# id = conivel-a-game-of-thrones-000306
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran was wondering what to name him .
+Bran	B-CHARACTER
+was	O
+wondering	O
+what	O
+to	O
+name	O
+him	O
+.	O
+
+# id = conivel-a-game-of-thrones-000307
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Halfway across the bridge , Jon pulled up suddenly .
+Halfway	O
+across	O
+the	O
+bridge	O
+,	O
+Jon	B-CHARACTER
+pulled	O
+up	O
+suddenly	O
+.	O
+
+# id = conivel-a-game-of-thrones-000308
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What is it , Jon ? ''
+``	O
+What	O
+is	O
+it	O
+,	O
+Jon	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-a-game-of-thrones-000309
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = their lord father asked .
+their	O
+lord	O
+father	O
+asked	O
+.	O
+
+# id = conivel-a-game-of-thrones-000310
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ca n't you hear it ? ''
+``	O
+Ca	O
+n't	O
+you	O
+hear	O
+it	O
+?	O
+''	O
+
+# id = conivel-a-game-of-thrones-000311
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran could hear the wind in the trees , the clatter of their hooves on the ironwood planks , the whimpering of his hungry pup , but Jon was listening to something else .
+Bran	B-CHARACTER
+could	O
+hear	O
+the	O
+wind	O
+in	O
+the	O
+trees	O
+,	O
+the	O
+clatter	O
+of	O
+their	O
+hooves	O
+on	O
+the	O
+ironwood	O
+planks	O
+,	O
+the	O
+whimpering	O
+of	O
+his	O
+hungry	O
+pup	O
+,	O
+but	O
+Jon	B-CHARACTER
+was	O
+listening	O
+to	O
+something	O
+else	O
+.	O
+
+# id = conivel-a-game-of-thrones-000312
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There , ''
+``	O
+There	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000313
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jon said .
+Jon	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000314
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He swung his horse around and galloped back across the bridge .
+He	O
+swung	O
+his	O
+horse	O
+around	O
+and	O
+galloped	O
+back	O
+across	O
+the	O
+bridge	O
+.	O
+
+# id = conivel-a-game-of-thrones-000315
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They watched him dismount where the direwolf lay dead in the snow , watched him kneel .
+They	O
+watched	O
+him	O
+dismount	O
+where	O
+the	O
+direwolf	O
+lay	O
+dead	O
+in	O
+the	O
+snow	O
+,	O
+watched	O
+him	O
+kneel	O
+.	O
+
+# id = conivel-a-game-of-thrones-000316
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A moment later he was riding back to them , smiling .
+A	O
+moment	O
+later	O
+he	O
+was	O
+riding	O
+back	O
+to	O
+them	O
+,	O
+smiling	O
+.	O
+
+# id = conivel-a-game-of-thrones-000317
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He must have crawled away from the others , ''
+``	O
+He	O
+must	O
+have	O
+crawled	O
+away	O
+from	O
+the	O
+others	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000318
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jon said .
+Jon	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-a-game-of-thrones-000319
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Or been driven away , ''
+``	O
+Or	O
+been	O
+driven	O
+away	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000320
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = their father said , looking at the sixth pup .
+their	O
+father	O
+said	O
+,	O
+looking	O
+at	O
+the	O
+sixth	O
+pup	O
+.	O
+
+# id = conivel-a-game-of-thrones-000321
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His fur was white , where the rest of the litter was grey .
+His	O
+fur	O
+was	O
+white	O
+,	O
+where	O
+the	O
+rest	O
+of	O
+the	O
+litter	O
+was	O
+grey	O
+.	O
+
+# id = conivel-a-game-of-thrones-000322
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His eyes were as red as the blood of the ragged man who had died that morning .
+His	O
+eyes	O
+were	O
+as	O
+red	O
+as	O
+the	O
+blood	O
+of	O
+the	O
+ragged	O
+man	O
+who	O
+had	O
+died	O
+that	O
+morning	O
+.	O
+
+# id = conivel-a-game-of-thrones-000323
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bran thought it curious that this pup alone would have opened his eyes while the others were still blind .
+Bran	B-CHARACTER
+thought	O
+it	O
+curious	O
+that	O
+this	O
+pup	O
+alone	O
+would	O
+have	O
+opened	O
+his	O
+eyes	O
+while	O
+the	O
+others	O
+were	O
+still	O
+blind	O
+.	O
+
+# id = conivel-a-game-of-thrones-000324
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` An albino , ''
+``	O
+An	O
+albino	O
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000325
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Theon Greyjoy said with wry amusement .
+Theon	B-CHARACTER
+Greyjoy	I-CHARACTER
+said	O
+with	O
+wry	O
+amusement	O
+.	O
+
+# id = conivel-a-game-of-thrones-000326
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` This one will die even faster than the others . ''
+``	O
+This	O
+one	O
+will	O
+die	O
+even	O
+faster	O
+than	O
+the	O
+others	O
+.	O
+''	O
+
+# id = conivel-a-game-of-thrones-000327
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jon Snow gave his father 's ward a long , chilling look .
+Jon	B-CHARACTER
+Snow	I-CHARACTER
+gave	O
+his	O
+father	O
+'s	O
+ward	O
+a	O
+long	O
+,	O
+chilling	O
+look	O
+.	O
+
+# id = conivel-a-game-of-thrones-000328
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I think not , Greyjoy , ''
+``	O
+I	O
+think	O
+not	O
+,	O
+Greyjoy	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-a-game-of-thrones-000329
+# source = Conivel corrected OWTO literary NER
+# book = A Game of Thrones
+# source_file = AGameOfThrones.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said .
+he	O
+said	O
+.	O
+

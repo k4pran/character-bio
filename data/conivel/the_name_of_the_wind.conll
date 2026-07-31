@@ -1,0 +1,7103 @@
+# id = conivel-the-name-of-the-wind-000001
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = CHAPTER ONE A Place for Demons IT WAS FELLING NIGHT , and the usual crowd had gathered at the Waystone Inn .
+CHAPTER	O
+ONE	O
+A	O
+Place	O
+for	O
+Demons	O
+IT	O
+WAS	O
+FELLING	O
+NIGHT	O
+,	O
+and	O
+the	O
+usual	O
+crowd	O
+had	O
+gathered	O
+at	O
+the	O
+Waystone	B-LOCATION
+Inn	I-LOCATION
+.	O
+
+# id = conivel-the-name-of-the-wind-000002
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Five was n't much of a crowd , but five was as many as the Waystone ever saw these days , times being what they were .
+Five	O
+was	O
+n't	O
+much	O
+of	O
+a	O
+crowd	O
+,	O
+but	O
+five	O
+was	O
+as	O
+many	O
+as	O
+the	O
+Waystone	B-LOCATION
+ever	O
+saw	O
+these	O
+days	O
+,	O
+times	O
+being	O
+what	O
+they	O
+were	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000003
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Old Cob was filling his role as storyteller and advice dispensary .
+Old	B-CHARACTER
+Cob	I-CHARACTER
+was	O
+filling	O
+his	O
+role	O
+as	O
+storyteller	O
+and	O
+advice	O
+dispensary	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000004
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The men at the bar sipped their drinks and listened .
+The	O
+men	O
+at	O
+the	O
+bar	O
+sipped	O
+their	O
+drinks	O
+and	O
+listened	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000005
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In the back room a young innkeeper stood out of sight behind the door , smiling as he listened to the details of a familiar story .
+In	O
+the	O
+back	O
+room	O
+a	O
+young	O
+innkeeper	O
+stood	O
+out	O
+of	O
+sight	O
+behind	O
+the	O
+door	O
+,	O
+smiling	O
+as	O
+he	O
+listened	O
+to	O
+the	O
+details	O
+of	O
+a	O
+familiar	O
+story	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000006
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` When he awoke , Taborlin the Great found himself locked in a high tower .
+``	O
+When	O
+he	O
+awoke	O
+,	O
+Taborlin	B-CHARACTER
+the	I-CHARACTER
+Great	I-CHARACTER
+found	O
+himself	O
+locked	O
+in	O
+a	O
+high	O
+tower	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000007
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They had taken his sword and stripped him of his tools : key , coin , and candle were all gone .
+They	O
+had	O
+taken	O
+his	O
+sword	O
+and	O
+stripped	O
+him	O
+of	O
+his	O
+tools	O
+:	O
+key	O
+,	O
+coin	O
+,	O
+and	O
+candle	O
+were	O
+all	O
+gone	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000008
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But that were n't even the worst of it , you see ... ''
+But	O
+that	O
+were	O
+n't	O
+even	O
+the	O
+worst	O
+of	O
+it	O
+,	O
+you	O
+see	O
+...	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000009
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cob paused for effect , `` ... cause the lamps on the wall were burning blue ! ''
+Cob	B-CHARACTER
+paused	O
+for	O
+effect	O
+,	O
+``	O
+...	O
+cause	O
+the	O
+lamps	O
+on	O
+the	O
+wall	O
+were	O
+burning	O
+blue	O
+!	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000010
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Graham , Jake , and Shep nodded to themselves .
+Graham	B-CHARACTER
+,	O
+Jake	B-CHARACTER
+,	O
+and	O
+Shep	B-CHARACTER
+nodded	O
+to	O
+themselves	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000011
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The three friends had grown up together , listening to Cob 's stories and ignoring his advice .
+The	O
+three	O
+friends	O
+had	O
+grown	O
+up	O
+together	O
+,	O
+listening	O
+to	O
+Cob	B-CHARACTER
+'s	O
+stories	O
+and	O
+ignoring	O
+his	O
+advice	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000012
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cob peered closely at the newer , more attentive member of his small audience , the smith 's prentice .
+Cob	B-CHARACTER
+peered	O
+closely	O
+at	O
+the	O
+newer	O
+,	O
+more	O
+attentive	O
+member	O
+of	O
+his	O
+small	O
+audience	O
+,	O
+the	O
+smith	O
+'s	O
+prentice	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000013
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do you know what that meant , boy ? ''
+``	O
+Do	O
+you	O
+know	O
+what	O
+that	O
+meant	O
+,	O
+boy	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000014
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Everyone called the smith 's prentice ` boy ' despite the fact that he was a hand taller than anyone there .
+Everyone	O
+called	O
+the	O
+smith	O
+'s	O
+prentice	O
+`	O
+boy	O
+'	O
+despite	O
+the	O
+fact	O
+that	O
+he	O
+was	O
+a	O
+hand	O
+taller	O
+than	O
+anyone	O
+there	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000015
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Small towns being what they are , he would most likely remain ` boy ' until his beard filled out or he bloodied someone 's nose over the matter .
+Small	O
+towns	O
+being	O
+what	O
+they	O
+are	O
+,	O
+he	O
+would	O
+most	O
+likely	O
+remain	O
+`	O
+boy	O
+'	O
+until	O
+his	O
+beard	O
+filled	O
+out	O
+or	O
+he	O
+bloodied	O
+someone	O
+'s	O
+nose	O
+over	O
+the	O
+matter	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000016
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The boy gave a slow nod .
+The	O
+boy	O
+gave	O
+a	O
+slow	O
+nod	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000017
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The Chandrian . ''
+``	O
+The	O
+Chandrian	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000018
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That 's right , ''
+``	O
+That	O
+'s	O
+right	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000019
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cob said approvingly .
+Cob	B-CHARACTER
+said	O
+approvingly	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000020
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The Chandrian .
+``	O
+The	O
+Chandrian	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000021
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Everyone knows that blue fire is one of their signs .
+Everyone	O
+knows	O
+that	O
+blue	O
+fire	O
+is	O
+one	O
+of	O
+their	O
+signs	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000022
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now he was -- ''
+Now	O
+he	O
+was	O
+--	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000023
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But how 'd they find him ? ''
+``	O
+But	O
+how	O
+'d	O
+they	O
+find	O
+him	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000024
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the boy interrupted .
+the	O
+boy	O
+interrupted	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000025
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And why di n't they kill him when they had the chance ? ''
+``	O
+And	O
+why	O
+di	O
+n't	O
+they	O
+kill	O
+him	O
+when	O
+they	O
+had	O
+the	O
+chance	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000026
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Hush now , you 'll get all the answers before the end , ''
+``	O
+Hush	O
+now	O
+,	O
+you	O
+'ll	O
+get	O
+all	O
+the	O
+answers	O
+before	O
+the	O
+end	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000027
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jake said .
+Jake	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000028
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Just let him tell it . ''
+``	O
+Just	O
+let	O
+him	O
+tell	O
+it	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000029
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No need for all that , Jake , ''
+``	O
+No	O
+need	O
+for	O
+all	O
+that	O
+,	O
+Jake	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000030
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Graham said .
+Graham	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000031
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Boy 's just curious .
+``	O
+Boy	O
+'s	O
+just	O
+curious	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000032
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Drink your drink . ''
+Drink	O
+your	O
+drink	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000033
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I drank me drink already , ''
+``	O
+I	O
+drank	O
+me	O
+drink	O
+already	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000034
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jake grumbled .
+Jake	B-CHARACTER
+grumbled	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000035
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I need t â€™n other but the innkeep 's still skinning rats in the back room . ''
+``	O
+I	O
+need	O
+t	O
+â€™n	O
+other	O
+but	O
+the	O
+innkeep	O
+'s	O
+still	O
+skinning	O
+rats	O
+in	O
+the	O
+back	O
+room	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000036
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He raised his voice and knocked his empty mug hollowly on the top of the mahogany bar .
+He	O
+raised	O
+his	O
+voice	O
+and	O
+knocked	O
+his	O
+empty	O
+mug	O
+hollowly	O
+on	O
+the	O
+top	O
+of	O
+the	O
+mahogany	O
+bar	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000037
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Hoy !
+``	O
+Hoy	O
+!	O
+
+# id = conivel-the-name-of-the-wind-000038
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We 're thirsty men in here ! ''
+We	O
+'re	O
+thirsty	O
+men	O
+in	O
+here	O
+!	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000039
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The innkeeper appeared with five bowls of stew and two warm , round loaves of bread .
+The	O
+innkeeper	O
+appeared	O
+with	O
+five	O
+bowls	O
+of	O
+stew	O
+and	O
+two	O
+warm	O
+,	O
+round	O
+loaves	O
+of	O
+bread	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000040
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He pulled more beer for Jake , Shep , and Old Cob , moving with an air of bustling efficiency .
+He	O
+pulled	O
+more	O
+beer	O
+for	O
+Jake	B-CHARACTER
+,	O
+Shep	B-CHARACTER
+,	O
+and	O
+Old	B-CHARACTER
+Cob	I-CHARACTER
+,	O
+moving	O
+with	O
+an	O
+air	O
+of	O
+bustling	O
+efficiency	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000041
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The story was set aside while the men tended to their dinners .
+The	O
+story	O
+was	O
+set	O
+aside	O
+while	O
+the	O
+men	O
+tended	O
+to	O
+their	O
+dinners	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000042
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Old Cob tucked away his bowl of stew with the predatory efficiency of a lifetime bachelor .
+Old	B-CHARACTER
+Cob	I-CHARACTER
+tucked	O
+away	O
+his	O
+bowl	O
+of	O
+stew	O
+with	O
+the	O
+predatory	O
+efficiency	O
+of	O
+a	O
+lifetime	O
+bachelor	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000043
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The others were still blowing steam off their bowls when he finished the last of his loaf and returned to his story .
+The	O
+others	O
+were	O
+still	O
+blowing	O
+steam	O
+off	O
+their	O
+bowls	O
+when	O
+he	O
+finished	O
+the	O
+last	O
+of	O
+his	O
+loaf	O
+and	O
+returned	O
+to	O
+his	O
+story	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000044
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Now Taborlin needed to escape , but when he looked around , he saw his cell had no door .
+``	O
+Now	O
+Taborlin	B-CHARACTER
+needed	O
+to	O
+escape	O
+,	O
+but	O
+when	O
+he	O
+looked	O
+around	O
+,	O
+he	O
+saw	O
+his	O
+cell	O
+had	O
+no	O
+door	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000045
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No windows .
+No	O
+windows	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000046
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All around him was nothing but smooth , hard stone .
+All	O
+around	O
+him	O
+was	O
+nothing	O
+but	O
+smooth	O
+,	O
+hard	O
+stone	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000047
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was a cell no man had ever escaped . ''
+It	O
+was	O
+a	O
+cell	O
+no	O
+man	O
+had	O
+ever	O
+escaped	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000048
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But Taborlin knew the names of all things , and so all things were his to command .
+``	O
+But	O
+Taborlin	B-CHARACTER
+knew	O
+the	O
+names	O
+of	O
+all	O
+things	O
+,	O
+and	O
+so	O
+all	O
+things	O
+were	O
+his	O
+to	O
+command	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000049
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He said to the stone : ` Break !
+He	O
+said	O
+to	O
+the	O
+stone	O
+:	O
+`	O
+Break	O
+!	O
+
+# id = conivel-the-name-of-the-wind-000050
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' and the stone broke .
+'	O
+and	O
+the	O
+stone	O
+broke	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000051
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The wall tore like a piece of paper , and through that hole Taborlin could see the sky and breathe the sweet spring air .
+The	O
+wall	O
+tore	O
+like	O
+a	O
+piece	O
+of	O
+paper	O
+,	O
+and	O
+through	O
+that	O
+hole	O
+Taborlin	B-CHARACTER
+could	O
+see	O
+the	O
+sky	O
+and	O
+breathe	O
+the	O
+sweet	O
+spring	O
+air	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000052
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He stepped to the edge , looked down , and without a second thought he stepped out into the open air ... . ''
+He	O
+stepped	O
+to	O
+the	O
+edge	O
+,	O
+looked	O
+down	O
+,	O
+and	O
+without	O
+a	O
+second	O
+thought	O
+he	O
+stepped	O
+out	O
+into	O
+the	O
+open	O
+air	O
+...	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000053
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The boy 's eyes went wide .
+The	O
+boy	O
+'s	O
+eyes	O
+went	O
+wide	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000054
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He did n't ! ''
+``	O
+He	O
+did	O
+n't	O
+!	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000055
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cob nodded seriously .
+Cob	B-CHARACTER
+nodded	O
+seriously	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000056
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` So Taborlin fell , but he did not despair .
+``	O
+So	O
+Taborlin	B-CHARACTER
+fell	O
+,	O
+but	O
+he	O
+did	O
+not	O
+despair	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000057
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For he knew the name of the wind , and so the wind obeyed him .
+For	O
+he	O
+knew	O
+the	O
+name	O
+of	O
+the	O
+wind	O
+,	O
+and	O
+so	O
+the	O
+wind	O
+obeyed	O
+him	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000058
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He spoke to the wind and it cradled and caressed him .
+He	O
+spoke	O
+to	O
+the	O
+wind	O
+and	O
+it	O
+cradled	O
+and	O
+caressed	O
+him	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000059
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It bore him to the ground as gently as a puff of thistledown and set him on his feet softly as a mother 's kiss . ''
+It	O
+bore	O
+him	O
+to	O
+the	O
+ground	O
+as	O
+gently	O
+as	O
+a	O
+puff	O
+of	O
+thistledown	O
+and	O
+set	O
+him	O
+on	O
+his	O
+feet	O
+softly	O
+as	O
+a	O
+mother	O
+'s	O
+kiss	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000060
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And when he got to the ground and felt his side where they 'd stabbed him , he saw that it were n't hardly a scratch .
+``	O
+And	O
+when	O
+he	O
+got	O
+to	O
+the	O
+ground	O
+and	O
+felt	O
+his	O
+side	O
+where	O
+they	O
+'d	O
+stabbed	O
+him	O
+,	O
+he	O
+saw	O
+that	O
+it	O
+were	O
+n't	O
+hardly	O
+a	O
+scratch	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000061
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now maybe it was just a piece of luck , ''
+Now	O
+maybe	O
+it	O
+was	O
+just	O
+a	O
+piece	O
+of	O
+luck	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000062
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cob tapped the side of his nose knowingly .
+Cob	B-CHARACTER
+tapped	O
+the	O
+side	O
+of	O
+his	O
+nose	O
+knowingly	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000063
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Or maybe it had something to do with the amulet he was wearing under his shirt . ''
+``	O
+Or	O
+maybe	O
+it	O
+had	O
+something	O
+to	O
+do	O
+with	O
+the	O
+amulet	O
+he	O
+was	O
+wearing	O
+under	O
+his	O
+shirt	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000064
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What amulet ? ''
+``	O
+What	O
+amulet	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000065
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the boy asked eagerly through a mouthful of stew .
+the	O
+boy	O
+asked	O
+eagerly	O
+through	O
+a	O
+mouthful	O
+of	O
+stew	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000066
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Old Cob leaned back on his stool , glad for the chance to elaborate .
+Old	B-CHARACTER
+Cob	I-CHARACTER
+leaned	O
+back	O
+on	O
+his	O
+stool	O
+,	O
+glad	O
+for	O
+the	O
+chance	O
+to	O
+elaborate	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000067
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A few days earlier , Taborlin had met a tinker on the road .
+``	O
+A	O
+few	O
+days	O
+earlier	O
+,	O
+Taborlin	B-CHARACTER
+had	O
+met	O
+a	O
+tinker	O
+on	O
+the	O
+road	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000068
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And even though Taborlin did n't have much to eat , he shared his dinner with the old man . ''
+And	O
+even	O
+though	O
+Taborlin	B-CHARACTER
+did	O
+n't	O
+have	O
+much	O
+to	O
+eat	O
+,	O
+he	O
+shared	O
+his	O
+dinner	O
+with	O
+the	O
+old	O
+man	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000069
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Right sensible thing to do , ''
+``	O
+Right	O
+sensible	O
+thing	O
+to	O
+do	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000070
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Graham said quietly to the boy .
+Graham	B-CHARACTER
+said	O
+quietly	O
+to	O
+the	O
+boy	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000071
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Everyone knows : ` A tinker pays for kindness twice .
+``	O
+Everyone	O
+knows	O
+:	O
+`	O
+A	O
+tinker	O
+pays	O
+for	O
+kindness	O
+twice	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000072
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' ''
+'	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000073
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No no , ''
+``	O
+No	O
+no	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000074
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jake grumbled .
+Jake	B-CHARACTER
+grumbled	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000075
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Get it right : ` A tinker 's advice pays kindness twice .
+``	O
+Get	O
+it	O
+right	O
+:	O
+`	O
+A	O
+tinker	O
+'s	O
+advice	O
+pays	O
+kindness	O
+twice	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000076
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' ''
+'	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000077
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The innkeeper spoke up for the first time that night .
+The	O
+innkeeper	O
+spoke	O
+up	O
+for	O
+the	O
+first	O
+time	O
+that	O
+night	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000078
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Actually , you 're missing more than half , ''
+``	O
+Actually	O
+,	O
+you	O
+'re	O
+missing	O
+more	O
+than	O
+half	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000079
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said , standing in the doorway behind the bar .
+he	O
+said	O
+,	O
+standing	O
+in	O
+the	O
+doorway	O
+behind	O
+the	O
+bar	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000080
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A tinker 's debt is always paid : Once for any simple trade .
+``	O
+A	O
+tinker	O
+'s	O
+debt	O
+is	O
+always	O
+paid	O
+:	O
+Once	O
+for	O
+any	O
+simple	O
+trade	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000081
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Twice for freely-given aid .
+Twice	O
+for	O
+freely-given	O
+aid	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000082
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Thrice for any insult made . ''
+Thrice	O
+for	O
+any	O
+insult	O
+made	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000083
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The men at the bar seemed almost surprised to see Kote standing there .
+The	O
+men	O
+at	O
+the	O
+bar	O
+seemed	O
+almost	O
+surprised	O
+to	O
+see	O
+Kote	B-CHARACTER
+standing	O
+there	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000084
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They 'd been coming to the Waystone every Felling night for months and Kote had never interjected anything of his own before .
+They	O
+'d	O
+been	O
+coming	O
+to	O
+the	O
+Waystone	B-LOCATION
+every	O
+Felling	O
+night	O
+for	O
+months	O
+and	O
+Kote	B-CHARACTER
+had	O
+never	O
+interjected	O
+anything	O
+of	O
+his	O
+own	O
+before	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000085
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not that you could expect anything else , really .
+Not	O
+that	O
+you	O
+could	O
+expect	O
+anything	O
+else	O
+,	O
+really	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000086
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He 'd only been in town for a year or so .
+He	O
+'d	O
+only	O
+been	O
+in	O
+town	O
+for	O
+a	O
+year	O
+or	O
+so	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000087
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was still a stranger .
+He	O
+was	O
+still	O
+a	O
+stranger	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000088
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The smith 's prentice had lived here since he was eleven , and he was still referred to as `` that Rannish boy , ''
+The	O
+smith	O
+'s	O
+prentice	O
+had	O
+lived	O
+here	O
+since	O
+he	O
+was	O
+eleven	O
+,	O
+and	O
+he	O
+was	O
+still	O
+referred	O
+to	O
+as	O
+``	O
+that	O
+Rannish	B-LOCATION
+boy	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000089
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = as if Rannish were some foreign country and not a town less than thirty miles away .
+as	O
+if	O
+Rannish	B-LOCATION
+were	O
+some	O
+foreign	O
+country	O
+and	O
+not	O
+a	O
+town	O
+less	O
+than	O
+thirty	O
+miles	O
+away	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000090
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Just something I heard once , ''
+``	O
+Just	O
+something	O
+I	O
+heard	O
+once	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000091
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kote said to fill the silence , obviously embarrassed .
+Kote	B-CHARACTER
+said	O
+to	O
+fill	O
+the	O
+silence	O
+,	O
+obviously	O
+embarrassed	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000092
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Old Cob nodded before he cleared his throat and launched back into the story .
+Old	B-CHARACTER
+Cob	I-CHARACTER
+nodded	O
+before	O
+he	O
+cleared	O
+his	O
+throat	O
+and	O
+launched	O
+back	O
+into	O
+the	O
+story	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000093
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Now this amulet was worth a whole bucket of gold nobles , but on account of Taborlin 's kindness , the tinker sold it to him for nothing but an iron penny , a copper penny , and a silver penny .
+``	O
+Now	O
+this	O
+amulet	O
+was	O
+worth	O
+a	O
+whole	O
+bucket	O
+of	O
+gold	O
+nobles	O
+,	O
+but	O
+on	O
+account	O
+of	O
+Taborlin	B-CHARACTER
+'s	O
+kindness	O
+,	O
+the	O
+tinker	O
+sold	O
+it	O
+to	O
+him	O
+for	O
+nothing	O
+but	O
+an	O
+iron	O
+penny	O
+,	O
+a	O
+copper	O
+penny	O
+,	O
+and	O
+a	O
+silver	O
+penny	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000094
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was black as a winter night and cold as ice to touch , but so long as it was round his neck , Taborlin would be safe from the harm of evil things .
+It	O
+was	O
+black	O
+as	O
+a	O
+winter	O
+night	O
+and	O
+cold	O
+as	O
+ice	O
+to	O
+touch	O
+,	O
+but	O
+so	O
+long	O
+as	O
+it	O
+was	O
+round	O
+his	O
+neck	O
+,	O
+Taborlin	B-CHARACTER
+would	O
+be	O
+safe	O
+from	O
+the	O
+harm	O
+of	O
+evil	O
+things	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000095
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Demons and such . ''
+Demons	O
+and	O
+such	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000096
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'd give a good piece for such a thing these days , ''
+``	O
+I	O
+'d	O
+give	O
+a	O
+good	O
+piece	O
+for	O
+such	O
+a	O
+thing	O
+these	O
+days	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000097
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Shep said darkly .
+Shep	B-CHARACTER
+said	O
+darkly	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000098
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had drunk most and talked least over the course of the evening .
+He	O
+had	O
+drunk	O
+most	O
+and	O
+talked	O
+least	O
+over	O
+the	O
+course	O
+of	O
+the	O
+evening	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000099
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Everyone knew that something bad had happened out on his farm last Cendling night , but since they were good friends they knew better than to press him for the details .
+Everyone	O
+knew	O
+that	O
+something	O
+bad	O
+had	O
+happened	O
+out	O
+on	O
+his	O
+farm	O
+last	O
+Cendling	O
+night	O
+,	O
+but	O
+since	O
+they	O
+were	O
+good	O
+friends	O
+they	O
+knew	O
+better	O
+than	O
+to	O
+press	O
+him	O
+for	O
+the	O
+details	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000100
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At least not this early in the evening , not as sober as they were .
+At	O
+least	O
+not	O
+this	O
+early	O
+in	O
+the	O
+evening	O
+,	O
+not	O
+as	O
+sober	O
+as	O
+they	O
+were	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000101
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Aye , who would n't ? ''
+``	O
+Aye	O
+,	O
+who	O
+would	O
+n't	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000102
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Old Cob said judiciously , taking a long drink .
+Old	B-CHARACTER
+Cob	I-CHARACTER
+said	O
+judiciously	O
+,	O
+taking	O
+a	O
+long	O
+drink	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000103
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I di n't know the Chandrian were demons , ''
+``	O
+I	O
+di	O
+n't	O
+know	O
+the	O
+Chandrian	O
+were	O
+demons	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000104
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the boy said .
+the	O
+boy	O
+said	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000105
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'd heard -- ''
+``	O
+I	O
+'d	O
+heard	O
+--	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000106
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They ai n't demons , ''
+``	O
+They	O
+ai	O
+n't	O
+demons	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000107
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jake said firmly .
+Jake	B-CHARACTER
+said	O
+firmly	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000108
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They were the first six people to refuse Tehlu 's choice of the path , and he cursed them to wander the corners -- ''
+``	O
+They	O
+were	O
+the	O
+first	O
+six	O
+people	O
+to	O
+refuse	O
+Tehlu	B-CHARACTER
+'s	O
+choice	O
+of	O
+the	O
+path	O
+,	O
+and	O
+he	O
+cursed	O
+them	O
+to	O
+wander	O
+the	O
+corners	O
+--	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000109
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Are you telling this story , Jacob Walker ? ''
+``	O
+Are	O
+you	O
+telling	O
+this	O
+story	O
+,	O
+Jacob	B-CHARACTER
+Walker	I-CHARACTER
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000110
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cob said sharply .
+Cob	B-CHARACTER
+said	O
+sharply	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000111
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Cause if you are , I 'll just let you get on with it . ''
+``	O
+Cause	O
+if	O
+you	O
+are	O
+,	O
+I	O
+'ll	O
+just	O
+let	O
+you	O
+get	O
+on	O
+with	O
+it	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000112
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The two men glared at each other for a long moment .
+The	O
+two	O
+men	O
+glared	O
+at	O
+each	O
+other	O
+for	O
+a	O
+long	O
+moment	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000113
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Eventually Jake looked away , muttering something that could , conceivably , have been an apology .
+Eventually	O
+Jake	B-CHARACTER
+looked	O
+away	O
+,	O
+muttering	O
+something	O
+that	O
+could	O
+,	O
+conceivably	O
+,	O
+have	O
+been	O
+an	O
+apology	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000114
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cob turned back to the boy .
+Cob	B-CHARACTER
+turned	O
+back	O
+to	O
+the	O
+boy	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000115
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That 's the mystery of the Chandrian , ''
+``	O
+That	O
+'s	O
+the	O
+mystery	O
+of	O
+the	O
+Chandrian	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000116
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he explained .
+he	O
+explained	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000117
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Where do they come from ?
+``	O
+Where	O
+do	O
+they	O
+come	O
+from	O
+?	O
+
+# id = conivel-the-name-of-the-wind-000118
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Where do they go after they 've done their bloody deeds ?
+Where	O
+do	O
+they	O
+go	O
+after	O
+they	O
+'ve	O
+done	O
+their	O
+bloody	O
+deeds	O
+?	O
+
+# id = conivel-the-name-of-the-wind-000119
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Are they men who sold their souls ?
+Are	O
+they	O
+men	O
+who	O
+sold	O
+their	O
+souls	O
+?	O
+
+# id = conivel-the-name-of-the-wind-000120
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Demons ?
+Demons	O
+?	O
+
+# id = conivel-the-name-of-the-wind-000121
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Spirits ?
+Spirits	O
+?	O
+
+# id = conivel-the-name-of-the-wind-000122
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No one knows . ''
+No	O
+one	O
+knows	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000123
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cob shot Jake a profoundly disdainful look .
+Cob	B-CHARACTER
+shot	O
+Jake	B-CHARACTER
+a	O
+profoundly	O
+disdainful	O
+look	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000124
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Though every half-wit claims he knows ... . ''
+``	O
+Though	O
+every	O
+half-wit	O
+claims	O
+he	O
+knows	O
+...	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000125
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The story fell further into bickering at this point , about the nature of the Chandrian , the signs that showed their presence to the wary , and whether the amulet would protect Taborlin from bandits , or mad dogs , or falling off a horse .
+The	O
+story	O
+fell	O
+further	O
+into	O
+bickering	O
+at	O
+this	O
+point	O
+,	O
+about	O
+the	O
+nature	O
+of	O
+the	O
+Chandrian	O
+,	O
+the	O
+signs	O
+that	O
+showed	O
+their	O
+presence	O
+to	O
+the	O
+wary	O
+,	O
+and	O
+whether	O
+the	O
+amulet	O
+would	O
+protect	O
+Taborlin	B-CHARACTER
+from	O
+bandits	O
+,	O
+or	O
+mad	O
+dogs	O
+,	O
+or	O
+falling	O
+off	O
+a	O
+horse	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000126
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Things were getting heated when the front door banged open .
+Things	O
+were	O
+getting	O
+heated	O
+when	O
+the	O
+front	O
+door	O
+banged	O
+open	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000127
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jake looked over .
+Jake	B-CHARACTER
+looked	O
+over	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000128
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's about time you got in , Carter .
+``	O
+It	O
+'s	O
+about	O
+time	O
+you	O
+got	O
+in	O
+,	O
+Carter	B-CHARACTER
+.	O
+
+# id = conivel-the-name-of-the-wind-000129
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tell this damn fool the difference between a demon and a dog .
+Tell	O
+this	O
+damn	O
+fool	O
+the	O
+difference	O
+between	O
+a	O
+demon	O
+and	O
+a	O
+dog	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000130
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Everybody kn -- ''
+Everybody	O
+kn	O
+--	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000131
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jake stopped midsentence and rushed to the door .
+Jake	B-CHARACTER
+stopped	O
+midsentence	O
+and	O
+rushed	O
+to	O
+the	O
+door	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000132
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` God 's body , what happened to you ? ''
+``	O
+God	B-CHARACTER
+'s	O
+body	O
+,	O
+what	O
+happened	O
+to	O
+you	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000133
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Carter stepped into the light , his face pale and smeared with blood .
+Carter	B-CHARACTER
+stepped	O
+into	O
+the	O
+light	O
+,	O
+his	O
+face	O
+pale	O
+and	O
+smeared	O
+with	O
+blood	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000134
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He clutched an old saddle blanket to his chest .
+He	O
+clutched	O
+an	O
+old	O
+saddle	O
+blanket	O
+to	O
+his	O
+chest	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000135
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was an odd , awkward shape , as if it were wrapped around a tangle of kindling sticks .
+It	O
+was	O
+an	O
+odd	O
+,	O
+awkward	O
+shape	O
+,	O
+as	O
+if	O
+it	O
+were	O
+wrapped	O
+around	O
+a	O
+tangle	O
+of	O
+kindling	O
+sticks	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000136
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His friends jumped off their stools and hurried over at the sight of him .
+His	O
+friends	O
+jumped	O
+off	O
+their	O
+stools	O
+and	O
+hurried	O
+over	O
+at	O
+the	O
+sight	O
+of	O
+him	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000137
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm fine , ''
+``	O
+I	O
+'m	O
+fine	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000138
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said as he made his slow way into the common room .
+he	O
+said	O
+as	O
+he	O
+made	O
+his	O
+slow	O
+way	O
+into	O
+the	O
+common	O
+room	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000139
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His eyes were wild around the edges , like a skittish horse .
+His	O
+eyes	O
+were	O
+wild	O
+around	O
+the	O
+edges	O
+,	O
+like	O
+a	O
+skittish	O
+horse	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000140
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm fine .
+``	O
+I	O
+'m	O
+fine	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000141
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'm fine . ''
+I	O
+'m	O
+fine	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000142
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He dropped the bundled blanket onto the nearest table where it knocked hard against the wood , as if it were full of stones .
+He	O
+dropped	O
+the	O
+bundled	O
+blanket	O
+onto	O
+the	O
+nearest	O
+table	O
+where	O
+it	O
+knocked	O
+hard	O
+against	O
+the	O
+wood	O
+,	O
+as	O
+if	O
+it	O
+were	O
+full	O
+of	O
+stones	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000143
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His clothes were crisscrossed with long , straight cuts .
+His	O
+clothes	O
+were	O
+crisscrossed	O
+with	O
+long	O
+,	O
+straight	O
+cuts	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000144
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His grey shirt hung in loose tatters except where it was stuck to his body , stained a dark , sullen red .
+His	O
+grey	O
+shirt	O
+hung	O
+in	O
+loose	O
+tatters	O
+except	O
+where	O
+it	O
+was	O
+stuck	O
+to	O
+his	O
+body	O
+,	O
+stained	O
+a	O
+dark	O
+,	O
+sullen	O
+red	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000145
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Graham tried to ease him into a chair .
+Graham	B-CHARACTER
+tried	O
+to	O
+ease	O
+him	O
+into	O
+a	O
+chair	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000146
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Mother of God .
+``	O
+Mother	O
+of	O
+God	B-CHARACTER
+.	O
+
+# id = conivel-the-name-of-the-wind-000147
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Sit down , Carter .
+Sit	O
+down	O
+,	O
+Carter	B-CHARACTER
+.	O
+
+# id = conivel-the-name-of-the-wind-000148
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What happened to you ?
+What	O
+happened	O
+to	O
+you	O
+?	O
+
+# id = conivel-the-name-of-the-wind-000149
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Sit down . ''
+Sit	O
+down	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000150
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Carter shook his head stubbornly .
+Carter	B-CHARACTER
+shook	O
+his	O
+head	O
+stubbornly	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000151
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I told you , I 'm fine .
+``	O
+I	O
+told	O
+you	O
+,	O
+I	O
+'m	O
+fine	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000152
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'm not hurt that bad . ''
+I	O
+'m	O
+not	O
+hurt	O
+that	O
+bad	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000153
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How many were there ? ''
+``	O
+How	O
+many	O
+were	O
+there	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000154
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Graham said .
+Graham	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000155
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` One , ''
+``	O
+One	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000156
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Carter said .
+Carter	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000157
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But it 's not what you think -- ''
+``	O
+But	O
+it	O
+'s	O
+not	O
+what	O
+you	O
+think	O
+--	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000158
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Goddammit .
+``	O
+Goddammit	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000159
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I told you , Carter , ''
+I	O
+told	O
+you	O
+,	O
+Carter	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000160
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Old Cob burst out with the sort of frightened anger only relatives and close friends can muster .
+Old	B-CHARACTER
+Cob	I-CHARACTER
+burst	O
+out	O
+with	O
+the	O
+sort	O
+of	O
+frightened	O
+anger	O
+only	O
+relatives	O
+and	O
+close	O
+friends	O
+can	O
+muster	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000161
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I told you for months now .
+``	O
+I	O
+told	O
+you	O
+for	O
+months	O
+now	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000162
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You ca n't go out alone .
+You	O
+ca	O
+n't	O
+go	O
+out	O
+alone	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000163
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not even as far as Baedn .
+Not	O
+even	O
+as	O
+far	O
+as	O
+Baedn	B-LOCATION
+.	O
+
+# id = conivel-the-name-of-the-wind-000164
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It ai n't safe . ''
+It	O
+ai	O
+n't	O
+safe	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000165
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jake laid a hand on the old man 's arm , quieting him .
+Jake	B-CHARACTER
+laid	O
+a	O
+hand	O
+on	O
+the	O
+old	O
+man	O
+'s	O
+arm	O
+,	O
+quieting	O
+him	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000166
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Just take a sit , ''
+``	O
+Just	O
+take	O
+a	O
+sit	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000167
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Graham said , still trying to steer Carter into a chair .
+Graham	B-CHARACTER
+said	O
+,	O
+still	O
+trying	O
+to	O
+steer	O
+Carter	B-CHARACTER
+into	O
+a	O
+chair	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000168
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Let 's get that shirt off you and get you cleaned up . ''
+``	O
+Let	O
+'s	O
+get	O
+that	O
+shirt	O
+off	O
+you	O
+and	O
+get	O
+you	O
+cleaned	O
+up	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000169
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Carter shook his head .
+Carter	B-CHARACTER
+shook	O
+his	O
+head	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000170
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm fine .
+``	O
+I	O
+'m	O
+fine	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000171
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I got cut up a little , but the blood is mostly Nelly 's .
+I	O
+got	O
+cut	O
+up	O
+a	O
+little	O
+,	O
+but	O
+the	O
+blood	O
+is	O
+mostly	O
+Nelly	B-CHARACTER
+'s	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000172
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It jumped on her .
+It	O
+jumped	O
+on	O
+her	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000173
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Killed her about two miles outside town , past the Oldstone Bridge . ''
+Killed	O
+her	O
+about	O
+two	O
+miles	O
+outside	O
+town	O
+,	O
+past	O
+the	O
+Oldstone	B-LOCATION
+Bridge	I-LOCATION
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000174
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A moment of serious silence followed the news .
+A	O
+moment	O
+of	O
+serious	O
+silence	O
+followed	O
+the	O
+news	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000175
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The smith 's prentice laid a sympathetic hand on Carter 's shoulder .
+The	O
+smith	O
+'s	O
+prentice	O
+laid	O
+a	O
+sympathetic	O
+hand	O
+on	O
+Carter	B-CHARACTER
+'s	O
+shoulder	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000176
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Damn .
+``	O
+Damn	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000177
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That 's hard .
+That	O
+'s	O
+hard	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000178
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She was gentle as a lamb , too .
+She	O
+was	O
+gentle	O
+as	O
+a	O
+lamb	O
+,	O
+too	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000179
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Never tried to bite or kick when you brought her in for shoes .
+Never	O
+tried	O
+to	O
+bite	O
+or	O
+kick	O
+when	O
+you	O
+brought	O
+her	O
+in	O
+for	O
+shoes	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000180
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Best horse in town .
+Best	O
+horse	O
+in	O
+town	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000181
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Damn .
+Damn	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000182
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'm ... ''
+I	O
+'m	O
+...	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000183
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He trailed off .
+He	O
+trailed	O
+off	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000184
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Damn .
+``	O
+Damn	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000185
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I do n't know what to say . ''
+I	O
+do	O
+n't	O
+know	O
+what	O
+to	O
+say	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000186
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He looked around helplessly .
+He	O
+looked	O
+around	O
+helplessly	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000187
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cob finally managed to free himself from Jake .
+Cob	B-CHARACTER
+finally	O
+managed	O
+to	O
+free	O
+himself	O
+from	O
+Jake	B-CHARACTER
+.	O
+
+# id = conivel-the-name-of-the-wind-000188
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I told you , ''
+``	O
+I	O
+told	O
+you	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000189
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he repeated , shaking a finger in Carter 's direction .
+he	O
+repeated	O
+,	O
+shaking	O
+a	O
+finger	O
+in	O
+Carter	B-CHARACTER
+'s	O
+direction	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000190
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There 's folks out lately that would kill you for a pair of pennies , let alone a horse and cart .
+``	O
+There	O
+'s	O
+folks	O
+out	O
+lately	O
+that	O
+would	O
+kill	O
+you	O
+for	O
+a	O
+pair	O
+of	O
+pennies	O
+,	O
+let	O
+alone	O
+a	O
+horse	O
+and	O
+cart	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000191
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What are you going to do now ?
+What	O
+are	O
+you	O
+going	O
+to	O
+do	O
+now	O
+?	O
+
+# id = conivel-the-name-of-the-wind-000192
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pull it yourself ? ''
+Pull	O
+it	O
+yourself	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000193
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was a moment of uncomfortable quiet .
+There	O
+was	O
+a	O
+moment	O
+of	O
+uncomfortable	O
+quiet	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000194
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jake and Cob glared at each other while the rest seemed at a loss for words , unsure of how to comfort their friend .
+Jake	B-CHARACTER
+and	O
+Cob	B-CHARACTER
+glared	O
+at	O
+each	O
+other	O
+while	O
+the	O
+rest	O
+seemed	O
+at	O
+a	O
+loss	O
+for	O
+words	O
+,	O
+unsure	O
+of	O
+how	O
+to	O
+comfort	O
+their	O
+friend	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000195
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The innkeeper moved carefully through the silence .
+The	O
+innkeeper	O
+moved	O
+carefully	O
+through	O
+the	O
+silence	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000196
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Arms full , he stepped nimbly around Shep and began to arrange some items on a nearby table : a bowl of hot water , shears , some clean linen , a few glass bottles , needle and gut .
+Arms	O
+full	O
+,	O
+he	O
+stepped	O
+nimbly	O
+around	O
+Shep	B-CHARACTER
+and	O
+began	O
+to	O
+arrange	O
+some	O
+items	O
+on	O
+a	O
+nearby	O
+table	O
+:	O
+a	O
+bowl	O
+of	O
+hot	O
+water	O
+,	O
+shears	O
+,	O
+some	O
+clean	O
+linen	O
+,	O
+a	O
+few	O
+glass	O
+bottles	O
+,	O
+needle	O
+and	O
+gut	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000197
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` This never would have happened if he 'd listened to me in the first place , ''
+``	O
+This	O
+never	O
+would	O
+have	O
+happened	O
+if	O
+he	O
+'d	O
+listened	O
+to	O
+me	O
+in	O
+the	O
+first	O
+place	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000198
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Old Cob muttered .
+Old	B-CHARACTER
+Cob	I-CHARACTER
+muttered	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000199
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jake tried to quiet him , but Cob brushed him aside .
+Jake	B-CHARACTER
+tried	O
+to	O
+quiet	O
+him	O
+,	O
+but	O
+Cob	B-CHARACTER
+brushed	O
+him	O
+aside	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000200
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm just tellin ' the truth .
+``	O
+I	O
+'m	O
+just	O
+tellin	O
+'	O
+the	O
+truth	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000201
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's a damn shame about Nelly , but he better listen now or he 'll end up dead .
+It	O
+'s	O
+a	O
+damn	O
+shame	O
+about	O
+Nelly	B-CHARACTER
+,	O
+but	O
+he	O
+better	O
+listen	O
+now	O
+or	O
+he	O
+'ll	O
+end	O
+up	O
+dead	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000202
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You do n't get lucky twice with those sort of men . ''
+You	O
+do	O
+n't	O
+get	O
+lucky	O
+twice	O
+with	O
+those	O
+sort	O
+of	O
+men	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000203
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Carter 's mouth made a thin line .
+Carter	B-CHARACTER
+'s	O
+mouth	O
+made	O
+a	O
+thin	O
+line	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000204
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He reached out and pulled the edge of the bloody blanket .
+He	O
+reached	O
+out	O
+and	O
+pulled	O
+the	O
+edge	O
+of	O
+the	O
+bloody	O
+blanket	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000205
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Whatever was inside flipped over once and snagged on the cloth .
+Whatever	O
+was	O
+inside	O
+flipped	O
+over	O
+once	O
+and	O
+snagged	O
+on	O
+the	O
+cloth	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000206
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Carter tugged harder and there was a clatter like a bag of flat river stones upended onto the tabletop .
+Carter	B-CHARACTER
+tugged	O
+harder	O
+and	O
+there	O
+was	O
+a	O
+clatter	O
+like	O
+a	O
+bag	O
+of	O
+flat	O
+river	O
+stones	O
+upended	O
+onto	O
+the	O
+tabletop	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000207
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was a spider as large as a wagon wheel , black as slate .
+It	O
+was	O
+a	O
+spider	O
+as	O
+large	O
+as	O
+a	O
+wagon	O
+wheel	O
+,	O
+black	O
+as	O
+slate	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000208
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The smith 's prentice jumped backward and hit a table , knocking it over and almost falling to the ground himself .
+The	O
+smith	O
+'s	O
+prentice	O
+jumped	O
+backward	O
+and	O
+hit	O
+a	O
+table	O
+,	O
+knocking	O
+it	O
+over	O
+and	O
+almost	O
+falling	O
+to	O
+the	O
+ground	O
+himself	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000209
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cob 's face went slack .
+Cob	B-CHARACTER
+'s	O
+face	O
+went	O
+slack	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000210
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Graham , Shep , and Jake made wordless , startled sounds and moved away , raising their hands to their faces .
+Graham	B-CHARACTER
+,	O
+Shep	B-CHARACTER
+,	O
+and	O
+Jake	B-CHARACTER
+made	O
+wordless	O
+,	O
+startled	O
+sounds	O
+and	O
+moved	O
+away	O
+,	O
+raising	O
+their	O
+hands	O
+to	O
+their	O
+faces	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000211
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Carter took a step backward that was almost like a nervous twitch .
+Carter	B-CHARACTER
+took	O
+a	O
+step	O
+backward	O
+that	O
+was	O
+almost	O
+like	O
+a	O
+nervous	O
+twitch	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000212
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Silence filled the room like a cold sweat .
+Silence	O
+filled	O
+the	O
+room	O
+like	O
+a	O
+cold	O
+sweat	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000213
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The innkeeper frowned .
+The	O
+innkeeper	O
+frowned	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000214
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They ca n't have made it this far west yet , ''
+``	O
+They	O
+ca	O
+n't	O
+have	O
+made	O
+it	O
+this	O
+far	O
+west	O
+yet	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000215
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said softly .
+he	O
+said	O
+softly	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000216
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If not for the silence , it is unlikely anyone would have heard him .
+If	O
+not	O
+for	O
+the	O
+silence	O
+,	O
+it	O
+is	O
+unlikely	O
+anyone	O
+would	O
+have	O
+heard	O
+him	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000217
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But they did .
+But	O
+they	O
+did	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000218
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Their eyes pulled away from the thing on the table to stare mutely at the red-haired man .
+Their	O
+eyes	O
+pulled	O
+away	O
+from	O
+the	O
+thing	O
+on	O
+the	O
+table	O
+to	O
+stare	O
+mutely	O
+at	O
+the	O
+red-haired	O
+man	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000219
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jake found his voice first .
+Jake	B-CHARACTER
+found	O
+his	O
+voice	O
+first	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000220
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You know what this is ? ''
+``	O
+You	O
+know	O
+what	O
+this	O
+is	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000221
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The innkeeper 's eyes were distant .
+The	O
+innkeeper	O
+'s	O
+eyes	O
+were	O
+distant	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000222
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Scrael , ''
+``	O
+Scrael	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000223
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said distractedly .
+he	O
+said	O
+distractedly	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000224
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'd thought the mountains -- ''
+``	O
+I	O
+'d	O
+thought	O
+the	O
+mountains	O
+--	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000225
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Scrael ? ''
+``	O
+Scrael	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000226
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jake broke in .
+Jake	B-CHARACTER
+broke	O
+in	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000227
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Blackened body of God , Kote .
+``	O
+Blackened	O
+body	O
+of	O
+God	B-CHARACTER
+,	O
+Kote	B-CHARACTER
+.	O
+
+# id = conivel-the-name-of-the-wind-000228
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You 've seen these things before ? ''
+You	O
+'ve	O
+seen	O
+these	O
+things	O
+before	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000229
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What ? ''
+``	O
+What	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000230
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The red-haired innkeeper looked up sharply , as if suddenly remembering where he was .
+The	O
+red-haired	O
+innkeeper	O
+looked	O
+up	O
+sharply	O
+,	O
+as	O
+if	O
+suddenly	O
+remembering	O
+where	O
+he	O
+was	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000231
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Oh .
+``	O
+Oh	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000232
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No .
+No	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000233
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No , of course not . ''
+No	O
+,	O
+of	O
+course	O
+not	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000234
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Seeing that he was the only one within arm 's length of the dark thing , he took a measured step away .
+Seeing	O
+that	O
+he	O
+was	O
+the	O
+only	O
+one	O
+within	O
+arm	O
+'s	O
+length	O
+of	O
+the	O
+dark	O
+thing	O
+,	O
+he	O
+took	O
+a	O
+measured	O
+step	O
+away	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000235
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Just something I heard . ''
+``	O
+Just	O
+something	O
+I	O
+heard	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000236
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They stared at him .
+They	O
+stared	O
+at	O
+him	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000237
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do you remember the trader that came through about two span ago ? ''
+``	O
+Do	O
+you	O
+remember	O
+the	O
+trader	O
+that	O
+came	O
+through	O
+about	O
+two	O
+span	O
+ago	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000238
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They all nodded .
+They	O
+all	O
+nodded	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000239
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Bastard tried to charge me ten pennies for a half-pound of salt , ''
+``	O
+Bastard	O
+tried	O
+to	O
+charge	O
+me	O
+ten	O
+pennies	O
+for	O
+a	O
+half-pound	O
+of	O
+salt	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000240
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cob said reflexively , repeating the complaint for perhaps the hundredth time .
+Cob	B-CHARACTER
+said	O
+reflexively	O
+,	O
+repeating	O
+the	O
+complaint	O
+for	O
+perhaps	O
+the	O
+hundredth	O
+time	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000241
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Wish I 'd bought some , ''
+``	O
+Wish	O
+I	O
+'d	O
+bought	O
+some	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000242
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jake mumbled .
+Jake	B-CHARACTER
+mumbled	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000243
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Graham nodded a silent agreement .
+Graham	B-CHARACTER
+nodded	O
+a	O
+silent	O
+agreement	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000244
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He was a filthy shim , ''
+``	O
+He	O
+was	O
+a	O
+filthy	O
+shim	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000245
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cob spat , seeming to find comfort in the familiar words .
+Cob	B-CHARACTER
+spat	O
+,	O
+seeming	O
+to	O
+find	O
+comfort	O
+in	O
+the	O
+familiar	O
+words	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000246
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I might pay two in a tight time , but ten is robbery . ''
+``	O
+I	O
+might	O
+pay	O
+two	O
+in	O
+a	O
+tight	O
+time	O
+,	O
+but	O
+ten	O
+is	O
+robbery	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000247
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Not if there are more of those on the road , ''
+``	O
+Not	O
+if	O
+there	O
+are	O
+more	O
+of	O
+those	O
+on	O
+the	O
+road	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000248
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Shep said darkly .
+Shep	B-CHARACTER
+said	O
+darkly	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000249
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All eyes went back to the thing on the table .
+All	O
+eyes	O
+went	O
+back	O
+to	O
+the	O
+thing	O
+on	O
+the	O
+table	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000250
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He told me he 'd heard of them over near Melcombe , ''
+``	O
+He	O
+told	O
+me	O
+he	O
+'d	O
+heard	O
+of	O
+them	O
+over	O
+near	O
+Melcombe	B-LOCATION
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000251
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kote said quickly , watching everyone 's faces as they studied the thing on the table .
+Kote	B-CHARACTER
+said	O
+quickly	O
+,	O
+watching	O
+everyone	O
+'s	O
+faces	O
+as	O
+they	O
+studied	O
+the	O
+thing	O
+on	O
+the	O
+table	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000252
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I thought he was just trying to drive up his prices . ''
+``	O
+I	O
+thought	O
+he	O
+was	O
+just	O
+trying	O
+to	O
+drive	O
+up	O
+his	O
+prices	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000253
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What else did he say ? ''
+``	O
+What	O
+else	O
+did	O
+he	O
+say	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000254
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Carter asked .
+Carter	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000255
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The innkeeper looked thoughtful for a moment , then shrugged .
+The	O
+innkeeper	O
+looked	O
+thoughtful	O
+for	O
+a	O
+moment	O
+,	O
+then	O
+shrugged	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000256
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I did n't get the whole story .
+``	O
+I	O
+did	O
+n't	O
+get	O
+the	O
+whole	O
+story	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000257
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was only in town for a couple hours . ''
+He	O
+was	O
+only	O
+in	O
+town	O
+for	O
+a	O
+couple	O
+hours	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000258
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do n't like spiders , ''
+``	O
+I	O
+do	O
+n't	O
+like	O
+spiders	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000259
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the smith 's prentice said .
+the	O
+smith	O
+'s	O
+prentice	O
+said	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000260
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He remained on the other side of a table some fifteen feet away .
+He	O
+remained	O
+on	O
+the	O
+other	O
+side	O
+of	O
+a	O
+table	O
+some	O
+fifteen	O
+feet	O
+away	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000261
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Cover it up . ''
+``	O
+Cover	O
+it	O
+up	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000262
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's not a spider , ''
+``	O
+It	O
+'s	O
+not	O
+a	O
+spider	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000263
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jake said .
+Jake	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000264
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's got no eyes . ''
+``	O
+It	O
+'s	O
+got	O
+no	O
+eyes	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000265
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's got no mouth either , ''
+``	O
+It	O
+'s	O
+got	O
+no	O
+mouth	O
+either	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000266
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Carter pointed out .
+Carter	B-CHARACTER
+pointed	O
+out	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000267
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How does it eat ? ''
+``	O
+How	O
+does	O
+it	O
+eat	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000268
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What does it eat ? ''
+``	O
+What	O
+does	O
+it	O
+eat	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000269
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Shep said darkly .
+Shep	B-CHARACTER
+said	O
+darkly	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000270
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The innkeeper continued to eye the thing curiously .
+The	O
+innkeeper	O
+continued	O
+to	O
+eye	O
+the	O
+thing	O
+curiously	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000271
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He leaned closer , stretching out a hand .
+He	O
+leaned	O
+closer	O
+,	O
+stretching	O
+out	O
+a	O
+hand	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000272
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Everyone edged even farther away from the table .
+Everyone	O
+edged	O
+even	O
+farther	O
+away	O
+from	O
+the	O
+table	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000273
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Careful , ''
+``	O
+Careful	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000274
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Carter said .
+Carter	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000275
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Its feet are sharp like knives . ''
+``	O
+Its	O
+feet	O
+are	O
+sharp	O
+like	O
+knives	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000276
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` More like razors , ''
+``	O
+More	O
+like	O
+razors	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000277
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kote said .
+Kote	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000278
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His long fingers brushed the scrael 's black , featureless body .
+His	O
+long	O
+fingers	O
+brushed	O
+the	O
+scrael	O
+'s	O
+black	O
+,	O
+featureless	O
+body	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000279
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's smooth and hard , like pottery . ''
+``	O
+It	O
+'s	O
+smooth	O
+and	O
+hard	O
+,	O
+like	O
+pottery	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000280
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do n't go messing with it , ''
+``	O
+Do	O
+n't	O
+go	O
+messing	O
+with	O
+it	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000281
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the smith 's prentice said .
+the	O
+smith	O
+'s	O
+prentice	O
+said	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000282
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Moving carefully , the innkeeper took one of the long , smooth legs and tried to break it with both hands like a stick .
+Moving	O
+carefully	O
+,	O
+the	O
+innkeeper	O
+took	O
+one	O
+of	O
+the	O
+long	O
+,	O
+smooth	O
+legs	O
+and	O
+tried	O
+to	O
+break	O
+it	O
+with	O
+both	O
+hands	O
+like	O
+a	O
+stick	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000283
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Not pottery , ''
+``	O
+Not	O
+pottery	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000284
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he amended .
+he	O
+amended	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000285
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He set it against the edge of the table and leaned his weight against it .
+He	O
+set	O
+it	O
+against	O
+the	O
+edge	O
+of	O
+the	O
+table	O
+and	O
+leaned	O
+his	O
+weight	O
+against	O
+it	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000286
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It broke with a sharp crack .
+It	O
+broke	O
+with	O
+a	O
+sharp	O
+crack	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000287
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` More like stone . ''
+``	O
+More	O
+like	O
+stone	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000288
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He looked up at Carter .
+He	O
+looked	O
+up	O
+at	O
+Carter	B-CHARACTER
+.	O
+
+# id = conivel-the-name-of-the-wind-000289
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How did it get all these cracks ? ''
+``	O
+How	O
+did	O
+it	O
+get	O
+all	O
+these	O
+cracks	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000290
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He pointed at the thin fractures that crazed the smooth black surface of the body .
+He	O
+pointed	O
+at	O
+the	O
+thin	O
+fractures	O
+that	O
+crazed	O
+the	O
+smooth	O
+black	O
+surface	O
+of	O
+the	O
+body	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000291
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Nelly fell on it , ''
+``	O
+Nelly	B-CHARACTER
+fell	O
+on	O
+it	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000292
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Carter said .
+Carter	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000293
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It jumped out of a tree and started to climb all over her , cutting her up with its feet .
+``	O
+It	O
+jumped	O
+out	O
+of	O
+a	O
+tree	O
+and	O
+started	O
+to	O
+climb	O
+all	O
+over	O
+her	O
+,	O
+cutting	O
+her	O
+up	O
+with	O
+its	O
+feet	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000294
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It moved so fast .
+It	O
+moved	O
+so	O
+fast	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000295
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I did n't even know what was going on . ''
+I	O
+did	O
+n't	O
+even	O
+know	O
+what	O
+was	O
+going	O
+on	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000296
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Carter finally sank into the chair at Graham 's urging .
+Carter	B-CHARACTER
+finally	O
+sank	O
+into	O
+the	O
+chair	O
+at	O
+Graham	B-CHARACTER
+'s	O
+urging	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000297
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` She got tangled in her harness and fell on it , broke some of its legs .
+``	O
+She	O
+got	O
+tangled	O
+in	O
+her	O
+harness	O
+and	O
+fell	O
+on	O
+it	O
+,	O
+broke	O
+some	O
+of	O
+its	O
+legs	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000298
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then it came after me , got on me , crawling all over . ''
+Then	O
+it	O
+came	O
+after	O
+me	O
+,	O
+got	O
+on	O
+me	O
+,	O
+crawling	O
+all	O
+over	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000299
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He crossed his arms in front of his bloody chest and shuddered .
+He	O
+crossed	O
+his	O
+arms	O
+in	O
+front	O
+of	O
+his	O
+bloody	O
+chest	O
+and	O
+shuddered	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000300
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I managed to get it off me and stomped it hard as I could .
+``	O
+I	O
+managed	O
+to	O
+get	O
+it	O
+off	O
+me	O
+and	O
+stomped	O
+it	O
+hard	O
+as	O
+I	O
+could	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000301
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then it got on me again ... . ''
+Then	O
+it	O
+got	O
+on	O
+me	O
+again	O
+...	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000302
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He trailed off , his face ashen .
+He	O
+trailed	O
+off	O
+,	O
+his	O
+face	O
+ashen	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000303
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The innkeeper nodded to himself as he continued to prod the thing .
+The	O
+innkeeper	O
+nodded	O
+to	O
+himself	O
+as	O
+he	O
+continued	O
+to	O
+prod	O
+the	O
+thing	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000304
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There 's no blood .
+``	O
+There	O
+'s	O
+no	O
+blood	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000305
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No organs .
+No	O
+organs	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000306
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's just grey inside . ''
+It	O
+'s	O
+just	O
+grey	O
+inside	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000307
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He poked it with a finger .
+He	O
+poked	O
+it	O
+with	O
+a	O
+finger	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000308
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Like a mushroom . ''
+``	O
+Like	O
+a	O
+mushroom	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000309
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Great Tehlu , just leave it alone , ''
+``	O
+Great	O
+Tehlu	B-CHARACTER
+,	O
+just	O
+leave	O
+it	O
+alone	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000310
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the smith 's prentice begged .
+the	O
+smith	O
+'s	O
+prentice	O
+begged	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000311
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Sometimes spiders twitch after you kill them . ''
+``	O
+Sometimes	O
+spiders	O
+twitch	O
+after	O
+you	O
+kill	O
+them	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000312
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Listen to yourselves , ''
+``	O
+Listen	O
+to	O
+yourselves	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000313
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cob said scathingly .
+Cob	B-CHARACTER
+said	O
+scathingly	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000314
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Spiders do n't get big as pigs .
+``	O
+Spiders	O
+do	O
+n't	O
+get	O
+big	O
+as	O
+pigs	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000315
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You know what this is . ''
+You	O
+know	O
+what	O
+this	O
+is	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000316
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He looked around , making eye contact with each of them .
+He	O
+looked	O
+around	O
+,	O
+making	O
+eye	O
+contact	O
+with	O
+each	O
+of	O
+them	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000317
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's a demon . ''
+``	O
+It	O
+'s	O
+a	O
+demon	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000318
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They looked at the broken thing .
+They	O
+looked	O
+at	O
+the	O
+broken	O
+thing	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000319
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Oh , come on now , ''
+``	O
+Oh	O
+,	O
+come	O
+on	O
+now	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000320
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jake said , disagreeing mostly out of habit .
+Jake	B-CHARACTER
+said	O
+,	O
+disagreeing	O
+mostly	O
+out	O
+of	O
+habit	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000321
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's not like ... ''
+``	O
+It	O
+'s	O
+not	O
+like	O
+...	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000322
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He made an inarticulate gesture .
+He	O
+made	O
+an	O
+inarticulate	O
+gesture	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000323
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It ca n't just ... ''
+``	O
+It	O
+ca	O
+n't	O
+just	O
+...	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000324
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Everyone knew what he was thinking .
+Everyone	O
+knew	O
+what	O
+he	O
+was	O
+thinking	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000325
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Certainly there were demons in the world .
+Certainly	O
+there	O
+were	O
+demons	O
+in	O
+the	O
+world	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000326
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But they were like Tehlu 's angels.They were like heroes and kings .
+But	O
+they	O
+were	O
+like	O
+Tehlu	B-CHARACTER
+'s	O
+angels.They	O
+were	O
+like	O
+heroes	O
+and	O
+kings	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000327
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They belonged in stories .
+They	O
+belonged	O
+in	O
+stories	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000328
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They belonged out there .
+They	O
+belonged	O
+out	O
+there	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000329
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Taborlin the Great called up fire and lightning to destroy demons .
+Taborlin	B-CHARACTER
+the	I-CHARACTER
+Great	I-CHARACTER
+called	O
+up	O
+fire	O
+and	O
+lightning	O
+to	O
+destroy	O
+demons	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000330
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tehlu broke them in his hands and sent them howling into the nameless void .
+Tehlu	B-CHARACTER
+broke	O
+them	O
+in	O
+his	O
+hands	O
+and	O
+sent	O
+them	O
+howling	O
+into	O
+the	O
+nameless	O
+void	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000331
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Your childhood friend did n't stomp one to death on the road to Baedn-Bryt .
+Your	O
+childhood	O
+friend	O
+did	O
+n't	O
+stomp	O
+one	O
+to	O
+death	O
+on	O
+the	O
+road	O
+to	O
+Baedn-Bryt	B-LOCATION
+.	O
+
+# id = conivel-the-name-of-the-wind-000332
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was ridiculous .
+It	O
+was	O
+ridiculous	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000333
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kote ran his hand through his red hair , then broke the silence .
+Kote	B-CHARACTER
+ran	O
+his	O
+hand	O
+through	O
+his	O
+red	O
+hair	O
+,	O
+then	O
+broke	O
+the	O
+silence	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000334
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There 's one way to tell for sure , ''
+``	O
+There	O
+'s	O
+one	O
+way	O
+to	O
+tell	O
+for	O
+sure	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000335
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said , reaching into his pocket .
+he	O
+said	O
+,	O
+reaching	O
+into	O
+his	O
+pocket	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000336
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Iron or fire . ''
+``	O
+Iron	O
+or	O
+fire	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000337
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He brought out a bulging leather purse .
+He	O
+brought	O
+out	O
+a	O
+bulging	O
+leather	O
+purse	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000338
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And the name of God , ''
+``	O
+And	O
+the	O
+name	O
+of	O
+God	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000339
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Graham pointed out .
+Graham	B-CHARACTER
+pointed	O
+out	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000340
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Demons fear three things : cold iron , clean fire , and the holy name of God . ''
+``	O
+Demons	O
+fear	O
+three	O
+things	O
+:	O
+cold	O
+iron	O
+,	O
+clean	O
+fire	O
+,	O
+and	O
+the	O
+holy	O
+name	O
+of	O
+God	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000341
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The innkeeper 's mouth pressed itself into a straight line that was not quite a frown .
+The	O
+innkeeper	O
+'s	O
+mouth	O
+pressed	O
+itself	O
+into	O
+a	O
+straight	O
+line	O
+that	O
+was	O
+not	O
+quite	O
+a	O
+frown	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000342
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Of course , ''
+``	O
+Of	O
+course	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000343
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said as he emptied his purse onto the table then fingered through the jumbled coins : heavy silver talents and thin silver bits , copper jots , broken ha ' pennies , and iron drabs .
+he	O
+said	O
+as	O
+he	O
+emptied	O
+his	O
+purse	O
+onto	O
+the	O
+table	O
+then	O
+fingered	O
+through	O
+the	O
+jumbled	O
+coins	O
+:	O
+heavy	O
+silver	O
+talents	O
+and	O
+thin	O
+silver	O
+bits	O
+,	O
+copper	O
+jots	O
+,	O
+broken	O
+ha	O
+'	O
+pennies	O
+,	O
+and	O
+iron	O
+drabs	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000344
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Does anyone have a shim ? ''
+``	O
+Does	O
+anyone	O
+have	O
+a	O
+shim	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000345
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Just use a drab , ''
+``	O
+Just	O
+use	O
+a	O
+drab	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000346
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jake said .
+Jake	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000347
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That 's good iron . ''
+``	O
+That	O
+'s	O
+good	O
+iron	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000348
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do n't want good iron , ''
+``	O
+I	O
+do	O
+n't	O
+want	O
+good	O
+iron	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000349
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the innkeeper said .
+the	O
+innkeeper	O
+said	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000350
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A drab has too much carbon in it .
+``	O
+A	O
+drab	O
+has	O
+too	O
+much	O
+carbon	O
+in	O
+it	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000351
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's almost steel . ''
+It	O
+'s	O
+almost	O
+steel	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000352
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He 's right , ''
+``	O
+He	O
+'s	O
+right	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000353
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the smith 's prentice said .
+the	O
+smith	O
+'s	O
+prentice	O
+said	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000354
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Except it 's not carbon .
+``	O
+Except	O
+it	O
+'s	O
+not	O
+carbon	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000355
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You use coke to make steel .
+You	O
+use	O
+coke	O
+to	O
+make	O
+steel	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000356
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Coke and lime . ''
+Coke	O
+and	O
+lime	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000357
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The innkeeper nodded deferentially to the boy .
+The	O
+innkeeper	O
+nodded	O
+deferentially	O
+to	O
+the	O
+boy	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000358
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 'd know best , young master .
+``	O
+You	O
+'d	O
+know	O
+best	O
+,	O
+young	O
+master	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000359
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's your business after all . ''
+It	O
+'s	O
+your	O
+business	O
+after	O
+all	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000360
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His long fingers finally found a shim in the pile of coins .
+His	O
+long	O
+fingers	O
+finally	O
+found	O
+a	O
+shim	O
+in	O
+the	O
+pile	O
+of	O
+coins	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000361
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He held it up .
+He	O
+held	O
+it	O
+up	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000362
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Here we are . ''
+``	O
+Here	O
+we	O
+are	O
+.	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000363
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What will it do ? ''
+``	O
+What	O
+will	O
+it	O
+do	O
+?	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000364
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jake asked .
+Jake	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-the-name-of-the-wind-000365
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Iron kills demons , ''
+``	O
+Iron	O
+kills	O
+demons	O
+,	O
+''	O
+
+# id = conivel-the-name-of-the-wind-000366
+# source = Conivel corrected OWTO literary NER
+# book = The Name of the Wind
+# source_file = TheNameOfTheWind.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cob 's voice was uncertain , `` but this one 's already dead .
+Cob	B-CHARACTER
+'s	O
+voice	O
+was	O
+uncertain	O
+,	O
+``	O
+but	O
+this	O
+one	O
+'s	O
+already	O
+dead	O
+.	O
+

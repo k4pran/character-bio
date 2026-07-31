@@ -1,0 +1,6492 @@
+# id = conivel-emma-000001
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The wedding over , and the bride-people gone , her father and herself were left to dine together , with no prospect of a third to cheer a long evening .
+The	O
+wedding	O
+over	O
+,	O
+and	O
+the	O
+bride-people	O
+gone	O
+,	O
+her	O
+father	O
+and	O
+herself	O
+were	O
+left	O
+to	O
+dine	O
+together	O
+,	O
+with	O
+no	O
+prospect	O
+of	O
+a	O
+third	O
+to	O
+cheer	O
+a	O
+long	O
+evening	O
+.	O
+
+# id = conivel-emma-000002
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her father composed himself to sleep after dinner , as usual , and she had then only to sit and think of what she had lost .
+Her	O
+father	O
+composed	O
+himself	O
+to	O
+sleep	O
+after	O
+dinner	O
+,	O
+as	O
+usual	O
+,	O
+and	O
+she	O
+had	O
+then	O
+only	O
+to	O
+sit	O
+and	O
+think	O
+of	O
+what	O
+she	O
+had	O
+lost	O
+.	O
+
+# id = conivel-emma-000003
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The event had every promise of happiness for her friend .
+The	O
+event	O
+had	O
+every	O
+promise	O
+of	O
+happiness	O
+for	O
+her	O
+friend	O
+.	O
+
+# id = conivel-emma-000004
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She recalled her past kindness -- the kindness , the affection of sixteen years -- how she had taught and how she had played with her from five years old -- how she had devoted all her powers to attach and amuse her in health -- and how nursed her through the various illnesses of childhood .
+She	O
+recalled	O
+her	O
+past	O
+kindness	O
+--	O
+the	O
+kindness	O
+,	O
+the	O
+affection	O
+of	O
+sixteen	O
+years	O
+--	O
+how	O
+she	O
+had	O
+taught	O
+and	O
+how	O
+she	O
+had	O
+played	O
+with	O
+her	O
+from	O
+five	O
+years	O
+old	O
+--	O
+how	O
+she	O
+had	O
+devoted	O
+all	O
+her	O
+powers	O
+to	O
+attach	O
+and	O
+amuse	O
+her	O
+in	O
+health	O
+--	O
+and	O
+how	O
+nursed	O
+her	O
+through	O
+the	O
+various	O
+illnesses	O
+of	O
+childhood	O
+.	O
+
+# id = conivel-emma-000005
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She had been a friend and companion such as few possessed : intelligent , well-informed , useful , gentle , knowing all the ways of the family , interested in all its concerns , and peculiarly interested in herself , in every pleasure , every scheme of hers -- one to whom she could speak every thought as it arose , and who had such an affection for her as could never find fault .
+She	O
+had	O
+been	O
+a	O
+friend	O
+and	O
+companion	O
+such	O
+as	O
+few	O
+possessed	O
+:	O
+intelligent	O
+,	O
+well-informed	O
+,	O
+useful	O
+,	O
+gentle	O
+,	O
+knowing	O
+all	O
+the	O
+ways	O
+of	O
+the	O
+family	O
+,	O
+interested	O
+in	O
+all	O
+its	O
+concerns	O
+,	O
+and	O
+peculiarly	O
+interested	O
+in	O
+herself	O
+,	O
+in	O
+every	O
+pleasure	O
+,	O
+every	O
+scheme	O
+of	O
+hers	O
+--	O
+one	O
+to	O
+whom	O
+she	O
+could	O
+speak	O
+every	O
+thought	O
+as	O
+it	O
+arose	O
+,	O
+and	O
+who	O
+had	O
+such	O
+an	O
+affection	O
+for	O
+her	O
+as	O
+could	O
+never	O
+find	O
+fault	O
+.	O
+
+# id = conivel-emma-000006
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How was she to bear the change ?
+How	O
+was	O
+she	O
+to	O
+bear	O
+the	O
+change	O
+?	O
+
+# id = conivel-emma-000007
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She dearly loved her father , but he was no companion for her .
+She	O
+dearly	O
+loved	O
+her	O
+father	O
+,	O
+but	O
+he	O
+was	O
+no	O
+companion	O
+for	O
+her	O
+.	O
+
+# id = conivel-emma-000008
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He could not meet her in conversation , rational or playful .
+He	O
+could	O
+not	O
+meet	O
+her	O
+in	O
+conversation	O
+,	O
+rational	O
+or	O
+playful	O
+.	O
+
+# id = conivel-emma-000009
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Woodhouses were first in consequence there .
+The	O
+Woodhouses	O
+were	O
+first	O
+in	O
+consequence	O
+there	O
+.	O
+
+# id = conivel-emma-000010
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All looked up to them .
+All	O
+looked	O
+up	O
+to	O
+them	O
+.	O
+
+# id = conivel-emma-000011
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His spirits required support .
+His	O
+spirits	O
+required	O
+support	O
+.	O
+
+# id = conivel-emma-000012
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was a nervous man , easily depressed ; fond of every body that he was used to , and hating to part with them ; hating change of every kind .
+He	O
+was	O
+a	O
+nervous	O
+man	O
+,	O
+easily	O
+depressed	O
+;	O
+fond	O
+of	O
+every	O
+body	O
+that	O
+he	O
+was	O
+used	O
+to	O
+,	O
+and	O
+hating	O
+to	O
+part	O
+with	O
+them	O
+;	O
+hating	O
+change	O
+of	O
+every	O
+kind	O
+.	O
+
+# id = conivel-emma-000013
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Emma smiled and chatted as cheerfully as she could , to keep him from such thoughts ; but when tea came , it was impossible for him not to say exactly as he had said at dinner , `` Poor Miss Taylor !
+Emma	B-CHARACTER
+smiled	O
+and	O
+chatted	O
+as	O
+cheerfully	O
+as	O
+she	O
+could	O
+,	O
+to	O
+keep	O
+him	O
+from	O
+such	O
+thoughts	O
+;	O
+but	O
+when	O
+tea	O
+came	O
+,	O
+it	O
+was	O
+impossible	O
+for	O
+him	O
+not	O
+to	O
+say	O
+exactly	O
+as	O
+he	O
+had	O
+said	O
+at	O
+dinner	O
+,	O
+``	O
+Poor	O
+Miss	B-CHARACTER
+Taylor	I-CHARACTER
+!	O
+
+# id = conivel-emma-000014
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- I wish she were here again .
+--	O
+I	O
+wish	O
+she	O
+were	O
+here	O
+again	O
+.	O
+
+# id = conivel-emma-000015
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What a pity it is that Mr. Weston ever thought of her ! ''
+What	O
+a	O
+pity	O
+it	O
+is	O
+that	O
+Mr.	B-CHARACTER
+Weston	I-CHARACTER
+ever	O
+thought	O
+of	O
+her	O
+!	O
+''	O
+
+# id = conivel-emma-000016
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I can not agree with you , papa ; you know I can not .
+``	O
+I	O
+can	O
+not	O
+agree	O
+with	O
+you	O
+,	O
+papa	O
+;	O
+you	O
+know	O
+I	O
+can	O
+not	O
+.	O
+
+# id = conivel-emma-000017
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Weston is such a good-humoured , pleasant , excellent man , that he thoroughly deserves a good wife ; -- and you would not have had Miss Taylor live with us for ever , and bear all my odd humours , when she might have a house of her own ? ''
+Mr.	B-CHARACTER
+Weston	I-CHARACTER
+is	O
+such	O
+a	O
+good-humoured	O
+,	O
+pleasant	O
+,	O
+excellent	O
+man	O
+,	O
+that	O
+he	O
+thoroughly	O
+deserves	O
+a	O
+good	O
+wife	O
+;	O
+--	O
+and	O
+you	O
+would	O
+not	O
+have	O
+had	O
+Miss	B-CHARACTER
+Taylor	I-CHARACTER
+live	O
+with	O
+us	O
+for	O
+ever	O
+,	O
+and	O
+bear	O
+all	O
+my	O
+odd	O
+humours	O
+,	O
+when	O
+she	O
+might	O
+have	O
+a	O
+house	O
+of	O
+her	O
+own	O
+?	O
+''	O
+
+# id = conivel-emma-000018
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A house of her own !
+``	O
+A	O
+house	O
+of	O
+her	O
+own	O
+!	O
+
+# id = conivel-emma-000019
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- But where is the advantage of a house of her own ?
+--	O
+But	O
+where	O
+is	O
+the	O
+advantage	O
+of	O
+a	O
+house	O
+of	O
+her	O
+own	O
+?	O
+
+# id = conivel-emma-000020
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This is three times as large .
+This	O
+is	O
+three	O
+times	O
+as	O
+large	O
+.	O
+
+# id = conivel-emma-000021
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- And you have never any odd humours , my dear . ''
+--	O
+And	O
+you	O
+have	O
+never	O
+any	O
+odd	O
+humours	O
+,	O
+my	O
+dear	O
+.	O
+''	O
+
+# id = conivel-emma-000022
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How often we shall be going to see them , and they coming to see us !
+``	O
+How	O
+often	O
+we	O
+shall	O
+be	O
+going	O
+to	O
+see	O
+them	O
+,	O
+and	O
+they	O
+coming	O
+to	O
+see	O
+us	O
+!	O
+
+# id = conivel-emma-000023
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- We shall be always meeting !
+--	O
+We	O
+shall	O
+be	O
+always	O
+meeting	O
+!	O
+
+# id = conivel-emma-000024
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = _ We _ must begin ; we must go and pay wedding visit very soon . ''
+_	O
+We	O
+_	O
+must	O
+begin	O
+;	O
+we	O
+must	O
+go	O
+and	O
+pay	O
+wedding	O
+visit	O
+very	O
+soon	O
+.	O
+''	O
+
+# id = conivel-emma-000025
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` My dear , how am I to get so far ?
+``	O
+My	O
+dear	O
+,	O
+how	O
+am	O
+I	O
+to	O
+get	O
+so	O
+far	O
+?	O
+
+# id = conivel-emma-000026
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I could not walk half so far . ''
+I	O
+could	O
+not	O
+walk	O
+half	O
+so	O
+far	O
+.	O
+''	O
+
+# id = conivel-emma-000027
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , papa , nobody thought of your walking .
+``	O
+No	O
+,	O
+papa	O
+,	O
+nobody	O
+thought	O
+of	O
+your	O
+walking	O
+.	O
+
+# id = conivel-emma-000028
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We must go in the carriage , to be sure . ''
+We	O
+must	O
+go	O
+in	O
+the	O
+carriage	O
+,	O
+to	O
+be	O
+sure	O
+.	O
+''	O
+
+# id = conivel-emma-000029
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The carriage !
+``	O
+The	O
+carriage	O
+!	O
+
+# id = conivel-emma-000030
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But James will not like to put the horses to for such a little way ; -- and where are the poor horses to be while we are paying our visit ? ''
+But	O
+James	B-CHARACTER
+will	O
+not	O
+like	O
+to	O
+put	O
+the	O
+horses	O
+to	O
+for	O
+such	O
+a	O
+little	O
+way	O
+;	O
+--	O
+and	O
+where	O
+are	O
+the	O
+poor	O
+horses	O
+to	O
+be	O
+while	O
+we	O
+are	O
+paying	O
+our	O
+visit	O
+?	O
+''	O
+
+# id = conivel-emma-000031
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They are to be put into Mr. Weston 's stable , papa .
+``	O
+They	O
+are	O
+to	O
+be	O
+put	O
+into	O
+Mr.	B-CHARACTER
+Weston	I-CHARACTER
+'s	O
+stable	O
+,	O
+papa	O
+.	O
+
+# id = conivel-emma-000032
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You know we have settled all that already .
+You	O
+know	O
+we	O
+have	O
+settled	O
+all	O
+that	O
+already	O
+.	O
+
+# id = conivel-emma-000033
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I only doubt whether he will ever take us anywhere else .
+I	O
+only	O
+doubt	O
+whether	O
+he	O
+will	O
+ever	O
+take	O
+us	O
+anywhere	O
+else	O
+.	O
+
+# id = conivel-emma-000034
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That was your doing , papa .
+That	O
+was	O
+your	O
+doing	O
+,	O
+papa	O
+.	O
+
+# id = conivel-emma-000035
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nobody thought of Hannah till you mentioned her -- James is so obliged to you ! ''
+Nobody	O
+thought	O
+of	O
+Hannah	B-CHARACTER
+till	O
+you	O
+mentioned	O
+her	O
+--	O
+James	B-CHARACTER
+is	O
+so	O
+obliged	O
+to	O
+you	O
+!	O
+''	O
+
+# id = conivel-emma-000036
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I am very glad I did think of her .
+``	O
+I	O
+am	O
+very	O
+glad	O
+I	O
+did	O
+think	O
+of	O
+her	O
+.	O
+
+# id = conivel-emma-000037
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Whenever I see her , she always curtseys and asks me how I do , in a very pretty manner ; and when you have had her here to do needlework , I observe she always turns the lock of the door the right way and never bangs it .
+Whenever	O
+I	O
+see	O
+her	O
+,	O
+she	O
+always	O
+curtseys	O
+and	O
+asks	O
+me	O
+how	O
+I	O
+do	O
+,	O
+in	O
+a	O
+very	O
+pretty	O
+manner	O
+;	O
+and	O
+when	O
+you	O
+have	O
+had	O
+her	O
+here	O
+to	O
+do	O
+needlework	O
+,	O
+I	O
+observe	O
+she	O
+always	O
+turns	O
+the	O
+lock	O
+of	O
+the	O
+door	O
+the	O
+right	O
+way	O
+and	O
+never	O
+bangs	O
+it	O
+.	O
+
+# id = conivel-emma-000038
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He will be able to tell her how we all are . ''
+He	O
+will	O
+be	O
+able	O
+to	O
+tell	O
+her	O
+how	O
+we	O
+all	O
+are	O
+.	O
+''	O
+
+# id = conivel-emma-000039
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The backgammon-table was placed ; but a visitor immediately afterwards walked in and made it unnecessary .
+The	O
+backgammon-table	O
+was	O
+placed	O
+;	O
+but	O
+a	O
+visitor	O
+immediately	O
+afterwards	O
+walked	O
+in	O
+and	O
+made	O
+it	O
+unnecessary	O
+.	O
+
+# id = conivel-emma-000040
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Knightley had a cheerful manner , which always did him good ; and his many inquiries after `` poor Isabella ''
+Mr.	B-CHARACTER
+Knightley	I-CHARACTER
+had	O
+a	O
+cheerful	O
+manner	O
+,	O
+which	O
+always	O
+did	O
+him	O
+good	O
+;	O
+and	O
+his	O
+many	O
+inquiries	O
+after	O
+``	O
+poor	O
+Isabella	B-CHARACTER
+''	O
+
+# id = conivel-emma-000041
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = and her children were answered most satisfactorily .
+and	O
+her	O
+children	O
+were	O
+answered	O
+most	O
+satisfactorily	O
+.	O
+
+# id = conivel-emma-000042
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When this was over , Mr. Woodhouse gratefully observed , `` It is very kind of you , Mr. Knightley , to come out at this late hour to call upon us .
+When	O
+this	O
+was	O
+over	O
+,	O
+Mr.	B-CHARACTER
+Woodhouse	I-CHARACTER
+gratefully	O
+observed	O
+,	O
+``	O
+It	O
+is	O
+very	O
+kind	O
+of	O
+you	O
+,	O
+Mr.	B-CHARACTER
+Knightley	I-CHARACTER
+,	O
+to	O
+come	O
+out	O
+at	O
+this	O
+late	O
+hour	O
+to	O
+call	O
+upon	O
+us	O
+.	O
+
+# id = conivel-emma-000043
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I am afraid you must have had a shocking walk . ''
+I	O
+am	O
+afraid	O
+you	O
+must	O
+have	O
+had	O
+a	O
+shocking	O
+walk	O
+.	O
+''	O
+
+# id = conivel-emma-000044
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Not at all , sir .
+``	O
+Not	O
+at	O
+all	O
+,	O
+sir	O
+.	O
+
+# id = conivel-emma-000045
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It is a beautiful moonlight night ; and so mild that I must draw back from your great fire . ''
+It	O
+is	O
+a	O
+beautiful	O
+moonlight	O
+night	O
+;	O
+and	O
+so	O
+mild	O
+that	O
+I	O
+must	O
+draw	O
+back	O
+from	O
+your	O
+great	O
+fire	O
+.	O
+''	O
+
+# id = conivel-emma-000046
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But you must have found it very damp and dirty .
+``	O
+But	O
+you	O
+must	O
+have	O
+found	O
+it	O
+very	O
+damp	O
+and	O
+dirty	O
+.	O
+
+# id = conivel-emma-000047
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I wish you may not catch cold . ''
+I	O
+wish	O
+you	O
+may	O
+not	O
+catch	O
+cold	O
+.	O
+''	O
+
+# id = conivel-emma-000048
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Dirty , sir !
+``	O
+Dirty	O
+,	O
+sir	O
+!	O
+
+# id = conivel-emma-000049
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Look at my shoes .
+Look	O
+at	O
+my	O
+shoes	O
+.	O
+
+# id = conivel-emma-000050
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not a speck on them . ''
+Not	O
+a	O
+speck	O
+on	O
+them	O
+.	O
+''	O
+
+# id = conivel-emma-000051
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well !
+``	O
+Well	O
+!	O
+
+# id = conivel-emma-000052
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = that is quite surprising , for we have had a vast deal of rain here .
+that	O
+is	O
+quite	O
+surprising	O
+,	O
+for	O
+we	O
+have	O
+had	O
+a	O
+vast	O
+deal	O
+of	O
+rain	O
+here	O
+.	O
+
+# id = conivel-emma-000053
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It rained dreadfully hard for half an hour while we were at breakfast .
+It	O
+rained	O
+dreadfully	O
+hard	O
+for	O
+half	O
+an	O
+hour	O
+while	O
+we	O
+were	O
+at	O
+breakfast	O
+.	O
+
+# id = conivel-emma-000054
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I wanted them to put off the wedding . ''
+I	O
+wanted	O
+them	O
+to	O
+put	O
+off	O
+the	O
+wedding	O
+.	O
+''	O
+
+# id = conivel-emma-000055
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` By the bye -- I have not wished you joy .
+``	O
+By	O
+the	O
+bye	O
+--	O
+I	O
+have	O
+not	O
+wished	O
+you	O
+joy	O
+.	O
+
+# id = conivel-emma-000056
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Being pretty well aware of what sort of joy you must both be feeling , I have been in no hurry with my congratulations ; but I hope it all went off tolerably well .
+Being	O
+pretty	O
+well	O
+aware	O
+of	O
+what	O
+sort	O
+of	O
+joy	O
+you	O
+must	O
+both	O
+be	O
+feeling	O
+,	O
+I	O
+have	O
+been	O
+in	O
+no	O
+hurry	O
+with	O
+my	O
+congratulations	O
+;	O
+but	O
+I	O
+hope	O
+it	O
+all	O
+went	O
+off	O
+tolerably	O
+well	O
+.	O
+
+# id = conivel-emma-000057
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How did you all behave ?
+How	O
+did	O
+you	O
+all	O
+behave	O
+?	O
+
+# id = conivel-emma-000058
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Who cried most ? ''
+Who	O
+cried	O
+most	O
+?	O
+''	O
+
+# id = conivel-emma-000059
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ah !
+``	O
+Ah	O
+!	O
+
+# id = conivel-emma-000060
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = poor Miss Taylor !
+poor	O
+Miss	B-CHARACTER
+Taylor	I-CHARACTER
+!	O
+
+# id = conivel-emma-000061
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ` Tis a sad business . ''
+`	O
+Tis	O
+a	O
+sad	O
+business	O
+.	O
+''	O
+
+# id = conivel-emma-000062
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Poor Mr. and Miss Woodhouse , if you please ; but I can not possibly say ` poor Miss Taylor .
+``	O
+Poor	O
+Mr.	B-CHARACTER
+and	O
+Miss	B-CHARACTER
+Woodhouse	I-CHARACTER
+,	O
+if	O
+you	O
+please	O
+;	O
+but	O
+I	O
+can	O
+not	O
+possibly	O
+say	O
+`	O
+poor	O
+Miss	B-CHARACTER
+Taylor	I-CHARACTER
+.	O
+
+# id = conivel-emma-000063
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' I have a great regard for you and Emma ; but when it comes to the question of dependence or independence !
+'	O
+I	O
+have	O
+a	O
+great	O
+regard	O
+for	O
+you	O
+and	O
+Emma	B-CHARACTER
+;	O
+but	O
+when	O
+it	O
+comes	O
+to	O
+the	O
+question	O
+of	O
+dependence	O
+or	O
+independence	O
+!	O
+
+# id = conivel-emma-000064
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- At any rate , it must be better to have only one to please than two . ''
+--	O
+At	O
+any	O
+rate	O
+,	O
+it	O
+must	O
+be	O
+better	O
+to	O
+have	O
+only	O
+one	O
+to	O
+please	O
+than	O
+two	O
+.	O
+''	O
+
+# id = conivel-emma-000065
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Especially when _ one _ of those two is such a fanciful , troublesome creature ! ''
+``	O
+Especially	O
+when	O
+_	O
+one	O
+_	O
+of	O
+those	O
+two	O
+is	O
+such	O
+a	O
+fanciful	O
+,	O
+troublesome	O
+creature	O
+!	O
+''	O
+
+# id = conivel-emma-000066
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Emma playfully .
+said	O
+Emma	B-CHARACTER
+playfully	O
+.	O
+
+# id = conivel-emma-000067
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That is what you have in your head , I know -- and what you would certainly say if my father were not by . ''
+``	O
+That	O
+is	O
+what	O
+you	O
+have	O
+in	O
+your	O
+head	O
+,	O
+I	O
+know	O
+--	O
+and	O
+what	O
+you	O
+would	O
+certainly	O
+say	O
+if	O
+my	O
+father	O
+were	O
+not	O
+by	O
+.	O
+''	O
+
+# id = conivel-emma-000068
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I believe it is very true , my dear , indeed , ''
+``	O
+I	O
+believe	O
+it	O
+is	O
+very	O
+true	O
+,	O
+my	O
+dear	O
+,	O
+indeed	O
+,	O
+''	O
+
+# id = conivel-emma-000069
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Woodhouse , with a sigh .
+said	O
+Mr.	B-CHARACTER
+Woodhouse	I-CHARACTER
+,	O
+with	O
+a	O
+sigh	O
+.	O
+
+# id = conivel-emma-000070
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I am afraid I am sometimes very fanciful and troublesome . ''
+``	O
+I	O
+am	O
+afraid	O
+I	O
+am	O
+sometimes	O
+very	O
+fanciful	O
+and	O
+troublesome	O
+.	O
+''	O
+
+# id = conivel-emma-000071
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` My dearest papa !
+``	O
+My	O
+dearest	O
+papa	O
+!	O
+
+# id = conivel-emma-000072
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You do not think I could mean _ you _ , or suppose Mr. Knightley to mean _ you _ .
+You	O
+do	O
+not	O
+think	O
+I	O
+could	O
+mean	O
+_	O
+you	O
+_	O
+,	O
+or	O
+suppose	O
+Mr.	B-CHARACTER
+Knightley	I-CHARACTER
+to	O
+mean	O
+_	O
+you	O
+_	O
+.	O
+
+# id = conivel-emma-000073
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What a horrible idea !
+What	O
+a	O
+horrible	O
+idea	O
+!	O
+
+# id = conivel-emma-000074
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Oh no !
+Oh	O
+no	O
+!	O
+
+# id = conivel-emma-000075
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I meant only myself .
+I	O
+meant	O
+only	O
+myself	O
+.	O
+
+# id = conivel-emma-000076
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Knightley loves to find fault with me , you know -- in a joke -- it is all a joke .
+Mr.	B-CHARACTER
+Knightley	I-CHARACTER
+loves	O
+to	O
+find	O
+fault	O
+with	O
+me	O
+,	O
+you	O
+know	O
+--	O
+in	O
+a	O
+joke	O
+--	O
+it	O
+is	O
+all	O
+a	O
+joke	O
+.	O
+
+# id = conivel-emma-000077
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We always say what we like to one another . ''
+We	O
+always	O
+say	O
+what	O
+we	O
+like	O
+to	O
+one	O
+another	O
+.	O
+''	O
+
+# id = conivel-emma-000078
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Knightley , in fact , was one of the few people who could see faults in Emma Woodhouse , and the only one who ever told her of them : and though this was not particularly agreeable to Emma herself , she knew it would be so much less so to her father , that she would not have him really suspect such a circumstance as her not being thought perfect by every body .
+Mr.	B-CHARACTER
+Knightley	I-CHARACTER
+,	O
+in	O
+fact	O
+,	O
+was	O
+one	O
+of	O
+the	O
+few	O
+people	O
+who	O
+could	O
+see	O
+faults	O
+in	O
+Emma	B-CHARACTER
+Woodhouse	I-CHARACTER
+,	O
+and	O
+the	O
+only	O
+one	O
+who	O
+ever	O
+told	O
+her	O
+of	O
+them	O
+:	O
+and	O
+though	O
+this	O
+was	O
+not	O
+particularly	O
+agreeable	O
+to	O
+Emma	B-CHARACTER
+herself	O
+,	O
+she	O
+knew	O
+it	O
+would	O
+be	O
+so	O
+much	O
+less	O
+so	O
+to	O
+her	O
+father	O
+,	O
+that	O
+she	O
+would	O
+not	O
+have	O
+him	O
+really	O
+suspect	O
+such	O
+a	O
+circumstance	O
+as	O
+her	O
+not	O
+being	O
+thought	O
+perfect	O
+by	O
+every	O
+body	O
+.	O
+
+# id = conivel-emma-000079
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Emma knows I never flatter her , ''
+``	O
+Emma	B-CHARACTER
+knows	O
+I	O
+never	O
+flatter	O
+her	O
+,	O
+''	O
+
+# id = conivel-emma-000080
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Knightley , `` but I meant no reflection on any body .
+said	O
+Mr.	B-CHARACTER
+Knightley	I-CHARACTER
+,	O
+``	O
+but	O
+I	O
+meant	O
+no	O
+reflection	O
+on	O
+any	O
+body	O
+.	O
+
+# id = conivel-emma-000081
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Miss Taylor has been used to have two persons to please ; she will now have but one .
+Miss	B-CHARACTER
+Taylor	I-CHARACTER
+has	O
+been	O
+used	O
+to	O
+have	O
+two	O
+persons	O
+to	O
+please	O
+;	O
+she	O
+will	O
+now	O
+have	O
+but	O
+one	O
+.	O
+
+# id = conivel-emma-000082
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The chances are that she must be a gainer . ''
+The	O
+chances	O
+are	O
+that	O
+she	O
+must	O
+be	O
+a	O
+gainer	O
+.	O
+''	O
+
+# id = conivel-emma-000083
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , ''
+``	O
+Well	O
+,	O
+''	O
+
+# id = conivel-emma-000084
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Emma , willing to let it pass -- `` you want to hear about the wedding ; and I shall be happy to tell you , for we all behaved charmingly .
+said	O
+Emma	B-CHARACTER
+,	O
+willing	O
+to	O
+let	O
+it	O
+pass	O
+--	O
+``	O
+you	O
+want	O
+to	O
+hear	O
+about	O
+the	O
+wedding	O
+;	O
+and	O
+I	O
+shall	O
+be	O
+happy	O
+to	O
+tell	O
+you	O
+,	O
+for	O
+we	O
+all	O
+behaved	O
+charmingly	O
+.	O
+
+# id = conivel-emma-000085
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Every body was punctual , every body in their best looks : not a tear , and hardly a long face to be seen .
+Every	O
+body	O
+was	O
+punctual	O
+,	O
+every	O
+body	O
+in	O
+their	O
+best	O
+looks	O
+:	O
+not	O
+a	O
+tear	O
+,	O
+and	O
+hardly	O
+a	O
+long	O
+face	O
+to	O
+be	O
+seen	O
+.	O
+
+# id = conivel-emma-000086
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Oh no ; we all felt that we were going to be only half a mile apart , and were sure of meeting every day . ''
+Oh	O
+no	O
+;	O
+we	O
+all	O
+felt	O
+that	O
+we	O
+were	O
+going	O
+to	O
+be	O
+only	O
+half	O
+a	O
+mile	O
+apart	O
+,	O
+and	O
+were	O
+sure	O
+of	O
+meeting	O
+every	O
+day	O
+.	O
+''	O
+
+# id = conivel-emma-000087
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Dear Emma bears every thing so well , ''
+``	O
+Dear	O
+Emma	B-CHARACTER
+bears	O
+every	O
+thing	O
+so	O
+well	O
+,	O
+''	O
+
+# id = conivel-emma-000088
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said her father .
+said	O
+her	O
+father	O
+.	O
+
+# id = conivel-emma-000089
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But , Mr. Knightley , she is really very sorry to lose poor Miss Taylor , and I am sure she _ will _ miss her more than she thinks for . ''
+``	O
+But	O
+,	O
+Mr.	B-CHARACTER
+Knightley	I-CHARACTER
+,	O
+she	O
+is	O
+really	O
+very	O
+sorry	O
+to	O
+lose	O
+poor	O
+Miss	B-CHARACTER
+Taylor	I-CHARACTER
+,	O
+and	O
+I	O
+am	O
+sure	O
+she	O
+_	O
+will	O
+_	O
+miss	O
+her	O
+more	O
+than	O
+she	O
+thinks	O
+for	O
+.	O
+''	O
+
+# id = conivel-emma-000090
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Emma turned away her head , divided between tears and smiles .
+Emma	B-CHARACTER
+turned	O
+away	O
+her	O
+head	O
+,	O
+divided	O
+between	O
+tears	O
+and	O
+smiles	O
+.	O
+
+# id = conivel-emma-000091
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It is impossible that Emma should not miss such a companion , ''
+``	O
+It	O
+is	O
+impossible	O
+that	O
+Emma	B-CHARACTER
+should	O
+not	O
+miss	O
+such	O
+a	O
+companion	O
+,	O
+''	O
+
+# id = conivel-emma-000092
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Knightley .
+said	O
+Mr.	B-CHARACTER
+Knightley	I-CHARACTER
+.	O
+
+# id = conivel-emma-000093
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We should not like her so well as we do , sir , if we could suppose it ; but she knows how much the marriage is to Miss Taylor 's advantage ; she knows how very acceptable it must be , at Miss Taylor 's time of life , to be settled in a home of her own , and how important to her to be secure of a comfortable provision , and therefore can not allow herself to feel so much pain as pleasure .
+``	O
+We	O
+should	O
+not	O
+like	O
+her	O
+so	O
+well	O
+as	O
+we	O
+do	O
+,	O
+sir	O
+,	O
+if	O
+we	O
+could	O
+suppose	O
+it	O
+;	O
+but	O
+she	O
+knows	O
+how	O
+much	O
+the	O
+marriage	O
+is	O
+to	O
+Miss	B-CHARACTER
+Taylor	I-CHARACTER
+'s	O
+advantage	O
+;	O
+she	O
+knows	O
+how	O
+very	O
+acceptable	O
+it	O
+must	O
+be	O
+,	O
+at	O
+Miss	B-CHARACTER
+Taylor	I-CHARACTER
+'s	O
+time	O
+of	O
+life	O
+,	O
+to	O
+be	O
+settled	O
+in	O
+a	O
+home	O
+of	O
+her	O
+own	O
+,	O
+and	O
+how	O
+important	O
+to	O
+her	O
+to	O
+be	O
+secure	O
+of	O
+a	O
+comfortable	O
+provision	O
+,	O
+and	O
+therefore	O
+can	O
+not	O
+allow	O
+herself	O
+to	O
+feel	O
+so	O
+much	O
+pain	O
+as	O
+pleasure	O
+.	O
+
+# id = conivel-emma-000094
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Every friend of Miss Taylor must be glad to have her so happily married . ''
+Every	O
+friend	O
+of	O
+Miss	B-CHARACTER
+Taylor	I-CHARACTER
+must	O
+be	O
+glad	O
+to	O
+have	O
+her	O
+so	O
+happily	O
+married	O
+.	O
+''	O
+
+# id = conivel-emma-000095
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And you have forgotten one matter of joy to me , ''
+``	O
+And	O
+you	O
+have	O
+forgotten	O
+one	O
+matter	O
+of	O
+joy	O
+to	O
+me	O
+,	O
+''	O
+
+# id = conivel-emma-000096
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Emma , `` and a very considerable one -- that I made the match myself .
+said	O
+Emma	B-CHARACTER
+,	O
+``	O
+and	O
+a	O
+very	O
+considerable	O
+one	O
+--	O
+that	O
+I	O
+made	O
+the	O
+match	O
+myself	O
+.	O
+
+# id = conivel-emma-000097
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I made the match , you know , four years ago ; and to have it take place , and be proved in the right , when so many people said Mr. Weston would never marry again , may comfort me for any thing . ''
+I	O
+made	O
+the	O
+match	O
+,	O
+you	O
+know	O
+,	O
+four	O
+years	O
+ago	O
+;	O
+and	O
+to	O
+have	O
+it	O
+take	O
+place	O
+,	O
+and	O
+be	O
+proved	O
+in	O
+the	O
+right	O
+,	O
+when	O
+so	O
+many	O
+people	O
+said	O
+Mr.	B-CHARACTER
+Weston	I-CHARACTER
+would	O
+never	O
+marry	O
+again	O
+,	O
+may	O
+comfort	O
+me	O
+for	O
+any	O
+thing	O
+.	O
+''	O
+
+# id = conivel-emma-000098
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Knightley shook his head at her .
+Mr.	B-CHARACTER
+Knightley	I-CHARACTER
+shook	O
+his	O
+head	O
+at	O
+her	O
+.	O
+
+# id = conivel-emma-000099
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her father fondly replied , `` Ah !
+Her	O
+father	O
+fondly	O
+replied	O
+,	O
+``	O
+Ah	O
+!	O
+
+# id = conivel-emma-000100
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = my dear , I wish you would not make matches and foretell things , for whatever you say always comes to pass .
+my	O
+dear	O
+,	O
+I	O
+wish	O
+you	O
+would	O
+not	O
+make	O
+matches	O
+and	O
+foretell	O
+things	O
+,	O
+for	O
+whatever	O
+you	O
+say	O
+always	O
+comes	O
+to	O
+pass	O
+.	O
+
+# id = conivel-emma-000101
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pray do not make any more matches . ''
+Pray	O
+do	O
+not	O
+make	O
+any	O
+more	O
+matches	O
+.	O
+''	O
+
+# id = conivel-emma-000102
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I promise you to make none for myself , papa ; but I must , indeed , for other people .
+``	O
+I	O
+promise	O
+you	O
+to	O
+make	O
+none	O
+for	O
+myself	O
+,	O
+papa	O
+;	O
+but	O
+I	O
+must	O
+,	O
+indeed	O
+,	O
+for	O
+other	O
+people	O
+.	O
+
+# id = conivel-emma-000103
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It is the greatest amusement in the world !
+It	O
+is	O
+the	O
+greatest	O
+amusement	O
+in	O
+the	O
+world	O
+!	O
+
+# id = conivel-emma-000104
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And after such success , you know !
+And	O
+after	O
+such	O
+success	O
+,	O
+you	O
+know	O
+!	O
+
+# id = conivel-emma-000105
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Every body said that Mr. Weston would never marry again .
+--	O
+Every	O
+body	O
+said	O
+that	O
+Mr.	B-CHARACTER
+Weston	I-CHARACTER
+would	O
+never	O
+marry	O
+again	O
+.	O
+
+# id = conivel-emma-000106
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Oh dear , no !
+Oh	O
+dear	O
+,	O
+no	O
+!	O
+
+# id = conivel-emma-000107
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Weston , who had been a widower so long , and who seemed so perfectly comfortable without a wife , so constantly occupied either in his business in town or among his friends here , always acceptable wherever he went , always cheerful -- Mr. Weston need not spend a single evening in the year alone if he did not like it .
+Mr.	B-CHARACTER
+Weston	I-CHARACTER
+,	O
+who	O
+had	O
+been	O
+a	O
+widower	O
+so	O
+long	O
+,	O
+and	O
+who	O
+seemed	O
+so	O
+perfectly	O
+comfortable	O
+without	O
+a	O
+wife	O
+,	O
+so	O
+constantly	O
+occupied	O
+either	O
+in	O
+his	O
+business	O
+in	O
+town	O
+or	O
+among	O
+his	O
+friends	O
+here	O
+,	O
+always	O
+acceptable	O
+wherever	O
+he	O
+went	O
+,	O
+always	O
+cheerful	O
+--	O
+Mr.	B-CHARACTER
+Weston	I-CHARACTER
+need	O
+not	O
+spend	O
+a	O
+single	O
+evening	O
+in	O
+the	O
+year	O
+alone	O
+if	O
+he	O
+did	O
+not	O
+like	O
+it	O
+.	O
+
+# id = conivel-emma-000108
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Oh no !
+Oh	O
+no	O
+!	O
+
+# id = conivel-emma-000109
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Weston certainly would never marry again .
+Mr.	B-CHARACTER
+Weston	I-CHARACTER
+certainly	O
+would	O
+never	O
+marry	O
+again	O
+.	O
+
+# id = conivel-emma-000110
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Some people even talked of a promise to his wife on her deathbed , and others of the son and the uncle not letting him .
+Some	O
+people	O
+even	O
+talked	O
+of	O
+a	O
+promise	O
+to	O
+his	O
+wife	O
+on	O
+her	O
+deathbed	O
+,	O
+and	O
+others	O
+of	O
+the	O
+son	O
+and	O
+the	O
+uncle	O
+not	O
+letting	O
+him	O
+.	O
+
+# id = conivel-emma-000111
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All manner of solemn nonsense was talked on the subject , but I believed none of it . ''
+All	O
+manner	O
+of	O
+solemn	O
+nonsense	O
+was	O
+talked	O
+on	O
+the	O
+subject	O
+,	O
+but	O
+I	O
+believed	O
+none	O
+of	O
+it	O
+.	O
+''	O
+
+# id = conivel-emma-000112
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ever since the day -- about four years ago -- that Miss Taylor and I met with him in Broadway Lane , when , because it began to drizzle , he darted away with so much gallantry , and borrowed two umbrellas for us from Farmer Mitchell 's , I made up my mind on the subject .
+``	O
+Ever	O
+since	O
+the	O
+day	O
+--	O
+about	O
+four	O
+years	O
+ago	O
+--	O
+that	O
+Miss	B-CHARACTER
+Taylor	I-CHARACTER
+and	O
+I	O
+met	O
+with	O
+him	O
+in	O
+Broadway	B-LOCATION
+Lane	I-LOCATION
+,	O
+when	O
+,	O
+because	O
+it	O
+began	O
+to	O
+drizzle	O
+,	O
+he	O
+darted	O
+away	O
+with	O
+so	O
+much	O
+gallantry	O
+,	O
+and	O
+borrowed	O
+two	O
+umbrellas	O
+for	O
+us	O
+from	O
+Farmer	B-CHARACTER
+Mitchell	I-CHARACTER
+'s	O
+,	O
+I	O
+made	O
+up	O
+my	O
+mind	O
+on	O
+the	O
+subject	O
+.	O
+
+# id = conivel-emma-000113
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I planned the match from that hour ; and when such success has blessed me in this instance , dear papa , you can not think that I shall leave off match-making . ''
+I	O
+planned	O
+the	O
+match	O
+from	O
+that	O
+hour	O
+;	O
+and	O
+when	O
+such	O
+success	O
+has	O
+blessed	O
+me	O
+in	O
+this	O
+instance	O
+,	O
+dear	O
+papa	O
+,	O
+you	O
+can	O
+not	O
+think	O
+that	O
+I	O
+shall	O
+leave	O
+off	O
+match-making	O
+.	O
+''	O
+
+# id = conivel-emma-000114
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do not understand what you mean by ` success , ' said Mr. Knightley . ''
+``	O
+I	O
+do	O
+not	O
+understand	O
+what	O
+you	O
+mean	O
+by	O
+`	O
+success	O
+,	O
+'	O
+said	O
+Mr.	B-CHARACTER
+Knightley	I-CHARACTER
+.	O
+''	O
+
+# id = conivel-emma-000115
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Success supposes endeavour .
+``	O
+Success	O
+supposes	O
+endeavour	O
+.	O
+
+# id = conivel-emma-000116
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Your time has been properly and delicately spent , if you have been endeavouring for the last four years to bring about this marriage .
+Your	O
+time	O
+has	O
+been	O
+properly	O
+and	O
+delicately	O
+spent	O
+,	O
+if	O
+you	O
+have	O
+been	O
+endeavouring	O
+for	O
+the	O
+last	O
+four	O
+years	O
+to	O
+bring	O
+about	O
+this	O
+marriage	O
+.	O
+
+# id = conivel-emma-000117
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A worthy employment for a young lady 's mind !
+A	O
+worthy	O
+employment	O
+for	O
+a	O
+young	O
+lady	O
+'s	O
+mind	O
+!	O
+
+# id = conivel-emma-000118
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But if , which I rather imagine , your making the match , as you call it , means only your planning it , your saying to yourself one idle day , ` I think it would be a very good thing for Miss Taylor if Mr. Weston were to marry her , ' and saying it again to yourself every now and then afterwards , why do you talk of success ?
+But	O
+if	O
+,	O
+which	O
+I	O
+rather	O
+imagine	O
+,	O
+your	O
+making	O
+the	O
+match	O
+,	O
+as	O
+you	O
+call	O
+it	O
+,	O
+means	O
+only	O
+your	O
+planning	O
+it	O
+,	O
+your	O
+saying	O
+to	O
+yourself	O
+one	O
+idle	O
+day	O
+,	O
+`	O
+I	O
+think	O
+it	O
+would	O
+be	O
+a	O
+very	O
+good	O
+thing	O
+for	O
+Miss	B-CHARACTER
+Taylor	I-CHARACTER
+if	O
+Mr.	B-CHARACTER
+Weston	I-CHARACTER
+were	O
+to	O
+marry	O
+her	O
+,	O
+'	O
+and	O
+saying	O
+it	O
+again	O
+to	O
+yourself	O
+every	O
+now	O
+and	O
+then	O
+afterwards	O
+,	O
+why	O
+do	O
+you	O
+talk	O
+of	O
+success	O
+?	O
+
+# id = conivel-emma-000119
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Where is your merit ?
+Where	O
+is	O
+your	O
+merit	O
+?	O
+
+# id = conivel-emma-000120
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What are you proud of ?
+What	O
+are	O
+you	O
+proud	O
+of	O
+?	O
+
+# id = conivel-emma-000121
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You made a lucky guess ; and _ that _ is all that can be said . ''
+You	O
+made	O
+a	O
+lucky	O
+guess	O
+;	O
+and	O
+_	O
+that	O
+_	O
+is	O
+all	O
+that	O
+can	O
+be	O
+said	O
+.	O
+''	O
+
+# id = conivel-emma-000122
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And have you never known the pleasure and triumph of a lucky guess ?
+``	O
+And	O
+have	O
+you	O
+never	O
+known	O
+the	O
+pleasure	O
+and	O
+triumph	O
+of	O
+a	O
+lucky	O
+guess	O
+?	O
+
+# id = conivel-emma-000123
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- I pity you .
+--	O
+I	O
+pity	O
+you	O
+.	O
+
+# id = conivel-emma-000124
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- I thought you cleverer -- for , depend upon it a lucky guess is never merely luck .
+--	O
+I	O
+thought	O
+you	O
+cleverer	O
+--	O
+for	O
+,	O
+depend	O
+upon	O
+it	O
+a	O
+lucky	O
+guess	O
+is	O
+never	O
+merely	O
+luck	O
+.	O
+
+# id = conivel-emma-000125
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There is always some talent in it .
+There	O
+is	O
+always	O
+some	O
+talent	O
+in	O
+it	O
+.	O
+
+# id = conivel-emma-000126
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And as to my poor word ` success , ' which you quarrel with , I do not know that I am so entirely without any claim to it .
+And	O
+as	O
+to	O
+my	O
+poor	O
+word	O
+`	O
+success	O
+,	O
+'	O
+which	O
+you	O
+quarrel	O
+with	O
+,	O
+I	O
+do	O
+not	O
+know	O
+that	O
+I	O
+am	O
+so	O
+entirely	O
+without	O
+any	O
+claim	O
+to	O
+it	O
+.	O
+
+# id = conivel-emma-000127
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You have drawn two pretty pictures ; but I think there may be a third -- a something between the do-nothing and the do-all .
+You	O
+have	O
+drawn	O
+two	O
+pretty	O
+pictures	O
+;	O
+but	O
+I	O
+think	O
+there	O
+may	O
+be	O
+a	O
+third	O
+--	O
+a	O
+something	O
+between	O
+the	O
+do-nothing	O
+and	O
+the	O
+do-all	O
+.	O
+
+# id = conivel-emma-000128
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If I had not promoted Mr. Weston 's visits here , and given many little encouragements , and smoothed many little matters , it might not have come to any thing after all .
+If	O
+I	O
+had	O
+not	O
+promoted	O
+Mr.	B-CHARACTER
+Weston	I-CHARACTER
+'s	O
+visits	O
+here	O
+,	O
+and	O
+given	O
+many	O
+little	O
+encouragements	O
+,	O
+and	O
+smoothed	O
+many	O
+little	O
+matters	O
+,	O
+it	O
+might	O
+not	O
+have	O
+come	O
+to	O
+any	O
+thing	O
+after	O
+all	O
+.	O
+
+# id = conivel-emma-000129
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I think you must know Hartfield enough to comprehend that . ''
+I	O
+think	O
+you	O
+must	O
+know	O
+Hartfield	B-LOCATION
+enough	O
+to	O
+comprehend	O
+that	O
+.	O
+''	O
+
+# id = conivel-emma-000130
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A straightforward , open-hearted man like Weston , and a rational , unaffected woman like Miss Taylor , may be safely left to manage their own concerns .
+``	O
+A	O
+straightforward	O
+,	O
+open-hearted	O
+man	O
+like	O
+Weston	B-CHARACTER
+,	O
+and	O
+a	O
+rational	O
+,	O
+unaffected	O
+woman	O
+like	O
+Miss	B-CHARACTER
+Taylor	I-CHARACTER
+,	O
+may	O
+be	O
+safely	O
+left	O
+to	O
+manage	O
+their	O
+own	O
+concerns	O
+.	O
+
+# id = conivel-emma-000131
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You are more likely to have done harm to yourself , than good to them , by interference . ''
+You	O
+are	O
+more	O
+likely	O
+to	O
+have	O
+done	O
+harm	O
+to	O
+yourself	O
+,	O
+than	O
+good	O
+to	O
+them	O
+,	O
+by	O
+interference	O
+.	O
+''	O
+
+# id = conivel-emma-000132
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Emma never thinks of herself , if she can do good to others , ''
+``	O
+Emma	B-CHARACTER
+never	O
+thinks	O
+of	O
+herself	O
+,	O
+if	O
+she	O
+can	O
+do	O
+good	O
+to	O
+others	O
+,	O
+''	O
+
+# id = conivel-emma-000133
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = rejoined Mr. Woodhouse , understanding but in part .
+rejoined	O
+Mr.	B-CHARACTER
+Woodhouse	I-CHARACTER
+,	O
+understanding	O
+but	O
+in	O
+part	O
+.	O
+
+# id = conivel-emma-000134
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But , my dear , pray do not make any more matches ; they are silly things , and break up one 's family circle grievously . ''
+``	O
+But	O
+,	O
+my	O
+dear	O
+,	O
+pray	O
+do	O
+not	O
+make	O
+any	O
+more	O
+matches	O
+;	O
+they	O
+are	O
+silly	O
+things	O
+,	O
+and	O
+break	O
+up	O
+one	O
+'s	O
+family	O
+circle	O
+grievously	O
+.	O
+''	O
+
+# id = conivel-emma-000135
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Only one more , papa ; only for Mr. Elton .
+``	O
+Only	O
+one	O
+more	O
+,	O
+papa	O
+;	O
+only	O
+for	O
+Mr.	B-CHARACTER
+Elton	I-CHARACTER
+.	O
+
+# id = conivel-emma-000136
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Poor Mr. Elton !
+Poor	O
+Mr.	B-CHARACTER
+Elton	I-CHARACTER
+!	O
+
+# id = conivel-emma-000137
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You like Mr. Elton , papa , -- I must look about for a wife for him .
+You	O
+like	O
+Mr.	B-CHARACTER
+Elton	I-CHARACTER
+,	O
+papa	O
+,	O
+--	O
+I	O
+must	O
+look	O
+about	O
+for	O
+a	O
+wife	O
+for	O
+him	O
+.	O
+
+# id = conivel-emma-000138
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There is nobody in Highbury who deserves him -- and he has been here a whole year , and has fitted up his house so comfortably , that it would be a shame to have him single any longer -- and I thought when he was joining their hands to-day , he looked so very much as if he would like to have the same kind office done for him !
+There	O
+is	O
+nobody	O
+in	O
+Highbury	B-LOCATION
+who	O
+deserves	O
+him	O
+--	O
+and	O
+he	O
+has	O
+been	O
+here	O
+a	O
+whole	O
+year	O
+,	O
+and	O
+has	O
+fitted	O
+up	O
+his	O
+house	O
+so	O
+comfortably	O
+,	O
+that	O
+it	O
+would	O
+be	O
+a	O
+shame	O
+to	O
+have	O
+him	O
+single	O
+any	O
+longer	O
+--	O
+and	O
+I	O
+thought	O
+when	O
+he	O
+was	O
+joining	O
+their	O
+hands	O
+to-day	O
+,	O
+he	O
+looked	O
+so	O
+very	O
+much	O
+as	O
+if	O
+he	O
+would	O
+like	O
+to	O
+have	O
+the	O
+same	O
+kind	O
+office	O
+done	O
+for	O
+him	O
+!	O
+
+# id = conivel-emma-000139
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I think very well of Mr. Elton , and this is the only way I have of doing him a service . ''
+I	O
+think	O
+very	O
+well	O
+of	O
+Mr.	B-CHARACTER
+Elton	I-CHARACTER
+,	O
+and	O
+this	O
+is	O
+the	O
+only	O
+way	O
+I	O
+have	O
+of	O
+doing	O
+him	O
+a	O
+service	O
+.	O
+''	O
+
+# id = conivel-emma-000140
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Mr. Elton is a very pretty young man , to be sure , and a very good young man , and I have a great regard for him .
+``	O
+Mr.	B-CHARACTER
+Elton	I-CHARACTER
+is	O
+a	O
+very	O
+pretty	O
+young	O
+man	O
+,	O
+to	O
+be	O
+sure	O
+,	O
+and	O
+a	O
+very	O
+good	O
+young	O
+man	O
+,	O
+and	O
+I	O
+have	O
+a	O
+great	O
+regard	O
+for	O
+him	O
+.	O
+
+# id = conivel-emma-000141
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But if you want to shew him any attention , my dear , ask him to come and dine with us some day .
+But	O
+if	O
+you	O
+want	O
+to	O
+shew	O
+him	O
+any	O
+attention	O
+,	O
+my	O
+dear	O
+,	O
+ask	O
+him	O
+to	O
+come	O
+and	O
+dine	O
+with	O
+us	O
+some	O
+day	O
+.	O
+
+# id = conivel-emma-000142
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That will be a much better thing .
+That	O
+will	O
+be	O
+a	O
+much	O
+better	O
+thing	O
+.	O
+
+# id = conivel-emma-000143
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I dare say Mr. Knightley will be so kind as to meet him . ''
+I	O
+dare	O
+say	O
+Mr.	B-CHARACTER
+Knightley	I-CHARACTER
+will	O
+be	O
+so	O
+kind	O
+as	O
+to	O
+meet	O
+him	O
+.	O
+''	O
+
+# id = conivel-emma-000144
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` With a great deal of pleasure , sir , at any time , ''
+``	O
+With	O
+a	O
+great	O
+deal	O
+of	O
+pleasure	O
+,	O
+sir	O
+,	O
+at	O
+any	O
+time	O
+,	O
+''	O
+
+# id = conivel-emma-000145
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Knightley , laughing , `` and I agree with you entirely , that it will be a much better thing .
+said	O
+Mr.	B-CHARACTER
+Knightley	I-CHARACTER
+,	O
+laughing	O
+,	O
+``	O
+and	O
+I	O
+agree	O
+with	O
+you	O
+entirely	O
+,	O
+that	O
+it	O
+will	O
+be	O
+a	O
+much	O
+better	O
+thing	O
+.	O
+
+# id = conivel-emma-000146
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Invite him to dinner , Emma , and help him to the best of the fish and the chicken , but leave him to chuse his own wife .
+Invite	O
+him	O
+to	O
+dinner	O
+,	O
+Emma	B-CHARACTER
+,	O
+and	O
+help	O
+him	O
+to	O
+the	O
+best	O
+of	O
+the	O
+fish	O
+and	O
+the	O
+chicken	O
+,	O
+but	O
+leave	O
+him	O
+to	O
+chuse	O
+his	O
+own	O
+wife	O
+.	O
+
+# id = conivel-emma-000147
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Depend upon it , a man of six or seven-and-twenty can take care of himself . ''
+Depend	O
+upon	O
+it	O
+,	O
+a	O
+man	O
+of	O
+six	O
+or	O
+seven-and-twenty	O
+can	O
+take	O
+care	O
+of	O
+himself	O
+.	O
+''	O
+
+# id = conivel-emma-000148
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = CHAPTER II Mr. Weston was a native of Highbury , and born of a respectable family , which for the last two or three generations had been rising into gentility and property .
+CHAPTER	O
+II	O
+Mr.	B-CHARACTER
+Weston	I-CHARACTER
+was	O
+a	O
+native	O
+of	O
+Highbury	B-LOCATION
+,	O
+and	O
+born	O
+of	O
+a	O
+respectable	O
+family	O
+,	O
+which	O
+for	O
+the	O
+last	O
+two	O
+or	O
+three	O
+generations	O
+had	O
+been	O
+rising	O
+into	O
+gentility	O
+and	O
+property	O
+.	O
+
+# id = conivel-emma-000149
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had received a good education , but , on succeeding early in life to a small independence , had become indisposed for any of the more homely pursuits in which his brothers were engaged , and had satisfied an active , cheerful mind and social temper by entering into the militia of his county , then embodied .
+He	O
+had	O
+received	O
+a	O
+good	O
+education	O
+,	O
+but	O
+,	O
+on	O
+succeeding	O
+early	O
+in	O
+life	O
+to	O
+a	O
+small	O
+independence	O
+,	O
+had	O
+become	O
+indisposed	O
+for	O
+any	O
+of	O
+the	O
+more	O
+homely	O
+pursuits	O
+in	O
+which	O
+his	O
+brothers	O
+were	O
+engaged	O
+,	O
+and	O
+had	O
+satisfied	O
+an	O
+active	O
+,	O
+cheerful	O
+mind	O
+and	O
+social	O
+temper	O
+by	O
+entering	O
+into	O
+the	O
+militia	O
+of	O
+his	O
+county	O
+,	O
+then	O
+embodied	O
+.	O
+
+# id = conivel-emma-000150
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Captain Weston was a general favourite ; and when the chances of his military life had introduced him to Miss Churchill , of a great Yorkshire family , and Miss Churchill fell in love with him , nobody was surprized , except her brother and his wife , who had never seen him , and who were full of pride and importance , which the connexion would offend .
+Captain	B-CHARACTER
+Weston	I-CHARACTER
+was	O
+a	O
+general	O
+favourite	O
+;	O
+and	O
+when	O
+the	O
+chances	O
+of	O
+his	O
+military	O
+life	O
+had	O
+introduced	O
+him	O
+to	O
+Miss	B-CHARACTER
+Churchill	I-CHARACTER
+,	O
+of	O
+a	O
+great	O
+Yorkshire	B-LOCATION
+family	O
+,	O
+and	O
+Miss	B-CHARACTER
+Churchill	I-CHARACTER
+fell	O
+in	O
+love	O
+with	O
+him	O
+,	O
+nobody	O
+was	O
+surprized	O
+,	O
+except	O
+her	O
+brother	O
+and	O
+his	O
+wife	O
+,	O
+who	O
+had	O
+never	O
+seen	O
+him	O
+,	O
+and	O
+who	O
+were	O
+full	O
+of	O
+pride	O
+and	O
+importance	O
+,	O
+which	O
+the	O
+connexion	O
+would	O
+offend	O
+.	O
+
+# id = conivel-emma-000151
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Miss Churchill , however , being of age , and with the full command of her fortune -- though her fortune bore no proportion to the family-estate -- was not to be dissuaded from the marriage , and it took place , to the infinite mortification of Mr. and Mrs. Churchill , who threw her off with due decorum .
+Miss	B-CHARACTER
+Churchill	I-CHARACTER
+,	O
+however	O
+,	O
+being	O
+of	O
+age	O
+,	O
+and	O
+with	O
+the	O
+full	O
+command	O
+of	O
+her	O
+fortune	O
+--	O
+though	O
+her	O
+fortune	O
+bore	O
+no	O
+proportion	O
+to	O
+the	O
+family-estate	O
+--	O
+was	O
+not	O
+to	O
+be	O
+dissuaded	O
+from	O
+the	O
+marriage	O
+,	O
+and	O
+it	O
+took	O
+place	O
+,	O
+to	O
+the	O
+infinite	O
+mortification	O
+of	O
+Mr.	B-CHARACTER
+and	O
+Mrs.	B-CHARACTER
+Churchill	I-CHARACTER
+,	O
+who	O
+threw	O
+her	O
+off	O
+with	O
+due	O
+decorum	O
+.	O
+
+# id = conivel-emma-000152
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was an unsuitable connexion , and did not produce much happiness .
+It	O
+was	O
+an	O
+unsuitable	O
+connexion	O
+,	O
+and	O
+did	O
+not	O
+produce	O
+much	O
+happiness	O
+.	O
+
+# id = conivel-emma-000153
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mrs. Weston ought to have found more in it , for she had a husband whose warm heart and sweet temper made him think every thing due to her in return for the great goodness of being in love with him ; but though she had one sort of spirit , she had not the best .
+Mrs.	B-CHARACTER
+Weston	I-CHARACTER
+ought	O
+to	O
+have	O
+found	O
+more	O
+in	O
+it	O
+,	O
+for	O
+she	O
+had	O
+a	O
+husband	O
+whose	O
+warm	O
+heart	O
+and	O
+sweet	O
+temper	O
+made	O
+him	O
+think	O
+every	O
+thing	O
+due	O
+to	O
+her	O
+in	O
+return	O
+for	O
+the	O
+great	O
+goodness	O
+of	O
+being	O
+in	O
+love	O
+with	O
+him	O
+;	O
+but	O
+though	O
+she	O
+had	O
+one	O
+sort	O
+of	O
+spirit	O
+,	O
+she	O
+had	O
+not	O
+the	O
+best	O
+.	O
+
+# id = conivel-emma-000154
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She had resolution enough to pursue her own will in spite of her brother , but not enough to refrain from unreasonable regrets at that brother 's unreasonable anger , nor from missing the luxuries of her former home .
+She	O
+had	O
+resolution	O
+enough	O
+to	O
+pursue	O
+her	O
+own	O
+will	O
+in	O
+spite	O
+of	O
+her	O
+brother	O
+,	O
+but	O
+not	O
+enough	O
+to	O
+refrain	O
+from	O
+unreasonable	O
+regrets	O
+at	O
+that	O
+brother	O
+'s	O
+unreasonable	O
+anger	O
+,	O
+nor	O
+from	O
+missing	O
+the	O
+luxuries	O
+of	O
+her	O
+former	O
+home	O
+.	O
+
+# id = conivel-emma-000155
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They lived beyond their income , but still it was nothing in comparison of Enscombe : she did not cease to love her husband , but she wanted at once to be the wife of Captain Weston , and Miss Churchill of Enscombe .
+They	O
+lived	O
+beyond	O
+their	O
+income	O
+,	O
+but	O
+still	O
+it	O
+was	O
+nothing	O
+in	O
+comparison	O
+of	O
+Enscombe	B-LOCATION
+:	O
+she	O
+did	O
+not	O
+cease	O
+to	O
+love	O
+her	O
+husband	O
+,	O
+but	O
+she	O
+wanted	O
+at	O
+once	O
+to	O
+be	O
+the	O
+wife	O
+of	O
+Captain	B-CHARACTER
+Weston	I-CHARACTER
+,	O
+and	O
+Miss	B-CHARACTER
+Churchill	I-CHARACTER
+of	O
+Enscombe	B-LOCATION
+.	O
+
+# id = conivel-emma-000156
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Captain Weston , who had been considered , especially by the Churchills , as making such an amazing match , was proved to have much the worst of the bargain ; for when his wife died , after a three years ' marriage , he was rather a poorer man than at first , and with a child to maintain .
+Captain	B-CHARACTER
+Weston	I-CHARACTER
+,	O
+who	O
+had	O
+been	O
+considered	O
+,	O
+especially	O
+by	O
+the	O
+Churchills	B-CHARACTER
+,	O
+as	O
+making	O
+such	O
+an	O
+amazing	O
+match	O
+,	O
+was	O
+proved	O
+to	O
+have	O
+much	O
+the	O
+worst	O
+of	O
+the	O
+bargain	O
+;	O
+for	O
+when	O
+his	O
+wife	O
+died	O
+,	O
+after	O
+a	O
+three	O
+years	O
+'	O
+marriage	O
+,	O
+he	O
+was	O
+rather	O
+a	O
+poorer	O
+man	O
+than	O
+at	O
+first	O
+,	O
+and	O
+with	O
+a	O
+child	O
+to	O
+maintain	O
+.	O
+
+# id = conivel-emma-000157
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = From the expense of the child , however , he was soon relieved .
+From	O
+the	O
+expense	O
+of	O
+the	O
+child	O
+,	O
+however	O
+,	O
+he	O
+was	O
+soon	O
+relieved	O
+.	O
+
+# id = conivel-emma-000158
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The boy had , with the additional softening claim of a lingering illness of his mother 's , been the means of a sort of reconciliation ; and Mr. and Mrs. Churchill , having no children of their own , nor any other young creature of equal kindred to care for , offered to take the whole charge of the little Frank soon after her decease .
+The	O
+boy	O
+had	O
+,	O
+with	O
+the	O
+additional	O
+softening	O
+claim	O
+of	O
+a	O
+lingering	O
+illness	O
+of	O
+his	O
+mother	O
+'s	O
+,	O
+been	O
+the	O
+means	O
+of	O
+a	O
+sort	O
+of	O
+reconciliation	O
+;	O
+and	O
+Mr.	B-CHARACTER
+and	O
+Mrs.	B-CHARACTER
+Churchill	I-CHARACTER
+,	O
+having	O
+no	O
+children	O
+of	O
+their	O
+own	O
+,	O
+nor	O
+any	O
+other	O
+young	O
+creature	O
+of	O
+equal	O
+kindred	O
+to	O
+care	O
+for	O
+,	O
+offered	O
+to	O
+take	O
+the	O
+whole	O
+charge	O
+of	O
+the	O
+little	O
+Frank	B-CHARACTER
+soon	O
+after	O
+her	O
+decease	O
+.	O
+
+# id = conivel-emma-000159
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Some scruples and some reluctance the widower-father may be supposed to have felt ; but as they were overcome by other considerations , the child was given up to the care and the wealth of the Churchills , and he had only his own comfort to seek , and his own situation to improve as he could .
+Some	O
+scruples	O
+and	O
+some	O
+reluctance	O
+the	O
+widower-father	O
+may	O
+be	O
+supposed	O
+to	O
+have	O
+felt	O
+;	O
+but	O
+as	O
+they	O
+were	O
+overcome	O
+by	O
+other	O
+considerations	O
+,	O
+the	O
+child	O
+was	O
+given	O
+up	O
+to	O
+the	O
+care	O
+and	O
+the	O
+wealth	O
+of	O
+the	O
+Churchills	B-CHARACTER
+,	O
+and	O
+he	O
+had	O
+only	O
+his	O
+own	O
+comfort	O
+to	O
+seek	O
+,	O
+and	O
+his	O
+own	O
+situation	O
+to	O
+improve	O
+as	O
+he	O
+could	O
+.	O
+
+# id = conivel-emma-000160
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A complete change of life became desirable .
+A	O
+complete	O
+change	O
+of	O
+life	O
+became	O
+desirable	O
+.	O
+
+# id = conivel-emma-000161
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He quitted the militia and engaged in trade , having brothers already established in a good way in London , which afforded him a favourable opening .
+He	O
+quitted	O
+the	O
+militia	O
+and	O
+engaged	O
+in	O
+trade	O
+,	O
+having	O
+brothers	O
+already	O
+established	O
+in	O
+a	O
+good	O
+way	O
+in	O
+London	B-LOCATION
+,	O
+which	O
+afforded	O
+him	O
+a	O
+favourable	O
+opening	O
+.	O
+
+# id = conivel-emma-000162
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was a concern which brought just employment enough .
+It	O
+was	O
+a	O
+concern	O
+which	O
+brought	O
+just	O
+employment	O
+enough	O
+.	O
+
+# id = conivel-emma-000163
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had still a small house in Highbury , where most of his leisure days were spent ; and between useful occupation and the pleasures of society , the next eighteen or twenty years of his life passed cheerfully away .
+He	O
+had	O
+still	O
+a	O
+small	O
+house	O
+in	O
+Highbury	B-LOCATION
+,	O
+where	O
+most	O
+of	O
+his	O
+leisure	O
+days	O
+were	O
+spent	O
+;	O
+and	O
+between	O
+useful	O
+occupation	O
+and	O
+the	O
+pleasures	O
+of	O
+society	O
+,	O
+the	O
+next	O
+eighteen	O
+or	O
+twenty	O
+years	O
+of	O
+his	O
+life	O
+passed	O
+cheerfully	O
+away	O
+.	O
+
+# id = conivel-emma-000164
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had , by that time , realised an easy competence -- enough to secure the purchase of a little estate adjoining Highbury , which he had always longed for -- enough to marry a woman as portionless even as Miss Taylor , and to live according to the wishes of his own friendly and social disposition .
+He	O
+had	O
+,	O
+by	O
+that	O
+time	O
+,	O
+realised	O
+an	O
+easy	O
+competence	O
+--	O
+enough	O
+to	O
+secure	O
+the	O
+purchase	O
+of	O
+a	O
+little	O
+estate	O
+adjoining	O
+Highbury	B-LOCATION
+,	O
+which	O
+he	O
+had	O
+always	O
+longed	O
+for	O
+--	O
+enough	O
+to	O
+marry	O
+a	O
+woman	O
+as	O
+portionless	O
+even	O
+as	O
+Miss	B-CHARACTER
+Taylor	I-CHARACTER
+,	O
+and	O
+to	O
+live	O
+according	O
+to	O
+the	O
+wishes	O
+of	O
+his	O
+own	O
+friendly	O
+and	O
+social	O
+disposition	O
+.	O
+
+# id = conivel-emma-000165
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was now some time since Miss Taylor had begun to influence his schemes ; but as it was not the tyrannic influence of youth on youth , it had not shaken his determination of never settling till he could purchase Randalls , and the sale of Randalls was long looked forward to ; but he had gone steadily on , with these objects in view , till they were accomplished .
+It	O
+was	O
+now	O
+some	O
+time	O
+since	O
+Miss	B-CHARACTER
+Taylor	I-CHARACTER
+had	O
+begun	O
+to	O
+influence	O
+his	O
+schemes	O
+;	O
+but	O
+as	O
+it	O
+was	O
+not	O
+the	O
+tyrannic	O
+influence	O
+of	O
+youth	O
+on	O
+youth	O
+,	O
+it	O
+had	O
+not	O
+shaken	O
+his	O
+determination	O
+of	O
+never	O
+settling	O
+till	O
+he	O
+could	O
+purchase	O
+Randalls	B-LOCATION
+,	O
+and	O
+the	O
+sale	O
+of	O
+Randalls	B-LOCATION
+was	O
+long	O
+looked	O
+forward	O
+to	O
+;	O
+but	O
+he	O
+had	O
+gone	O
+steadily	O
+on	O
+,	O
+with	O
+these	O
+objects	O
+in	O
+view	O
+,	O
+till	O
+they	O
+were	O
+accomplished	O
+.	O
+
+# id = conivel-emma-000166
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had made his fortune , bought his house , and obtained his wife ; and was beginning a new period of existence , with every probability of greater happiness than in any yet passed through .
+He	O
+had	O
+made	O
+his	O
+fortune	O
+,	O
+bought	O
+his	O
+house	O
+,	O
+and	O
+obtained	O
+his	O
+wife	O
+;	O
+and	O
+was	O
+beginning	O
+a	O
+new	O
+period	O
+of	O
+existence	O
+,	O
+with	O
+every	O
+probability	O
+of	O
+greater	O
+happiness	O
+than	O
+in	O
+any	O
+yet	O
+passed	O
+through	O
+.	O
+
+# id = conivel-emma-000167
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had never been an unhappy man ; his own temper had secured him from that , even in his first marriage ; but his second must shew him how delightful a well-judging and truly amiable woman could be , and must give him the pleasantest proof of its being a great deal better to choose than to be chosen , to excite gratitude than to feel it .
+He	O
+had	O
+never	O
+been	O
+an	O
+unhappy	O
+man	O
+;	O
+his	O
+own	O
+temper	O
+had	O
+secured	O
+him	O
+from	O
+that	O
+,	O
+even	O
+in	O
+his	O
+first	O
+marriage	O
+;	O
+but	O
+his	O
+second	O
+must	O
+shew	O
+him	O
+how	O
+delightful	O
+a	O
+well-judging	O
+and	O
+truly	O
+amiable	O
+woman	O
+could	O
+be	O
+,	O
+and	O
+must	O
+give	O
+him	O
+the	O
+pleasantest	O
+proof	O
+of	O
+its	O
+being	O
+a	O
+great	O
+deal	O
+better	O
+to	O
+choose	O
+than	O
+to	O
+be	O
+chosen	O
+,	O
+to	O
+excite	O
+gratitude	O
+than	O
+to	O
+feel	O
+it	O
+.	O
+
+# id = conivel-emma-000168
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had only himself to please in his choice : his fortune was his own ; for as to Frank , it was more than being tacitly brought up as his uncle 's heir , it had become so avowed an adoption as to have him assume the name of Churchill on coming of age .
+He	O
+had	O
+only	O
+himself	O
+to	O
+please	O
+in	O
+his	O
+choice	O
+:	O
+his	O
+fortune	O
+was	O
+his	O
+own	O
+;	O
+for	O
+as	O
+to	O
+Frank	B-CHARACTER
+,	O
+it	O
+was	O
+more	O
+than	O
+being	O
+tacitly	O
+brought	O
+up	O
+as	O
+his	O
+uncle	O
+'s	O
+heir	O
+,	O
+it	O
+had	O
+become	O
+so	O
+avowed	O
+an	O
+adoption	O
+as	O
+to	O
+have	O
+him	O
+assume	O
+the	O
+name	O
+of	O
+Churchill	B-CHARACTER
+on	O
+coming	O
+of	O
+age	O
+.	O
+
+# id = conivel-emma-000169
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was most unlikely , therefore , that he should ever want his father 's assistance .
+It	O
+was	O
+most	O
+unlikely	O
+,	O
+therefore	O
+,	O
+that	O
+he	O
+should	O
+ever	O
+want	O
+his	O
+father	O
+'s	O
+assistance	O
+.	O
+
+# id = conivel-emma-000170
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His father had no apprehension of it .
+His	O
+father	O
+had	O
+no	O
+apprehension	O
+of	O
+it	O
+.	O
+
+# id = conivel-emma-000171
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The aunt was a capricious woman , and governed her husband entirely ; but it was not in Mr. Weston 's nature to imagine that any caprice could be strong enough to affect one so dear , and , as he believed , so deservedly dear .
+The	O
+aunt	O
+was	O
+a	O
+capricious	O
+woman	O
+,	O
+and	O
+governed	O
+her	O
+husband	O
+entirely	O
+;	O
+but	O
+it	O
+was	O
+not	O
+in	O
+Mr.	B-CHARACTER
+Weston	I-CHARACTER
+'s	O
+nature	O
+to	O
+imagine	O
+that	O
+any	O
+caprice	O
+could	O
+be	O
+strong	O
+enough	O
+to	O
+affect	O
+one	O
+so	O
+dear	O
+,	O
+and	O
+,	O
+as	O
+he	O
+believed	O
+,	O
+so	O
+deservedly	O
+dear	O
+.	O
+
+# id = conivel-emma-000172
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He saw his son every year in London , and was proud of him ; and his fond report of him as a very fine young man had made Highbury feel a sort of pride in him too .
+He	O
+saw	O
+his	O
+son	O
+every	O
+year	O
+in	O
+London	B-LOCATION
+,	O
+and	O
+was	O
+proud	O
+of	O
+him	O
+;	O
+and	O
+his	O
+fond	O
+report	O
+of	O
+him	O
+as	O
+a	O
+very	O
+fine	O
+young	O
+man	O
+had	O
+made	O
+Highbury	B-LOCATION
+feel	O
+a	O
+sort	O
+of	O
+pride	O
+in	O
+him	O
+too	O
+.	O
+
+# id = conivel-emma-000173
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was looked on as sufficiently belonging to the place to make his merits and prospects a kind of common concern .
+He	O
+was	O
+looked	O
+on	O
+as	O
+sufficiently	O
+belonging	O
+to	O
+the	O
+place	O
+to	O
+make	O
+his	O
+merits	O
+and	O
+prospects	O
+a	O
+kind	O
+of	O
+common	O
+concern	O
+.	O
+
+# id = conivel-emma-000174
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Frank Churchill was one of the boasts of Highbury , and a lively curiosity to see him prevailed , though the compliment was so little returned that he had never been there in his life .
+Mr.	B-CHARACTER
+Frank	I-CHARACTER
+Churchill	I-CHARACTER
+was	O
+one	O
+of	O
+the	O
+boasts	O
+of	O
+Highbury	B-LOCATION
+,	O
+and	O
+a	O
+lively	O
+curiosity	O
+to	O
+see	O
+him	O
+prevailed	O
+,	O
+though	O
+the	O
+compliment	O
+was	O
+so	O
+little	O
+returned	O
+that	O
+he	O
+had	O
+never	O
+been	O
+there	O
+in	O
+his	O
+life	O
+.	O
+
+# id = conivel-emma-000175
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His coming to visit his father had been often talked of but never achieved .
+His	O
+coming	O
+to	O
+visit	O
+his	O
+father	O
+had	O
+been	O
+often	O
+talked	O
+of	O
+but	O
+never	O
+achieved	O
+.	O
+
+# id = conivel-emma-000176
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now , upon his father 's marriage , it was very generally proposed , as a most proper attention , that the visit should take place .
+Now	O
+,	O
+upon	O
+his	O
+father	O
+'s	O
+marriage	O
+,	O
+it	O
+was	O
+very	O
+generally	O
+proposed	O
+,	O
+as	O
+a	O
+most	O
+proper	O
+attention	O
+,	O
+that	O
+the	O
+visit	O
+should	O
+take	O
+place	O
+.	O
+
+# id = conivel-emma-000177
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was not a dissentient voice on the subject , either when Mrs. Perry drank tea with Mrs. and Miss Bates , or when Mrs. and Miss Bates returned the visit .
+There	O
+was	O
+not	O
+a	O
+dissentient	O
+voice	O
+on	O
+the	O
+subject	O
+,	O
+either	O
+when	O
+Mrs.	B-CHARACTER
+Perry	I-CHARACTER
+drank	O
+tea	O
+with	O
+Mrs.	B-CHARACTER
+and	O
+Miss	B-CHARACTER
+Bates	I-CHARACTER
+,	O
+or	O
+when	O
+Mrs.	B-CHARACTER
+and	O
+Miss	B-CHARACTER
+Bates	I-CHARACTER
+returned	O
+the	O
+visit	O
+.	O
+
+# id = conivel-emma-000178
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now was the time for Mr. Frank Churchill to come among them ; and the hope strengthened when it was understood that he had written to his new mother on the occasion .
+Now	O
+was	O
+the	O
+time	O
+for	O
+Mr.	B-CHARACTER
+Frank	I-CHARACTER
+Churchill	I-CHARACTER
+to	O
+come	O
+among	O
+them	O
+;	O
+and	O
+the	O
+hope	O
+strengthened	O
+when	O
+it	O
+was	O
+understood	O
+that	O
+he	O
+had	O
+written	O
+to	O
+his	O
+new	O
+mother	O
+on	O
+the	O
+occasion	O
+.	O
+
+# id = conivel-emma-000179
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For a few days , every morning visit in Highbury included some mention of the handsome letter Mrs. Weston had received .
+For	O
+a	O
+few	O
+days	O
+,	O
+every	O
+morning	O
+visit	O
+in	O
+Highbury	B-LOCATION
+included	O
+some	O
+mention	O
+of	O
+the	O
+handsome	O
+letter	O
+Mrs.	B-CHARACTER
+Weston	I-CHARACTER
+had	O
+received	O
+.	O
+
+# id = conivel-emma-000180
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I suppose you have heard of the handsome letter Mr. Frank Churchill has written to Mrs. Weston ?
+``	O
+I	O
+suppose	O
+you	O
+have	O
+heard	O
+of	O
+the	O
+handsome	O
+letter	O
+Mr.	B-CHARACTER
+Frank	I-CHARACTER
+Churchill	I-CHARACTER
+has	O
+written	O
+to	O
+Mrs.	B-CHARACTER
+Weston	I-CHARACTER
+?	O
+
+# id = conivel-emma-000181
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I understand it was a very handsome letter , indeed .
+I	O
+understand	O
+it	O
+was	O
+a	O
+very	O
+handsome	O
+letter	O
+,	O
+indeed	O
+.	O
+
+# id = conivel-emma-000182
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Woodhouse told me of it .
+Mr.	B-CHARACTER
+Woodhouse	I-CHARACTER
+told	O
+me	O
+of	O
+it	O
+.	O
+
+# id = conivel-emma-000183
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Woodhouse saw the letter , and he says he never saw such a handsome letter in his life . ''
+Mr.	B-CHARACTER
+Woodhouse	I-CHARACTER
+saw	O
+the	O
+letter	O
+,	O
+and	O
+he	O
+says	O
+he	O
+never	O
+saw	O
+such	O
+a	O
+handsome	O
+letter	O
+in	O
+his	O
+life	O
+.	O
+''	O
+
+# id = conivel-emma-000184
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was , indeed , a highly prized letter .
+It	O
+was	O
+,	O
+indeed	O
+,	O
+a	O
+highly	O
+prized	O
+letter	O
+.	O
+
+# id = conivel-emma-000185
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mrs. Weston had , of course , formed a very favourable idea of the young man ; and such a pleasing attention was an irresistible proof of his great good sense , and a most welcome addition to every source and every expression of congratulation which her marriage had already secured .
+Mrs.	B-CHARACTER
+Weston	I-CHARACTER
+had	O
+,	O
+of	O
+course	O
+,	O
+formed	O
+a	O
+very	O
+favourable	O
+idea	O
+of	O
+the	O
+young	O
+man	O
+;	O
+and	O
+such	O
+a	O
+pleasing	O
+attention	O
+was	O
+an	O
+irresistible	O
+proof	O
+of	O
+his	O
+great	O
+good	O
+sense	O
+,	O
+and	O
+a	O
+most	O
+welcome	O
+addition	O
+to	O
+every	O
+source	O
+and	O
+every	O
+expression	O
+of	O
+congratulation	O
+which	O
+her	O
+marriage	O
+had	O
+already	O
+secured	O
+.	O
+
+# id = conivel-emma-000186
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She felt herself a most fortunate woman ; and she had lived long enough to know how fortunate she might well be thought , where the only regret was for a partial separation from friends whose friendship for her had never cooled , and who could ill bear to part with her .
+She	O
+felt	O
+herself	O
+a	O
+most	O
+fortunate	O
+woman	O
+;	O
+and	O
+she	O
+had	O
+lived	O
+long	O
+enough	O
+to	O
+know	O
+how	O
+fortunate	O
+she	O
+might	O
+well	O
+be	O
+thought	O
+,	O
+where	O
+the	O
+only	O
+regret	O
+was	O
+for	O
+a	O
+partial	O
+separation	O
+from	O
+friends	O
+whose	O
+friendship	O
+for	O
+her	O
+had	O
+never	O
+cooled	O
+,	O
+and	O
+who	O
+could	O
+ill	O
+bear	O
+to	O
+part	O
+with	O
+her	O
+.	O
+
+# id = conivel-emma-000187
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She knew that at times she must be missed ; and could not think , without pain , of Emma 's losing a single pleasure , or suffering an hour 's ennui , from the want of her companionableness : but dear Emma was of no feeble character ; she was more equal to her situation than most girls would have been , and had sense , and energy , and spirits that might be hoped would bear her well and happily through its little difficulties and privations .
+She	O
+knew	O
+that	O
+at	O
+times	O
+she	O
+must	O
+be	O
+missed	O
+;	O
+and	O
+could	O
+not	O
+think	O
+,	O
+without	O
+pain	O
+,	O
+of	O
+Emma	B-CHARACTER
+'s	O
+losing	O
+a	O
+single	O
+pleasure	O
+,	O
+or	O
+suffering	O
+an	O
+hour	O
+'s	O
+ennui	O
+,	O
+from	O
+the	O
+want	O
+of	O
+her	O
+companionableness	O
+:	O
+but	O
+dear	O
+Emma	B-CHARACTER
+was	O
+of	O
+no	O
+feeble	O
+character	O
+;	O
+she	O
+was	O
+more	O
+equal	O
+to	O
+her	O
+situation	O
+than	O
+most	O
+girls	O
+would	O
+have	O
+been	O
+,	O
+and	O
+had	O
+sense	O
+,	O
+and	O
+energy	O
+,	O
+and	O
+spirits	O
+that	O
+might	O
+be	O
+hoped	O
+would	O
+bear	O
+her	O
+well	O
+and	O
+happily	O
+through	O
+its	O
+little	O
+difficulties	O
+and	O
+privations	O
+.	O
+
+# id = conivel-emma-000188
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And then there was such comfort in the very easy distance of Randalls from Hartfield , so convenient for even solitary female walking , and in Mr. Weston 's disposition and circumstances , which would make the approaching season no hindrance to their spending half the evenings in the week together .
+And	O
+then	O
+there	O
+was	O
+such	O
+comfort	O
+in	O
+the	O
+very	O
+easy	O
+distance	O
+of	O
+Randalls	B-LOCATION
+from	O
+Hartfield	B-LOCATION
+,	O
+so	O
+convenient	O
+for	O
+even	O
+solitary	O
+female	O
+walking	O
+,	O
+and	O
+in	O
+Mr.	B-CHARACTER
+Weston	I-CHARACTER
+'s	O
+disposition	O
+and	O
+circumstances	O
+,	O
+which	O
+would	O
+make	O
+the	O
+approaching	O
+season	O
+no	O
+hindrance	O
+to	O
+their	O
+spending	O
+half	O
+the	O
+evenings	O
+in	O
+the	O
+week	O
+together	O
+.	O
+
+# id = conivel-emma-000189
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her situation was altogether the subject of hours of gratitude to Mrs. Weston , and of moments only of regret ; and her satisfaction -- her more than satisfaction -- her cheerful enjoyment , was so just and so apparent , that Emma , well as she knew her father , was sometimes taken by surprize at his being still able to pity ` poor Miss Taylor , ' when they left her at Randalls in the centre of every domestic comfort , or saw her go away in the evening attended by her pleasant husband to a carriage of her own .
+Her	O
+situation	O
+was	O
+altogether	O
+the	O
+subject	O
+of	O
+hours	O
+of	O
+gratitude	O
+to	O
+Mrs.	B-CHARACTER
+Weston	I-CHARACTER
+,	O
+and	O
+of	O
+moments	O
+only	O
+of	O
+regret	O
+;	O
+and	O
+her	O
+satisfaction	O
+--	O
+her	O
+more	O
+than	O
+satisfaction	O
+--	O
+her	O
+cheerful	O
+enjoyment	O
+,	O
+was	O
+so	O
+just	O
+and	O
+so	O
+apparent	O
+,	O
+that	O
+Emma	B-CHARACTER
+,	O
+well	O
+as	O
+she	O
+knew	O
+her	O
+father	O
+,	O
+was	O
+sometimes	O
+taken	O
+by	O
+surprize	O
+at	O
+his	O
+being	O
+still	O
+able	O
+to	O
+pity	O
+`	O
+poor	O
+Miss	B-CHARACTER
+Taylor	I-CHARACTER
+,	O
+'	O
+when	O
+they	O
+left	O
+her	O
+at	O
+Randalls	B-LOCATION
+in	O
+the	O
+centre	O
+of	O
+every	O
+domestic	O
+comfort	O
+,	O
+or	O
+saw	O
+her	O
+go	O
+away	O
+in	O
+the	O
+evening	O
+attended	O
+by	O
+her	O
+pleasant	O
+husband	O
+to	O
+a	O
+carriage	O
+of	O
+her	O
+own	O
+.	O
+
+# id = conivel-emma-000190
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But never did she go without Mr. Woodhouse 's giving a gentle sigh , and saying , `` Ah , poor Miss Taylor !
+But	O
+never	O
+did	O
+she	O
+go	O
+without	O
+Mr.	B-CHARACTER
+Woodhouse	I-CHARACTER
+'s	O
+giving	O
+a	O
+gentle	O
+sigh	O
+,	O
+and	O
+saying	O
+,	O
+``	O
+Ah	O
+,	O
+poor	O
+Miss	B-CHARACTER
+Taylor	I-CHARACTER
+!	O
+
+# id = conivel-emma-000191
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She would be very glad to stay . ''
+She	O
+would	O
+be	O
+very	O
+glad	O
+to	O
+stay	O
+.	O
+''	O
+
+# id = conivel-emma-000192
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was no recovering Miss Taylor -- nor much likelihood of ceasing to pity her ; but a few weeks brought some alleviation to Mr. Woodhouse .
+There	O
+was	O
+no	O
+recovering	O
+Miss	B-CHARACTER
+Taylor	I-CHARACTER
+--	O
+nor	O
+much	O
+likelihood	O
+of	O
+ceasing	O
+to	O
+pity	O
+her	O
+;	O
+but	O
+a	O
+few	O
+weeks	O
+brought	O
+some	O
+alleviation	O
+to	O
+Mr.	B-CHARACTER
+Woodhouse	I-CHARACTER
+.	O
+
+# id = conivel-emma-000193
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The compliments of his neighbours were over ; he was no longer teased by being wished joy of so sorrowful an event ; and the wedding-cake , which had been a great distress to him , was all eat up .
+The	O
+compliments	O
+of	O
+his	O
+neighbours	O
+were	O
+over	O
+;	O
+he	O
+was	O
+no	O
+longer	O
+teased	O
+by	O
+being	O
+wished	O
+joy	O
+of	O
+so	O
+sorrowful	O
+an	O
+event	O
+;	O
+and	O
+the	O
+wedding-cake	O
+,	O
+which	O
+had	O
+been	O
+a	O
+great	O
+distress	O
+to	O
+him	O
+,	O
+was	O
+all	O
+eat	O
+up	O
+.	O
+
+# id = conivel-emma-000194
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His own stomach could bear nothing rich , and he could never believe other people to be different from himself .
+His	O
+own	O
+stomach	O
+could	O
+bear	O
+nothing	O
+rich	O
+,	O
+and	O
+he	O
+could	O
+never	O
+believe	O
+other	O
+people	O
+to	O
+be	O
+different	O
+from	O
+himself	O
+.	O
+
+# id = conivel-emma-000195
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What was unwholesome to him he regarded as unfit for any body ; and he had , therefore , earnestly tried to dissuade them from having any wedding-cake at all , and when that proved vain , as earnestly tried to prevent any body 's eating it .
+What	O
+was	O
+unwholesome	O
+to	O
+him	O
+he	O
+regarded	O
+as	O
+unfit	O
+for	O
+any	O
+body	O
+;	O
+and	O
+he	O
+had	O
+,	O
+therefore	O
+,	O
+earnestly	O
+tried	O
+to	O
+dissuade	O
+them	O
+from	O
+having	O
+any	O
+wedding-cake	O
+at	O
+all	O
+,	O
+and	O
+when	O
+that	O
+proved	O
+vain	O
+,	O
+as	O
+earnestly	O
+tried	O
+to	O
+prevent	O
+any	O
+body	O
+'s	O
+eating	O
+it	O
+.	O
+
+# id = conivel-emma-000196
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had been at the pains of consulting Mr. Perry , the apothecary , on the subject .
+He	O
+had	O
+been	O
+at	O
+the	O
+pains	O
+of	O
+consulting	O
+Mr.	B-CHARACTER
+Perry	I-CHARACTER
+,	O
+the	O
+apothecary	O
+,	O
+on	O
+the	O
+subject	O
+.	O
+
+# id = conivel-emma-000197
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Perry was an intelligent , gentlemanlike man , whose frequent visits were one of the comforts of Mr. Woodhouse 's life ; and upon being applied to , he could not but acknowledge ( though it seemed rather against the bias of inclination ) that wedding-cake might certainly disagree with many -- perhaps with most people , unless taken moderately .
+Mr.	B-CHARACTER
+Perry	I-CHARACTER
+was	O
+an	O
+intelligent	O
+,	O
+gentlemanlike	O
+man	O
+,	O
+whose	O
+frequent	O
+visits	O
+were	O
+one	O
+of	O
+the	O
+comforts	O
+of	O
+Mr.	B-CHARACTER
+Woodhouse	I-CHARACTER
+'s	O
+life	O
+;	O
+and	O
+upon	O
+being	O
+applied	O
+to	O
+,	O
+he	O
+could	O
+not	O
+but	O
+acknowledge	O
+(	O
+though	O
+it	O
+seemed	O
+rather	O
+against	O
+the	O
+bias	O
+of	O
+inclination	O
+)	O
+that	O
+wedding-cake	O
+might	O
+certainly	O
+disagree	O
+with	O
+many	O
+--	O
+perhaps	O
+with	O
+most	O
+people	O
+,	O
+unless	O
+taken	O
+moderately	O
+.	O
+
+# id = conivel-emma-000198
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = With such an opinion , in confirmation of his own , Mr. Woodhouse hoped to influence every visitor of the newly married pair ; but still the cake was eaten ; and there was no rest for his benevolent nerves till it was all gone .
+With	O
+such	O
+an	O
+opinion	O
+,	O
+in	O
+confirmation	O
+of	O
+his	O
+own	O
+,	O
+Mr.	B-CHARACTER
+Woodhouse	I-CHARACTER
+hoped	O
+to	O
+influence	O
+every	O
+visitor	O
+of	O
+the	O
+newly	O
+married	O
+pair	O
+;	O
+but	O
+still	O
+the	O
+cake	O
+was	O
+eaten	O
+;	O
+and	O
+there	O
+was	O
+no	O
+rest	O
+for	O
+his	O
+benevolent	O
+nerves	O
+till	O
+it	O
+was	O
+all	O
+gone	O
+.	O
+
+# id = conivel-emma-000199
+# source = Conivel corrected OWTO literary NER
+# book = Emma
+# source_file = Emma.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was a strange rumour in Highbury of all the little Perrys being seen with a slice of Mrs. Weston 's wedding-cake in their hands : but Mr. Woodhouse would never believe it .
+There	O
+was	O
+a	O
+strange	O
+rumour	O
+in	O
+Highbury	B-LOCATION
+of	O
+all	O
+the	O
+little	O
+Perrys	B-CHARACTER
+being	O
+seen	O
+with	O
+a	O
+slice	O
+of	O
+Mrs.	B-CHARACTER
+Weston	I-CHARACTER
+'s	O
+wedding-cake	O
+in	O
+their	O
+hands	O
+:	O
+but	O
+Mr.	B-CHARACTER
+Woodhouse	I-CHARACTER
+would	O
+never	O
+believe	O
+it	O
+.	O
+

@@ -1,0 +1,7645 @@
+# id = conivel-dracula-000001
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = _ ) _ 3 May .
+_	O
+)	O
+_	O
+3	O
+May	O
+.	O
+
+# id = conivel-dracula-000002
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ( _ Mem .
+(	O
+_	O
+Mem	O
+.	O
+
+# id = conivel-dracula-000003
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = _ , get recipe for Mina .
+_	O
+,	O
+get	O
+recipe	O
+for	O
+Mina	B-CHARACTER
+.	O
+
+# id = conivel-dracula-000004
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ) I asked the waiter , and he said it was called ` paprika hendl , ' and that , as it was a national dish , I should be able to get it anywhere along the Carpathians .
+)	O
+I	O
+asked	O
+the	O
+waiter	O
+,	O
+and	O
+he	O
+said	O
+it	O
+was	O
+called	O
+`	O
+paprika	O
+hendl	O
+,	O
+'	O
+and	O
+that	O
+,	O
+as	O
+it	O
+was	O
+a	O
+national	O
+dish	O
+,	O
+I	O
+should	O
+be	O
+able	O
+to	O
+get	O
+it	O
+anywhere	O
+along	O
+the	O
+Carpathians	B-LOCATION
+.	O
+
+# id = conivel-dracula-000005
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ( _ Mem .
+(	O
+_	O
+Mem	O
+.	O
+
+# id = conivel-dracula-000006
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = _ , I must ask the Count all about them .
+_	O
+,	O
+I	O
+must	O
+ask	O
+the	O
+Count	B-CHARACTER
+all	O
+about	O
+them	O
+.	O
+
+# id = conivel-dracula-000007
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ) I did not sleep well , though my bed was comfortable enough , for I had all sorts of queer dreams .
+)	O
+I	O
+did	O
+not	O
+sleep	O
+well	O
+,	O
+though	O
+my	O
+bed	O
+was	O
+comfortable	O
+enough	O
+,	O
+for	O
+I	O
+had	O
+all	O
+sorts	O
+of	O
+queer	O
+dreams	O
+.	O
+
+# id = conivel-dracula-000008
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was a dog howling all night under my window , which may have had something to do with it ; or it may have been the paprika , for I had to drink up all the water in my carafe , and was still thirsty .
+There	O
+was	O
+a	O
+dog	O
+howling	O
+all	O
+night	O
+under	O
+my	O
+window	O
+,	O
+which	O
+may	O
+have	O
+had	O
+something	O
+to	O
+do	O
+with	O
+it	O
+;	O
+or	O
+it	O
+may	O
+have	O
+been	O
+the	O
+paprika	O
+,	O
+for	O
+I	O
+had	O
+to	O
+drink	O
+up	O
+all	O
+the	O
+water	O
+in	O
+my	O
+carafe	O
+,	O
+and	O
+was	O
+still	O
+thirsty	O
+.	O
+
+# id = conivel-dracula-000009
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Towards morning I slept and was wakened by the continuous knocking at my door , so I guess I must have been sleeping soundly then .
+Towards	O
+morning	O
+I	O
+slept	O
+and	O
+was	O
+wakened	O
+by	O
+the	O
+continuous	O
+knocking	O
+at	O
+my	O
+door	O
+,	O
+so	O
+I	O
+guess	O
+I	O
+must	O
+have	O
+been	O
+sleeping	O
+soundly	O
+then	O
+.	O
+
+# id = conivel-dracula-000010
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I had for breakfast more paprika , and a sort of porridge of maize flour which they said was ` mamaliga , ' and egg-plant stuffed with forcemeat , a very excellent dish , which they call ` impletata .
+I	O
+had	O
+for	O
+breakfast	O
+more	O
+paprika	O
+,	O
+and	O
+a	O
+sort	O
+of	O
+porridge	O
+of	O
+maize	O
+flour	O
+which	O
+they	O
+said	O
+was	O
+`	O
+mamaliga	O
+,	O
+'	O
+and	O
+egg-plant	O
+stuffed	O
+with	O
+forcemeat	O
+,	O
+a	O
+very	O
+excellent	O
+dish	O
+,	O
+which	O
+they	O
+call	O
+`	O
+impletata	O
+.	O
+
+# id = conivel-dracula-000011
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' ( _ Mem .
+'	O
+(	O
+_	O
+Mem	O
+.	O
+
+# id = conivel-dracula-000012
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = _ , get recipe for this also .
+_	O
+,	O
+get	O
+recipe	O
+for	O
+this	O
+also	O
+.	O
+
+# id = conivel-dracula-000013
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ) I had to hurry breakfast , for the train started a little before eight , or rather it ought to have done so , for after rushing to the station at 7:30 I had to sit in the carriage for more than an hour before we began to move .
+)	O
+I	O
+had	O
+to	O
+hurry	O
+breakfast	O
+,	O
+for	O
+the	O
+train	O
+started	O
+a	O
+little	O
+before	O
+eight	O
+,	O
+or	O
+rather	O
+it	O
+ought	O
+to	O
+have	O
+done	O
+so	O
+,	O
+for	O
+after	O
+rushing	O
+to	O
+the	O
+station	O
+at	O
+7:30	O
+I	O
+had	O
+to	O
+sit	O
+in	O
+the	O
+carriage	O
+for	O
+more	O
+than	O
+an	O
+hour	O
+before	O
+we	O
+began	O
+to	O
+move	O
+.	O
+
+# id = conivel-dracula-000014
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It seems to me that the further east you go the more unpunctual are the trains .
+It	O
+seems	O
+to	O
+me	O
+that	O
+the	O
+further	O
+east	O
+you	O
+go	O
+the	O
+more	O
+unpunctual	O
+are	O
+the	O
+trains	O
+.	O
+
+# id = conivel-dracula-000015
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All day long we seemed to dawdle through a country which was full of beauty of every kind .
+All	O
+day	O
+long	O
+we	O
+seemed	O
+to	O
+dawdle	O
+through	O
+a	O
+country	O
+which	O
+was	O
+full	O
+of	O
+beauty	O
+of	O
+every	O
+kind	O
+.	O
+
+# id = conivel-dracula-000016
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Sometimes we saw little towns or castles on the top of steep hills such as we see in old missals ; sometimes we ran by rivers and streams which seemed from the wide stony margin on each side of them to be subject to great floods .
+Sometimes	O
+we	O
+saw	O
+little	O
+towns	O
+or	O
+castles	O
+on	O
+the	O
+top	O
+of	O
+steep	O
+hills	O
+such	O
+as	O
+we	O
+see	O
+in	O
+old	O
+missals	O
+;	O
+sometimes	O
+we	O
+ran	O
+by	O
+rivers	O
+and	O
+streams	O
+which	O
+seemed	O
+from	O
+the	O
+wide	O
+stony	O
+margin	O
+on	O
+each	O
+side	O
+of	O
+them	O
+to	O
+be	O
+subject	O
+to	O
+great	O
+floods	O
+.	O
+
+# id = conivel-dracula-000017
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It takes a lot of water , and running strong , to sweep the outside edge of a river clear .
+It	O
+takes	O
+a	O
+lot	O
+of	O
+water	O
+,	O
+and	O
+running	O
+strong	O
+,	O
+to	O
+sweep	O
+the	O
+outside	O
+edge	O
+of	O
+a	O
+river	O
+clear	O
+.	O
+
+# id = conivel-dracula-000018
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At every station there were groups of people , sometimes crowds , and in all sorts of attire .
+At	O
+every	O
+station	O
+there	O
+were	O
+groups	O
+of	O
+people	O
+,	O
+sometimes	O
+crowds	O
+,	O
+and	O
+in	O
+all	O
+sorts	O
+of	O
+attire	O
+.	O
+
+# id = conivel-dracula-000019
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The women looked pretty , except when you got near them , but they were very clumsy about the waist .
+The	O
+women	O
+looked	O
+pretty	O
+,	O
+except	O
+when	O
+you	O
+got	O
+near	O
+them	O
+,	O
+but	O
+they	O
+were	O
+very	O
+clumsy	O
+about	O
+the	O
+waist	O
+.	O
+
+# id = conivel-dracula-000020
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They had all full white sleeves of some kind or other , and most of them had big belts with a lot of strips of something fluttering from them like the dresses in a ballet , but of course there were petticoats under them .
+They	O
+had	O
+all	O
+full	O
+white	O
+sleeves	O
+of	O
+some	O
+kind	O
+or	O
+other	O
+,	O
+and	O
+most	O
+of	O
+them	O
+had	O
+big	O
+belts	O
+with	O
+a	O
+lot	O
+of	O
+strips	O
+of	O
+something	O
+fluttering	O
+from	O
+them	O
+like	O
+the	O
+dresses	O
+in	O
+a	O
+ballet	O
+,	O
+but	O
+of	O
+course	O
+there	O
+were	O
+petticoats	O
+under	O
+them	O
+.	O
+
+# id = conivel-dracula-000021
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The strangest figures we saw were the Slovaks , who were more barbarian than the rest , with their big cow-boy hats , great baggy dirty-white trousers , white linen shirts , and enormous heavy leather belts , nearly a foot wide , all studded over with brass nails .
+The	O
+strangest	O
+figures	O
+we	O
+saw	O
+were	O
+the	O
+Slovaks	O
+,	O
+who	O
+were	O
+more	O
+barbarian	O
+than	O
+the	O
+rest	O
+,	O
+with	O
+their	O
+big	O
+cow-boy	O
+hats	O
+,	O
+great	O
+baggy	O
+dirty-white	O
+trousers	O
+,	O
+white	O
+linen	O
+shirts	O
+,	O
+and	O
+enormous	O
+heavy	O
+leather	O
+belts	O
+,	O
+nearly	O
+a	O
+foot	O
+wide	O
+,	O
+all	O
+studded	O
+over	O
+with	O
+brass	O
+nails	O
+.	O
+
+# id = conivel-dracula-000022
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They wore high boots , with their trousers tucked into them , and had long black hair and heavy black moustaches .
+They	O
+wore	O
+high	O
+boots	O
+,	O
+with	O
+their	O
+trousers	O
+tucked	O
+into	O
+them	O
+,	O
+and	O
+had	O
+long	O
+black	O
+hair	O
+and	O
+heavy	O
+black	O
+moustaches	O
+.	O
+
+# id = conivel-dracula-000023
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They are very picturesque , but do not look prepossessing .
+They	O
+are	O
+very	O
+picturesque	O
+,	O
+but	O
+do	O
+not	O
+look	O
+prepossessing	O
+.	O
+
+# id = conivel-dracula-000024
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = On the stage they would be set down at once as some old Oriental band of brigands .
+On	O
+the	O
+stage	O
+they	O
+would	O
+be	O
+set	O
+down	O
+at	O
+once	O
+as	O
+some	O
+old	O
+Oriental	O
+band	O
+of	O
+brigands	O
+.	O
+
+# id = conivel-dracula-000025
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They are , however , I am told , very harmless and rather wanting in natural self-assertion .
+They	O
+are	O
+,	O
+however	O
+,	O
+I	O
+am	O
+told	O
+,	O
+very	O
+harmless	O
+and	O
+rather	O
+wanting	O
+in	O
+natural	O
+self-assertion	O
+.	O
+
+# id = conivel-dracula-000026
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Fifty years ago a series of great fires took place , which made terrible havoc on five separate occasions .
+Fifty	O
+years	O
+ago	O
+a	O
+series	O
+of	O
+great	O
+fires	O
+took	O
+place	O
+,	O
+which	O
+made	O
+terrible	O
+havoc	O
+on	O
+five	O
+separate	O
+occasions	O
+.	O
+
+# id = conivel-dracula-000027
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At the very beginning of the seventeenth century it underwent a siege of three weeks and lost 13,000 people , the casualties of war proper being assisted by famine and disease .
+At	O
+the	O
+very	O
+beginning	O
+of	O
+the	O
+seventeenth	O
+century	O
+it	O
+underwent	O
+a	O
+siege	O
+of	O
+three	O
+weeks	O
+and	O
+lost	O
+13,000	O
+people	O
+,	O
+the	O
+casualties	O
+of	O
+war	O
+proper	O
+being	O
+assisted	O
+by	O
+famine	O
+and	O
+disease	O
+.	O
+
+# id = conivel-dracula-000028
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was evidently expected , for when I got near the door I faced a cheery-looking elderly woman in the usual peasant dress -- white undergarment with long double apron , front , and back , of coloured stuff fitting almost too tight for modesty .
+I	O
+was	O
+evidently	O
+expected	O
+,	O
+for	O
+when	O
+I	O
+got	O
+near	O
+the	O
+door	O
+I	O
+faced	O
+a	O
+cheery-looking	O
+elderly	O
+woman	O
+in	O
+the	O
+usual	O
+peasant	O
+dress	O
+--	O
+white	O
+undergarment	O
+with	O
+long	O
+double	O
+apron	O
+,	O
+front	O
+,	O
+and	O
+back	O
+,	O
+of	O
+coloured	O
+stuff	O
+fitting	O
+almost	O
+too	O
+tight	O
+for	O
+modesty	O
+.	O
+
+# id = conivel-dracula-000029
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When I came close she bowed and said , `` The Herr Englishman ? ''
+When	O
+I	O
+came	O
+close	O
+she	O
+bowed	O
+and	O
+said	O
+,	O
+``	O
+The	O
+Herr	B-CHARACTER
+Englishman	I-CHARACTER
+?	O
+''	O
+
+# id = conivel-dracula-000030
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , ''
+``	O
+Yes	O
+,	O
+''	O
+
+# id = conivel-dracula-000031
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I said , `` Jonathan Harker . ''
+I	O
+said	O
+,	O
+``	O
+Jonathan	B-CHARACTER
+Harker	I-CHARACTER
+.	O
+''	O
+
+# id = conivel-dracula-000032
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She smiled , and gave some message to an elderly man in white shirt-sleeves , who had followed her to the door .
+She	O
+smiled	O
+,	O
+and	O
+gave	O
+some	O
+message	O
+to	O
+an	O
+elderly	O
+man	O
+in	O
+white	O
+shirt-sleeves	O
+,	O
+who	O
+had	O
+followed	O
+her	O
+to	O
+the	O
+door	O
+.	O
+
+# id = conivel-dracula-000033
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He went , but immediately returned with a letter : -- ` My Friend .
+He	O
+went	O
+,	O
+but	O
+immediately	O
+returned	O
+with	O
+a	O
+letter	O
+:	O
+--	O
+`	O
+My	O
+Friend	O
+.	O
+
+# id = conivel-dracula-000034
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I am anxiously expecting you .
+I	O
+am	O
+anxiously	O
+expecting	O
+you	O
+.	O
+
+# id = conivel-dracula-000035
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Sleep well to-night .
+Sleep	O
+well	O
+to-night	O
+.	O
+
+# id = conivel-dracula-000036
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' Your friend , ` DRACULA .
+'	O
+Your	O
+friend	O
+,	O
+`	O
+DRACULA	B-CHARACTER
+.	O
+
+# id = conivel-dracula-000037
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' _ 4 May .
+'	O
+_	O
+4	O
+May	O
+.	O
+
+# id = conivel-dracula-000038
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This could not be true , because up to then he had understood it perfectly ; at least , he answered my questions exactly as if he did .
+This	O
+could	O
+not	O
+be	O
+true	O
+,	O
+because	O
+up	O
+to	O
+then	O
+he	O
+had	O
+understood	O
+it	O
+perfectly	O
+;	O
+at	O
+least	O
+,	O
+he	O
+answered	O
+my	O
+questions	O
+exactly	O
+as	O
+if	O
+he	O
+did	O
+.	O
+
+# id = conivel-dracula-000039
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He and his wife , the old lady who had received me , looked at each other in a frightened sort of way .
+He	O
+and	O
+his	O
+wife	O
+,	O
+the	O
+old	O
+lady	O
+who	O
+had	O
+received	O
+me	O
+,	O
+looked	O
+at	O
+each	O
+other	O
+in	O
+a	O
+frightened	O
+sort	O
+of	O
+way	O
+.	O
+
+# id = conivel-dracula-000040
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He mumbled out that the money had been sent in a letter , and that was all he knew .
+He	O
+mumbled	O
+out	O
+that	O
+the	O
+money	O
+had	O
+been	O
+sent	O
+in	O
+a	O
+letter	O
+,	O
+and	O
+that	O
+was	O
+all	O
+he	O
+knew	O
+.	O
+
+# id = conivel-dracula-000041
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was so near the time of starting that I had no time to ask any one else , for it was all very mysterious and not by any means comforting .
+It	O
+was	O
+so	O
+near	O
+the	O
+time	O
+of	O
+starting	O
+that	O
+I	O
+had	O
+no	O
+time	O
+to	O
+ask	O
+any	O
+one	O
+else	O
+,	O
+for	O
+it	O
+was	O
+all	O
+very	O
+mysterious	O
+and	O
+not	O
+by	O
+any	O
+means	O
+comforting	O
+.	O
+
+# id = conivel-dracula-000042
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Just before I was leaving , the old lady came up to my room and said in a very hysterical way : `` Must you go ?
+Just	O
+before	O
+I	O
+was	O
+leaving	O
+,	O
+the	O
+old	O
+lady	O
+came	O
+up	O
+to	O
+my	O
+room	O
+and	O
+said	O
+in	O
+a	O
+very	O
+hysterical	O
+way	O
+:	O
+``	O
+Must	O
+you	O
+go	O
+?	O
+
+# id = conivel-dracula-000043
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Oh !
+Oh	O
+!	O
+
+# id = conivel-dracula-000044
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = young Herr , must you go ? ''
+young	O
+Herr	O
+,	O
+must	O
+you	O
+go	O
+?	O
+''	O
+
+# id = conivel-dracula-000045
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She was in such an excited state that she seemed to have lost her grip of what German she knew , and mixed it all up with some other language which I did not know at all .
+She	O
+was	O
+in	O
+such	O
+an	O
+excited	O
+state	O
+that	O
+she	O
+seemed	O
+to	O
+have	O
+lost	O
+her	O
+grip	O
+of	O
+what	O
+German	O
+she	O
+knew	O
+,	O
+and	O
+mixed	O
+it	O
+all	O
+up	O
+with	O
+some	O
+other	O
+language	O
+which	O
+I	O
+did	O
+not	O
+know	O
+at	O
+all	O
+.	O
+
+# id = conivel-dracula-000046
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was just able to follow her by asking many questions .
+I	O
+was	O
+just	O
+able	O
+to	O
+follow	O
+her	O
+by	O
+asking	O
+many	O
+questions	O
+.	O
+
+# id = conivel-dracula-000047
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When I told her that I must go at once , and that I was engaged on important business , she asked again : `` Do you know what day it is ? ''
+When	O
+I	O
+told	O
+her	O
+that	O
+I	O
+must	O
+go	O
+at	O
+once	O
+,	O
+and	O
+that	O
+I	O
+was	O
+engaged	O
+on	O
+important	O
+business	O
+,	O
+she	O
+asked	O
+again	O
+:	O
+``	O
+Do	O
+you	O
+know	O
+what	O
+day	O
+it	O
+is	O
+?	O
+''	O
+
+# id = conivel-dracula-000048
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I answered that it was the fourth of May .
+I	O
+answered	O
+that	O
+it	O
+was	O
+the	O
+fourth	O
+of	O
+May	O
+.	O
+
+# id = conivel-dracula-000049
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She shook her head as she said again : `` Oh , yes !
+She	O
+shook	O
+her	O
+head	O
+as	O
+she	O
+said	O
+again	O
+:	O
+``	O
+Oh	O
+,	O
+yes	O
+!	O
+
+# id = conivel-dracula-000050
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I know that !
+I	O
+know	O
+that	O
+!	O
+
+# id = conivel-dracula-000051
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I know that , but do you know what day it is ? ''
+I	O
+know	O
+that	O
+,	O
+but	O
+do	O
+you	O
+know	O
+what	O
+day	O
+it	O
+is	O
+?	O
+''	O
+
+# id = conivel-dracula-000052
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = On my saying that I did not understand , she went on : `` It is the eve of St. George 's Day .
+On	O
+my	O
+saying	O
+that	O
+I	O
+did	O
+not	O
+understand	O
+,	O
+she	O
+went	O
+on	O
+:	O
+``	O
+It	O
+is	O
+the	O
+eve	O
+of	O
+St.	O
+George	O
+'s	O
+Day	O
+.	O
+
+# id = conivel-dracula-000053
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Do you not know that to-night , when the clock strikes midnight , all the evil things in the world will have full sway ?
+Do	O
+you	O
+not	O
+know	O
+that	O
+to-night	O
+,	O
+when	O
+the	O
+clock	O
+strikes	O
+midnight	O
+,	O
+all	O
+the	O
+evil	O
+things	O
+in	O
+the	O
+world	O
+will	O
+have	O
+full	O
+sway	O
+?	O
+
+# id = conivel-dracula-000054
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Do you know where you are going , and what you are going to ? ''
+Do	O
+you	O
+know	O
+where	O
+you	O
+are	O
+going	O
+,	O
+and	O
+what	O
+you	O
+are	O
+going	O
+to	O
+?	O
+''	O
+
+# id = conivel-dracula-000055
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She was in such evident distress that I tried to comfort her , but without effect .
+She	O
+was	O
+in	O
+such	O
+evident	O
+distress	O
+that	O
+I	O
+tried	O
+to	O
+comfort	O
+her	O
+,	O
+but	O
+without	O
+effect	O
+.	O
+
+# id = conivel-dracula-000056
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Finally she went down on her knees and implored me not to go ; at least to wait a day or two before starting .
+Finally	O
+she	O
+went	O
+down	O
+on	O
+her	O
+knees	O
+and	O
+implored	O
+me	O
+not	O
+to	O
+go	O
+;	O
+at	O
+least	O
+to	O
+wait	O
+a	O
+day	O
+or	O
+two	O
+before	O
+starting	O
+.	O
+
+# id = conivel-dracula-000057
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was all very ridiculous but I did not feel comfortable .
+It	O
+was	O
+all	O
+very	O
+ridiculous	O
+but	O
+I	O
+did	O
+not	O
+feel	O
+comfortable	O
+.	O
+
+# id = conivel-dracula-000058
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = However , there was business to be done , and I could allow nothing to interfere with it .
+However	O
+,	O
+there	O
+was	O
+business	O
+to	O
+be	O
+done	O
+,	O
+and	O
+I	O
+could	O
+allow	O
+nothing	O
+to	O
+interfere	O
+with	O
+it	O
+.	O
+
+# id = conivel-dracula-000059
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I therefore tried to raise her up , and said , as gravely as I could , that I thanked her , but my duty was imperative , and that I must go .
+I	O
+therefore	O
+tried	O
+to	O
+raise	O
+her	O
+up	O
+,	O
+and	O
+said	O
+,	O
+as	O
+gravely	O
+as	O
+I	O
+could	O
+,	O
+that	O
+I	O
+thanked	O
+her	O
+,	O
+but	O
+my	O
+duty	O
+was	O
+imperative	O
+,	O
+and	O
+that	O
+I	O
+must	O
+go	O
+.	O
+
+# id = conivel-dracula-000060
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She then rose and dried her eyes , and taking a crucifix from her neck offered it to me .
+She	O
+then	O
+rose	O
+and	O
+dried	O
+her	O
+eyes	O
+,	O
+and	O
+taking	O
+a	O
+crucifix	O
+from	O
+her	O
+neck	O
+offered	O
+it	O
+to	O
+me	O
+.	O
+
+# id = conivel-dracula-000061
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I did not know what to do , for , as an English Churchman , I have been taught to regard such things as in some measure idolatrous , and yet it seemed so ungracious to refuse an old lady meaning so well and in such a state of mind .
+I	O
+did	O
+not	O
+know	O
+what	O
+to	O
+do	O
+,	O
+for	O
+,	O
+as	O
+an	O
+English	O
+Churchman	O
+,	O
+I	O
+have	O
+been	O
+taught	O
+to	O
+regard	O
+such	O
+things	O
+as	O
+in	O
+some	O
+measure	O
+idolatrous	O
+,	O
+and	O
+yet	O
+it	O
+seemed	O
+so	O
+ungracious	O
+to	O
+refuse	O
+an	O
+old	O
+lady	O
+meaning	O
+so	O
+well	O
+and	O
+in	O
+such	O
+a	O
+state	O
+of	O
+mind	O
+.	O
+
+# id = conivel-dracula-000062
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She saw , I suppose , the doubt in my face , for she put the rosary round my neck , and said , `` For your mother 's sake , ''
+She	O
+saw	O
+,	O
+I	O
+suppose	O
+,	O
+the	O
+doubt	O
+in	O
+my	O
+face	O
+,	O
+for	O
+she	O
+put	O
+the	O
+rosary	O
+round	O
+my	O
+neck	O
+,	O
+and	O
+said	O
+,	O
+``	O
+For	O
+your	O
+mother	O
+'s	O
+sake	O
+,	O
+''	O
+
+# id = conivel-dracula-000063
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = and went out of the room .
+and	O
+went	O
+out	O
+of	O
+the	O
+room	O
+.	O
+
+# id = conivel-dracula-000064
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I am writing up this part of the diary whilst I am waiting for the coach , which is , of course , late ; and the crucifix is still round my neck .
+I	O
+am	O
+writing	O
+up	O
+this	O
+part	O
+of	O
+the	O
+diary	O
+whilst	O
+I	O
+am	O
+waiting	O
+for	O
+the	O
+coach	O
+,	O
+which	O
+is	O
+,	O
+of	O
+course	O
+,	O
+late	O
+;	O
+and	O
+the	O
+crucifix	O
+is	O
+still	O
+round	O
+my	O
+neck	O
+.	O
+
+# id = conivel-dracula-000065
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Whether it is the old lady 's fear , or the many ghostly traditions of this place , or the crucifix itself , I do not know , but I am not feeling nearly as easy in my mind as usual .
+Whether	O
+it	O
+is	O
+the	O
+old	O
+lady	O
+'s	O
+fear	O
+,	O
+or	O
+the	O
+many	O
+ghostly	O
+traditions	O
+of	O
+this	O
+place	O
+,	O
+or	O
+the	O
+crucifix	O
+itself	O
+,	O
+I	O
+do	O
+not	O
+know	O
+,	O
+but	O
+I	O
+am	O
+not	O
+feeling	O
+nearly	O
+as	O
+easy	O
+in	O
+my	O
+mind	O
+as	O
+usual	O
+.	O
+
+# id = conivel-dracula-000066
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Here comes the coach !
+Here	O
+comes	O
+the	O
+coach	O
+!	O
+
+# id = conivel-dracula-000067
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = * * * * * _ 5 May .
+*	O
+*	O
+*	O
+*	O
+*	O
+_	O
+5	O
+May	O
+.	O
+
+# id = conivel-dracula-000068
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Castle .
+The	O
+Castle	O
+.	O
+
+# id = conivel-dracula-000069
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = _ -- The grey of the morning has passed , and the sun is high over the distant horizon , which seems jagged , whether with trees or hills I know not , for it is so far off that big things and little are mixed .
+_	O
+--	O
+The	O
+grey	O
+of	O
+the	O
+morning	O
+has	O
+passed	O
+,	O
+and	O
+the	O
+sun	O
+is	O
+high	O
+over	O
+the	O
+distant	O
+horizon	O
+,	O
+which	O
+seems	O
+jagged	O
+,	O
+whether	O
+with	O
+trees	O
+or	O
+hills	O
+I	O
+know	O
+not	O
+,	O
+for	O
+it	O
+is	O
+so	O
+far	O
+off	O
+that	O
+big	O
+things	O
+and	O
+little	O
+are	O
+mixed	O
+.	O
+
+# id = conivel-dracula-000070
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I am not sleepy , and , as I am not to be called till I awake , naturally I write till sleep comes .
+I	O
+am	O
+not	O
+sleepy	O
+,	O
+and	O
+,	O
+as	O
+I	O
+am	O
+not	O
+to	O
+be	O
+called	O
+till	O
+I	O
+awake	O
+,	O
+naturally	O
+I	O
+write	O
+till	O
+sleep	O
+comes	O
+.	O
+
+# id = conivel-dracula-000071
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There are many odd things to put down , and , lest who reads them may fancy that I dined too well before I left Bistritz , let me put down my dinner exactly .
+There	O
+are	O
+many	O
+odd	O
+things	O
+to	O
+put	O
+down	O
+,	O
+and	O
+,	O
+lest	O
+who	O
+reads	O
+them	O
+may	O
+fancy	O
+that	O
+I	O
+dined	O
+too	O
+well	O
+before	O
+I	O
+left	O
+Bistritz	B-LOCATION
+,	O
+let	O
+me	O
+put	O
+down	O
+my	O
+dinner	O
+exactly	O
+.	O
+
+# id = conivel-dracula-000072
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I dined on what they called ` robber steak ' -- bits of bacon , onion , and beef , seasoned with red pepper , and strung on sticks and roasted over the fire , in the simple style of the London cat 's meat !
+I	O
+dined	O
+on	O
+what	O
+they	O
+called	O
+`	O
+robber	O
+steak	O
+'	O
+--	O
+bits	O
+of	O
+bacon	O
+,	O
+onion	O
+,	O
+and	O
+beef	O
+,	O
+seasoned	O
+with	O
+red	O
+pepper	O
+,	O
+and	O
+strung	O
+on	O
+sticks	O
+and	O
+roasted	O
+over	O
+the	O
+fire	O
+,	O
+in	O
+the	O
+simple	O
+style	O
+of	O
+the	O
+London	B-LOCATION
+cat	O
+'s	O
+meat	O
+!	O
+
+# id = conivel-dracula-000073
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The wine was Golden Mediasch , which produces a queer sting on the tongue , which is , however , not disagreeable .
+The	O
+wine	O
+was	O
+Golden	O
+Mediasch	O
+,	O
+which	O
+produces	O
+a	O
+queer	O
+sting	O
+on	O
+the	O
+tongue	O
+,	O
+which	O
+is	O
+,	O
+however	O
+,	O
+not	O
+disagreeable	O
+.	O
+
+# id = conivel-dracula-000074
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I had only a couple of glasses of this , and nothing else .
+I	O
+had	O
+only	O
+a	O
+couple	O
+of	O
+glasses	O
+of	O
+this	O
+,	O
+and	O
+nothing	O
+else	O
+.	O
+
+# id = conivel-dracula-000075
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When I got on the coach the driver had not taken his seat , and I saw him talking with the landlady .
+When	O
+I	O
+got	O
+on	O
+the	O
+coach	O
+the	O
+driver	O
+had	O
+not	O
+taken	O
+his	O
+seat	O
+,	O
+and	O
+I	O
+saw	O
+him	O
+talking	O
+with	O
+the	O
+landlady	O
+.	O
+
+# id = conivel-dracula-000076
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were evidently talking of me , for every now and then they looked at me , and some of the people who were sitting on the bench outside the door -- which they call by a name meaning ` word-bearer ' -- came and listened , and then looked at me , most of them pityingly .
+They	O
+were	O
+evidently	O
+talking	O
+of	O
+me	O
+,	O
+for	O
+every	O
+now	O
+and	O
+then	O
+they	O
+looked	O
+at	O
+me	O
+,	O
+and	O
+some	O
+of	O
+the	O
+people	O
+who	O
+were	O
+sitting	O
+on	O
+the	O
+bench	O
+outside	O
+the	O
+door	O
+--	O
+which	O
+they	O
+call	O
+by	O
+a	O
+name	O
+meaning	O
+`	O
+word-bearer	O
+'	O
+--	O
+came	O
+and	O
+listened	O
+,	O
+and	O
+then	O
+looked	O
+at	O
+me	O
+,	O
+most	O
+of	O
+them	O
+pityingly	O
+.	O
+
+# id = conivel-dracula-000077
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I could hear a lot of words often repeated , queer words , for there were many nationalities in the crowd ; so I quietly got my polyglot dictionary from my bag and looked them out .
+I	O
+could	O
+hear	O
+a	O
+lot	O
+of	O
+words	O
+often	O
+repeated	O
+,	O
+queer	O
+words	O
+,	O
+for	O
+there	O
+were	O
+many	O
+nationalities	O
+in	O
+the	O
+crowd	O
+;	O
+so	O
+I	O
+quietly	O
+got	O
+my	O
+polyglot	O
+dictionary	O
+from	O
+my	O
+bag	O
+and	O
+looked	O
+them	O
+out	O
+.	O
+
+# id = conivel-dracula-000078
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I must say they were not cheering to me , for amongst them were ` Ordog ' -- Satan , ` pokol ' -- hell , ` stregoica ' -- witch , ` vrolok ' and ` vlkoslak ' -- both of which mean the same thing , one being Slovak and the other Servian for something that is either were-wolf or vampire .
+I	O
+must	O
+say	O
+they	O
+were	O
+not	O
+cheering	O
+to	O
+me	O
+,	O
+for	O
+amongst	O
+them	O
+were	O
+`	O
+Ordog	B-CHARACTER
+'	O
+--	O
+Satan	B-CHARACTER
+,	O
+`	O
+pokol	O
+'	O
+--	O
+hell	O
+,	O
+`	O
+stregoica	O
+'	O
+--	O
+witch	O
+,	O
+`	O
+vrolok	O
+'	O
+and	O
+`	O
+vlkoslak	O
+'	O
+--	O
+both	O
+of	O
+which	O
+mean	O
+the	O
+same	O
+thing	O
+,	O
+one	O
+being	O
+Slovak	O
+and	O
+the	O
+other	O
+Servian	O
+for	O
+something	O
+that	O
+is	O
+either	O
+were-wolf	O
+or	O
+vampire	O
+.	O
+
+# id = conivel-dracula-000079
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ( _ Mem .
+(	O
+_	O
+Mem	O
+.	O
+
+# id = conivel-dracula-000080
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = _ , I must ask the Count about these superstitions ) When we started , the crowd round the inn door , which had by this time swelled to a considerable size , all made the sign of the cross and pointed two fingers towards me .
+_	O
+,	O
+I	O
+must	O
+ask	O
+the	O
+Count	B-CHARACTER
+about	O
+these	O
+superstitions	O
+)	O
+When	O
+we	O
+started	O
+,	O
+the	O
+crowd	O
+round	O
+the	O
+inn	O
+door	O
+,	O
+which	O
+had	O
+by	O
+this	O
+time	O
+swelled	O
+to	O
+a	O
+considerable	O
+size	O
+,	O
+all	O
+made	O
+the	O
+sign	O
+of	O
+the	O
+cross	O
+and	O
+pointed	O
+two	O
+fingers	O
+towards	O
+me	O
+.	O
+
+# id = conivel-dracula-000081
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = With some difficulty I got a fellow-passenger to tell me what they meant ; he would not answer at first , but on learning that I was English , he explained that it was a charm or guard against the evil eye .
+With	O
+some	O
+difficulty	O
+I	O
+got	O
+a	O
+fellow-passenger	O
+to	O
+tell	O
+me	O
+what	O
+they	O
+meant	O
+;	O
+he	O
+would	O
+not	O
+answer	O
+at	O
+first	O
+,	O
+but	O
+on	O
+learning	O
+that	O
+I	O
+was	O
+English	O
+,	O
+he	O
+explained	O
+that	O
+it	O
+was	O
+a	O
+charm	O
+or	O
+guard	O
+against	O
+the	O
+evil	O
+eye	O
+.	O
+
+# id = conivel-dracula-000082
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This was not very pleasant for me , just starting for an unknown place to meet an unknown man ; but every one seemed so kind-hearted , and so sorrowful , and so sympathetic that I could not but be touched .
+This	O
+was	O
+not	O
+very	O
+pleasant	O
+for	O
+me	O
+,	O
+just	O
+starting	O
+for	O
+an	O
+unknown	O
+place	O
+to	O
+meet	O
+an	O
+unknown	O
+man	O
+;	O
+but	O
+every	O
+one	O
+seemed	O
+so	O
+kind-hearted	O
+,	O
+and	O
+so	O
+sorrowful	O
+,	O
+and	O
+so	O
+sympathetic	O
+that	O
+I	O
+could	O
+not	O
+but	O
+be	O
+touched	O
+.	O
+
+# id = conivel-dracula-000083
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I shall never forget the last glimpse which I had of the inn-yard and its crowd of picturesque figures , all crossing themselves , as they stood round the wide archway , with its background of rich foliage of oleander and orange trees in green tubs clustered in the centre of the yard .
+I	O
+shall	O
+never	O
+forget	O
+the	O
+last	O
+glimpse	O
+which	O
+I	O
+had	O
+of	O
+the	O
+inn-yard	O
+and	O
+its	O
+crowd	O
+of	O
+picturesque	O
+figures	O
+,	O
+all	O
+crossing	O
+themselves	O
+,	O
+as	O
+they	O
+stood	O
+round	O
+the	O
+wide	O
+archway	O
+,	O
+with	O
+its	O
+background	O
+of	O
+rich	O
+foliage	O
+of	O
+oleander	O
+and	O
+orange	O
+trees	O
+in	O
+green	O
+tubs	O
+clustered	O
+in	O
+the	O
+centre	O
+of	O
+the	O
+yard	O
+.	O
+
+# id = conivel-dracula-000084
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then our driver , whose wide linen drawers covered the whole front of the box-seat -- ` gotza ' they call them -- cracked his big whip over his four small horses , which ran abreast , and we set off on our journey .
+Then	O
+our	O
+driver	O
+,	O
+whose	O
+wide	O
+linen	O
+drawers	O
+covered	O
+the	O
+whole	O
+front	O
+of	O
+the	O
+box-seat	O
+--	O
+`	O
+gotza	O
+'	O
+they	O
+call	O
+them	O
+--	O
+cracked	O
+his	O
+big	O
+whip	O
+over	O
+his	O
+four	O
+small	O
+horses	O
+,	O
+which	O
+ran	O
+abreast	O
+,	O
+and	O
+we	O
+set	O
+off	O
+on	O
+our	O
+journey	O
+.	O
+
+# id = conivel-dracula-000085
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I soon lost sight and recollection of ghostly fears in the beauty of the scene as we drove along , although had I known the language , or rather languages , which my fellow-passengers were speaking , I might not have been able to throw them off so easily .
+I	O
+soon	O
+lost	O
+sight	O
+and	O
+recollection	O
+of	O
+ghostly	O
+fears	O
+in	O
+the	O
+beauty	O
+of	O
+the	O
+scene	O
+as	O
+we	O
+drove	O
+along	O
+,	O
+although	O
+had	O
+I	O
+known	O
+the	O
+language	O
+,	O
+or	O
+rather	O
+languages	O
+,	O
+which	O
+my	O
+fellow-passengers	O
+were	O
+speaking	O
+,	O
+I	O
+might	O
+not	O
+have	O
+been	O
+able	O
+to	O
+throw	O
+them	O
+off	O
+so	O
+easily	O
+.	O
+
+# id = conivel-dracula-000086
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Before us lay a green sloping land full of forests and woods , with here and there steep hills , crowned with clumps of trees or with farmhouses , the blank gable end to the road .
+Before	O
+us	O
+lay	O
+a	O
+green	O
+sloping	O
+land	O
+full	O
+of	O
+forests	O
+and	O
+woods	O
+,	O
+with	O
+here	O
+and	O
+there	O
+steep	O
+hills	O
+,	O
+crowned	O
+with	O
+clumps	O
+of	O
+trees	O
+or	O
+with	O
+farmhouses	O
+,	O
+the	O
+blank	O
+gable	O
+end	O
+to	O
+the	O
+road	O
+.	O
+
+# id = conivel-dracula-000087
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was everywhere a bewildering mass of fruit blossom -- apple , plum , pear , cherry ; and as we drove by I could see the green grass under the trees spangled with the fallen petals .
+There	O
+was	O
+everywhere	O
+a	O
+bewildering	O
+mass	O
+of	O
+fruit	O
+blossom	O
+--	O
+apple	O
+,	O
+plum	O
+,	O
+pear	O
+,	O
+cherry	O
+;	O
+and	O
+as	O
+we	O
+drove	O
+by	O
+I	O
+could	O
+see	O
+the	O
+green	O
+grass	O
+under	O
+the	O
+trees	O
+spangled	O
+with	O
+the	O
+fallen	O
+petals	O
+.	O
+
+# id = conivel-dracula-000088
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In and out amongst these green hills of what they call here the ` Mittel Land ' ran the road , losing itself as it swept round the grassy curve , or was shut out by the straggling ends of pine woods , which here and there ran down the hillsides like tongues of flame .
+In	O
+and	O
+out	O
+amongst	O
+these	O
+green	O
+hills	O
+of	O
+what	O
+they	O
+call	O
+here	O
+the	O
+`	O
+Mittel	B-LOCATION
+Land	I-LOCATION
+'	O
+ran	O
+the	O
+road	O
+,	O
+losing	O
+itself	O
+as	O
+it	O
+swept	O
+round	O
+the	O
+grassy	O
+curve	O
+,	O
+or	O
+was	O
+shut	O
+out	O
+by	O
+the	O
+straggling	O
+ends	O
+of	O
+pine	O
+woods	O
+,	O
+which	O
+here	O
+and	O
+there	O
+ran	O
+down	O
+the	O
+hillsides	O
+like	O
+tongues	O
+of	O
+flame	O
+.	O
+
+# id = conivel-dracula-000089
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The road was rugged , but still we seemed to fly over it with a feverish haste .
+The	O
+road	O
+was	O
+rugged	O
+,	O
+but	O
+still	O
+we	O
+seemed	O
+to	O
+fly	O
+over	O
+it	O
+with	O
+a	O
+feverish	O
+haste	O
+.	O
+
+# id = conivel-dracula-000090
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I could not understand then what the haste meant , but the driver was evidently bent on losing no time in reaching Borgo Prund .
+I	O
+could	O
+not	O
+understand	O
+then	O
+what	O
+the	O
+haste	O
+meant	O
+,	O
+but	O
+the	O
+driver	O
+was	O
+evidently	O
+bent	O
+on	O
+losing	O
+no	O
+time	O
+in	O
+reaching	O
+Borgo	B-LOCATION
+Prund	I-LOCATION
+.	O
+
+# id = conivel-dracula-000091
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was told that this road is in summertime excellent , but that it had not yet been put in order after the winter snows .
+I	O
+was	O
+told	O
+that	O
+this	O
+road	O
+is	O
+in	O
+summertime	O
+excellent	O
+,	O
+but	O
+that	O
+it	O
+had	O
+not	O
+yet	O
+been	O
+put	O
+in	O
+order	O
+after	O
+the	O
+winter	O
+snows	O
+.	O
+
+# id = conivel-dracula-000092
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In this respect it is different from the general run of roads in the Carpathians , for it is an old tradition that they are not to be kept in too good order .
+In	O
+this	O
+respect	O
+it	O
+is	O
+different	O
+from	O
+the	O
+general	O
+run	O
+of	O
+roads	O
+in	O
+the	O
+Carpathians	B-LOCATION
+,	O
+for	O
+it	O
+is	O
+an	O
+old	O
+tradition	O
+that	O
+they	O
+are	O
+not	O
+to	O
+be	O
+kept	O
+in	O
+too	O
+good	O
+order	O
+.	O
+
+# id = conivel-dracula-000093
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Of old the Hospadars would not repair them , lest the Turk should think that they were preparing to bring in foreign troops , and so hasten the war which was always really at loading point .
+Of	O
+old	O
+the	O
+Hospadars	O
+would	O
+not	O
+repair	O
+them	O
+,	O
+lest	O
+the	O
+Turk	O
+should	O
+think	O
+that	O
+they	O
+were	O
+preparing	O
+to	O
+bring	O
+in	O
+foreign	O
+troops	O
+,	O
+and	O
+so	O
+hasten	O
+the	O
+war	O
+which	O
+was	O
+always	O
+really	O
+at	O
+loading	O
+point	O
+.	O
+
+# id = conivel-dracula-000094
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Beyond the green swelling hills of the Mittel Land rose mighty slopes of forest up to the lofty steeps of the Carpathians themselves .
+Beyond	O
+the	O
+green	O
+swelling	O
+hills	O
+of	O
+the	O
+Mittel	B-LOCATION
+Land	I-LOCATION
+rose	O
+mighty	O
+slopes	O
+of	O
+forest	O
+up	O
+to	O
+the	O
+lofty	O
+steeps	O
+of	O
+the	O
+Carpathians	B-LOCATION
+themselves	O
+.	O
+
+# id = conivel-dracula-000095
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Right and left of us they towered , with the afternoon sun falling full upon them and bringing out all the glorious colours of this beautiful range , deep blue and purple in the shadows of the peaks , green and brown where grass and rock mingled , and an endless perspective of jagged rock and pointed crags , till these were themselves lost in the distance , where the snowy peaks rose grandly .
+Right	O
+and	O
+left	O
+of	O
+us	O
+they	O
+towered	O
+,	O
+with	O
+the	O
+afternoon	O
+sun	O
+falling	O
+full	O
+upon	O
+them	O
+and	O
+bringing	O
+out	O
+all	O
+the	O
+glorious	O
+colours	O
+of	O
+this	O
+beautiful	O
+range	O
+,	O
+deep	O
+blue	O
+and	O
+purple	O
+in	O
+the	O
+shadows	O
+of	O
+the	O
+peaks	O
+,	O
+green	O
+and	O
+brown	O
+where	O
+grass	O
+and	O
+rock	O
+mingled	O
+,	O
+and	O
+an	O
+endless	O
+perspective	O
+of	O
+jagged	O
+rock	O
+and	O
+pointed	O
+crags	O
+,	O
+till	O
+these	O
+were	O
+themselves	O
+lost	O
+in	O
+the	O
+distance	O
+,	O
+where	O
+the	O
+snowy	O
+peaks	O
+rose	O
+grandly	O
+.	O
+
+# id = conivel-dracula-000096
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Here and there seemed mighty rifts in the mountains , through which , as the sun began to sink , we saw now and again the white gleam of falling water .
+Here	O
+and	O
+there	O
+seemed	O
+mighty	O
+rifts	O
+in	O
+the	O
+mountains	O
+,	O
+through	O
+which	O
+,	O
+as	O
+the	O
+sun	O
+began	O
+to	O
+sink	O
+,	O
+we	O
+saw	O
+now	O
+and	O
+again	O
+the	O
+white	O
+gleam	O
+of	O
+falling	O
+water	O
+.	O
+
+# id = conivel-dracula-000097
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One of my companions touched my arm as we swept round the base of a hill and opened up the lofty , snow-covered peak of a mountain , which seemed , as we wound on our serpentine way , to be right before us : -- `` Look !
+One	O
+of	O
+my	O
+companions	O
+touched	O
+my	O
+arm	O
+as	O
+we	O
+swept	O
+round	O
+the	O
+base	O
+of	O
+a	O
+hill	O
+and	O
+opened	O
+up	O
+the	O
+lofty	O
+,	O
+snow-covered	O
+peak	O
+of	O
+a	O
+mountain	O
+,	O
+which	O
+seemed	O
+,	O
+as	O
+we	O
+wound	O
+on	O
+our	O
+serpentine	O
+way	O
+,	O
+to	O
+be	O
+right	O
+before	O
+us	O
+:	O
+--	O
+``	O
+Look	O
+!	O
+
+# id = conivel-dracula-000098
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Isten szek ! ''
+Isten	O
+szek	O
+!	O
+''	O
+
+# id = conivel-dracula-000099
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- `` God 's seat ! ''
+--	O
+``	O
+God	B-CHARACTER
+'s	O
+seat	O
+!	O
+''	O
+
+# id = conivel-dracula-000100
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- and he crossed himself reverently .
+--	O
+and	O
+he	O
+crossed	O
+himself	O
+reverently	O
+.	O
+
+# id = conivel-dracula-000101
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As we wound on our endless way , and the sun sank lower and lower behind us , the shadows of the evening began to creep round us .
+As	O
+we	O
+wound	O
+on	O
+our	O
+endless	O
+way	O
+,	O
+and	O
+the	O
+sun	O
+sank	O
+lower	O
+and	O
+lower	O
+behind	O
+us	O
+,	O
+the	O
+shadows	O
+of	O
+the	O
+evening	O
+began	O
+to	O
+creep	O
+round	O
+us	O
+.	O
+
+# id = conivel-dracula-000102
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This was emphasised by the fact that the snowy mountain-top still held the sunset , and seemed to glow out with a delicate cool pink .
+This	O
+was	O
+emphasised	O
+by	O
+the	O
+fact	O
+that	O
+the	O
+snowy	O
+mountain-top	O
+still	O
+held	O
+the	O
+sunset	O
+,	O
+and	O
+seemed	O
+to	O
+glow	O
+out	O
+with	O
+a	O
+delicate	O
+cool	O
+pink	O
+.	O
+
+# id = conivel-dracula-000103
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Here and there we passed Cszeks and Slovaks , all in picturesque attire , but I noticed that goitre was painfully prevalent .
+Here	O
+and	O
+there	O
+we	O
+passed	O
+Cszeks	O
+and	O
+Slovaks	O
+,	O
+all	O
+in	O
+picturesque	O
+attire	O
+,	O
+but	O
+I	O
+noticed	O
+that	O
+goitre	O
+was	O
+painfully	O
+prevalent	O
+.	O
+
+# id = conivel-dracula-000104
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = By the roadside were many crosses , and as we swept by , my companions all crossed themselves .
+By	O
+the	O
+roadside	O
+were	O
+many	O
+crosses	O
+,	O
+and	O
+as	O
+we	O
+swept	O
+by	O
+,	O
+my	O
+companions	O
+all	O
+crossed	O
+themselves	O
+.	O
+
+# id = conivel-dracula-000105
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Here and there was a peasant man or woman kneeling before a shrine , who did not even turn round as we approached , but seemed in the self-surrender of devotion to have neither eyes nor ears for the outer world .
+Here	O
+and	O
+there	O
+was	O
+a	O
+peasant	O
+man	O
+or	O
+woman	O
+kneeling	O
+before	O
+a	O
+shrine	O
+,	O
+who	O
+did	O
+not	O
+even	O
+turn	O
+round	O
+as	O
+we	O
+approached	O
+,	O
+but	O
+seemed	O
+in	O
+the	O
+self-surrender	O
+of	O
+devotion	O
+to	O
+have	O
+neither	O
+eyes	O
+nor	O
+ears	O
+for	O
+the	O
+outer	O
+world	O
+.	O
+
+# id = conivel-dracula-000106
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There were many things new to me : for instance , hay-ricks in the trees , and here and there very beautiful masses of weeping birch , their white stems shining like silver through the delicate green of the leaves .
+There	O
+were	O
+many	O
+things	O
+new	O
+to	O
+me	O
+:	O
+for	O
+instance	O
+,	O
+hay-ricks	O
+in	O
+the	O
+trees	O
+,	O
+and	O
+here	O
+and	O
+there	O
+very	O
+beautiful	O
+masses	O
+of	O
+weeping	O
+birch	O
+,	O
+their	O
+white	O
+stems	O
+shining	O
+like	O
+silver	O
+through	O
+the	O
+delicate	O
+green	O
+of	O
+the	O
+leaves	O
+.	O
+
+# id = conivel-dracula-000107
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now and again we passed a leiter-wagon -- the ordinary peasant 's cart -- with its long , snake-like vertebra , calculated to suit the inequalities of the road .
+Now	O
+and	O
+again	O
+we	O
+passed	O
+a	O
+leiter-wagon	O
+--	O
+the	O
+ordinary	O
+peasant	O
+'s	O
+cart	O
+--	O
+with	O
+its	O
+long	O
+,	O
+snake-like	O
+vertebra	O
+,	O
+calculated	O
+to	O
+suit	O
+the	O
+inequalities	O
+of	O
+the	O
+road	O
+.	O
+
+# id = conivel-dracula-000108
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = On this were sure to be seated quite a group of home-coming peasants , the Cszeks with their white , and the Slovaks with their coloured , sheepskins , the latter carrying lance-fashion their long staves , with axe at end .
+On	O
+this	O
+were	O
+sure	O
+to	O
+be	O
+seated	O
+quite	O
+a	O
+group	O
+of	O
+home-coming	O
+peasants	O
+,	O
+the	O
+Cszeks	O
+with	O
+their	O
+white	O
+,	O
+and	O
+the	O
+Slovaks	O
+with	O
+their	O
+coloured	O
+,	O
+sheepskins	O
+,	O
+the	O
+latter	O
+carrying	O
+lance-fashion	O
+their	O
+long	O
+staves	O
+,	O
+with	O
+axe	O
+at	O
+end	O
+.	O
+
+# id = conivel-dracula-000109
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As the evening fell it began to get very cold , and the growing twilight seemed to merge into one dark mistiness the gloom of the trees , oak , beech , and pine , though in the valleys which ran deep between the spurs of the hills , as we ascended through the Pass , the dark firs stood out here and there against the background of late-lying snow .
+As	O
+the	O
+evening	O
+fell	O
+it	O
+began	O
+to	O
+get	O
+very	O
+cold	O
+,	O
+and	O
+the	O
+growing	O
+twilight	O
+seemed	O
+to	O
+merge	O
+into	O
+one	O
+dark	O
+mistiness	O
+the	O
+gloom	O
+of	O
+the	O
+trees	O
+,	O
+oak	O
+,	O
+beech	O
+,	O
+and	O
+pine	O
+,	O
+though	O
+in	O
+the	O
+valleys	O
+which	O
+ran	O
+deep	O
+between	O
+the	O
+spurs	O
+of	O
+the	O
+hills	O
+,	O
+as	O
+we	O
+ascended	O
+through	O
+the	O
+Pass	B-LOCATION
+,	O
+the	O
+dark	O
+firs	O
+stood	O
+out	O
+here	O
+and	O
+there	O
+against	O
+the	O
+background	O
+of	O
+late-lying	O
+snow	O
+.	O
+
+# id = conivel-dracula-000110
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Sometimes , as the road was cut through the pine woods that seemed in the darkness to be closing down upon us , great masses of greyness , which here and there bestrewed the trees , produced a peculiarly weird and solemn effect , which carried on the thoughts and grim fancies engendered earlier in the evening , when the falling sunset threw into strange relief the ghost-like clouds which amongst the Carpathians seem to wind ceaselessly through the valleys .
+Sometimes	O
+,	O
+as	O
+the	O
+road	O
+was	O
+cut	O
+through	O
+the	O
+pine	O
+woods	O
+that	O
+seemed	O
+in	O
+the	O
+darkness	O
+to	O
+be	O
+closing	O
+down	O
+upon	O
+us	O
+,	O
+great	O
+masses	O
+of	O
+greyness	O
+,	O
+which	O
+here	O
+and	O
+there	O
+bestrewed	O
+the	O
+trees	O
+,	O
+produced	O
+a	O
+peculiarly	O
+weird	O
+and	O
+solemn	O
+effect	O
+,	O
+which	O
+carried	O
+on	O
+the	O
+thoughts	O
+and	O
+grim	O
+fancies	O
+engendered	O
+earlier	O
+in	O
+the	O
+evening	O
+,	O
+when	O
+the	O
+falling	O
+sunset	O
+threw	O
+into	O
+strange	O
+relief	O
+the	O
+ghost-like	O
+clouds	O
+which	O
+amongst	O
+the	O
+Carpathians	B-LOCATION
+seem	O
+to	O
+wind	O
+ceaselessly	O
+through	O
+the	O
+valleys	O
+.	O
+
+# id = conivel-dracula-000111
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Sometimes the hills were so steep that , despite our driver 's haste , the horses could only go slowly .
+Sometimes	O
+the	O
+hills	O
+were	O
+so	O
+steep	O
+that	O
+,	O
+despite	O
+our	O
+driver	O
+'s	O
+haste	O
+,	O
+the	O
+horses	O
+could	O
+only	O
+go	O
+slowly	O
+.	O
+
+# id = conivel-dracula-000112
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I wished to get down and walk up them , as we do at home , but the driver would not hear of it .
+I	O
+wished	O
+to	O
+get	O
+down	O
+and	O
+walk	O
+up	O
+them	O
+,	O
+as	O
+we	O
+do	O
+at	O
+home	O
+,	O
+but	O
+the	O
+driver	O
+would	O
+not	O
+hear	O
+of	O
+it	O
+.	O
+
+# id = conivel-dracula-000113
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , no , ''
+``	O
+No	O
+,	O
+no	O
+,	O
+''	O
+
+# id = conivel-dracula-000114
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said ; `` you must not walk here ; the dogs are too fierce ''
+he	O
+said	O
+;	O
+``	O
+you	O
+must	O
+not	O
+walk	O
+here	O
+;	O
+the	O
+dogs	O
+are	O
+too	O
+fierce	O
+''	O
+
+# id = conivel-dracula-000115
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ; and then he added , with what he evidently meant for grim pleasantry -- for he looked round to catch the approving smile of the rest -- `` and you may have enough of such matters before you go to sleep . ''
+;	O
+and	O
+then	O
+he	O
+added	O
+,	O
+with	O
+what	O
+he	O
+evidently	O
+meant	O
+for	O
+grim	O
+pleasantry	O
+--	O
+for	O
+he	O
+looked	O
+round	O
+to	O
+catch	O
+the	O
+approving	O
+smile	O
+of	O
+the	O
+rest	O
+--	O
+``	O
+and	O
+you	O
+may	O
+have	O
+enough	O
+of	O
+such	O
+matters	O
+before	O
+you	O
+go	O
+to	O
+sleep	O
+.	O
+''	O
+
+# id = conivel-dracula-000116
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The only stop he would make was a moment 's pause to light his lamps .
+The	O
+only	O
+stop	O
+he	O
+would	O
+make	O
+was	O
+a	O
+moment	O
+'s	O
+pause	O
+to	O
+light	O
+his	O
+lamps	O
+.	O
+
+# id = conivel-dracula-000117
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When it grew dark there seemed to be some excitement amongst the passengers , and they kept speaking to him , one after the other , as though urging him to further speed .
+When	O
+it	O
+grew	O
+dark	O
+there	O
+seemed	O
+to	O
+be	O
+some	O
+excitement	O
+amongst	O
+the	O
+passengers	O
+,	O
+and	O
+they	O
+kept	O
+speaking	O
+to	O
+him	O
+,	O
+one	O
+after	O
+the	O
+other	O
+,	O
+as	O
+though	O
+urging	O
+him	O
+to	O
+further	O
+speed	O
+.	O
+
+# id = conivel-dracula-000118
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He lashed the horses unmercifully with his long whip , and with wild cries of encouragement urged them on to further exertions .
+He	O
+lashed	O
+the	O
+horses	O
+unmercifully	O
+with	O
+his	O
+long	O
+whip	O
+,	O
+and	O
+with	O
+wild	O
+cries	O
+of	O
+encouragement	O
+urged	O
+them	O
+on	O
+to	O
+further	O
+exertions	O
+.	O
+
+# id = conivel-dracula-000119
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then through the darkness I could see a sort of patch of grey light ahead of us , as though there were a cleft in the hills .
+Then	O
+through	O
+the	O
+darkness	O
+I	O
+could	O
+see	O
+a	O
+sort	O
+of	O
+patch	O
+of	O
+grey	O
+light	O
+ahead	O
+of	O
+us	O
+,	O
+as	O
+though	O
+there	O
+were	O
+a	O
+cleft	O
+in	O
+the	O
+hills	O
+.	O
+
+# id = conivel-dracula-000120
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The excitement of the passengers grew greater ; the crazy coach rocked on its great leather springs , and swayed like a boat tossed on a stormy sea .
+The	O
+excitement	O
+of	O
+the	O
+passengers	O
+grew	O
+greater	O
+;	O
+the	O
+crazy	O
+coach	O
+rocked	O
+on	O
+its	O
+great	O
+leather	O
+springs	O
+,	O
+and	O
+swayed	O
+like	O
+a	O
+boat	O
+tossed	O
+on	O
+a	O
+stormy	O
+sea	O
+.	O
+
+# id = conivel-dracula-000121
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I had to hold on .
+I	O
+had	O
+to	O
+hold	O
+on	O
+.	O
+
+# id = conivel-dracula-000122
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The road grew more level , and we appeared to fly along .
+The	O
+road	O
+grew	O
+more	O
+level	O
+,	O
+and	O
+we	O
+appeared	O
+to	O
+fly	O
+along	O
+.	O
+
+# id = conivel-dracula-000123
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then the mountains seemed to come nearer to us on each side and to frown down upon us ; we were entering on the Borgo Pass .
+Then	O
+the	O
+mountains	O
+seemed	O
+to	O
+come	O
+nearer	O
+to	O
+us	O
+on	O
+each	O
+side	O
+and	O
+to	O
+frown	O
+down	O
+upon	O
+us	O
+;	O
+we	O
+were	O
+entering	O
+on	O
+the	O
+Borgo	B-LOCATION
+Pass	I-LOCATION
+.	O
+
+# id = conivel-dracula-000124
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One by one several of the passengers offered me gifts , which they pressed upon me with an earnestness which would take no denial ; these were certainly of an odd and varied kind , but each was given in simple good faith , with a kindly word , and a blessing , and that strange mixture of fear-meaning movements which I had seen outside the hotel at Bistritz -- the sign of the cross and the guard against the evil eye .
+One	O
+by	O
+one	O
+several	O
+of	O
+the	O
+passengers	O
+offered	O
+me	O
+gifts	O
+,	O
+which	O
+they	O
+pressed	O
+upon	O
+me	O
+with	O
+an	O
+earnestness	O
+which	O
+would	O
+take	O
+no	O
+denial	O
+;	O
+these	O
+were	O
+certainly	O
+of	O
+an	O
+odd	O
+and	O
+varied	O
+kind	O
+,	O
+but	O
+each	O
+was	O
+given	O
+in	O
+simple	O
+good	O
+faith	O
+,	O
+with	O
+a	O
+kindly	O
+word	O
+,	O
+and	O
+a	O
+blessing	O
+,	O
+and	O
+that	O
+strange	O
+mixture	O
+of	O
+fear-meaning	O
+movements	O
+which	O
+I	O
+had	O
+seen	O
+outside	O
+the	O
+hotel	O
+at	O
+Bistritz	B-LOCATION
+--	O
+the	O
+sign	O
+of	O
+the	O
+cross	O
+and	O
+the	O
+guard	O
+against	O
+the	O
+evil	O
+eye	O
+.	O
+
+# id = conivel-dracula-000125
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then , as we flew along , the driver leaned forward , and on each side the passengers , craning over the edge of the coach , peered eagerly into the darkness .
+Then	O
+,	O
+as	O
+we	O
+flew	O
+along	O
+,	O
+the	O
+driver	O
+leaned	O
+forward	O
+,	O
+and	O
+on	O
+each	O
+side	O
+the	O
+passengers	O
+,	O
+craning	O
+over	O
+the	O
+edge	O
+of	O
+the	O
+coach	O
+,	O
+peered	O
+eagerly	O
+into	O
+the	O
+darkness	O
+.	O
+
+# id = conivel-dracula-000126
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was evident that something very exciting was either happening or expected , but though I asked each passenger , no one would give me the slightest explanation .
+It	O
+was	O
+evident	O
+that	O
+something	O
+very	O
+exciting	O
+was	O
+either	O
+happening	O
+or	O
+expected	O
+,	O
+but	O
+though	O
+I	O
+asked	O
+each	O
+passenger	O
+,	O
+no	O
+one	O
+would	O
+give	O
+me	O
+the	O
+slightest	O
+explanation	O
+.	O
+
+# id = conivel-dracula-000127
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This state of excitement kept on for some little time ; and at last we saw before us the Pass opening out on the eastern side .
+This	O
+state	O
+of	O
+excitement	O
+kept	O
+on	O
+for	O
+some	O
+little	O
+time	O
+;	O
+and	O
+at	O
+last	O
+we	O
+saw	O
+before	O
+us	O
+the	O
+Pass	B-LOCATION
+opening	O
+out	O
+on	O
+the	O
+eastern	O
+side	O
+.	O
+
+# id = conivel-dracula-000128
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There were dark , rolling clouds overhead , and in the air the heavy , oppressive sense of thunder .
+There	O
+were	O
+dark	O
+,	O
+rolling	O
+clouds	O
+overhead	O
+,	O
+and	O
+in	O
+the	O
+air	O
+the	O
+heavy	O
+,	O
+oppressive	O
+sense	O
+of	O
+thunder	O
+.	O
+
+# id = conivel-dracula-000129
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It seemed as though the mountain range had separated two atmospheres , and that now we had got into the thunderous one .
+It	O
+seemed	O
+as	O
+though	O
+the	O
+mountain	O
+range	O
+had	O
+separated	O
+two	O
+atmospheres	O
+,	O
+and	O
+that	O
+now	O
+we	O
+had	O
+got	O
+into	O
+the	O
+thunderous	O
+one	O
+.	O
+
+# id = conivel-dracula-000130
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was now myself looking out for the conveyance which was to take me to the Count .
+I	O
+was	O
+now	O
+myself	O
+looking	O
+out	O
+for	O
+the	O
+conveyance	O
+which	O
+was	O
+to	O
+take	O
+me	O
+to	O
+the	O
+Count	B-CHARACTER
+.	O
+
+# id = conivel-dracula-000131
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Each moment I expected to see the glare of lamps through the blackness ; but all was dark .
+Each	O
+moment	O
+I	O
+expected	O
+to	O
+see	O
+the	O
+glare	O
+of	O
+lamps	O
+through	O
+the	O
+blackness	O
+;	O
+but	O
+all	O
+was	O
+dark	O
+.	O
+
+# id = conivel-dracula-000132
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The only light was the flickering rays of our own lamps , in which the steam from our hard-driven horses rose in a white cloud .
+The	O
+only	O
+light	O
+was	O
+the	O
+flickering	O
+rays	O
+of	O
+our	O
+own	O
+lamps	O
+,	O
+in	O
+which	O
+the	O
+steam	O
+from	O
+our	O
+hard-driven	O
+horses	O
+rose	O
+in	O
+a	O
+white	O
+cloud	O
+.	O
+
+# id = conivel-dracula-000133
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We could see now the sandy road lying white before us , but there was on it no sign of a vehicle .
+We	O
+could	O
+see	O
+now	O
+the	O
+sandy	O
+road	O
+lying	O
+white	O
+before	O
+us	O
+,	O
+but	O
+there	O
+was	O
+on	O
+it	O
+no	O
+sign	O
+of	O
+a	O
+vehicle	O
+.	O
+
+# id = conivel-dracula-000134
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The passengers drew back with a sigh of gladness , which seemed to mock my own disappointment .
+The	O
+passengers	O
+drew	O
+back	O
+with	O
+a	O
+sigh	O
+of	O
+gladness	O
+,	O
+which	O
+seemed	O
+to	O
+mock	O
+my	O
+own	O
+disappointment	O
+.	O
+
+# id = conivel-dracula-000135
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was already thinking what I had best do , when the driver , looking at his watch , said to the others something which I could hardly hear , it was spoken so quietly and in so low a tone ; I thought it was ` An hour less than the time .
+I	O
+was	O
+already	O
+thinking	O
+what	O
+I	O
+had	O
+best	O
+do	O
+,	O
+when	O
+the	O
+driver	O
+,	O
+looking	O
+at	O
+his	O
+watch	O
+,	O
+said	O
+to	O
+the	O
+others	O
+something	O
+which	O
+I	O
+could	O
+hardly	O
+hear	O
+,	O
+it	O
+was	O
+spoken	O
+so	O
+quietly	O
+and	O
+in	O
+so	O
+low	O
+a	O
+tone	O
+;	O
+I	O
+thought	O
+it	O
+was	O
+`	O
+An	O
+hour	O
+less	O
+than	O
+the	O
+time	O
+.	O
+
+# id = conivel-dracula-000136
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' Then turning to me , he said in German worse than my own : -- `` There is no carriage here .
+'	O
+Then	O
+turning	O
+to	O
+me	O
+,	O
+he	O
+said	O
+in	O
+German	O
+worse	O
+than	O
+my	O
+own	O
+:	O
+--	O
+``	O
+There	O
+is	O
+no	O
+carriage	O
+here	O
+.	O
+
+# id = conivel-dracula-000137
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Herr is not expected after all .
+The	O
+Herr	O
+is	O
+not	O
+expected	O
+after	O
+all	O
+.	O
+
+# id = conivel-dracula-000138
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He will now come on to Bukovina , and return to-morrow or the next day ; better the next day . ''
+He	O
+will	O
+now	O
+come	O
+on	O
+to	O
+Bukovina	B-LOCATION
+,	O
+and	O
+return	O
+to-morrow	O
+or	O
+the	O
+next	O
+day	O
+;	O
+better	O
+the	O
+next	O
+day	O
+.	O
+''	O
+
+# id = conivel-dracula-000139
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Whilst he was speaking the horses began to neigh and snort and plunge wildly , so that the driver had to hold them up .
+Whilst	O
+he	O
+was	O
+speaking	O
+the	O
+horses	O
+began	O
+to	O
+neigh	O
+and	O
+snort	O
+and	O
+plunge	O
+wildly	O
+,	O
+so	O
+that	O
+the	O
+driver	O
+had	O
+to	O
+hold	O
+them	O
+up	O
+.	O
+
+# id = conivel-dracula-000140
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then , amongst a chorus of screams from the peasants and a universal crossing of themselves , a calÃ¨che , with four horses , drove up behind us , overtook us , and drew up beside the coach .
+Then	O
+,	O
+amongst	O
+a	O
+chorus	O
+of	O
+screams	O
+from	O
+the	O
+peasants	O
+and	O
+a	O
+universal	O
+crossing	O
+of	O
+themselves	O
+,	O
+a	O
+calÃ¨che	O
+,	O
+with	O
+four	O
+horses	O
+,	O
+drove	O
+up	O
+behind	O
+us	O
+,	O
+overtook	O
+us	O
+,	O
+and	O
+drew	O
+up	O
+beside	O
+the	O
+coach	O
+.	O
+
+# id = conivel-dracula-000141
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I could see from the flash of our lamps , as the rays fell on them , that the horses were coal-black and splendid animals .
+I	O
+could	O
+see	O
+from	O
+the	O
+flash	O
+of	O
+our	O
+lamps	O
+,	O
+as	O
+the	O
+rays	O
+fell	O
+on	O
+them	O
+,	O
+that	O
+the	O
+horses	O
+were	O
+coal-black	O
+and	O
+splendid	O
+animals	O
+.	O
+
+# id = conivel-dracula-000142
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were driven by a tall man , with a long brown beard and a great black hat , which seemed to hide his face from us .
+They	O
+were	O
+driven	O
+by	O
+a	O
+tall	O
+man	O
+,	O
+with	O
+a	O
+long	O
+brown	O
+beard	O
+and	O
+a	O
+great	O
+black	O
+hat	O
+,	O
+which	O
+seemed	O
+to	O
+hide	O
+his	O
+face	O
+from	O
+us	O
+.	O
+
+# id = conivel-dracula-000143
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I could only see the gleam of a pair of very bright eyes , which seemed red in the lamplight , as he turned to us .
+I	O
+could	O
+only	O
+see	O
+the	O
+gleam	O
+of	O
+a	O
+pair	O
+of	O
+very	O
+bright	O
+eyes	O
+,	O
+which	O
+seemed	O
+red	O
+in	O
+the	O
+lamplight	O
+,	O
+as	O
+he	O
+turned	O
+to	O
+us	O
+.	O
+
+# id = conivel-dracula-000144
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He said to the driver : -- `` You are early to-night , my friend . ''
+He	O
+said	O
+to	O
+the	O
+driver	O
+:	O
+--	O
+``	O
+You	O
+are	O
+early	O
+to-night	O
+,	O
+my	O
+friend	O
+.	O
+''	O
+
+# id = conivel-dracula-000145
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The man stammered in reply : -- `` The English Herr was in a hurry , ''
+The	O
+man	O
+stammered	O
+in	O
+reply	O
+:	O
+--	O
+``	O
+The	O
+English	O
+Herr	O
+was	O
+in	O
+a	O
+hurry	O
+,	O
+''	O
+
+# id = conivel-dracula-000146
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = to which the stranger replied : -- `` That is why , I suppose , you wished him to go on to Bukovina .
+to	O
+which	O
+the	O
+stranger	O
+replied	O
+:	O
+--	O
+``	O
+That	O
+is	O
+why	O
+,	O
+I	O
+suppose	O
+,	O
+you	O
+wished	O
+him	O
+to	O
+go	O
+on	O
+to	O
+Bukovina	B-LOCATION
+.	O
+
+# id = conivel-dracula-000147
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You can not deceive me , my friend ; I know too much , and my horses are swift . ''
+You	O
+can	O
+not	O
+deceive	O
+me	O
+,	O
+my	O
+friend	O
+;	O
+I	O
+know	O
+too	O
+much	O
+,	O
+and	O
+my	O
+horses	O
+are	O
+swift	O
+.	O
+''	O
+
+# id = conivel-dracula-000148
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As he spoke he smiled , and the lamplight fell on a hard-looking mouth , with very red lips and sharp-looking teeth , as white as ivory .
+As	O
+he	O
+spoke	O
+he	O
+smiled	O
+,	O
+and	O
+the	O
+lamplight	O
+fell	O
+on	O
+a	O
+hard-looking	O
+mouth	O
+,	O
+with	O
+very	O
+red	O
+lips	O
+and	O
+sharp-looking	O
+teeth	O
+,	O
+as	O
+white	O
+as	O
+ivory	O
+.	O
+
+# id = conivel-dracula-000149
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One of my companions whispered to another the line from Burger 's ` Lenore ' : -- `` Denn die Todten reiten schnell ''
+One	O
+of	O
+my	O
+companions	O
+whispered	O
+to	O
+another	O
+the	O
+line	O
+from	O
+Burger	B-CHARACTER
+'s	O
+`	O
+Lenore	O
+'	O
+:	O
+--	O
+``	O
+Denn	O
+die	O
+Todten	O
+reiten	O
+schnell	O
+''	O
+
+# id = conivel-dracula-000150
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- ( ` For the dead travel fast .
+--	O
+(	O
+`	O
+For	O
+the	O
+dead	O
+travel	O
+fast	O
+.	O
+
+# id = conivel-dracula-000151
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' ) The strange driver evidently heard the words , for he looked up with a gleaming smile .
+'	O
+)	O
+The	O
+strange	O
+driver	O
+evidently	O
+heard	O
+the	O
+words	O
+,	O
+for	O
+he	O
+looked	O
+up	O
+with	O
+a	O
+gleaming	O
+smile	O
+.	O
+
+# id = conivel-dracula-000152
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The passenger turned his face away , at the same time putting out his two fingers and crossing himself .
+The	O
+passenger	O
+turned	O
+his	O
+face	O
+away	O
+,	O
+at	O
+the	O
+same	O
+time	O
+putting	O
+out	O
+his	O
+two	O
+fingers	O
+and	O
+crossing	O
+himself	O
+.	O
+
+# id = conivel-dracula-000153
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Give me the Herr 's luggage , ''
+``	O
+Give	O
+me	O
+the	O
+Herr	B-CHARACTER
+'s	O
+luggage	O
+,	O
+''	O
+
+# id = conivel-dracula-000154
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the driver ; and with exceeding alacrity my bags were handed out and put in the calÃ¨che .
+said	O
+the	O
+driver	O
+;	O
+and	O
+with	O
+exceeding	O
+alacrity	O
+my	O
+bags	O
+were	O
+handed	O
+out	O
+and	O
+put	O
+in	O
+the	O
+calÃ¨che	O
+.	O
+
+# id = conivel-dracula-000155
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then I descended from the side of the coach , as the calÃ¨che was close alongside , the driver helping me with a hand which caught my arm in a grip of steel ; his strength must have been prodigious .
+Then	O
+I	O
+descended	O
+from	O
+the	O
+side	O
+of	O
+the	O
+coach	O
+,	O
+as	O
+the	O
+calÃ¨che	O
+was	O
+close	O
+alongside	O
+,	O
+the	O
+driver	O
+helping	O
+me	O
+with	O
+a	O
+hand	O
+which	O
+caught	O
+my	O
+arm	O
+in	O
+a	O
+grip	O
+of	O
+steel	O
+;	O
+his	O
+strength	O
+must	O
+have	O
+been	O
+prodigious	O
+.	O
+
+# id = conivel-dracula-000156
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Without a word he shook his reins , the horses turned , and we swept into the darkness of the Pass .
+Without	O
+a	O
+word	O
+he	O
+shook	O
+his	O
+reins	O
+,	O
+the	O
+horses	O
+turned	O
+,	O
+and	O
+we	O
+swept	O
+into	O
+the	O
+darkness	O
+of	O
+the	O
+Pass	B-LOCATION
+.	O
+
+# id = conivel-dracula-000157
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As I looked back I saw the steam from the horses of the coach by the light of the lamps , and projected against it the figures of my late companions crossing themselves .
+As	O
+I	O
+looked	O
+back	O
+I	O
+saw	O
+the	O
+steam	O
+from	O
+the	O
+horses	O
+of	O
+the	O
+coach	O
+by	O
+the	O
+light	O
+of	O
+the	O
+lamps	O
+,	O
+and	O
+projected	O
+against	O
+it	O
+the	O
+figures	O
+of	O
+my	O
+late	O
+companions	O
+crossing	O
+themselves	O
+.	O
+
+# id = conivel-dracula-000158
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then the driver cracked his whip and called to his horses , and off they swept on their way to Bukovina .
+Then	O
+the	O
+driver	O
+cracked	O
+his	O
+whip	O
+and	O
+called	O
+to	O
+his	O
+horses	O
+,	O
+and	O
+off	O
+they	O
+swept	O
+on	O
+their	O
+way	O
+to	O
+Bukovina	B-LOCATION
+.	O
+
+# id = conivel-dracula-000159
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As they sank into the darkness I felt a strange chill , and a lonely feeling came over me ; but a cloak was thrown over my shoulders , and a rug across my knees , and the driver said in excellent German : -- `` The night is chill , mein Herr , and my master the Count bade me take all care of you .
+As	O
+they	O
+sank	O
+into	O
+the	O
+darkness	O
+I	O
+felt	O
+a	O
+strange	O
+chill	O
+,	O
+and	O
+a	O
+lonely	O
+feeling	O
+came	O
+over	O
+me	O
+;	O
+but	O
+a	O
+cloak	O
+was	O
+thrown	O
+over	O
+my	O
+shoulders	O
+,	O
+and	O
+a	O
+rug	O
+across	O
+my	O
+knees	O
+,	O
+and	O
+the	O
+driver	O
+said	O
+in	O
+excellent	O
+German	O
+:	O
+--	O
+``	O
+The	O
+night	O
+is	O
+chill	O
+,	O
+mein	O
+Herr	O
+,	O
+and	O
+my	O
+master	O
+the	O
+Count	B-CHARACTER
+bade	O
+me	O
+take	O
+all	O
+care	O
+of	O
+you	O
+.	O
+
+# id = conivel-dracula-000160
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There is a flask of slivovitz ( the plum brandy of the country ) underneath the seat , if you should require it . ''
+There	O
+is	O
+a	O
+flask	O
+of	O
+slivovitz	O
+(	O
+the	O
+plum	O
+brandy	O
+of	O
+the	O
+country	O
+)	O
+underneath	O
+the	O
+seat	O
+,	O
+if	O
+you	O
+should	O
+require	O
+it	O
+.	O
+''	O
+
+# id = conivel-dracula-000161
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I did not take any , but it was a comfort to know it was there all the same .
+I	O
+did	O
+not	O
+take	O
+any	O
+,	O
+but	O
+it	O
+was	O
+a	O
+comfort	O
+to	O
+know	O
+it	O
+was	O
+there	O
+all	O
+the	O
+same	O
+.	O
+
+# id = conivel-dracula-000162
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I felt a little strangely , and not a little frightened .
+I	O
+felt	O
+a	O
+little	O
+strangely	O
+,	O
+and	O
+not	O
+a	O
+little	O
+frightened	O
+.	O
+
+# id = conivel-dracula-000163
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I think had there been any alternative I should have taken it , instead of prosecuting that unknown night journey .
+I	O
+think	O
+had	O
+there	O
+been	O
+any	O
+alternative	O
+I	O
+should	O
+have	O
+taken	O
+it	O
+,	O
+instead	O
+of	O
+prosecuting	O
+that	O
+unknown	O
+night	O
+journey	O
+.	O
+
+# id = conivel-dracula-000164
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The carriage went at a hard pace straight along , then we made a complete turn and went along another straight road .
+The	O
+carriage	O
+went	O
+at	O
+a	O
+hard	O
+pace	O
+straight	O
+along	O
+,	O
+then	O
+we	O
+made	O
+a	O
+complete	O
+turn	O
+and	O
+went	O
+along	O
+another	O
+straight	O
+road	O
+.	O
+
+# id = conivel-dracula-000165
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It seemed to me that we were simply going over and over the same ground again ; and so I took note of some salient point , and found that this was so .
+It	O
+seemed	O
+to	O
+me	O
+that	O
+we	O
+were	O
+simply	O
+going	O
+over	O
+and	O
+over	O
+the	O
+same	O
+ground	O
+again	O
+;	O
+and	O
+so	O
+I	O
+took	O
+note	O
+of	O
+some	O
+salient	O
+point	O
+,	O
+and	O
+found	O
+that	O
+this	O
+was	O
+so	O
+.	O
+
+# id = conivel-dracula-000166
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I would have liked to have asked the driver what this all meant , but I really feared to do so , for I thought that , placed as I was , any protest would have had no effect in case there had been an intention to delay .
+I	O
+would	O
+have	O
+liked	O
+to	O
+have	O
+asked	O
+the	O
+driver	O
+what	O
+this	O
+all	O
+meant	O
+,	O
+but	O
+I	O
+really	O
+feared	O
+to	O
+do	O
+so	O
+,	O
+for	O
+I	O
+thought	O
+that	O
+,	O
+placed	O
+as	O
+I	O
+was	O
+,	O
+any	O
+protest	O
+would	O
+have	O
+had	O
+no	O
+effect	O
+in	O
+case	O
+there	O
+had	O
+been	O
+an	O
+intention	O
+to	O
+delay	O
+.	O
+
+# id = conivel-dracula-000167
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = By-and-by , however , as I was curious to know how time was passing , I struck a match , and by its flame looked at my watch ; it was within a few minutes of midnight .
+By-and-by	O
+,	O
+however	O
+,	O
+as	O
+I	O
+was	O
+curious	O
+to	O
+know	O
+how	O
+time	O
+was	O
+passing	O
+,	O
+I	O
+struck	O
+a	O
+match	O
+,	O
+and	O
+by	O
+its	O
+flame	O
+looked	O
+at	O
+my	O
+watch	O
+;	O
+it	O
+was	O
+within	O
+a	O
+few	O
+minutes	O
+of	O
+midnight	O
+.	O
+
+# id = conivel-dracula-000168
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This gave me a sort of shock , for I suppose the general superstition about midnight was increased by my recent experiences .
+This	O
+gave	O
+me	O
+a	O
+sort	O
+of	O
+shock	O
+,	O
+for	O
+I	O
+suppose	O
+the	O
+general	O
+superstition	O
+about	O
+midnight	O
+was	O
+increased	O
+by	O
+my	O
+recent	O
+experiences	O
+.	O
+
+# id = conivel-dracula-000169
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I waited with a sick feeling of suspense .
+I	O
+waited	O
+with	O
+a	O
+sick	O
+feeling	O
+of	O
+suspense	O
+.	O
+
+# id = conivel-dracula-000170
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then a dog began to howl somewhere in a farmhouse far down the road -- a long , agonised wailing , as if from fear .
+Then	O
+a	O
+dog	O
+began	O
+to	O
+howl	O
+somewhere	O
+in	O
+a	O
+farmhouse	O
+far	O
+down	O
+the	O
+road	O
+--	O
+a	O
+long	O
+,	O
+agonised	O
+wailing	O
+,	O
+as	O
+if	O
+from	O
+fear	O
+.	O
+
+# id = conivel-dracula-000171
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The sound was taken up by another dog , and then another and another , till , borne on the wind which now sighed softly through the Pass , a wild howling began , which seemed to come from all over the country , as far as the imagination could grasp it through the gloom of the night .
+The	O
+sound	O
+was	O
+taken	O
+up	O
+by	O
+another	O
+dog	O
+,	O
+and	O
+then	O
+another	O
+and	O
+another	O
+,	O
+till	O
+,	O
+borne	O
+on	O
+the	O
+wind	O
+which	O
+now	O
+sighed	O
+softly	O
+through	O
+the	O
+Pass	B-LOCATION
+,	O
+a	O
+wild	O
+howling	O
+began	O
+,	O
+which	O
+seemed	O
+to	O
+come	O
+from	O
+all	O
+over	O
+the	O
+country	O
+,	O
+as	O
+far	O
+as	O
+the	O
+imagination	O
+could	O
+grasp	O
+it	O
+through	O
+the	O
+gloom	O
+of	O
+the	O
+night	O
+.	O
+
+# id = conivel-dracula-000172
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At the first howl the horses began to strain and rear , but the driver spoke to them soothingly , and they quieted down , but shivered and sweated as though after a runaway from sudden fright .
+At	O
+the	O
+first	O
+howl	O
+the	O
+horses	O
+began	O
+to	O
+strain	O
+and	O
+rear	O
+,	O
+but	O
+the	O
+driver	O
+spoke	O
+to	O
+them	O
+soothingly	O
+,	O
+and	O
+they	O
+quieted	O
+down	O
+,	O
+but	O
+shivered	O
+and	O
+sweated	O
+as	O
+though	O
+after	O
+a	O
+runaway	O
+from	O
+sudden	O
+fright	O
+.	O
+
+# id = conivel-dracula-000173
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then , far off in the distance , from the mountains on each side of us began a louder and a sharper howling -- that of wolves -- which affected both the horses and myself in the same way -- for I was minded to jump from the calÃ¨che and run , whilst they reared again and plunged madly , so that the driver had to use all his great strength to keep them from bolting .
+Then	O
+,	O
+far	O
+off	O
+in	O
+the	O
+distance	O
+,	O
+from	O
+the	O
+mountains	O
+on	O
+each	O
+side	O
+of	O
+us	O
+began	O
+a	O
+louder	O
+and	O
+a	O
+sharper	O
+howling	O
+--	O
+that	O
+of	O
+wolves	O
+--	O
+which	O
+affected	O
+both	O
+the	O
+horses	O
+and	O
+myself	O
+in	O
+the	O
+same	O
+way	O
+--	O
+for	O
+I	O
+was	O
+minded	O
+to	O
+jump	O
+from	O
+the	O
+calÃ¨che	O
+and	O
+run	O
+,	O
+whilst	O
+they	O
+reared	O
+again	O
+and	O
+plunged	O
+madly	O
+,	O
+so	O
+that	O
+the	O
+driver	O
+had	O
+to	O
+use	O
+all	O
+his	O
+great	O
+strength	O
+to	O
+keep	O
+them	O
+from	O
+bolting	O
+.	O
+
+# id = conivel-dracula-000174
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In a few minutes , however , my own ears got accustomed to the sound , and the horses so far became quiet that the driver was able to descend and to stand before them .
+In	O
+a	O
+few	O
+minutes	O
+,	O
+however	O
+,	O
+my	O
+own	O
+ears	O
+got	O
+accustomed	O
+to	O
+the	O
+sound	O
+,	O
+and	O
+the	O
+horses	O
+so	O
+far	O
+became	O
+quiet	O
+that	O
+the	O
+driver	O
+was	O
+able	O
+to	O
+descend	O
+and	O
+to	O
+stand	O
+before	O
+them	O
+.	O
+
+# id = conivel-dracula-000175
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He petted and soothed them , and whispered something in their ears , as I have heard of horse-tamers doing , and with extraordinary effect , for under his caresses they became quite manageable again , though they still trembled .
+He	O
+petted	O
+and	O
+soothed	O
+them	O
+,	O
+and	O
+whispered	O
+something	O
+in	O
+their	O
+ears	O
+,	O
+as	O
+I	O
+have	O
+heard	O
+of	O
+horse-tamers	O
+doing	O
+,	O
+and	O
+with	O
+extraordinary	O
+effect	O
+,	O
+for	O
+under	O
+his	O
+caresses	O
+they	O
+became	O
+quite	O
+manageable	O
+again	O
+,	O
+though	O
+they	O
+still	O
+trembled	O
+.	O
+
+# id = conivel-dracula-000176
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The driver again took his seat , and shaking his reins , started off at a great pace .
+The	O
+driver	O
+again	O
+took	O
+his	O
+seat	O
+,	O
+and	O
+shaking	O
+his	O
+reins	O
+,	O
+started	O
+off	O
+at	O
+a	O
+great	O
+pace	O
+.	O
+
+# id = conivel-dracula-000177
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This time , after going to the far side of the Pass , he suddenly turned down a narrow roadway which ran sharply to the right .
+This	O
+time	O
+,	O
+after	O
+going	O
+to	O
+the	O
+far	O
+side	O
+of	O
+the	O
+Pass	B-LOCATION
+,	O
+he	O
+suddenly	O
+turned	O
+down	O
+a	O
+narrow	O
+roadway	O
+which	O
+ran	O
+sharply	O
+to	O
+the	O
+right	O
+.	O
+
+# id = conivel-dracula-000178
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Soon we were hemmed in with trees , which in places arched right over the roadway till we passed as through a tunnel ; and again great frowning rocks guarded us boldly on either side .
+Soon	O
+we	O
+were	O
+hemmed	O
+in	O
+with	O
+trees	O
+,	O
+which	O
+in	O
+places	O
+arched	O
+right	O
+over	O
+the	O
+roadway	O
+till	O
+we	O
+passed	O
+as	O
+through	O
+a	O
+tunnel	O
+;	O
+and	O
+again	O
+great	O
+frowning	O
+rocks	O
+guarded	O
+us	O
+boldly	O
+on	O
+either	O
+side	O
+.	O
+
+# id = conivel-dracula-000179
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Though we were in shelter , we could hear the rising wind , for it moaned and whistled through the rocks , and the branches of the trees crashed together as we swept along .
+Though	O
+we	O
+were	O
+in	O
+shelter	O
+,	O
+we	O
+could	O
+hear	O
+the	O
+rising	O
+wind	O
+,	O
+for	O
+it	O
+moaned	O
+and	O
+whistled	O
+through	O
+the	O
+rocks	O
+,	O
+and	O
+the	O
+branches	O
+of	O
+the	O
+trees	O
+crashed	O
+together	O
+as	O
+we	O
+swept	O
+along	O
+.	O
+
+# id = conivel-dracula-000180
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It grew colder and colder still , and fine , powdery snow began to fall , so that soon we and all around us were covered with a white blanket .
+It	O
+grew	O
+colder	O
+and	O
+colder	O
+still	O
+,	O
+and	O
+fine	O
+,	O
+powdery	O
+snow	O
+began	O
+to	O
+fall	O
+,	O
+so	O
+that	O
+soon	O
+we	O
+and	O
+all	O
+around	O
+us	O
+were	O
+covered	O
+with	O
+a	O
+white	O
+blanket	O
+.	O
+
+# id = conivel-dracula-000181
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The keen wind still carried the howling of the dogs , though this grew fainter as we went on our way .
+The	O
+keen	O
+wind	O
+still	O
+carried	O
+the	O
+howling	O
+of	O
+the	O
+dogs	O
+,	O
+though	O
+this	O
+grew	O
+fainter	O
+as	O
+we	O
+went	O
+on	O
+our	O
+way	O
+.	O
+
+# id = conivel-dracula-000182
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The baying of the wolves sounded nearer and nearer , as though they were closing round on us from every side .
+The	O
+baying	O
+of	O
+the	O
+wolves	O
+sounded	O
+nearer	O
+and	O
+nearer	O
+,	O
+as	O
+though	O
+they	O
+were	O
+closing	O
+round	O
+on	O
+us	O
+from	O
+every	O
+side	O
+.	O
+
+# id = conivel-dracula-000183
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I grew dreadfully afraid , and the horses shared my fear .
+I	O
+grew	O
+dreadfully	O
+afraid	O
+,	O
+and	O
+the	O
+horses	O
+shared	O
+my	O
+fear	O
+.	O
+
+# id = conivel-dracula-000184
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The driver , however , was not in the least disturbed ; he kept turning his head to left and right , but I could not see anything through the darkness .
+The	O
+driver	O
+,	O
+however	O
+,	O
+was	O
+not	O
+in	O
+the	O
+least	O
+disturbed	O
+;	O
+he	O
+kept	O
+turning	O
+his	O
+head	O
+to	O
+left	O
+and	O
+right	O
+,	O
+but	O
+I	O
+could	O
+not	O
+see	O
+anything	O
+through	O
+the	O
+darkness	O
+.	O
+
+# id = conivel-dracula-000185
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Suddenly , away on our left , I saw a faint flickering blue flame .
+Suddenly	O
+,	O
+away	O
+on	O
+our	O
+left	O
+,	O
+I	O
+saw	O
+a	O
+faint	O
+flickering	O
+blue	O
+flame	O
+.	O
+
+# id = conivel-dracula-000186
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The driver saw it at the same moment ; he at once checked the horses , and , jumping to the ground , disappeared into the darkness .
+The	O
+driver	O
+saw	O
+it	O
+at	O
+the	O
+same	O
+moment	O
+;	O
+he	O
+at	O
+once	O
+checked	O
+the	O
+horses	O
+,	O
+and	O
+,	O
+jumping	O
+to	O
+the	O
+ground	O
+,	O
+disappeared	O
+into	O
+the	O
+darkness	O
+.	O
+
+# id = conivel-dracula-000187
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I did not know what to do , the less as the howling of the wolves grew closer ; but while I wondered the driver suddenly appeared again , and without a word took his seat , and we resumed our journey .
+I	O
+did	O
+not	O
+know	O
+what	O
+to	O
+do	O
+,	O
+the	O
+less	O
+as	O
+the	O
+howling	O
+of	O
+the	O
+wolves	O
+grew	O
+closer	O
+;	O
+but	O
+while	O
+I	O
+wondered	O
+the	O
+driver	O
+suddenly	O
+appeared	O
+again	O
+,	O
+and	O
+without	O
+a	O
+word	O
+took	O
+his	O
+seat	O
+,	O
+and	O
+we	O
+resumed	O
+our	O
+journey	O
+.	O
+
+# id = conivel-dracula-000188
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I think I must have fallen asleep and kept dreaming of the incident , for it seemed to be repeated endlessly , and now looking back , it is like a sort of awful nightmare .
+I	O
+think	O
+I	O
+must	O
+have	O
+fallen	O
+asleep	O
+and	O
+kept	O
+dreaming	O
+of	O
+the	O
+incident	O
+,	O
+for	O
+it	O
+seemed	O
+to	O
+be	O
+repeated	O
+endlessly	O
+,	O
+and	O
+now	O
+looking	O
+back	O
+,	O
+it	O
+is	O
+like	O
+a	O
+sort	O
+of	O
+awful	O
+nightmare	O
+.	O
+
+# id = conivel-dracula-000189
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Once the flame appeared so near the road , that even in the darkness around us I could watch the driver 's motions .
+Once	O
+the	O
+flame	O
+appeared	O
+so	O
+near	O
+the	O
+road	O
+,	O
+that	O
+even	O
+in	O
+the	O
+darkness	O
+around	O
+us	O
+I	O
+could	O
+watch	O
+the	O
+driver	O
+'s	O
+motions	O
+.	O
+
+# id = conivel-dracula-000190
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He went rapidly to where the blue flame arose -- it must have been very faint , for it did not seem to illumine the place around it at all -- and gathering a few stones , formed them into some device .
+He	O
+went	O
+rapidly	O
+to	O
+where	O
+the	O
+blue	O
+flame	O
+arose	O
+--	O
+it	O
+must	O
+have	O
+been	O
+very	O
+faint	O
+,	O
+for	O
+it	O
+did	O
+not	O
+seem	O
+to	O
+illumine	O
+the	O
+place	O
+around	O
+it	O
+at	O
+all	O
+--	O
+and	O
+gathering	O
+a	O
+few	O
+stones	O
+,	O
+formed	O
+them	O
+into	O
+some	O
+device	O
+.	O
+
+# id = conivel-dracula-000191
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Once there appeared a strange optical effect : when he stood between me and the flame he did not obstruct it , for I could see its ghostly flicker all the same .
+Once	O
+there	O
+appeared	O
+a	O
+strange	O
+optical	O
+effect	O
+:	O
+when	O
+he	O
+stood	O
+between	O
+me	O
+and	O
+the	O
+flame	O
+he	O
+did	O
+not	O
+obstruct	O
+it	O
+,	O
+for	O
+I	O
+could	O
+see	O
+its	O
+ghostly	O
+flicker	O
+all	O
+the	O
+same	O
+.	O
+
+# id = conivel-dracula-000192
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This startled me , but as the effect was only momentary , I took it that my eyes deceived me straining through the darkness .
+This	O
+startled	O
+me	O
+,	O
+but	O
+as	O
+the	O
+effect	O
+was	O
+only	O
+momentary	O
+,	O
+I	O
+took	O
+it	O
+that	O
+my	O
+eyes	O
+deceived	O
+me	O
+straining	O
+through	O
+the	O
+darkness	O
+.	O
+
+# id = conivel-dracula-000193
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then for a time there were no blue flames , and we sped onwards through the gloom , with the howling of the wolves around us , as though they were following in a moving circle .
+Then	O
+for	O
+a	O
+time	O
+there	O
+were	O
+no	O
+blue	O
+flames	O
+,	O
+and	O
+we	O
+sped	O
+onwards	O
+through	O
+the	O
+gloom	O
+,	O
+with	O
+the	O
+howling	O
+of	O
+the	O
+wolves	O
+around	O
+us	O
+,	O
+as	O
+though	O
+they	O
+were	O
+following	O
+in	O
+a	O
+moving	O
+circle	O
+.	O
+
+# id = conivel-dracula-000194
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At last there came a time when the driver went further afield than he had yet gone , and during his absence , the horses began to tremble worse than ever and to snort and scream with fright .
+At	O
+last	O
+there	O
+came	O
+a	O
+time	O
+when	O
+the	O
+driver	O
+went	O
+further	O
+afield	O
+than	O
+he	O
+had	O
+yet	O
+gone	O
+,	O
+and	O
+during	O
+his	O
+absence	O
+,	O
+the	O
+horses	O
+began	O
+to	O
+tremble	O
+worse	O
+than	O
+ever	O
+and	O
+to	O
+snort	O
+and	O
+scream	O
+with	O
+fright	O
+.	O
+
+# id = conivel-dracula-000195
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I could not see any cause for it , for the howling of the wolves had ceased altogether ; but just then the moon , sailing through the black clouds , appeared behind the jagged crest of a beetling , pine-clad rock , and by its light I saw around us a ring of wolves , with white teeth and lolling red tongues , with long , sinewy limbs and shaggy hair .
+I	O
+could	O
+not	O
+see	O
+any	O
+cause	O
+for	O
+it	O
+,	O
+for	O
+the	O
+howling	O
+of	O
+the	O
+wolves	O
+had	O
+ceased	O
+altogether	O
+;	O
+but	O
+just	O
+then	O
+the	O
+moon	O
+,	O
+sailing	O
+through	O
+the	O
+black	O
+clouds	O
+,	O
+appeared	O
+behind	O
+the	O
+jagged	O
+crest	O
+of	O
+a	O
+beetling	O
+,	O
+pine-clad	O
+rock	O
+,	O
+and	O
+by	O
+its	O
+light	O
+I	O
+saw	O
+around	O
+us	O
+a	O
+ring	O
+of	O
+wolves	O
+,	O
+with	O
+white	O
+teeth	O
+and	O
+lolling	O
+red	O
+tongues	O
+,	O
+with	O
+long	O
+,	O
+sinewy	O
+limbs	O
+and	O
+shaggy	O
+hair	O
+.	O
+
+# id = conivel-dracula-000196
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were a hundred times more terrible in the grim silence which held them than even when they howled .
+They	O
+were	O
+a	O
+hundred	O
+times	O
+more	O
+terrible	O
+in	O
+the	O
+grim	O
+silence	O
+which	O
+held	O
+them	O
+than	O
+even	O
+when	O
+they	O
+howled	O
+.	O
+
+# id = conivel-dracula-000197
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For myself , I felt a sort of paralysis of fear .
+For	O
+myself	O
+,	O
+I	O
+felt	O
+a	O
+sort	O
+of	O
+paralysis	O
+of	O
+fear	O
+.	O
+
+# id = conivel-dracula-000198
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It is only when a man feels himself face to face with such horrors that he can understand their true import .
+It	O
+is	O
+only	O
+when	O
+a	O
+man	O
+feels	O
+himself	O
+face	O
+to	O
+face	O
+with	O
+such	O
+horrors	O
+that	O
+he	O
+can	O
+understand	O
+their	O
+true	O
+import	O
+.	O
+
+# id = conivel-dracula-000199
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All at once the wolves began to howl as though the moonlight had had some peculiar effect on them .
+All	O
+at	O
+once	O
+the	O
+wolves	O
+began	O
+to	O
+howl	O
+as	O
+though	O
+the	O
+moonlight	O
+had	O
+had	O
+some	O
+peculiar	O
+effect	O
+on	O
+them	O
+.	O
+
+# id = conivel-dracula-000200
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The horses jumped about and reared , and looked helplessly round with eyes that rolled in a way painful to see ; but the living ring of terror encompassed them on every side ; and they had perforce to remain within it .
+The	O
+horses	O
+jumped	O
+about	O
+and	O
+reared	O
+,	O
+and	O
+looked	O
+helplessly	O
+round	O
+with	O
+eyes	O
+that	O
+rolled	O
+in	O
+a	O
+way	O
+painful	O
+to	O
+see	O
+;	O
+but	O
+the	O
+living	O
+ring	O
+of	O
+terror	O
+encompassed	O
+them	O
+on	O
+every	O
+side	O
+;	O
+and	O
+they	O
+had	O
+perforce	O
+to	O
+remain	O
+within	O
+it	O
+.	O
+
+# id = conivel-dracula-000201
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I called to the coachman to come , for it seemed to me that our only chance was to try to break out through the ring and to aid his approach .
+I	O
+called	O
+to	O
+the	O
+coachman	O
+to	O
+come	O
+,	O
+for	O
+it	O
+seemed	O
+to	O
+me	O
+that	O
+our	O
+only	O
+chance	O
+was	O
+to	O
+try	O
+to	O
+break	O
+out	O
+through	O
+the	O
+ring	O
+and	O
+to	O
+aid	O
+his	O
+approach	O
+.	O
+
+# id = conivel-dracula-000202
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I shouted and beat the side of the calÃ¨che , hoping by the noise to scare the wolves from that side , so as to give him a chance of reaching the trap .
+I	O
+shouted	O
+and	O
+beat	O
+the	O
+side	O
+of	O
+the	O
+calÃ¨che	O
+,	O
+hoping	O
+by	O
+the	O
+noise	O
+to	O
+scare	O
+the	O
+wolves	O
+from	O
+that	O
+side	O
+,	O
+so	O
+as	O
+to	O
+give	O
+him	O
+a	O
+chance	O
+of	O
+reaching	O
+the	O
+trap	O
+.	O
+
+# id = conivel-dracula-000203
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How he came there , I know not , but I heard his voice raised in a tone of imperious command , and looking towards the sound , saw him stand in the roadway .
+How	O
+he	O
+came	O
+there	O
+,	O
+I	O
+know	O
+not	O
+,	O
+but	O
+I	O
+heard	O
+his	O
+voice	O
+raised	O
+in	O
+a	O
+tone	O
+of	O
+imperious	O
+command	O
+,	O
+and	O
+looking	O
+towards	O
+the	O
+sound	O
+,	O
+saw	O
+him	O
+stand	O
+in	O
+the	O
+roadway	O
+.	O
+
+# id = conivel-dracula-000204
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As he swept his long arms , as though brushing aside some impalpable obstacle , the wolves fell back and back further still .
+As	O
+he	O
+swept	O
+his	O
+long	O
+arms	O
+,	O
+as	O
+though	O
+brushing	O
+aside	O
+some	O
+impalpable	O
+obstacle	O
+,	O
+the	O
+wolves	O
+fell	O
+back	O
+and	O
+back	O
+further	O
+still	O
+.	O
+
+# id = conivel-dracula-000205
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Just then a heavy cloud passed across the face of the moon , so that we were again in darkness .
+Just	O
+then	O
+a	O
+heavy	O
+cloud	O
+passed	O
+across	O
+the	O
+face	O
+of	O
+the	O
+moon	O
+,	O
+so	O
+that	O
+we	O
+were	O
+again	O
+in	O
+darkness	O
+.	O
+
+# id = conivel-dracula-000206
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When I could see again the driver was climbing into the calÃ¨che , and the wolves had disappeared .
+When	O
+I	O
+could	O
+see	O
+again	O
+the	O
+driver	O
+was	O
+climbing	O
+into	O
+the	O
+calÃ¨che	O
+,	O
+and	O
+the	O
+wolves	O
+had	O
+disappeared	O
+.	O
+
+# id = conivel-dracula-000207
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This was all so strange and uncanny that a dreadful fear came upon me , and I was afraid to speak or move .
+This	O
+was	O
+all	O
+so	O
+strange	O
+and	O
+uncanny	O
+that	O
+a	O
+dreadful	O
+fear	O
+came	O
+upon	O
+me	O
+,	O
+and	O
+I	O
+was	O
+afraid	O
+to	O
+speak	O
+or	O
+move	O
+.	O
+
+# id = conivel-dracula-000208
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The time seemed interminable as we swept on our way , now in almost complete darkness , for the rolling clouds obscured the moon .
+The	O
+time	O
+seemed	O
+interminable	O
+as	O
+we	O
+swept	O
+on	O
+our	O
+way	O
+,	O
+now	O
+in	O
+almost	O
+complete	O
+darkness	O
+,	O
+for	O
+the	O
+rolling	O
+clouds	O
+obscured	O
+the	O
+moon	O
+.	O
+
+# id = conivel-dracula-000209
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We kept on ascending , with occasional periods of quick descent , but in the main always ascending .
+We	O
+kept	O
+on	O
+ascending	O
+,	O
+with	O
+occasional	O
+periods	O
+of	O
+quick	O
+descent	O
+,	O
+but	O
+in	O
+the	O
+main	O
+always	O
+ascending	O
+.	O
+
+# id = conivel-dracula-000210
+# source = Conivel corrected OWTO literary NER
+# book = Dracula
+# source_file = Dracula.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Suddenly , I became conscious of the fact that the driver was in the act of pulling up the horses in the courtyard of a vast ruined castle , from whose tall black windows came no ray of light , and whose broken battlements showed a jagged line against the moonlit sky .
+Suddenly	O
+,	O
+I	O
+became	O
+conscious	O
+of	O
+the	O
+fact	O
+that	O
+the	O
+driver	O
+was	O
+in	O
+the	O
+act	O
+of	O
+pulling	O
+up	O
+the	O
+horses	O
+in	O
+the	O
+courtyard	O
+of	O
+a	O
+vast	O
+ruined	O
+castle	O
+,	O
+from	O
+whose	O
+tall	O
+black	O
+windows	O
+came	O
+no	O
+ray	O
+of	O
+light	O
+,	O
+and	O
+whose	O
+broken	O
+battlements	O
+showed	O
+a	O
+jagged	O
+line	O
+against	O
+the	O
+moonlit	O
+sky	O
+.	O
+

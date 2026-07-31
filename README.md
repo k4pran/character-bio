@@ -206,6 +206,25 @@ To rebuild the corpus:
 python src/build_location_corpus.py
 ```
 
+### Additional literary named-entity data
+
+`data/conivel/` contains a reproducible conversion of the corrected OWTO
+literary NER corpus distributed with Conivel: first chapters from 40 English
+novels, each containing both named person and location annotations. The import
+maps `PER` to `CHARACTER`, `LOC` to `LOCATION`, and unsupported `ORG` labels to
+`O`. Exact sentence overlaps with the existing LitBank conversion are removed
+to avoid contradictory labels for identical training input.
+
+To rebuild the 40 project-compatible CoNLL files:
+
+```powershell
+python src/build_conivel_corpus.py
+```
+
+Source revision, license, citations, per-book counts, and file checksums are
+documented in [the Conivel corpus notes](data/conivel/README.md) and generated
+`manifest.json`.
+
 ## Train
 
 Quick smoke test:
@@ -441,11 +460,160 @@ exported/character-ner-onnx-updated/
   vocab.txt
 ```
 
+The generated `models/` and `exported/` directories are intentionally ignored
+by Git. Publish them to Firebase Storage as described below instead of adding
+the large model files to version control.
+
 The verified export used `onnx 1.22.0` and `onnxruntime 1.27.0`. Its FP32
 maximum absolute difference from PyTorch was below `0.000012`. The INT8 model
 had the same predicted token labels as PyTorch on the export validation batch.
 Quantization can still affect accuracy on other data, so compare FP32 and INT8
 on representative audiobook/STT samples before shipping.
+
+## Publish models to Firebase Storage
+
+`src/publish_model.py` publishes a complete model directory to Cloud Storage for
+Firebase. It hashes the directory contents and uses this layout:
+
+```text
+models/
+  character-ner-onnx/
+    latest.json
+    versions/
+      <bundle-sha256>/
+        model.int8.onnx
+        tokenizer.json
+        ...
+```
+
+Versioned files are immutable and uploaded only when their SHA-256 changes.
+`latest.json` is updated last, so the app never observes a manifest pointing at
+a partly uploaded model. Old versions are retained to allow rollback; a bucket
+lifecycle rule can remove them later if desired.
+
+### Firebase setup placeholders
+
+1. Create or select a Firebase project and enable Storage in the Firebase
+   Console. The bucket name is normally
+   `your-project-id.firebasestorage.app`.
+2. Create a dedicated service account for publishing and grant it Storage
+   Object Admin access on only this bucket.
+3. Keep the downloaded service-account JSON outside this repository. It is a
+   server credential and must never be shipped in the app.
+4. Copy the placeholder values from `.env.firebase.example` into your shell or
+   CI configuration.
+
+For local publishing in PowerShell:
+
+```powershell
+python -m pip install -r requirements-publish.txt
+
+$env:FIREBASE_STORAGE_BUCKET = "your-project-id.firebasestorage.app"
+$env:GOOGLE_APPLICATION_CREDENTIALS = "C:\secure\firebase-service-account.json"
+
+python src/publish_model.py `
+  --model-dir exported/character-ner-onnx-updated `
+  --model-name character-ner-onnx
+```
+
+To inspect the paths and hashes without credentials or an upload:
+
+```powershell
+python src/publish_model.py `
+  --model-dir exported/character-ner-onnx-updated `
+  --model-name character-ner-onnx `
+  --bucket your-project-id.firebasestorage.app `
+  --dry-run
+```
+
+Application Default Credentials are used, so a developer authenticated with
+Google Cloud can also publish without a downloaded key.
+
+### GitHub Actions publishing
+
+The included `.github/workflows/publish-model.yml` publishes a model artifact
+created by another Actions run. Configure these repository settings:
+
+```text
+Actions variable:
+  FIREBASE_STORAGE_BUCKET = your-project-id.firebasestorage.app
+
+Actions secret:
+  FIREBASE_SERVICE_ACCOUNT_JSON = <entire service-account JSON document>
+```
+
+The job that creates or exports the model should hand its ignored output to
+GitHub Actions as a temporary artifact:
+
+```yaml
+- name: Save model for publishing
+  uses: actions/upload-artifact@v4
+  with:
+    name: character-ner-onnx
+    path: exported/character-ner-onnx-updated/
+    if-no-files-found: error
+```
+
+Run **Publish model to Firebase** with that source run's ID and artifact name.
+The publisher downloads the artifact, hashes the model directory, uploads only
+missing content, and leaves `latest.json` untouched when the same bundle is
+already current.
+
+A GitHub-hosted runner cannot see an ignored model created on a developer
+machine. For a locally trained model, use the local command above. For fully
+automatic CI publishing, place the artifact step in the training/export job and
+call the reusable workflow after that job succeeds:
+
+```yaml
+jobs:
+  export-model:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      actions: write
+    steps:
+      # Train/export steps go here.
+      - uses: actions/upload-artifact@v4
+        with:
+          name: character-ner-onnx
+          path: exported/character-ner-onnx-updated/
+          if-no-files-found: error
+
+  publish-model:
+    needs: export-model
+    permissions:
+      contents: read
+      actions: read
+    uses: ./.github/workflows/publish-model.yml
+    with:
+      source_run_id: ${{ github.run_id }}
+      artifact_name: character-ner-onnx
+      model_name: character-ner-onnx
+    secrets: inherit
+```
+
+Calling it after every successful export is intentional: directory hashing is
+the change detector, so an identical model is a cheap no-op and a changed model
+gets a new immutable version.
+
+For stronger CI authentication, replace the JSON-key input to
+`google-github-actions/auth` with Google Cloud Workload Identity Federation.
+That avoids maintaining a long-lived service-account key.
+
+### App retrieval
+
+The stable Firebase Storage object for this example is:
+
+```text
+models/character-ner-onnx/latest.json
+```
+
+Fetch it with the Firebase Storage client SDK, select the desired entry in its
+`files` array (normally `model.int8.onnx`), then download that entry's
+`storage_path`. Each entry also contains its size and SHA-256 so the app can
+validate its local cache before loading it. Reads use the Firebase Storage
+Security Rules configured for the app; the publisher does not make objects
+public.
 
 ### Android tensor contract
 

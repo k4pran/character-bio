@@ -1,0 +1,5753 @@
+# id = conivel-adventures-of-huckleberry-finn-000001
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That is nothing .
+That	O
+is	O
+nothing	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000002
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So I went back .
+So	O
+I	O
+went	O
+back	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000003
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The widow she cried over me , and called me a poor lost lamb , and she called me a lot of other names , too , but she never meant no harm by it .
+The	O
+widow	O
+she	O
+cried	O
+over	O
+me	O
+,	O
+and	O
+called	O
+me	O
+a	O
+poor	O
+lost	O
+lamb	O
+,	O
+and	O
+she	O
+called	O
+me	O
+a	O
+lot	O
+of	O
+other	O
+names	O
+,	O
+too	O
+,	O
+but	O
+she	O
+never	O
+meant	O
+no	O
+harm	O
+by	O
+it	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000004
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She put me in them new clothes again , and I could n't do nothing but sweat and sweat , and feel all cramped up .
+She	O
+put	O
+me	O
+in	O
+them	O
+new	O
+clothes	O
+again	O
+,	O
+and	O
+I	O
+could	O
+n't	O
+do	O
+nothing	O
+but	O
+sweat	O
+and	O
+sweat	O
+,	O
+and	O
+feel	O
+all	O
+cramped	O
+up	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000005
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , then , the old thing commenced again .
+Well	O
+,	O
+then	O
+,	O
+the	O
+old	O
+thing	O
+commenced	O
+again	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000006
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The widow rung a bell for supper , and you had to come to time .
+The	O
+widow	O
+rung	O
+a	O
+bell	O
+for	O
+supper	O
+,	O
+and	O
+you	O
+had	O
+to	O
+come	O
+to	O
+time	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000007
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When you got to the table you could n't go right to eating , but you had to wait for the widow to tuck down her head and grumble a little over the victuals , though there war n't really anything the matter with them , -- that is , nothing only everything was cooked by itself .
+When	O
+you	O
+got	O
+to	O
+the	O
+table	O
+you	O
+could	O
+n't	O
+go	O
+right	O
+to	O
+eating	O
+,	O
+but	O
+you	O
+had	O
+to	O
+wait	O
+for	O
+the	O
+widow	O
+to	O
+tuck	O
+down	O
+her	O
+head	O
+and	O
+grumble	O
+a	O
+little	O
+over	O
+the	O
+victuals	O
+,	O
+though	O
+there	O
+war	O
+n't	O
+really	O
+anything	O
+the	O
+matter	O
+with	O
+them	O
+,	O
+--	O
+that	O
+is	O
+,	O
+nothing	O
+only	O
+everything	O
+was	O
+cooked	O
+by	O
+itself	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000008
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In a barrel of odds and ends it is different ; things get mixed up , and the juice kind of swaps around , and the things go better .
+In	O
+a	O
+barrel	O
+of	O
+odds	O
+and	O
+ends	O
+it	O
+is	O
+different	O
+;	O
+things	O
+get	O
+mixed	O
+up	O
+,	O
+and	O
+the	O
+juice	O
+kind	O
+of	O
+swaps	O
+around	O
+,	O
+and	O
+the	O
+things	O
+go	O
+better	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000009
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pretty soon I wanted to smoke , and asked the widow to let me .
+Pretty	O
+soon	O
+I	O
+wanted	O
+to	O
+smoke	O
+,	O
+and	O
+asked	O
+the	O
+widow	O
+to	O
+let	O
+me	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000010
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But she would n't .
+But	O
+she	O
+would	O
+n't	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000011
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She said it was a mean practice and was n't clean , and I must try to not do it any more .
+She	O
+said	O
+it	O
+was	O
+a	O
+mean	O
+practice	O
+and	O
+was	O
+n't	O
+clean	O
+,	O
+and	O
+I	O
+must	O
+try	O
+to	O
+not	O
+do	O
+it	O
+any	O
+more	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000012
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That is just the way with some people .
+That	O
+is	O
+just	O
+the	O
+way	O
+with	O
+some	O
+people	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000013
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They get down on a thing when they do n't know nothing about it .
+They	O
+get	O
+down	O
+on	O
+a	O
+thing	O
+when	O
+they	O
+do	O
+n't	O
+know	O
+nothing	O
+about	O
+it	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000014
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And she took snuff , too ; of course that was all right , because she done it herself .
+And	O
+she	O
+took	O
+snuff	O
+,	O
+too	O
+;	O
+of	O
+course	O
+that	O
+was	O
+all	O
+right	O
+,	O
+because	O
+she	O
+done	O
+it	O
+herself	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000015
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She worked me middling hard for about an hour , and then the widow made her ease up .
+She	O
+worked	O
+me	O
+middling	O
+hard	O
+for	O
+about	O
+an	O
+hour	O
+,	O
+and	O
+then	O
+the	O
+widow	O
+made	O
+her	O
+ease	O
+up	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000016
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I could n't stood it much longer .
+I	O
+could	O
+n't	O
+stood	O
+it	O
+much	O
+longer	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000017
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then for an hour it was deadly dull , and I was fidgety .
+Then	O
+for	O
+an	O
+hour	O
+it	O
+was	O
+deadly	O
+dull	O
+,	O
+and	O
+I	O
+was	O
+fidgety	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000018
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Miss Watson would say , `` Do n't put your feet up there , Huckleberry ; ''
+Miss	B-CHARACTER
+Watson	I-CHARACTER
+would	O
+say	O
+,	O
+``	O
+Do	O
+n't	O
+put	O
+your	O
+feet	O
+up	O
+there	O
+,	O
+Huckleberry	B-CHARACTER
+;	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000019
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = and `` Do n't scrunch up like that , Huckleberry -- set up straight ; ''
+and	O
+``	O
+Do	O
+n't	O
+scrunch	O
+up	O
+like	O
+that	O
+,	O
+Huckleberry	B-CHARACTER
+--	O
+set	O
+up	O
+straight	O
+;	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000020
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = and pretty soon she would say , `` Do n't gap and stretch like that , Huckleberry -- why do n't you try to behave ? ''
+and	O
+pretty	O
+soon	O
+she	O
+would	O
+say	O
+,	O
+``	O
+Do	O
+n't	O
+gap	O
+and	O
+stretch	O
+like	O
+that	O
+,	O
+Huckleberry	B-CHARACTER
+--	O
+why	O
+do	O
+n't	O
+you	O
+try	O
+to	O
+behave	O
+?	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000021
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then she told me all about the bad place , and I said I wished I was there .
+Then	O
+she	O
+told	O
+me	O
+all	O
+about	O
+the	O
+bad	O
+place	O
+,	O
+and	O
+I	O
+said	O
+I	O
+wished	O
+I	O
+was	O
+there	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000022
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She got mad then , but I did n't mean no harm .
+She	O
+got	O
+mad	O
+then	O
+,	O
+but	O
+I	O
+did	O
+n't	O
+mean	O
+no	O
+harm	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000023
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All I wanted was to go somewheres ; all I wanted was a change , I war n't particular .
+All	O
+I	O
+wanted	O
+was	O
+to	O
+go	O
+somewheres	O
+;	O
+all	O
+I	O
+wanted	O
+was	O
+a	O
+change	O
+,	O
+I	O
+war	O
+n't	O
+particular	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000024
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She said it was wicked to say what I said ; said she would n't say it for the whole world ; she was going to live so as to go to the good place .
+She	O
+said	O
+it	O
+was	O
+wicked	O
+to	O
+say	O
+what	O
+I	O
+said	O
+;	O
+said	O
+she	O
+would	O
+n't	O
+say	O
+it	O
+for	O
+the	O
+whole	O
+world	O
+;	O
+she	O
+was	O
+going	O
+to	O
+live	O
+so	O
+as	O
+to	O
+go	O
+to	O
+the	O
+good	O
+place	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000025
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , I could n't see no advantage in going where she was going , so I made up my mind I would n't try for it .
+Well	O
+,	O
+I	O
+could	O
+n't	O
+see	O
+no	O
+advantage	O
+in	O
+going	O
+where	O
+she	O
+was	O
+going	O
+,	O
+so	O
+I	O
+made	O
+up	O
+my	O
+mind	O
+I	O
+would	O
+n't	O
+try	O
+for	O
+it	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000026
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But I never said so , because it would only make trouble , and would n't do no good .
+But	O
+I	O
+never	O
+said	O
+so	O
+,	O
+because	O
+it	O
+would	O
+only	O
+make	O
+trouble	O
+,	O
+and	O
+would	O
+n't	O
+do	O
+no	O
+good	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000027
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now she had got a start , and she went on and told me all about the good place .
+Now	O
+she	O
+had	O
+got	O
+a	O
+start	O
+,	O
+and	O
+she	O
+went	O
+on	O
+and	O
+told	O
+me	O
+all	O
+about	O
+the	O
+good	O
+place	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000028
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She said all a body would have to do there was to go around all day long with a harp and sing , forever and ever .
+She	O
+said	O
+all	O
+a	O
+body	O
+would	O
+have	O
+to	O
+do	O
+there	O
+was	O
+to	O
+go	O
+around	O
+all	O
+day	O
+long	O
+with	O
+a	O
+harp	O
+and	O
+sing	O
+,	O
+forever	O
+and	O
+ever	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000029
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So I did n't think much of it .
+So	O
+I	O
+did	O
+n't	O
+think	O
+much	O
+of	O
+it	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000030
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But I never said so .
+But	O
+I	O
+never	O
+said	O
+so	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000031
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was glad about that , because I wanted him and me to be together .
+I	O
+was	O
+glad	O
+about	O
+that	O
+,	O
+because	O
+I	O
+wanted	O
+him	O
+and	O
+me	O
+to	O
+be	O
+together	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000032
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = By and by they fetched the niggers in and had prayers , and then everybody was off to bed .
+By	O
+and	O
+by	O
+they	O
+fetched	O
+the	O
+niggers	O
+in	O
+and	O
+had	O
+prayers	O
+,	O
+and	O
+then	O
+everybody	O
+was	O
+off	O
+to	O
+bed	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000033
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I went up to my room with a piece of candle , and put it on the table .
+I	O
+went	O
+up	O
+to	O
+my	O
+room	O
+with	O
+a	O
+piece	O
+of	O
+candle	O
+,	O
+and	O
+put	O
+it	O
+on	O
+the	O
+table	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000034
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then I set down in a chair by the window and tried to think of something cheerful , but it war n't no use .
+Then	O
+I	O
+set	O
+down	O
+in	O
+a	O
+chair	O
+by	O
+the	O
+window	O
+and	O
+tried	O
+to	O
+think	O
+of	O
+something	O
+cheerful	O
+,	O
+but	O
+it	O
+war	O
+n't	O
+no	O
+use	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000035
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I felt so lonesome I most wished I was dead .
+I	O
+felt	O
+so	O
+lonesome	O
+I	O
+most	O
+wished	O
+I	O
+was	O
+dead	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000036
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The stars were shining , and the leaves rustled in the woods ever so mournful ; and I heard an owl , away off , who-whooing about somebody that was dead , and a whippowill and a dog crying about somebody that was going to die ; and the wind was trying to whisper something to me , and I could n't make out what it was , and so it made the cold shivers run over me .
+The	O
+stars	O
+were	O
+shining	O
+,	O
+and	O
+the	O
+leaves	O
+rustled	O
+in	O
+the	O
+woods	O
+ever	O
+so	O
+mournful	O
+;	O
+and	O
+I	O
+heard	O
+an	O
+owl	O
+,	O
+away	O
+off	O
+,	O
+who-whooing	O
+about	O
+somebody	O
+that	O
+was	O
+dead	O
+,	O
+and	O
+a	O
+whippowill	O
+and	O
+a	O
+dog	O
+crying	O
+about	O
+somebody	O
+that	O
+was	O
+going	O
+to	O
+die	O
+;	O
+and	O
+the	O
+wind	O
+was	O
+trying	O
+to	O
+whisper	O
+something	O
+to	O
+me	O
+,	O
+and	O
+I	O
+could	O
+n't	O
+make	O
+out	O
+what	O
+it	O
+was	O
+,	O
+and	O
+so	O
+it	O
+made	O
+the	O
+cold	O
+shivers	O
+run	O
+over	O
+me	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000037
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then away out in the woods I heard that kind of a sound that a ghost makes when it wants to tell about something that 's on its mind and ca n't make itself understood , and so ca n't rest easy in its grave , and has to go about that way every night grieving .
+Then	O
+away	O
+out	O
+in	O
+the	O
+woods	O
+I	O
+heard	O
+that	O
+kind	O
+of	O
+a	O
+sound	O
+that	O
+a	O
+ghost	O
+makes	O
+when	O
+it	O
+wants	O
+to	O
+tell	O
+about	O
+something	O
+that	O
+'s	O
+on	O
+its	O
+mind	O
+and	O
+ca	O
+n't	O
+make	O
+itself	O
+understood	O
+,	O
+and	O
+so	O
+ca	O
+n't	O
+rest	O
+easy	O
+in	O
+its	O
+grave	O
+,	O
+and	O
+has	O
+to	O
+go	O
+about	O
+that	O
+way	O
+every	O
+night	O
+grieving	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000038
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I got so down-hearted and scared I did wish I had some company .
+I	O
+got	O
+so	O
+down-hearted	O
+and	O
+scared	O
+I	O
+did	O
+wish	O
+I	O
+had	O
+some	O
+company	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000039
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pretty soon a spider went crawling up my shoulder , and I flipped it off and it lit in the candle ; and before I could budge it was all shriveled up .
+Pretty	O
+soon	O
+a	O
+spider	O
+went	O
+crawling	O
+up	O
+my	O
+shoulder	O
+,	O
+and	O
+I	O
+flipped	O
+it	O
+off	O
+and	O
+it	O
+lit	O
+in	O
+the	O
+candle	O
+;	O
+and	O
+before	O
+I	O
+could	O
+budge	O
+it	O
+was	O
+all	O
+shriveled	O
+up	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000040
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I did n't need anybody to tell me that that was an awful bad sign and would fetch me some bad luck , so I was scared and most shook the clothes off of me .
+I	O
+did	O
+n't	O
+need	O
+anybody	O
+to	O
+tell	O
+me	O
+that	O
+that	O
+was	O
+an	O
+awful	O
+bad	O
+sign	O
+and	O
+would	O
+fetch	O
+me	O
+some	O
+bad	O
+luck	O
+,	O
+so	O
+I	O
+was	O
+scared	O
+and	O
+most	O
+shook	O
+the	O
+clothes	O
+off	O
+of	O
+me	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000041
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I got up and turned around in my tracks three times and crossed my breast every time ; and then I tied up a little lock of my hair with a thread to keep witches away .
+I	O
+got	O
+up	O
+and	O
+turned	O
+around	O
+in	O
+my	O
+tracks	O
+three	O
+times	O
+and	O
+crossed	O
+my	O
+breast	O
+every	O
+time	O
+;	O
+and	O
+then	O
+I	O
+tied	O
+up	O
+a	O
+little	O
+lock	O
+of	O
+my	O
+hair	O
+with	O
+a	O
+thread	O
+to	O
+keep	O
+witches	O
+away	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000042
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But I had n't no confidence .
+But	O
+I	O
+had	O
+n't	O
+no	O
+confidence	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000043
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You do that when you 've lost a horseshoe that you 've found , instead of nailing it up over the door , but I had n't ever heard anybody say it was any way to keep off bad luck when you 'd killed a spider .
+You	O
+do	O
+that	O
+when	O
+you	O
+'ve	O
+lost	O
+a	O
+horseshoe	O
+that	O
+you	O
+'ve	O
+found	O
+,	O
+instead	O
+of	O
+nailing	O
+it	O
+up	O
+over	O
+the	O
+door	O
+,	O
+but	O
+I	O
+had	O
+n't	O
+ever	O
+heard	O
+anybody	O
+say	O
+it	O
+was	O
+any	O
+way	O
+to	O
+keep	O
+off	O
+bad	O
+luck	O
+when	O
+you	O
+'d	O
+killed	O
+a	O
+spider	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000044
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I set down again , a-shaking all over , and got out my pipe for a smoke ; for the house was all as still as death now , and so the widow would n't know .
+I	O
+set	O
+down	O
+again	O
+,	O
+a-shaking	O
+all	O
+over	O
+,	O
+and	O
+got	O
+out	O
+my	O
+pipe	O
+for	O
+a	O
+smoke	O
+;	O
+for	O
+the	O
+house	O
+was	O
+all	O
+as	O
+still	O
+as	O
+death	O
+now	O
+,	O
+and	O
+so	O
+the	O
+widow	O
+would	O
+n't	O
+know	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000045
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , after a long time I heard the clock away off in the town go boom -- boom -- boom -- twelve licks ; and all still again -- stiller than ever .
+Well	O
+,	O
+after	O
+a	O
+long	O
+time	O
+I	O
+heard	O
+the	O
+clock	O
+away	O
+off	O
+in	O
+the	O
+town	O
+go	O
+boom	O
+--	O
+boom	O
+--	O
+boom	O
+--	O
+twelve	O
+licks	O
+;	O
+and	O
+all	O
+still	O
+again	O
+--	O
+stiller	O
+than	O
+ever	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000046
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pretty soon I heard a twig snap down in the dark amongst the trees -- something was a stirring .
+Pretty	O
+soon	O
+I	O
+heard	O
+a	O
+twig	O
+snap	O
+down	O
+in	O
+the	O
+dark	O
+amongst	O
+the	O
+trees	O
+--	O
+something	O
+was	O
+a	O
+stirring	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000047
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I set still and listened .
+I	O
+set	O
+still	O
+and	O
+listened	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000048
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Directly I could just barely hear a `` me-yow !
+Directly	O
+I	O
+could	O
+just	O
+barely	O
+hear	O
+a	O
+``	O
+me-yow	O
+!	O
+
+# id = conivel-adventures-of-huckleberry-finn-000049
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = me-yow ! ''
+me-yow	O
+!	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000050
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = down there .
+down	O
+there	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000051
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That was good !
+That	O
+was	O
+good	O
+!	O
+
+# id = conivel-adventures-of-huckleberry-finn-000052
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Says I , `` me-yow !
+Says	O
+I	O
+,	O
+``	O
+me-yow	O
+!	O
+
+# id = conivel-adventures-of-huckleberry-finn-000053
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = me-yow ! ''
+me-yow	O
+!	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000054
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = as soft as I could , and then I put out the light and scrambled out of the window on to the shed .
+as	O
+soft	O
+as	O
+I	O
+could	O
+,	O
+and	O
+then	O
+I	O
+put	O
+out	O
+the	O
+light	O
+and	O
+scrambled	O
+out	O
+of	O
+the	O
+window	O
+on	O
+to	O
+the	O
+shed	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000055
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = CHAPTER II .
+CHAPTER	O
+II	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000056
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = WE went tiptoeing along a path amongst the trees back towards the end of the widow 's garden , stooping down so as the branches would n't scrape our heads .
+WE	O
+went	O
+tiptoeing	O
+along	O
+a	O
+path	O
+amongst	O
+the	O
+trees	O
+back	O
+towards	O
+the	O
+end	O
+of	O
+the	O
+widow	O
+'s	O
+garden	O
+,	O
+stooping	O
+down	O
+so	O
+as	O
+the	O
+branches	O
+would	O
+n't	O
+scrape	O
+our	O
+heads	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000057
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When we was passing by the kitchen I fell over a root and made a noise .
+When	O
+we	O
+was	O
+passing	O
+by	O
+the	O
+kitchen	O
+I	O
+fell	O
+over	O
+a	O
+root	O
+and	O
+made	O
+a	O
+noise	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000058
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We scrouched down and laid still .
+We	O
+scrouched	O
+down	O
+and	O
+laid	O
+still	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000059
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He got up and stretched his neck out about a minute , listening .
+He	O
+got	O
+up	O
+and	O
+stretched	O
+his	O
+neck	O
+out	O
+about	O
+a	O
+minute	O
+,	O
+listening	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000060
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then he says : `` Who dah ? ''
+Then	O
+he	O
+says	O
+:	O
+``	O
+Who	O
+dah	O
+?	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000061
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He listened some more ; then he come tiptoeing down and stood right between us ; we could a touched him , nearly .
+He	O
+listened	O
+some	O
+more	O
+;	O
+then	O
+he	O
+come	O
+tiptoeing	O
+down	O
+and	O
+stood	O
+right	O
+between	O
+us	O
+;	O
+we	O
+could	O
+a	O
+touched	O
+him	O
+,	O
+nearly	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000062
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , likely it was minutes and minutes that there war n't a sound , and we all there so close together .
+Well	O
+,	O
+likely	O
+it	O
+was	O
+minutes	O
+and	O
+minutes	O
+that	O
+there	O
+war	O
+n't	O
+a	O
+sound	O
+,	O
+and	O
+we	O
+all	O
+there	O
+so	O
+close	O
+together	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000063
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was a place on my ankle that got to itching , but I das n't scratch it ; and then my ear begun to itch ; and next my back , right between my shoulders .
+There	O
+was	O
+a	O
+place	O
+on	O
+my	O
+ankle	O
+that	O
+got	O
+to	O
+itching	O
+,	O
+but	O
+I	O
+das	O
+n't	O
+scratch	O
+it	O
+;	O
+and	O
+then	O
+my	O
+ear	O
+begun	O
+to	O
+itch	O
+;	O
+and	O
+next	O
+my	O
+back	O
+,	O
+right	O
+between	O
+my	O
+shoulders	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000064
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Seemed like I 'd die if I could n't scratch .
+Seemed	O
+like	O
+I	O
+'d	O
+die	O
+if	O
+I	O
+could	O
+n't	O
+scratch	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000065
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , I 've noticed that thing plenty times since .
+Well	O
+,	O
+I	O
+'ve	O
+noticed	O
+that	O
+thing	O
+plenty	O
+times	O
+since	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000066
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If you are with the quality , or at a funeral , or trying to go to sleep when you ai n't sleepy -- if you are anywheres where it wo n't do for you to scratch , why you will itch all over in upwards of a thousand places .
+If	O
+you	O
+are	O
+with	O
+the	O
+quality	O
+,	O
+or	O
+at	O
+a	O
+funeral	O
+,	O
+or	O
+trying	O
+to	O
+go	O
+to	O
+sleep	O
+when	O
+you	O
+ai	O
+n't	O
+sleepy	O
+--	O
+if	O
+you	O
+are	O
+anywheres	O
+where	O
+it	O
+wo	O
+n't	O
+do	O
+for	O
+you	O
+to	O
+scratch	O
+,	O
+why	O
+you	O
+will	O
+itch	O
+all	O
+over	O
+in	O
+upwards	O
+of	O
+a	O
+thousand	O
+places	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000067
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pretty soon Jim says : `` Say , who is you ?
+Pretty	O
+soon	O
+Jim	B-CHARACTER
+says	O
+:	O
+``	O
+Say	O
+,	O
+who	O
+is	O
+you	O
+?	O
+
+# id = conivel-adventures-of-huckleberry-finn-000068
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Whar is you ?
+Whar	O
+is	O
+you	O
+?	O
+
+# id = conivel-adventures-of-huckleberry-finn-000069
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Dog my cats ef I didn ' hear sumf â€™n .
+Dog	O
+my	O
+cats	O
+ef	O
+I	O
+didn	O
+'	O
+hear	O
+sumf	O
+â€™n	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000070
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , I know what I 's gwyne to do : I 's gwyne to set down here and listen tell I hears it agin . ''
+Well	O
+,	O
+I	O
+know	O
+what	O
+I	O
+'s	O
+gwyne	O
+to	O
+do	O
+:	O
+I	O
+'s	O
+gwyne	O
+to	O
+set	O
+down	O
+here	O
+and	O
+listen	O
+tell	O
+I	O
+hears	O
+it	O
+agin	O
+.	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000071
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He leaned his back up against a tree , and stretched his legs out till one of them most touched one of mine .
+He	O
+leaned	O
+his	O
+back	O
+up	O
+against	O
+a	O
+tree	O
+,	O
+and	O
+stretched	O
+his	O
+legs	O
+out	O
+till	O
+one	O
+of	O
+them	O
+most	O
+touched	O
+one	O
+of	O
+mine	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000072
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My nose begun to itch .
+My	O
+nose	O
+begun	O
+to	O
+itch	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000073
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It itched till the tears come into my eyes .
+It	O
+itched	O
+till	O
+the	O
+tears	O
+come	O
+into	O
+my	O
+eyes	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000074
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But I das n't scratch .
+But	O
+I	O
+das	O
+n't	O
+scratch	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000075
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then it begun to itch on the inside .
+Then	O
+it	O
+begun	O
+to	O
+itch	O
+on	O
+the	O
+inside	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000076
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Next I got to itching underneath .
+Next	O
+I	O
+got	O
+to	O
+itching	O
+underneath	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000077
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I did n't know how I was going to set still .
+I	O
+did	O
+n't	O
+know	O
+how	O
+I	O
+was	O
+going	O
+to	O
+set	O
+still	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000078
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This miserableness went on as much as six or seven minutes ; but it seemed a sight longer than that .
+This	O
+miserableness	O
+went	O
+on	O
+as	O
+much	O
+as	O
+six	O
+or	O
+seven	O
+minutes	O
+;	O
+but	O
+it	O
+seemed	O
+a	O
+sight	O
+longer	O
+than	O
+that	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000079
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was itching in eleven different places now .
+I	O
+was	O
+itching	O
+in	O
+eleven	O
+different	O
+places	O
+now	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000080
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I reckoned I could n't stand it more â€™n a minute longer , but I set my teeth hard and got ready to try .
+I	O
+reckoned	O
+I	O
+could	O
+n't	O
+stand	O
+it	O
+more	O
+â€™n	O
+a	O
+minute	O
+longer	O
+,	O
+but	O
+I	O
+set	O
+my	O
+teeth	O
+hard	O
+and	O
+got	O
+ready	O
+to	O
+try	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000081
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tom he made a sign to me -- kind of a little noise with his mouth -- and we went creeping away on our hands and knees .
+Tom	B-CHARACTER
+he	O
+made	O
+a	O
+sign	O
+to	O
+me	O
+--	O
+kind	O
+of	O
+a	O
+little	O
+noise	O
+with	O
+his	O
+mouth	O
+--	O
+and	O
+we	O
+went	O
+creeping	O
+away	O
+on	O
+our	O
+hands	O
+and	O
+knees	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000082
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When we was ten foot off Tom whispered to me , and wanted to tie Jim to the tree for fun .
+When	O
+we	O
+was	O
+ten	O
+foot	O
+off	O
+Tom	B-CHARACTER
+whispered	O
+to	O
+me	O
+,	O
+and	O
+wanted	O
+to	O
+tie	O
+Jim	B-CHARACTER
+to	O
+the	O
+tree	O
+for	O
+fun	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000083
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But I said no ; he might wake and make a disturbance , and then they 'd find out I war n't in .
+But	O
+I	O
+said	O
+no	O
+;	O
+he	O
+might	O
+wake	O
+and	O
+make	O
+a	O
+disturbance	O
+,	O
+and	O
+then	O
+they	O
+'d	O
+find	O
+out	O
+I	O
+war	O
+n't	O
+in	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000084
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then Tom said he had n't got candles enough , and he would slip in the kitchen and get some more .
+Then	O
+Tom	B-CHARACTER
+said	O
+he	O
+had	O
+n't	O
+got	O
+candles	O
+enough	O
+,	O
+and	O
+he	O
+would	O
+slip	O
+in	O
+the	O
+kitchen	O
+and	O
+get	O
+some	O
+more	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000085
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I did n't want him to try .
+I	O
+did	O
+n't	O
+want	O
+him	O
+to	O
+try	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000086
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I said Jim might wake up and come .
+I	O
+said	O
+Jim	B-CHARACTER
+might	O
+wake	O
+up	O
+and	O
+come	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000087
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But Tom wanted to resk it ; so we slid in there and got three candles , and Tom laid five cents on the table for pay .
+But	O
+Tom	B-CHARACTER
+wanted	O
+to	O
+resk	O
+it	O
+;	O
+so	O
+we	O
+slid	O
+in	O
+there	O
+and	O
+got	O
+three	O
+candles	O
+,	O
+and	O
+Tom	B-CHARACTER
+laid	O
+five	O
+cents	O
+on	O
+the	O
+table	O
+for	O
+pay	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000088
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then we got out , and I was in a sweat to get away ; but nothing would do Tom but he must crawl to where Jim was , on his hands and knees , and play something on him .
+Then	O
+we	O
+got	O
+out	O
+,	O
+and	O
+I	O
+was	O
+in	O
+a	O
+sweat	O
+to	O
+get	O
+away	O
+;	O
+but	O
+nothing	O
+would	O
+do	O
+Tom	B-CHARACTER
+but	O
+he	O
+must	O
+crawl	O
+to	O
+where	O
+Jim	B-CHARACTER
+was	O
+,	O
+on	O
+his	O
+hands	O
+and	O
+knees	O
+,	O
+and	O
+play	O
+something	O
+on	O
+him	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000089
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I waited , and it seemed a good while , everything was so still and lonesome .
+I	O
+waited	O
+,	O
+and	O
+it	O
+seemed	O
+a	O
+good	O
+while	O
+,	O
+everything	O
+was	O
+so	O
+still	O
+and	O
+lonesome	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000090
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As soon as Tom was back we cut along the path , around the garden fence , and by and by fetched up on the steep top of the hill the other side of the house .
+As	O
+soon	O
+as	O
+Tom	B-CHARACTER
+was	O
+back	O
+we	O
+cut	O
+along	O
+the	O
+path	O
+,	O
+around	O
+the	O
+garden	O
+fence	O
+,	O
+and	O
+by	O
+and	O
+by	O
+fetched	O
+up	O
+on	O
+the	O
+steep	O
+top	O
+of	O
+the	O
+hill	O
+the	O
+other	O
+side	O
+of	O
+the	O
+house	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000091
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tom said he slipped Jim 's hat off of his head and hung it on a limb right over him , and Jim stirred a little , but he did n't wake .
+Tom	B-CHARACTER
+said	O
+he	O
+slipped	O
+Jim	B-CHARACTER
+'s	O
+hat	O
+off	O
+of	O
+his	O
+head	O
+and	O
+hung	O
+it	O
+on	O
+a	O
+limb	O
+right	O
+over	O
+him	O
+,	O
+and	O
+Jim	B-CHARACTER
+stirred	O
+a	O
+little	O
+,	O
+but	O
+he	O
+did	O
+n't	O
+wake	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000092
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Afterwards Jim said the witches be witched him and put him in a trance , and rode him all over the State , and then set him under the trees again , and hung his hat on a limb to show who done it .
+Afterwards	O
+Jim	B-CHARACTER
+said	O
+the	O
+witches	O
+be	O
+witched	O
+him	O
+and	O
+put	O
+him	O
+in	O
+a	O
+trance	O
+,	O
+and	O
+rode	O
+him	O
+all	O
+over	O
+the	O
+State	B-LOCATION
+,	O
+and	O
+then	O
+set	O
+him	O
+under	O
+the	O
+trees	O
+again	O
+,	O
+and	O
+hung	O
+his	O
+hat	O
+on	O
+a	O
+limb	O
+to	O
+show	O
+who	O
+done	O
+it	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000093
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And next time Jim told it he said they rode him down to New Orleans ; and , after that , every time he told it he spread it more and more , till by and by he said they rode him all over the world , and tired him most to death , and his back was all over saddle-boils .
+And	O
+next	O
+time	O
+Jim	B-CHARACTER
+told	O
+it	O
+he	O
+said	O
+they	O
+rode	O
+him	O
+down	O
+to	O
+New	B-LOCATION
+Orleans	I-LOCATION
+;	O
+and	O
+,	O
+after	O
+that	O
+,	O
+every	O
+time	O
+he	O
+told	O
+it	O
+he	O
+spread	O
+it	O
+more	O
+and	O
+more	O
+,	O
+till	O
+by	O
+and	O
+by	O
+he	O
+said	O
+they	O
+rode	O
+him	O
+all	O
+over	O
+the	O
+world	O
+,	O
+and	O
+tired	O
+him	O
+most	O
+to	O
+death	O
+,	O
+and	O
+his	O
+back	O
+was	O
+all	O
+over	O
+saddle-boils	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000094
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jim was monstrous proud about it , and he got so he would n't hardly notice the other niggers .
+Jim	B-CHARACTER
+was	O
+monstrous	O
+proud	O
+about	O
+it	O
+,	O
+and	O
+he	O
+got	O
+so	O
+he	O
+would	O
+n't	O
+hardly	O
+notice	O
+the	O
+other	O
+niggers	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000095
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Niggers would come miles to hear Jim tell about it , and he was more looked up to than any nigger in that country .
+Niggers	O
+would	O
+come	O
+miles	O
+to	O
+hear	O
+Jim	B-CHARACTER
+tell	O
+about	O
+it	O
+,	O
+and	O
+he	O
+was	O
+more	O
+looked	O
+up	O
+to	O
+than	O
+any	O
+nigger	O
+in	O
+that	O
+country	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000096
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Strange niggers would stand with their mouths open and look him all over , same as if he was a wonder .
+Strange	O
+niggers	O
+would	O
+stand	O
+with	O
+their	O
+mouths	O
+open	O
+and	O
+look	O
+him	O
+all	O
+over	O
+,	O
+same	O
+as	O
+if	O
+he	O
+was	O
+a	O
+wonder	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000097
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Niggers is always talking about witches in the dark by the kitchen fire ; but whenever one was talking and letting on to know all about such things , Jim would happen in and say , `` Hm !
+Niggers	O
+is	O
+always	O
+talking	O
+about	O
+witches	O
+in	O
+the	O
+dark	O
+by	O
+the	O
+kitchen	O
+fire	O
+;	O
+but	O
+whenever	O
+one	O
+was	O
+talking	O
+and	O
+letting	O
+on	O
+to	O
+know	O
+all	O
+about	O
+such	O
+things	O
+,	O
+Jim	B-CHARACTER
+would	O
+happen	O
+in	O
+and	O
+say	O
+,	O
+``	O
+Hm	O
+!	O
+
+# id = conivel-adventures-of-huckleberry-finn-000098
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What you know ` bout witches ? ''
+What	O
+you	O
+know	O
+`	O
+bout	O
+witches	O
+?	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000099
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = and that nigger was corked up and had to take a back seat .
+and	O
+that	O
+nigger	O
+was	O
+corked	O
+up	O
+and	O
+had	O
+to	O
+take	O
+a	O
+back	O
+seat	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000100
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jim always kept that five-center piece round his neck with a string , and said it was a charm the devil give to him with his own hands , and told him he could cure anybody with it and fetch witches whenever he wanted to just by saying something to it ; but he never told what it was he said to it .
+Jim	B-CHARACTER
+always	O
+kept	O
+that	O
+five-center	O
+piece	O
+round	O
+his	O
+neck	O
+with	O
+a	O
+string	O
+,	O
+and	O
+said	O
+it	O
+was	O
+a	O
+charm	O
+the	O
+devil	O
+give	O
+to	O
+him	O
+with	O
+his	O
+own	O
+hands	O
+,	O
+and	O
+told	O
+him	O
+he	O
+could	O
+cure	O
+anybody	O
+with	O
+it	O
+and	O
+fetch	O
+witches	O
+whenever	O
+he	O
+wanted	O
+to	O
+just	O
+by	O
+saying	O
+something	O
+to	O
+it	O
+;	O
+but	O
+he	O
+never	O
+told	O
+what	O
+it	O
+was	O
+he	O
+said	O
+to	O
+it	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000101
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Niggers would come from all around there and give Jim anything they had , just for a sight of that five-center piece ; but they would n't touch it , because the devil had had his hands on it .
+Niggers	O
+would	O
+come	O
+from	O
+all	O
+around	O
+there	O
+and	O
+give	O
+Jim	B-CHARACTER
+anything	O
+they	O
+had	O
+,	O
+just	O
+for	O
+a	O
+sight	O
+of	O
+that	O
+five-center	O
+piece	O
+;	O
+but	O
+they	O
+would	O
+n't	O
+touch	O
+it	O
+,	O
+because	O
+the	O
+devil	O
+had	O
+had	O
+his	O
+hands	O
+on	O
+it	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000102
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jim was most ruined for a servant , because he got stuck up on account of having seen the devil and been rode by witches .
+Jim	B-CHARACTER
+was	O
+most	O
+ruined	O
+for	O
+a	O
+servant	O
+,	O
+because	O
+he	O
+got	O
+stuck	O
+up	O
+on	O
+account	O
+of	O
+having	O
+seen	O
+the	O
+devil	O
+and	O
+been	O
+rode	O
+by	O
+witches	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000103
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , when Tom and me got to the edge of the hilltop we looked away down into the village and could see three or four lights twinkling , where there was sick folks , maybe ; and the stars over us was sparkling ever so fine ; and down by the village was the river , a whole mile broad , and awful still and grand .
+Well	O
+,	O
+when	O
+Tom	B-CHARACTER
+and	O
+me	O
+got	O
+to	O
+the	O
+edge	O
+of	O
+the	O
+hilltop	O
+we	O
+looked	O
+away	O
+down	O
+into	O
+the	O
+village	O
+and	O
+could	O
+see	O
+three	O
+or	O
+four	O
+lights	O
+twinkling	O
+,	O
+where	O
+there	O
+was	O
+sick	O
+folks	O
+,	O
+maybe	O
+;	O
+and	O
+the	O
+stars	O
+over	O
+us	O
+was	O
+sparkling	O
+ever	O
+so	O
+fine	O
+;	O
+and	O
+down	O
+by	O
+the	O
+village	O
+was	O
+the	O
+river	O
+,	O
+a	O
+whole	O
+mile	O
+broad	O
+,	O
+and	O
+awful	O
+still	O
+and	O
+grand	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000104
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We went down the hill and found Jo Harper and Ben Rogers , and two or three more of the boys , hid in the old tanyard .
+We	O
+went	O
+down	O
+the	O
+hill	O
+and	O
+found	O
+Jo	B-CHARACTER
+Harper	I-CHARACTER
+and	O
+Ben	B-CHARACTER
+Rogers	I-CHARACTER
+,	O
+and	O
+two	O
+or	O
+three	O
+more	O
+of	O
+the	O
+boys	O
+,	O
+hid	O
+in	O
+the	O
+old	O
+tanyard	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000105
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So we unhitched a skiff and pulled down the river two mile and a half , to the big scar on the hillside , and went ashore .
+So	O
+we	O
+unhitched	O
+a	O
+skiff	O
+and	O
+pulled	O
+down	O
+the	O
+river	O
+two	O
+mile	O
+and	O
+a	O
+half	O
+,	O
+to	O
+the	O
+big	O
+scar	O
+on	O
+the	O
+hillside	O
+,	O
+and	O
+went	O
+ashore	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000106
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We went to a clump of bushes , and Tom made everybody swear to keep the secret , and then showed them a hole in the hill , right in the thickest part of the bushes .
+We	O
+went	O
+to	O
+a	O
+clump	O
+of	O
+bushes	O
+,	O
+and	O
+Tom	B-CHARACTER
+made	O
+everybody	O
+swear	O
+to	O
+keep	O
+the	O
+secret	O
+,	O
+and	O
+then	O
+showed	O
+them	O
+a	O
+hole	O
+in	O
+the	O
+hill	O
+,	O
+right	O
+in	O
+the	O
+thickest	O
+part	O
+of	O
+the	O
+bushes	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000107
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then we lit the candles , and crawled in on our hands and knees .
+Then	O
+we	O
+lit	O
+the	O
+candles	O
+,	O
+and	O
+crawled	O
+in	O
+on	O
+our	O
+hands	O
+and	O
+knees	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000108
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We went about two hundred yards , and then the cave opened up .
+We	O
+went	O
+about	O
+two	O
+hundred	O
+yards	O
+,	O
+and	O
+then	O
+the	O
+cave	O
+opened	O
+up	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000109
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tom poked about amongst the passages , and pretty soon ducked under a wall where you would n't a noticed that there was a hole .
+Tom	B-CHARACTER
+poked	O
+about	O
+amongst	O
+the	O
+passages	O
+,	O
+and	O
+pretty	O
+soon	O
+ducked	O
+under	O
+a	O
+wall	O
+where	O
+you	O
+would	O
+n't	O
+a	O
+noticed	O
+that	O
+there	O
+was	O
+a	O
+hole	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000110
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We went along a narrow place and got into a kind of room , all damp and sweaty and cold , and there we stopped .
+We	O
+went	O
+along	O
+a	O
+narrow	O
+place	O
+and	O
+got	O
+into	O
+a	O
+kind	O
+of	O
+room	O
+,	O
+all	O
+damp	O
+and	O
+sweaty	O
+and	O
+cold	O
+,	O
+and	O
+there	O
+we	O
+stopped	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000111
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tom says : `` Now , we 'll start this band of robbers and call it Tom Sawyer 's Gang .
+Tom	B-CHARACTER
+says	O
+:	O
+``	O
+Now	O
+,	O
+we	O
+'ll	O
+start	O
+this	O
+band	O
+of	O
+robbers	O
+and	O
+call	O
+it	O
+Tom	O
+Sawyer	O
+'s	O
+Gang	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000112
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Everybody that wants to join has got to take an oath , and write his name in blood . ''
+Everybody	O
+that	O
+wants	O
+to	O
+join	O
+has	O
+got	O
+to	O
+take	O
+an	O
+oath	O
+,	O
+and	O
+write	O
+his	O
+name	O
+in	O
+blood	O
+.	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000113
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Everybody was willing .
+Everybody	O
+was	O
+willing	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000114
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So Tom got out a sheet of paper that he had wrote the oath on , and read it .
+So	O
+Tom	B-CHARACTER
+got	O
+out	O
+a	O
+sheet	O
+of	O
+paper	O
+that	O
+he	O
+had	O
+wrote	O
+the	O
+oath	O
+on	O
+,	O
+and	O
+read	O
+it	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000115
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It swore every boy to stick to the band , and never tell any of the secrets ; and if anybody done anything to any boy in the band , whichever boy was ordered to kill that person and his family must do it , and he must n't eat and he must n't sleep till he had killed them and hacked a cross in their breasts , which was the sign of the band .
+It	O
+swore	O
+every	O
+boy	O
+to	O
+stick	O
+to	O
+the	O
+band	O
+,	O
+and	O
+never	O
+tell	O
+any	O
+of	O
+the	O
+secrets	O
+;	O
+and	O
+if	O
+anybody	O
+done	O
+anything	O
+to	O
+any	O
+boy	O
+in	O
+the	O
+band	O
+,	O
+whichever	O
+boy	O
+was	O
+ordered	O
+to	O
+kill	O
+that	O
+person	O
+and	O
+his	O
+family	O
+must	O
+do	O
+it	O
+,	O
+and	O
+he	O
+must	O
+n't	O
+eat	O
+and	O
+he	O
+must	O
+n't	O
+sleep	O
+till	O
+he	O
+had	O
+killed	O
+them	O
+and	O
+hacked	O
+a	O
+cross	O
+in	O
+their	O
+breasts	O
+,	O
+which	O
+was	O
+the	O
+sign	O
+of	O
+the	O
+band	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000116
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And nobody that did n't belong to the band could use that mark , and if he did he must be sued ; and if he done it again he must be killed .
+And	O
+nobody	O
+that	O
+did	O
+n't	O
+belong	O
+to	O
+the	O
+band	O
+could	O
+use	O
+that	O
+mark	O
+,	O
+and	O
+if	O
+he	O
+did	O
+he	O
+must	O
+be	O
+sued	O
+;	O
+and	O
+if	O
+he	O
+done	O
+it	O
+again	O
+he	O
+must	O
+be	O
+killed	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000117
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And if anybody that belonged to the band told the secrets , he must have his throat cut , and then have his carcass burnt up and the ashes scattered all around , and his name blotted off of the list with blood and never mentioned again by the gang , but have a curse put on it and be forgot forever .
+And	O
+if	O
+anybody	O
+that	O
+belonged	O
+to	O
+the	O
+band	O
+told	O
+the	O
+secrets	O
+,	O
+he	O
+must	O
+have	O
+his	O
+throat	O
+cut	O
+,	O
+and	O
+then	O
+have	O
+his	O
+carcass	O
+burnt	O
+up	O
+and	O
+the	O
+ashes	O
+scattered	O
+all	O
+around	O
+,	O
+and	O
+his	O
+name	O
+blotted	O
+off	O
+of	O
+the	O
+list	O
+with	O
+blood	O
+and	O
+never	O
+mentioned	O
+again	O
+by	O
+the	O
+gang	O
+,	O
+but	O
+have	O
+a	O
+curse	O
+put	O
+on	O
+it	O
+and	O
+be	O
+forgot	O
+forever	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000118
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Everybody said it was a real beautiful oath , and asked Tom if he got it out of his own head .
+Everybody	O
+said	O
+it	O
+was	O
+a	O
+real	O
+beautiful	O
+oath	O
+,	O
+and	O
+asked	O
+Tom	B-CHARACTER
+if	O
+he	O
+got	O
+it	O
+out	O
+of	O
+his	O
+own	O
+head	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000119
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He said , some of it , but the rest was out of pirate-books and robber-books , and every gang that was high-toned had it .
+He	O
+said	O
+,	O
+some	O
+of	O
+it	O
+,	O
+but	O
+the	O
+rest	O
+was	O
+out	O
+of	O
+pirate-books	O
+and	O
+robber-books	O
+,	O
+and	O
+every	O
+gang	O
+that	O
+was	O
+high-toned	O
+had	O
+it	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000120
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Some thought it would be good to kill the _ families _ of boys that told the secrets .
+Some	O
+thought	O
+it	O
+would	O
+be	O
+good	O
+to	O
+kill	O
+the	O
+_	O
+families	O
+_	O
+of	O
+boys	O
+that	O
+told	O
+the	O
+secrets	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000121
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tom said it was a good idea , so he took a pencil and wrote it in .
+Tom	B-CHARACTER
+said	O
+it	O
+was	O
+a	O
+good	O
+idea	O
+,	O
+so	O
+he	O
+took	O
+a	O
+pencil	O
+and	O
+wrote	O
+it	O
+in	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000122
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then Ben Rogers says : `` Here 's Huck Finn , he hai n't got no family ; what you going to do ` bout him ? ''
+Then	O
+Ben	B-CHARACTER
+Rogers	I-CHARACTER
+says	O
+:	O
+``	O
+Here	O
+'s	O
+Huck	B-CHARACTER
+Finn	I-CHARACTER
+,	O
+he	O
+hai	O
+n't	O
+got	O
+no	O
+family	O
+;	O
+what	O
+you	O
+going	O
+to	O
+do	O
+`	O
+bout	O
+him	O
+?	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000123
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , hai n't he got a father ? ''
+``	O
+Well	O
+,	O
+hai	O
+n't	O
+he	O
+got	O
+a	O
+father	O
+?	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000124
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = says Tom Sawyer .
+says	O
+Tom	B-CHARACTER
+Sawyer	I-CHARACTER
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000125
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , he 's got a father , but you ca n't never find him these days .
+``	O
+Yes	O
+,	O
+he	O
+'s	O
+got	O
+a	O
+father	O
+,	O
+but	O
+you	O
+ca	O
+n't	O
+never	O
+find	O
+him	O
+these	O
+days	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000126
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He used to lay drunk with the hogs in the tanyard , but he hai n't been seen in these parts for a year or more . ''
+He	O
+used	O
+to	O
+lay	O
+drunk	O
+with	O
+the	O
+hogs	O
+in	O
+the	O
+tanyard	O
+,	O
+but	O
+he	O
+hai	O
+n't	O
+been	O
+seen	O
+in	O
+these	O
+parts	O
+for	O
+a	O
+year	O
+or	O
+more	O
+.	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000127
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They talked it over , and they was going to rule me out , because they said every boy must have a family or somebody to kill , or else it would n't be fair and square for the others .
+They	O
+talked	O
+it	O
+over	O
+,	O
+and	O
+they	O
+was	O
+going	O
+to	O
+rule	O
+me	O
+out	O
+,	O
+because	O
+they	O
+said	O
+every	O
+boy	O
+must	O
+have	O
+a	O
+family	O
+or	O
+somebody	O
+to	O
+kill	O
+,	O
+or	O
+else	O
+it	O
+would	O
+n't	O
+be	O
+fair	O
+and	O
+square	O
+for	O
+the	O
+others	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000128
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , nobody could think of anything to do -- everybody was stumped , and set still .
+Well	O
+,	O
+nobody	O
+could	O
+think	O
+of	O
+anything	O
+to	O
+do	O
+--	O
+everybody	O
+was	O
+stumped	O
+,	O
+and	O
+set	O
+still	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000129
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was most ready to cry ; but all at once I thought of a way , and so I offered them Miss Watson -- they could kill her .
+I	O
+was	O
+most	O
+ready	O
+to	O
+cry	O
+;	O
+but	O
+all	O
+at	O
+once	O
+I	O
+thought	O
+of	O
+a	O
+way	O
+,	O
+and	O
+so	O
+I	O
+offered	O
+them	O
+Miss	B-CHARACTER
+Watson	I-CHARACTER
+--	O
+they	O
+could	O
+kill	O
+her	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000130
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Everybody said : `` Oh , she 'll do .
+Everybody	O
+said	O
+:	O
+``	O
+Oh	O
+,	O
+she	O
+'ll	O
+do	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000131
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That 's all right .
+That	O
+'s	O
+all	O
+right	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000132
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Huck can come in . ''
+Huck	B-CHARACTER
+can	O
+come	O
+in	O
+.	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000133
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then they all stuck a pin in their fingers to get blood to sign with , and I made my mark on the paper .
+Then	O
+they	O
+all	O
+stuck	O
+a	O
+pin	O
+in	O
+their	O
+fingers	O
+to	O
+get	O
+blood	O
+to	O
+sign	O
+with	O
+,	O
+and	O
+I	O
+made	O
+my	O
+mark	O
+on	O
+the	O
+paper	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000134
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Now , ''
+``	O
+Now	O
+,	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000135
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = says Ben Rogers , `` what 's the line of business of this Gang ? ''
+says	O
+Ben	B-CHARACTER
+Rogers	I-CHARACTER
+,	O
+``	O
+what	O
+'s	O
+the	O
+line	O
+of	O
+business	O
+of	O
+this	O
+Gang	O
+?	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000136
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Nothing only robbery and murder , ''
+``	O
+Nothing	O
+only	O
+robbery	O
+and	O
+murder	O
+,	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000137
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tom said .
+Tom	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000138
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But who are we going to rob ?
+``	O
+But	O
+who	O
+are	O
+we	O
+going	O
+to	O
+rob	O
+?	O
+
+# id = conivel-adventures-of-huckleberry-finn-000139
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- houses , or cattle , or -- ''
+--	O
+houses	O
+,	O
+or	O
+cattle	O
+,	O
+or	O
+--	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000140
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Stuff !
+``	O
+Stuff	O
+!	O
+
+# id = conivel-adventures-of-huckleberry-finn-000141
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = stealing cattle and such things ai n't robbery ; it 's burglary , ''
+stealing	O
+cattle	O
+and	O
+such	O
+things	O
+ai	O
+n't	O
+robbery	O
+;	O
+it	O
+'s	O
+burglary	O
+,	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000142
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = says Tom Sawyer .
+says	O
+Tom	B-CHARACTER
+Sawyer	I-CHARACTER
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000143
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We ai n't burglars .
+``	O
+We	O
+ai	O
+n't	O
+burglars	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000144
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That ai n't no sort of style .
+That	O
+ai	O
+n't	O
+no	O
+sort	O
+of	O
+style	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000145
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We are highwaymen .
+We	O
+are	O
+highwaymen	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000146
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We stop stages and carriages on the road , with masks on , and kill the people and take their watches and money . ''
+We	O
+stop	O
+stages	O
+and	O
+carriages	O
+on	O
+the	O
+road	O
+,	O
+with	O
+masks	O
+on	O
+,	O
+and	O
+kill	O
+the	O
+people	O
+and	O
+take	O
+their	O
+watches	O
+and	O
+money	O
+.	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000147
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Must we always kill the people ? ''
+``	O
+Must	O
+we	O
+always	O
+kill	O
+the	O
+people	O
+?	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000148
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Oh , certainly .
+``	O
+Oh	O
+,	O
+certainly	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000149
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's best .
+It	O
+'s	O
+best	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000150
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Some authorities think different , but mostly it 's considered best to kill them -- except some that you bring to the cave here , and keep them till they 're ransomed . ''
+Some	O
+authorities	O
+think	O
+different	O
+,	O
+but	O
+mostly	O
+it	O
+'s	O
+considered	O
+best	O
+to	O
+kill	O
+them	O
+--	O
+except	O
+some	O
+that	O
+you	O
+bring	O
+to	O
+the	O
+cave	O
+here	O
+,	O
+and	O
+keep	O
+them	O
+till	O
+they	O
+'re	O
+ransomed	O
+.	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000151
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ransomed ?
+``	O
+Ransomed	O
+?	O
+
+# id = conivel-adventures-of-huckleberry-finn-000152
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What 's that ? ''
+What	O
+'s	O
+that	O
+?	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000153
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do n't know .
+``	O
+I	O
+do	O
+n't	O
+know	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000154
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But that 's what they do .
+But	O
+that	O
+'s	O
+what	O
+they	O
+do	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000155
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 've seen it in books ; and so of course that 's what we 've got to do . ''
+I	O
+'ve	O
+seen	O
+it	O
+in	O
+books	O
+;	O
+and	O
+so	O
+of	O
+course	O
+that	O
+'s	O
+what	O
+we	O
+'ve	O
+got	O
+to	O
+do	O
+.	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000156
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But how can we do it if we do n't know what it is ? ''
+``	O
+But	O
+how	O
+can	O
+we	O
+do	O
+it	O
+if	O
+we	O
+do	O
+n't	O
+know	O
+what	O
+it	O
+is	O
+?	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000157
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Why , blame it all , we 've _ got _ to do it .
+``	O
+Why	O
+,	O
+blame	O
+it	O
+all	O
+,	O
+we	O
+'ve	O
+_	O
+got	O
+_	O
+to	O
+do	O
+it	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000158
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Do n't I tell you it 's in the books ?
+Do	O
+n't	O
+I	O
+tell	O
+you	O
+it	O
+'s	O
+in	O
+the	O
+books	O
+?	O
+
+# id = conivel-adventures-of-huckleberry-finn-000159
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Do you want to go to doing different from what 's in the books , and get things all muddled up ? ''
+Do	O
+you	O
+want	O
+to	O
+go	O
+to	O
+doing	O
+different	O
+from	O
+what	O
+'s	O
+in	O
+the	O
+books	O
+,	O
+and	O
+get	O
+things	O
+all	O
+muddled	O
+up	O
+?	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000160
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Oh , that 's all very fine to _ say _ , Tom Sawyer , but how in the nation are these fellows going to be ransomed if we do n't know how to do it to them ?
+``	O
+Oh	O
+,	O
+that	O
+'s	O
+all	O
+very	O
+fine	O
+to	O
+_	O
+say	O
+_	O
+,	O
+Tom	B-CHARACTER
+Sawyer	I-CHARACTER
+,	O
+but	O
+how	O
+in	O
+the	O
+nation	O
+are	O
+these	O
+fellows	O
+going	O
+to	O
+be	O
+ransomed	O
+if	O
+we	O
+do	O
+n't	O
+know	O
+how	O
+to	O
+do	O
+it	O
+to	O
+them	O
+?	O
+
+# id = conivel-adventures-of-huckleberry-finn-000161
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- that 's the thing I want to get at .
+--	O
+that	O
+'s	O
+the	O
+thing	O
+I	O
+want	O
+to	O
+get	O
+at	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000162
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now , what do you reckon it is ? ''
+Now	O
+,	O
+what	O
+do	O
+you	O
+reckon	O
+it	O
+is	O
+?	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000163
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , I do n't know .
+``	O
+Well	O
+,	O
+I	O
+do	O
+n't	O
+know	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000164
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But per ' aps if we keep them till they 're ransomed , it means that we keep them till they 're dead . ''
+But	O
+per	O
+'	O
+aps	O
+if	O
+we	O
+keep	O
+them	O
+till	O
+they	O
+'re	O
+ransomed	O
+,	O
+it	O
+means	O
+that	O
+we	O
+keep	O
+them	O
+till	O
+they	O
+'re	O
+dead	O
+.	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000165
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Now , that 's something _ like _ .
+``	O
+Now	O
+,	O
+that	O
+'s	O
+something	O
+_	O
+like	O
+_	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000166
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That 'll answer .
+That	O
+'ll	O
+answer	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000167
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Why could n't you said that before ?
+Why	O
+could	O
+n't	O
+you	O
+said	O
+that	O
+before	O
+?	O
+
+# id = conivel-adventures-of-huckleberry-finn-000168
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We 'll keep them till they 're ransomed to death ; and a bothersome lot they 'll be , too -- eating up everything , and always trying to get loose . ''
+We	O
+'ll	O
+keep	O
+them	O
+till	O
+they	O
+'re	O
+ransomed	O
+to	O
+death	O
+;	O
+and	O
+a	O
+bothersome	O
+lot	O
+they	O
+'ll	O
+be	O
+,	O
+too	O
+--	O
+eating	O
+up	O
+everything	O
+,	O
+and	O
+always	O
+trying	O
+to	O
+get	O
+loose	O
+.	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000169
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How you talk , Ben Rogers .
+``	O
+How	O
+you	O
+talk	O
+,	O
+Ben	B-CHARACTER
+Rogers	I-CHARACTER
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000170
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How can they get loose when there 's a guard over them , ready to shoot them down if they move a peg ? ''
+How	O
+can	O
+they	O
+get	O
+loose	O
+when	O
+there	O
+'s	O
+a	O
+guard	O
+over	O
+them	O
+,	O
+ready	O
+to	O
+shoot	O
+them	O
+down	O
+if	O
+they	O
+move	O
+a	O
+peg	O
+?	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000171
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A guard !
+``	O
+A	O
+guard	O
+!	O
+
+# id = conivel-adventures-of-huckleberry-finn-000172
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , that _ is _ good .
+Well	O
+,	O
+that	O
+_	O
+is	O
+_	O
+good	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000173
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So somebody 's got to set up all night and never get any sleep , just so as to watch them .
+So	O
+somebody	O
+'s	O
+got	O
+to	O
+set	O
+up	O
+all	O
+night	O
+and	O
+never	O
+get	O
+any	O
+sleep	O
+,	O
+just	O
+so	O
+as	O
+to	O
+watch	O
+them	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000174
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I think that 's foolishness .
+I	O
+think	O
+that	O
+'s	O
+foolishness	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000175
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Why ca n't a body take a club and ransom them as soon as they get here ? ''
+Why	O
+ca	O
+n't	O
+a	O
+body	O
+take	O
+a	O
+club	O
+and	O
+ransom	O
+them	O
+as	O
+soon	O
+as	O
+they	O
+get	O
+here	O
+?	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000176
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Because it ai n't in the books so -- that 's why .
+``	O
+Because	O
+it	O
+ai	O
+n't	O
+in	O
+the	O
+books	O
+so	O
+--	O
+that	O
+'s	O
+why	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000177
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now , Ben Rogers , do you want to do things regular , or do n't you ?
+Now	O
+,	O
+Ben	B-CHARACTER
+Rogers	I-CHARACTER
+,	O
+do	O
+you	O
+want	O
+to	O
+do	O
+things	O
+regular	O
+,	O
+or	O
+do	O
+n't	O
+you	O
+?	O
+
+# id = conivel-adventures-of-huckleberry-finn-000178
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- that 's the idea .
+--	O
+that	O
+'s	O
+the	O
+idea	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000179
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Do n't you reckon that the people that made the books knows what 's the correct thing to do ?
+Do	O
+n't	O
+you	O
+reckon	O
+that	O
+the	O
+people	O
+that	O
+made	O
+the	O
+books	O
+knows	O
+what	O
+'s	O
+the	O
+correct	O
+thing	O
+to	O
+do	O
+?	O
+
+# id = conivel-adventures-of-huckleberry-finn-000180
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Do you reckon _ you _ can learn ` em anything ?
+Do	O
+you	O
+reckon	O
+_	O
+you	O
+_	O
+can	O
+learn	O
+`	O
+em	O
+anything	O
+?	O
+
+# id = conivel-adventures-of-huckleberry-finn-000181
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not by a good deal .
+Not	O
+by	O
+a	O
+good	O
+deal	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000182
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No , sir , we 'll just go on and ransom them in the regular way . ''
+No	O
+,	O
+sir	O
+,	O
+we	O
+'ll	O
+just	O
+go	O
+on	O
+and	O
+ransom	O
+them	O
+in	O
+the	O
+regular	O
+way	O
+.	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000183
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` All right .
+``	O
+All	O
+right	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000184
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I do n't mind ; but I say it 's a fool way , anyhow .
+I	O
+do	O
+n't	O
+mind	O
+;	O
+but	O
+I	O
+say	O
+it	O
+'s	O
+a	O
+fool	O
+way	O
+,	O
+anyhow	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000185
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Say , do we kill the women , too ? ''
+Say	O
+,	O
+do	O
+we	O
+kill	O
+the	O
+women	O
+,	O
+too	O
+?	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000186
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , Ben Rogers , if I was as ignorant as you I would n't let on .
+``	O
+Well	O
+,	O
+Ben	B-CHARACTER
+Rogers	I-CHARACTER
+,	O
+if	O
+I	O
+was	O
+as	O
+ignorant	O
+as	O
+you	O
+I	O
+would	O
+n't	O
+let	O
+on	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000187
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kill the women ?
+Kill	O
+the	O
+women	O
+?	O
+
+# id = conivel-adventures-of-huckleberry-finn-000188
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No ; nobody ever saw anything in the books like that .
+No	O
+;	O
+nobody	O
+ever	O
+saw	O
+anything	O
+in	O
+the	O
+books	O
+like	O
+that	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000189
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You fetch them to the cave , and you 're always as polite as pie to them ; and by and by they fall in love with you , and never want to go home any more . ''
+You	O
+fetch	O
+them	O
+to	O
+the	O
+cave	O
+,	O
+and	O
+you	O
+'re	O
+always	O
+as	O
+polite	O
+as	O
+pie	O
+to	O
+them	O
+;	O
+and	O
+by	O
+and	O
+by	O
+they	O
+fall	O
+in	O
+love	O
+with	O
+you	O
+,	O
+and	O
+never	O
+want	O
+to	O
+go	O
+home	O
+any	O
+more	O
+.	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000190
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , if that 's the way I 'm agreed , but I do n't take no stock in it .
+``	O
+Well	O
+,	O
+if	O
+that	O
+'s	O
+the	O
+way	O
+I	O
+'m	O
+agreed	O
+,	O
+but	O
+I	O
+do	O
+n't	O
+take	O
+no	O
+stock	O
+in	O
+it	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000191
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mighty soon we 'll have the cave so cluttered up with women , and fellows waiting to be ransomed , that there wo n't be no place for the robbers .
+Mighty	O
+soon	O
+we	O
+'ll	O
+have	O
+the	O
+cave	O
+so	O
+cluttered	O
+up	O
+with	O
+women	O
+,	O
+and	O
+fellows	O
+waiting	O
+to	O
+be	O
+ransomed	O
+,	O
+that	O
+there	O
+wo	O
+n't	O
+be	O
+no	O
+place	O
+for	O
+the	O
+robbers	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000192
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But go ahead , I ai n't got nothing to say . ''
+But	O
+go	O
+ahead	O
+,	O
+I	O
+ai	O
+n't	O
+got	O
+nothing	O
+to	O
+say	O
+.	O
+''	O
+
+# id = conivel-adventures-of-huckleberry-finn-000193
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Little Tommy Barnes was asleep now , and when they waked him up he was scared , and cried , and said he wanted to go home to his ma , and did n't want to be a robber any more .
+Little	O
+Tommy	B-CHARACTER
+Barnes	I-CHARACTER
+was	O
+asleep	O
+now	O
+,	O
+and	O
+when	O
+they	O
+waked	O
+him	O
+up	O
+he	O
+was	O
+scared	O
+,	O
+and	O
+cried	O
+,	O
+and	O
+said	O
+he	O
+wanted	O
+to	O
+go	O
+home	O
+to	O
+his	O
+ma	O
+,	O
+and	O
+did	O
+n't	O
+want	O
+to	O
+be	O
+a	O
+robber	O
+any	O
+more	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000194
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So they all made fun of him , and called him cry-baby , and that made him mad , and he said he would go straight and tell all the secrets .
+So	O
+they	O
+all	O
+made	O
+fun	O
+of	O
+him	O
+,	O
+and	O
+called	O
+him	O
+cry-baby	O
+,	O
+and	O
+that	O
+made	O
+him	O
+mad	O
+,	O
+and	O
+he	O
+said	O
+he	O
+would	O
+go	O
+straight	O
+and	O
+tell	O
+all	O
+the	O
+secrets	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000195
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But Tom give him five cents to keep quiet , and said we would all go home and meet next week , and rob somebody and kill some people .
+But	O
+Tom	B-CHARACTER
+give	O
+him	O
+five	O
+cents	O
+to	O
+keep	O
+quiet	O
+,	O
+and	O
+said	O
+we	O
+would	O
+all	O
+go	O
+home	O
+and	O
+meet	O
+next	O
+week	O
+,	O
+and	O
+rob	O
+somebody	O
+and	O
+kill	O
+some	O
+people	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000196
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ben Rogers said he could n't get out much , only Sundays , and so he wanted to begin next Sunday ; but all the boys said it would be wicked to do it on Sunday , and that settled the thing .
+Ben	B-CHARACTER
+Rogers	I-CHARACTER
+said	O
+he	O
+could	O
+n't	O
+get	O
+out	O
+much	O
+,	O
+only	O
+Sundays	O
+,	O
+and	O
+so	O
+he	O
+wanted	O
+to	O
+begin	O
+next	O
+Sunday	O
+;	O
+but	O
+all	O
+the	O
+boys	O
+said	O
+it	O
+would	O
+be	O
+wicked	O
+to	O
+do	O
+it	O
+on	O
+Sunday	O
+,	O
+and	O
+that	O
+settled	O
+the	O
+thing	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000197
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They agreed to get together and fix a day as soon as they could , and then we elected Tom Sawyer first captain and Jo Harper second captain of the Gang , and so started home .
+They	O
+agreed	O
+to	O
+get	O
+together	O
+and	O
+fix	O
+a	O
+day	O
+as	O
+soon	O
+as	O
+they	O
+could	O
+,	O
+and	O
+then	O
+we	O
+elected	O
+Tom	B-CHARACTER
+Sawyer	I-CHARACTER
+first	O
+captain	O
+and	O
+Jo	B-CHARACTER
+Harper	I-CHARACTER
+second	O
+captain	O
+of	O
+the	O
+Gang	O
+,	O
+and	O
+so	O
+started	O
+home	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000198
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I clumb up the shed and crept into my window just before day was breaking .
+I	O
+clumb	O
+up	O
+the	O
+shed	O
+and	O
+crept	O
+into	O
+my	O
+window	O
+just	O
+before	O
+day	O
+was	O
+breaking	O
+.	O
+
+# id = conivel-adventures-of-huckleberry-finn-000199
+# source = Conivel corrected OWTO literary NER
+# book = Adventures of Huckleberry Finn
+# source_file = HuckleberryFinn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My new clothes was all greased up and clayey , and I was dog-tired .
+My	O
+new	O
+clothes	O
+was	O
+all	O
+greased	O
+up	O
+and	O
+clayey	O
+,	O
+and	O
+I	O
+was	O
+dog-tired	O
+.	O
+

@@ -1,0 +1,485 @@
+# id = of-name-character-0001
+
+# source = synthetic_of_names
+
+# text = joan of arc entered rouen before dawn
+
+joan	B-CHARACTER
+of	I-CHARACTER
+arc	I-CHARACTER
+entered	O
+rouen	B-LOCATION
+before	O
+dawn	O
+
+# id = of-name-character-0002
+
+# source = synthetic_of_names
+
+# text = catherine of siena spoke softly in the chapel
+
+catherine	B-CHARACTER
+of	I-CHARACTER
+siena	I-CHARACTER
+spoke	O
+softly	O
+in	O
+the	O
+chapel	O
+
+# id = of-name-character-0003
+
+# source = synthetic_of_names
+
+# text = eleanor of aquitaine crossed london bridge at sunset
+
+eleanor	B-CHARACTER
+of	I-CHARACTER
+aquitaine	I-CHARACTER
+crossed	O
+london	B-LOCATION
+bridge	I-LOCATION
+at	O
+sunset	O
+
+# id = of-name-character-0004
+
+# source = synthetic_of_names
+
+# text = richard of york waited inside the tower of london
+
+richard	B-CHARACTER
+of	I-CHARACTER
+york	I-CHARACTER
+waited	O
+inside	O
+the	O
+tower	B-LOCATION
+of	I-LOCATION
+london	I-LOCATION
+
+# id = of-name-character-0005
+
+# source = synthetic_of_names
+
+# text = alaric of stonehaven rode north from ashford
+
+alaric	B-CHARACTER
+of	I-CHARACTER
+stonehaven	I-CHARACTER
+rode	O
+north	O
+from	O
+ashford	B-LOCATION
+
+# id = of-name-character-0006
+
+# source = synthetic_of_names
+
+# text = mira of the vale found elias of thorn in blackfen manor
+
+mira	B-CHARACTER
+of	I-CHARACTER
+the	I-CHARACTER
+vale	I-CHARACTER
+found	O
+elias	B-CHARACTER
+of	I-CHARACTER
+thorn	I-CHARACTER
+in	O
+blackfen	B-LOCATION
+manor	I-LOCATION
+
+# id = of-name-character-0007
+
+# source = synthetic_of_names
+
+# text = the guards opened the gate for cedric of westmarch
+
+the	O
+guards	O
+opened	O
+the	O
+gate	O
+for	O
+cedric	B-CHARACTER
+of	I-CHARACTER
+westmarch	I-CHARACTER
+
+# id = of-name-character-0008
+
+# source = synthetic_of_names
+
+# text = at dawn lyra of emberfall reached silvermere
+
+at	O
+dawn	O
+lyra	B-CHARACTER
+of	I-CHARACTER
+emberfall	I-CHARACTER
+reached	O
+silvermere	B-LOCATION
+
+# id = of-name-character-0009
+
+# source = synthetic_of_names
+
+# text = seraphine of the isles left port aurelia before the storm
+
+seraphine	B-CHARACTER
+of	I-CHARACTER
+the	I-CHARACTER
+isles	I-CHARACTER
+left	O
+port	B-LOCATION
+aurelia	I-LOCATION
+before	O
+the	O
+storm	O
+
+# id = of-name-character-0010
+
+# source = synthetic_of_names
+
+# text = the letter from jonah of red hill arrived in whitebridge
+
+the	O
+letter	O
+from	O
+jonah	B-CHARACTER
+of	I-CHARACTER
+red	I-CHARACTER
+hill	I-CHARACTER
+arrived	O
+in	O
+whitebridge	B-LOCATION
+
+# id = of-name-character-0011
+
+# source = synthetic_of_names
+
+# text = marcus of raven rock met anna of frostmere beside the river arden
+
+marcus	B-CHARACTER
+of	I-CHARACTER
+raven	I-CHARACTER
+rock	I-CHARACTER
+met	O
+anna	B-CHARACTER
+of	I-CHARACTER
+frostmere	I-CHARACTER
+beside	O
+the	O
+river	B-LOCATION
+arden	I-LOCATION
+
+# id = of-name-character-0012
+
+# source = synthetic_of_names
+
+# text = no one in kingsport recognized thomas of ash
+
+no	O
+one	O
+in	O
+kingsport	B-LOCATION
+recognized	O
+thomas	B-CHARACTER
+of	I-CHARACTER
+ash	I-CHARACTER
+
+# id = of-name-character-0013
+
+# source = synthetic_of_names
+
+# text = elena of the north watched the road to highgarden
+
+elena	B-CHARACTER
+of	I-CHARACTER
+the	I-CHARACTER
+north	I-CHARACTER
+watched	O
+the	O
+road	O
+to	O
+highgarden	B-LOCATION
+
+# id = of-name-character-0014
+
+# source = synthetic_of_names
+
+# text = gabriel of saint denis carried the message into bellhaven
+
+gabriel	B-CHARACTER
+of	I-CHARACTER
+saint	I-CHARACTER
+denis	I-CHARACTER
+carried	O
+the	O
+message	O
+into	O
+bellhaven	B-LOCATION
+
+# id = of-name-character-0015
+
+# source = synthetic_of_names
+
+# text = lucia of monte verde hid the key beneath oakwatch tower
+
+lucia	B-CHARACTER
+of	I-CHARACTER
+monte	I-CHARACTER
+verde	I-CHARACTER
+hid	O
+the	O
+key	O
+beneath	O
+oakwatch	B-LOCATION
+tower	I-LOCATION
+
+# id = of-name-character-0016
+
+# source = synthetic_of_names
+
+# text = the riders followed ren of seven valleys through duskwood
+
+the	O
+riders	O
+followed	O
+ren	B-CHARACTER
+of	I-CHARACTER
+seven	I-CHARACTER
+valleys	I-CHARACTER
+through	O
+duskwood	B-LOCATION
+
+# id = of-name-character-0017
+
+# source = synthetic_of_names
+
+# text = orla of black water waited alone at crowspire
+
+orla	B-CHARACTER
+of	I-CHARACTER
+black	I-CHARACTER
+water	I-CHARACTER
+waited	O
+alone	O
+at	O
+crowspire	B-LOCATION
+
+# id = of-name-character-0018
+
+# source = synthetic_of_names
+
+# text = beneath the walls of cairn keep stood davin of the coast
+
+beneath	O
+the	O
+walls	O
+of	O
+cairn	B-LOCATION
+keep	I-LOCATION
+stood	O
+davin	B-CHARACTER
+of	I-CHARACTER
+the	I-CHARACTER
+coast	I-CHARACTER
+
+# id = of-name-character-0019
+
+# source = synthetic_of_names
+
+# text = helena of brighton met the captain near westgate
+
+helena	B-CHARACTER
+of	I-CHARACTER
+brighton	I-CHARACTER
+met	O
+the	O
+captain	O
+near	O
+westgate	B-LOCATION
+
+# id = of-name-character-0020
+
+# source = synthetic_of_names
+
+# text = in brighton helena of brighton purchased a silver compass
+
+in	O
+brighton	B-LOCATION
+helena	B-CHARACTER
+of	I-CHARACTER
+brighton	I-CHARACTER
+purchased	O
+a	O
+silver	O
+compass	O
+
+# id = of-name-character-0021
+
+# source = synthetic_of_names
+
+# text = rowan of the hollow disappeared behind the green chapel
+
+rowan	B-CHARACTER
+of	I-CHARACTER
+the	I-CHARACTER
+hollow	I-CHARACTER
+disappeared	O
+behind	O
+the	O
+green	B-LOCATION
+chapel	I-LOCATION
+
+# id = of-name-character-0022
+
+# source = synthetic_of_names
+
+# text = martin of tours answered the messenger from valecross
+
+martin	B-CHARACTER
+of	I-CHARACTER
+tours	I-CHARACTER
+answered	O
+the	O
+messenger	O
+from	O
+valecross	B-LOCATION
+
+# id = of-name-character-0023
+
+# source = synthetic_of_names
+
+# text = agnes of moon lake arrived after the gates had closed
+
+agnes	B-CHARACTER
+of	I-CHARACTER
+moon	I-CHARACTER
+lake	I-CHARACTER
+arrived	O
+after	O
+the	O
+gates	O
+had	O
+closed	O
+
+# id = of-name-character-0024
+
+# source = synthetic_of_names
+
+# text = felix of winter court searched the ruins of old merrow
+
+felix	B-CHARACTER
+of	I-CHARACTER
+winter	I-CHARACTER
+court	I-CHARACTER
+searched	O
+the	O
+ruins	O
+of	O
+old	B-LOCATION
+merrow	I-LOCATION
+
+# id = of-name-character-0025
+
+# source = synthetic_of_names
+
+# text = yasmin of al qamar sailed from the harbour at dawn
+
+yasmin	B-CHARACTER
+of	I-CHARACTER
+al	I-CHARACTER
+qamar	I-CHARACTER
+sailed	O
+from	O
+the	O
+harbour	O
+at	O
+dawn	O
+
+# id = of-name-character-0026
+
+# source = synthetic_of_names
+
+# text = niko of old harbour refused to enter new harbour
+
+niko	B-CHARACTER
+of	I-CHARACTER
+old	I-CHARACTER
+harbour	I-CHARACTER
+refused	O
+to	O
+enter	O
+new	B-LOCATION
+harbour	I-LOCATION
+
+# id = of-name-character-0027
+
+# source = synthetic_of_names
+
+# text = saoirse of dunmore heard music drifting across lake corran
+
+saoirse	B-CHARACTER
+of	I-CHARACTER
+dunmore	I-CHARACTER
+heard	O
+music	O
+drifting	O
+across	O
+lake	B-LOCATION
+corran	I-LOCATION
+
+# id = of-name-character-0028
+
+# source = synthetic_of_names
+
+# text = leon of the red hand challenged peter of greyhaven
+
+leon	B-CHARACTER
+of	I-CHARACTER
+the	I-CHARACTER
+red	I-CHARACTER
+hand	I-CHARACTER
+challenged	O
+peter	B-CHARACTER
+of	I-CHARACTER
+greyhaven	I-CHARACTER
+
+# id = of-name-character-0029
+
+# source = synthetic_of_names
+
+# text = isabel of sunspire returned to amberfall with corin of deep wood
+
+isabel	B-CHARACTER
+of	I-CHARACTER
+sunspire	I-CHARACTER
+returned	O
+to	O
+amberfall	B-LOCATION
+with	O
+corin	B-CHARACTER
+of	I-CHARACTER
+deep	I-CHARACTER
+wood	I-CHARACTER
+
+# id = of-name-character-0030
+
+# source = synthetic_of_names
+
+# text = the bells of ardent abbey rang when malcolm of the fen arrived
+
+the	O
+bells	O
+of	O
+ardent	B-LOCATION
+abbey	I-LOCATION
+rang	O
+when	O
+malcolm	B-CHARACTER
+of	I-CHARACTER
+the	I-CHARACTER
+fen	I-CHARACTER
+arrived	O

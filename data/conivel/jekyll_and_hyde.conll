@@ -1,0 +1,4101 @@
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000001
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At friendly meetings , and when the wine was to his taste , something eminently human beaconed from his eye ; something indeed which never found its way into his talk , but which spoke not only in these silent symbols of the after-dinner face , but more often and loudly in the acts of his life .
+At	O
+friendly	O
+meetings	O
+,	O
+and	O
+when	O
+the	O
+wine	O
+was	O
+to	O
+his	O
+taste	O
+,	O
+something	O
+eminently	O
+human	O
+beaconed	O
+from	O
+his	O
+eye	O
+;	O
+something	O
+indeed	O
+which	O
+never	O
+found	O
+its	O
+way	O
+into	O
+his	O
+talk	O
+,	O
+but	O
+which	O
+spoke	O
+not	O
+only	O
+in	O
+these	O
+silent	O
+symbols	O
+of	O
+the	O
+after-dinner	O
+face	O
+,	O
+but	O
+more	O
+often	O
+and	O
+loudly	O
+in	O
+the	O
+acts	O
+of	O
+his	O
+life	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000002
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was austere with himself ; drank gin when he was alone , to mortify a taste for vintages ; and though he enjoyed the theatre , had not crossed the doors of one for twenty years .
+He	O
+was	O
+austere	O
+with	O
+himself	O
+;	O
+drank	O
+gin	O
+when	O
+he	O
+was	O
+alone	O
+,	O
+to	O
+mortify	O
+a	O
+taste	O
+for	O
+vintages	O
+;	O
+and	O
+though	O
+he	O
+enjoyed	O
+the	O
+theatre	O
+,	O
+had	O
+not	O
+crossed	O
+the	O
+doors	O
+of	O
+one	O
+for	O
+twenty	O
+years	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000003
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But he had an approved tolerance for others ; sometimes wondering , almost with envy , at the high pressure of spirits involved in their misdeeds ; and in any extremity inclined to help rather than to reprove .
+But	O
+he	O
+had	O
+an	O
+approved	O
+tolerance	O
+for	O
+others	O
+;	O
+sometimes	O
+wondering	O
+,	O
+almost	O
+with	O
+envy	O
+,	O
+at	O
+the	O
+high	O
+pressure	O
+of	O
+spirits	O
+involved	O
+in	O
+their	O
+misdeeds	O
+;	O
+and	O
+in	O
+any	O
+extremity	O
+inclined	O
+to	O
+help	O
+rather	O
+than	O
+to	O
+reprove	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000004
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I incline to Cain 's heresy , ''
+``	O
+I	O
+incline	O
+to	O
+Cain	B-CHARACTER
+'s	O
+heresy	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000005
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he used to say quaintly : `` I let my brother go to the devil in his own way . ''
+he	O
+used	O
+to	O
+say	O
+quaintly	O
+:	O
+``	O
+I	O
+let	O
+my	O
+brother	O
+go	O
+to	O
+the	O
+devil	O
+in	O
+his	O
+own	O
+way	O
+.	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000006
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In this character , it was frequently his fortune to be the last reputable acquaintance and the last good influence in the lives of downgoing men .
+In	O
+this	O
+character	O
+,	O
+it	O
+was	O
+frequently	O
+his	O
+fortune	O
+to	O
+be	O
+the	O
+last	O
+reputable	O
+acquaintance	O
+and	O
+the	O
+last	O
+good	O
+influence	O
+in	O
+the	O
+lives	O
+of	O
+downgoing	O
+men	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000007
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And to such as these , so long as they came about his chambers , he never marked a shade of change in his demeanour .
+And	O
+to	O
+such	O
+as	O
+these	O
+,	O
+so	O
+long	O
+as	O
+they	O
+came	O
+about	O
+his	O
+chambers	O
+,	O
+he	O
+never	O
+marked	O
+a	O
+shade	O
+of	O
+change	O
+in	O
+his	O
+demeanour	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000008
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No doubt the feat was easy to Mr. Utterson ; for he was undemonstrative at the best , and even his friendship seemed to be founded in a similar catholicity of good-nature .
+No	O
+doubt	O
+the	O
+feat	O
+was	O
+easy	O
+to	O
+Mr.	B-CHARACTER
+Utterson	I-CHARACTER
+;	O
+for	O
+he	O
+was	O
+undemonstrative	O
+at	O
+the	O
+best	O
+,	O
+and	O
+even	O
+his	O
+friendship	O
+seemed	O
+to	O
+be	O
+founded	O
+in	O
+a	O
+similar	O
+catholicity	O
+of	O
+good-nature	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000009
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It is the mark of a modest man to accept his friendly circle ready-made from the hands of opportunity ; and that was the lawyer 's way .
+It	O
+is	O
+the	O
+mark	O
+of	O
+a	O
+modest	O
+man	O
+to	O
+accept	O
+his	O
+friendly	O
+circle	O
+ready-made	O
+from	O
+the	O
+hands	O
+of	O
+opportunity	O
+;	O
+and	O
+that	O
+was	O
+the	O
+lawyer	O
+'s	O
+way	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000010
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His friends were those of his own blood or those whom he had known the longest ; his affections , like ivy , were the growth of time , they implied no aptness in the object .
+His	O
+friends	O
+were	O
+those	O
+of	O
+his	O
+own	O
+blood	O
+or	O
+those	O
+whom	O
+he	O
+had	O
+known	O
+the	O
+longest	O
+;	O
+his	O
+affections	O
+,	O
+like	O
+ivy	O
+,	O
+were	O
+the	O
+growth	O
+of	O
+time	O
+,	O
+they	O
+implied	O
+no	O
+aptness	O
+in	O
+the	O
+object	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000011
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Hence , no doubt the bond that united him to Mr. Richard Enfield , his distant kinsman , the well-known man about town .
+Hence	O
+,	O
+no	O
+doubt	O
+the	O
+bond	O
+that	O
+united	O
+him	O
+to	O
+Mr.	B-CHARACTER
+Richard	I-CHARACTER
+Enfield	I-CHARACTER
+,	O
+his	O
+distant	O
+kinsman	O
+,	O
+the	O
+well-known	O
+man	O
+about	O
+town	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000012
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was a nut to crack for many , what these two could see in each other , or what subject they could find in common .
+It	O
+was	O
+a	O
+nut	O
+to	O
+crack	O
+for	O
+many	O
+,	O
+what	O
+these	O
+two	O
+could	O
+see	O
+in	O
+each	O
+other	O
+,	O
+or	O
+what	O
+subject	O
+they	O
+could	O
+find	O
+in	O
+common	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000013
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was reported by those who encountered them in their Sunday walks , that they said nothing , looked singularly dull and would hail with obvious relief the appearance of a friend .
+It	O
+was	O
+reported	O
+by	O
+those	O
+who	O
+encountered	O
+them	O
+in	O
+their	O
+Sunday	O
+walks	O
+,	O
+that	O
+they	O
+said	O
+nothing	O
+,	O
+looked	O
+singularly	O
+dull	O
+and	O
+would	O
+hail	O
+with	O
+obvious	O
+relief	O
+the	O
+appearance	O
+of	O
+a	O
+friend	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000014
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For all that , the two men put the greatest store by these excursions , counted them the chief jewel of each week , and not only set aside occasions of pleasure , but even resisted the calls of business , that they might enjoy them uninterrupted .
+For	O
+all	O
+that	O
+,	O
+the	O
+two	O
+men	O
+put	O
+the	O
+greatest	O
+store	O
+by	O
+these	O
+excursions	O
+,	O
+counted	O
+them	O
+the	O
+chief	O
+jewel	O
+of	O
+each	O
+week	O
+,	O
+and	O
+not	O
+only	O
+set	O
+aside	O
+occasions	O
+of	O
+pleasure	O
+,	O
+but	O
+even	O
+resisted	O
+the	O
+calls	O
+of	O
+business	O
+,	O
+that	O
+they	O
+might	O
+enjoy	O
+them	O
+uninterrupted	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000015
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It chanced on one of these rambles that their way led them down a by-street in a busy quarter of London .
+It	O
+chanced	O
+on	O
+one	O
+of	O
+these	O
+rambles	O
+that	O
+their	O
+way	O
+led	O
+them	O
+down	O
+a	O
+by-street	O
+in	O
+a	O
+busy	O
+quarter	O
+of	O
+London	B-LOCATION
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000016
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The street was small and what is called quiet , but it drove a thriving trade on the weekdays .
+The	O
+street	O
+was	O
+small	O
+and	O
+what	O
+is	O
+called	O
+quiet	O
+,	O
+but	O
+it	O
+drove	O
+a	O
+thriving	O
+trade	O
+on	O
+the	O
+weekdays	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000017
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The inhabitants were all doing well , it seemed and all emulously hoping to do better still , and laying out the surplus of their grains in coquetry ; so that the shop fronts stood along that thoroughfare with an air of invitation , like rows of smiling saleswomen .
+The	O
+inhabitants	O
+were	O
+all	O
+doing	O
+well	O
+,	O
+it	O
+seemed	O
+and	O
+all	O
+emulously	O
+hoping	O
+to	O
+do	O
+better	O
+still	O
+,	O
+and	O
+laying	O
+out	O
+the	O
+surplus	O
+of	O
+their	O
+grains	O
+in	O
+coquetry	O
+;	O
+so	O
+that	O
+the	O
+shop	O
+fronts	O
+stood	O
+along	O
+that	O
+thoroughfare	O
+with	O
+an	O
+air	O
+of	O
+invitation	O
+,	O
+like	O
+rows	O
+of	O
+smiling	O
+saleswomen	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000018
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Even on Sunday , when it veiled its more florid charms and lay comparatively empty of passage , the street shone out in contrast to its dingy neighbourhood , like a fire in a forest ; and with its freshly painted shutters , well-polished brasses , and general cleanliness and gaiety of note , instantly caught and pleased the eye of the passenger .
+Even	O
+on	O
+Sunday	O
+,	O
+when	O
+it	O
+veiled	O
+its	O
+more	O
+florid	O
+charms	O
+and	O
+lay	O
+comparatively	O
+empty	O
+of	O
+passage	O
+,	O
+the	O
+street	O
+shone	O
+out	O
+in	O
+contrast	O
+to	O
+its	O
+dingy	O
+neighbourhood	O
+,	O
+like	O
+a	O
+fire	O
+in	O
+a	O
+forest	O
+;	O
+and	O
+with	O
+its	O
+freshly	O
+painted	O
+shutters	O
+,	O
+well-polished	O
+brasses	O
+,	O
+and	O
+general	O
+cleanliness	O
+and	O
+gaiety	O
+of	O
+note	O
+,	O
+instantly	O
+caught	O
+and	O
+pleased	O
+the	O
+eye	O
+of	O
+the	O
+passenger	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000019
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Two doors from one corner , on the left hand going east the line was broken by the entry of a court ; and just at that point a certain sinister block of building thrust forward its gable on the street .
+Two	O
+doors	O
+from	O
+one	O
+corner	O
+,	O
+on	O
+the	O
+left	O
+hand	O
+going	O
+east	O
+the	O
+line	O
+was	O
+broken	O
+by	O
+the	O
+entry	O
+of	O
+a	O
+court	O
+;	O
+and	O
+just	O
+at	O
+that	O
+point	O
+a	O
+certain	O
+sinister	O
+block	O
+of	O
+building	O
+thrust	O
+forward	O
+its	O
+gable	O
+on	O
+the	O
+street	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000020
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was two storeys high ; showed no window , nothing but a door on the lower storey and a blind forehead of discoloured wall on the upper ; and bore in every feature , the marks of prolonged and sordid negligence .
+It	O
+was	O
+two	O
+storeys	O
+high	O
+;	O
+showed	O
+no	O
+window	O
+,	O
+nothing	O
+but	O
+a	O
+door	O
+on	O
+the	O
+lower	O
+storey	O
+and	O
+a	O
+blind	O
+forehead	O
+of	O
+discoloured	O
+wall	O
+on	O
+the	O
+upper	O
+;	O
+and	O
+bore	O
+in	O
+every	O
+feature	O
+,	O
+the	O
+marks	O
+of	O
+prolonged	O
+and	O
+sordid	O
+negligence	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000021
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The door , which was equipped with neither bell nor knocker , was blistered and distained .
+The	O
+door	O
+,	O
+which	O
+was	O
+equipped	O
+with	O
+neither	O
+bell	O
+nor	O
+knocker	O
+,	O
+was	O
+blistered	O
+and	O
+distained	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000022
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tramps slouched into the recess and struck matches on the panels ; children kept shop upon the steps ; the schoolboy had tried his knife on the mouldings ; and for close on a generation , no one had appeared to drive away these random visitors or to repair their ravages .
+Tramps	O
+slouched	O
+into	O
+the	O
+recess	O
+and	O
+struck	O
+matches	O
+on	O
+the	O
+panels	O
+;	O
+children	O
+kept	O
+shop	O
+upon	O
+the	O
+steps	O
+;	O
+the	O
+schoolboy	O
+had	O
+tried	O
+his	O
+knife	O
+on	O
+the	O
+mouldings	O
+;	O
+and	O
+for	O
+close	O
+on	O
+a	O
+generation	O
+,	O
+no	O
+one	O
+had	O
+appeared	O
+to	O
+drive	O
+away	O
+these	O
+random	O
+visitors	O
+or	O
+to	O
+repair	O
+their	O
+ravages	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000023
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Enfield and the lawyer were on the other side of the by-street ; but when they came abreast of the entry , the former lifted up his cane and pointed .
+Mr.	B-CHARACTER
+Enfield	I-CHARACTER
+and	O
+the	O
+lawyer	O
+were	O
+on	O
+the	O
+other	O
+side	O
+of	O
+the	O
+by-street	O
+;	O
+but	O
+when	O
+they	O
+came	O
+abreast	O
+of	O
+the	O
+entry	O
+,	O
+the	O
+former	O
+lifted	O
+up	O
+his	O
+cane	O
+and	O
+pointed	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000024
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Did you ever remark that door ? ''
+``	O
+Did	O
+you	O
+ever	O
+remark	O
+that	O
+door	O
+?	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000025
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he asked ; and when his companion had replied in the affirmative .
+he	O
+asked	O
+;	O
+and	O
+when	O
+his	O
+companion	O
+had	O
+replied	O
+in	O
+the	O
+affirmative	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000026
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It is connected in my mind , ''
+``	O
+It	O
+is	O
+connected	O
+in	O
+my	O
+mind	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000027
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = added he , `` with a very odd story . ''
+added	O
+he	O
+,	O
+``	O
+with	O
+a	O
+very	O
+odd	O
+story	O
+.	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000028
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Indeed ? ''
+``	O
+Indeed	O
+?	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000029
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Utterson , with a slight change of voice , `` and what was that ? ''
+said	O
+Mr.	B-CHARACTER
+Utterson	I-CHARACTER
+,	O
+with	O
+a	O
+slight	O
+change	O
+of	O
+voice	O
+,	O
+``	O
+and	O
+what	O
+was	O
+that	O
+?	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000030
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , it was this way , ''
+``	O
+Well	O
+,	O
+it	O
+was	O
+this	O
+way	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000031
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = returned Mr. Enfield : `` I was coming home from some place at the end of the world , about three o'clock of a black winter morning , and my way lay through a part of town where there was literally nothing to be seen but lamps .
+returned	O
+Mr.	B-CHARACTER
+Enfield	I-CHARACTER
+:	O
+``	O
+I	O
+was	O
+coming	O
+home	O
+from	O
+some	O
+place	O
+at	O
+the	O
+end	O
+of	O
+the	O
+world	O
+,	O
+about	O
+three	O
+o'clock	O
+of	O
+a	O
+black	O
+winter	O
+morning	O
+,	O
+and	O
+my	O
+way	O
+lay	O
+through	O
+a	O
+part	O
+of	O
+town	O
+where	O
+there	O
+was	O
+literally	O
+nothing	O
+to	O
+be	O
+seen	O
+but	O
+lamps	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000032
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Street after street and all the folks asleep -- street after street , all lighted up as if for a procession and all as empty as a church -- till at last I got into that state of mind when a man listens and listens and begins to long for the sight of a policeman .
+Street	O
+after	O
+street	O
+and	O
+all	O
+the	O
+folks	O
+asleep	O
+--	O
+street	O
+after	O
+street	O
+,	O
+all	O
+lighted	O
+up	O
+as	O
+if	O
+for	O
+a	O
+procession	O
+and	O
+all	O
+as	O
+empty	O
+as	O
+a	O
+church	O
+--	O
+till	O
+at	O
+last	O
+I	O
+got	O
+into	O
+that	O
+state	O
+of	O
+mind	O
+when	O
+a	O
+man	O
+listens	O
+and	O
+listens	O
+and	O
+begins	O
+to	O
+long	O
+for	O
+the	O
+sight	O
+of	O
+a	O
+policeman	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000033
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All at once , I saw two figures : one a little man who was stumping along eastward at a good walk , and the other a girl of maybe eight or ten who was running as hard as she was able down a cross street .
+All	O
+at	O
+once	O
+,	O
+I	O
+saw	O
+two	O
+figures	O
+:	O
+one	O
+a	O
+little	O
+man	O
+who	O
+was	O
+stumping	O
+along	O
+eastward	O
+at	O
+a	O
+good	O
+walk	O
+,	O
+and	O
+the	O
+other	O
+a	O
+girl	O
+of	O
+maybe	O
+eight	O
+or	O
+ten	O
+who	O
+was	O
+running	O
+as	O
+hard	O
+as	O
+she	O
+was	O
+able	O
+down	O
+a	O
+cross	O
+street	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000034
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , sir , the two ran into one another naturally enough at the corner ; and then came the horrible part of the thing ; for the man trampled calmly over the child 's body and left her screaming on the ground .
+Well	O
+,	O
+sir	O
+,	O
+the	O
+two	O
+ran	O
+into	O
+one	O
+another	O
+naturally	O
+enough	O
+at	O
+the	O
+corner	O
+;	O
+and	O
+then	O
+came	O
+the	O
+horrible	O
+part	O
+of	O
+the	O
+thing	O
+;	O
+for	O
+the	O
+man	O
+trampled	O
+calmly	O
+over	O
+the	O
+child	O
+'s	O
+body	O
+and	O
+left	O
+her	O
+screaming	O
+on	O
+the	O
+ground	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000035
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It sounds nothing to hear , but it was hellish to see .
+It	O
+sounds	O
+nothing	O
+to	O
+hear	O
+,	O
+but	O
+it	O
+was	O
+hellish	O
+to	O
+see	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000036
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was n't like a man ; it was like some damned Juggernaut .
+It	O
+was	O
+n't	O
+like	O
+a	O
+man	O
+;	O
+it	O
+was	O
+like	O
+some	O
+damned	O
+Juggernaut	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000037
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I gave a few halloa , took to my heels , collared my gentleman , and brought him back to where there was already quite a group about the screaming child .
+I	O
+gave	O
+a	O
+few	O
+halloa	O
+,	O
+took	O
+to	O
+my	O
+heels	O
+,	O
+collared	O
+my	O
+gentleman	O
+,	O
+and	O
+brought	O
+him	O
+back	O
+to	O
+where	O
+there	O
+was	O
+already	O
+quite	O
+a	O
+group	O
+about	O
+the	O
+screaming	O
+child	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000038
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was perfectly cool and made no resistance , but gave me one look , so ugly that it brought out the sweat on me like running .
+He	O
+was	O
+perfectly	O
+cool	O
+and	O
+made	O
+no	O
+resistance	O
+,	O
+but	O
+gave	O
+me	O
+one	O
+look	O
+,	O
+so	O
+ugly	O
+that	O
+it	O
+brought	O
+out	O
+the	O
+sweat	O
+on	O
+me	O
+like	O
+running	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000039
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The people who had turned out were the girl 's own family ; and pretty soon , the doctor , for whom she had been sent put in his appearance .
+The	O
+people	O
+who	O
+had	O
+turned	O
+out	O
+were	O
+the	O
+girl	O
+'s	O
+own	O
+family	O
+;	O
+and	O
+pretty	O
+soon	O
+,	O
+the	O
+doctor	O
+,	O
+for	O
+whom	O
+she	O
+had	O
+been	O
+sent	O
+put	O
+in	O
+his	O
+appearance	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000040
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , the child was not much the worse , more frightened , according to the Sawbones ; and there you might have supposed would be an end to it .
+Well	O
+,	O
+the	O
+child	O
+was	O
+not	O
+much	O
+the	O
+worse	O
+,	O
+more	O
+frightened	O
+,	O
+according	O
+to	O
+the	O
+Sawbones	B-CHARACTER
+;	O
+and	O
+there	O
+you	O
+might	O
+have	O
+supposed	O
+would	O
+be	O
+an	O
+end	O
+to	O
+it	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000041
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But there was one curious circumstance .
+But	O
+there	O
+was	O
+one	O
+curious	O
+circumstance	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000042
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I had taken a loathing to my gentleman at first sight .
+I	O
+had	O
+taken	O
+a	O
+loathing	O
+to	O
+my	O
+gentleman	O
+at	O
+first	O
+sight	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000043
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So had the child 's family , which was only natural .
+So	O
+had	O
+the	O
+child	O
+'s	O
+family	O
+,	O
+which	O
+was	O
+only	O
+natural	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000044
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But the doctor 's case was what struck me .
+But	O
+the	O
+doctor	O
+'s	O
+case	O
+was	O
+what	O
+struck	O
+me	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000045
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was the usual cut and dry apothecary , of no particular age and colour , with a strong Edinburgh accent and about as emotional as a bagpipe .
+He	O
+was	O
+the	O
+usual	O
+cut	O
+and	O
+dry	O
+apothecary	O
+,	O
+of	O
+no	O
+particular	O
+age	O
+and	O
+colour	O
+,	O
+with	O
+a	O
+strong	O
+Edinburgh	B-LOCATION
+accent	O
+and	O
+about	O
+as	O
+emotional	O
+as	O
+a	O
+bagpipe	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000046
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , sir , he was like the rest of us ; every time he looked at my prisoner , I saw that Sawbones turn sick and white with desire to kill him .
+Well	O
+,	O
+sir	O
+,	O
+he	O
+was	O
+like	O
+the	O
+rest	O
+of	O
+us	O
+;	O
+every	O
+time	O
+he	O
+looked	O
+at	O
+my	O
+prisoner	O
+,	O
+I	O
+saw	O
+that	O
+Sawbones	B-CHARACTER
+turn	O
+sick	O
+and	O
+white	O
+with	O
+desire	O
+to	O
+kill	O
+him	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000047
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I knew what was in his mind , just as he knew what was in mine ; and killing being out of the question , we did the next best .
+I	O
+knew	O
+what	O
+was	O
+in	O
+his	O
+mind	O
+,	O
+just	O
+as	O
+he	O
+knew	O
+what	O
+was	O
+in	O
+mine	O
+;	O
+and	O
+killing	O
+being	O
+out	O
+of	O
+the	O
+question	O
+,	O
+we	O
+did	O
+the	O
+next	O
+best	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000048
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We told the man we could and would make such a scandal out of this as should make his name stink from one end of London to the other .
+We	O
+told	O
+the	O
+man	O
+we	O
+could	O
+and	O
+would	O
+make	O
+such	O
+a	O
+scandal	O
+out	O
+of	O
+this	O
+as	O
+should	O
+make	O
+his	O
+name	O
+stink	O
+from	O
+one	O
+end	O
+of	O
+London	B-LOCATION
+to	O
+the	O
+other	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000049
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If he had any friends or any credit , we undertook that he should lose them .
+If	O
+he	O
+had	O
+any	O
+friends	O
+or	O
+any	O
+credit	O
+,	O
+we	O
+undertook	O
+that	O
+he	O
+should	O
+lose	O
+them	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000050
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And all the time , as we were pitching it in red hot , we were keeping the women off him as best we could for they were as wild as harpies .
+And	O
+all	O
+the	O
+time	O
+,	O
+as	O
+we	O
+were	O
+pitching	O
+it	O
+in	O
+red	O
+hot	O
+,	O
+we	O
+were	O
+keeping	O
+the	O
+women	O
+off	O
+him	O
+as	O
+best	O
+we	O
+could	O
+for	O
+they	O
+were	O
+as	O
+wild	O
+as	O
+harpies	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000051
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I never saw a circle of such hateful faces ; and there was the man in the middle , with a kind of black sneering coolness -- frightened too , I could see that -- but carrying it off , sir , really like Satan . ''
+I	O
+never	O
+saw	O
+a	O
+circle	O
+of	O
+such	O
+hateful	O
+faces	O
+;	O
+and	O
+there	O
+was	O
+the	O
+man	O
+in	O
+the	O
+middle	O
+,	O
+with	O
+a	O
+kind	O
+of	O
+black	O
+sneering	O
+coolness	O
+--	O
+frightened	O
+too	O
+,	O
+I	O
+could	O
+see	O
+that	O
+--	O
+but	O
+carrying	O
+it	O
+off	O
+,	O
+sir	O
+,	O
+really	O
+like	O
+Satan	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000052
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` If you choose to make capital out of this accident , ''
+``	O
+If	O
+you	O
+choose	O
+to	O
+make	O
+capital	O
+out	O
+of	O
+this	O
+accident	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000053
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said he , `` I am naturally helpless .
+said	O
+he	O
+,	O
+``	O
+I	O
+am	O
+naturally	O
+helpless	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000054
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No gentleman but wishes to avoid a scene , ''
+No	O
+gentleman	O
+but	O
+wishes	O
+to	O
+avoid	O
+a	O
+scene	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000055
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = says he .
+says	O
+he	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000056
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Name your figure . ''
+``	O
+Name	O
+your	O
+figure	O
+.	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000057
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , we screwed him up to a hundred pounds for the child 's family ; he would have clearly liked to stick out ; but there was something about the lot of us that meant mischief , and at last he struck .
+Well	O
+,	O
+we	O
+screwed	O
+him	O
+up	O
+to	O
+a	O
+hundred	O
+pounds	O
+for	O
+the	O
+child	O
+'s	O
+family	O
+;	O
+he	O
+would	O
+have	O
+clearly	O
+liked	O
+to	O
+stick	O
+out	O
+;	O
+but	O
+there	O
+was	O
+something	O
+about	O
+the	O
+lot	O
+of	O
+us	O
+that	O
+meant	O
+mischief	O
+,	O
+and	O
+at	O
+last	O
+he	O
+struck	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000058
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The next thing was to get the money ; and where do you think he carried us but to that place with the door ?
+The	O
+next	O
+thing	O
+was	O
+to	O
+get	O
+the	O
+money	O
+;	O
+and	O
+where	O
+do	O
+you	O
+think	O
+he	O
+carried	O
+us	O
+but	O
+to	O
+that	O
+place	O
+with	O
+the	O
+door	O
+?	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000059
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- whipped out a key , went in , and presently came back with the matter of ten pounds in gold and a cheque for the balance on Coutts 's , drawn payable to bearer and signed with a name that I ca n't mention , though it 's one of the points of my story , but it was a name at least very well known and often printed .
+--	O
+whipped	O
+out	O
+a	O
+key	O
+,	O
+went	O
+in	O
+,	O
+and	O
+presently	O
+came	O
+back	O
+with	O
+the	O
+matter	O
+of	O
+ten	O
+pounds	O
+in	O
+gold	O
+and	O
+a	O
+cheque	O
+for	O
+the	O
+balance	O
+on	O
+Coutts	O
+'s	O
+,	O
+drawn	O
+payable	O
+to	O
+bearer	O
+and	O
+signed	O
+with	O
+a	O
+name	O
+that	O
+I	O
+ca	O
+n't	O
+mention	O
+,	O
+though	O
+it	O
+'s	O
+one	O
+of	O
+the	O
+points	O
+of	O
+my	O
+story	O
+,	O
+but	O
+it	O
+was	O
+a	O
+name	O
+at	O
+least	O
+very	O
+well	O
+known	O
+and	O
+often	O
+printed	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000060
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The figure was stiff ; but the signature was good for more than that if it was only genuine .
+The	O
+figure	O
+was	O
+stiff	O
+;	O
+but	O
+the	O
+signature	O
+was	O
+good	O
+for	O
+more	O
+than	O
+that	O
+if	O
+it	O
+was	O
+only	O
+genuine	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000061
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I took the liberty of pointing out to my gentleman that the whole business looked apocryphal , and that a man does not , in real life , walk into a cellar door at four in the morning and come out with another man 's cheque for close upon a hundred pounds .
+I	O
+took	O
+the	O
+liberty	O
+of	O
+pointing	O
+out	O
+to	O
+my	O
+gentleman	O
+that	O
+the	O
+whole	O
+business	O
+looked	O
+apocryphal	O
+,	O
+and	O
+that	O
+a	O
+man	O
+does	O
+not	O
+,	O
+in	O
+real	O
+life	O
+,	O
+walk	O
+into	O
+a	O
+cellar	O
+door	O
+at	O
+four	O
+in	O
+the	O
+morning	O
+and	O
+come	O
+out	O
+with	O
+another	O
+man	O
+'s	O
+cheque	O
+for	O
+close	O
+upon	O
+a	O
+hundred	O
+pounds	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000062
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But he was quite easy and sneering .
+But	O
+he	O
+was	O
+quite	O
+easy	O
+and	O
+sneering	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000063
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Set your mind at rest , ''
+``	O
+Set	O
+your	O
+mind	O
+at	O
+rest	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000064
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = says he , `` I will stay with you till the banks open and cash the cheque myself . ''
+says	O
+he	O
+,	O
+``	O
+I	O
+will	O
+stay	O
+with	O
+you	O
+till	O
+the	O
+banks	O
+open	O
+and	O
+cash	O
+the	O
+cheque	O
+myself	O
+.	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000065
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` So we all set off , the doctor , and the child 's father , and our friend and myself , and passed the rest of the night in my chambers ; and next day , when we had breakfasted , went in a body to the bank .
+``	O
+So	O
+we	O
+all	O
+set	O
+off	O
+,	O
+the	O
+doctor	O
+,	O
+and	O
+the	O
+child	O
+'s	O
+father	O
+,	O
+and	O
+our	O
+friend	O
+and	O
+myself	O
+,	O
+and	O
+passed	O
+the	O
+rest	O
+of	O
+the	O
+night	O
+in	O
+my	O
+chambers	O
+;	O
+and	O
+next	O
+day	O
+,	O
+when	O
+we	O
+had	O
+breakfasted	O
+,	O
+went	O
+in	O
+a	O
+body	O
+to	O
+the	O
+bank	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000066
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I gave in the cheque myself , and said I had every reason to believe it was a forgery .
+I	O
+gave	O
+in	O
+the	O
+cheque	O
+myself	O
+,	O
+and	O
+said	O
+I	O
+had	O
+every	O
+reason	O
+to	O
+believe	O
+it	O
+was	O
+a	O
+forgery	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000067
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not a bit of it .
+Not	O
+a	O
+bit	O
+of	O
+it	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000068
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The cheque was genuine . ''
+The	O
+cheque	O
+was	O
+genuine	O
+.	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000069
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Tut-tut , ''
+``	O
+Tut-tut	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000070
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Utterson .
+said	O
+Mr.	B-CHARACTER
+Utterson	I-CHARACTER
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000071
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I see you feel as I do , ''
+``	O
+I	O
+see	O
+you	O
+feel	O
+as	O
+I	O
+do	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000072
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Enfield .
+said	O
+Mr.	B-CHARACTER
+Enfield	I-CHARACTER
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000073
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , it 's a bad story .
+``	O
+Yes	O
+,	O
+it	O
+'s	O
+a	O
+bad	O
+story	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000074
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For my man was a fellow that nobody could have to do with , a really damnable man ; and the person that drew the cheque is the very pink of the proprieties , celebrated too , and ( what makes it worse ) one of your fellows who do what they call good .
+For	O
+my	O
+man	O
+was	O
+a	O
+fellow	O
+that	O
+nobody	O
+could	O
+have	O
+to	O
+do	O
+with	O
+,	O
+a	O
+really	O
+damnable	O
+man	O
+;	O
+and	O
+the	O
+person	O
+that	O
+drew	O
+the	O
+cheque	O
+is	O
+the	O
+very	O
+pink	O
+of	O
+the	O
+proprieties	O
+,	O
+celebrated	O
+too	O
+,	O
+and	O
+(	O
+what	O
+makes	O
+it	O
+worse	O
+)	O
+one	O
+of	O
+your	O
+fellows	O
+who	O
+do	O
+what	O
+they	O
+call	O
+good	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000075
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Black mail I suppose ; an honest man paying through the nose for some of the capers of his youth .
+Black	O
+mail	O
+I	O
+suppose	O
+;	O
+an	O
+honest	O
+man	O
+paying	O
+through	O
+the	O
+nose	O
+for	O
+some	O
+of	O
+the	O
+capers	O
+of	O
+his	O
+youth	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000076
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Black Mail House is what I call the place with the door , in consequence .
+Black	B-LOCATION
+Mail	I-LOCATION
+House	I-LOCATION
+is	O
+what	O
+I	O
+call	O
+the	O
+place	O
+with	O
+the	O
+door	O
+,	O
+in	O
+consequence	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000077
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Though even that , you know , is far from explaining all , ''
+Though	O
+even	O
+that	O
+,	O
+you	O
+know	O
+,	O
+is	O
+far	O
+from	O
+explaining	O
+all	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000078
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he added , and with the words fell into a vein of musing .
+he	O
+added	O
+,	O
+and	O
+with	O
+the	O
+words	O
+fell	O
+into	O
+a	O
+vein	O
+of	O
+musing	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000079
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = From this he was recalled by Mr. Utterson asking rather suddenly : `` And you do n't know if the drawer of the cheque lives there ? ''
+From	O
+this	O
+he	O
+was	O
+recalled	O
+by	O
+Mr.	B-CHARACTER
+Utterson	I-CHARACTER
+asking	O
+rather	O
+suddenly	O
+:	O
+``	O
+And	O
+you	O
+do	O
+n't	O
+know	O
+if	O
+the	O
+drawer	O
+of	O
+the	O
+cheque	O
+lives	O
+there	O
+?	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000080
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A likely place , is n't it ? ''
+``	O
+A	O
+likely	O
+place	O
+,	O
+is	O
+n't	O
+it	O
+?	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000081
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = returned Mr. Enfield .
+returned	O
+Mr.	B-CHARACTER
+Enfield	I-CHARACTER
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000082
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But I happen to have noticed his address ; he lives in some square or other . ''
+``	O
+But	O
+I	O
+happen	O
+to	O
+have	O
+noticed	O
+his	O
+address	O
+;	O
+he	O
+lives	O
+in	O
+some	O
+square	O
+or	O
+other	O
+.	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000083
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And you never asked about the -- place with the door ? ''
+``	O
+And	O
+you	O
+never	O
+asked	O
+about	O
+the	O
+--	O
+place	O
+with	O
+the	O
+door	O
+?	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000084
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Utterson .
+said	O
+Mr.	B-CHARACTER
+Utterson	I-CHARACTER
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000085
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , sir : I had a delicacy , ''
+``	O
+No	O
+,	O
+sir	O
+:	O
+I	O
+had	O
+a	O
+delicacy	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000086
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = was the reply .
+was	O
+the	O
+reply	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000087
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I feel very strongly about putting questions ; it partakes too much of the style of the day of judgment .
+``	O
+I	O
+feel	O
+very	O
+strongly	O
+about	O
+putting	O
+questions	O
+;	O
+it	O
+partakes	O
+too	O
+much	O
+of	O
+the	O
+style	O
+of	O
+the	O
+day	O
+of	O
+judgment	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000088
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You start a question , and it 's like starting a stone .
+You	O
+start	O
+a	O
+question	O
+,	O
+and	O
+it	O
+'s	O
+like	O
+starting	O
+a	O
+stone	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000089
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You sit quietly on the top of a hill ; and away the stone goes , starting others ; and presently some bland old bird ( the last you would have thought of ) is knocked on the head in his own back garden and the family have to change their name .
+You	O
+sit	O
+quietly	O
+on	O
+the	O
+top	O
+of	O
+a	O
+hill	O
+;	O
+and	O
+away	O
+the	O
+stone	O
+goes	O
+,	O
+starting	O
+others	O
+;	O
+and	O
+presently	O
+some	O
+bland	O
+old	O
+bird	O
+(	O
+the	O
+last	O
+you	O
+would	O
+have	O
+thought	O
+of	O
+)	O
+is	O
+knocked	O
+on	O
+the	O
+head	O
+in	O
+his	O
+own	O
+back	O
+garden	O
+and	O
+the	O
+family	O
+have	O
+to	O
+change	O
+their	O
+name	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000090
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No sir , I make it a rule of mine : the more it looks like Queer Street , the less I ask . ''
+No	O
+sir	O
+,	O
+I	O
+make	O
+it	O
+a	O
+rule	O
+of	O
+mine	O
+:	O
+the	O
+more	O
+it	O
+looks	O
+like	O
+Queer	B-LOCATION
+Street	I-LOCATION
+,	O
+the	O
+less	O
+I	O
+ask	O
+.	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000091
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A very good rule , too , ''
+``	O
+A	O
+very	O
+good	O
+rule	O
+,	O
+too	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000092
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the lawyer .
+said	O
+the	O
+lawyer	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000093
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But I have studied the place for myself , ''
+``	O
+But	O
+I	O
+have	O
+studied	O
+the	O
+place	O
+for	O
+myself	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000094
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = continued Mr. Enfield .
+continued	O
+Mr.	B-CHARACTER
+Enfield	I-CHARACTER
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000095
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It seems scarcely a house .
+``	O
+It	O
+seems	O
+scarcely	O
+a	O
+house	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000096
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There is no other door , and nobody goes in or out of that one but , once in a great while , the gentleman of my adventure .
+There	O
+is	O
+no	O
+other	O
+door	O
+,	O
+and	O
+nobody	O
+goes	O
+in	O
+or	O
+out	O
+of	O
+that	O
+one	O
+but	O
+,	O
+once	O
+in	O
+a	O
+great	O
+while	O
+,	O
+the	O
+gentleman	O
+of	O
+my	O
+adventure	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000097
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There are three windows looking on the court on the first floor ; none below ; the windows are always shut but they 're clean .
+There	O
+are	O
+three	O
+windows	O
+looking	O
+on	O
+the	O
+court	O
+on	O
+the	O
+first	O
+floor	O
+;	O
+none	O
+below	O
+;	O
+the	O
+windows	O
+are	O
+always	O
+shut	O
+but	O
+they	O
+'re	O
+clean	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000098
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And then there is a chimney which is generally smoking ; so somebody must live there .
+And	O
+then	O
+there	O
+is	O
+a	O
+chimney	O
+which	O
+is	O
+generally	O
+smoking	O
+;	O
+so	O
+somebody	O
+must	O
+live	O
+there	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000099
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And yet it 's not so sure ; for the buildings are so packed together about the court , that it 's hard to say where one ends and another begins . ''
+And	O
+yet	O
+it	O
+'s	O
+not	O
+so	O
+sure	O
+;	O
+for	O
+the	O
+buildings	O
+are	O
+so	O
+packed	O
+together	O
+about	O
+the	O
+court	O
+,	O
+that	O
+it	O
+'s	O
+hard	O
+to	O
+say	O
+where	O
+one	O
+ends	O
+and	O
+another	O
+begins	O
+.	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000100
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The pair walked on again for a while in silence ; and then `` Enfield , ''
+The	O
+pair	O
+walked	O
+on	O
+again	O
+for	O
+a	O
+while	O
+in	O
+silence	O
+;	O
+and	O
+then	O
+``	O
+Enfield	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000101
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Utterson , `` that 's a good rule of yours . ''
+said	O
+Mr.	B-CHARACTER
+Utterson	I-CHARACTER
+,	O
+``	O
+that	O
+'s	O
+a	O
+good	O
+rule	O
+of	O
+yours	O
+.	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000102
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , I think it is , ''
+``	O
+Yes	O
+,	O
+I	O
+think	O
+it	O
+is	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000103
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = returned Enfield .
+returned	O
+Enfield	B-CHARACTER
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000104
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But for all that , ''
+``	O
+But	O
+for	O
+all	O
+that	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000105
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = continued the lawyer , `` there 's one point I want to ask : I want to ask the name of that man who walked over the child . ''
+continued	O
+the	O
+lawyer	O
+,	O
+``	O
+there	O
+'s	O
+one	O
+point	O
+I	O
+want	O
+to	O
+ask	O
+:	O
+I	O
+want	O
+to	O
+ask	O
+the	O
+name	O
+of	O
+that	O
+man	O
+who	O
+walked	O
+over	O
+the	O
+child	O
+.	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000106
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , ''
+``	O
+Well	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000107
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Enfield , `` I ca n't see what harm it would do .
+said	O
+Mr.	B-CHARACTER
+Enfield	I-CHARACTER
+,	O
+``	O
+I	O
+ca	O
+n't	O
+see	O
+what	O
+harm	O
+it	O
+would	O
+do	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000108
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was a man of the name of Hyde . ''
+It	O
+was	O
+a	O
+man	O
+of	O
+the	O
+name	O
+of	O
+Hyde	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000109
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Hm , ''
+``	O
+Hm	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000110
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Utterson .
+said	O
+Mr.	B-CHARACTER
+Utterson	I-CHARACTER
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000111
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What sort of a man is he to see ? ''
+``	O
+What	O
+sort	O
+of	O
+a	O
+man	O
+is	O
+he	O
+to	O
+see	O
+?	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000112
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He is not easy to describe .
+``	O
+He	O
+is	O
+not	O
+easy	O
+to	O
+describe	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000113
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There is something wrong with his appearance ; something displeasing , something down-right detestable .
+There	O
+is	O
+something	O
+wrong	O
+with	O
+his	O
+appearance	O
+;	O
+something	O
+displeasing	O
+,	O
+something	O
+down-right	O
+detestable	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000114
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I never saw a man I so disliked , and yet I scarce know why .
+I	O
+never	O
+saw	O
+a	O
+man	O
+I	O
+so	O
+disliked	O
+,	O
+and	O
+yet	O
+I	O
+scarce	O
+know	O
+why	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000115
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He must be deformed somewhere ; he gives a strong feeling of deformity , although I could n't specify the point .
+He	O
+must	O
+be	O
+deformed	O
+somewhere	O
+;	O
+he	O
+gives	O
+a	O
+strong	O
+feeling	O
+of	O
+deformity	O
+,	O
+although	O
+I	O
+could	O
+n't	O
+specify	O
+the	O
+point	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000116
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He 's an extraordinary looking man , and yet I really can name nothing out of the way .
+He	O
+'s	O
+an	O
+extraordinary	O
+looking	O
+man	O
+,	O
+and	O
+yet	O
+I	O
+really	O
+can	O
+name	O
+nothing	O
+out	O
+of	O
+the	O
+way	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000117
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No , sir ; I can make no hand of it ; I ca n't describe him .
+No	O
+,	O
+sir	O
+;	O
+I	O
+can	O
+make	O
+no	O
+hand	O
+of	O
+it	O
+;	O
+I	O
+ca	O
+n't	O
+describe	O
+him	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000118
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And it 's not want of memory ; for I declare I can see him this moment . ''
+And	O
+it	O
+'s	O
+not	O
+want	O
+of	O
+memory	O
+;	O
+for	O
+I	O
+declare	O
+I	O
+can	O
+see	O
+him	O
+this	O
+moment	O
+.	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000119
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Utterson again walked some way in silence and obviously under a weight of consideration .
+Mr.	B-CHARACTER
+Utterson	I-CHARACTER
+again	O
+walked	O
+some	O
+way	O
+in	O
+silence	O
+and	O
+obviously	O
+under	O
+a	O
+weight	O
+of	O
+consideration	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000120
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You are sure he used a key ? ''
+``	O
+You	O
+are	O
+sure	O
+he	O
+used	O
+a	O
+key	O
+?	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000121
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he inquired at last .
+he	O
+inquired	O
+at	O
+last	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000122
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` My dear sir ... ''
+``	O
+My	O
+dear	O
+sir	O
+...	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000123
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = began Enfield , surprised out of himself .
+began	O
+Enfield	B-CHARACTER
+,	O
+surprised	O
+out	O
+of	O
+himself	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000124
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , I know , ''
+``	O
+Yes	O
+,	O
+I	O
+know	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000125
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Utterson ; `` I know it must seem strange .
+said	O
+Utterson	B-CHARACTER
+;	O
+``	O
+I	O
+know	O
+it	O
+must	O
+seem	O
+strange	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000126
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The fact is , if I do not ask you the name of the other party , it is because I know it already .
+The	O
+fact	O
+is	O
+,	O
+if	O
+I	O
+do	O
+not	O
+ask	O
+you	O
+the	O
+name	O
+of	O
+the	O
+other	O
+party	O
+,	O
+it	O
+is	O
+because	O
+I	O
+know	O
+it	O
+already	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000127
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You see , Richard , your tale has gone home .
+You	O
+see	O
+,	O
+Richard	B-CHARACTER
+,	O
+your	O
+tale	O
+has	O
+gone	O
+home	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000128
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If you have been inexact in any point you had better correct it . ''
+If	O
+you	O
+have	O
+been	O
+inexact	O
+in	O
+any	O
+point	O
+you	O
+had	O
+better	O
+correct	O
+it	O
+.	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000129
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I think you might have warned me , ''
+``	O
+I	O
+think	O
+you	O
+might	O
+have	O
+warned	O
+me	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000130
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = returned the other with a touch of sullenness .
+returned	O
+the	O
+other	O
+with	O
+a	O
+touch	O
+of	O
+sullenness	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000131
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But I have been pedantically exact , as you call it .
+``	O
+But	O
+I	O
+have	O
+been	O
+pedantically	O
+exact	O
+,	O
+as	O
+you	O
+call	O
+it	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000132
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The fellow had a key ; and what 's more , he has it still .
+The	O
+fellow	O
+had	O
+a	O
+key	O
+;	O
+and	O
+what	O
+'s	O
+more	O
+,	O
+he	O
+has	O
+it	O
+still	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000133
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I saw him use it not a week ago . ''
+I	O
+saw	O
+him	O
+use	O
+it	O
+not	O
+a	O
+week	O
+ago	O
+.	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000134
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Utterson sighed deeply but said never a word ; and the young man presently resumed .
+Mr.	B-CHARACTER
+Utterson	I-CHARACTER
+sighed	O
+deeply	O
+but	O
+said	O
+never	O
+a	O
+word	O
+;	O
+and	O
+the	O
+young	O
+man	O
+presently	O
+resumed	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000135
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Here is another lesson to say nothing , ''
+``	O
+Here	O
+is	O
+another	O
+lesson	O
+to	O
+say	O
+nothing	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000136
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said he .
+said	O
+he	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000137
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I am ashamed of my long tongue .
+``	O
+I	O
+am	O
+ashamed	O
+of	O
+my	O
+long	O
+tongue	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000138
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Let us make a bargain never to refer to this again . ''
+Let	O
+us	O
+make	O
+a	O
+bargain	O
+never	O
+to	O
+refer	O
+to	O
+this	O
+again	O
+.	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000139
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` With all my heart , ''
+``	O
+With	O
+all	O
+my	O
+heart	O
+,	O
+''	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000140
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the lawyer .
+said	O
+the	O
+lawyer	O
+.	O
+
+# id = conivel-strange-case-of-dr-jekyll-and-mr-hyde-000141
+# source = Conivel corrected OWTO literary NER
+# book = Strange Case of Dr Jekyll and Mr Hyde
+# source_file = JekyllAndHyde.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I shake hands on that , Richard . ''
+``	O
+I	O
+shake	O
+hands	O
+on	O
+that	O
+,	O
+Richard	B-CHARACTER
+.	O
+''	O
+

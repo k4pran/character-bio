@@ -24,6 +24,7 @@ The repository mixes literary, synthetic, and open third-party NER examples to t
 ## Directories
 
 - `litbank/`: literary examples
+- `conivel/`: named person and location annotations from 40 English novel chapters
 - `synthetic/`: generated character/location/quote examples
 - `locations/`: normalized Few-NERD, WikiGold, and WNUT 2017 location data
 - `label2id.json` and `id2label.json`: the shared label maps
@@ -48,3 +49,17 @@ Much of the project-specific text is intentionally:
 - mixed with generic non-character traps like `the guard`, `the prisoner`, `the lord`, and `the captain`
 
 For a real model, replace or augment this with manually checked audiobook/STT examples.
+
+## Additional literary NER
+
+`conivel/` is a pinned, reproducible conversion of the corrected OWTO literary
+NER corpus. Unlike the broader LitBank entity layer, its `PER` and `LOC`
+annotations follow a named-entity scheme. Every one of its 40 novel chapters
+contains both entity types. Rebuild it with:
+
+```powershell
+python src/build_conivel_corpus.py
+```
+
+See `conivel/README.md` for provenance, license, citations, and the exact label
+mapping.

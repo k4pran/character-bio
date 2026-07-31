@@ -1,0 +1,8984 @@
+# id = conivel-vanity-fair-000001
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It is Mrs. Sedley 's coach , sister , ''
+``	O
+It	O
+is	O
+Mrs.	B-CHARACTER
+Sedley	I-CHARACTER
+'s	O
+coach	O
+,	O
+sister	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000002
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Jemima .
+said	O
+Miss	B-CHARACTER
+Jemima	I-CHARACTER
+.	O
+
+# id = conivel-vanity-fair-000003
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Sambo , the black servant , has just rung the bell ; and the coachman has a new red waistcoat . ''
+``	O
+Sambo	B-CHARACTER
+,	O
+the	O
+black	O
+servant	O
+,	O
+has	O
+just	O
+rung	O
+the	O
+bell	O
+;	O
+and	O
+the	O
+coachman	O
+has	O
+a	O
+new	O
+red	O
+waistcoat	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000004
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Have you completed all the necessary preparations incident to Miss Sedley 's departure , Miss Jemima ? ''
+``	O
+Have	O
+you	O
+completed	O
+all	O
+the	O
+necessary	O
+preparations	O
+incident	O
+to	O
+Miss	B-CHARACTER
+Sedley	I-CHARACTER
+'s	O
+departure	O
+,	O
+Miss	B-CHARACTER
+Jemima	I-CHARACTER
+?	O
+''	O
+
+# id = conivel-vanity-fair-000005
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The girls were up at four this morning , packing her trunks , sister , ''
+``	O
+The	O
+girls	O
+were	O
+up	O
+at	O
+four	O
+this	O
+morning	O
+,	O
+packing	O
+her	O
+trunks	O
+,	O
+sister	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000006
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = replied Miss Jemima ; `` we have made her a bow-pot . ''
+replied	O
+Miss	B-CHARACTER
+Jemima	I-CHARACTER
+;	O
+``	O
+we	O
+have	O
+made	O
+her	O
+a	O
+bow-pot	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000007
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Say a bouquet , sister Jemima , ` tis more genteel . ''
+``	O
+Say	O
+a	O
+bouquet	O
+,	O
+sister	O
+Jemima	B-CHARACTER
+,	O
+`	O
+tis	O
+more	O
+genteel	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000008
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , a booky as big almost as a haystack ; I have put up two bottles of the gillyflower water for Mrs. Sedley , and the receipt for making it , in Amelia 's box . ''
+``	O
+Well	O
+,	O
+a	O
+booky	O
+as	O
+big	O
+almost	O
+as	O
+a	O
+haystack	O
+;	O
+I	O
+have	O
+put	O
+up	O
+two	O
+bottles	O
+of	O
+the	O
+gillyflower	O
+water	O
+for	O
+Mrs.	B-CHARACTER
+Sedley	I-CHARACTER
+,	O
+and	O
+the	O
+receipt	O
+for	O
+making	O
+it	O
+,	O
+in	O
+Amelia	B-CHARACTER
+'s	O
+box	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000009
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And I trust , Miss Jemima , you have made a copy of Miss Sedley 's account .
+``	O
+And	O
+I	O
+trust	O
+,	O
+Miss	B-CHARACTER
+Jemima	I-CHARACTER
+,	O
+you	O
+have	O
+made	O
+a	O
+copy	O
+of	O
+Miss	B-CHARACTER
+Sedley	I-CHARACTER
+'s	O
+account	O
+.	O
+
+# id = conivel-vanity-fair-000010
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This is it , is it ?
+This	O
+is	O
+it	O
+,	O
+is	O
+it	O
+?	O
+
+# id = conivel-vanity-fair-000011
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Be kind enough to address it to John Sedley , Esquire , and to seal this billet which I have written to his lady . ''
+Be	O
+kind	O
+enough	O
+to	O
+address	O
+it	O
+to	O
+John	B-CHARACTER
+Sedley	I-CHARACTER
+,	O
+Esquire	O
+,	O
+and	O
+to	O
+seal	O
+this	O
+billet	O
+which	O
+I	O
+have	O
+written	O
+to	O
+his	O
+lady	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000012
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In the present instance Miss Pinkerton 's ` billet ' was to the following effect : -- The Mall , Chiswick , June 15 , 18 MADAM , -- After her six years ' residence at the Mall , I have the honour and happiness of presenting Miss Amelia Sedley to her parents , as a young lady not unworthy to occupy a fitting position in their polished and refined circle .
+In	O
+the	O
+present	O
+instance	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+'s	O
+`	O
+billet	O
+'	O
+was	O
+to	O
+the	O
+following	O
+effect	O
+:	O
+--	O
+The	B-LOCATION
+Mall	I-LOCATION
+,	O
+Chiswick	B-LOCATION
+,	O
+June	O
+15	O
+,	O
+18	O
+MADAM	O
+,	O
+--	O
+After	O
+her	O
+six	O
+years	O
+'	O
+residence	O
+at	O
+the	O
+Mall	B-LOCATION
+,	O
+I	O
+have	O
+the	O
+honour	O
+and	O
+happiness	O
+of	O
+presenting	O
+Miss	B-CHARACTER
+Amelia	I-CHARACTER
+Sedley	I-CHARACTER
+to	O
+her	O
+parents	O
+,	O
+as	O
+a	O
+young	O
+lady	O
+not	O
+unworthy	O
+to	O
+occupy	O
+a	O
+fitting	O
+position	O
+in	O
+their	O
+polished	O
+and	O
+refined	O
+circle	O
+.	O
+
+# id = conivel-vanity-fair-000013
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = On the cover was inserted a copy of ` Lines addressed to a young lady on quitting Miss Pinkerton 's school , at the Mall ; by the late revered Doctor Samuel Johnson .
+On	O
+the	O
+cover	O
+was	O
+inserted	O
+a	O
+copy	O
+of	O
+`	O
+Lines	O
+addressed	O
+to	O
+a	O
+young	O
+lady	O
+on	O
+quitting	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+'s	O
+school	O
+,	O
+at	O
+the	O
+Mall	B-LOCATION
+;	O
+by	O
+the	O
+late	O
+revered	O
+Doctor	B-CHARACTER
+Samuel	I-CHARACTER
+Johnson	I-CHARACTER
+.	O
+
+# id = conivel-vanity-fair-000014
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' In fact , the Lexicographer 's name was always on the lips of this majestic woman , and a visit he had paid to her was the cause of her reputation and her fortune .
+'	O
+In	O
+fact	O
+,	O
+the	O
+Lexicographer	O
+'s	O
+name	O
+was	O
+always	O
+on	O
+the	O
+lips	O
+of	O
+this	O
+majestic	O
+woman	O
+,	O
+and	O
+a	O
+visit	O
+he	O
+had	O
+paid	O
+to	O
+her	O
+was	O
+the	O
+cause	O
+of	O
+her	O
+reputation	O
+and	O
+her	O
+fortune	O
+.	O
+
+# id = conivel-vanity-fair-000015
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Being commanded by her elder sister to get ` the Dictionary ' from the cupboard , Miss Jemima had extracted two copies of the book from the receptacle in question .
+Being	O
+commanded	O
+by	O
+her	O
+elder	O
+sister	O
+to	O
+get	O
+`	O
+the	O
+Dictionary	O
+'	O
+from	O
+the	O
+cupboard	O
+,	O
+Miss	B-CHARACTER
+Jemima	I-CHARACTER
+had	O
+extracted	O
+two	O
+copies	O
+of	O
+the	O
+book	O
+from	O
+the	O
+receptacle	O
+in	O
+question	O
+.	O
+
+# id = conivel-vanity-fair-000016
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` For whom is this , Miss Jemima ? ''
+``	O
+For	O
+whom	O
+is	O
+this	O
+,	O
+Miss	B-CHARACTER
+Jemima	I-CHARACTER
+?	O
+''	O
+
+# id = conivel-vanity-fair-000017
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` For Becky Sharp , ''
+``	O
+For	O
+Becky	B-CHARACTER
+Sharp	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-vanity-fair-000018
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = answered Jemima , trembling very much , and blushing over her withered face and neck , as she turned her back on her sister .
+answered	O
+Jemima	B-CHARACTER
+,	O
+trembling	O
+very	O
+much	O
+,	O
+and	O
+blushing	O
+over	O
+her	O
+withered	O
+face	O
+and	O
+neck	O
+,	O
+as	O
+she	O
+turned	O
+her	O
+back	O
+on	O
+her	O
+sister	O
+.	O
+
+# id = conivel-vanity-fair-000019
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` For Becky Sharp : she 's going too . ''
+``	O
+For	O
+Becky	B-CHARACTER
+Sharp	I-CHARACTER
+:	O
+she	O
+'s	O
+going	O
+too	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000020
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` MISS JEMIMA ! ''
+``	O
+MISS	B-CHARACTER
+JEMIMA	I-CHARACTER
+!	O
+''	O
+
+# id = conivel-vanity-fair-000021
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Are you in your senses ?
+``	O
+Are	O
+you	O
+in	O
+your	O
+senses	O
+?	O
+
+# id = conivel-vanity-fair-000022
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Replace the Dixonary in the closet , and never venture to take such a liberty in future . ''
+Replace	O
+the	O
+Dixonary	O
+in	O
+the	O
+closet	O
+,	O
+and	O
+never	O
+venture	O
+to	O
+take	O
+such	O
+a	O
+liberty	O
+in	O
+future	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000023
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , sister , it 's only two-and-ninepence , and poor Becky will be miserable if she do n't get one . ''
+``	O
+Well	O
+,	O
+sister	O
+,	O
+it	O
+'s	O
+only	O
+two-and-ninepence	O
+,	O
+and	O
+poor	O
+Becky	B-CHARACTER
+will	O
+be	O
+miserable	O
+if	O
+she	O
+do	O
+n't	O
+get	O
+one	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000024
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Send Miss Sedley instantly to me , ''
+``	O
+Send	O
+Miss	B-CHARACTER
+Sedley	I-CHARACTER
+instantly	O
+to	O
+me	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000025
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Pinkerton .
+said	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+.	O
+
+# id = conivel-vanity-fair-000026
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Although schoolmistresses ' letters are to be trusted no more nor less than churchyard epitaphs ; yet , as it sometimes happens that a person departs this life who is really deserving of all the praises the stone cutter carves over his bones ; who IS a good Christian , a good parent , child , wife , or husband ; who actually DOES leave a disconsolate family to mourn his loss ; so in academies of the male and female sex it occurs every now and then that the pupil is fully worthy of the praises bestowed by the disinterested instructor .
+Although	O
+schoolmistresses	O
+'	O
+letters	O
+are	O
+to	O
+be	O
+trusted	O
+no	O
+more	O
+nor	O
+less	O
+than	O
+churchyard	O
+epitaphs	O
+;	O
+yet	O
+,	O
+as	O
+it	O
+sometimes	O
+happens	O
+that	O
+a	O
+person	O
+departs	O
+this	O
+life	O
+who	O
+is	O
+really	O
+deserving	O
+of	O
+all	O
+the	O
+praises	O
+the	O
+stone	O
+cutter	O
+carves	O
+over	O
+his	O
+bones	O
+;	O
+who	O
+IS	O
+a	O
+good	O
+Christian	O
+,	O
+a	O
+good	O
+parent	O
+,	O
+child	O
+,	O
+wife	O
+,	O
+or	O
+husband	O
+;	O
+who	O
+actually	O
+DOES	O
+leave	O
+a	O
+disconsolate	O
+family	O
+to	O
+mourn	O
+his	O
+loss	O
+;	O
+so	O
+in	O
+academies	O
+of	O
+the	O
+male	O
+and	O
+female	O
+sex	O
+it	O
+occurs	O
+every	O
+now	O
+and	O
+then	O
+that	O
+the	O
+pupil	O
+is	O
+fully	O
+worthy	O
+of	O
+the	O
+praises	O
+bestowed	O
+by	O
+the	O
+disinterested	O
+instructor	O
+.	O
+
+# id = conivel-vanity-fair-000027
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She had twelve intimate and bosom friends out of the twenty-four young ladies .
+She	O
+had	O
+twelve	O
+intimate	O
+and	O
+bosom	O
+friends	O
+out	O
+of	O
+the	O
+twenty-four	O
+young	O
+ladies	O
+.	O
+
+# id = conivel-vanity-fair-000028
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Such luxury of grief , however , is only allowed to parlour-boarders .
+Such	O
+luxury	O
+of	O
+grief	O
+,	O
+however	O
+,	O
+is	O
+only	O
+allowed	O
+to	O
+parlour-boarders	O
+.	O
+
+# id = conivel-vanity-fair-000029
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But why speak about her ?
+But	O
+why	O
+speak	O
+about	O
+her	O
+?	O
+
+# id = conivel-vanity-fair-000030
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It is probable that we shall not hear of her again from this moment to the end of time , and that when the great filigree iron gates are once closed on her , she and her awful sister will never issue therefrom into this little world of history .
+It	O
+is	O
+probable	O
+that	O
+we	O
+shall	O
+not	O
+hear	O
+of	O
+her	O
+again	O
+from	O
+this	O
+moment	O
+to	O
+the	O
+end	O
+of	O
+time	O
+,	O
+and	O
+that	O
+when	O
+the	O
+great	O
+filigree	O
+iron	O
+gates	O
+are	O
+once	O
+closed	O
+on	O
+her	O
+,	O
+she	O
+and	O
+her	O
+awful	O
+sister	O
+will	O
+never	O
+issue	O
+therefrom	O
+into	O
+this	O
+little	O
+world	O
+of	O
+history	O
+.	O
+
+# id = conivel-vanity-fair-000031
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As she is not a heroine , there is no need to describe her person ; indeed I am afraid that her nose was rather short than otherwise , and her cheeks a great deal too round and red for a heroine ; but her face blushed with rosy health , and her lips with the freshest of smiles , and she had a pair of eyes which sparkled with the brightest and honestest good-humour , except indeed when they filled with tears , and that was a great deal too often ; for the silly thing would cry over a dead canary-bird ; or over a mouse , that the cat haply had seized upon ; or over the end of a novel , were it ever so stupid ; and as for saying an unkind word to her , were any persons hard-hearted enough to do so -- why , so much the worse for them .
+As	O
+she	O
+is	O
+not	O
+a	O
+heroine	O
+,	O
+there	O
+is	O
+no	O
+need	O
+to	O
+describe	O
+her	O
+person	O
+;	O
+indeed	O
+I	O
+am	O
+afraid	O
+that	O
+her	O
+nose	O
+was	O
+rather	O
+short	O
+than	O
+otherwise	O
+,	O
+and	O
+her	O
+cheeks	O
+a	O
+great	O
+deal	O
+too	O
+round	O
+and	O
+red	O
+for	O
+a	O
+heroine	O
+;	O
+but	O
+her	O
+face	O
+blushed	O
+with	O
+rosy	O
+health	O
+,	O
+and	O
+her	O
+lips	O
+with	O
+the	O
+freshest	O
+of	O
+smiles	O
+,	O
+and	O
+she	O
+had	O
+a	O
+pair	O
+of	O
+eyes	O
+which	O
+sparkled	O
+with	O
+the	O
+brightest	O
+and	O
+honestest	O
+good-humour	O
+,	O
+except	O
+indeed	O
+when	O
+they	O
+filled	O
+with	O
+tears	O
+,	O
+and	O
+that	O
+was	O
+a	O
+great	O
+deal	O
+too	O
+often	O
+;	O
+for	O
+the	O
+silly	O
+thing	O
+would	O
+cry	O
+over	O
+a	O
+dead	O
+canary-bird	O
+;	O
+or	O
+over	O
+a	O
+mouse	O
+,	O
+that	O
+the	O
+cat	O
+haply	O
+had	O
+seized	O
+upon	O
+;	O
+or	O
+over	O
+the	O
+end	O
+of	O
+a	O
+novel	O
+,	O
+were	O
+it	O
+ever	O
+so	O
+stupid	O
+;	O
+and	O
+as	O
+for	O
+saying	O
+an	O
+unkind	O
+word	O
+to	O
+her	O
+,	O
+were	O
+any	O
+persons	O
+hard-hearted	O
+enough	O
+to	O
+do	O
+so	O
+--	O
+why	O
+,	O
+so	O
+much	O
+the	O
+worse	O
+for	O
+them	O
+.	O
+
+# id = conivel-vanity-fair-000032
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So that when the day of departure came , between her two customs of laughing and crying , Miss Sedley was greatly puzzled how to act .
+So	O
+that	O
+when	O
+the	O
+day	O
+of	O
+departure	O
+came	O
+,	O
+between	O
+her	O
+two	O
+customs	O
+of	O
+laughing	O
+and	O
+crying	O
+,	O
+Miss	B-CHARACTER
+Sedley	I-CHARACTER
+was	O
+greatly	O
+puzzled	O
+how	O
+to	O
+act	O
+.	O
+
+# id = conivel-vanity-fair-000033
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She was glad to go home , and yet most woefully sad at leaving school .
+She	O
+was	O
+glad	O
+to	O
+go	O
+home	O
+,	O
+and	O
+yet	O
+most	O
+woefully	O
+sad	O
+at	O
+leaving	O
+school	O
+.	O
+
+# id = conivel-vanity-fair-000034
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For three days before , little Laura Martin , the orphan , followed her about like a little dog .
+For	O
+three	O
+days	O
+before	O
+,	O
+little	O
+Laura	B-CHARACTER
+Martin	I-CHARACTER
+,	O
+the	O
+orphan	O
+,	O
+followed	O
+her	O
+about	O
+like	O
+a	O
+little	O
+dog	O
+.	O
+
+# id = conivel-vanity-fair-000035
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She had to make and receive at least fourteen presents -- to make fourteen solemn promises of writing every week : `` Send my letters under cover to my grandpapa , the Earl of Dexter , ''
+She	O
+had	O
+to	O
+make	O
+and	O
+receive	O
+at	O
+least	O
+fourteen	O
+presents	O
+--	O
+to	O
+make	O
+fourteen	O
+solemn	O
+promises	O
+of	O
+writing	O
+every	O
+week	O
+:	O
+``	O
+Send	O
+my	O
+letters	O
+under	O
+cover	O
+to	O
+my	O
+grandpapa	O
+,	O
+the	O
+Earl	B-CHARACTER
+of	I-CHARACTER
+Dexter	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-vanity-fair-000036
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Saltire ( who , by the way , was rather shabby ) .
+said	O
+Miss	B-CHARACTER
+Saltire	I-CHARACTER
+(	O
+who	O
+,	O
+by	O
+the	O
+way	O
+,	O
+was	O
+rather	O
+shabby	O
+)	O
+.	O
+
+# id = conivel-vanity-fair-000037
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Never mind the postage , but write every day , you dear darling , ''
+``	O
+Never	O
+mind	O
+the	O
+postage	O
+,	O
+but	O
+write	O
+every	O
+day	O
+,	O
+you	O
+dear	O
+darling	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000038
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the impetuous and woolly-headed , but generous and affectionate Miss Swartz ; and the orphan little Laura Martin ( who was just in round-hand ) , took her friend 's hand and said , looking up in her face wistfully , `` Amelia , when I write to you I shall call you Mamma . ''
+said	O
+the	O
+impetuous	O
+and	O
+woolly-headed	O
+,	O
+but	O
+generous	O
+and	O
+affectionate	O
+Miss	B-CHARACTER
+Swartz	I-CHARACTER
+;	O
+and	O
+the	O
+orphan	O
+little	O
+Laura	B-CHARACTER
+Martin	I-CHARACTER
+(	O
+who	O
+was	O
+just	O
+in	O
+round-hand	O
+)	O
+,	O
+took	O
+her	O
+friend	O
+'s	O
+hand	O
+and	O
+said	O
+,	O
+looking	O
+up	O
+in	O
+her	O
+face	O
+wistfully	O
+,	O
+``	O
+Amelia	B-CHARACTER
+,	O
+when	O
+I	O
+write	O
+to	O
+you	O
+I	O
+shall	O
+call	O
+you	O
+Mamma	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-vanity-fair-000039
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All which details , I have no doubt , JONES , who reads this book at his Club , will pronounce to be excessively foolish , trivial , twaddling , and ultra-sentimental .
+All	O
+which	O
+details	O
+,	O
+I	O
+have	O
+no	O
+doubt	O
+,	O
+JONES	B-CHARACTER
+,	O
+who	O
+reads	O
+this	O
+book	O
+at	O
+his	O
+Club	O
+,	O
+will	O
+pronounce	O
+to	O
+be	O
+excessively	O
+foolish	O
+,	O
+trivial	O
+,	O
+twaddling	O
+,	O
+and	O
+ultra-sentimental	O
+.	O
+
+# id = conivel-vanity-fair-000040
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Yes ; I can see Jones at this minute ( rather flushed with his joint of mutton and half pint of wine ) , taking out his pencil and scoring under the words ` foolish , twaddling , ' & c. , and adding to them his own remark of ` QUITE TRUE .
+Yes	O
+;	O
+I	O
+can	O
+see	O
+Jones	B-CHARACTER
+at	O
+this	O
+minute	O
+(	O
+rather	O
+flushed	O
+with	O
+his	O
+joint	O
+of	O
+mutton	O
+and	O
+half	O
+pint	O
+of	O
+wine	O
+)	O
+,	O
+taking	O
+out	O
+his	O
+pencil	O
+and	O
+scoring	O
+under	O
+the	O
+words	O
+`	O
+foolish	O
+,	O
+twaddling	O
+,	O
+'	O
+&	O
+c.	O
+,	O
+and	O
+adding	O
+to	O
+them	O
+his	O
+own	O
+remark	O
+of	O
+`	O
+QUITE	O
+TRUE	O
+.	O
+
+# id = conivel-vanity-fair-000041
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' Well , he is a lofty man of genius , and admires the great and heroic in life and novels ; and so had better take warning and go elsewhere .
+'	O
+Well	O
+,	O
+he	O
+is	O
+a	O
+lofty	O
+man	O
+of	O
+genius	O
+,	O
+and	O
+admires	O
+the	O
+great	O
+and	O
+heroic	O
+in	O
+life	O
+and	O
+novels	O
+;	O
+and	O
+so	O
+had	O
+better	O
+take	O
+warning	O
+and	O
+go	O
+elsewhere	O
+.	O
+
+# id = conivel-vanity-fair-000042
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , then .
+Well	O
+,	O
+then	O
+.	O
+
+# id = conivel-vanity-fair-000043
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The flowers , and the presents , and the trunks , and bonnet-boxes of Miss Sedley having been arranged by Mr. Sambo in the carriage , together with a very small and weather-beaten old cow 's - skin trunk with Miss Sharp 's card neatly nailed upon it , which was delivered by Sambo with a grin , and packed by the coachman with a corresponding sneer -- the hour for parting came ; and the grief of that moment was considerably lessened by the admirable discourse which Miss Pinkerton addressed to her pupil .
+The	O
+flowers	O
+,	O
+and	O
+the	O
+presents	O
+,	O
+and	O
+the	O
+trunks	O
+,	O
+and	O
+bonnet-boxes	O
+of	O
+Miss	B-CHARACTER
+Sedley	I-CHARACTER
+having	O
+been	O
+arranged	O
+by	O
+Mr.	B-CHARACTER
+Sambo	I-CHARACTER
+in	O
+the	O
+carriage	O
+,	O
+together	O
+with	O
+a	O
+very	O
+small	O
+and	O
+weather-beaten	O
+old	O
+cow	O
+'s	O
+-	O
+skin	O
+trunk	O
+with	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+'s	O
+card	O
+neatly	O
+nailed	O
+upon	O
+it	O
+,	O
+which	O
+was	O
+delivered	O
+by	O
+Sambo	B-CHARACTER
+with	O
+a	O
+grin	O
+,	O
+and	O
+packed	O
+by	O
+the	O
+coachman	O
+with	O
+a	O
+corresponding	O
+sneer	O
+--	O
+the	O
+hour	O
+for	O
+parting	O
+came	O
+;	O
+and	O
+the	O
+grief	O
+of	O
+that	O
+moment	O
+was	O
+considerably	O
+lessened	O
+by	O
+the	O
+admirable	O
+discourse	O
+which	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+addressed	O
+to	O
+her	O
+pupil	O
+.	O
+
+# id = conivel-vanity-fair-000044
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not that the parting speech caused Amelia to philosophise , or that it armed her in any way with a calmness , the result of argument ; but it was intolerably dull , pompous , and tedious ; and having the fear of her schoolmistress greatly before her eyes , Miss Sedley did not venture , in her presence , to give way to any ebullitions of private grief .
+Not	O
+that	O
+the	O
+parting	O
+speech	O
+caused	O
+Amelia	B-CHARACTER
+to	O
+philosophise	O
+,	O
+or	O
+that	O
+it	O
+armed	O
+her	O
+in	O
+any	O
+way	O
+with	O
+a	O
+calmness	O
+,	O
+the	O
+result	O
+of	O
+argument	O
+;	O
+but	O
+it	O
+was	O
+intolerably	O
+dull	O
+,	O
+pompous	O
+,	O
+and	O
+tedious	O
+;	O
+and	O
+having	O
+the	O
+fear	O
+of	O
+her	O
+schoolmistress	O
+greatly	O
+before	O
+her	O
+eyes	O
+,	O
+Miss	B-CHARACTER
+Sedley	I-CHARACTER
+did	O
+not	O
+venture	O
+,	O
+in	O
+her	O
+presence	O
+,	O
+to	O
+give	O
+way	O
+to	O
+any	O
+ebullitions	O
+of	O
+private	O
+grief	O
+.	O
+
+# id = conivel-vanity-fair-000045
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A seed-cake and a bottle of wine were produced in the drawing-room , as on the solemn occasions of the visits of parents , and these refreshments being partaken of , Miss Sedley was at liberty to depart .
+A	O
+seed-cake	O
+and	O
+a	O
+bottle	O
+of	O
+wine	O
+were	O
+produced	O
+in	O
+the	O
+drawing-room	O
+,	O
+as	O
+on	O
+the	O
+solemn	O
+occasions	O
+of	O
+the	O
+visits	O
+of	O
+parents	O
+,	O
+and	O
+these	O
+refreshments	O
+being	O
+partaken	O
+of	O
+,	O
+Miss	B-CHARACTER
+Sedley	I-CHARACTER
+was	O
+at	O
+liberty	O
+to	O
+depart	O
+.	O
+
+# id = conivel-vanity-fair-000046
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 'll go in and say good-by to Miss Pinkerton , Becky ! ''
+``	O
+You	O
+'ll	O
+go	O
+in	O
+and	O
+say	O
+good-by	O
+to	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+,	O
+Becky	B-CHARACTER
+!	O
+''	O
+
+# id = conivel-vanity-fair-000047
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Jemima to a young lady of whom nobody took any notice , and who was coming downstairs with her own bandbox .
+said	O
+Miss	B-CHARACTER
+Jemima	I-CHARACTER
+to	O
+a	O
+young	O
+lady	O
+of	O
+whom	O
+nobody	O
+took	O
+any	O
+notice	O
+,	O
+and	O
+who	O
+was	O
+coming	O
+downstairs	O
+with	O
+her	O
+own	O
+bandbox	O
+.	O
+
+# id = conivel-vanity-fair-000048
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I suppose I must , ''
+``	O
+I	O
+suppose	O
+I	O
+must	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000049
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Sharp calmly , and much to the wonder of Miss Jemima ; and the latter having knocked at the door , and receiving permission to come in , Miss Sharp advanced in a very unconcerned manner , and said in French , and with a perfect accent , `` Mademoiselle , je viens vous faire mes adieux . ''
+said	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+calmly	O
+,	O
+and	O
+much	O
+to	O
+the	O
+wonder	O
+of	O
+Miss	B-CHARACTER
+Jemima	I-CHARACTER
+;	O
+and	O
+the	O
+latter	O
+having	O
+knocked	O
+at	O
+the	O
+door	O
+,	O
+and	O
+receiving	O
+permission	O
+to	O
+come	O
+in	O
+,	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+advanced	O
+in	O
+a	O
+very	O
+unconcerned	O
+manner	O
+,	O
+and	O
+said	O
+in	O
+French	O
+,	O
+and	O
+with	O
+a	O
+perfect	O
+accent	O
+,	O
+``	O
+Mademoiselle	O
+,	O
+je	O
+viens	O
+vous	O
+faire	O
+mes	O
+adieux	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000050
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Miss Pinkerton did not understand French ; she only directed those who did : but biting her lips and throwing up her venerable and Roman-nosed head ( on the top of which figured a large and solemn turban ) , she said , `` Miss Sharp , I wish you a good morning . ''
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+did	O
+not	O
+understand	O
+French	O
+;	O
+she	O
+only	O
+directed	O
+those	O
+who	O
+did	O
+:	O
+but	O
+biting	O
+her	O
+lips	O
+and	O
+throwing	O
+up	O
+her	O
+venerable	O
+and	O
+Roman-nosed	O
+head	O
+(	O
+on	O
+the	O
+top	O
+of	O
+which	O
+figured	O
+a	O
+large	O
+and	O
+solemn	O
+turban	O
+)	O
+,	O
+she	O
+said	O
+,	O
+``	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+,	O
+I	O
+wish	O
+you	O
+a	O
+good	O
+morning	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000051
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As the Hammersmith Semiramis spoke , she waved one hand , both by way of adieu , and to give Miss Sharp an opportunity of shaking one of the fingers of the hand which was left out for that purpose .
+As	O
+the	O
+Hammersmith	B-LOCATION
+Semiramis	B-CHARACTER
+spoke	O
+,	O
+she	O
+waved	O
+one	O
+hand	O
+,	O
+both	O
+by	O
+way	O
+of	O
+adieu	O
+,	O
+and	O
+to	O
+give	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+an	O
+opportunity	O
+of	O
+shaking	O
+one	O
+of	O
+the	O
+fingers	O
+of	O
+the	O
+hand	O
+which	O
+was	O
+left	O
+out	O
+for	O
+that	O
+purpose	O
+.	O
+
+# id = conivel-vanity-fair-000052
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Miss Sharp only folded her own hands with a very frigid smile and bow , and quite declined to accept the proffered honour ; on which Semiramis tossed up her turban more indignantly than ever .
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+only	O
+folded	O
+her	O
+own	O
+hands	O
+with	O
+a	O
+very	O
+frigid	O
+smile	O
+and	O
+bow	O
+,	O
+and	O
+quite	O
+declined	O
+to	O
+accept	O
+the	O
+proffered	O
+honour	O
+;	O
+on	O
+which	O
+Semiramis	B-CHARACTER
+tossed	O
+up	O
+her	O
+turban	O
+more	O
+indignantly	O
+than	O
+ever	O
+.	O
+
+# id = conivel-vanity-fair-000053
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In fact , it was a little battle between the young lady and the old one , and the latter was worsted .
+In	O
+fact	O
+,	O
+it	O
+was	O
+a	O
+little	O
+battle	O
+between	O
+the	O
+young	O
+lady	O
+and	O
+the	O
+old	O
+one	O
+,	O
+and	O
+the	O
+latter	O
+was	O
+worsted	O
+.	O
+
+# id = conivel-vanity-fair-000054
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Heaven bless you , my child , ''
+``	O
+Heaven	O
+bless	O
+you	O
+,	O
+my	O
+child	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000055
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said she , embracing Amelia , and scowling the while over the girl 's shoulder at Miss Sharp .
+said	O
+she	O
+,	O
+embracing	O
+Amelia	B-CHARACTER
+,	O
+and	O
+scowling	O
+the	O
+while	O
+over	O
+the	O
+girl	O
+'s	O
+shoulder	O
+at	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+.	O
+
+# id = conivel-vanity-fair-000056
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Come away , Becky , ''
+``	O
+Come	O
+away	O
+,	O
+Becky	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-vanity-fair-000057
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Jemima , pulling the young woman away in great alarm , and the drawing-room door closed upon them for ever .
+said	O
+Miss	B-CHARACTER
+Jemima	I-CHARACTER
+,	O
+pulling	O
+the	O
+young	O
+woman	O
+away	O
+in	O
+great	O
+alarm	O
+,	O
+and	O
+the	O
+drawing-room	O
+door	O
+closed	O
+upon	O
+them	O
+for	O
+ever	O
+.	O
+
+# id = conivel-vanity-fair-000058
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then came the struggle and parting below .
+Then	O
+came	O
+the	O
+struggle	O
+and	O
+parting	O
+below	O
+.	O
+
+# id = conivel-vanity-fair-000059
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Words refuse to tell it .
+Words	O
+refuse	O
+to	O
+tell	O
+it	O
+.	O
+
+# id = conivel-vanity-fair-000060
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All the servants were there in the hall -- all the dear friends -- all the young ladies -- the dancing-master who had just arrived ; and there was such a scuffling , and hugging , and kissing , and crying , with the hysterical YOOPS of Miss Swartz , the parlour-boarder , from her room , as no pen can depict , and as the tender heart would fain pass over .
+All	O
+the	O
+servants	O
+were	O
+there	O
+in	O
+the	O
+hall	O
+--	O
+all	O
+the	O
+dear	O
+friends	O
+--	O
+all	O
+the	O
+young	O
+ladies	O
+--	O
+the	O
+dancing-master	O
+who	O
+had	O
+just	O
+arrived	O
+;	O
+and	O
+there	O
+was	O
+such	O
+a	O
+scuffling	O
+,	O
+and	O
+hugging	O
+,	O
+and	O
+kissing	O
+,	O
+and	O
+crying	O
+,	O
+with	O
+the	O
+hysterical	O
+YOOPS	O
+of	O
+Miss	B-CHARACTER
+Swartz	I-CHARACTER
+,	O
+the	O
+parlour-boarder	O
+,	O
+from	O
+her	O
+room	O
+,	O
+as	O
+no	O
+pen	O
+can	O
+depict	O
+,	O
+and	O
+as	O
+the	O
+tender	O
+heart	O
+would	O
+fain	O
+pass	O
+over	O
+.	O
+
+# id = conivel-vanity-fair-000061
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The embracing was over ; they parted -- that is , Miss Sedley parted from her friends .
+The	O
+embracing	O
+was	O
+over	O
+;	O
+they	O
+parted	O
+--	O
+that	O
+is	O
+,	O
+Miss	B-CHARACTER
+Sedley	I-CHARACTER
+parted	O
+from	O
+her	O
+friends	O
+.	O
+
+# id = conivel-vanity-fair-000062
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Miss Sharp had demurely entered the carriage some minutes before .
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+had	O
+demurely	O
+entered	O
+the	O
+carriage	O
+some	O
+minutes	O
+before	O
+.	O
+
+# id = conivel-vanity-fair-000063
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nobody cried for leaving HER .
+Nobody	O
+cried	O
+for	O
+leaving	O
+HER	O
+.	O
+
+# id = conivel-vanity-fair-000064
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Sambo of the bandy legs slammed the carriage door on his young weeping mistress .
+Sambo	B-CHARACTER
+of	O
+the	O
+bandy	O
+legs	O
+slammed	O
+the	O
+carriage	O
+door	O
+on	O
+his	O
+young	O
+weeping	O
+mistress	O
+.	O
+
+# id = conivel-vanity-fair-000065
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He sprang up behind the carriage .
+He	O
+sprang	O
+up	O
+behind	O
+the	O
+carriage	O
+.	O
+
+# id = conivel-vanity-fair-000066
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Stop ! ''
+``	O
+Stop	O
+!	O
+''	O
+
+# id = conivel-vanity-fair-000067
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried Miss Jemima , rushing to the gate with a parcel .
+cried	O
+Miss	B-CHARACTER
+Jemima	I-CHARACTER
+,	O
+rushing	O
+to	O
+the	O
+gate	O
+with	O
+a	O
+parcel	O
+.	O
+
+# id = conivel-vanity-fair-000068
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's some sandwiches , my dear , ''
+``	O
+It	O
+'s	O
+some	O
+sandwiches	O
+,	O
+my	O
+dear	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000069
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said she to Amelia .
+said	O
+she	O
+to	O
+Amelia	B-CHARACTER
+.	O
+
+# id = conivel-vanity-fair-000070
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You may be hungry , you know ; and Becky , Becky Sharp , here 's a book for you that my sister -- that is , I -- Johnson 's Dixonary , you know ; you must n't leave us without that .
+``	O
+You	O
+may	O
+be	O
+hungry	O
+,	O
+you	O
+know	O
+;	O
+and	O
+Becky	B-CHARACTER
+,	O
+Becky	B-CHARACTER
+Sharp	I-CHARACTER
+,	O
+here	O
+'s	O
+a	O
+book	O
+for	O
+you	O
+that	O
+my	O
+sister	O
+--	O
+that	O
+is	O
+,	O
+I	O
+--	O
+Johnson	B-CHARACTER
+'s	O
+Dixonary	O
+,	O
+you	O
+know	O
+;	O
+you	O
+must	O
+n't	O
+leave	O
+us	O
+without	O
+that	O
+.	O
+
+# id = conivel-vanity-fair-000071
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Good-by .
+Good-by	O
+.	O
+
+# id = conivel-vanity-fair-000072
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Drive on , coachman .
+Drive	O
+on	O
+,	O
+coachman	O
+.	O
+
+# id = conivel-vanity-fair-000073
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = God bless you ! ''
+God	O
+bless	O
+you	O
+!	O
+''	O
+
+# id = conivel-vanity-fair-000074
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And the kind creature retreated into the garden , overcome with emotion .
+And	O
+the	O
+kind	O
+creature	O
+retreated	O
+into	O
+the	O
+garden	O
+,	O
+overcome	O
+with	O
+emotion	O
+.	O
+
+# id = conivel-vanity-fair-000075
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But , lo !
+But	O
+,	O
+lo	O
+!	O
+
+# id = conivel-vanity-fair-000076
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = and just as the coach drove off , Miss Sharp put her pale face out of the window and actually flung the book back into the garden .
+and	O
+just	O
+as	O
+the	O
+coach	O
+drove	O
+off	O
+,	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+put	O
+her	O
+pale	O
+face	O
+out	O
+of	O
+the	O
+window	O
+and	O
+actually	O
+flung	O
+the	O
+book	O
+back	O
+into	O
+the	O
+garden	O
+.	O
+
+# id = conivel-vanity-fair-000077
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This almost caused Jemima to faint with terror .
+This	O
+almost	O
+caused	O
+Jemima	B-CHARACTER
+to	O
+faint	O
+with	O
+terror	O
+.	O
+
+# id = conivel-vanity-fair-000078
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , I never ''
+``	O
+Well	O
+,	O
+I	O
+never	O
+''	O
+
+# id = conivel-vanity-fair-000079
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- said she -- `` what an audacious ''
+--	O
+said	O
+she	O
+--	O
+``	O
+what	O
+an	O
+audacious	O
+''	O
+
+# id = conivel-vanity-fair-000080
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Emotion prevented her from completing either sentence .
+--	O
+Emotion	O
+prevented	O
+her	O
+from	O
+completing	O
+either	O
+sentence	O
+.	O
+
+# id = conivel-vanity-fair-000081
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The carriage rolled away ; the great gates were closed ; the bell rang for the dancing lesson .
+The	O
+carriage	O
+rolled	O
+away	O
+;	O
+the	O
+great	O
+gates	O
+were	O
+closed	O
+;	O
+the	O
+bell	O
+rang	O
+for	O
+the	O
+dancing	O
+lesson	O
+.	O
+
+# id = conivel-vanity-fair-000082
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The world is before the two young ladies ; and so , farewell to Chiswick Mall .
+The	O
+world	O
+is	O
+before	O
+the	O
+two	O
+young	O
+ladies	O
+;	O
+and	O
+so	O
+,	O
+farewell	O
+to	O
+Chiswick	B-LOCATION
+Mall	I-LOCATION
+.	O
+
+# id = conivel-vanity-fair-000083
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = CHAPTER II In Which Miss Sharp and Miss Sedley Prepare to Open the Campaign When Miss Sharp had performed the heroical act mentioned in the last chapter , and had seen the Dixonary , flying over the pavement of the little garden , fall at length at the feet of the astonished Miss Jemima , the young lady 's countenance , which had before worn an almost livid look of hatred , assumed a smile that perhaps was scarcely more agreeable , and she sank back in the carriage in an easy frame of mind , saying -- `` So much for the Dixonary ; and , thank God , I 'm out of Chiswick . ''
+CHAPTER	O
+II	O
+In	O
+Which	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+and	O
+Miss	B-CHARACTER
+Sedley	I-CHARACTER
+Prepare	O
+to	O
+Open	O
+the	O
+Campaign	O
+When	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+had	O
+performed	O
+the	O
+heroical	O
+act	O
+mentioned	O
+in	O
+the	O
+last	O
+chapter	O
+,	O
+and	O
+had	O
+seen	O
+the	O
+Dixonary	O
+,	O
+flying	O
+over	O
+the	O
+pavement	O
+of	O
+the	O
+little	O
+garden	O
+,	O
+fall	O
+at	O
+length	O
+at	O
+the	O
+feet	O
+of	O
+the	O
+astonished	O
+Miss	B-CHARACTER
+Jemima	I-CHARACTER
+,	O
+the	O
+young	O
+lady	O
+'s	O
+countenance	O
+,	O
+which	O
+had	O
+before	O
+worn	O
+an	O
+almost	O
+livid	O
+look	O
+of	O
+hatred	O
+,	O
+assumed	O
+a	O
+smile	O
+that	O
+perhaps	O
+was	O
+scarcely	O
+more	O
+agreeable	O
+,	O
+and	O
+she	O
+sank	O
+back	O
+in	O
+the	O
+carriage	O
+in	O
+an	O
+easy	O
+frame	O
+of	O
+mind	O
+,	O
+saying	O
+--	O
+``	O
+So	O
+much	O
+for	O
+the	O
+Dixonary	O
+;	O
+and	O
+,	O
+thank	O
+God	O
+,	O
+I	O
+'m	O
+out	O
+of	O
+Chiswick	B-LOCATION
+.	O
+''	O
+
+# id = conivel-vanity-fair-000084
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Miss Sedley was almost as flurried at the act of defiance as Miss Jemima had been ; for , consider , it was but one minute that she had left school , and the impressions of six years are not got over in that space of time .
+Miss	B-CHARACTER
+Sedley	I-CHARACTER
+was	O
+almost	O
+as	O
+flurried	O
+at	O
+the	O
+act	O
+of	O
+defiance	O
+as	O
+Miss	B-CHARACTER
+Jemima	I-CHARACTER
+had	O
+been	O
+;	O
+for	O
+,	O
+consider	O
+,	O
+it	O
+was	O
+but	O
+one	O
+minute	O
+that	O
+she	O
+had	O
+left	O
+school	O
+,	O
+and	O
+the	O
+impressions	O
+of	O
+six	O
+years	O
+are	O
+not	O
+got	O
+over	O
+in	O
+that	O
+space	O
+of	O
+time	O
+.	O
+
+# id = conivel-vanity-fair-000085
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nay , with some persons those awes and terrors of youth last for ever and ever .
+Nay	O
+,	O
+with	O
+some	O
+persons	O
+those	O
+awes	O
+and	O
+terrors	O
+of	O
+youth	O
+last	O
+for	O
+ever	O
+and	O
+ever	O
+.	O
+
+# id = conivel-vanity-fair-000086
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I know , for instance , an old gentleman of sixty-eight , who said to me one morning at breakfast , with a very agitated countenance , `` I dreamed last night that I was flogged by Dr. Raine . ''
+I	O
+know	O
+,	O
+for	O
+instance	O
+,	O
+an	O
+old	O
+gentleman	O
+of	O
+sixty-eight	O
+,	O
+who	O
+said	O
+to	O
+me	O
+one	O
+morning	O
+at	O
+breakfast	O
+,	O
+with	O
+a	O
+very	O
+agitated	O
+countenance	O
+,	O
+``	O
+I	O
+dreamed	O
+last	O
+night	O
+that	O
+I	O
+was	O
+flogged	O
+by	O
+Dr.	B-CHARACTER
+Raine	I-CHARACTER
+.	O
+''	O
+
+# id = conivel-vanity-fair-000087
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Fancy had carried him back five-and-fifty years in the course of that evening .
+Fancy	O
+had	O
+carried	O
+him	O
+back	O
+five-and-fifty	O
+years	O
+in	O
+the	O
+course	O
+of	O
+that	O
+evening	O
+.	O
+
+# id = conivel-vanity-fair-000088
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Dr. Raine and his rod were just as awful to him in his heart , then , at sixty-eight , as they had been at thirteen .
+Dr.	B-CHARACTER
+Raine	I-CHARACTER
+and	O
+his	O
+rod	O
+were	O
+just	O
+as	O
+awful	O
+to	O
+him	O
+in	O
+his	O
+heart	O
+,	O
+then	O
+,	O
+at	O
+sixty-eight	O
+,	O
+as	O
+they	O
+had	O
+been	O
+at	O
+thirteen	O
+.	O
+
+# id = conivel-vanity-fair-000089
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If the Doctor , with a large birch , had appeared bodily to him , even at the age of threescore and eight , and had said in awful voice , `` Boy , take down your pant -- ''
+If	O
+the	O
+Doctor	B-CHARACTER
+,	O
+with	O
+a	O
+large	O
+birch	O
+,	O
+had	O
+appeared	O
+bodily	O
+to	O
+him	O
+,	O
+even	O
+at	O
+the	O
+age	O
+of	O
+threescore	O
+and	O
+eight	O
+,	O
+and	O
+had	O
+said	O
+in	O
+awful	O
+voice	O
+,	O
+``	O
+Boy	O
+,	O
+take	O
+down	O
+your	O
+pant	O
+--	O
+''	O
+
+# id = conivel-vanity-fair-000090
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ?
+?	O
+
+# id = conivel-vanity-fair-000091
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , well , Miss Sedley was exceedingly alarmed at this act of insubordination .
+Well	O
+,	O
+well	O
+,	O
+Miss	B-CHARACTER
+Sedley	I-CHARACTER
+was	O
+exceedingly	O
+alarmed	O
+at	O
+this	O
+act	O
+of	O
+insubordination	O
+.	O
+
+# id = conivel-vanity-fair-000092
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How could you do so , Rebecca ? ''
+``	O
+How	O
+could	O
+you	O
+do	O
+so	O
+,	O
+Rebecca	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-vanity-fair-000093
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = at last she said , after a pause .
+at	O
+last	O
+she	O
+said	O
+,	O
+after	O
+a	O
+pause	O
+.	O
+
+# id = conivel-vanity-fair-000094
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Why , do you think Miss Pinkerton will come out and order me back to the black-hole ? ''
+``	O
+Why	O
+,	O
+do	O
+you	O
+think	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+will	O
+come	O
+out	O
+and	O
+order	O
+me	O
+back	O
+to	O
+the	O
+black-hole	O
+?	O
+''	O
+
+# id = conivel-vanity-fair-000095
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Rebecca , laughing .
+said	O
+Rebecca	B-CHARACTER
+,	O
+laughing	O
+.	O
+
+# id = conivel-vanity-fair-000096
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No : but -- ''
+``	O
+No	O
+:	O
+but	O
+--	O
+''	O
+
+# id = conivel-vanity-fair-000097
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I hate the whole house , ''
+``	O
+I	O
+hate	O
+the	O
+whole	O
+house	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000098
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = continued Miss Sharp in a fury .
+continued	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+in	O
+a	O
+fury	O
+.	O
+
+# id = conivel-vanity-fair-000099
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I hope I may never set eyes on it again .
+``	O
+I	O
+hope	O
+I	O
+may	O
+never	O
+set	O
+eyes	O
+on	O
+it	O
+again	O
+.	O
+
+# id = conivel-vanity-fair-000100
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I wish it were in the bottom of the Thames , I do ; and if Miss Pinkerton were there , I would n't pick her out , that I would n't .
+I	O
+wish	O
+it	O
+were	O
+in	O
+the	O
+bottom	O
+of	O
+the	O
+Thames	B-LOCATION
+,	O
+I	O
+do	O
+;	O
+and	O
+if	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+were	O
+there	O
+,	O
+I	O
+would	O
+n't	O
+pick	O
+her	O
+out	O
+,	O
+that	O
+I	O
+would	O
+n't	O
+.	O
+
+# id = conivel-vanity-fair-000101
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = O how I should like to see her floating in the water yonder , turban and all , with her train streaming after her , and her nose like the beak of a wherry . ''
+O	O
+how	O
+I	O
+should	O
+like	O
+to	O
+see	O
+her	O
+floating	O
+in	O
+the	O
+water	O
+yonder	O
+,	O
+turban	O
+and	O
+all	O
+,	O
+with	O
+her	O
+train	O
+streaming	O
+after	O
+her	O
+,	O
+and	O
+her	O
+nose	O
+like	O
+the	O
+beak	O
+of	O
+a	O
+wherry	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000102
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Hush ! ''
+``	O
+Hush	O
+!	O
+''	O
+
+# id = conivel-vanity-fair-000103
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried Miss Sedley .
+cried	O
+Miss	B-CHARACTER
+Sedley	I-CHARACTER
+.	O
+
+# id = conivel-vanity-fair-000104
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Why , will the black footman tell tales ? ''
+``	O
+Why	O
+,	O
+will	O
+the	O
+black	O
+footman	O
+tell	O
+tales	O
+?	O
+''	O
+
+# id = conivel-vanity-fair-000105
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried Miss Rebecca , laughing .
+cried	O
+Miss	B-CHARACTER
+Rebecca	I-CHARACTER
+,	O
+laughing	O
+.	O
+
+# id = conivel-vanity-fair-000106
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He may go back and tell Miss Pinkerton that I hate her with all my soul ; and I wish he would ; and I wish I had a means of proving it , too .
+``	O
+He	O
+may	O
+go	O
+back	O
+and	O
+tell	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+that	O
+I	O
+hate	O
+her	O
+with	O
+all	O
+my	O
+soul	O
+;	O
+and	O
+I	O
+wish	O
+he	O
+would	O
+;	O
+and	O
+I	O
+wish	O
+I	O
+had	O
+a	O
+means	O
+of	O
+proving	O
+it	O
+,	O
+too	O
+.	O
+
+# id = conivel-vanity-fair-000107
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For two years I have only had insults and outrage from her .
+For	O
+two	O
+years	O
+I	O
+have	O
+only	O
+had	O
+insults	O
+and	O
+outrage	O
+from	O
+her	O
+.	O
+
+# id = conivel-vanity-fair-000108
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I have been treated worse than any servant in the kitchen .
+I	O
+have	O
+been	O
+treated	O
+worse	O
+than	O
+any	O
+servant	O
+in	O
+the	O
+kitchen	O
+.	O
+
+# id = conivel-vanity-fair-000109
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I have never had a friend or a kind word , except from you .
+I	O
+have	O
+never	O
+had	O
+a	O
+friend	O
+or	O
+a	O
+kind	O
+word	O
+,	O
+except	O
+from	O
+you	O
+.	O
+
+# id = conivel-vanity-fair-000110
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I have been made to tend the little girls in the lower schoolroom , and to talk French to the Misses , until I grew sick of my mother tongue .
+I	O
+have	O
+been	O
+made	O
+to	O
+tend	O
+the	O
+little	O
+girls	O
+in	O
+the	O
+lower	O
+schoolroom	O
+,	O
+and	O
+to	O
+talk	O
+French	O
+to	O
+the	O
+Misses	O
+,	O
+until	O
+I	O
+grew	O
+sick	O
+of	O
+my	O
+mother	O
+tongue	O
+.	O
+
+# id = conivel-vanity-fair-000111
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But that talking French to Miss Pinkerton was capital fun , was n't it ?
+But	O
+that	O
+talking	O
+French	O
+to	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+was	O
+capital	O
+fun	O
+,	O
+was	O
+n't	O
+it	O
+?	O
+
+# id = conivel-vanity-fair-000112
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She does n't know a word of French , and was too proud to confess it .
+She	O
+does	O
+n't	O
+know	O
+a	O
+word	O
+of	O
+French	O
+,	O
+and	O
+was	O
+too	O
+proud	O
+to	O
+confess	O
+it	O
+.	O
+
+# id = conivel-vanity-fair-000113
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I believe it was that which made her part with me ; and so thank Heaven for French .
+I	O
+believe	O
+it	O
+was	O
+that	O
+which	O
+made	O
+her	O
+part	O
+with	O
+me	O
+;	O
+and	O
+so	O
+thank	O
+Heaven	B-LOCATION
+for	O
+French	O
+.	O
+
+# id = conivel-vanity-fair-000114
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vive la France !
+Vive	O
+la	O
+France	B-LOCATION
+!	O
+
+# id = conivel-vanity-fair-000115
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vive l'Empereur !
+Vive	O
+l'Empereur	B-CHARACTER
+!	O
+
+# id = conivel-vanity-fair-000116
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vive Bonaparte ! ''
+Vive	O
+Bonaparte	B-CHARACTER
+!	O
+''	O
+
+# id = conivel-vanity-fair-000117
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` O Rebecca , Rebecca , for shame ! ''
+``	O
+O	O
+Rebecca	B-CHARACTER
+,	O
+Rebecca	B-CHARACTER
+,	O
+for	O
+shame	O
+!	O
+''	O
+
+# id = conivel-vanity-fair-000118
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried Miss Sedley ; for this was the greatest blasphemy Rebecca had as yet uttered ; and in those days , in England , to say , ` Long live Bonaparte !
+cried	O
+Miss	B-CHARACTER
+Sedley	I-CHARACTER
+;	O
+for	O
+this	O
+was	O
+the	O
+greatest	O
+blasphemy	O
+Rebecca	B-CHARACTER
+had	O
+as	O
+yet	O
+uttered	O
+;	O
+and	O
+in	O
+those	O
+days	O
+,	O
+in	O
+England	B-LOCATION
+,	O
+to	O
+say	O
+,	O
+`	O
+Long	O
+live	O
+Bonaparte	B-CHARACTER
+!	O
+
+# id = conivel-vanity-fair-000119
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' was as much as to say , ` Long live Lucifer !
+'	O
+was	O
+as	O
+much	O
+as	O
+to	O
+say	O
+,	O
+`	O
+Long	O
+live	O
+Lucifer	B-CHARACTER
+!	O
+
+# id = conivel-vanity-fair-000120
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' `` How can you -- how dare you have such wicked , revengeful thoughts ? ''
+'	O
+``	O
+How	O
+can	O
+you	O
+--	O
+how	O
+dare	O
+you	O
+have	O
+such	O
+wicked	O
+,	O
+revengeful	O
+thoughts	O
+?	O
+''	O
+
+# id = conivel-vanity-fair-000121
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Revenge may be wicked , but it 's natural , ''
+``	O
+Revenge	O
+may	O
+be	O
+wicked	O
+,	O
+but	O
+it	O
+'s	O
+natural	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000122
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = answered Miss Rebecca .
+answered	O
+Miss	B-CHARACTER
+Rebecca	I-CHARACTER
+.	O
+
+# id = conivel-vanity-fair-000123
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm no angel . ''
+``	O
+I	O
+'m	O
+no	O
+angel	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000124
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And , to say the truth , she certainly was not .
+And	O
+,	O
+to	O
+say	O
+the	O
+truth	O
+,	O
+she	O
+certainly	O
+was	O
+not	O
+.	O
+
+# id = conivel-vanity-fair-000125
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For it may be remarked in the course of this little conversation ( which took place as the coach rolled along lazily by the river side ) that though Miss Rebecca Sharp has twice had occasion to thank Heaven , it has been , in the first place , for ridding her of some person whom she hated , and secondly , for enabling her to bring her enemies to some sort of perplexity or confusion ; neither of which are very amiable motives for religious gratitude , or such as would be put forward by persons of a kind and placable disposition .
+For	O
+it	O
+may	O
+be	O
+remarked	O
+in	O
+the	O
+course	O
+of	O
+this	O
+little	O
+conversation	O
+(	O
+which	O
+took	O
+place	O
+as	O
+the	O
+coach	O
+rolled	O
+along	O
+lazily	O
+by	O
+the	O
+river	O
+side	O
+)	O
+that	O
+though	O
+Miss	B-CHARACTER
+Rebecca	I-CHARACTER
+Sharp	I-CHARACTER
+has	O
+twice	O
+had	O
+occasion	O
+to	O
+thank	O
+Heaven	B-LOCATION
+,	O
+it	O
+has	O
+been	O
+,	O
+in	O
+the	O
+first	O
+place	O
+,	O
+for	O
+ridding	O
+her	O
+of	O
+some	O
+person	O
+whom	O
+she	O
+hated	O
+,	O
+and	O
+secondly	O
+,	O
+for	O
+enabling	O
+her	O
+to	O
+bring	O
+her	O
+enemies	O
+to	O
+some	O
+sort	O
+of	O
+perplexity	O
+or	O
+confusion	O
+;	O
+neither	O
+of	O
+which	O
+are	O
+very	O
+amiable	O
+motives	O
+for	O
+religious	O
+gratitude	O
+,	O
+or	O
+such	O
+as	O
+would	O
+be	O
+put	O
+forward	O
+by	O
+persons	O
+of	O
+a	O
+kind	O
+and	O
+placable	O
+disposition	O
+.	O
+
+# id = conivel-vanity-fair-000126
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Miss Rebecca was not , then , in the least kind or placable .
+Miss	B-CHARACTER
+Rebecca	I-CHARACTER
+was	O
+not	O
+,	O
+then	O
+,	O
+in	O
+the	O
+least	O
+kind	O
+or	O
+placable	O
+.	O
+
+# id = conivel-vanity-fair-000127
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All the world used her ill , said this young misanthropist , and we may be pretty certain that persons whom all the world treats ill , deserve entirely the treatment they get .
+All	O
+the	O
+world	O
+used	O
+her	O
+ill	O
+,	O
+said	O
+this	O
+young	O
+misanthropist	O
+,	O
+and	O
+we	O
+may	O
+be	O
+pretty	O
+certain	O
+that	O
+persons	O
+whom	O
+all	O
+the	O
+world	O
+treats	O
+ill	O
+,	O
+deserve	O
+entirely	O
+the	O
+treatment	O
+they	O
+get	O
+.	O
+
+# id = conivel-vanity-fair-000128
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The world is a looking-glass , and gives back to every man the reflection of his own face .
+The	O
+world	O
+is	O
+a	O
+looking-glass	O
+,	O
+and	O
+gives	O
+back	O
+to	O
+every	O
+man	O
+the	O
+reflection	O
+of	O
+his	O
+own	O
+face	O
+.	O
+
+# id = conivel-vanity-fair-000129
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Frown at it , and it will in turn look sourly upon you ; laugh at it and with it , and it is a jolly kind companion ; and so let all young persons take their choice .
+Frown	O
+at	O
+it	O
+,	O
+and	O
+it	O
+will	O
+in	O
+turn	O
+look	O
+sourly	O
+upon	O
+you	O
+;	O
+laugh	O
+at	O
+it	O
+and	O
+with	O
+it	O
+,	O
+and	O
+it	O
+is	O
+a	O
+jolly	O
+kind	O
+companion	O
+;	O
+and	O
+so	O
+let	O
+all	O
+young	O
+persons	O
+take	O
+their	O
+choice	O
+.	O
+
+# id = conivel-vanity-fair-000130
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This is certain , that if the world neglected Miss Sharp , she never was known to have done a good action in behalf of anybody ; nor can it be expected that twenty-four young ladies should all be as amiable as the heroine of this work , Miss Sedley ( whom we have selected for the very reason that she was the best-natured of all , otherwise what on earth was to have prevented us from putting up Miss Swartz , or Miss Crump , or Miss Hopkins , as heroine in her place !
+This	O
+is	O
+certain	O
+,	O
+that	O
+if	O
+the	O
+world	O
+neglected	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+,	O
+she	O
+never	O
+was	O
+known	O
+to	O
+have	O
+done	O
+a	O
+good	O
+action	O
+in	O
+behalf	O
+of	O
+anybody	O
+;	O
+nor	O
+can	O
+it	O
+be	O
+expected	O
+that	O
+twenty-four	O
+young	O
+ladies	O
+should	O
+all	O
+be	O
+as	O
+amiable	O
+as	O
+the	O
+heroine	O
+of	O
+this	O
+work	O
+,	O
+Miss	B-CHARACTER
+Sedley	I-CHARACTER
+(	O
+whom	O
+we	O
+have	O
+selected	O
+for	O
+the	O
+very	O
+reason	O
+that	O
+she	O
+was	O
+the	O
+best-natured	O
+of	O
+all	O
+,	O
+otherwise	O
+what	O
+on	O
+earth	O
+was	O
+to	O
+have	O
+prevented	O
+us	O
+from	O
+putting	O
+up	O
+Miss	B-CHARACTER
+Swartz	I-CHARACTER
+,	O
+or	O
+Miss	B-CHARACTER
+Crump	I-CHARACTER
+,	O
+or	O
+Miss	B-CHARACTER
+Hopkins	I-CHARACTER
+,	O
+as	O
+heroine	O
+in	O
+her	O
+place	O
+!	O
+
+# id = conivel-vanity-fair-000131
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ) it could not be expected that every one should be of the humble and gentle temper of Miss Amelia Sedley ; should take every opportunity to vanquish Rebecca 's hard-heartedness and ill-humour ; and , by a thousand kind words and offices , overcome , for once at least , her hostility to her kind .
+)	O
+it	O
+could	O
+not	O
+be	O
+expected	O
+that	O
+every	O
+one	O
+should	O
+be	O
+of	O
+the	O
+humble	O
+and	O
+gentle	O
+temper	O
+of	O
+Miss	B-CHARACTER
+Amelia	I-CHARACTER
+Sedley	I-CHARACTER
+;	O
+should	O
+take	O
+every	O
+opportunity	O
+to	O
+vanquish	O
+Rebecca	B-CHARACTER
+'s	O
+hard-heartedness	O
+and	O
+ill-humour	O
+;	O
+and	O
+,	O
+by	O
+a	O
+thousand	O
+kind	O
+words	O
+and	O
+offices	O
+,	O
+overcome	O
+,	O
+for	O
+once	O
+at	O
+least	O
+,	O
+her	O
+hostility	O
+to	O
+her	O
+kind	O
+.	O
+
+# id = conivel-vanity-fair-000132
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Miss Sharp 's father was an artist , and in that quality had given lessons of drawing at Miss Pinkerton 's school .
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+'s	O
+father	O
+was	O
+an	O
+artist	O
+,	O
+and	O
+in	O
+that	O
+quality	O
+had	O
+given	O
+lessons	O
+of	O
+drawing	O
+at	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+'s	O
+school	O
+.	O
+
+# id = conivel-vanity-fair-000133
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was a clever man ; a pleasant companion ; a careless student ; with a great propensity for running into debt , and a partiality for the tavern .
+He	O
+was	O
+a	O
+clever	O
+man	O
+;	O
+a	O
+pleasant	O
+companion	O
+;	O
+a	O
+careless	O
+student	O
+;	O
+with	O
+a	O
+great	O
+propensity	O
+for	O
+running	O
+into	O
+debt	O
+,	O
+and	O
+a	O
+partiality	O
+for	O
+the	O
+tavern	O
+.	O
+
+# id = conivel-vanity-fair-000134
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When he was drunk , he used to beat his wife and daughter ; and the next morning , with a headache , he would rail at the world for its neglect of his genius , and abuse , with a good deal of cleverness , and sometimes with perfect reason , the fools , his brother painters .
+When	O
+he	O
+was	O
+drunk	O
+,	O
+he	O
+used	O
+to	O
+beat	O
+his	O
+wife	O
+and	O
+daughter	O
+;	O
+and	O
+the	O
+next	O
+morning	O
+,	O
+with	O
+a	O
+headache	O
+,	O
+he	O
+would	O
+rail	O
+at	O
+the	O
+world	O
+for	O
+its	O
+neglect	O
+of	O
+his	O
+genius	O
+,	O
+and	O
+abuse	O
+,	O
+with	O
+a	O
+good	O
+deal	O
+of	O
+cleverness	O
+,	O
+and	O
+sometimes	O
+with	O
+perfect	O
+reason	O
+,	O
+the	O
+fools	O
+,	O
+his	O
+brother	O
+painters	O
+.	O
+
+# id = conivel-vanity-fair-000135
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As it was with the utmost difficulty that he could keep himself , and as he owed money for a mile round Soho , where he lived , he thought to better his circumstances by marrying a young woman of the French nation , who was by profession an opera-girl .
+As	O
+it	O
+was	O
+with	O
+the	O
+utmost	O
+difficulty	O
+that	O
+he	O
+could	O
+keep	O
+himself	O
+,	O
+and	O
+as	O
+he	O
+owed	O
+money	O
+for	O
+a	O
+mile	O
+round	O
+Soho	B-LOCATION
+,	O
+where	O
+he	O
+lived	O
+,	O
+he	O
+thought	O
+to	O
+better	O
+his	O
+circumstances	O
+by	O
+marrying	O
+a	O
+young	O
+woman	O
+of	O
+the	O
+French	O
+nation	O
+,	O
+who	O
+was	O
+by	O
+profession	O
+an	O
+opera-girl	O
+.	O
+
+# id = conivel-vanity-fair-000136
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The humble calling of her female parent Miss Sharp never alluded to , but used to state subsequently that the Entrechats were a noble family of Gascony , and took great pride in her descent from them .
+The	O
+humble	O
+calling	O
+of	O
+her	O
+female	O
+parent	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+never	O
+alluded	O
+to	O
+,	O
+but	O
+used	O
+to	O
+state	O
+subsequently	O
+that	O
+the	O
+Entrechats	O
+were	O
+a	O
+noble	O
+family	O
+of	O
+Gascony	B-LOCATION
+,	O
+and	O
+took	O
+great	O
+pride	O
+in	O
+her	O
+descent	O
+from	O
+them	O
+.	O
+
+# id = conivel-vanity-fair-000137
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And curious it is that as she advanced in life this young lady 's ancestors increased in rank and splendour .
+And	O
+curious	O
+it	O
+is	O
+that	O
+as	O
+she	O
+advanced	O
+in	O
+life	O
+this	O
+young	O
+lady	O
+'s	O
+ancestors	O
+increased	O
+in	O
+rank	O
+and	O
+splendour	O
+.	O
+
+# id = conivel-vanity-fair-000138
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Rebecca 's mother had had some education somewhere , and her daughter spoke French with purity and a Parisian accent .
+Rebecca	B-CHARACTER
+'s	O
+mother	O
+had	O
+had	O
+some	O
+education	O
+somewhere	O
+,	O
+and	O
+her	O
+daughter	O
+spoke	O
+French	O
+with	O
+purity	O
+and	O
+a	O
+Parisian	O
+accent	O
+.	O
+
+# id = conivel-vanity-fair-000139
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was in those days rather a rare accomplishment , and led to her engagement with the orthodox Miss Pinkerton .
+It	O
+was	O
+in	O
+those	O
+days	O
+rather	O
+a	O
+rare	O
+accomplishment	O
+,	O
+and	O
+led	O
+to	O
+her	O
+engagement	O
+with	O
+the	O
+orthodox	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+.	O
+
+# id = conivel-vanity-fair-000140
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For her mother being dead , her father , finding himself not likely to recover , after his third attack of delirium tremens , wrote a manly and pathetic letter to Miss Pinkerton , recommending the orphan child to her protection , and so descended to the grave , after two bailiffs had quarrelled over his corpse .
+For	O
+her	O
+mother	O
+being	O
+dead	O
+,	O
+her	O
+father	O
+,	O
+finding	O
+himself	O
+not	O
+likely	O
+to	O
+recover	O
+,	O
+after	O
+his	O
+third	O
+attack	O
+of	O
+delirium	O
+tremens	O
+,	O
+wrote	O
+a	O
+manly	O
+and	O
+pathetic	O
+letter	O
+to	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+,	O
+recommending	O
+the	O
+orphan	O
+child	O
+to	O
+her	O
+protection	O
+,	O
+and	O
+so	O
+descended	O
+to	O
+the	O
+grave	O
+,	O
+after	O
+two	O
+bailiffs	O
+had	O
+quarrelled	O
+over	O
+his	O
+corpse	O
+.	O
+
+# id = conivel-vanity-fair-000141
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Rebecca was seventeen when she came to Chiswick , and was bound over as an articled pupil ; her duties being to talk French , as we have seen ; and her privileges to live cost free , and , with a few guineas a year , to gather scraps of knowledge from the professors who attended the school .
+Rebecca	B-CHARACTER
+was	O
+seventeen	O
+when	O
+she	O
+came	O
+to	O
+Chiswick	B-LOCATION
+,	O
+and	O
+was	O
+bound	O
+over	O
+as	O
+an	O
+articled	O
+pupil	O
+;	O
+her	O
+duties	O
+being	O
+to	O
+talk	O
+French	O
+,	O
+as	O
+we	O
+have	O
+seen	O
+;	O
+and	O
+her	O
+privileges	O
+to	O
+live	O
+cost	O
+free	O
+,	O
+and	O
+,	O
+with	O
+a	O
+few	O
+guineas	O
+a	O
+year	O
+,	O
+to	O
+gather	O
+scraps	O
+of	O
+knowledge	O
+from	O
+the	O
+professors	O
+who	O
+attended	O
+the	O
+school	O
+.	O
+
+# id = conivel-vanity-fair-000142
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She was small and slight in person ; pale , sandy-haired , and with eyes habitually cast down : when they looked up they were very large , odd , and attractive ; so attractive that the Reverend Mr. Crisp , fresh from Oxford , and curate to the Vicar of Chiswick , the Reverend Mr. Flowerdew , fell in love with Miss Sharp ; being shot dead by a glance of her eyes which was fired all the way across Chiswick Church from the school-pew to the reading-desk .
+She	O
+was	O
+small	O
+and	O
+slight	O
+in	O
+person	O
+;	O
+pale	O
+,	O
+sandy-haired	O
+,	O
+and	O
+with	O
+eyes	O
+habitually	O
+cast	O
+down	O
+:	O
+when	O
+they	O
+looked	O
+up	O
+they	O
+were	O
+very	O
+large	O
+,	O
+odd	O
+,	O
+and	O
+attractive	O
+;	O
+so	O
+attractive	O
+that	O
+the	O
+Reverend	B-CHARACTER
+Mr.	I-CHARACTER
+Crisp	I-CHARACTER
+,	O
+fresh	O
+from	O
+Oxford	O
+,	O
+and	O
+curate	O
+to	O
+the	O
+Vicar	O
+of	O
+Chiswick	B-LOCATION
+,	O
+the	O
+Reverend	B-CHARACTER
+Mr.	I-CHARACTER
+Flowerdew	I-CHARACTER
+,	O
+fell	O
+in	O
+love	O
+with	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+;	O
+being	O
+shot	O
+dead	O
+by	O
+a	O
+glance	O
+of	O
+her	O
+eyes	O
+which	O
+was	O
+fired	O
+all	O
+the	O
+way	O
+across	O
+Chiswick	B-LOCATION
+Church	I-LOCATION
+from	O
+the	O
+school-pew	O
+to	O
+the	O
+reading-desk	O
+.	O
+
+# id = conivel-vanity-fair-000143
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This infatuated young man used sometimes to take tea with Miss Pinkerton , to whom he had been presented by his mamma , and actually proposed something like marriage in an intercepted note , which the one-eyed apple-woman was charged to deliver .
+This	O
+infatuated	O
+young	O
+man	O
+used	O
+sometimes	O
+to	O
+take	O
+tea	O
+with	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+,	O
+to	O
+whom	O
+he	O
+had	O
+been	O
+presented	O
+by	O
+his	O
+mamma	O
+,	O
+and	O
+actually	O
+proposed	O
+something	O
+like	O
+marriage	O
+in	O
+an	O
+intercepted	O
+note	O
+,	O
+which	O
+the	O
+one-eyed	O
+apple-woman	O
+was	O
+charged	O
+to	O
+deliver	O
+.	O
+
+# id = conivel-vanity-fair-000144
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mrs. Crisp was summoned from Buxton , and abruptly carried off her darling boy ; but the idea , even , of such an eagle in the Chiswick dovecot caused a great flutter in the breast of Miss Pinkerton , who would have sent away Miss Sharp but that she was bound to her under a forfeit , and who never could thoroughly believe the young lady 's protestations that she had never exchanged a single word with Mr. Crisp , except under her own eyes on the two occasions when she had met him at tea .
+Mrs.	B-CHARACTER
+Crisp	I-CHARACTER
+was	O
+summoned	O
+from	O
+Buxton	B-LOCATION
+,	O
+and	O
+abruptly	O
+carried	O
+off	O
+her	O
+darling	O
+boy	O
+;	O
+but	O
+the	O
+idea	O
+,	O
+even	O
+,	O
+of	O
+such	O
+an	O
+eagle	O
+in	O
+the	O
+Chiswick	B-LOCATION
+dovecot	O
+caused	O
+a	O
+great	O
+flutter	O
+in	O
+the	O
+breast	O
+of	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+,	O
+who	O
+would	O
+have	O
+sent	O
+away	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+but	O
+that	O
+she	O
+was	O
+bound	O
+to	O
+her	O
+under	O
+a	O
+forfeit	O
+,	O
+and	O
+who	O
+never	O
+could	O
+thoroughly	O
+believe	O
+the	O
+young	O
+lady	O
+'s	O
+protestations	O
+that	O
+she	O
+had	O
+never	O
+exchanged	O
+a	O
+single	O
+word	O
+with	O
+Mr.	B-CHARACTER
+Crisp	I-CHARACTER
+,	O
+except	O
+under	O
+her	O
+own	O
+eyes	O
+on	O
+the	O
+two	O
+occasions	O
+when	O
+she	O
+had	O
+met	O
+him	O
+at	O
+tea	O
+.	O
+
+# id = conivel-vanity-fair-000145
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = By the side of many tall and bouncing young ladies in the establishment , Rebecca Sharp looked like a child .
+By	O
+the	O
+side	O
+of	O
+many	O
+tall	O
+and	O
+bouncing	O
+young	O
+ladies	O
+in	O
+the	O
+establishment	O
+,	O
+Rebecca	B-CHARACTER
+Sharp	I-CHARACTER
+looked	O
+like	O
+a	O
+child	O
+.	O
+
+# id = conivel-vanity-fair-000146
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But she had the dismal precocity of poverty .
+But	O
+she	O
+had	O
+the	O
+dismal	O
+precocity	O
+of	O
+poverty	O
+.	O
+
+# id = conivel-vanity-fair-000147
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Many a dun had she talked to , and turned away from her father 's door ; many a tradesman had she coaxed and wheedled into good-humour , and into the granting of one meal more .
+Many	O
+a	O
+dun	O
+had	O
+she	O
+talked	O
+to	O
+,	O
+and	O
+turned	O
+away	O
+from	O
+her	O
+father	O
+'s	O
+door	O
+;	O
+many	O
+a	O
+tradesman	O
+had	O
+she	O
+coaxed	O
+and	O
+wheedled	O
+into	O
+good-humour	O
+,	O
+and	O
+into	O
+the	O
+granting	O
+of	O
+one	O
+meal	O
+more	O
+.	O
+
+# id = conivel-vanity-fair-000148
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She sate commonly with her father , who was very proud of her wit , and heard the talk of many of his wild companions -- often but ill-suited for a girl to hear .
+She	O
+sate	O
+commonly	O
+with	O
+her	O
+father	O
+,	O
+who	O
+was	O
+very	O
+proud	O
+of	O
+her	O
+wit	O
+,	O
+and	O
+heard	O
+the	O
+talk	O
+of	O
+many	O
+of	O
+his	O
+wild	O
+companions	O
+--	O
+often	O
+but	O
+ill-suited	O
+for	O
+a	O
+girl	O
+to	O
+hear	O
+.	O
+
+# id = conivel-vanity-fair-000149
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But she never had been a girl , she said ; she had been a woman since she was eight years old .
+But	O
+she	O
+never	O
+had	O
+been	O
+a	O
+girl	O
+,	O
+she	O
+said	O
+;	O
+she	O
+had	O
+been	O
+a	O
+woman	O
+since	O
+she	O
+was	O
+eight	O
+years	O
+old	O
+.	O
+
+# id = conivel-vanity-fair-000150
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Oh , why did Miss Pinkerton let such a dangerous bird into her cage ?
+Oh	O
+,	O
+why	O
+did	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+let	O
+such	O
+a	O
+dangerous	O
+bird	O
+into	O
+her	O
+cage	O
+?	O
+
+# id = conivel-vanity-fair-000151
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The fact is , the old lady believed Rebecca to be the meekest creature in the world , so admirably , on the occasions when her father brought her to Chiswick , used Rebecca to perform the part of the ingenue ; and only a year before the arrangement by which Rebecca had been admitted into her house , and when Rebecca was sixteen years old , Miss Pinkerton majestically , and with a little speech , made her a present of a doll -- which was , by the way , the confiscated property of Miss Swindle , discovered surreptitiously nursing it in school-hours .
+The	O
+fact	O
+is	O
+,	O
+the	O
+old	O
+lady	O
+believed	O
+Rebecca	B-CHARACTER
+to	O
+be	O
+the	O
+meekest	O
+creature	O
+in	O
+the	O
+world	O
+,	O
+so	O
+admirably	O
+,	O
+on	O
+the	O
+occasions	O
+when	O
+her	O
+father	O
+brought	O
+her	O
+to	O
+Chiswick	B-LOCATION
+,	O
+used	O
+Rebecca	B-CHARACTER
+to	O
+perform	O
+the	O
+part	O
+of	O
+the	O
+ingenue	O
+;	O
+and	O
+only	O
+a	O
+year	O
+before	O
+the	O
+arrangement	O
+by	O
+which	O
+Rebecca	B-CHARACTER
+had	O
+been	O
+admitted	O
+into	O
+her	O
+house	O
+,	O
+and	O
+when	O
+Rebecca	B-CHARACTER
+was	O
+sixteen	O
+years	O
+old	O
+,	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+majestically	O
+,	O
+and	O
+with	O
+a	O
+little	O
+speech	O
+,	O
+made	O
+her	O
+a	O
+present	O
+of	O
+a	O
+doll	O
+--	O
+which	O
+was	O
+,	O
+by	O
+the	O
+way	O
+,	O
+the	O
+confiscated	O
+property	O
+of	O
+Miss	B-CHARACTER
+Swindle	I-CHARACTER
+,	O
+discovered	O
+surreptitiously	O
+nursing	O
+it	O
+in	O
+school-hours	O
+.	O
+
+# id = conivel-vanity-fair-000152
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How the father and daughter laughed as they trudged home together after the evening party ( it was on the occasion of the speeches , when all the professors were invited ) and how Miss Pinkerton would have raged had she seen the caricature of herself which the little mimic , Rebecca , managed to make out of her doll .
+How	O
+the	O
+father	O
+and	O
+daughter	O
+laughed	O
+as	O
+they	O
+trudged	O
+home	O
+together	O
+after	O
+the	O
+evening	O
+party	O
+(	O
+it	O
+was	O
+on	O
+the	O
+occasion	O
+of	O
+the	O
+speeches	O
+,	O
+when	O
+all	O
+the	O
+professors	O
+were	O
+invited	O
+)	O
+and	O
+how	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+would	O
+have	O
+raged	O
+had	O
+she	O
+seen	O
+the	O
+caricature	O
+of	O
+herself	O
+which	O
+the	O
+little	O
+mimic	O
+,	O
+Rebecca	B-CHARACTER
+,	O
+managed	O
+to	O
+make	O
+out	O
+of	O
+her	O
+doll	O
+.	O
+
+# id = conivel-vanity-fair-000153
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Becky used to go through dialogues with it ; it formed the delight of Newman Street , Gerrard Street , and the Artists ' quarter : and the young painters , when they came to take their gin-and-water with their lazy , dissolute , clever , jovial senior , used regularly to ask Rebecca if Miss Pinkerton was at home : she was as well known to them , poor soul !
+Becky	B-CHARACTER
+used	O
+to	O
+go	O
+through	O
+dialogues	O
+with	O
+it	O
+;	O
+it	O
+formed	O
+the	O
+delight	O
+of	O
+Newman	B-LOCATION
+Street	I-LOCATION
+,	O
+Gerrard	B-LOCATION
+Street	I-LOCATION
+,	O
+and	O
+the	O
+Artists	B-LOCATION
+'	I-LOCATION
+quarter	I-LOCATION
+:	O
+and	O
+the	O
+young	O
+painters	O
+,	O
+when	O
+they	O
+came	O
+to	O
+take	O
+their	O
+gin-and-water	O
+with	O
+their	O
+lazy	O
+,	O
+dissolute	O
+,	O
+clever	O
+,	O
+jovial	O
+senior	O
+,	O
+used	O
+regularly	O
+to	O
+ask	O
+Rebecca	B-CHARACTER
+if	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+was	O
+at	O
+home	O
+:	O
+she	O
+was	O
+as	O
+well	O
+known	O
+to	O
+them	O
+,	O
+poor	O
+soul	O
+!	O
+
+# id = conivel-vanity-fair-000154
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = as Mr. Lawrence or President West .
+as	O
+Mr.	B-CHARACTER
+Lawrence	I-CHARACTER
+or	O
+President	B-CHARACTER
+West	I-CHARACTER
+.	O
+
+# id = conivel-vanity-fair-000155
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Once Rebecca had the honour to pass a few days at Chiswick ; after which she brought back Jemima , and erected another doll as Miss Jemmy : for though that honest creature had made and given her jelly and cake enough for three children , and a seven-shilling piece at parting , the girl 's sense of ridicule was far stronger than her gratitude , and she sacrificed Miss Jemmy quite as pitilessly as her sister .
+Once	O
+Rebecca	B-CHARACTER
+had	O
+the	O
+honour	O
+to	O
+pass	O
+a	O
+few	O
+days	O
+at	O
+Chiswick	B-LOCATION
+;	O
+after	O
+which	O
+she	O
+brought	O
+back	O
+Jemima	B-CHARACTER
+,	O
+and	O
+erected	O
+another	O
+doll	O
+as	O
+Miss	B-CHARACTER
+Jemmy	I-CHARACTER
+:	O
+for	O
+though	O
+that	O
+honest	O
+creature	O
+had	O
+made	O
+and	O
+given	O
+her	O
+jelly	O
+and	O
+cake	O
+enough	O
+for	O
+three	O
+children	O
+,	O
+and	O
+a	O
+seven-shilling	O
+piece	O
+at	O
+parting	O
+,	O
+the	O
+girl	O
+'s	O
+sense	O
+of	O
+ridicule	O
+was	O
+far	O
+stronger	O
+than	O
+her	O
+gratitude	O
+,	O
+and	O
+she	O
+sacrificed	O
+Miss	B-CHARACTER
+Jemmy	I-CHARACTER
+quite	O
+as	O
+pitilessly	O
+as	O
+her	O
+sister	O
+.	O
+
+# id = conivel-vanity-fair-000156
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The catastrophe came , and she was brought to the Mall as to her home .
+The	O
+catastrophe	O
+came	O
+,	O
+and	O
+she	O
+was	O
+brought	O
+to	O
+the	O
+Mall	B-LOCATION
+as	O
+to	O
+her	O
+home	O
+.	O
+
+# id = conivel-vanity-fair-000157
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The rigid formality of the place suffocated her : the prayers and the meals , the lessons and the walks , which were arranged with a conventual regularity , oppressed her almost beyond endurance ; and she looked back to the freedom and the beggary of the old studio in Soho with so much regret , that everybody , herself included , fancied she was consumed with grief for her father .
+The	O
+rigid	O
+formality	O
+of	O
+the	O
+place	O
+suffocated	O
+her	O
+:	O
+the	O
+prayers	O
+and	O
+the	O
+meals	O
+,	O
+the	O
+lessons	O
+and	O
+the	O
+walks	O
+,	O
+which	O
+were	O
+arranged	O
+with	O
+a	O
+conventual	O
+regularity	O
+,	O
+oppressed	O
+her	O
+almost	O
+beyond	O
+endurance	O
+;	O
+and	O
+she	O
+looked	O
+back	O
+to	O
+the	O
+freedom	O
+and	O
+the	O
+beggary	O
+of	O
+the	O
+old	O
+studio	O
+in	O
+Soho	B-LOCATION
+with	O
+so	O
+much	O
+regret	O
+,	O
+that	O
+everybody	O
+,	O
+herself	O
+included	O
+,	O
+fancied	O
+she	O
+was	O
+consumed	O
+with	O
+grief	O
+for	O
+her	O
+father	O
+.	O
+
+# id = conivel-vanity-fair-000158
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She had a little room in the garret , where the maids heard her walking and sobbing at night ; but it was with rage , and not with grief .
+She	O
+had	O
+a	O
+little	O
+room	O
+in	O
+the	O
+garret	O
+,	O
+where	O
+the	O
+maids	O
+heard	O
+her	O
+walking	O
+and	O
+sobbing	O
+at	O
+night	O
+;	O
+but	O
+it	O
+was	O
+with	O
+rage	O
+,	O
+and	O
+not	O
+with	O
+grief	O
+.	O
+
+# id = conivel-vanity-fair-000159
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She had not been much of a dissembler , until now her loneliness taught her to feign .
+She	O
+had	O
+not	O
+been	O
+much	O
+of	O
+a	O
+dissembler	O
+,	O
+until	O
+now	O
+her	O
+loneliness	O
+taught	O
+her	O
+to	O
+feign	O
+.	O
+
+# id = conivel-vanity-fair-000160
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She had never mingled in the society of women : her father , reprobate as he was , was a man of talent ; his conversation was a thousand times more agreeable to her than the talk of such of her own sex as she now encountered .
+She	O
+had	O
+never	O
+mingled	O
+in	O
+the	O
+society	O
+of	O
+women	O
+:	O
+her	O
+father	O
+,	O
+reprobate	O
+as	O
+he	O
+was	O
+,	O
+was	O
+a	O
+man	O
+of	O
+talent	O
+;	O
+his	O
+conversation	O
+was	O
+a	O
+thousand	O
+times	O
+more	O
+agreeable	O
+to	O
+her	O
+than	O
+the	O
+talk	O
+of	O
+such	O
+of	O
+her	O
+own	O
+sex	O
+as	O
+she	O
+now	O
+encountered	O
+.	O
+
+# id = conivel-vanity-fair-000161
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The pompous vanity of the old schoolmistress , the foolish good-humour of her sister , the silly chat and scandal of the elder girls , and the frigid correctness of the governesses equally annoyed her ; and she had no soft maternal heart , this unlucky girl , otherwise the prattle and talk of the younger children , with whose care she was chiefly intrusted , might have soothed and interested her ; but she lived among them two years , and not one was sorry that she went away .
+The	O
+pompous	O
+vanity	O
+of	O
+the	O
+old	O
+schoolmistress	O
+,	O
+the	O
+foolish	O
+good-humour	O
+of	O
+her	O
+sister	O
+,	O
+the	O
+silly	O
+chat	O
+and	O
+scandal	O
+of	O
+the	O
+elder	O
+girls	O
+,	O
+and	O
+the	O
+frigid	O
+correctness	O
+of	O
+the	O
+governesses	O
+equally	O
+annoyed	O
+her	O
+;	O
+and	O
+she	O
+had	O
+no	O
+soft	O
+maternal	O
+heart	O
+,	O
+this	O
+unlucky	O
+girl	O
+,	O
+otherwise	O
+the	O
+prattle	O
+and	O
+talk	O
+of	O
+the	O
+younger	O
+children	O
+,	O
+with	O
+whose	O
+care	O
+she	O
+was	O
+chiefly	O
+intrusted	O
+,	O
+might	O
+have	O
+soothed	O
+and	O
+interested	O
+her	O
+;	O
+but	O
+she	O
+lived	O
+among	O
+them	O
+two	O
+years	O
+,	O
+and	O
+not	O
+one	O
+was	O
+sorry	O
+that	O
+she	O
+went	O
+away	O
+.	O
+
+# id = conivel-vanity-fair-000162
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The gentle tender-hearted Amelia Sedley was the only person to whom she could attach herself in the least ; and who could help attaching herself to Amelia ?
+The	O
+gentle	O
+tender-hearted	O
+Amelia	B-CHARACTER
+Sedley	I-CHARACTER
+was	O
+the	O
+only	O
+person	O
+to	O
+whom	O
+she	O
+could	O
+attach	O
+herself	O
+in	O
+the	O
+least	O
+;	O
+and	O
+who	O
+could	O
+help	O
+attaching	O
+herself	O
+to	O
+Amelia	B-CHARACTER
+?	O
+
+# id = conivel-vanity-fair-000163
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The happiness -- the superior advantages of the young women round about her , gave Rebecca inexpressible pangs of envy .
+The	O
+happiness	O
+--	O
+the	O
+superior	O
+advantages	O
+of	O
+the	O
+young	O
+women	O
+round	O
+about	O
+her	O
+,	O
+gave	O
+Rebecca	B-CHARACTER
+inexpressible	O
+pangs	O
+of	O
+envy	O
+.	O
+
+# id = conivel-vanity-fair-000164
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What airs that girl gives herself , because she is an Earl 's grand-daughter , ''
+``	O
+What	O
+airs	O
+that	O
+girl	O
+gives	O
+herself	O
+,	O
+because	O
+she	O
+is	O
+an	O
+Earl	B-CHARACTER
+'s	O
+grand-daughter	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000165
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she said of one .
+she	O
+said	O
+of	O
+one	O
+.	O
+
+# id = conivel-vanity-fair-000166
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How they cringe and bow to that Creole , because of her hundred thousand pounds !
+``	O
+How	O
+they	O
+cringe	O
+and	O
+bow	O
+to	O
+that	O
+Creole	O
+,	O
+because	O
+of	O
+her	O
+hundred	O
+thousand	O
+pounds	O
+!	O
+
+# id = conivel-vanity-fair-000167
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I am a thousand times cleverer and more charming than that creature , for all her wealth .
+I	O
+am	O
+a	O
+thousand	O
+times	O
+cleverer	O
+and	O
+more	O
+charming	O
+than	O
+that	O
+creature	O
+,	O
+for	O
+all	O
+her	O
+wealth	O
+.	O
+
+# id = conivel-vanity-fair-000168
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I am as well bred as the Earl 's grand-daughter , for all her fine pedigree ; and yet every one passes me by here .
+I	O
+am	O
+as	O
+well	O
+bred	O
+as	O
+the	O
+Earl	B-CHARACTER
+'s	O
+grand-daughter	O
+,	O
+for	O
+all	O
+her	O
+fine	O
+pedigree	O
+;	O
+and	O
+yet	O
+every	O
+one	O
+passes	O
+me	O
+by	O
+here	O
+.	O
+
+# id = conivel-vanity-fair-000169
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And yet , when I was at my father 's , did not the men give up their gayest balls and parties in order to pass the evening with me ? ''
+And	O
+yet	O
+,	O
+when	O
+I	O
+was	O
+at	O
+my	O
+father	O
+'s	O
+,	O
+did	O
+not	O
+the	O
+men	O
+give	O
+up	O
+their	O
+gayest	O
+balls	O
+and	O
+parties	O
+in	O
+order	O
+to	O
+pass	O
+the	O
+evening	O
+with	O
+me	O
+?	O
+''	O
+
+# id = conivel-vanity-fair-000170
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She determined at any rate to get free from the prison in which she found herself , and now began to act for herself , and for the first time to make connected plans for the future .
+She	O
+determined	O
+at	O
+any	O
+rate	O
+to	O
+get	O
+free	O
+from	O
+the	O
+prison	O
+in	O
+which	O
+she	O
+found	O
+herself	O
+,	O
+and	O
+now	O
+began	O
+to	O
+act	O
+for	O
+herself	O
+,	O
+and	O
+for	O
+the	O
+first	O
+time	O
+to	O
+make	O
+connected	O
+plans	O
+for	O
+the	O
+future	O
+.	O
+
+# id = conivel-vanity-fair-000171
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She took advantage , therefore , of the means of study the place offered her ; and as she was already a musician and a good linguist , she speedily went through the little course of study which was considered necessary for ladies in those days .
+She	O
+took	O
+advantage	O
+,	O
+therefore	O
+,	O
+of	O
+the	O
+means	O
+of	O
+study	O
+the	O
+place	O
+offered	O
+her	O
+;	O
+and	O
+as	O
+she	O
+was	O
+already	O
+a	O
+musician	O
+and	O
+a	O
+good	O
+linguist	O
+,	O
+she	O
+speedily	O
+went	O
+through	O
+the	O
+little	O
+course	O
+of	O
+study	O
+which	O
+was	O
+considered	O
+necessary	O
+for	O
+ladies	O
+in	O
+those	O
+days	O
+.	O
+
+# id = conivel-vanity-fair-000172
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her music she practised incessantly , and one day , when the girls were out , and she had remained at home , she was overheard to play a piece so well that Minerva thought , wisely , she could spare herself the expense of a master for the juniors , and intimated to Miss Sharp that she was to instruct them in music for the future .
+Her	O
+music	O
+she	O
+practised	O
+incessantly	O
+,	O
+and	O
+one	O
+day	O
+,	O
+when	O
+the	O
+girls	O
+were	O
+out	O
+,	O
+and	O
+she	O
+had	O
+remained	O
+at	O
+home	O
+,	O
+she	O
+was	O
+overheard	O
+to	O
+play	O
+a	O
+piece	O
+so	O
+well	O
+that	O
+Minerva	B-CHARACTER
+thought	O
+,	O
+wisely	O
+,	O
+she	O
+could	O
+spare	O
+herself	O
+the	O
+expense	O
+of	O
+a	O
+master	O
+for	O
+the	O
+juniors	O
+,	O
+and	O
+intimated	O
+to	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+that	O
+she	O
+was	O
+to	O
+instruct	O
+them	O
+in	O
+music	O
+for	O
+the	O
+future	O
+.	O
+
+# id = conivel-vanity-fair-000173
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The girl refused ; and for the first time , and to the astonishment of the majestic mistress of the school .
+The	O
+girl	O
+refused	O
+;	O
+and	O
+for	O
+the	O
+first	O
+time	O
+,	O
+and	O
+to	O
+the	O
+astonishment	O
+of	O
+the	O
+majestic	O
+mistress	O
+of	O
+the	O
+school	O
+.	O
+
+# id = conivel-vanity-fair-000174
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I am here to speak French with the children , ''
+``	O
+I	O
+am	O
+here	O
+to	O
+speak	O
+French	O
+with	O
+the	O
+children	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000175
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Rebecca said abruptly , `` not to teach them music , and save money for you .
+Rebecca	B-CHARACTER
+said	O
+abruptly	O
+,	O
+``	O
+not	O
+to	O
+teach	O
+them	O
+music	O
+,	O
+and	O
+save	O
+money	O
+for	O
+you	O
+.	O
+
+# id = conivel-vanity-fair-000176
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Give me money , and I will teach them . ''
+Give	O
+me	O
+money	O
+,	O
+and	O
+I	O
+will	O
+teach	O
+them	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000177
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Minerva was obliged to yield , and , of course , disliked her from that day .
+Minerva	B-CHARACTER
+was	O
+obliged	O
+to	O
+yield	O
+,	O
+and	O
+,	O
+of	O
+course	O
+,	O
+disliked	O
+her	O
+from	O
+that	O
+day	O
+.	O
+
+# id = conivel-vanity-fair-000178
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` For five-and-thirty years , ''
+``	O
+For	O
+five-and-thirty	O
+years	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000179
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she said , and with great justice , `` I never have seen the individual who has dared in my own house to question my authority .
+she	O
+said	O
+,	O
+and	O
+with	O
+great	O
+justice	O
+,	O
+``	O
+I	O
+never	O
+have	O
+seen	O
+the	O
+individual	O
+who	O
+has	O
+dared	O
+in	O
+my	O
+own	O
+house	O
+to	O
+question	O
+my	O
+authority	O
+.	O
+
+# id = conivel-vanity-fair-000180
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I have nourished a viper in my bosom . ''
+I	O
+have	O
+nourished	O
+a	O
+viper	O
+in	O
+my	O
+bosom	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000181
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A viper -- a fiddlestick , ''
+``	O
+A	O
+viper	O
+--	O
+a	O
+fiddlestick	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000182
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Sharp to the old lady , almost fainting with astonishment .
+said	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+to	O
+the	O
+old	O
+lady	O
+,	O
+almost	O
+fainting	O
+with	O
+astonishment	O
+.	O
+
+# id = conivel-vanity-fair-000183
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You took me because I was useful .
+``	O
+You	O
+took	O
+me	O
+because	O
+I	O
+was	O
+useful	O
+.	O
+
+# id = conivel-vanity-fair-000184
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There is no question of gratitude between us .
+There	O
+is	O
+no	O
+question	O
+of	O
+gratitude	O
+between	O
+us	O
+.	O
+
+# id = conivel-vanity-fair-000185
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I hate this place , and want to leave it .
+I	O
+hate	O
+this	O
+place	O
+,	O
+and	O
+want	O
+to	O
+leave	O
+it	O
+.	O
+
+# id = conivel-vanity-fair-000186
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I will do nothing here but what I am obliged to do . ''
+I	O
+will	O
+do	O
+nothing	O
+here	O
+but	O
+what	O
+I	O
+am	O
+obliged	O
+to	O
+do	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000187
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was in vain that the old lady asked her if she was aware she was speaking to Miss Pinkerton ?
+It	O
+was	O
+in	O
+vain	O
+that	O
+the	O
+old	O
+lady	O
+asked	O
+her	O
+if	O
+she	O
+was	O
+aware	O
+she	O
+was	O
+speaking	O
+to	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+?	O
+
+# id = conivel-vanity-fair-000188
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Rebecca laughed in her face , with a horrid sarcastic demoniacal laughter , that almost sent the schoolmistress into fits .
+Rebecca	B-CHARACTER
+laughed	O
+in	O
+her	O
+face	O
+,	O
+with	O
+a	O
+horrid	O
+sarcastic	O
+demoniacal	O
+laughter	O
+,	O
+that	O
+almost	O
+sent	O
+the	O
+schoolmistress	O
+into	O
+fits	O
+.	O
+
+# id = conivel-vanity-fair-000189
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Give me a sum of money , ''
+``	O
+Give	O
+me	O
+a	O
+sum	O
+of	O
+money	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000190
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the girl , `` and get rid of me -- or , if you like better , get me a good place as governess in a nobleman 's family -- you can do so if you please . ''
+said	O
+the	O
+girl	O
+,	O
+``	O
+and	O
+get	O
+rid	O
+of	O
+me	O
+--	O
+or	O
+,	O
+if	O
+you	O
+like	O
+better	O
+,	O
+get	O
+me	O
+a	O
+good	O
+place	O
+as	O
+governess	O
+in	O
+a	O
+nobleman	O
+'s	O
+family	O
+--	O
+you	O
+can	O
+do	O
+so	O
+if	O
+you	O
+please	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000191
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And in their further disputes she always returned to this point , `` Get me a situation -- we hate each other , and I am ready to go . ''
+And	O
+in	O
+their	O
+further	O
+disputes	O
+she	O
+always	O
+returned	O
+to	O
+this	O
+point	O
+,	O
+``	O
+Get	O
+me	O
+a	O
+situation	O
+--	O
+we	O
+hate	O
+each	O
+other	O
+,	O
+and	O
+I	O
+am	O
+ready	O
+to	O
+go	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000192
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Worthy Miss Pinkerton , although she had a Roman nose and a turban , and was as tall as a grenadier , and had been up to this time an irresistible princess , had no will or strength like that of her little apprentice , and in vain did battle against her , and tried to overawe her .
+Worthy	O
+Miss	B-CHARACTER
+Pinkerton	I-CHARACTER
+,	O
+although	O
+she	O
+had	O
+a	O
+Roman	O
+nose	O
+and	O
+a	O
+turban	O
+,	O
+and	O
+was	O
+as	O
+tall	O
+as	O
+a	O
+grenadier	O
+,	O
+and	O
+had	O
+been	O
+up	O
+to	O
+this	O
+time	O
+an	O
+irresistible	O
+princess	O
+,	O
+had	O
+no	O
+will	O
+or	O
+strength	O
+like	O
+that	O
+of	O
+her	O
+little	O
+apprentice	O
+,	O
+and	O
+in	O
+vain	O
+did	O
+battle	O
+against	O
+her	O
+,	O
+and	O
+tried	O
+to	O
+overawe	O
+her	O
+.	O
+
+# id = conivel-vanity-fair-000193
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Attempting once to scold her in public , Rebecca hit upon the before-mentioned plan of answering her in French , which quite routed the old woman .
+Attempting	O
+once	O
+to	O
+scold	O
+her	O
+in	O
+public	O
+,	O
+Rebecca	B-CHARACTER
+hit	O
+upon	O
+the	O
+before-mentioned	O
+plan	O
+of	O
+answering	O
+her	O
+in	O
+French	O
+,	O
+which	O
+quite	O
+routed	O
+the	O
+old	O
+woman	O
+.	O
+
+# id = conivel-vanity-fair-000194
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In order to maintain authority in her school , it became necessary to remove this rebel , this monster , this serpent , this firebrand ; and hearing about this time that Sir Pitt Crawley 's family was in want of a governess , she actually recommended Miss Sharp for the situation , firebrand and serpent as she was .
+In	O
+order	O
+to	O
+maintain	O
+authority	O
+in	O
+her	O
+school	O
+,	O
+it	O
+became	O
+necessary	O
+to	O
+remove	O
+this	O
+rebel	O
+,	O
+this	O
+monster	O
+,	O
+this	O
+serpent	O
+,	O
+this	O
+firebrand	O
+;	O
+and	O
+hearing	O
+about	O
+this	O
+time	O
+that	O
+Sir	B-CHARACTER
+Pitt	I-CHARACTER
+Crawley	I-CHARACTER
+'s	O
+family	O
+was	O
+in	O
+want	O
+of	O
+a	O
+governess	O
+,	O
+she	O
+actually	O
+recommended	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+for	O
+the	O
+situation	O
+,	O
+firebrand	O
+and	O
+serpent	O
+as	O
+she	O
+was	O
+.	O
+
+# id = conivel-vanity-fair-000195
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I can not , certainly , ''
+``	O
+I	O
+can	O
+not	O
+,	O
+certainly	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000196
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she said , `` find fault with Miss Sharp 's conduct , except to myself ; and must allow that her talents and accomplishments are of a high order .
+she	O
+said	O
+,	O
+``	O
+find	O
+fault	O
+with	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+'s	O
+conduct	O
+,	O
+except	O
+to	O
+myself	O
+;	O
+and	O
+must	O
+allow	O
+that	O
+her	O
+talents	O
+and	O
+accomplishments	O
+are	O
+of	O
+a	O
+high	O
+order	O
+.	O
+
+# id = conivel-vanity-fair-000197
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As far as the head goes , at least , she does credit to the educational system pursued at my establishment . ''
+As	O
+far	O
+as	O
+the	O
+head	O
+goes	O
+,	O
+at	O
+least	O
+,	O
+she	O
+does	O
+credit	O
+to	O
+the	O
+educational	O
+system	O
+pursued	O
+at	O
+my	O
+establishment	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000198
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And so the schoolmistress reconciled the recommendation to her conscience , and the indentures were cancelled , and the apprentice was free .
+And	O
+so	O
+the	O
+schoolmistress	O
+reconciled	O
+the	O
+recommendation	O
+to	O
+her	O
+conscience	O
+,	O
+and	O
+the	O
+indentures	O
+were	O
+cancelled	O
+,	O
+and	O
+the	O
+apprentice	O
+was	O
+free	O
+.	O
+
+# id = conivel-vanity-fair-000199
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The battle here described in a few lines , of course , lasted for some months .
+The	O
+battle	O
+here	O
+described	O
+in	O
+a	O
+few	O
+lines	O
+,	O
+of	O
+course	O
+,	O
+lasted	O
+for	O
+some	O
+months	O
+.	O
+
+# id = conivel-vanity-fair-000200
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And as Miss Sedley , being now in her seventeenth year , was about to leave school , and had a friendship for Miss Sharp ( `` tis the only point in Amelia 's behaviour , ''
+And	O
+as	O
+Miss	B-CHARACTER
+Sedley	I-CHARACTER
+,	O
+being	O
+now	O
+in	O
+her	O
+seventeenth	O
+year	O
+,	O
+was	O
+about	O
+to	O
+leave	O
+school	O
+,	O
+and	O
+had	O
+a	O
+friendship	O
+for	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+(	O
+``	O
+tis	O
+the	O
+only	O
+point	O
+in	O
+Amelia	B-CHARACTER
+'s	O
+behaviour	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000201
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Minerva , `` which has not been satisfactory to her mistress ''
+said	O
+Minerva	B-CHARACTER
+,	O
+``	O
+which	O
+has	O
+not	O
+been	O
+satisfactory	O
+to	O
+her	O
+mistress	O
+''	O
+
+# id = conivel-vanity-fair-000202
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ) , Miss Sharp was invited by her friend to pass a week with her at home , before she entered upon her duties as governess in a private family .
+)	O
+,	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+was	O
+invited	O
+by	O
+her	O
+friend	O
+to	O
+pass	O
+a	O
+week	O
+with	O
+her	O
+at	O
+home	O
+,	O
+before	O
+she	O
+entered	O
+upon	O
+her	O
+duties	O
+as	O
+governess	O
+in	O
+a	O
+private	O
+family	O
+.	O
+
+# id = conivel-vanity-fair-000203
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Thus the world began for these two young ladies .
+Thus	O
+the	O
+world	O
+began	O
+for	O
+these	O
+two	O
+young	O
+ladies	O
+.	O
+
+# id = conivel-vanity-fair-000204
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For Amelia it was quite a new , fresh , brilliant world , with all the bloom upon it .
+For	O
+Amelia	B-CHARACTER
+it	O
+was	O
+quite	O
+a	O
+new	O
+,	O
+fresh	O
+,	O
+brilliant	O
+world	O
+,	O
+with	O
+all	O
+the	O
+bloom	O
+upon	O
+it	O
+.	O
+
+# id = conivel-vanity-fair-000205
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was not quite a new one for Rebecca -- ( indeed , if the truth must be told with respect to the Crisp affair , the tart-woman hinted to somebody , who took an affidavit of the fact to somebody else , that there was a great deal more than was made public regarding Mr. Crisp and Miss Sharp , and that his letter was in answer to another letter ) .
+It	O
+was	O
+not	O
+quite	O
+a	O
+new	O
+one	O
+for	O
+Rebecca	B-CHARACTER
+--	O
+(	O
+indeed	O
+,	O
+if	O
+the	O
+truth	O
+must	O
+be	O
+told	O
+with	O
+respect	O
+to	O
+the	O
+Crisp	B-CHARACTER
+affair	O
+,	O
+the	O
+tart-woman	O
+hinted	O
+to	O
+somebody	O
+,	O
+who	O
+took	O
+an	O
+affidavit	O
+of	O
+the	O
+fact	O
+to	O
+somebody	O
+else	O
+,	O
+that	O
+there	O
+was	O
+a	O
+great	O
+deal	O
+more	O
+than	O
+was	O
+made	O
+public	O
+regarding	O
+Mr.	B-CHARACTER
+Crisp	I-CHARACTER
+and	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+,	O
+and	O
+that	O
+his	O
+letter	O
+was	O
+in	O
+answer	O
+to	O
+another	O
+letter	O
+)	O
+.	O
+
+# id = conivel-vanity-fair-000206
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But who can tell you the real truth of the matter ?
+But	O
+who	O
+can	O
+tell	O
+you	O
+the	O
+real	O
+truth	O
+of	O
+the	O
+matter	O
+?	O
+
+# id = conivel-vanity-fair-000207
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At all events , if Rebecca was not beginning the world , she was beginning it over again .
+At	O
+all	O
+events	O
+,	O
+if	O
+Rebecca	B-CHARACTER
+was	O
+not	O
+beginning	O
+the	O
+world	O
+,	O
+she	O
+was	O
+beginning	O
+it	O
+over	O
+again	O
+.	O
+
+# id = conivel-vanity-fair-000208
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = By the time the young ladies reached Kensington turnpike , Amelia had not forgotten her companions , but had dried her tears , and had blushed very much and been delighted at a young officer of the Life Guards , who spied her as he was riding by , and said , `` A dem fine gal , egad ! ''
+By	O
+the	O
+time	O
+the	O
+young	O
+ladies	O
+reached	O
+Kensington	B-LOCATION
+turnpike	O
+,	O
+Amelia	B-CHARACTER
+had	O
+not	O
+forgotten	O
+her	O
+companions	O
+,	O
+but	O
+had	O
+dried	O
+her	O
+tears	O
+,	O
+and	O
+had	O
+blushed	O
+very	O
+much	O
+and	O
+been	O
+delighted	O
+at	O
+a	O
+young	O
+officer	O
+of	O
+the	O
+Life	O
+Guards	O
+,	O
+who	O
+spied	O
+her	O
+as	O
+he	O
+was	O
+riding	O
+by	O
+,	O
+and	O
+said	O
+,	O
+``	O
+A	O
+dem	O
+fine	O
+gal	O
+,	O
+egad	O
+!	O
+''	O
+
+# id = conivel-vanity-fair-000209
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = and before the carriage arrived in Russell Square , a great deal of conversation had taken place about the Drawing-room , and whether or not young ladies wore powder as well as hoops when presented , and whether she was to have that honour : to the Lord Mayor 's ball she knew she was to go .
+and	O
+before	O
+the	O
+carriage	O
+arrived	O
+in	O
+Russell	B-LOCATION
+Square	I-LOCATION
+,	O
+a	O
+great	O
+deal	O
+of	O
+conversation	O
+had	O
+taken	O
+place	O
+about	O
+the	O
+Drawing-room	B-LOCATION
+,	O
+and	O
+whether	O
+or	O
+not	O
+young	O
+ladies	O
+wore	O
+powder	O
+as	O
+well	O
+as	O
+hoops	O
+when	O
+presented	O
+,	O
+and	O
+whether	O
+she	O
+was	O
+to	O
+have	O
+that	O
+honour	O
+:	O
+to	O
+the	O
+Lord	B-CHARACTER
+Mayor	I-CHARACTER
+'s	O
+ball	O
+she	O
+knew	O
+she	O
+was	O
+to	O
+go	O
+.	O
+
+# id = conivel-vanity-fair-000210
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And when at length home was reached , Miss Amelia Sedley skipped out on Sambo 's arm , as happy and as handsome a girl as any in the whole big city of London .
+And	O
+when	O
+at	O
+length	O
+home	O
+was	O
+reached	O
+,	O
+Miss	B-CHARACTER
+Amelia	I-CHARACTER
+Sedley	I-CHARACTER
+skipped	O
+out	O
+on	O
+Sambo	B-CHARACTER
+'s	O
+arm	O
+,	O
+as	O
+happy	O
+and	O
+as	O
+handsome	O
+a	O
+girl	O
+as	O
+any	O
+in	O
+the	O
+whole	O
+big	O
+city	O
+of	O
+London	B-LOCATION
+.	O
+
+# id = conivel-vanity-fair-000211
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Both he and coachman agreed on this point , and so did her father and mother , and so did every one of the servants in the house , as they stood bobbing , and curtseying , and smiling , in the hall to welcome their young mistress .
+Both	O
+he	O
+and	O
+coachman	O
+agreed	O
+on	O
+this	O
+point	O
+,	O
+and	O
+so	O
+did	O
+her	O
+father	O
+and	O
+mother	O
+,	O
+and	O
+so	O
+did	O
+every	O
+one	O
+of	O
+the	O
+servants	O
+in	O
+the	O
+house	O
+,	O
+as	O
+they	O
+stood	O
+bobbing	O
+,	O
+and	O
+curtseying	O
+,	O
+and	O
+smiling	O
+,	O
+in	O
+the	O
+hall	O
+to	O
+welcome	O
+their	O
+young	O
+mistress	O
+.	O
+
+# id = conivel-vanity-fair-000212
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You may be sure that she showed Rebecca over every room of the house , and everything in every one of her drawers ; and her books , and her piano , and her dresses , and all her necklaces , brooches , laces , and gimcracks .
+You	O
+may	O
+be	O
+sure	O
+that	O
+she	O
+showed	O
+Rebecca	B-CHARACTER
+over	O
+every	O
+room	O
+of	O
+the	O
+house	O
+,	O
+and	O
+everything	O
+in	O
+every	O
+one	O
+of	O
+her	O
+drawers	O
+;	O
+and	O
+her	O
+books	O
+,	O
+and	O
+her	O
+piano	O
+,	O
+and	O
+her	O
+dresses	O
+,	O
+and	O
+all	O
+her	O
+necklaces	O
+,	O
+brooches	O
+,	O
+laces	O
+,	O
+and	O
+gimcracks	O
+.	O
+
+# id = conivel-vanity-fair-000213
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She insisted upon Rebecca accepting the white cornelian and the turquoise rings , and a sweet sprigged muslin , which was too small for her now , though it would fit her friend to a nicety ; and she determined in her heart to ask her mother 's permission to present her white Cashmere shawl to her friend .
+She	O
+insisted	O
+upon	O
+Rebecca	B-CHARACTER
+accepting	O
+the	O
+white	O
+cornelian	O
+and	O
+the	O
+turquoise	O
+rings	O
+,	O
+and	O
+a	O
+sweet	O
+sprigged	O
+muslin	O
+,	O
+which	O
+was	O
+too	O
+small	O
+for	O
+her	O
+now	O
+,	O
+though	O
+it	O
+would	O
+fit	O
+her	O
+friend	O
+to	O
+a	O
+nicety	O
+;	O
+and	O
+she	O
+determined	O
+in	O
+her	O
+heart	O
+to	O
+ask	O
+her	O
+mother	O
+'s	O
+permission	O
+to	O
+present	O
+her	O
+white	O
+Cashmere	O
+shawl	O
+to	O
+her	O
+friend	O
+.	O
+
+# id = conivel-vanity-fair-000214
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Could she not spare it ?
+Could	O
+she	O
+not	O
+spare	O
+it	O
+?	O
+
+# id = conivel-vanity-fair-000215
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = and had not her brother Joseph just brought her two from India ?
+and	O
+had	O
+not	O
+her	O
+brother	O
+Joseph	B-CHARACTER
+just	O
+brought	O
+her	O
+two	O
+from	O
+India	B-LOCATION
+?	O
+
+# id = conivel-vanity-fair-000216
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When Rebecca saw the two magnificent Cashmere shawls which Joseph Sedley had brought home to his sister , she said , with perfect truth , `` that it must be delightful to have a brother , ''
+When	O
+Rebecca	B-CHARACTER
+saw	O
+the	O
+two	O
+magnificent	O
+Cashmere	O
+shawls	O
+which	O
+Joseph	B-CHARACTER
+Sedley	I-CHARACTER
+had	O
+brought	O
+home	O
+to	O
+his	O
+sister	O
+,	O
+she	O
+said	O
+,	O
+with	O
+perfect	O
+truth	O
+,	O
+``	O
+that	O
+it	O
+must	O
+be	O
+delightful	O
+to	O
+have	O
+a	O
+brother	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000217
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = and easily got the pity of the tender-hearted Amelia for being alone in the world , an orphan without friends or kindred .
+and	O
+easily	O
+got	O
+the	O
+pity	O
+of	O
+the	O
+tender-hearted	O
+Amelia	B-CHARACTER
+for	O
+being	O
+alone	O
+in	O
+the	O
+world	O
+,	O
+an	O
+orphan	O
+without	O
+friends	O
+or	O
+kindred	O
+.	O
+
+# id = conivel-vanity-fair-000218
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Not alone , ''
+``	O
+Not	O
+alone	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000219
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Amelia ; `` you know , Rebecca , I shall always be your friend , and love you as a sister -- indeed I will . ''
+said	O
+Amelia	B-CHARACTER
+;	O
+``	O
+you	O
+know	O
+,	O
+Rebecca	B-CHARACTER
+,	O
+I	O
+shall	O
+always	O
+be	O
+your	O
+friend	O
+,	O
+and	O
+love	O
+you	O
+as	O
+a	O
+sister	O
+--	O
+indeed	O
+I	O
+will	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000220
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ah , but to have parents , as you have -- kind , rich , affectionate parents , who give you everything you ask for ; and their love , which is more precious than all !
+``	O
+Ah	O
+,	O
+but	O
+to	O
+have	O
+parents	O
+,	O
+as	O
+you	O
+have	O
+--	O
+kind	O
+,	O
+rich	O
+,	O
+affectionate	O
+parents	O
+,	O
+who	O
+give	O
+you	O
+everything	O
+you	O
+ask	O
+for	O
+;	O
+and	O
+their	O
+love	O
+,	O
+which	O
+is	O
+more	O
+precious	O
+than	O
+all	O
+!	O
+
+# id = conivel-vanity-fair-000221
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My poor papa could give me nothing , and I had but two frocks in all the world !
+My	O
+poor	O
+papa	O
+could	O
+give	O
+me	O
+nothing	O
+,	O
+and	O
+I	O
+had	O
+but	O
+two	O
+frocks	O
+in	O
+all	O
+the	O
+world	O
+!	O
+
+# id = conivel-vanity-fair-000222
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And then , to have a brother , a dear brother !
+And	O
+then	O
+,	O
+to	O
+have	O
+a	O
+brother	O
+,	O
+a	O
+dear	O
+brother	O
+!	O
+
+# id = conivel-vanity-fair-000223
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Oh , how you must love him ! ''
+Oh	O
+,	O
+how	O
+you	O
+must	O
+love	O
+him	O
+!	O
+''	O
+
+# id = conivel-vanity-fair-000224
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Amelia laughed .
+Amelia	B-CHARACTER
+laughed	O
+.	O
+
+# id = conivel-vanity-fair-000225
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What !
+``	O
+What	O
+!	O
+
+# id = conivel-vanity-fair-000226
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = do n't you love him ?
+do	O
+n't	O
+you	O
+love	O
+him	O
+?	O
+
+# id = conivel-vanity-fair-000227
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = you , who say you love everybody ? ''
+you	O
+,	O
+who	O
+say	O
+you	O
+love	O
+everybody	O
+?	O
+''	O
+
+# id = conivel-vanity-fair-000228
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , of course , I do -- only -- ''
+``	O
+Yes	O
+,	O
+of	O
+course	O
+,	O
+I	O
+do	O
+--	O
+only	O
+--	O
+''	O
+
+# id = conivel-vanity-fair-000229
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Only what ? ''
+``	O
+Only	O
+what	O
+?	O
+''	O
+
+# id = conivel-vanity-fair-000230
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Only Joseph does n't seem to care much whether I love him or not .
+``	O
+Only	O
+Joseph	B-CHARACTER
+does	O
+n't	O
+seem	O
+to	O
+care	O
+much	O
+whether	O
+I	O
+love	O
+him	O
+or	O
+not	O
+.	O
+
+# id = conivel-vanity-fair-000231
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He gave me two fingers to shake when he arrived after ten years ' absence !
+He	O
+gave	O
+me	O
+two	O
+fingers	O
+to	O
+shake	O
+when	O
+he	O
+arrived	O
+after	O
+ten	O
+years	O
+'	O
+absence	O
+!	O
+
+# id = conivel-vanity-fair-000232
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He is very kind and good , but he scarcely ever speaks to me ; I think he loves his pipe a great deal better than his ''
+He	O
+is	O
+very	O
+kind	O
+and	O
+good	O
+,	O
+but	O
+he	O
+scarcely	O
+ever	O
+speaks	O
+to	O
+me	O
+;	O
+I	O
+think	O
+he	O
+loves	O
+his	O
+pipe	O
+a	O
+great	O
+deal	O
+better	O
+than	O
+his	O
+''	O
+
+# id = conivel-vanity-fair-000233
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- but here Amelia checked herself , for why should she speak ill of her brother ?
+--	O
+but	O
+here	O
+Amelia	B-CHARACTER
+checked	O
+herself	O
+,	O
+for	O
+why	O
+should	O
+she	O
+speak	O
+ill	O
+of	O
+her	O
+brother	O
+?	O
+
+# id = conivel-vanity-fair-000234
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He was very kind to me as a child , ''
+``	O
+He	O
+was	O
+very	O
+kind	O
+to	O
+me	O
+as	O
+a	O
+child	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000235
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she added ; `` I was but five years old when he went away . ''
+she	O
+added	O
+;	O
+``	O
+I	O
+was	O
+but	O
+five	O
+years	O
+old	O
+when	O
+he	O
+went	O
+away	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000236
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Is n't he very rich ? ''
+``	O
+Is	O
+n't	O
+he	O
+very	O
+rich	O
+?	O
+''	O
+
+# id = conivel-vanity-fair-000237
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Rebecca .
+said	O
+Rebecca	B-CHARACTER
+.	O
+
+# id = conivel-vanity-fair-000238
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They say all Indian nabobs are enormously rich . ''
+``	O
+They	O
+say	O
+all	O
+Indian	O
+nabobs	O
+are	O
+enormously	O
+rich	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000239
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I believe he has a very large income . ''
+``	O
+I	O
+believe	O
+he	O
+has	O
+a	O
+very	O
+large	O
+income	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000240
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And is your sister-in-law a nice pretty woman ? ''
+``	O
+And	O
+is	O
+your	O
+sister-in-law	O
+a	O
+nice	O
+pretty	O
+woman	O
+?	O
+''	O
+
+# id = conivel-vanity-fair-000241
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` La !
+``	O
+La	O
+!	O
+
+# id = conivel-vanity-fair-000242
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Joseph is not married , ''
+Joseph	B-CHARACTER
+is	O
+not	O
+married	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000243
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Amelia , laughing again .
+said	O
+Amelia	B-CHARACTER
+,	O
+laughing	O
+again	O
+.	O
+
+# id = conivel-vanity-fair-000244
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Perhaps she had mentioned the fact already to Rebecca , but that young lady did not appear to have remembered it ; indeed , vowed and protested that she expected to see a number of Amelia 's nephews and nieces .
+Perhaps	O
+she	O
+had	O
+mentioned	O
+the	O
+fact	O
+already	O
+to	O
+Rebecca	B-CHARACTER
+,	O
+but	O
+that	O
+young	O
+lady	O
+did	O
+not	O
+appear	O
+to	O
+have	O
+remembered	O
+it	O
+;	O
+indeed	O
+,	O
+vowed	O
+and	O
+protested	O
+that	O
+she	O
+expected	O
+to	O
+see	O
+a	O
+number	O
+of	O
+Amelia	B-CHARACTER
+'s	O
+nephews	O
+and	O
+nieces	O
+.	O
+
+# id = conivel-vanity-fair-000245
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She was quite disappointed that Mr. Sedley was not married ; she was sure Amelia had said he was , and she doted so on little children .
+She	O
+was	O
+quite	O
+disappointed	O
+that	O
+Mr.	B-CHARACTER
+Sedley	I-CHARACTER
+was	O
+not	O
+married	O
+;	O
+she	O
+was	O
+sure	O
+Amelia	B-CHARACTER
+had	O
+said	O
+he	O
+was	O
+,	O
+and	O
+she	O
+doted	O
+so	O
+on	O
+little	O
+children	O
+.	O
+
+# id = conivel-vanity-fair-000246
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I think you must have had enough of them at Chiswick , ''
+``	O
+I	O
+think	O
+you	O
+must	O
+have	O
+had	O
+enough	O
+of	O
+them	O
+at	O
+Chiswick	B-LOCATION
+,	O
+''	O
+
+# id = conivel-vanity-fair-000247
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Amelia , rather wondering at the sudden tenderness on her friend 's part ; and indeed in later days Miss Sharp would never have committed herself so far as to advance opinions , the untruth of which would have been so easily detected .
+said	O
+Amelia	B-CHARACTER
+,	O
+rather	O
+wondering	O
+at	O
+the	O
+sudden	O
+tenderness	O
+on	O
+her	O
+friend	O
+'s	O
+part	O
+;	O
+and	O
+indeed	O
+in	O
+later	O
+days	O
+Miss	B-CHARACTER
+Sharp	I-CHARACTER
+would	O
+never	O
+have	O
+committed	O
+herself	O
+so	O
+far	O
+as	O
+to	O
+advance	O
+opinions	O
+,	O
+the	O
+untruth	O
+of	O
+which	O
+would	O
+have	O
+been	O
+so	O
+easily	O
+detected	O
+.	O
+
+# id = conivel-vanity-fair-000248
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But we must remember that she is but nineteen as yet , unused to the art of deceiving , poor innocent creature !
+But	O
+we	O
+must	O
+remember	O
+that	O
+she	O
+is	O
+but	O
+nineteen	O
+as	O
+yet	O
+,	O
+unused	O
+to	O
+the	O
+art	O
+of	O
+deceiving	O
+,	O
+poor	O
+innocent	O
+creature	O
+!	O
+
+# id = conivel-vanity-fair-000249
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = and making her own experience in her own person .
+and	O
+making	O
+her	O
+own	O
+experience	O
+in	O
+her	O
+own	O
+person	O
+.	O
+
+# id = conivel-vanity-fair-000250
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The meaning of the above series of queries , as translated in the heart of this ingenious young woman , was simply this : `` If Mr. Joseph Sedley is rich and unmarried , why should I not marry him ?
+The	O
+meaning	O
+of	O
+the	O
+above	O
+series	O
+of	O
+queries	O
+,	O
+as	O
+translated	O
+in	O
+the	O
+heart	O
+of	O
+this	O
+ingenious	O
+young	O
+woman	O
+,	O
+was	O
+simply	O
+this	O
+:	O
+``	O
+If	O
+Mr.	B-CHARACTER
+Joseph	I-CHARACTER
+Sedley	I-CHARACTER
+is	O
+rich	O
+and	O
+unmarried	O
+,	O
+why	O
+should	O
+I	O
+not	O
+marry	O
+him	O
+?	O
+
+# id = conivel-vanity-fair-000251
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I have only a fortnight , to be sure , but there is no harm in trying . ''
+I	O
+have	O
+only	O
+a	O
+fortnight	O
+,	O
+to	O
+be	O
+sure	O
+,	O
+but	O
+there	O
+is	O
+no	O
+harm	O
+in	O
+trying	O
+.	O
+''	O
+
+# id = conivel-vanity-fair-000252
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And she determined within herself to make this laudable attempt .
+And	O
+she	O
+determined	O
+within	O
+herself	O
+to	O
+make	O
+this	O
+laudable	O
+attempt	O
+.	O
+
+# id = conivel-vanity-fair-000253
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She redoubled her caresses to Amelia ; she kissed the white cornelian necklace as she put it on ; and vowed she would never , never part with it .
+She	O
+redoubled	O
+her	O
+caresses	O
+to	O
+Amelia	B-CHARACTER
+;	O
+she	O
+kissed	O
+the	O
+white	O
+cornelian	O
+necklace	O
+as	O
+she	O
+put	O
+it	O
+on	O
+;	O
+and	O
+vowed	O
+she	O
+would	O
+never	O
+,	O
+never	O
+part	O
+with	O
+it	O
+.	O
+
+# id = conivel-vanity-fair-000254
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When the dinner-bell rang she went downstairs with her arm round her friend 's waist , as is the habit of young ladies .
+When	O
+the	O
+dinner-bell	O
+rang	O
+she	O
+went	O
+downstairs	O
+with	O
+her	O
+arm	O
+round	O
+her	O
+friend	O
+'s	O
+waist	O
+,	O
+as	O
+is	O
+the	O
+habit	O
+of	O
+young	O
+ladies	O
+.	O
+
+# id = conivel-vanity-fair-000255
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She was so agitated at the drawing-room door , that she could hardly find courage to enter .
+She	O
+was	O
+so	O
+agitated	O
+at	O
+the	O
+drawing-room	O
+door	O
+,	O
+that	O
+she	O
+could	O
+hardly	O
+find	O
+courage	O
+to	O
+enter	O
+.	O
+
+# id = conivel-vanity-fair-000256
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Feel my heart , how it beats , dear ! ''
+``	O
+Feel	O
+my	O
+heart	O
+,	O
+how	O
+it	O
+beats	O
+,	O
+dear	O
+!	O
+''	O
+
+# id = conivel-vanity-fair-000257
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said she to her friend .
+said	O
+she	O
+to	O
+her	O
+friend	O
+.	O
+
+# id = conivel-vanity-fair-000258
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , it does n't , ''
+``	O
+No	O
+,	O
+it	O
+does	O
+n't	O
+,	O
+''	O
+
+# id = conivel-vanity-fair-000259
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Amelia .
+said	O
+Amelia	B-CHARACTER
+.	O
+
+# id = conivel-vanity-fair-000260
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Come in , do n't be frightened .
+``	O
+Come	O
+in	O
+,	O
+do	O
+n't	O
+be	O
+frightened	O
+.	O
+
+# id = conivel-vanity-fair-000261
+# source = Conivel corrected OWTO literary NER
+# book = Vanity Fair
+# source_file = VanityFair.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Papa wo n't do you any harm . ''
+Papa	O
+wo	O
+n't	O
+do	O
+you	O
+any	O
+harm	O
+.	O
+''	O
+

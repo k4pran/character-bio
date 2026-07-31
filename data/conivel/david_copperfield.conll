@@ -1,0 +1,8008 @@
+# id = conivel-david-copperfield-000001
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = To begin my life with the beginning of my life , I record that I was born ( as I have been informed and believe ) on a Friday , at twelve o'clock at night .
+To	O
+begin	O
+my	O
+life	O
+with	O
+the	O
+beginning	O
+of	O
+my	O
+life	O
+,	O
+I	O
+record	O
+that	O
+I	O
+was	O
+born	O
+(	O
+as	O
+I	O
+have	O
+been	O
+informed	O
+and	O
+believe	O
+)	O
+on	O
+a	O
+Friday	O
+,	O
+at	O
+twelve	O
+o'clock	O
+at	O
+night	O
+.	O
+
+# id = conivel-david-copperfield-000002
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In consideration of the day and hour of my birth , it was declared by the nurse , and by some sage women in the neighbourhood who had taken a lively interest in me several months before there was any possibility of our becoming personally acquainted , first , that I was destined to be unlucky in life ; and secondly , that I was privileged to see ghosts and spirits ; both these gifts inevitably attaching , as they believed , to all unlucky infants of either gender , born towards the small hours on a Friday night .
+In	O
+consideration	O
+of	O
+the	O
+day	O
+and	O
+hour	O
+of	O
+my	O
+birth	O
+,	O
+it	O
+was	O
+declared	O
+by	O
+the	O
+nurse	O
+,	O
+and	O
+by	O
+some	O
+sage	O
+women	O
+in	O
+the	O
+neighbourhood	O
+who	O
+had	O
+taken	O
+a	O
+lively	O
+interest	O
+in	O
+me	O
+several	O
+months	O
+before	O
+there	O
+was	O
+any	O
+possibility	O
+of	O
+our	O
+becoming	O
+personally	O
+acquainted	O
+,	O
+first	O
+,	O
+that	O
+I	O
+was	O
+destined	O
+to	O
+be	O
+unlucky	O
+in	O
+life	O
+;	O
+and	O
+secondly	O
+,	O
+that	O
+I	O
+was	O
+privileged	O
+to	O
+see	O
+ghosts	O
+and	O
+spirits	O
+;	O
+both	O
+these	O
+gifts	O
+inevitably	O
+attaching	O
+,	O
+as	O
+they	O
+believed	O
+,	O
+to	O
+all	O
+unlucky	O
+infants	O
+of	O
+either	O
+gender	O
+,	O
+born	O
+towards	O
+the	O
+small	O
+hours	O
+on	O
+a	O
+Friday	O
+night	O
+.	O
+
+# id = conivel-david-copperfield-000003
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But I do not at all complain of having been kept out of this property ; and if anybody else should be in the present enjoyment of it , he is heartily welcome to keep it .
+But	O
+I	O
+do	O
+not	O
+at	O
+all	O
+complain	O
+of	O
+having	O
+been	O
+kept	O
+out	O
+of	O
+this	O
+property	O
+;	O
+and	O
+if	O
+anybody	O
+else	O
+should	O
+be	O
+in	O
+the	O
+present	O
+enjoyment	O
+of	O
+it	O
+,	O
+he	O
+is	O
+heartily	O
+welcome	O
+to	O
+keep	O
+it	O
+.	O
+
+# id = conivel-david-copperfield-000004
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was born with a caul , which was advertised for sale , in the newspapers , at the low price of fifteen guineas .
+I	O
+was	O
+born	O
+with	O
+a	O
+caul	O
+,	O
+which	O
+was	O
+advertised	O
+for	O
+sale	O
+,	O
+in	O
+the	O
+newspapers	O
+,	O
+at	O
+the	O
+low	O
+price	O
+of	O
+fifteen	O
+guineas	O
+.	O
+
+# id = conivel-david-copperfield-000005
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Whether sea-going people were short of money about that time , or were short of faith and preferred cork jackets , I do n't know ; all I know is , that there was but one solitary bidding , and that was from an attorney connected with the bill-broking business , who offered two pounds in cash , and the balance in sherry , but declined to be guaranteed from drowning on any higher bargain .
+Whether	O
+sea-going	O
+people	O
+were	O
+short	O
+of	O
+money	O
+about	O
+that	O
+time	O
+,	O
+or	O
+were	O
+short	O
+of	O
+faith	O
+and	O
+preferred	O
+cork	O
+jackets	O
+,	O
+I	O
+do	O
+n't	O
+know	O
+;	O
+all	O
+I	O
+know	O
+is	O
+,	O
+that	O
+there	O
+was	O
+but	O
+one	O
+solitary	O
+bidding	O
+,	O
+and	O
+that	O
+was	O
+from	O
+an	O
+attorney	O
+connected	O
+with	O
+the	O
+bill-broking	O
+business	O
+,	O
+who	O
+offered	O
+two	O
+pounds	O
+in	O
+cash	O
+,	O
+and	O
+the	O
+balance	O
+in	O
+sherry	O
+,	O
+but	O
+declined	O
+to	O
+be	O
+guaranteed	O
+from	O
+drowning	O
+on	O
+any	O
+higher	O
+bargain	O
+.	O
+
+# id = conivel-david-copperfield-000006
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Consequently the advertisement was withdrawn at a dead loss -- for as to sherry , my poor dear mother 's own sherry was in the market then -- and ten years afterwards , the caul was put up in a raffle down in our part of the country , to fifty members at half-a-crown a head , the winner to spend five shillings .
+Consequently	O
+the	O
+advertisement	O
+was	O
+withdrawn	O
+at	O
+a	O
+dead	O
+loss	O
+--	O
+for	O
+as	O
+to	O
+sherry	O
+,	O
+my	O
+poor	O
+dear	O
+mother	O
+'s	O
+own	O
+sherry	O
+was	O
+in	O
+the	O
+market	O
+then	O
+--	O
+and	O
+ten	O
+years	O
+afterwards	O
+,	O
+the	O
+caul	O
+was	O
+put	O
+up	O
+in	O
+a	O
+raffle	O
+down	O
+in	O
+our	O
+part	O
+of	O
+the	O
+country	O
+,	O
+to	O
+fifty	O
+members	O
+at	O
+half-a-crown	O
+a	O
+head	O
+,	O
+the	O
+winner	O
+to	O
+spend	O
+five	O
+shillings	O
+.	O
+
+# id = conivel-david-copperfield-000007
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was present myself , and I remember to have felt quite uncomfortable and confused , at a part of myself being disposed of in that way .
+I	O
+was	O
+present	O
+myself	O
+,	O
+and	O
+I	O
+remember	O
+to	O
+have	O
+felt	O
+quite	O
+uncomfortable	O
+and	O
+confused	O
+,	O
+at	O
+a	O
+part	O
+of	O
+myself	O
+being	O
+disposed	O
+of	O
+in	O
+that	O
+way	O
+.	O
+
+# id = conivel-david-copperfield-000008
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The caul was won , I recollect , by an old lady with a hand-basket , who , very reluctantly , produced from it the stipulated five shillings , all in halfpence , and twopence halfpenny short -- as it took an immense time and a great waste of arithmetic , to endeavour without any effect to prove to her .
+The	O
+caul	O
+was	O
+won	O
+,	O
+I	O
+recollect	O
+,	O
+by	O
+an	O
+old	O
+lady	O
+with	O
+a	O
+hand-basket	O
+,	O
+who	O
+,	O
+very	O
+reluctantly	O
+,	O
+produced	O
+from	O
+it	O
+the	O
+stipulated	O
+five	O
+shillings	O
+,	O
+all	O
+in	O
+halfpence	O
+,	O
+and	O
+twopence	O
+halfpenny	O
+short	O
+--	O
+as	O
+it	O
+took	O
+an	O
+immense	O
+time	O
+and	O
+a	O
+great	O
+waste	O
+of	O
+arithmetic	O
+,	O
+to	O
+endeavour	O
+without	O
+any	O
+effect	O
+to	O
+prove	O
+to	O
+her	O
+.	O
+
+# id = conivel-david-copperfield-000009
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It is a fact which will be long remembered as remarkable down there , that she was never drowned , but died triumphantly in bed , at ninety-two .
+It	O
+is	O
+a	O
+fact	O
+which	O
+will	O
+be	O
+long	O
+remembered	O
+as	O
+remarkable	O
+down	O
+there	O
+,	O
+that	O
+she	O
+was	O
+never	O
+drowned	O
+,	O
+but	O
+died	O
+triumphantly	O
+in	O
+bed	O
+,	O
+at	O
+ninety-two	O
+.	O
+
+# id = conivel-david-copperfield-000010
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I have understood that it was , to the last , her proudest boast , that she never had been on the water in her life , except upon a bridge ; and that over her tea ( to which she was extremely partial ) she , to the last , expressed her indignation at the impiety of mariners and others , who had the presumption to go ` meandering ' about the world .
+I	O
+have	O
+understood	O
+that	O
+it	O
+was	O
+,	O
+to	O
+the	O
+last	O
+,	O
+her	O
+proudest	O
+boast	O
+,	O
+that	O
+she	O
+never	O
+had	O
+been	O
+on	O
+the	O
+water	O
+in	O
+her	O
+life	O
+,	O
+except	O
+upon	O
+a	O
+bridge	O
+;	O
+and	O
+that	O
+over	O
+her	O
+tea	O
+(	O
+to	O
+which	O
+she	O
+was	O
+extremely	O
+partial	O
+)	O
+she	O
+,	O
+to	O
+the	O
+last	O
+,	O
+expressed	O
+her	O
+indignation	O
+at	O
+the	O
+impiety	O
+of	O
+mariners	O
+and	O
+others	O
+,	O
+who	O
+had	O
+the	O
+presumption	O
+to	O
+go	O
+`	O
+meandering	O
+'	O
+about	O
+the	O
+world	O
+.	O
+
+# id = conivel-david-copperfield-000011
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was in vain to represent to her that some conveniences , tea perhaps included , resulted from this objectionable practice .
+It	O
+was	O
+in	O
+vain	O
+to	O
+represent	O
+to	O
+her	O
+that	O
+some	O
+conveniences	O
+,	O
+tea	O
+perhaps	O
+included	O
+,	O
+resulted	O
+from	O
+this	O
+objectionable	O
+practice	O
+.	O
+
+# id = conivel-david-copperfield-000012
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She always returned , with greater emphasis and with an instinctive knowledge of the strength of her objection , ` Let us have no meandering .
+She	O
+always	O
+returned	O
+,	O
+with	O
+greater	O
+emphasis	O
+and	O
+with	O
+an	O
+instinctive	O
+knowledge	O
+of	O
+the	O
+strength	O
+of	O
+her	O
+objection	O
+,	O
+`	O
+Let	O
+us	O
+have	O
+no	O
+meandering	O
+.	O
+
+# id = conivel-david-copperfield-000013
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' Not to meander myself , at present , I will go back to my birth .
+'	O
+Not	O
+to	O
+meander	O
+myself	O
+,	O
+at	O
+present	O
+,	O
+I	O
+will	O
+go	O
+back	O
+to	O
+my	O
+birth	O
+.	O
+
+# id = conivel-david-copperfield-000014
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was born at Blunderstone , in Suffolk , or ` there by ' , as they say in Scotland .
+I	O
+was	O
+born	O
+at	O
+Blunderstone	B-LOCATION
+,	O
+in	O
+Suffolk	B-LOCATION
+,	O
+or	O
+`	O
+there	O
+by	O
+'	O
+,	O
+as	O
+they	O
+say	O
+in	O
+Scotland	B-LOCATION
+.	O
+
+# id = conivel-david-copperfield-000015
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was a posthumous child .
+I	O
+was	O
+a	O
+posthumous	O
+child	O
+.	O
+
+# id = conivel-david-copperfield-000016
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My father 's eyes had closed upon the light of this world six months , when mine opened on it .
+My	O
+father	O
+'s	O
+eyes	O
+had	O
+closed	O
+upon	O
+the	O
+light	O
+of	O
+this	O
+world	O
+six	O
+months	O
+,	O
+when	O
+mine	O
+opened	O
+on	O
+it	O
+.	O
+
+# id = conivel-david-copperfield-000017
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There is something strange to me , even now , in the reflection that he never saw me ; and something stranger yet in the shadowy remembrance that I have of my first childish associations with his white grave-stone in the churchyard , and of the indefinable compassion I used to feel for it lying out alone there in the dark night , when our little parlour was warm and bright with fire and candle , and the doors of our house were -- almost cruelly , it seemed to me sometimes -- bolted and locked against it .
+There	O
+is	O
+something	O
+strange	O
+to	O
+me	O
+,	O
+even	O
+now	O
+,	O
+in	O
+the	O
+reflection	O
+that	O
+he	O
+never	O
+saw	O
+me	O
+;	O
+and	O
+something	O
+stranger	O
+yet	O
+in	O
+the	O
+shadowy	O
+remembrance	O
+that	O
+I	O
+have	O
+of	O
+my	O
+first	O
+childish	O
+associations	O
+with	O
+his	O
+white	O
+grave-stone	O
+in	O
+the	O
+churchyard	O
+,	O
+and	O
+of	O
+the	O
+indefinable	O
+compassion	O
+I	O
+used	O
+to	O
+feel	O
+for	O
+it	O
+lying	O
+out	O
+alone	O
+there	O
+in	O
+the	O
+dark	O
+night	O
+,	O
+when	O
+our	O
+little	O
+parlour	O
+was	O
+warm	O
+and	O
+bright	O
+with	O
+fire	O
+and	O
+candle	O
+,	O
+and	O
+the	O
+doors	O
+of	O
+our	O
+house	O
+were	O
+--	O
+almost	O
+cruelly	O
+,	O
+it	O
+seemed	O
+to	O
+me	O
+sometimes	O
+--	O
+bolted	O
+and	O
+locked	O
+against	O
+it	O
+.	O
+
+# id = conivel-david-copperfield-000018
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = An aunt of my father 's , and consequently a great-aunt of mine , of whom I shall have more to relate by and by , was the principal magnate of our family .
+An	O
+aunt	O
+of	O
+my	O
+father	O
+'s	O
+,	O
+and	O
+consequently	O
+a	O
+great-aunt	O
+of	O
+mine	O
+,	O
+of	O
+whom	O
+I	O
+shall	O
+have	O
+more	O
+to	O
+relate	O
+by	O
+and	O
+by	O
+,	O
+was	O
+the	O
+principal	O
+magnate	O
+of	O
+our	O
+family	O
+.	O
+
+# id = conivel-david-copperfield-000019
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Miss Trotwood , or Miss Betsey , as my poor mother always called her , when she sufficiently overcame her dread of this formidable personage to mention her at all ( which was seldom ) , had been married to a husband younger than herself , who was very handsome , except in the sense of the homely adage , ` handsome is , that handsome does ' -- for he was strongly suspected of having beaten Miss Betsey , and even of having once , on a disputed question of supplies , made some hasty but determined arrangements to throw her out of a two pair of stairs ' window .
+Miss	B-CHARACTER
+Trotwood	I-CHARACTER
+,	O
+or	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+,	O
+as	O
+my	O
+poor	O
+mother	O
+always	O
+called	O
+her	O
+,	O
+when	O
+she	O
+sufficiently	O
+overcame	O
+her	O
+dread	O
+of	O
+this	O
+formidable	O
+personage	O
+to	O
+mention	O
+her	O
+at	O
+all	O
+(	O
+which	O
+was	O
+seldom	O
+)	O
+,	O
+had	O
+been	O
+married	O
+to	O
+a	O
+husband	O
+younger	O
+than	O
+herself	O
+,	O
+who	O
+was	O
+very	O
+handsome	O
+,	O
+except	O
+in	O
+the	O
+sense	O
+of	O
+the	O
+homely	O
+adage	O
+,	O
+`	O
+handsome	O
+is	O
+,	O
+that	O
+handsome	O
+does	O
+'	O
+--	O
+for	O
+he	O
+was	O
+strongly	O
+suspected	O
+of	O
+having	O
+beaten	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+,	O
+and	O
+even	O
+of	O
+having	O
+once	O
+,	O
+on	O
+a	O
+disputed	O
+question	O
+of	O
+supplies	O
+,	O
+made	O
+some	O
+hasty	O
+but	O
+determined	O
+arrangements	O
+to	O
+throw	O
+her	O
+out	O
+of	O
+a	O
+two	O
+pair	O
+of	O
+stairs	O
+'	O
+window	O
+.	O
+
+# id = conivel-david-copperfield-000020
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How they affected my aunt , nobody knew ; for immediately upon the separation , she took her maiden name again , bought a cottage in a hamlet on the sea-coast a long way off , established herself there as a single woman with one servant , and was understood to live secluded , ever afterwards , in an inflexible retirement .
+How	O
+they	O
+affected	O
+my	O
+aunt	O
+,	O
+nobody	O
+knew	O
+;	O
+for	O
+immediately	O
+upon	O
+the	O
+separation	O
+,	O
+she	O
+took	O
+her	O
+maiden	O
+name	O
+again	O
+,	O
+bought	O
+a	O
+cottage	O
+in	O
+a	O
+hamlet	O
+on	O
+the	O
+sea-coast	O
+a	O
+long	O
+way	O
+off	O
+,	O
+established	O
+herself	O
+there	O
+as	O
+a	O
+single	O
+woman	O
+with	O
+one	O
+servant	O
+,	O
+and	O
+was	O
+understood	O
+to	O
+live	O
+secluded	O
+,	O
+ever	O
+afterwards	O
+,	O
+in	O
+an	O
+inflexible	O
+retirement	O
+.	O
+
+# id = conivel-david-copperfield-000021
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My father had once been a favourite of hers , I believe ; but she was mortally affronted by his marriage , on the ground that my mother was ` a wax doll ' .
+My	O
+father	O
+had	O
+once	O
+been	O
+a	O
+favourite	O
+of	O
+hers	O
+,	O
+I	O
+believe	O
+;	O
+but	O
+she	O
+was	O
+mortally	O
+affronted	O
+by	O
+his	O
+marriage	O
+,	O
+on	O
+the	O
+ground	O
+that	O
+my	O
+mother	O
+was	O
+`	O
+a	O
+wax	O
+doll	O
+'	O
+.	O
+
+# id = conivel-david-copperfield-000022
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She had never seen my mother , but she knew her to be not yet twenty .
+She	O
+had	O
+never	O
+seen	O
+my	O
+mother	O
+,	O
+but	O
+she	O
+knew	O
+her	O
+to	O
+be	O
+not	O
+yet	O
+twenty	O
+.	O
+
+# id = conivel-david-copperfield-000023
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was double my mother 's age when he married , and of but a delicate constitution .
+He	O
+was	O
+double	O
+my	O
+mother	O
+'s	O
+age	O
+when	O
+he	O
+married	O
+,	O
+and	O
+of	O
+but	O
+a	O
+delicate	O
+constitution	O
+.	O
+
+# id = conivel-david-copperfield-000024
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He died a year afterwards , and , as I have said , six months before I came into the world .
+He	O
+died	O
+a	O
+year	O
+afterwards	O
+,	O
+and	O
+,	O
+as	O
+I	O
+have	O
+said	O
+,	O
+six	O
+months	O
+before	O
+I	O
+came	O
+into	O
+the	O
+world	O
+.	O
+
+# id = conivel-david-copperfield-000025
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This was the state of matters , on the afternoon of , what I may be excused for calling , that eventful and important Friday .
+This	O
+was	O
+the	O
+state	O
+of	O
+matters	O
+,	O
+on	O
+the	O
+afternoon	O
+of	O
+,	O
+what	O
+I	O
+may	O
+be	O
+excused	O
+for	O
+calling	O
+,	O
+that	O
+eventful	O
+and	O
+important	O
+Friday	O
+.	O
+
+# id = conivel-david-copperfield-000026
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I can make no claim therefore to have known , at that time , how matters stood ; or to have any remembrance , founded on the evidence of my own senses , of what follows .
+I	O
+can	O
+make	O
+no	O
+claim	O
+therefore	O
+to	O
+have	O
+known	O
+,	O
+at	O
+that	O
+time	O
+,	O
+how	O
+matters	O
+stood	O
+;	O
+or	O
+to	O
+have	O
+any	O
+remembrance	O
+,	O
+founded	O
+on	O
+the	O
+evidence	O
+of	O
+my	O
+own	O
+senses	O
+,	O
+of	O
+what	O
+follows	O
+.	O
+
+# id = conivel-david-copperfield-000027
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My mother was sitting by the fire , but poorly in health , and very low in spirits , looking at it through her tears , and desponding heavily about herself and the fatherless little stranger , who was already welcomed by some grosses of prophetic pins , in a drawer upstairs , to a world not at all excited on the subject of his arrival ; my mother , I say , was sitting by the fire , that bright , windy March afternoon , very timid and sad , and very doubtful of ever coming alive out of the trial that was before her , when , lifting her eyes as she dried them , to the window opposite , she saw a strange lady coming up the garden .
+My	O
+mother	O
+was	O
+sitting	O
+by	O
+the	O
+fire	O
+,	O
+but	O
+poorly	O
+in	O
+health	O
+,	O
+and	O
+very	O
+low	O
+in	O
+spirits	O
+,	O
+looking	O
+at	O
+it	O
+through	O
+her	O
+tears	O
+,	O
+and	O
+desponding	O
+heavily	O
+about	O
+herself	O
+and	O
+the	O
+fatherless	O
+little	O
+stranger	O
+,	O
+who	O
+was	O
+already	O
+welcomed	O
+by	O
+some	O
+grosses	O
+of	O
+prophetic	O
+pins	O
+,	O
+in	O
+a	O
+drawer	O
+upstairs	O
+,	O
+to	O
+a	O
+world	O
+not	O
+at	O
+all	O
+excited	O
+on	O
+the	O
+subject	O
+of	O
+his	O
+arrival	O
+;	O
+my	O
+mother	O
+,	O
+I	O
+say	O
+,	O
+was	O
+sitting	O
+by	O
+the	O
+fire	O
+,	O
+that	O
+bright	O
+,	O
+windy	O
+March	O
+afternoon	O
+,	O
+very	O
+timid	O
+and	O
+sad	O
+,	O
+and	O
+very	O
+doubtful	O
+of	O
+ever	O
+coming	O
+alive	O
+out	O
+of	O
+the	O
+trial	O
+that	O
+was	O
+before	O
+her	O
+,	O
+when	O
+,	O
+lifting	O
+her	O
+eyes	O
+as	O
+she	O
+dried	O
+them	O
+,	O
+to	O
+the	O
+window	O
+opposite	O
+,	O
+she	O
+saw	O
+a	O
+strange	O
+lady	O
+coming	O
+up	O
+the	O
+garden	O
+.	O
+
+# id = conivel-david-copperfield-000028
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The setting sun was glowing on the strange lady , over the garden-fence , and she came walking up to the door with a fell rigidity of figure and composure of countenance that could have belonged to nobody else .
+The	O
+setting	O
+sun	O
+was	O
+glowing	O
+on	O
+the	O
+strange	O
+lady	O
+,	O
+over	O
+the	O
+garden-fence	O
+,	O
+and	O
+she	O
+came	O
+walking	O
+up	O
+to	O
+the	O
+door	O
+with	O
+a	O
+fell	O
+rigidity	O
+of	O
+figure	O
+and	O
+composure	O
+of	O
+countenance	O
+that	O
+could	O
+have	O
+belonged	O
+to	O
+nobody	O
+else	O
+.	O
+
+# id = conivel-david-copperfield-000029
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When she reached the house , she gave another proof of her identity .
+When	O
+she	O
+reached	O
+the	O
+house	O
+,	O
+she	O
+gave	O
+another	O
+proof	O
+of	O
+her	O
+identity	O
+.	O
+
+# id = conivel-david-copperfield-000030
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My father had often hinted that she seldom conducted herself like any ordinary Christian ; and now , instead of ringing the bell , she came and looked in at that identical window , pressing the end of her nose against the glass to that extent , that my poor dear mother used to say it became perfectly flat and white in a moment .
+My	O
+father	O
+had	O
+often	O
+hinted	O
+that	O
+she	O
+seldom	O
+conducted	O
+herself	O
+like	O
+any	O
+ordinary	O
+Christian	O
+;	O
+and	O
+now	O
+,	O
+instead	O
+of	O
+ringing	O
+the	O
+bell	O
+,	O
+she	O
+came	O
+and	O
+looked	O
+in	O
+at	O
+that	O
+identical	O
+window	O
+,	O
+pressing	O
+the	O
+end	O
+of	O
+her	O
+nose	O
+against	O
+the	O
+glass	O
+to	O
+that	O
+extent	O
+,	O
+that	O
+my	O
+poor	O
+dear	O
+mother	O
+used	O
+to	O
+say	O
+it	O
+became	O
+perfectly	O
+flat	O
+and	O
+white	O
+in	O
+a	O
+moment	O
+.	O
+
+# id = conivel-david-copperfield-000031
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My mother had left her chair in her agitation , and gone behind it in the corner .
+My	O
+mother	O
+had	O
+left	O
+her	O
+chair	O
+in	O
+her	O
+agitation	O
+,	O
+and	O
+gone	O
+behind	O
+it	O
+in	O
+the	O
+corner	O
+.	O
+
+# id = conivel-david-copperfield-000032
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Miss Betsey , looking round the room , slowly and inquiringly , began on the other side , and carried her eyes on , like a Saracen 's Head in a Dutch clock , until they reached my mother .
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+,	O
+looking	O
+round	O
+the	O
+room	O
+,	O
+slowly	O
+and	O
+inquiringly	O
+,	O
+began	O
+on	O
+the	O
+other	O
+side	O
+,	O
+and	O
+carried	O
+her	O
+eyes	O
+on	O
+,	O
+like	O
+a	O
+Saracen	O
+'s	O
+Head	O
+in	O
+a	O
+Dutch	O
+clock	O
+,	O
+until	O
+they	O
+reached	O
+my	O
+mother	O
+.	O
+
+# id = conivel-david-copperfield-000033
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then she made a frown and a gesture to my mother , like one who was accustomed to be obeyed , to come and open the door .
+Then	O
+she	O
+made	O
+a	O
+frown	O
+and	O
+a	O
+gesture	O
+to	O
+my	O
+mother	O
+,	O
+like	O
+one	O
+who	O
+was	O
+accustomed	O
+to	O
+be	O
+obeyed	O
+,	O
+to	O
+come	O
+and	O
+open	O
+the	O
+door	O
+.	O
+
+# id = conivel-david-copperfield-000034
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My mother went .
+My	O
+mother	O
+went	O
+.	O
+
+# id = conivel-david-copperfield-000035
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Mrs. David Copperfield , I think , ''
+``	O
+Mrs.	B-CHARACTER
+David	I-CHARACTER
+Copperfield	I-CHARACTER
+,	O
+I	O
+think	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000036
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Betsey ; the emphasis referring , perhaps , to my mother 's mourning weeds , and her condition .
+said	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+;	O
+the	O
+emphasis	O
+referring	O
+,	O
+perhaps	O
+,	O
+to	O
+my	O
+mother	O
+'s	O
+mourning	O
+weeds	O
+,	O
+and	O
+her	O
+condition	O
+.	O
+
+# id = conivel-david-copperfield-000037
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , ''
+``	O
+Yes	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000038
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said my mother , faintly .
+said	O
+my	O
+mother	O
+,	O
+faintly	O
+.	O
+
+# id = conivel-david-copperfield-000039
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Miss Trotwood , ''
+``	O
+Miss	B-CHARACTER
+Trotwood	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-david-copperfield-000040
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the visitor .
+said	O
+the	O
+visitor	O
+.	O
+
+# id = conivel-david-copperfield-000041
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You have heard of her , I dare say ? ''
+``	O
+You	O
+have	O
+heard	O
+of	O
+her	O
+,	O
+I	O
+dare	O
+say	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000042
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My mother answered she had had that pleasure .
+My	O
+mother	O
+answered	O
+she	O
+had	O
+had	O
+that	O
+pleasure	O
+.	O
+
+# id = conivel-david-copperfield-000043
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And she had a disagreeable consciousness of not appearing to imply that it had been an overpowering pleasure .
+And	O
+she	O
+had	O
+a	O
+disagreeable	O
+consciousness	O
+of	O
+not	O
+appearing	O
+to	O
+imply	O
+that	O
+it	O
+had	O
+been	O
+an	O
+overpowering	O
+pleasure	O
+.	O
+
+# id = conivel-david-copperfield-000044
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Now you see her , ''
+``	O
+Now	O
+you	O
+see	O
+her	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000045
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Betsey .
+said	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000046
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My mother bent her head , and begged her to walk in .
+My	O
+mother	O
+bent	O
+her	O
+head	O
+,	O
+and	O
+begged	O
+her	O
+to	O
+walk	O
+in	O
+.	O
+
+# id = conivel-david-copperfield-000047
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They went into the parlour my mother had come from , the fire in the best room on the other side of the passage not being lighted -- not having been lighted , indeed , since my father 's funeral ; and when they were both seated , and Miss Betsey said nothing , my mother , after vainly trying to restrain herself , began to cry .
+They	O
+went	O
+into	O
+the	O
+parlour	O
+my	O
+mother	O
+had	O
+come	O
+from	O
+,	O
+the	O
+fire	O
+in	O
+the	O
+best	O
+room	O
+on	O
+the	O
+other	O
+side	O
+of	O
+the	O
+passage	O
+not	O
+being	O
+lighted	O
+--	O
+not	O
+having	O
+been	O
+lighted	O
+,	O
+indeed	O
+,	O
+since	O
+my	O
+father	O
+'s	O
+funeral	O
+;	O
+and	O
+when	O
+they	O
+were	O
+both	O
+seated	O
+,	O
+and	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+said	O
+nothing	O
+,	O
+my	O
+mother	O
+,	O
+after	O
+vainly	O
+trying	O
+to	O
+restrain	O
+herself	O
+,	O
+began	O
+to	O
+cry	O
+.	O
+
+# id = conivel-david-copperfield-000048
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Oh tut , tut , tut ! ''
+``	O
+Oh	O
+tut	O
+,	O
+tut	O
+,	O
+tut	O
+!	O
+''	O
+
+# id = conivel-david-copperfield-000049
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do n't do that !
+``	O
+Do	O
+n't	O
+do	O
+that	O
+!	O
+
+# id = conivel-david-copperfield-000050
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Come , come ! ''
+Come	O
+,	O
+come	O
+!	O
+''	O
+
+# id = conivel-david-copperfield-000051
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My mother could n't help it notwithstanding , so she cried until she had had her cry out .
+My	O
+mother	O
+could	O
+n't	O
+help	O
+it	O
+notwithstanding	O
+,	O
+so	O
+she	O
+cried	O
+until	O
+she	O
+had	O
+had	O
+her	O
+cry	O
+out	O
+.	O
+
+# id = conivel-david-copperfield-000052
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Take off your cap , child , ''
+``	O
+Take	O
+off	O
+your	O
+cap	O
+,	O
+child	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000053
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Betsey , `` and let me see you . ''
+said	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+,	O
+``	O
+and	O
+let	O
+me	O
+see	O
+you	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000054
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My mother was too much afraid of her to refuse compliance with this odd request , if she had any disposition to do so .
+My	O
+mother	O
+was	O
+too	O
+much	O
+afraid	O
+of	O
+her	O
+to	O
+refuse	O
+compliance	O
+with	O
+this	O
+odd	O
+request	O
+,	O
+if	O
+she	O
+had	O
+any	O
+disposition	O
+to	O
+do	O
+so	O
+.	O
+
+# id = conivel-david-copperfield-000055
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Therefore she did as she was told , and did it with such nervous hands that her hair ( which was luxuriant and beautiful ) fell all about her face .
+Therefore	O
+she	O
+did	O
+as	O
+she	O
+was	O
+told	O
+,	O
+and	O
+did	O
+it	O
+with	O
+such	O
+nervous	O
+hands	O
+that	O
+her	O
+hair	O
+(	O
+which	O
+was	O
+luxuriant	O
+and	O
+beautiful	O
+)	O
+fell	O
+all	O
+about	O
+her	O
+face	O
+.	O
+
+# id = conivel-david-copperfield-000056
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Why , bless my heart ! ''
+``	O
+Why	O
+,	O
+bless	O
+my	O
+heart	O
+!	O
+''	O
+
+# id = conivel-david-copperfield-000057
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = exclaimed Miss Betsey .
+exclaimed	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000058
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You are a very Baby ! ''
+``	O
+You	O
+are	O
+a	O
+very	O
+Baby	B-CHARACTER
+!	O
+''	O
+
+# id = conivel-david-copperfield-000059
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My mother was , no doubt , unusually youthful in appearance even for her years ; she hung her head , as if it were her fault , poor thing , and said , sobbing , that indeed she was afraid she was but a childish widow , and would be but a childish mother if she lived .
+My	O
+mother	O
+was	O
+,	O
+no	O
+doubt	O
+,	O
+unusually	O
+youthful	O
+in	O
+appearance	O
+even	O
+for	O
+her	O
+years	O
+;	O
+she	O
+hung	O
+her	O
+head	O
+,	O
+as	O
+if	O
+it	O
+were	O
+her	O
+fault	O
+,	O
+poor	O
+thing	O
+,	O
+and	O
+said	O
+,	O
+sobbing	O
+,	O
+that	O
+indeed	O
+she	O
+was	O
+afraid	O
+she	O
+was	O
+but	O
+a	O
+childish	O
+widow	O
+,	O
+and	O
+would	O
+be	O
+but	O
+a	O
+childish	O
+mother	O
+if	O
+she	O
+lived	O
+.	O
+
+# id = conivel-david-copperfield-000060
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In a short pause which ensued , she had a fancy that she felt Miss Betsey touch her hair , and that with no ungentle hand ; but , looking at her , in her timid hope , she found that lady sitting with the skirt of her dress tucked up , her hands folded on one knee , and her feet upon the fender , frowning at the fire .
+In	O
+a	O
+short	O
+pause	O
+which	O
+ensued	O
+,	O
+she	O
+had	O
+a	O
+fancy	O
+that	O
+she	O
+felt	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+touch	O
+her	O
+hair	O
+,	O
+and	O
+that	O
+with	O
+no	O
+ungentle	O
+hand	O
+;	O
+but	O
+,	O
+looking	O
+at	O
+her	O
+,	O
+in	O
+her	O
+timid	O
+hope	O
+,	O
+she	O
+found	O
+that	O
+lady	O
+sitting	O
+with	O
+the	O
+skirt	O
+of	O
+her	O
+dress	O
+tucked	O
+up	O
+,	O
+her	O
+hands	O
+folded	O
+on	O
+one	O
+knee	O
+,	O
+and	O
+her	O
+feet	O
+upon	O
+the	O
+fender	O
+,	O
+frowning	O
+at	O
+the	O
+fire	O
+.	O
+
+# id = conivel-david-copperfield-000061
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` In the name of Heaven , ''
+``	O
+In	O
+the	O
+name	O
+of	O
+Heaven	B-LOCATION
+,	O
+''	O
+
+# id = conivel-david-copperfield-000062
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Betsey , suddenly , `` why Rookery ? ''
+said	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+,	O
+suddenly	O
+,	O
+``	O
+why	O
+Rookery	B-LOCATION
+?	O
+''	O
+
+# id = conivel-david-copperfield-000063
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do you mean the house , ma'am ? ''
+``	O
+Do	O
+you	O
+mean	O
+the	O
+house	O
+,	O
+ma'am	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000064
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = asked my mother .
+asked	O
+my	O
+mother	O
+.	O
+
+# id = conivel-david-copperfield-000065
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Why Rookery ? ''
+``	O
+Why	O
+Rookery	B-LOCATION
+?	O
+''	O
+
+# id = conivel-david-copperfield-000066
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Betsey .
+said	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000067
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Cookery would have been more to the purpose , if you had had any practical ideas of life , either of you . ''
+``	O
+Cookery	O
+would	O
+have	O
+been	O
+more	O
+to	O
+the	O
+purpose	O
+,	O
+if	O
+you	O
+had	O
+had	O
+any	O
+practical	O
+ideas	O
+of	O
+life	O
+,	O
+either	O
+of	O
+you	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000068
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The name was Mr. Copperfield 's choice , ''
+``	O
+The	O
+name	O
+was	O
+Mr.	B-CHARACTER
+Copperfield	I-CHARACTER
+'s	O
+choice	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000069
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = returned my mother .
+returned	O
+my	O
+mother	O
+.	O
+
+# id = conivel-david-copperfield-000070
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` When he bought the house , he liked to think that there were rooks about it . ''
+``	O
+When	O
+he	O
+bought	O
+the	O
+house	O
+,	O
+he	O
+liked	O
+to	O
+think	O
+that	O
+there	O
+were	O
+rooks	O
+about	O
+it	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000071
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The evening wind made such a disturbance just now , among some tall old elm-trees at the bottom of the garden , that neither my mother nor Miss Betsey could forbear glancing that way .
+The	O
+evening	O
+wind	O
+made	O
+such	O
+a	O
+disturbance	O
+just	O
+now	O
+,	O
+among	O
+some	O
+tall	O
+old	O
+elm-trees	O
+at	O
+the	O
+bottom	O
+of	O
+the	O
+garden	O
+,	O
+that	O
+neither	O
+my	O
+mother	O
+nor	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+could	O
+forbear	O
+glancing	O
+that	O
+way	O
+.	O
+
+# id = conivel-david-copperfield-000072
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As the elms bent to one another , like giants who were whispering secrets , and after a few seconds of such repose , fell into a violent flurry , tossing their wild arms about , as if their late confidences were really too wicked for their peace of mind , some weatherbeaten ragged old rooks ' - nests , burdening their higher branches , swung like wrecks upon a stormy sea .
+As	O
+the	O
+elms	O
+bent	O
+to	O
+one	O
+another	O
+,	O
+like	O
+giants	O
+who	O
+were	O
+whispering	O
+secrets	O
+,	O
+and	O
+after	O
+a	O
+few	O
+seconds	O
+of	O
+such	O
+repose	O
+,	O
+fell	O
+into	O
+a	O
+violent	O
+flurry	O
+,	O
+tossing	O
+their	O
+wild	O
+arms	O
+about	O
+,	O
+as	O
+if	O
+their	O
+late	O
+confidences	O
+were	O
+really	O
+too	O
+wicked	O
+for	O
+their	O
+peace	O
+of	O
+mind	O
+,	O
+some	O
+weatherbeaten	O
+ragged	O
+old	O
+rooks	O
+'	O
+-	O
+nests	O
+,	O
+burdening	O
+their	O
+higher	O
+branches	O
+,	O
+swung	O
+like	O
+wrecks	O
+upon	O
+a	O
+stormy	O
+sea	O
+.	O
+
+# id = conivel-david-copperfield-000073
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Where are the birds ? ''
+``	O
+Where	O
+are	O
+the	O
+birds	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000074
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = asked Miss Betsey .
+asked	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000075
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The -- ? ''
+``	O
+The	O
+--	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000076
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My mother had been thinking of something else .
+My	O
+mother	O
+had	O
+been	O
+thinking	O
+of	O
+something	O
+else	O
+.	O
+
+# id = conivel-david-copperfield-000077
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The rooks -- what has become of them ? ''
+``	O
+The	O
+rooks	O
+--	O
+what	O
+has	O
+become	O
+of	O
+them	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000078
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = asked Miss Betsey .
+asked	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000079
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There have not been any since we have lived here , ''
+``	O
+There	O
+have	O
+not	O
+been	O
+any	O
+since	O
+we	O
+have	O
+lived	O
+here	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000080
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said my mother .
+said	O
+my	O
+mother	O
+.	O
+
+# id = conivel-david-copperfield-000081
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We thought -- Mr. Copperfield thought -- it was quite a large rookery ; but the nests were very old ones , and the birds have deserted them a long while . ''
+``	O
+We	O
+thought	O
+--	O
+Mr.	B-CHARACTER
+Copperfield	I-CHARACTER
+thought	O
+--	O
+it	O
+was	O
+quite	O
+a	O
+large	O
+rookery	O
+;	O
+but	O
+the	O
+nests	O
+were	O
+very	O
+old	O
+ones	O
+,	O
+and	O
+the	O
+birds	O
+have	O
+deserted	O
+them	O
+a	O
+long	O
+while	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000082
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` David Copperfield all over ! ''
+``	O
+David	B-CHARACTER
+Copperfield	I-CHARACTER
+all	O
+over	O
+!	O
+''	O
+
+# id = conivel-david-copperfield-000083
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried Miss Betsey .
+cried	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000084
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` David Copperfield from head to foot !
+``	O
+David	B-CHARACTER
+Copperfield	I-CHARACTER
+from	O
+head	O
+to	O
+foot	O
+!	O
+
+# id = conivel-david-copperfield-000085
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Calls a house a rookery when there 's not a rook near it , and takes the birds on trust , because he sees the nests ! ''
+Calls	O
+a	O
+house	O
+a	O
+rookery	O
+when	O
+there	O
+'s	O
+not	O
+a	O
+rook	O
+near	O
+it	O
+,	O
+and	O
+takes	O
+the	O
+birds	O
+on	O
+trust	O
+,	O
+because	O
+he	O
+sees	O
+the	O
+nests	O
+!	O
+''	O
+
+# id = conivel-david-copperfield-000086
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Mr. Copperfield , ''
+``	O
+Mr.	B-CHARACTER
+Copperfield	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-david-copperfield-000087
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = returned my mother , `` is dead , and if you dare to speak unkindly of him to me -- ''
+returned	O
+my	O
+mother	O
+,	O
+``	O
+is	O
+dead	O
+,	O
+and	O
+if	O
+you	O
+dare	O
+to	O
+speak	O
+unkindly	O
+of	O
+him	O
+to	O
+me	O
+--	O
+''	O
+
+# id = conivel-david-copperfield-000088
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My poor dear mother , I suppose , had some momentary intention of committing an assault and battery upon my aunt , who could easily have settled her with one hand , even if my mother had been in far better training for such an encounter than she was that evening .
+My	O
+poor	O
+dear	O
+mother	O
+,	O
+I	O
+suppose	O
+,	O
+had	O
+some	O
+momentary	O
+intention	O
+of	O
+committing	O
+an	O
+assault	O
+and	O
+battery	O
+upon	O
+my	O
+aunt	O
+,	O
+who	O
+could	O
+easily	O
+have	O
+settled	O
+her	O
+with	O
+one	O
+hand	O
+,	O
+even	O
+if	O
+my	O
+mother	O
+had	O
+been	O
+in	O
+far	O
+better	O
+training	O
+for	O
+such	O
+an	O
+encounter	O
+than	O
+she	O
+was	O
+that	O
+evening	O
+.	O
+
+# id = conivel-david-copperfield-000089
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But it passed with the action of rising from her chair ; and she sat down again very meekly , and fainted .
+But	O
+it	O
+passed	O
+with	O
+the	O
+action	O
+of	O
+rising	O
+from	O
+her	O
+chair	O
+;	O
+and	O
+she	O
+sat	O
+down	O
+again	O
+very	O
+meekly	O
+,	O
+and	O
+fainted	O
+.	O
+
+# id = conivel-david-copperfield-000090
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When she came to herself , or when Miss Betsey had restored her , whichever it was , she found the latter standing at the window .
+When	O
+she	O
+came	O
+to	O
+herself	O
+,	O
+or	O
+when	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+had	O
+restored	O
+her	O
+,	O
+whichever	O
+it	O
+was	O
+,	O
+she	O
+found	O
+the	O
+latter	O
+standing	O
+at	O
+the	O
+window	O
+.	O
+
+# id = conivel-david-copperfield-000091
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The twilight was by this time shading down into darkness ; and dimly as they saw each other , they could not have done that without the aid of the fire .
+The	O
+twilight	O
+was	O
+by	O
+this	O
+time	O
+shading	O
+down	O
+into	O
+darkness	O
+;	O
+and	O
+dimly	O
+as	O
+they	O
+saw	O
+each	O
+other	O
+,	O
+they	O
+could	O
+not	O
+have	O
+done	O
+that	O
+without	O
+the	O
+aid	O
+of	O
+the	O
+fire	O
+.	O
+
+# id = conivel-david-copperfield-000092
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well ? ''
+``	O
+Well	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000093
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Betsey , coming back to her chair , as if she had only been taking a casual look at the prospect ; `` and when do you expect -- ''
+said	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+,	O
+coming	O
+back	O
+to	O
+her	O
+chair	O
+,	O
+as	O
+if	O
+she	O
+had	O
+only	O
+been	O
+taking	O
+a	O
+casual	O
+look	O
+at	O
+the	O
+prospect	O
+;	O
+``	O
+and	O
+when	O
+do	O
+you	O
+expect	O
+--	O
+''	O
+
+# id = conivel-david-copperfield-000094
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I am all in a tremble , ''
+``	O
+I	O
+am	O
+all	O
+in	O
+a	O
+tremble	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000095
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = faltered my mother .
+faltered	O
+my	O
+mother	O
+.	O
+
+# id = conivel-david-copperfield-000096
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do n't know what 's the matter .
+``	O
+I	O
+do	O
+n't	O
+know	O
+what	O
+'s	O
+the	O
+matter	O
+.	O
+
+# id = conivel-david-copperfield-000097
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I shall die , I am sure ! ''
+I	O
+shall	O
+die	O
+,	O
+I	O
+am	O
+sure	O
+!	O
+''	O
+
+# id = conivel-david-copperfield-000098
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , no , no , ''
+``	O
+No	O
+,	O
+no	O
+,	O
+no	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000099
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Betsey .
+said	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000100
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Have some tea . ''
+``	O
+Have	O
+some	O
+tea	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000101
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Oh dear me , dear me , do you think it will do me any good ? ''
+``	O
+Oh	O
+dear	O
+me	O
+,	O
+dear	O
+me	O
+,	O
+do	O
+you	O
+think	O
+it	O
+will	O
+do	O
+me	O
+any	O
+good	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000102
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried my mother in a helpless manner .
+cried	O
+my	O
+mother	O
+in	O
+a	O
+helpless	O
+manner	O
+.	O
+
+# id = conivel-david-copperfield-000103
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Of course it will , ''
+``	O
+Of	O
+course	O
+it	O
+will	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000104
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Betsey .
+said	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000105
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's nothing but fancy .
+``	O
+It	O
+'s	O
+nothing	O
+but	O
+fancy	O
+.	O
+
+# id = conivel-david-copperfield-000106
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What do you call your girl ? ''
+What	O
+do	O
+you	O
+call	O
+your	O
+girl	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000107
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do n't know that it will be a girl , yet , ma'am , ''
+``	O
+I	O
+do	O
+n't	O
+know	O
+that	O
+it	O
+will	O
+be	O
+a	O
+girl	O
+,	O
+yet	O
+,	O
+ma'am	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000108
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said my mother innocently .
+said	O
+my	O
+mother	O
+innocently	O
+.	O
+
+# id = conivel-david-copperfield-000109
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Bless the Baby ! ''
+``	O
+Bless	O
+the	O
+Baby	B-CHARACTER
+!	O
+''	O
+
+# id = conivel-david-copperfield-000110
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = exclaimed Miss Betsey , unconsciously quoting the second sentiment of the pincushion in the drawer upstairs , but applying it to my mother instead of me , `` I do n't mean that .
+exclaimed	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+,	O
+unconsciously	O
+quoting	O
+the	O
+second	O
+sentiment	O
+of	O
+the	O
+pincushion	O
+in	O
+the	O
+drawer	O
+upstairs	O
+,	O
+but	O
+applying	O
+it	O
+to	O
+my	O
+mother	O
+instead	O
+of	O
+me	O
+,	O
+``	O
+I	O
+do	O
+n't	O
+mean	O
+that	O
+.	O
+
+# id = conivel-david-copperfield-000111
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I mean your servant-girl . ''
+I	O
+mean	O
+your	O
+servant-girl	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000112
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Peggotty , ''
+``	O
+Peggotty	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-david-copperfield-000113
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said my mother .
+said	O
+my	O
+mother	O
+.	O
+
+# id = conivel-david-copperfield-000114
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Peggotty ! ''
+``	O
+Peggotty	B-CHARACTER
+!	O
+''	O
+
+# id = conivel-david-copperfield-000115
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = repeated Miss Betsey , with some indignation .
+repeated	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+,	O
+with	O
+some	O
+indignation	O
+.	O
+
+# id = conivel-david-copperfield-000116
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do you mean to say , child , that any human being has gone into a Christian church , and got herself named Peggotty ? ''
+``	O
+Do	O
+you	O
+mean	O
+to	O
+say	O
+,	O
+child	O
+,	O
+that	O
+any	O
+human	O
+being	O
+has	O
+gone	O
+into	O
+a	O
+Christian	O
+church	O
+,	O
+and	O
+got	O
+herself	O
+named	O
+Peggotty	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-david-copperfield-000117
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's her surname , ''
+``	O
+It	O
+'s	O
+her	O
+surname	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000118
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said my mother , faintly .
+said	O
+my	O
+mother	O
+,	O
+faintly	O
+.	O
+
+# id = conivel-david-copperfield-000119
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Mr. Copperfield called her by it , because her Christian name was the same as mine . ''
+``	O
+Mr.	B-CHARACTER
+Copperfield	I-CHARACTER
+called	O
+her	O
+by	O
+it	O
+,	O
+because	O
+her	O
+Christian	O
+name	O
+was	O
+the	O
+same	O
+as	O
+mine	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000120
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Here !
+``	O
+Here	O
+!	O
+
+# id = conivel-david-copperfield-000121
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Peggotty ! ''
+Peggotty	B-CHARACTER
+!	O
+''	O
+
+# id = conivel-david-copperfield-000122
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried Miss Betsey , opening the parlour door .
+cried	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+,	O
+opening	O
+the	O
+parlour	O
+door	O
+.	O
+
+# id = conivel-david-copperfield-000123
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Tea .
+``	O
+Tea	O
+.	O
+
+# id = conivel-david-copperfield-000124
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Your mistress is a little unwell .
+Your	O
+mistress	O
+is	O
+a	O
+little	O
+unwell	O
+.	O
+
+# id = conivel-david-copperfield-000125
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Do n't dawdle . ''
+Do	O
+n't	O
+dawdle	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000126
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Having issued this mandate with as much potentiality as if she had been a recognized authority in the house ever since it had been a house , and having looked out to confront the amazed Peggotty coming along the passage with a candle at the sound of a strange voice , Miss Betsey shut the door again , and sat down as before : with her feet on the fender , the skirt of her dress tucked up , and her hands folded on one knee .
+Having	O
+issued	O
+this	O
+mandate	O
+with	O
+as	O
+much	O
+potentiality	O
+as	O
+if	O
+she	O
+had	O
+been	O
+a	O
+recognized	O
+authority	O
+in	O
+the	O
+house	O
+ever	O
+since	O
+it	O
+had	O
+been	O
+a	O
+house	O
+,	O
+and	O
+having	O
+looked	O
+out	O
+to	O
+confront	O
+the	O
+amazed	O
+Peggotty	B-CHARACTER
+coming	O
+along	O
+the	O
+passage	O
+with	O
+a	O
+candle	O
+at	O
+the	O
+sound	O
+of	O
+a	O
+strange	O
+voice	O
+,	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+shut	O
+the	O
+door	O
+again	O
+,	O
+and	O
+sat	O
+down	O
+as	O
+before	O
+:	O
+with	O
+her	O
+feet	O
+on	O
+the	O
+fender	O
+,	O
+the	O
+skirt	O
+of	O
+her	O
+dress	O
+tucked	O
+up	O
+,	O
+and	O
+her	O
+hands	O
+folded	O
+on	O
+one	O
+knee	O
+.	O
+
+# id = conivel-david-copperfield-000127
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You were speaking about its being a girl , ''
+``	O
+You	O
+were	O
+speaking	O
+about	O
+its	O
+being	O
+a	O
+girl	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000128
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Betsey .
+said	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000129
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I have no doubt it will be a girl .
+``	O
+I	O
+have	O
+no	O
+doubt	O
+it	O
+will	O
+be	O
+a	O
+girl	O
+.	O
+
+# id = conivel-david-copperfield-000130
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I have a presentiment that it must be a girl .
+I	O
+have	O
+a	O
+presentiment	O
+that	O
+it	O
+must	O
+be	O
+a	O
+girl	O
+.	O
+
+# id = conivel-david-copperfield-000131
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now child , from the moment of the birth of this girl -- ''
+Now	O
+child	O
+,	O
+from	O
+the	O
+moment	O
+of	O
+the	O
+birth	O
+of	O
+this	O
+girl	O
+--	O
+''	O
+
+# id = conivel-david-copperfield-000132
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Perhaps boy , ''
+``	O
+Perhaps	O
+boy	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000133
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = my mother took the liberty of putting in .
+my	O
+mother	O
+took	O
+the	O
+liberty	O
+of	O
+putting	O
+in	O
+.	O
+
+# id = conivel-david-copperfield-000134
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I tell you I have a presentiment that it must be a girl , ''
+``	O
+I	O
+tell	O
+you	O
+I	O
+have	O
+a	O
+presentiment	O
+that	O
+it	O
+must	O
+be	O
+a	O
+girl	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000135
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = returned Miss Betsey .
+returned	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000136
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do n't contradict .
+``	O
+Do	O
+n't	O
+contradict	O
+.	O
+
+# id = conivel-david-copperfield-000137
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = From the moment of this girl 's birth , child , I intend to be her friend .
+From	O
+the	O
+moment	O
+of	O
+this	O
+girl	O
+'s	O
+birth	O
+,	O
+child	O
+,	O
+I	O
+intend	O
+to	O
+be	O
+her	O
+friend	O
+.	O
+
+# id = conivel-david-copperfield-000138
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I intend to be her godmother , and I beg you 'll call her Betsey Trotwood Copperfield .
+I	O
+intend	O
+to	O
+be	O
+her	O
+godmother	O
+,	O
+and	O
+I	O
+beg	O
+you	O
+'ll	O
+call	O
+her	O
+Betsey	B-CHARACTER
+Trotwood	I-CHARACTER
+Copperfield	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000139
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There must be no mistakes in life with THIS Betsey Trotwood .
+There	O
+must	O
+be	O
+no	O
+mistakes	O
+in	O
+life	O
+with	O
+THIS	O
+Betsey	B-CHARACTER
+Trotwood	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000140
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There must be no trifling with HER affections , poor dear .
+There	O
+must	O
+be	O
+no	O
+trifling	O
+with	O
+HER	O
+affections	O
+,	O
+poor	O
+dear	O
+.	O
+
+# id = conivel-david-copperfield-000141
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She must be well brought up , and well guarded from reposing any foolish confidences where they are not deserved .
+She	O
+must	O
+be	O
+well	O
+brought	O
+up	O
+,	O
+and	O
+well	O
+guarded	O
+from	O
+reposing	O
+any	O
+foolish	O
+confidences	O
+where	O
+they	O
+are	O
+not	O
+deserved	O
+.	O
+
+# id = conivel-david-copperfield-000142
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I must make that MY care . ''
+I	O
+must	O
+make	O
+that	O
+MY	O
+care	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000143
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was a twitch of Miss Betsey 's head , after each of these sentences , as if her own old wrongs were working within her , and she repressed any plainer reference to them by strong constraint .
+There	O
+was	O
+a	O
+twitch	O
+of	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+'s	O
+head	O
+,	O
+after	O
+each	O
+of	O
+these	O
+sentences	O
+,	O
+as	O
+if	O
+her	O
+own	O
+old	O
+wrongs	O
+were	O
+working	O
+within	O
+her	O
+,	O
+and	O
+she	O
+repressed	O
+any	O
+plainer	O
+reference	O
+to	O
+them	O
+by	O
+strong	O
+constraint	O
+.	O
+
+# id = conivel-david-copperfield-000144
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So my mother suspected , at least , as she observed her by the low glimmer of the fire : too much scared by Miss Betsey , too uneasy in herself , and too subdued and bewildered altogether , to observe anything very clearly , or to know what to say .
+So	O
+my	O
+mother	O
+suspected	O
+,	O
+at	O
+least	O
+,	O
+as	O
+she	O
+observed	O
+her	O
+by	O
+the	O
+low	O
+glimmer	O
+of	O
+the	O
+fire	O
+:	O
+too	O
+much	O
+scared	O
+by	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+,	O
+too	O
+uneasy	O
+in	O
+herself	O
+,	O
+and	O
+too	O
+subdued	O
+and	O
+bewildered	O
+altogether	O
+,	O
+to	O
+observe	O
+anything	O
+very	O
+clearly	O
+,	O
+or	O
+to	O
+know	O
+what	O
+to	O
+say	O
+.	O
+
+# id = conivel-david-copperfield-000145
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And was David good to you , child ? ''
+``	O
+And	O
+was	O
+David	B-CHARACTER
+good	O
+to	O
+you	O
+,	O
+child	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000146
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = asked Miss Betsey , when she had been silent for a little while , and these motions of her head had gradually ceased .
+asked	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+,	O
+when	O
+she	O
+had	O
+been	O
+silent	O
+for	O
+a	O
+little	O
+while	O
+,	O
+and	O
+these	O
+motions	O
+of	O
+her	O
+head	O
+had	O
+gradually	O
+ceased	O
+.	O
+
+# id = conivel-david-copperfield-000147
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Were you comfortable together ? ''
+``	O
+Were	O
+you	O
+comfortable	O
+together	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000148
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We were very happy , ''
+``	O
+We	O
+were	O
+very	O
+happy	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000149
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said my mother .
+said	O
+my	O
+mother	O
+.	O
+
+# id = conivel-david-copperfield-000150
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Mr. Copperfield was only too good to me . ''
+``	O
+Mr.	B-CHARACTER
+Copperfield	I-CHARACTER
+was	O
+only	O
+too	O
+good	O
+to	O
+me	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000151
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What , he spoilt you , I suppose ? ''
+``	O
+What	O
+,	O
+he	O
+spoilt	O
+you	O
+,	O
+I	O
+suppose	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000152
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = returned Miss Betsey .
+returned	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000153
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` For being quite alone and dependent on myself in this rough world again , yes , I fear he did indeed , ''
+``	O
+For	O
+being	O
+quite	O
+alone	O
+and	O
+dependent	O
+on	O
+myself	O
+in	O
+this	O
+rough	O
+world	O
+again	O
+,	O
+yes	O
+,	O
+I	O
+fear	O
+he	O
+did	O
+indeed	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000154
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = sobbed my mother .
+sobbed	O
+my	O
+mother	O
+.	O
+
+# id = conivel-david-copperfield-000155
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well !
+``	O
+Well	O
+!	O
+
+# id = conivel-david-copperfield-000156
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Do n't cry ! ''
+Do	O
+n't	O
+cry	O
+!	O
+''	O
+
+# id = conivel-david-copperfield-000157
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Betsey .
+said	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000158
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You were not equally matched , child -- if any two people can be equally matched -- and so I asked the question .
+``	O
+You	O
+were	O
+not	O
+equally	O
+matched	O
+,	O
+child	O
+--	O
+if	O
+any	O
+two	O
+people	O
+can	O
+be	O
+equally	O
+matched	O
+--	O
+and	O
+so	O
+I	O
+asked	O
+the	O
+question	O
+.	O
+
+# id = conivel-david-copperfield-000159
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You were an orphan , were n't you ? ''
+You	O
+were	O
+an	O
+orphan	O
+,	O
+were	O
+n't	O
+you	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000160
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes . ''
+``	O
+Yes	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000161
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And a governess ? ''
+``	O
+And	O
+a	O
+governess	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000162
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I was nursery-governess in a family where Mr. Copperfield came to visit .
+``	O
+I	O
+was	O
+nursery-governess	O
+in	O
+a	O
+family	O
+where	O
+Mr.	B-CHARACTER
+Copperfield	I-CHARACTER
+came	O
+to	O
+visit	O
+.	O
+
+# id = conivel-david-copperfield-000163
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Copperfield was very kind to me , and took a great deal of notice of me , and paid me a good deal of attention , and at last proposed to me .
+Mr.	B-CHARACTER
+Copperfield	I-CHARACTER
+was	O
+very	O
+kind	O
+to	O
+me	O
+,	O
+and	O
+took	O
+a	O
+great	O
+deal	O
+of	O
+notice	O
+of	O
+me	O
+,	O
+and	O
+paid	O
+me	O
+a	O
+good	O
+deal	O
+of	O
+attention	O
+,	O
+and	O
+at	O
+last	O
+proposed	O
+to	O
+me	O
+.	O
+
+# id = conivel-david-copperfield-000164
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And I accepted him .
+And	O
+I	O
+accepted	O
+him	O
+.	O
+
+# id = conivel-david-copperfield-000165
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And so we were married , ''
+And	O
+so	O
+we	O
+were	O
+married	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000166
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said my mother simply .
+said	O
+my	O
+mother	O
+simply	O
+.	O
+
+# id = conivel-david-copperfield-000167
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ha !
+``	O
+Ha	O
+!	O
+
+# id = conivel-david-copperfield-000168
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Poor Baby ! ''
+Poor	O
+Baby	B-CHARACTER
+!	O
+''	O
+
+# id = conivel-david-copperfield-000169
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = mused Miss Betsey , with her frown still bent upon the fire .
+mused	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+,	O
+with	O
+her	O
+frown	O
+still	O
+bent	O
+upon	O
+the	O
+fire	O
+.	O
+
+# id = conivel-david-copperfield-000170
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do you know anything ? ''
+``	O
+Do	O
+you	O
+know	O
+anything	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000171
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I beg your pardon , ma'am , ''
+``	O
+I	O
+beg	O
+your	O
+pardon	O
+,	O
+ma'am	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000172
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = faltered my mother .
+faltered	O
+my	O
+mother	O
+.	O
+
+# id = conivel-david-copperfield-000173
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` About keeping house , for instance , ''
+``	O
+About	O
+keeping	O
+house	O
+,	O
+for	O
+instance	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000174
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Betsey .
+said	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000175
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Not much , I fear , ''
+``	O
+Not	O
+much	O
+,	O
+I	O
+fear	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000176
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = returned my mother .
+returned	O
+my	O
+mother	O
+.	O
+
+# id = conivel-david-copperfield-000177
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Not so much as I could wish .
+``	O
+Not	O
+so	O
+much	O
+as	O
+I	O
+could	O
+wish	O
+.	O
+
+# id = conivel-david-copperfield-000178
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But Mr. Copperfield was teaching me -- ''
+But	O
+Mr.	B-CHARACTER
+Copperfield	I-CHARACTER
+was	O
+teaching	O
+me	O
+--	O
+''	O
+
+# id = conivel-david-copperfield-000179
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = [ `` Much he knew about it himself ! ''
+[	O
+``	O
+Much	O
+he	O
+knew	O
+about	O
+it	O
+himself	O
+!	O
+''	O
+
+# id = conivel-david-copperfield-000180
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ) said Miss Betsey in a parenthesis .
+)	O
+said	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+in	O
+a	O
+parenthesis	O
+.	O
+
+# id = conivel-david-copperfield-000181
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- `` And I hope I should have improved , being very anxious to learn , and he very patient to teach me , if the great misfortune of his death ''
+--	O
+``	O
+And	O
+I	O
+hope	O
+I	O
+should	O
+have	O
+improved	O
+,	O
+being	O
+very	O
+anxious	O
+to	O
+learn	O
+,	O
+and	O
+he	O
+very	O
+patient	O
+to	O
+teach	O
+me	O
+,	O
+if	O
+the	O
+great	O
+misfortune	O
+of	O
+his	O
+death	O
+''	O
+
+# id = conivel-david-copperfield-000182
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- my mother broke down again here , and could get no farther .
+--	O
+my	O
+mother	O
+broke	O
+down	O
+again	O
+here	O
+,	O
+and	O
+could	O
+get	O
+no	O
+farther	O
+.	O
+
+# id = conivel-david-copperfield-000183
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , well ! ''
+``	O
+Well	O
+,	O
+well	O
+!	O
+''	O
+
+# id = conivel-david-copperfield-000184
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Betsey .
+said	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000185
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- `` I kept my housekeeping-book regularly , and balanced it with Mr. Copperfield every night , ''
+--	O
+``	O
+I	O
+kept	O
+my	O
+housekeeping-book	O
+regularly	O
+,	O
+and	O
+balanced	O
+it	O
+with	O
+Mr.	B-CHARACTER
+Copperfield	I-CHARACTER
+every	O
+night	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000186
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried my mother in another burst of distress , and breaking down again .
+cried	O
+my	O
+mother	O
+in	O
+another	O
+burst	O
+of	O
+distress	O
+,	O
+and	O
+breaking	O
+down	O
+again	O
+.	O
+
+# id = conivel-david-copperfield-000187
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , well ! ''
+``	O
+Well	O
+,	O
+well	O
+!	O
+''	O
+
+# id = conivel-david-copperfield-000188
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Betsey .
+said	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000189
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do n't cry any more . ''
+``	O
+Do	O
+n't	O
+cry	O
+any	O
+more	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000190
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- `` And I am sure we never had a word of difference respecting it , except when Mr. Copperfield objected to my threes and fives being too much like each other , or to my putting curly tails to my sevens and nines , ''
+--	O
+``	O
+And	O
+I	O
+am	O
+sure	O
+we	O
+never	O
+had	O
+a	O
+word	O
+of	O
+difference	O
+respecting	O
+it	O
+,	O
+except	O
+when	O
+Mr.	B-CHARACTER
+Copperfield	I-CHARACTER
+objected	O
+to	O
+my	O
+threes	O
+and	O
+fives	O
+being	O
+too	O
+much	O
+like	O
+each	O
+other	O
+,	O
+or	O
+to	O
+my	O
+putting	O
+curly	O
+tails	O
+to	O
+my	O
+sevens	O
+and	O
+nines	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000191
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = resumed my mother in another burst , and breaking down again .
+resumed	O
+my	O
+mother	O
+in	O
+another	O
+burst	O
+,	O
+and	O
+breaking	O
+down	O
+again	O
+.	O
+
+# id = conivel-david-copperfield-000192
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 'll make yourself ill , ''
+``	O
+You	O
+'ll	O
+make	O
+yourself	O
+ill	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000193
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Miss Betsey , `` and you know that will not be good either for you or for my god-daughter .
+said	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+,	O
+``	O
+and	O
+you	O
+know	O
+that	O
+will	O
+not	O
+be	O
+good	O
+either	O
+for	O
+you	O
+or	O
+for	O
+my	O
+god-daughter	O
+.	O
+
+# id = conivel-david-copperfield-000194
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Come !
+Come	O
+!	O
+
+# id = conivel-david-copperfield-000195
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You must n't do it ! ''
+You	O
+must	O
+n't	O
+do	O
+it	O
+!	O
+''	O
+
+# id = conivel-david-copperfield-000196
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This argument had some share in quieting my mother , though her increasing indisposition had a larger one .
+This	O
+argument	O
+had	O
+some	O
+share	O
+in	O
+quieting	O
+my	O
+mother	O
+,	O
+though	O
+her	O
+increasing	O
+indisposition	O
+had	O
+a	O
+larger	O
+one	O
+.	O
+
+# id = conivel-david-copperfield-000197
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was an interval of silence , only broken by Miss Betsey 's occasionally ejaculating `` Ha ! ''
+There	O
+was	O
+an	O
+interval	O
+of	O
+silence	O
+,	O
+only	O
+broken	O
+by	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+'s	O
+occasionally	O
+ejaculating	O
+``	O
+Ha	O
+!	O
+''	O
+
+# id = conivel-david-copperfield-000198
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = as she sat with her feet upon the fender .
+as	O
+she	O
+sat	O
+with	O
+her	O
+feet	O
+upon	O
+the	O
+fender	O
+.	O
+
+# id = conivel-david-copperfield-000199
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` David had bought an annuity for himself with his money , I know , ''
+``	O
+David	B-CHARACTER
+had	O
+bought	O
+an	O
+annuity	O
+for	O
+himself	O
+with	O
+his	O
+money	O
+,	O
+I	O
+know	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000200
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said she , by and by .
+said	O
+she	O
+,	O
+by	O
+and	O
+by	O
+.	O
+
+# id = conivel-david-copperfield-000201
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What did he do for you ? ''
+``	O
+What	O
+did	O
+he	O
+do	O
+for	O
+you	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000202
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Mr. Copperfield , ''
+``	O
+Mr.	B-CHARACTER
+Copperfield	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-david-copperfield-000203
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said my mother , answering with some difficulty , `` was so considerate and good as to secure the reversion of a part of it to me . ''
+said	O
+my	O
+mother	O
+,	O
+answering	O
+with	O
+some	O
+difficulty	O
+,	O
+``	O
+was	O
+so	O
+considerate	O
+and	O
+good	O
+as	O
+to	O
+secure	O
+the	O
+reversion	O
+of	O
+a	O
+part	O
+of	O
+it	O
+to	O
+me	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000204
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How much ? ''
+``	O
+How	O
+much	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000205
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = asked Miss Betsey .
+asked	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000206
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A hundred and five pounds a year , ''
+``	O
+A	O
+hundred	O
+and	O
+five	O
+pounds	O
+a	O
+year	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000207
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said my mother .
+said	O
+my	O
+mother	O
+.	O
+
+# id = conivel-david-copperfield-000208
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He might have done worse , ''
+``	O
+He	O
+might	O
+have	O
+done	O
+worse	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000209
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said my aunt .
+said	O
+my	O
+aunt	O
+.	O
+
+# id = conivel-david-copperfield-000210
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The word was appropriate to the moment .
+The	O
+word	O
+was	O
+appropriate	O
+to	O
+the	O
+moment	O
+.	O
+
+# id = conivel-david-copperfield-000211
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My mother was so much worse that Peggotty , coming in with the teaboard and candles , and seeing at a glance how ill she was , -- as Miss Betsey might have done sooner if there had been light enough , -- conveyed her upstairs to her own room with all speed ; and immediately dispatched Ham Peggotty , her nephew , who had been for some days past secreted in the house , unknown to my mother , as a special messenger in case of emergency , to fetch the nurse and doctor .
+My	O
+mother	O
+was	O
+so	O
+much	O
+worse	O
+that	O
+Peggotty	B-CHARACTER
+,	O
+coming	O
+in	O
+with	O
+the	O
+teaboard	O
+and	O
+candles	O
+,	O
+and	O
+seeing	O
+at	O
+a	O
+glance	O
+how	O
+ill	O
+she	O
+was	O
+,	O
+--	O
+as	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+might	O
+have	O
+done	O
+sooner	O
+if	O
+there	O
+had	O
+been	O
+light	O
+enough	O
+,	O
+--	O
+conveyed	O
+her	O
+upstairs	O
+to	O
+her	O
+own	O
+room	O
+with	O
+all	O
+speed	O
+;	O
+and	O
+immediately	O
+dispatched	O
+Ham	B-CHARACTER
+Peggotty	I-CHARACTER
+,	O
+her	O
+nephew	O
+,	O
+who	O
+had	O
+been	O
+for	O
+some	O
+days	O
+past	O
+secreted	O
+in	O
+the	O
+house	O
+,	O
+unknown	O
+to	O
+my	O
+mother	O
+,	O
+as	O
+a	O
+special	O
+messenger	O
+in	O
+case	O
+of	O
+emergency	O
+,	O
+to	O
+fetch	O
+the	O
+nurse	O
+and	O
+doctor	O
+.	O
+
+# id = conivel-david-copperfield-000212
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Those allied powers were considerably astonished , when they arrived within a few minutes of each other , to find an unknown lady of portentous appearance , sitting before the fire , with her bonnet tied over her left arm , stopping her ears with jewellers ' cotton .
+Those	O
+allied	O
+powers	O
+were	O
+considerably	O
+astonished	O
+,	O
+when	O
+they	O
+arrived	O
+within	O
+a	O
+few	O
+minutes	O
+of	O
+each	O
+other	O
+,	O
+to	O
+find	O
+an	O
+unknown	O
+lady	O
+of	O
+portentous	O
+appearance	O
+,	O
+sitting	O
+before	O
+the	O
+fire	O
+,	O
+with	O
+her	O
+bonnet	O
+tied	O
+over	O
+her	O
+left	O
+arm	O
+,	O
+stopping	O
+her	O
+ears	O
+with	O
+jewellers	O
+'	O
+cotton	O
+.	O
+
+# id = conivel-david-copperfield-000213
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Peggotty knowing nothing about her , and my mother saying nothing about her , she was quite a mystery in the parlour ; and the fact of her having a magazine of jewellers ' cotton in her pocket , and sticking the article in her ears in that way , did not detract from the solemnity of her presence .
+Peggotty	B-CHARACTER
+knowing	O
+nothing	O
+about	O
+her	O
+,	O
+and	O
+my	O
+mother	O
+saying	O
+nothing	O
+about	O
+her	O
+,	O
+she	O
+was	O
+quite	O
+a	O
+mystery	O
+in	O
+the	O
+parlour	O
+;	O
+and	O
+the	O
+fact	O
+of	O
+her	O
+having	O
+a	O
+magazine	O
+of	O
+jewellers	O
+'	O
+cotton	O
+in	O
+her	O
+pocket	O
+,	O
+and	O
+sticking	O
+the	O
+article	O
+in	O
+her	O
+ears	O
+in	O
+that	O
+way	O
+,	O
+did	O
+not	O
+detract	O
+from	O
+the	O
+solemnity	O
+of	O
+her	O
+presence	O
+.	O
+
+# id = conivel-david-copperfield-000214
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The doctor having been upstairs and come down again , and having satisfied himself , I suppose , that there was a probability of this unknown lady and himself having to sit there , face to face , for some hours , laid himself out to be polite and social .
+The	O
+doctor	O
+having	O
+been	O
+upstairs	O
+and	O
+come	O
+down	O
+again	O
+,	O
+and	O
+having	O
+satisfied	O
+himself	O
+,	O
+I	O
+suppose	O
+,	O
+that	O
+there	O
+was	O
+a	O
+probability	O
+of	O
+this	O
+unknown	O
+lady	O
+and	O
+himself	O
+having	O
+to	O
+sit	O
+there	O
+,	O
+face	O
+to	O
+face	O
+,	O
+for	O
+some	O
+hours	O
+,	O
+laid	O
+himself	O
+out	O
+to	O
+be	O
+polite	O
+and	O
+social	O
+.	O
+
+# id = conivel-david-copperfield-000215
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was the meekest of his sex , the mildest of little men .
+He	O
+was	O
+the	O
+meekest	O
+of	O
+his	O
+sex	O
+,	O
+the	O
+mildest	O
+of	O
+little	O
+men	O
+.	O
+
+# id = conivel-david-copperfield-000216
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He sidled in and out of a room , to take up the less space .
+He	O
+sidled	O
+in	O
+and	O
+out	O
+of	O
+a	O
+room	O
+,	O
+to	O
+take	O
+up	O
+the	O
+less	O
+space	O
+.	O
+
+# id = conivel-david-copperfield-000217
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He walked as softly as the Ghost in Hamlet , and more slowly .
+He	O
+walked	O
+as	O
+softly	O
+as	O
+the	O
+Ghost	B-CHARACTER
+in	O
+Hamlet	O
+,	O
+and	O
+more	O
+slowly	O
+.	O
+
+# id = conivel-david-copperfield-000218
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He carried his head on one side , partly in modest depreciation of himself , partly in modest propitiation of everybody else .
+He	O
+carried	O
+his	O
+head	O
+on	O
+one	O
+side	O
+,	O
+partly	O
+in	O
+modest	O
+depreciation	O
+of	O
+himself	O
+,	O
+partly	O
+in	O
+modest	O
+propitiation	O
+of	O
+everybody	O
+else	O
+.	O
+
+# id = conivel-david-copperfield-000219
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It is nothing to say that he had n't a word to throw at a dog .
+It	O
+is	O
+nothing	O
+to	O
+say	O
+that	O
+he	O
+had	O
+n't	O
+a	O
+word	O
+to	O
+throw	O
+at	O
+a	O
+dog	O
+.	O
+
+# id = conivel-david-copperfield-000220
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He could n't have thrown a word at a mad dog .
+He	O
+could	O
+n't	O
+have	O
+thrown	O
+a	O
+word	O
+at	O
+a	O
+mad	O
+dog	O
+.	O
+
+# id = conivel-david-copperfield-000221
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He might have offered him one gently , or half a one , or a fragment of one ; for he spoke as slowly as he walked ; but he would n't have been rude to him , and he could n't have been quick with him , for any earthly consideration .
+He	O
+might	O
+have	O
+offered	O
+him	O
+one	O
+gently	O
+,	O
+or	O
+half	O
+a	O
+one	O
+,	O
+or	O
+a	O
+fragment	O
+of	O
+one	O
+;	O
+for	O
+he	O
+spoke	O
+as	O
+slowly	O
+as	O
+he	O
+walked	O
+;	O
+but	O
+he	O
+would	O
+n't	O
+have	O
+been	O
+rude	O
+to	O
+him	O
+,	O
+and	O
+he	O
+could	O
+n't	O
+have	O
+been	O
+quick	O
+with	O
+him	O
+,	O
+for	O
+any	O
+earthly	O
+consideration	O
+.	O
+
+# id = conivel-david-copperfield-000222
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Chillip , looking mildly at my aunt with his head on one side , and making her a little bow , said , in allusion to the jewellers ' cotton , as he softly touched his left ear : `` Some local irritation , ma'am ? ''
+Mr.	B-CHARACTER
+Chillip	I-CHARACTER
+,	O
+looking	O
+mildly	O
+at	O
+my	O
+aunt	O
+with	O
+his	O
+head	O
+on	O
+one	O
+side	O
+,	O
+and	O
+making	O
+her	O
+a	O
+little	O
+bow	O
+,	O
+said	O
+,	O
+in	O
+allusion	O
+to	O
+the	O
+jewellers	O
+'	O
+cotton	O
+,	O
+as	O
+he	O
+softly	O
+touched	O
+his	O
+left	O
+ear	O
+:	O
+``	O
+Some	O
+local	O
+irritation	O
+,	O
+ma'am	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000223
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What ! ''
+``	O
+What	O
+!	O
+''	O
+
+# id = conivel-david-copperfield-000224
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = replied my aunt , pulling the cotton out of one ear like a cork .
+replied	O
+my	O
+aunt	O
+,	O
+pulling	O
+the	O
+cotton	O
+out	O
+of	O
+one	O
+ear	O
+like	O
+a	O
+cork	O
+.	O
+
+# id = conivel-david-copperfield-000225
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Chillip was so alarmed by her abruptness -- as he told my mother afterwards -- that it was a mercy he did n't lose his presence of mind .
+Mr.	B-CHARACTER
+Chillip	I-CHARACTER
+was	O
+so	O
+alarmed	O
+by	O
+her	O
+abruptness	O
+--	O
+as	O
+he	O
+told	O
+my	O
+mother	O
+afterwards	O
+--	O
+that	O
+it	O
+was	O
+a	O
+mercy	O
+he	O
+did	O
+n't	O
+lose	O
+his	O
+presence	O
+of	O
+mind	O
+.	O
+
+# id = conivel-david-copperfield-000226
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But he repeated sweetly : `` Some local irritation , ma'am ? ''
+But	O
+he	O
+repeated	O
+sweetly	O
+:	O
+``	O
+Some	O
+local	O
+irritation	O
+,	O
+ma'am	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000227
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Nonsense ! ''
+``	O
+Nonsense	O
+!	O
+''	O
+
+# id = conivel-david-copperfield-000228
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = replied my aunt , and corked herself again , at one blow .
+replied	O
+my	O
+aunt	O
+,	O
+and	O
+corked	O
+herself	O
+again	O
+,	O
+at	O
+one	O
+blow	O
+.	O
+
+# id = conivel-david-copperfield-000229
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Chillip could do nothing after this , but sit and look at her feebly , as she sat and looked at the fire , until he was called upstairs again .
+Mr.	B-CHARACTER
+Chillip	I-CHARACTER
+could	O
+do	O
+nothing	O
+after	O
+this	O
+,	O
+but	O
+sit	O
+and	O
+look	O
+at	O
+her	O
+feebly	O
+,	O
+as	O
+she	O
+sat	O
+and	O
+looked	O
+at	O
+the	O
+fire	O
+,	O
+until	O
+he	O
+was	O
+called	O
+upstairs	O
+again	O
+.	O
+
+# id = conivel-david-copperfield-000230
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = After some quarter of an hour 's absence , he returned .
+After	O
+some	O
+quarter	O
+of	O
+an	O
+hour	O
+'s	O
+absence	O
+,	O
+he	O
+returned	O
+.	O
+
+# id = conivel-david-copperfield-000231
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well ? ''
+``	O
+Well	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000232
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said my aunt , taking the cotton out of the ear nearest to him .
+said	O
+my	O
+aunt	O
+,	O
+taking	O
+the	O
+cotton	O
+out	O
+of	O
+the	O
+ear	O
+nearest	O
+to	O
+him	O
+.	O
+
+# id = conivel-david-copperfield-000233
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , ma'am , ''
+``	O
+Well	O
+,	O
+ma'am	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000234
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = returned Mr. Chillip , `` we are -- we are progressing slowly , ma'am . ''
+returned	O
+Mr.	B-CHARACTER
+Chillip	I-CHARACTER
+,	O
+``	O
+we	O
+are	O
+--	O
+we	O
+are	O
+progressing	O
+slowly	O
+,	O
+ma'am	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000235
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ba -- a -- ah ! ''
+``	O
+Ba	O
+--	O
+a	O
+--	O
+ah	O
+!	O
+''	O
+
+# id = conivel-david-copperfield-000236
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said my aunt , with a perfect shake on the contemptuous interjection .
+said	O
+my	O
+aunt	O
+,	O
+with	O
+a	O
+perfect	O
+shake	O
+on	O
+the	O
+contemptuous	O
+interjection	O
+.	O
+
+# id = conivel-david-copperfield-000237
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And corked herself as before .
+And	O
+corked	O
+herself	O
+as	O
+before	O
+.	O
+
+# id = conivel-david-copperfield-000238
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Really -- really -- as Mr. Chillip told my mother , he was almost shocked ; speaking in a professional point of view alone , he was almost shocked .
+Really	O
+--	O
+really	O
+--	O
+as	O
+Mr.	B-CHARACTER
+Chillip	I-CHARACTER
+told	O
+my	O
+mother	O
+,	O
+he	O
+was	O
+almost	O
+shocked	O
+;	O
+speaking	O
+in	O
+a	O
+professional	O
+point	O
+of	O
+view	O
+alone	O
+,	O
+he	O
+was	O
+almost	O
+shocked	O
+.	O
+
+# id = conivel-david-copperfield-000239
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But he sat and looked at her , notwithstanding , for nearly two hours , as she sat looking at the fire , until he was again called out .
+But	O
+he	O
+sat	O
+and	O
+looked	O
+at	O
+her	O
+,	O
+notwithstanding	O
+,	O
+for	O
+nearly	O
+two	O
+hours	O
+,	O
+as	O
+she	O
+sat	O
+looking	O
+at	O
+the	O
+fire	O
+,	O
+until	O
+he	O
+was	O
+again	O
+called	O
+out	O
+.	O
+
+# id = conivel-david-copperfield-000240
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = After another absence , he again returned .
+After	O
+another	O
+absence	O
+,	O
+he	O
+again	O
+returned	O
+.	O
+
+# id = conivel-david-copperfield-000241
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well ? ''
+``	O
+Well	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000242
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said my aunt , taking out the cotton on that side again .
+said	O
+my	O
+aunt	O
+,	O
+taking	O
+out	O
+the	O
+cotton	O
+on	O
+that	O
+side	O
+again	O
+.	O
+
+# id = conivel-david-copperfield-000243
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , ma'am , ''
+``	O
+Well	O
+,	O
+ma'am	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000244
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = returned Mr. Chillip , `` we are -- we are progressing slowly , ma'am . ''
+returned	O
+Mr.	B-CHARACTER
+Chillip	I-CHARACTER
+,	O
+``	O
+we	O
+are	O
+--	O
+we	O
+are	O
+progressing	O
+slowly	O
+,	O
+ma'am	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000245
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ya -- a -- ah ! ''
+``	O
+Ya	O
+--	O
+a	O
+--	O
+ah	O
+!	O
+''	O
+
+# id = conivel-david-copperfield-000246
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said my aunt .
+said	O
+my	O
+aunt	O
+.	O
+
+# id = conivel-david-copperfield-000247
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = With such a snarl at him , that Mr. Chillip absolutely could not bear it .
+With	O
+such	O
+a	O
+snarl	O
+at	O
+him	O
+,	O
+that	O
+Mr.	B-CHARACTER
+Chillip	I-CHARACTER
+absolutely	O
+could	O
+not	O
+bear	O
+it	O
+.	O
+
+# id = conivel-david-copperfield-000248
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was really calculated to break his spirit , he said afterwards .
+It	O
+was	O
+really	O
+calculated	O
+to	O
+break	O
+his	O
+spirit	O
+,	O
+he	O
+said	O
+afterwards	O
+.	O
+
+# id = conivel-david-copperfield-000249
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He preferred to go and sit upon the stairs , in the dark and a strong draught , until he was again sent for .
+He	O
+preferred	O
+to	O
+go	O
+and	O
+sit	O
+upon	O
+the	O
+stairs	O
+,	O
+in	O
+the	O
+dark	O
+and	O
+a	O
+strong	O
+draught	O
+,	O
+until	O
+he	O
+was	O
+again	O
+sent	O
+for	O
+.	O
+
+# id = conivel-david-copperfield-000250
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ham Peggotty , who went to the national school , and was a very dragon at his catechism , and who may therefore be regarded as a credible witness , reported next day , that happening to peep in at the parlour-door an hour after this , he was instantly descried by Miss Betsey , then walking to and fro in a state of agitation , and pounced upon before he could make his escape .
+Ham	B-CHARACTER
+Peggotty	I-CHARACTER
+,	O
+who	O
+went	O
+to	O
+the	O
+national	O
+school	O
+,	O
+and	O
+was	O
+a	O
+very	O
+dragon	O
+at	O
+his	O
+catechism	O
+,	O
+and	O
+who	O
+may	O
+therefore	O
+be	O
+regarded	O
+as	O
+a	O
+credible	O
+witness	O
+,	O
+reported	O
+next	O
+day	O
+,	O
+that	O
+happening	O
+to	O
+peep	O
+in	O
+at	O
+the	O
+parlour-door	O
+an	O
+hour	O
+after	O
+this	O
+,	O
+he	O
+was	O
+instantly	O
+descried	O
+by	O
+Miss	B-CHARACTER
+Betsey	I-CHARACTER
+,	O
+then	O
+walking	O
+to	O
+and	O
+fro	O
+in	O
+a	O
+state	O
+of	O
+agitation	O
+,	O
+and	O
+pounced	O
+upon	O
+before	O
+he	O
+could	O
+make	O
+his	O
+escape	O
+.	O
+
+# id = conivel-david-copperfield-000251
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That there were now occasional sounds of feet and voices overhead which he inferred the cotton did not exclude , from the circumstance of his evidently being clutched by the lady as a victim on whom to expend her superabundant agitation when the sounds were loudest .
+That	O
+there	O
+were	O
+now	O
+occasional	O
+sounds	O
+of	O
+feet	O
+and	O
+voices	O
+overhead	O
+which	O
+he	O
+inferred	O
+the	O
+cotton	O
+did	O
+not	O
+exclude	O
+,	O
+from	O
+the	O
+circumstance	O
+of	O
+his	O
+evidently	O
+being	O
+clutched	O
+by	O
+the	O
+lady	O
+as	O
+a	O
+victim	O
+on	O
+whom	O
+to	O
+expend	O
+her	O
+superabundant	O
+agitation	O
+when	O
+the	O
+sounds	O
+were	O
+loudest	O
+.	O
+
+# id = conivel-david-copperfield-000252
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That , marching him constantly up and down by the collar ( as if he had been taking too much laudanum ) , she , at those times , shook him , rumpled his hair , made light of his linen , stopped his ears as if she confounded them with her own , and otherwise tousled and maltreated him .
+That	O
+,	O
+marching	O
+him	O
+constantly	O
+up	O
+and	O
+down	O
+by	O
+the	O
+collar	O
+(	O
+as	O
+if	O
+he	O
+had	O
+been	O
+taking	O
+too	O
+much	O
+laudanum	O
+)	O
+,	O
+she	O
+,	O
+at	O
+those	O
+times	O
+,	O
+shook	O
+him	O
+,	O
+rumpled	O
+his	O
+hair	O
+,	O
+made	O
+light	O
+of	O
+his	O
+linen	O
+,	O
+stopped	O
+his	O
+ears	O
+as	O
+if	O
+she	O
+confounded	O
+them	O
+with	O
+her	O
+own	O
+,	O
+and	O
+otherwise	O
+tousled	O
+and	O
+maltreated	O
+him	O
+.	O
+
+# id = conivel-david-copperfield-000253
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This was in part confirmed by his aunt , who saw him at half past twelve o'clock , soon after his release , and affirmed that he was then as red as I was .
+This	O
+was	O
+in	O
+part	O
+confirmed	O
+by	O
+his	O
+aunt	O
+,	O
+who	O
+saw	O
+him	O
+at	O
+half	O
+past	O
+twelve	O
+o'clock	O
+,	O
+soon	O
+after	O
+his	O
+release	O
+,	O
+and	O
+affirmed	O
+that	O
+he	O
+was	O
+then	O
+as	O
+red	O
+as	O
+I	O
+was	O
+.	O
+
+# id = conivel-david-copperfield-000254
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The mild Mr. Chillip could not possibly bear malice at such a time , if at any time .
+The	O
+mild	O
+Mr.	B-CHARACTER
+Chillip	I-CHARACTER
+could	O
+not	O
+possibly	O
+bear	O
+malice	O
+at	O
+such	O
+a	O
+time	O
+,	O
+if	O
+at	O
+any	O
+time	O
+.	O
+
+# id = conivel-david-copperfield-000255
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He sidled into the parlour as soon as he was at liberty , and said to my aunt in his meekest manner : `` Well , ma'am , I am happy to congratulate you . ''
+He	O
+sidled	O
+into	O
+the	O
+parlour	O
+as	O
+soon	O
+as	O
+he	O
+was	O
+at	O
+liberty	O
+,	O
+and	O
+said	O
+to	O
+my	O
+aunt	O
+in	O
+his	O
+meekest	O
+manner	O
+:	O
+``	O
+Well	O
+,	O
+ma'am	O
+,	O
+I	O
+am	O
+happy	O
+to	O
+congratulate	O
+you	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000256
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What upon ? ''
+``	O
+What	O
+upon	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000257
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said my aunt , sharply .
+said	O
+my	O
+aunt	O
+,	O
+sharply	O
+.	O
+
+# id = conivel-david-copperfield-000258
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Chillip was fluttered again , by the extreme severity of my aunt 's manner ; so he made her a little bow and gave her a little smile , to mollify her .
+Mr.	B-CHARACTER
+Chillip	I-CHARACTER
+was	O
+fluttered	O
+again	O
+,	O
+by	O
+the	O
+extreme	O
+severity	O
+of	O
+my	O
+aunt	O
+'s	O
+manner	O
+;	O
+so	O
+he	O
+made	O
+her	O
+a	O
+little	O
+bow	O
+and	O
+gave	O
+her	O
+a	O
+little	O
+smile	O
+,	O
+to	O
+mollify	O
+her	O
+.	O
+
+# id = conivel-david-copperfield-000259
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Mercy on the man , what 's he doing ! ''
+``	O
+Mercy	O
+on	O
+the	O
+man	O
+,	O
+what	O
+'s	O
+he	O
+doing	O
+!	O
+''	O
+
+# id = conivel-david-copperfield-000260
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried my aunt , impatiently .
+cried	O
+my	O
+aunt	O
+,	O
+impatiently	O
+.	O
+
+# id = conivel-david-copperfield-000261
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ca n't he speak ? ''
+``	O
+Ca	O
+n't	O
+he	O
+speak	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000262
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Be calm , my dear ma'am , ''
+``	O
+Be	O
+calm	O
+,	O
+my	O
+dear	O
+ma'am	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000263
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Chillip , in his softest accents .
+said	O
+Mr.	B-CHARACTER
+Chillip	I-CHARACTER
+,	O
+in	O
+his	O
+softest	O
+accents	O
+.	O
+
+# id = conivel-david-copperfield-000264
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There is no longer any occasion for uneasiness , ma'am .
+``	O
+There	O
+is	O
+no	O
+longer	O
+any	O
+occasion	O
+for	O
+uneasiness	O
+,	O
+ma'am	O
+.	O
+
+# id = conivel-david-copperfield-000265
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Be calm . ''
+Be	O
+calm	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000266
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It has since been considered almost a miracle that my aunt did n't shake him , and shake what he had to say , out of him .
+It	O
+has	O
+since	O
+been	O
+considered	O
+almost	O
+a	O
+miracle	O
+that	O
+my	O
+aunt	O
+did	O
+n't	O
+shake	O
+him	O
+,	O
+and	O
+shake	O
+what	O
+he	O
+had	O
+to	O
+say	O
+,	O
+out	O
+of	O
+him	O
+.	O
+
+# id = conivel-david-copperfield-000267
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She only shook her own head at him , but in a way that made him quail .
+She	O
+only	O
+shook	O
+her	O
+own	O
+head	O
+at	O
+him	O
+,	O
+but	O
+in	O
+a	O
+way	O
+that	O
+made	O
+him	O
+quail	O
+.	O
+
+# id = conivel-david-copperfield-000268
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , ma'am , ''
+``	O
+Well	O
+,	O
+ma'am	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000269
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = resumed Mr. Chillip , as soon as he had courage , `` I am happy to congratulate you .
+resumed	O
+Mr.	B-CHARACTER
+Chillip	I-CHARACTER
+,	O
+as	O
+soon	O
+as	O
+he	O
+had	O
+courage	O
+,	O
+``	O
+I	O
+am	O
+happy	O
+to	O
+congratulate	O
+you	O
+.	O
+
+# id = conivel-david-copperfield-000270
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All is now over , ma'am , and well over . ''
+All	O
+is	O
+now	O
+over	O
+,	O
+ma'am	O
+,	O
+and	O
+well	O
+over	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000271
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = During the five minutes or so that Mr. Chillip devoted to the delivery of this oration , my aunt eyed him narrowly .
+During	O
+the	O
+five	O
+minutes	O
+or	O
+so	O
+that	O
+Mr.	B-CHARACTER
+Chillip	I-CHARACTER
+devoted	O
+to	O
+the	O
+delivery	O
+of	O
+this	O
+oration	O
+,	O
+my	O
+aunt	O
+eyed	O
+him	O
+narrowly	O
+.	O
+
+# id = conivel-david-copperfield-000272
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How is she ? ''
+``	O
+How	O
+is	O
+she	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000273
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said my aunt , folding her arms with her bonnet still tied on one of them .
+said	O
+my	O
+aunt	O
+,	O
+folding	O
+her	O
+arms	O
+with	O
+her	O
+bonnet	O
+still	O
+tied	O
+on	O
+one	O
+of	O
+them	O
+.	O
+
+# id = conivel-david-copperfield-000274
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , ma'am , she will soon be quite comfortable , I hope , ''
+``	O
+Well	O
+,	O
+ma'am	O
+,	O
+she	O
+will	O
+soon	O
+be	O
+quite	O
+comfortable	O
+,	O
+I	O
+hope	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000275
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = returned Mr. Chillip .
+returned	O
+Mr.	B-CHARACTER
+Chillip	I-CHARACTER
+.	O
+
+# id = conivel-david-copperfield-000276
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Quite as comfortable as we can expect a young mother to be , under these melancholy domestic circumstances .
+``	O
+Quite	O
+as	O
+comfortable	O
+as	O
+we	O
+can	O
+expect	O
+a	O
+young	O
+mother	O
+to	O
+be	O
+,	O
+under	O
+these	O
+melancholy	O
+domestic	O
+circumstances	O
+.	O
+
+# id = conivel-david-copperfield-000277
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There can not be any objection to your seeing her presently , ma'am .
+There	O
+can	O
+not	O
+be	O
+any	O
+objection	O
+to	O
+your	O
+seeing	O
+her	O
+presently	O
+,	O
+ma'am	O
+.	O
+
+# id = conivel-david-copperfield-000278
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It may do her good . ''
+It	O
+may	O
+do	O
+her	O
+good	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000279
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And SHE .
+``	O
+And	O
+SHE	O
+.	O
+
+# id = conivel-david-copperfield-000280
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How is SHE ? ''
+How	O
+is	O
+SHE	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000281
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said my aunt , sharply .
+said	O
+my	O
+aunt	O
+,	O
+sharply	O
+.	O
+
+# id = conivel-david-copperfield-000282
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Chillip laid his head a little more on one side , and looked at my aunt like an amiable bird .
+Mr.	B-CHARACTER
+Chillip	I-CHARACTER
+laid	O
+his	O
+head	O
+a	O
+little	O
+more	O
+on	O
+one	O
+side	O
+,	O
+and	O
+looked	O
+at	O
+my	O
+aunt	O
+like	O
+an	O
+amiable	O
+bird	O
+.	O
+
+# id = conivel-david-copperfield-000283
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The baby , ''
+``	O
+The	O
+baby	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000284
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said my aunt .
+said	O
+my	O
+aunt	O
+.	O
+
+# id = conivel-david-copperfield-000285
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How is she ? ''
+``	O
+How	O
+is	O
+she	O
+?	O
+''	O
+
+# id = conivel-david-copperfield-000286
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ma'am , ''
+``	O
+Ma'am	O
+,	O
+''	O
+
+# id = conivel-david-copperfield-000287
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = returned Mr. Chillip , `` I apprehended you had known .
+returned	O
+Mr.	B-CHARACTER
+Chillip	I-CHARACTER
+,	O
+``	O
+I	O
+apprehended	O
+you	O
+had	O
+known	O
+.	O
+
+# id = conivel-david-copperfield-000288
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's a boy . ''
+It	O
+'s	O
+a	O
+boy	O
+.	O
+''	O
+
+# id = conivel-david-copperfield-000289
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My aunt said never a word , but took her bonnet by the strings , in the manner of a sling , aimed a blow at Mr. Chillip 's head with it , put it on bent , walked out , and never came back .
+My	O
+aunt	O
+said	O
+never	O
+a	O
+word	O
+,	O
+but	O
+took	O
+her	O
+bonnet	O
+by	O
+the	O
+strings	O
+,	O
+in	O
+the	O
+manner	O
+of	O
+a	O
+sling	O
+,	O
+aimed	O
+a	O
+blow	O
+at	O
+Mr.	B-CHARACTER
+Chillip	I-CHARACTER
+'s	O
+head	O
+with	O
+it	O
+,	O
+put	O
+it	O
+on	O
+bent	O
+,	O
+walked	O
+out	O
+,	O
+and	O
+never	O
+came	O
+back	O
+.	O
+
+# id = conivel-david-copperfield-000290
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She vanished like a discontented fairy ; or like one of those supernatural beings , whom it was popularly supposed I was entitled to see ; and never came back any more .
+She	O
+vanished	O
+like	O
+a	O
+discontented	O
+fairy	O
+;	O
+or	O
+like	O
+one	O
+of	O
+those	O
+supernatural	O
+beings	O
+,	O
+whom	O
+it	O
+was	O
+popularly	O
+supposed	O
+I	O
+was	O
+entitled	O
+to	O
+see	O
+;	O
+and	O
+never	O
+came	O
+back	O
+any	O
+more	O
+.	O
+
+# id = conivel-david-copperfield-000291
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No .
+No	O
+.	O
+
+# id = conivel-david-copperfield-000292
+# source = Conivel corrected OWTO literary NER
+# book = David Copperfield
+# source_file = DavidCopperfield.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I lay in my basket , and my mother lay in her bed ; but Betsey Trotwood Copperfield was for ever in the land of dreams and shadows , the tremendous region whence I had so lately travelled ; and the light upon the window of our room shone out upon the earthly bourne of all such travellers , and the mound above the ashes and the dust that once was he , without whom I had never been .
+I	O
+lay	O
+in	O
+my	O
+basket	O
+,	O
+and	O
+my	O
+mother	O
+lay	O
+in	O
+her	O
+bed	O
+;	O
+but	O
+Betsey	B-CHARACTER
+Trotwood	I-CHARACTER
+Copperfield	I-CHARACTER
+was	O
+for	O
+ever	O
+in	O
+the	O
+land	O
+of	O
+dreams	O
+and	O
+shadows	O
+,	O
+the	O
+tremendous	O
+region	O
+whence	O
+I	O
+had	O
+so	O
+lately	O
+travelled	O
+;	O
+and	O
+the	O
+light	O
+upon	O
+the	O
+window	O
+of	O
+our	O
+room	O
+shone	O
+out	O
+upon	O
+the	O
+earthly	O
+bourne	O
+of	O
+all	O
+such	O
+travellers	O
+,	O
+and	O
+the	O
+mound	O
+above	O
+the	O
+ashes	O
+and	O
+the	O
+dust	O
+that	O
+once	O
+was	O
+he	O
+,	O
+without	O
+whom	O
+I	O
+had	O
+never	O
+been	O
+.	O
+

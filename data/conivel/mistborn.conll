@@ -1,0 +1,6712 @@
+# id = conivel-mistborn-000001
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = PART ONE THE SURVIVOR OF HATHSIN I consider myself to be a man of principle .
+PART	O
+ONE	O
+THE	O
+SURVIVOR	O
+OF	O
+HATHSIN	O
+I	O
+consider	O
+myself	O
+to	O
+be	O
+a	O
+man	O
+of	O
+principle	O
+.	O
+
+# id = conivel-mistborn-000002
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But , what man does not ?
+But	O
+,	O
+what	O
+man	O
+does	O
+not	O
+?	O
+
+# id = conivel-mistborn-000003
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Even the cutthroat , I have noticed , considers his actions ` moral ' after a fashion .
+Even	O
+the	O
+cutthroat	O
+,	O
+I	O
+have	O
+noticed	O
+,	O
+considers	O
+his	O
+actions	O
+`	O
+moral	O
+'	O
+after	O
+a	O
+fashion	O
+.	O
+
+# id = conivel-mistborn-000004
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Perhaps another person , reading of my life , would name me a religious tyrant .
+Perhaps	O
+another	O
+person	O
+,	O
+reading	O
+of	O
+my	O
+life	O
+,	O
+would	O
+name	O
+me	O
+a	O
+religious	O
+tyrant	O
+.	O
+
+# id = conivel-mistborn-000005
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He could call me arrogant .
+He	O
+could	O
+call	O
+me	O
+arrogant	O
+.	O
+
+# id = conivel-mistborn-000006
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What is to make that man 's opinion any less valid than my own ?
+What	O
+is	O
+to	O
+make	O
+that	O
+man	O
+'s	O
+opinion	O
+any	O
+less	O
+valid	O
+than	O
+my	O
+own	O
+?	O
+
+# id = conivel-mistborn-000007
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I guess it all comes down to one fact : In the end , I 'm the one with the armies .
+I	O
+guess	O
+it	O
+all	O
+comes	O
+down	O
+to	O
+one	O
+fact	O
+:	O
+In	O
+the	O
+end	O
+,	O
+I	O
+'m	O
+the	O
+one	O
+with	O
+the	O
+armies	O
+.	O
+
+# id = conivel-mistborn-000008
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = 1 ASH FELL FROM THE SKY .
+1	O
+ASH	O
+FELL	O
+FROM	O
+THE	O
+SKY	O
+.	O
+
+# id = conivel-mistborn-000009
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin watched the downy flakes drift through the air .
+Vin	B-CHARACTER
+watched	O
+the	O
+downy	O
+flakes	O
+drift	O
+through	O
+the	O
+air	O
+.	O
+
+# id = conivel-mistborn-000010
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Leisurely .
+Leisurely	O
+.	O
+
+# id = conivel-mistborn-000011
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Careless .
+Careless	O
+.	O
+
+# id = conivel-mistborn-000012
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Free .
+Free	O
+.	O
+
+# id = conivel-mistborn-000013
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The puffs of soot fell like black snowflakes , descending upon the dark city of Luthadel .
+The	O
+puffs	O
+of	O
+soot	O
+fell	O
+like	O
+black	O
+snowflakes	O
+,	O
+descending	O
+upon	O
+the	O
+dark	O
+city	O
+of	O
+Luthadel	B-LOCATION
+.	O
+
+# id = conivel-mistborn-000014
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They drifted in corners , blowing in the breeze and curling in tiny whirlwinds over the cobblestones .
+They	O
+drifted	O
+in	O
+corners	O
+,	O
+blowing	O
+in	O
+the	O
+breeze	O
+and	O
+curling	O
+in	O
+tiny	O
+whirlwinds	O
+over	O
+the	O
+cobblestones	O
+.	O
+
+# id = conivel-mistborn-000015
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They seemed so uncaring .
+They	O
+seemed	O
+so	O
+uncaring	O
+.	O
+
+# id = conivel-mistborn-000016
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What would that be like ?
+What	O
+would	O
+that	O
+be	O
+like	O
+?	O
+
+# id = conivel-mistborn-000017
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin sat quietly in one of the crew 's watch-holes -- a hidden alcove built into the bricks on the side of the safe house .
+Vin	B-CHARACTER
+sat	O
+quietly	O
+in	O
+one	O
+of	O
+the	O
+crew	O
+'s	O
+watch-holes	O
+--	O
+a	O
+hidden	O
+alcove	O
+built	O
+into	O
+the	O
+bricks	O
+on	O
+the	O
+side	O
+of	O
+the	O
+safe	O
+house	O
+.	O
+
+# id = conivel-mistborn-000018
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = From within it , a crewmember could watch the street for signs of danger .
+From	O
+within	O
+it	O
+,	O
+a	O
+crewmember	O
+could	O
+watch	O
+the	O
+street	O
+for	O
+signs	O
+of	O
+danger	O
+.	O
+
+# id = conivel-mistborn-000019
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin was n't on duty ; the watch-hole was simply one of the few places where she could find solitude.And Vin liked solitude .
+Vin	B-CHARACTER
+was	O
+n't	O
+on	O
+duty	O
+;	O
+the	O
+watch-hole	O
+was	O
+simply	O
+one	O
+of	O
+the	O
+few	O
+places	O
+where	O
+she	O
+could	O
+find	O
+solitude.And	O
+Vin	B-CHARACTER
+liked	O
+solitude	O
+.	O
+
+# id = conivel-mistborn-000020
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When you 're alone , no one can betray you .
+When	O
+you	O
+'re	O
+alone	O
+,	O
+no	O
+one	O
+can	O
+betray	O
+you	O
+.	O
+
+# id = conivel-mistborn-000021
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Reen 's words .
+Reen	B-CHARACTER
+'s	O
+words	O
+.	O
+
+# id = conivel-mistborn-000022
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her brother had taught her so many things , then had reinforced them by doing what he 'd always promised he would -- by betraying her himself .
+Her	O
+brother	O
+had	O
+taught	O
+her	O
+so	O
+many	O
+things	O
+,	O
+then	O
+had	O
+reinforced	O
+them	O
+by	O
+doing	O
+what	O
+he	O
+'d	O
+always	O
+promised	O
+he	O
+would	O
+--	O
+by	O
+betraying	O
+her	O
+himself	O
+.	O
+
+# id = conivel-mistborn-000023
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's the only way you 'll learn .
+It	O
+'s	O
+the	O
+only	O
+way	O
+you	O
+'ll	O
+learn	O
+.	O
+
+# id = conivel-mistborn-000024
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Anyone will betray you , Vin .
+Anyone	O
+will	O
+betray	O
+you	O
+,	O
+Vin	B-CHARACTER
+.	O
+
+# id = conivel-mistborn-000025
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Anyone .
+Anyone	O
+.	O
+
+# id = conivel-mistborn-000026
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The ash continued to fall .
+The	O
+ash	O
+continued	O
+to	O
+fall	O
+.	O
+
+# id = conivel-mistborn-000027
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Sometimes , Vin imagined she was like the ash , or the wind , or the mist itself .
+Sometimes	O
+,	O
+Vin	B-CHARACTER
+imagined	O
+she	O
+was	O
+like	O
+the	O
+ash	O
+,	O
+or	O
+the	O
+wind	O
+,	O
+or	O
+the	O
+mist	O
+itself	O
+.	O
+
+# id = conivel-mistborn-000028
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A thing without thought , capable of simply being , not thinking , caring , or hurting .
+A	O
+thing	O
+without	O
+thought	O
+,	O
+capable	O
+of	O
+simply	O
+being	O
+,	O
+not	O
+thinking	O
+,	O
+caring	O
+,	O
+or	O
+hurting	O
+.	O
+
+# id = conivel-mistborn-000029
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then she could be ... free .
+Then	O
+she	O
+could	O
+be	O
+...	O
+free	O
+.	O
+
+# id = conivel-mistborn-000030
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She heard shuffling a short distance away , then the trapdoor at the back of the small chamber snapped open .
+She	O
+heard	O
+shuffling	O
+a	O
+short	O
+distance	O
+away	O
+,	O
+then	O
+the	O
+trapdoor	O
+at	O
+the	O
+back	O
+of	O
+the	O
+small	O
+chamber	O
+snapped	O
+open	O
+.	O
+
+# id = conivel-mistborn-000031
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Vin ! ''
+``	O
+Vin	B-CHARACTER
+!	O
+''	O
+
+# id = conivel-mistborn-000032
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ulef said , sticking his head into the room .
+Ulef	B-CHARACTER
+said	O
+,	O
+sticking	O
+his	O
+head	O
+into	O
+the	O
+room	O
+.	O
+
+# id = conivel-mistborn-000033
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There you are !
+``	O
+There	O
+you	O
+are	O
+!	O
+
+# id = conivel-mistborn-000034
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon 's been searching for you for a half hour . ''
+Camon	B-CHARACTER
+'s	O
+been	O
+searching	O
+for	O
+you	O
+for	O
+a	O
+half	O
+hour	O
+.	O
+''	O
+
+# id = conivel-mistborn-000035
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That 's kind of why I hid in the first place .
+That	O
+'s	O
+kind	O
+of	O
+why	O
+I	O
+hid	O
+in	O
+the	O
+first	O
+place	O
+.	O
+
+# id = conivel-mistborn-000036
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You should get going , ''
+``	O
+You	O
+should	O
+get	O
+going	O
+,	O
+''	O
+
+# id = conivel-mistborn-000037
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ulef said .
+Ulef	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-mistborn-000038
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The job 's almost ready to begin . ''
+``	O
+The	O
+job	O
+'s	O
+almost	O
+ready	O
+to	O
+begin	O
+.	O
+''	O
+
+# id = conivel-mistborn-000039
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ulef was a gangly boy .
+Ulef	B-CHARACTER
+was	O
+a	O
+gangly	O
+boy	O
+.	O
+
+# id = conivel-mistborn-000040
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nice , after his own fashion -- naive , if one who had grown up in the underworld could ever really be called `` naive . ''
+Nice	O
+,	O
+after	O
+his	O
+own	O
+fashion	O
+--	O
+naive	O
+,	O
+if	O
+one	O
+who	O
+had	O
+grown	O
+up	O
+in	O
+the	O
+underworld	O
+could	O
+ever	O
+really	O
+be	O
+called	O
+``	O
+naive	O
+.	O
+''	O
+
+# id = conivel-mistborn-000041
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Of course , that did n't mean he would n't betray her .
+Of	O
+course	O
+,	O
+that	O
+did	O
+n't	O
+mean	O
+he	O
+would	O
+n't	O
+betray	O
+her	O
+.	O
+
+# id = conivel-mistborn-000042
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Betrayal had nothing to do with friendship ; it was a simple fact of survival .
+Betrayal	O
+had	O
+nothing	O
+to	O
+do	O
+with	O
+friendship	O
+;	O
+it	O
+was	O
+a	O
+simple	O
+fact	O
+of	O
+survival	O
+.	O
+
+# id = conivel-mistborn-000043
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Life was harsh on the streets , and if a skaa thief wanted to keep from being caught and executed , he had to be practical .
+Life	O
+was	O
+harsh	O
+on	O
+the	O
+streets	O
+,	O
+and	O
+if	O
+a	O
+skaa	O
+thief	O
+wanted	O
+to	O
+keep	O
+from	O
+being	O
+caught	O
+and	O
+executed	O
+,	O
+he	O
+had	O
+to	O
+be	O
+practical	O
+.	O
+
+# id = conivel-mistborn-000044
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And ruthlessness was the very most practical of emotions .
+And	O
+ruthlessness	O
+was	O
+the	O
+very	O
+most	O
+practical	O
+of	O
+emotions	O
+.	O
+
+# id = conivel-mistborn-000045
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Another of Reen 's sayings .
+Another	O
+of	O
+Reen	B-CHARACTER
+'s	O
+sayings	O
+.	O
+
+# id = conivel-mistborn-000046
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well ? ''
+``	O
+Well	O
+?	O
+''	O
+
+# id = conivel-mistborn-000047
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ulef asked .
+Ulef	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-mistborn-000048
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You should go .
+``	O
+You	O
+should	O
+go	O
+.	O
+
+# id = conivel-mistborn-000049
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon 's mad . ''
+Camon	B-CHARACTER
+'s	O
+mad	O
+.	O
+''	O
+
+# id = conivel-mistborn-000050
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When is he not ?
+When	O
+is	O
+he	O
+not	O
+?	O
+
+# id = conivel-mistborn-000051
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = However , Vin nodded , scrambling out of the cramped -- yet comforting -- confines of the watch-hole .
+However	O
+,	O
+Vin	B-CHARACTER
+nodded	O
+,	O
+scrambling	O
+out	O
+of	O
+the	O
+cramped	O
+--	O
+yet	O
+comforting	O
+--	O
+confines	O
+of	O
+the	O
+watch-hole	O
+.	O
+
+# id = conivel-mistborn-000052
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She brushed past Ulef and hopped out of the trapdoor , moving into a hallway , then a run-down pantry .
+She	O
+brushed	O
+past	O
+Ulef	B-CHARACTER
+and	O
+hopped	O
+out	O
+of	O
+the	O
+trapdoor	O
+,	O
+moving	O
+into	O
+a	O
+hallway	O
+,	O
+then	O
+a	O
+run-down	O
+pantry	O
+.	O
+
+# id = conivel-mistborn-000053
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The room was one of many at the back of the store that served as a front for the safe house .
+The	O
+room	O
+was	O
+one	O
+of	O
+many	O
+at	O
+the	O
+back	O
+of	O
+the	O
+store	O
+that	O
+served	O
+as	O
+a	O
+front	O
+for	O
+the	O
+safe	O
+house	O
+.	O
+
+# id = conivel-mistborn-000054
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The crew 's lair itself was hidden in a tunneled stone cavern beneath the building .
+The	O
+crew	O
+'s	O
+lair	O
+itself	O
+was	O
+hidden	O
+in	O
+a	O
+tunneled	O
+stone	O
+cavern	O
+beneath	O
+the	O
+building	O
+.	O
+
+# id = conivel-mistborn-000055
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She left the building through a back door , Ulef trailing behind her .
+She	O
+left	O
+the	O
+building	O
+through	O
+a	O
+back	O
+door	O
+,	O
+Ulef	B-CHARACTER
+trailing	O
+behind	O
+her	O
+.	O
+
+# id = conivel-mistborn-000056
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The job would happen a few blocks away , in a richer section of town .
+The	O
+job	O
+would	O
+happen	O
+a	O
+few	O
+blocks	O
+away	O
+,	O
+in	O
+a	O
+richer	O
+section	O
+of	O
+town	O
+.	O
+
+# id = conivel-mistborn-000057
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was an intricate job -- one of the most complex Vin had ever seen .
+It	O
+was	O
+an	O
+intricate	O
+job	O
+--	O
+one	O
+of	O
+the	O
+most	O
+complex	O
+Vin	B-CHARACTER
+had	O
+ever	O
+seen	O
+.	O
+
+# id = conivel-mistborn-000058
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Assuming Camon was n't caught , the payoff would be great indeed .
+Assuming	O
+Camon	B-CHARACTER
+was	O
+n't	O
+caught	O
+,	O
+the	O
+payoff	O
+would	O
+be	O
+great	O
+indeed	O
+.	O
+
+# id = conivel-mistborn-000059
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If he was caught ... Well , scamming noblemen and obligators was a very dangerous profession -- but it certainly beat working in the forges or the textile mills .
+If	O
+he	O
+was	O
+caught	O
+...	O
+Well	O
+,	O
+scamming	O
+noblemen	O
+and	O
+obligators	O
+was	O
+a	O
+very	O
+dangerous	O
+profession	O
+--	O
+but	O
+it	O
+certainly	O
+beat	O
+working	O
+in	O
+the	O
+forges	O
+or	O
+the	O
+textile	O
+mills	O
+.	O
+
+# id = conivel-mistborn-000060
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin exited the alleyway , moving out onto a dark , tenement-lined street in one of the city 's many skaa slums .
+Vin	B-CHARACTER
+exited	O
+the	O
+alleyway	O
+,	O
+moving	O
+out	O
+onto	O
+a	O
+dark	O
+,	O
+tenement-lined	O
+street	O
+in	O
+one	O
+of	O
+the	O
+city	O
+'s	O
+many	O
+skaa	O
+slums	O
+.	O
+
+# id = conivel-mistborn-000061
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Skaa too sick to work lay huddled in corners and gutters , ash drifting around them .
+Skaa	O
+too	O
+sick	O
+to	O
+work	O
+lay	O
+huddled	O
+in	O
+corners	O
+and	O
+gutters	O
+,	O
+ash	O
+drifting	O
+around	O
+them	O
+.	O
+
+# id = conivel-mistborn-000062
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin kept her head down and pulled up her cloak 's hood against the still falling flakes .
+Vin	B-CHARACTER
+kept	O
+her	O
+head	O
+down	O
+and	O
+pulled	O
+up	O
+her	O
+cloak	O
+'s	O
+hood	O
+against	O
+the	O
+still	O
+falling	O
+flakes	O
+.	O
+
+# id = conivel-mistborn-000063
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Free .
+Free	O
+.	O
+
+# id = conivel-mistborn-000064
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No , I 'll never be free .
+No	O
+,	O
+I	O
+'ll	O
+never	O
+be	O
+free	O
+.	O
+
+# id = conivel-mistborn-000065
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Reen made certain of that when he left .
+Reen	B-CHARACTER
+made	O
+certain	O
+of	O
+that	O
+when	O
+he	O
+left	O
+.	O
+
+# id = conivel-mistborn-000066
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There you are ! ''
+``	O
+There	O
+you	O
+are	O
+!	O
+''	O
+
+# id = conivel-mistborn-000067
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon lifted a squat , fat finger and jabbed it toward her face .
+Camon	B-CHARACTER
+lifted	O
+a	O
+squat	O
+,	O
+fat	O
+finger	O
+and	O
+jabbed	O
+it	O
+toward	O
+her	O
+face	O
+.	O
+
+# id = conivel-mistborn-000068
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Where were you ? ''
+``	O
+Where	O
+were	O
+you	O
+?	O
+''	O
+
+# id = conivel-mistborn-000069
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin did n't let hatred or rebellion show in her eyes .
+Vin	B-CHARACTER
+did	O
+n't	O
+let	O
+hatred	O
+or	O
+rebellion	O
+show	O
+in	O
+her	O
+eyes	O
+.	O
+
+# id = conivel-mistborn-000070
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She simply looked down , giving Camon what he expected to see .
+She	O
+simply	O
+looked	O
+down	O
+,	O
+giving	O
+Camon	B-CHARACTER
+what	O
+he	O
+expected	O
+to	O
+see	O
+.	O
+
+# id = conivel-mistborn-000071
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There were other ways to be strong .
+There	O
+were	O
+other	O
+ways	O
+to	O
+be	O
+strong	O
+.	O
+
+# id = conivel-mistborn-000072
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That lesson she had learned on her own .
+That	O
+lesson	O
+she	O
+had	O
+learned	O
+on	O
+her	O
+own	O
+.	O
+
+# id = conivel-mistborn-000073
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon growled slightly , then raised his hand and backhanded her across the face .
+Camon	B-CHARACTER
+growled	O
+slightly	O
+,	O
+then	O
+raised	O
+his	O
+hand	O
+and	O
+backhanded	O
+her	O
+across	O
+the	O
+face	O
+.	O
+
+# id = conivel-mistborn-000074
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The force of the blow threw Vin back against the wall , and her cheek blazed with pain .
+The	O
+force	O
+of	O
+the	O
+blow	O
+threw	O
+Vin	B-CHARACTER
+back	O
+against	O
+the	O
+wall	O
+,	O
+and	O
+her	O
+cheek	O
+blazed	O
+with	O
+pain	O
+.	O
+
+# id = conivel-mistborn-000075
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She slumped against the wood , but bore the punishment silently .
+She	O
+slumped	O
+against	O
+the	O
+wood	O
+,	O
+but	O
+bore	O
+the	O
+punishment	O
+silently	O
+.	O
+
+# id = conivel-mistborn-000076
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Just another bruise .
+Just	O
+another	O
+bruise	O
+.	O
+
+# id = conivel-mistborn-000077
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She was strong enough to deal with it .
+She	O
+was	O
+strong	O
+enough	O
+to	O
+deal	O
+with	O
+it	O
+.	O
+
+# id = conivel-mistborn-000078
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She 'd done so before .
+She	O
+'d	O
+done	O
+so	O
+before	O
+.	O
+
+# id = conivel-mistborn-000079
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Listen , ''
+``	O
+Listen	O
+,	O
+''	O
+
+# id = conivel-mistborn-000080
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon hissed .
+Camon	B-CHARACTER
+hissed	O
+.	O
+
+# id = conivel-mistborn-000081
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` This is an important job .
+``	O
+This	O
+is	O
+an	O
+important	O
+job	O
+.	O
+
+# id = conivel-mistborn-000082
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's worth thousands of boxings -- worth more than you a hundred times over .
+It	O
+'s	O
+worth	O
+thousands	O
+of	O
+boxings	O
+--	O
+worth	O
+more	O
+than	O
+you	O
+a	O
+hundred	O
+times	O
+over	O
+.	O
+
+# id = conivel-mistborn-000083
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I wo n't have you fouling it up .
+I	O
+wo	O
+n't	O
+have	O
+you	O
+fouling	O
+it	O
+up	O
+.	O
+
+# id = conivel-mistborn-000084
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Understand ? ''
+Understand	O
+?	O
+''	O
+
+# id = conivel-mistborn-000085
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin nodded .
+Vin	B-CHARACTER
+nodded	O
+.	O
+
+# id = conivel-mistborn-000086
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon studied her for a moment , his pudgy face red with anger .
+Camon	B-CHARACTER
+studied	O
+her	O
+for	O
+a	O
+moment	O
+,	O
+his	O
+pudgy	O
+face	O
+red	O
+with	O
+anger	O
+.	O
+
+# id = conivel-mistborn-000087
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Finally , he looked away , muttering to himself .
+Finally	O
+,	O
+he	O
+looked	O
+away	O
+,	O
+muttering	O
+to	O
+himself	O
+.	O
+
+# id = conivel-mistborn-000088
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was annoyed about something -- something more than just Vin .
+He	O
+was	O
+annoyed	O
+about	O
+something	O
+--	O
+something	O
+more	O
+than	O
+just	O
+Vin	B-CHARACTER
+.	O
+
+# id = conivel-mistborn-000089
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Perhaps he had heard about the skaa rebellion several days to the north .
+Perhaps	O
+he	O
+had	O
+heard	O
+about	O
+the	O
+skaa	O
+rebellion	O
+several	O
+days	O
+to	O
+the	O
+north	O
+.	O
+
+# id = conivel-mistborn-000090
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One of the provincial lords , Themos Tresting , had apparently been murdered , his manor burned to the ground .
+One	O
+of	O
+the	O
+provincial	O
+lords	O
+,	O
+Themos	B-CHARACTER
+Tresting	I-CHARACTER
+,	O
+had	O
+apparently	O
+been	O
+murdered	O
+,	O
+his	O
+manor	O
+burned	O
+to	O
+the	O
+ground	O
+.	O
+
+# id = conivel-mistborn-000091
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Such disturbances were bad for business ; they made the aristocracy more alert , and less gullible .
+Such	O
+disturbances	O
+were	O
+bad	O
+for	O
+business	O
+;	O
+they	O
+made	O
+the	O
+aristocracy	O
+more	O
+alert	O
+,	O
+and	O
+less	O
+gullible	O
+.	O
+
+# id = conivel-mistborn-000092
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That , in turn , could cut seriously into Camon 's profits .
+That	O
+,	O
+in	O
+turn	O
+,	O
+could	O
+cut	O
+seriously	O
+into	O
+Camon	B-CHARACTER
+'s	O
+profits	O
+.	O
+
+# id = conivel-mistborn-000093
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He 's looking for someone to punish , Vin though .
+He	O
+'s	O
+looking	O
+for	O
+someone	O
+to	O
+punish	O
+,	O
+Vin	B-CHARACTER
+though	O
+.	O
+
+# id = conivel-mistborn-000094
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He always gets nervous before a job .
+He	O
+always	O
+gets	O
+nervous	O
+before	O
+a	O
+job	O
+.	O
+
+# id = conivel-mistborn-000095
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She looked up at Camon , tasting blood on her lip .
+She	O
+looked	O
+up	O
+at	O
+Camon	B-CHARACTER
+,	O
+tasting	O
+blood	O
+on	O
+her	O
+lip	O
+.	O
+
+# id = conivel-mistborn-000096
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She must have let some of her confidence show , because he glanced at her out of the corner of his eye , and his expression darkened .
+She	O
+must	O
+have	O
+let	O
+some	O
+of	O
+her	O
+confidence	O
+show	O
+,	O
+because	O
+he	O
+glanced	O
+at	O
+her	O
+out	O
+of	O
+the	O
+corner	O
+of	O
+his	O
+eye	O
+,	O
+and	O
+his	O
+expression	O
+darkened	O
+.	O
+
+# id = conivel-mistborn-000097
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He raised his hand , as if to strike her again .
+He	O
+raised	O
+his	O
+hand	O
+,	O
+as	O
+if	O
+to	O
+strike	O
+her	O
+again	O
+.	O
+
+# id = conivel-mistborn-000098
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin used up a bit of her Luck .
+Vin	B-CHARACTER
+used	O
+up	O
+a	O
+bit	O
+of	O
+her	O
+Luck	O
+.	O
+
+# id = conivel-mistborn-000099
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She expended just a smidgen ; she 'd need the rest for the job .
+She	O
+expended	O
+just	O
+a	O
+smidgen	O
+;	O
+she	O
+'d	O
+need	O
+the	O
+rest	O
+for	O
+the	O
+job	O
+.	O
+
+# id = conivel-mistborn-000100
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She directed the Luck at Camon , calming his nervousness .
+She	O
+directed	O
+the	O
+Luck	O
+at	O
+Camon	B-CHARACTER
+,	O
+calming	O
+his	O
+nervousness	O
+.	O
+
+# id = conivel-mistborn-000101
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The crewleader paused -- oblivious of Vin 's touch , yet feeling its effects nonetheless .
+The	O
+crewleader	O
+paused	O
+--	O
+oblivious	O
+of	O
+Vin	B-CHARACTER
+'s	O
+touch	O
+,	O
+yet	O
+feeling	O
+its	O
+effects	O
+nonetheless	O
+.	O
+
+# id = conivel-mistborn-000102
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He stood for a moment ; then he sighed , turning away and lowering his hand .
+He	O
+stood	O
+for	O
+a	O
+moment	O
+;	O
+then	O
+he	O
+sighed	O
+,	O
+turning	O
+away	O
+and	O
+lowering	O
+his	O
+hand	O
+.	O
+
+# id = conivel-mistborn-000103
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin wiped her lip as Camon waddled away .
+Vin	B-CHARACTER
+wiped	O
+her	O
+lip	O
+as	O
+Camon	B-CHARACTER
+waddled	O
+away	O
+.	O
+
+# id = conivel-mistborn-000104
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The thiefmaster looked very convincing in his nobleman 's suit .
+The	O
+thiefmaster	O
+looked	O
+very	O
+convincing	O
+in	O
+his	O
+nobleman	O
+'s	O
+suit	O
+.	O
+
+# id = conivel-mistborn-000105
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was as rich a costume as Vin had ever seen -- it had a white shirt overlaid by a deep green vest with engraved gold buttons .
+It	O
+was	O
+as	O
+rich	O
+a	O
+costume	O
+as	O
+Vin	B-CHARACTER
+had	O
+ever	O
+seen	O
+--	O
+it	O
+had	O
+a	O
+white	O
+shirt	O
+overlaid	O
+by	O
+a	O
+deep	O
+green	O
+vest	O
+with	O
+engraved	O
+gold	O
+buttons	O
+.	O
+
+# id = conivel-mistborn-000106
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The black suit coat was long , after the current fashion , and he wore a matching black hat .
+The	O
+black	O
+suit	O
+coat	O
+was	O
+long	O
+,	O
+after	O
+the	O
+current	O
+fashion	O
+,	O
+and	O
+he	O
+wore	O
+a	O
+matching	O
+black	O
+hat	O
+.	O
+
+# id = conivel-mistborn-000107
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His fingers sparkled with rings , and he even carried a fine dueling cane .
+His	O
+fingers	O
+sparkled	O
+with	O
+rings	O
+,	O
+and	O
+he	O
+even	O
+carried	O
+a	O
+fine	O
+dueling	O
+cane	O
+.	O
+
+# id = conivel-mistborn-000108
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Indeed , Camon did an excellent job of imitating a nobleman ; when it came to playing a role , there were few thieves more competent than Camon .
+Indeed	O
+,	O
+Camon	B-CHARACTER
+did	O
+an	O
+excellent	O
+job	O
+of	O
+imitating	O
+a	O
+nobleman	O
+;	O
+when	O
+it	O
+came	O
+to	O
+playing	O
+a	O
+role	O
+,	O
+there	O
+were	O
+few	O
+thieves	O
+more	O
+competent	O
+than	O
+Camon	B-CHARACTER
+.	O
+
+# id = conivel-mistborn-000109
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Assuming he could keep his temper under control .
+Assuming	O
+he	O
+could	O
+keep	O
+his	O
+temper	O
+under	O
+control	O
+.	O
+
+# id = conivel-mistborn-000110
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The room itself was less impressive .
+The	O
+room	O
+itself	O
+was	O
+less	O
+impressive	O
+.	O
+
+# id = conivel-mistborn-000111
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin pulled herself to her feet as Camon began to snap at some of the other crewmembers .
+Vin	B-CHARACTER
+pulled	O
+herself	O
+to	O
+her	O
+feet	O
+as	O
+Camon	B-CHARACTER
+began	O
+to	O
+snap	O
+at	O
+some	O
+of	O
+the	O
+other	O
+crewmembers	O
+.	O
+
+# id = conivel-mistborn-000112
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They had rented one of the suites at the top of a local hotel .
+They	O
+had	O
+rented	O
+one	O
+of	O
+the	O
+suites	O
+at	O
+the	O
+top	O
+of	O
+a	O
+local	O
+hotel	O
+.	O
+
+# id = conivel-mistborn-000113
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not too lavish -- but that was the idea .
+Not	O
+too	O
+lavish	O
+--	O
+but	O
+that	O
+was	O
+the	O
+idea	O
+.	O
+
+# id = conivel-mistborn-000114
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon was going to be playing the part of `` Lord Jedue , ''
+Camon	B-CHARACTER
+was	O
+going	O
+to	O
+be	O
+playing	O
+the	O
+part	O
+of	O
+``	O
+Lord	B-CHARACTER
+Jedue	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-mistborn-000115
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = a country nobleman who had hit upon hard financial times and come to Luthadel to get some final , desperate contracts .
+a	O
+country	O
+nobleman	O
+who	O
+had	O
+hit	O
+upon	O
+hard	O
+financial	O
+times	O
+and	O
+come	O
+to	O
+Luthadel	B-LOCATION
+to	O
+get	O
+some	O
+final	O
+,	O
+desperate	O
+contracts	O
+.	O
+
+# id = conivel-mistborn-000116
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The main room had been transformed into a sort of audience chamber , set with a large desk for Camon to sit behind , the walls decorated with cheap pieces of art .
+The	O
+main	O
+room	O
+had	O
+been	O
+transformed	O
+into	O
+a	O
+sort	O
+of	O
+audience	O
+chamber	O
+,	O
+set	O
+with	O
+a	O
+large	O
+desk	O
+for	O
+Camon	B-CHARACTER
+to	O
+sit	O
+behind	O
+,	O
+the	O
+walls	O
+decorated	O
+with	O
+cheap	O
+pieces	O
+of	O
+art	O
+.	O
+
+# id = conivel-mistborn-000117
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Two men stood beside the desk , dressed in formal stewards ' clothing ; they would play the part of Camon 's manservants .
+Two	O
+men	O
+stood	O
+beside	O
+the	O
+desk	O
+,	O
+dressed	O
+in	O
+formal	O
+stewards	O
+'	O
+clothing	O
+;	O
+they	O
+would	O
+play	O
+the	O
+part	O
+of	O
+Camon	B-CHARACTER
+'s	O
+manservants	O
+.	O
+
+# id = conivel-mistborn-000118
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What is this ruckus ? ''
+``	O
+What	O
+is	O
+this	O
+ruckus	O
+?	O
+''	O
+
+# id = conivel-mistborn-000119
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = a man asked , entering the room .
+a	O
+man	O
+asked	O
+,	O
+entering	O
+the	O
+room	O
+.	O
+
+# id = conivel-mistborn-000120
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was tall , dressed in a simple gray shirt and a pair of slacks , with a thin sword tied at his waist .
+He	O
+was	O
+tall	O
+,	O
+dressed	O
+in	O
+a	O
+simple	O
+gray	O
+shirt	O
+and	O
+a	O
+pair	O
+of	O
+slacks	O
+,	O
+with	O
+a	O
+thin	O
+sword	O
+tied	O
+at	O
+his	O
+waist	O
+.	O
+
+# id = conivel-mistborn-000121
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Theron was the other crewleader -- this particular scam was actually his .
+Theron	B-CHARACTER
+was	O
+the	O
+other	O
+crewleader	O
+--	O
+this	O
+particular	O
+scam	O
+was	O
+actually	O
+his	O
+.	O
+
+# id = conivel-mistborn-000122
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He 'd brought in Camon as a partner ; he 'd needed someone to play Lord Jedue , and everyone knew that Camon was one of the best .
+He	O
+'d	O
+brought	O
+in	O
+Camon	B-CHARACTER
+as	O
+a	O
+partner	O
+;	O
+he	O
+'d	O
+needed	O
+someone	O
+to	O
+play	O
+Lord	B-CHARACTER
+Jedue	I-CHARACTER
+,	O
+and	O
+everyone	O
+knew	O
+that	O
+Camon	B-CHARACTER
+was	O
+one	O
+of	O
+the	O
+best	O
+.	O
+
+# id = conivel-mistborn-000123
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon looked up .
+Camon	B-CHARACTER
+looked	O
+up	O
+.	O
+
+# id = conivel-mistborn-000124
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Hum ?
+``	O
+Hum	O
+?	O
+
+# id = conivel-mistborn-000125
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ruckus ?
+Ruckus	O
+?	O
+
+# id = conivel-mistborn-000126
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Oh , that was just a minor discipline problem .
+Oh	O
+,	O
+that	O
+was	O
+just	O
+a	O
+minor	O
+discipline	O
+problem	O
+.	O
+
+# id = conivel-mistborn-000127
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Do n't bother yourself , Theron . ''
+Do	O
+n't	O
+bother	O
+yourself	O
+,	O
+Theron	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-mistborn-000128
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon punctuated his remark with a dismissive wave of the hand -- there was a reason he played such a good aristocrat .
+Camon	B-CHARACTER
+punctuated	O
+his	O
+remark	O
+with	O
+a	O
+dismissive	O
+wave	O
+of	O
+the	O
+hand	O
+--	O
+there	O
+was	O
+a	O
+reason	O
+he	O
+played	O
+such	O
+a	O
+good	O
+aristocrat	O
+.	O
+
+# id = conivel-mistborn-000129
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was arrogant enough that he could have been from one of the Great Houses .
+He	O
+was	O
+arrogant	O
+enough	O
+that	O
+he	O
+could	O
+have	O
+been	O
+from	O
+one	O
+of	O
+the	O
+Great	B-LOCATION
+Houses	I-LOCATION
+.	O
+
+# id = conivel-mistborn-000130
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Theron 's eyes narrowed .
+Theron	B-CHARACTER
+'s	O
+eyes	O
+narrowed	O
+.	O
+
+# id = conivel-mistborn-000131
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin knew what the man was probably thinking : He was deciding how risky it would be to put a knife in Camon 's fat back once the scam was over .
+Vin	B-CHARACTER
+knew	O
+what	O
+the	O
+man	O
+was	O
+probably	O
+thinking	O
+:	O
+He	O
+was	O
+deciding	O
+how	O
+risky	O
+it	O
+would	O
+be	O
+to	O
+put	O
+a	O
+knife	O
+in	O
+Camon	B-CHARACTER
+'s	O
+fat	O
+back	O
+once	O
+the	O
+scam	O
+was	O
+over	O
+.	O
+
+# id = conivel-mistborn-000132
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Eventually , the taller crewleader looked away from Camon , glancing at Vin .
+Eventually	O
+,	O
+the	O
+taller	O
+crewleader	O
+looked	O
+away	O
+from	O
+Camon	B-CHARACTER
+,	O
+glancing	O
+at	O
+Vin	B-CHARACTER
+.	O
+
+# id = conivel-mistborn-000133
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Who 's this ? ''
+``	O
+Who	O
+'s	O
+this	O
+?	O
+''	O
+
+# id = conivel-mistborn-000134
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he asked .
+he	O
+asked	O
+.	O
+
+# id = conivel-mistborn-000135
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Just a member of my crew , ''
+``	O
+Just	O
+a	O
+member	O
+of	O
+my	O
+crew	O
+,	O
+''	O
+
+# id = conivel-mistborn-000136
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon said .
+Camon	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-mistborn-000137
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I thought we did n't need anyone else . ''
+``	O
+I	O
+thought	O
+we	O
+did	O
+n't	O
+need	O
+anyone	O
+else	O
+.	O
+''	O
+
+# id = conivel-mistborn-000138
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , we need her , ''
+``	O
+Well	O
+,	O
+we	O
+need	O
+her	O
+,	O
+''	O
+
+# id = conivel-mistborn-000139
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon said .
+Camon	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-mistborn-000140
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ignore her .
+``	O
+Ignore	O
+her	O
+.	O
+
+# id = conivel-mistborn-000141
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My end of the operation is none of your concern . ''
+My	O
+end	O
+of	O
+the	O
+operation	O
+is	O
+none	O
+of	O
+your	O
+concern	O
+.	O
+''	O
+
+# id = conivel-mistborn-000142
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Theron eyed Vin , obviously noting her bloodied lip .
+Theron	B-CHARACTER
+eyed	O
+Vin	B-CHARACTER
+,	O
+obviously	O
+noting	O
+her	O
+bloodied	O
+lip	O
+.	O
+
+# id = conivel-mistborn-000143
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She glanced away .
+She	O
+glanced	O
+away	O
+.	O
+
+# id = conivel-mistborn-000144
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Theron 's eyes lingered on her , however , running down the length of her body .
+Theron	B-CHARACTER
+'s	O
+eyes	O
+lingered	O
+on	O
+her	O
+,	O
+however	O
+,	O
+running	O
+down	O
+the	O
+length	O
+of	O
+her	O
+body	O
+.	O
+
+# id = conivel-mistborn-000145
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She wore a simple white buttoned shirt and a pair of overalls .
+She	O
+wore	O
+a	O
+simple	O
+white	O
+buttoned	O
+shirt	O
+and	O
+a	O
+pair	O
+of	O
+overalls	O
+.	O
+
+# id = conivel-mistborn-000146
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Indeed , she was hardly enticing ; scrawny with a youthful face , she supposedly did n't even look her sixteen years .
+Indeed	O
+,	O
+she	O
+was	O
+hardly	O
+enticing	O
+;	O
+scrawny	O
+with	O
+a	O
+youthful	O
+face	O
+,	O
+she	O
+supposedly	O
+did	O
+n't	O
+even	O
+look	O
+her	O
+sixteen	O
+years	O
+.	O
+
+# id = conivel-mistborn-000147
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Some men preferred such women , however .
+Some	O
+men	O
+preferred	O
+such	O
+women	O
+,	O
+however	O
+.	O
+
+# id = conivel-mistborn-000148
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She considered using a bit of Luck on him , but eventually he turned away .
+She	O
+considered	O
+using	O
+a	O
+bit	O
+of	O
+Luck	O
+on	O
+him	O
+,	O
+but	O
+eventually	O
+he	O
+turned	O
+away	O
+.	O
+
+# id = conivel-mistborn-000149
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The obligator is nearly here , ''
+``	O
+The	O
+obligator	O
+is	O
+nearly	O
+here	O
+,	O
+''	O
+
+# id = conivel-mistborn-000150
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Theron said .
+Theron	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-mistborn-000151
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Are you ready ? ''
+``	O
+Are	O
+you	O
+ready	O
+?	O
+''	O
+
+# id = conivel-mistborn-000152
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon rolled his eyes , settling his bulk down into the chair behind the desk .
+Camon	B-CHARACTER
+rolled	O
+his	O
+eyes	O
+,	O
+settling	O
+his	O
+bulk	O
+down	O
+into	O
+the	O
+chair	O
+behind	O
+the	O
+desk	O
+.	O
+
+# id = conivel-mistborn-000153
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Everything is perfect .
+``	O
+Everything	O
+is	O
+perfect	O
+.	O
+
+# id = conivel-mistborn-000154
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Leave me be , Theron !
+Leave	O
+me	O
+be	O
+,	O
+Theron	B-CHARACTER
+!	O
+
+# id = conivel-mistborn-000155
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Go back to your room and wait . ''
+Go	O
+back	O
+to	O
+your	O
+room	O
+and	O
+wait	O
+.	O
+''	O
+
+# id = conivel-mistborn-000156
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Theron frowned , then spun and walked from the room , muttering to himself .
+Theron	B-CHARACTER
+frowned	O
+,	O
+then	O
+spun	O
+and	O
+walked	O
+from	O
+the	O
+room	O
+,	O
+muttering	O
+to	O
+himself	O
+.	O
+
+# id = conivel-mistborn-000157
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin scanned the room , studying the decor , the servants , the atmosphere .
+Vin	B-CHARACTER
+scanned	O
+the	O
+room	O
+,	O
+studying	O
+the	O
+decor	O
+,	O
+the	O
+servants	O
+,	O
+the	O
+atmosphere	O
+.	O
+
+# id = conivel-mistborn-000158
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Finally , she made her way to Camon 's desk .
+Finally	O
+,	O
+she	O
+made	O
+her	O
+way	O
+to	O
+Camon	B-CHARACTER
+'s	O
+desk	O
+.	O
+
+# id = conivel-mistborn-000159
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The crewleader sat rifling through a stack of papers , apparently trying to decide which ones to put out on the desktop .
+The	O
+crewleader	O
+sat	O
+rifling	O
+through	O
+a	O
+stack	O
+of	O
+papers	O
+,	O
+apparently	O
+trying	O
+to	O
+decide	O
+which	O
+ones	O
+to	O
+put	O
+out	O
+on	O
+the	O
+desktop	O
+.	O
+
+# id = conivel-mistborn-000160
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Camon , ''
+``	O
+Camon	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-mistborn-000161
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin said quietly , `` the servants are too fine . ''
+Vin	B-CHARACTER
+said	O
+quietly	O
+,	O
+``	O
+the	O
+servants	O
+are	O
+too	O
+fine	O
+.	O
+''	O
+
+# id = conivel-mistborn-000162
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon frowned , looking up .
+Camon	B-CHARACTER
+frowned	O
+,	O
+looking	O
+up	O
+.	O
+
+# id = conivel-mistborn-000163
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What is that you 're babbling ? ''
+``	O
+What	O
+is	O
+that	O
+you	O
+'re	O
+babbling	O
+?	O
+''	O
+
+# id = conivel-mistborn-000164
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The servants , ''
+``	O
+The	O
+servants	O
+,	O
+''	O
+
+# id = conivel-mistborn-000165
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin repeated , still speaking in a soft whisper .
+Vin	B-CHARACTER
+repeated	O
+,	O
+still	O
+speaking	O
+in	O
+a	O
+soft	O
+whisper	O
+.	O
+
+# id = conivel-mistborn-000166
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Lord Jedue is supposed to be desperate .
+``	O
+Lord	B-CHARACTER
+Jedue	I-CHARACTER
+is	O
+supposed	O
+to	O
+be	O
+desperate	O
+.	O
+
+# id = conivel-mistborn-000167
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He 'd have rich clothing left over from before , but he would n't be able to afford such rich servants .
+He	O
+'d	O
+have	O
+rich	O
+clothing	O
+left	O
+over	O
+from	O
+before	O
+,	O
+but	O
+he	O
+would	O
+n't	O
+be	O
+able	O
+to	O
+afford	O
+such	O
+rich	O
+servants	O
+.	O
+
+# id = conivel-mistborn-000168
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He 'd use skaa . ''
+He	O
+'d	O
+use	O
+skaa	O
+.	O
+''	O
+
+# id = conivel-mistborn-000169
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon glared at her , but he paused .
+Camon	B-CHARACTER
+glared	O
+at	O
+her	O
+,	O
+but	O
+he	O
+paused	O
+.	O
+
+# id = conivel-mistborn-000170
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Physically , there was little difference between noblemen and skaa .
+Physically	O
+,	O
+there	O
+was	O
+little	O
+difference	O
+between	O
+noblemen	O
+and	O
+skaa	O
+.	O
+
+# id = conivel-mistborn-000171
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The servants Camon had appointed , however , were dressed as minor noblemen -- they were allowed to wear colorful vests , and they stood a little confidently .
+The	O
+servants	O
+Camon	B-CHARACTER
+had	O
+appointed	O
+,	O
+however	O
+,	O
+were	O
+dressed	O
+as	O
+minor	O
+noblemen	O
+--	O
+they	O
+were	O
+allowed	O
+to	O
+wear	O
+colorful	O
+vests	O
+,	O
+and	O
+they	O
+stood	O
+a	O
+little	O
+confidently	O
+.	O
+
+# id = conivel-mistborn-000172
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The obligator has to think that you 're nearly impoverished , ''
+``	O
+The	O
+obligator	O
+has	O
+to	O
+think	O
+that	O
+you	O
+'re	O
+nearly	O
+impoverished	O
+,	O
+''	O
+
+# id = conivel-mistborn-000173
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin said .
+Vin	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-mistborn-000174
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Pack the room with a lot of skaa servants instead . ''
+``	O
+Pack	O
+the	O
+room	O
+with	O
+a	O
+lot	O
+of	O
+skaa	O
+servants	O
+instead	O
+.	O
+''	O
+
+# id = conivel-mistborn-000175
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What do you know ? ''
+``	O
+What	O
+do	O
+you	O
+know	O
+?	O
+''	O
+
+# id = conivel-mistborn-000176
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon said , scowling at her .
+Camon	B-CHARACTER
+said	O
+,	O
+scowling	O
+at	O
+her	O
+.	O
+
+# id = conivel-mistborn-000177
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Enough . ''
+``	O
+Enough	O
+.	O
+''	O
+
+# id = conivel-mistborn-000178
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She immediately regretted the word ; it sounded too rebellious .
+She	O
+immediately	O
+regretted	O
+the	O
+word	O
+;	O
+it	O
+sounded	O
+too	O
+rebellious	O
+.	O
+
+# id = conivel-mistborn-000179
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon raised a bejeweled hand , and Vin braced herself for another slap .
+Camon	B-CHARACTER
+raised	O
+a	O
+bejeweled	O
+hand	O
+,	O
+and	O
+Vin	B-CHARACTER
+braced	O
+herself	O
+for	O
+another	O
+slap	O
+.	O
+
+# id = conivel-mistborn-000180
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She could n't afford to use up any more Luck .
+She	O
+could	O
+n't	O
+afford	O
+to	O
+use	O
+up	O
+any	O
+more	O
+Luck	O
+.	O
+
+# id = conivel-mistborn-000181
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She had precious little remaining anyway .
+She	O
+had	O
+precious	O
+little	O
+remaining	O
+anyway	O
+.	O
+
+# id = conivel-mistborn-000182
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = However , Camon did n't hit her .
+However	O
+,	O
+Camon	B-CHARACTER
+did	O
+n't	O
+hit	O
+her	O
+.	O
+
+# id = conivel-mistborn-000183
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Instead , he sighed and rested a pudgy hand on her shoulder .
+Instead	O
+,	O
+he	O
+sighed	O
+and	O
+rested	O
+a	O
+pudgy	O
+hand	O
+on	O
+her	O
+shoulder	O
+.	O
+
+# id = conivel-mistborn-000184
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Why do you insist on provoking me , Vin ?
+``	O
+Why	O
+do	O
+you	O
+insist	O
+on	O
+provoking	O
+me	O
+,	O
+Vin	B-CHARACTER
+?	O
+
+# id = conivel-mistborn-000185
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You know the debts your brother left when he ran away .
+You	O
+know	O
+the	O
+debts	O
+your	O
+brother	O
+left	O
+when	O
+he	O
+ran	O
+away	O
+.	O
+
+# id = conivel-mistborn-000186
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Do you realize that a less merciful man than myself would have sold you to the whoremasters long ago ?
+Do	O
+you	O
+realize	O
+that	O
+a	O
+less	O
+merciful	O
+man	O
+than	O
+myself	O
+would	O
+have	O
+sold	O
+you	O
+to	O
+the	O
+whoremasters	O
+long	O
+ago	O
+?	O
+
+# id = conivel-mistborn-000187
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How would you like that , serving in some nobleman 's bed until he grew tired of you and had you executed ? ''
+How	O
+would	O
+you	O
+like	O
+that	O
+,	O
+serving	O
+in	O
+some	O
+nobleman	O
+'s	O
+bed	O
+until	O
+he	O
+grew	O
+tired	O
+of	O
+you	O
+and	O
+had	O
+you	O
+executed	O
+?	O
+''	O
+
+# id = conivel-mistborn-000188
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin looked down at her feet .
+Vin	B-CHARACTER
+looked	O
+down	O
+at	O
+her	O
+feet	O
+.	O
+
+# id = conivel-mistborn-000189
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon 's grip grew tight , his fingers pinching her skin where neck met shoulder , and she gasped in pain despite herself .
+Camon	B-CHARACTER
+'s	O
+grip	O
+grew	O
+tight	O
+,	O
+his	O
+fingers	O
+pinching	O
+her	O
+skin	O
+where	O
+neck	O
+met	O
+shoulder	O
+,	O
+and	O
+she	O
+gasped	O
+in	O
+pain	O
+despite	O
+herself	O
+.	O
+
+# id = conivel-mistborn-000190
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He grinned at the reaction .
+He	O
+grinned	O
+at	O
+the	O
+reaction	O
+.	O
+
+# id = conivel-mistborn-000191
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Honestly , I do n't know why I keep you , Vin , ''
+``	O
+Honestly	O
+,	O
+I	O
+do	O
+n't	O
+know	O
+why	O
+I	O
+keep	O
+you	O
+,	O
+Vin	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-mistborn-000192
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said , increasing the pressure of his grip .
+he	O
+said	O
+,	O
+increasing	O
+the	O
+pressure	O
+of	O
+his	O
+grip	O
+.	O
+
+# id = conivel-mistborn-000193
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I should have gotten rid of you months ago , when your brother betrayed me .
+``	O
+I	O
+should	O
+have	O
+gotten	O
+rid	O
+of	O
+you	O
+months	O
+ago	O
+,	O
+when	O
+your	O
+brother	O
+betrayed	O
+me	O
+.	O
+
+# id = conivel-mistborn-000194
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I suppose I just have too kindly a heart . ''
+I	O
+suppose	O
+I	O
+just	O
+have	O
+too	O
+kindly	O
+a	O
+heart	O
+.	O
+''	O
+
+# id = conivel-mistborn-000195
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He finally released her , then pointed for her to stand over by the side of the room , next to a tall indoor plant .
+He	O
+finally	O
+released	O
+her	O
+,	O
+then	O
+pointed	O
+for	O
+her	O
+to	O
+stand	O
+over	O
+by	O
+the	O
+side	O
+of	O
+the	O
+room	O
+,	O
+next	O
+to	O
+a	O
+tall	O
+indoor	O
+plant	O
+.	O
+
+# id = conivel-mistborn-000196
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She did as ordered , orienting herself so she had a good view of the entire room .
+She	O
+did	O
+as	O
+ordered	O
+,	O
+orienting	O
+herself	O
+so	O
+she	O
+had	O
+a	O
+good	O
+view	O
+of	O
+the	O
+entire	O
+room	O
+.	O
+
+# id = conivel-mistborn-000197
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As soon as Camon looked away , she rubbed her shoulder .
+As	O
+soon	O
+as	O
+Camon	B-CHARACTER
+looked	O
+away	O
+,	O
+she	O
+rubbed	O
+her	O
+shoulder	O
+.	O
+
+# id = conivel-mistborn-000198
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Just another pain .
+Just	O
+another	O
+pain	O
+.	O
+
+# id = conivel-mistborn-000199
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I can deal with pain .
+I	O
+can	O
+deal	O
+with	O
+pain	O
+.	O
+
+# id = conivel-mistborn-000200
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon sat for a few moments .
+Camon	B-CHARACTER
+sat	O
+for	O
+a	O
+few	O
+moments	O
+.	O
+
+# id = conivel-mistborn-000201
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then , as expected , he waved to the two ` servants ' at his side .
+Then	O
+,	O
+as	O
+expected	O
+,	O
+he	O
+waved	O
+to	O
+the	O
+two	O
+`	O
+servants	O
+'	O
+at	O
+his	O
+side	O
+.	O
+
+# id = conivel-mistborn-000202
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You two ! ''
+``	O
+You	O
+two	O
+!	O
+''	O
+
+# id = conivel-mistborn-000203
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said .
+he	O
+said	O
+.	O
+
+# id = conivel-mistborn-000204
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 're dressed too richly .
+``	O
+You	O
+'re	O
+dressed	O
+too	O
+richly	O
+.	O
+
+# id = conivel-mistborn-000205
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Go put on something that makes you look like skaa servants instead -- and bring back six more men with you when you come . ''
+Go	O
+put	O
+on	O
+something	O
+that	O
+makes	O
+you	O
+look	O
+like	O
+skaa	O
+servants	O
+instead	O
+--	O
+and	O
+bring	O
+back	O
+six	O
+more	O
+men	O
+with	O
+you	O
+when	O
+you	O
+come	O
+.	O
+''	O
+
+# id = conivel-mistborn-000206
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Soon , the room was filled as Vin had suggested .
+Soon	O
+,	O
+the	O
+room	O
+was	O
+filled	O
+as	O
+Vin	B-CHARACTER
+had	O
+suggested	O
+.	O
+
+# id = conivel-mistborn-000207
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The obligator arrived a short time later .
+The	O
+obligator	O
+arrived	O
+a	O
+short	O
+time	O
+later	O
+.	O
+
+# id = conivel-mistborn-000208
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin watched Prelan Laird step haughtily into the room .
+Vin	B-CHARACTER
+watched	O
+Prelan	B-CHARACTER
+Laird	I-CHARACTER
+step	O
+haughtily	O
+into	O
+the	O
+room	O
+.	O
+
+# id = conivel-mistborn-000209
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Shaved bald like all obligators , he wore a set of dark gray robes .
+Shaved	O
+bald	O
+like	O
+all	O
+obligators	O
+,	O
+he	O
+wore	O
+a	O
+set	O
+of	O
+dark	O
+gray	O
+robes	O
+.	O
+
+# id = conivel-mistborn-000210
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Ministry tattoos around his eyes identified him as a prelan , a senior bureaucrat in the Ministry 's Canton of Finance .
+The	O
+Ministry	O
+tattoos	O
+around	O
+his	O
+eyes	O
+identified	O
+him	O
+as	O
+a	O
+prelan	O
+,	O
+a	O
+senior	O
+bureaucrat	O
+in	O
+the	O
+Ministry	O
+'s	O
+Canton	O
+of	O
+Finance	O
+.	O
+
+# id = conivel-mistborn-000211
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A set of lesser obligators trailed behind him , their eye tattoos far less intricate .
+A	O
+set	O
+of	O
+lesser	O
+obligators	O
+trailed	O
+behind	O
+him	O
+,	O
+their	O
+eye	O
+tattoos	O
+far	O
+less	O
+intricate	O
+.	O
+
+# id = conivel-mistborn-000212
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon rose as the prelan entered , a sign of respect -- something even the highest of Great House noblemen would show to an obligator of Laird 's rank .
+Camon	B-CHARACTER
+rose	O
+as	O
+the	O
+prelan	O
+entered	O
+,	O
+a	O
+sign	O
+of	O
+respect	O
+--	O
+something	O
+even	O
+the	O
+highest	O
+of	O
+Great	O
+House	O
+noblemen	O
+would	O
+show	O
+to	O
+an	O
+obligator	O
+of	O
+Laird	B-CHARACTER
+'s	O
+rank	O
+.	O
+
+# id = conivel-mistborn-000213
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laird gave no bow or acknowledgment of his own , instead striding forward and taking the seat in front of Camon 's desk .
+Laird	B-CHARACTER
+gave	O
+no	O
+bow	O
+or	O
+acknowledgment	O
+of	O
+his	O
+own	O
+,	O
+instead	O
+striding	O
+forward	O
+and	O
+taking	O
+the	O
+seat	O
+in	O
+front	O
+of	O
+Camon	B-CHARACTER
+'s	O
+desk	O
+.	O
+
+# id = conivel-mistborn-000214
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One of the crewmen impersonating a servant rushed forward , bringing chilled wine and fruit for the obligator .
+One	O
+of	O
+the	O
+crewmen	O
+impersonating	O
+a	O
+servant	O
+rushed	O
+forward	O
+,	O
+bringing	O
+chilled	O
+wine	O
+and	O
+fruit	O
+for	O
+the	O
+obligator	O
+.	O
+
+# id = conivel-mistborn-000215
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laird picked at the fruit , letting the servant stand obediently , holding the platter of food as if he were a piece of furniture .
+Laird	B-CHARACTER
+picked	O
+at	O
+the	O
+fruit	O
+,	O
+letting	O
+the	O
+servant	O
+stand	O
+obediently	O
+,	O
+holding	O
+the	O
+platter	O
+of	O
+food	O
+as	O
+if	O
+he	O
+were	O
+a	O
+piece	O
+of	O
+furniture	O
+.	O
+
+# id = conivel-mistborn-000216
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Lord Jedue , ''
+``	O
+Lord	B-CHARACTER
+Jedue	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-mistborn-000217
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laird finally said .
+Laird	B-CHARACTER
+finally	O
+said	O
+.	O
+
+# id = conivel-mistborn-000218
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I am glad we finally have the opportunity to meet . ''
+``	O
+I	O
+am	O
+glad	O
+we	O
+finally	O
+have	O
+the	O
+opportunity	O
+to	O
+meet	O
+.	O
+''	O
+
+# id = conivel-mistborn-000219
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` As am I , Your Grace , ''
+``	O
+As	O
+am	O
+I	O
+,	O
+Your	O
+Grace	O
+,	O
+''	O
+
+# id = conivel-mistborn-000220
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon said .
+Camon	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-mistborn-000221
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Why is it , again , that you were unable to come to the Canton building , instead requiring that I visit you here ? ''
+``	O
+Why	O
+is	O
+it	O
+,	O
+again	O
+,	O
+that	O
+you	O
+were	O
+unable	O
+to	O
+come	O
+to	O
+the	O
+Canton	B-LOCATION
+building	O
+,	O
+instead	O
+requiring	O
+that	O
+I	O
+visit	O
+you	O
+here	O
+?	O
+''	O
+
+# id = conivel-mistborn-000222
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` My knees , Your Grace , ''
+``	O
+My	O
+knees	O
+,	O
+Your	O
+Grace	O
+,	O
+''	O
+
+# id = conivel-mistborn-000223
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon said .
+Camon	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-mistborn-000224
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` My physicians recommend that I travel as little as possible . ''
+``	O
+My	O
+physicians	O
+recommend	O
+that	O
+I	O
+travel	O
+as	O
+little	O
+as	O
+possible	O
+.	O
+''	O
+
+# id = conivel-mistborn-000225
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And you were rightly apprehensive about being drawn into a Ministry stronghold , Vin thought .
+And	O
+you	O
+were	O
+rightly	O
+apprehensive	O
+about	O
+being	O
+drawn	O
+into	O
+a	O
+Ministry	O
+stronghold	O
+,	O
+Vin	B-CHARACTER
+thought	O
+.	O
+
+# id = conivel-mistborn-000226
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I see , ''
+``	O
+I	O
+see	O
+,	O
+''	O
+
+# id = conivel-mistborn-000227
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laird said .
+Laird	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-mistborn-000228
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Bad knees .
+``	O
+Bad	O
+knees	O
+.	O
+
+# id = conivel-mistborn-000229
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = An unfortunate attribute in a man who deals in transportation . ''
+An	O
+unfortunate	O
+attribute	O
+in	O
+a	O
+man	O
+who	O
+deals	O
+in	O
+transportation	O
+.	O
+''	O
+
+# id = conivel-mistborn-000230
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do n't have to go on the trips , Your Grace , ''
+``	O
+I	O
+do	O
+n't	O
+have	O
+to	O
+go	O
+on	O
+the	O
+trips	O
+,	O
+Your	O
+Grace	O
+,	O
+''	O
+
+# id = conivel-mistborn-000231
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon said , bowing his head .
+Camon	B-CHARACTER
+said	O
+,	O
+bowing	O
+his	O
+head	O
+.	O
+
+# id = conivel-mistborn-000232
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Just organize them . ''
+``	O
+Just	O
+organize	O
+them	O
+.	O
+''	O
+
+# id = conivel-mistborn-000233
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Good , Vin thought .
+Good	O
+,	O
+Vin	B-CHARACTER
+thought	O
+.	O
+
+# id = conivel-mistborn-000234
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Make sure you remain subservient , Camon .
+Make	O
+sure	O
+you	O
+remain	O
+subservient	O
+,	O
+Camon	B-CHARACTER
+.	O
+
+# id = conivel-mistborn-000235
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You need to seem desperate .
+You	O
+need	O
+to	O
+seem	O
+desperate	O
+.	O
+
+# id = conivel-mistborn-000236
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin needed this scam to succeed .
+Vin	B-CHARACTER
+needed	O
+this	O
+scam	O
+to	O
+succeed	O
+.	O
+
+# id = conivel-mistborn-000237
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon threatened her and he beat her -- but he considered her a good-luck charm .
+Camon	B-CHARACTER
+threatened	O
+her	O
+and	O
+he	O
+beat	O
+her	O
+--	O
+but	O
+he	O
+considered	O
+her	O
+a	O
+good-luck	O
+charm	O
+.	O
+
+# id = conivel-mistborn-000238
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She was n't sure if he knew why his plans went better when she was in the room , but he had apparently made the connection .
+She	O
+was	O
+n't	O
+sure	O
+if	O
+he	O
+knew	O
+why	O
+his	O
+plans	O
+went	O
+better	O
+when	O
+she	O
+was	O
+in	O
+the	O
+room	O
+,	O
+but	O
+he	O
+had	O
+apparently	O
+made	O
+the	O
+connection	O
+.	O
+
+# id = conivel-mistborn-000239
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That made her valuable -- and Reen had always said that the surest way to stay alive in the underworld was to make yourself indispensable .
+That	O
+made	O
+her	O
+valuable	O
+--	O
+and	O
+Reen	B-CHARACTER
+had	O
+always	O
+said	O
+that	O
+the	O
+surest	O
+way	O
+to	O
+stay	O
+alive	O
+in	O
+the	O
+underworld	O
+was	O
+to	O
+make	O
+yourself	O
+indispensable	O
+.	O
+
+# id = conivel-mistborn-000240
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I see , ''
+``	O
+I	O
+see	O
+,	O
+''	O
+
+# id = conivel-mistborn-000241
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laird said again .
+Laird	B-CHARACTER
+said	O
+again	O
+.	O
+
+# id = conivel-mistborn-000242
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , I fear that our meeting has come too late for your purposes .
+``	O
+Well	O
+,	O
+I	O
+fear	O
+that	O
+our	O
+meeting	O
+has	O
+come	O
+too	O
+late	O
+for	O
+your	O
+purposes	O
+.	O
+
+# id = conivel-mistborn-000243
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Canton of Finance has already voted on your proposal . ''
+The	O
+Canton	O
+of	O
+Finance	O
+has	O
+already	O
+voted	O
+on	O
+your	O
+proposal	O
+.	O
+''	O
+
+# id = conivel-mistborn-000244
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` So soon ? ''
+``	O
+So	O
+soon	O
+?	O
+''	O
+
+# id = conivel-mistborn-000245
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon asked with genuine surprise .
+Camon	B-CHARACTER
+asked	O
+with	O
+genuine	O
+surprise	O
+.	O
+
+# id = conivel-mistborn-000246
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes , ''
+``	O
+Yes	O
+,	O
+''	O
+
+# id = conivel-mistborn-000247
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laird replied , taking a sip of his wine , still not dismissing the servant .
+Laird	B-CHARACTER
+replied	O
+,	O
+taking	O
+a	O
+sip	O
+of	O
+his	O
+wine	O
+,	O
+still	O
+not	O
+dismissing	O
+the	O
+servant	O
+.	O
+
+# id = conivel-mistborn-000248
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We have decided not to accept your contract . ''
+``	O
+We	O
+have	O
+decided	O
+not	O
+to	O
+accept	O
+your	O
+contract	O
+.	O
+''	O
+
+# id = conivel-mistborn-000249
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon sat for a moment , stunned .
+Camon	B-CHARACTER
+sat	O
+for	O
+a	O
+moment	O
+,	O
+stunned	O
+.	O
+
+# id = conivel-mistborn-000250
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm sorry to hear that , Your Grace . ''
+``	O
+I	O
+'m	O
+sorry	O
+to	O
+hear	O
+that	O
+,	O
+Your	O
+Grace	O
+.	O
+''	O
+
+# id = conivel-mistborn-000251
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laird came to meet you , Vin thought .
+Laird	B-CHARACTER
+came	O
+to	O
+meet	O
+you	O
+,	O
+Vin	B-CHARACTER
+thought	O
+.	O
+
+# id = conivel-mistborn-000252
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That means he 's still in a position to negotiate .
+That	O
+means	O
+he	O
+'s	O
+still	O
+in	O
+a	O
+position	O
+to	O
+negotiate	O
+.	O
+
+# id = conivel-mistborn-000253
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Indeed , ''
+``	O
+Indeed	O
+,	O
+''	O
+
+# id = conivel-mistborn-000254
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon continued , seeing what Vin had .
+Camon	B-CHARACTER
+continued	O
+,	O
+seeing	O
+what	O
+Vin	B-CHARACTER
+had	O
+.	O
+
+# id = conivel-mistborn-000255
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That is especially unfortunate , as I was ready to make the Ministry an even better offer . ''
+``	O
+That	O
+is	O
+especially	O
+unfortunate	O
+,	O
+as	O
+I	O
+was	O
+ready	O
+to	O
+make	O
+the	O
+Ministry	O
+an	O
+even	O
+better	O
+offer	O
+.	O
+''	O
+
+# id = conivel-mistborn-000256
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laird raised a tattooed eyebrow .
+Laird	B-CHARACTER
+raised	O
+a	O
+tattooed	O
+eyebrow	O
+.	O
+
+# id = conivel-mistborn-000257
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I doubt it will matter .
+``	O
+I	O
+doubt	O
+it	O
+will	O
+matter	O
+.	O
+
+# id = conivel-mistborn-000258
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There is an element of the Council who feels that the Canton would receive better service if we found a more stable house to transport our people . ''
+There	O
+is	O
+an	O
+element	O
+of	O
+the	O
+Council	O
+who	O
+feels	O
+that	O
+the	O
+Canton	B-LOCATION
+would	O
+receive	O
+better	O
+service	O
+if	O
+we	O
+found	O
+a	O
+more	O
+stable	O
+house	O
+to	O
+transport	O
+our	O
+people	O
+.	O
+''	O
+
+# id = conivel-mistborn-000259
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That would be a grave mistake , ''
+``	O
+That	O
+would	O
+be	O
+a	O
+grave	O
+mistake	O
+,	O
+''	O
+
+# id = conivel-mistborn-000260
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon said smoothly .
+Camon	B-CHARACTER
+said	O
+smoothly	O
+.	O
+
+# id = conivel-mistborn-000261
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Let us be frank , Your Grace .
+``	O
+Let	O
+us	O
+be	O
+frank	O
+,	O
+Your	O
+Grace	O
+.	O
+
+# id = conivel-mistborn-000262
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We both know that this contract is House Jedue 's last chance .
+We	O
+both	O
+know	O
+that	O
+this	O
+contract	O
+is	O
+House	O
+Jedue	O
+'s	O
+last	O
+chance	O
+.	O
+
+# id = conivel-mistborn-000263
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now that we 've lost the Farwan deal , we can not afford to run our canal boats to Luthadel anymore .
+Now	O
+that	O
+we	O
+'ve	O
+lost	O
+the	O
+Farwan	B-LOCATION
+deal	O
+,	O
+we	O
+can	O
+not	O
+afford	O
+to	O
+run	O
+our	O
+canal	O
+boats	O
+to	O
+Luthadel	B-LOCATION
+anymore	O
+.	O
+
+# id = conivel-mistborn-000264
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Without the Ministry 's patronage , my house is financially doomed . ''
+Without	O
+the	O
+Ministry	O
+'s	O
+patronage	O
+,	O
+my	O
+house	O
+is	O
+financially	O
+doomed	O
+.	O
+''	O
+
+# id = conivel-mistborn-000265
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` This is doing very little to persuade me , Your Lordship , ''
+``	O
+This	O
+is	O
+doing	O
+very	O
+little	O
+to	O
+persuade	O
+me	O
+,	O
+Your	O
+Lordship	O
+,	O
+''	O
+
+# id = conivel-mistborn-000266
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the obligator said .
+the	O
+obligator	O
+said	O
+.	O
+
+# id = conivel-mistborn-000267
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Is n't it ? ''
+``	O
+Is	O
+n't	O
+it	O
+?	O
+''	O
+
+# id = conivel-mistborn-000268
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon asked .
+Camon	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-mistborn-000269
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ask yourself this , Your Grace -- who will serve you better ?
+``	O
+Ask	O
+yourself	O
+this	O
+,	O
+Your	O
+Grace	O
+--	O
+who	O
+will	O
+serve	O
+you	O
+better	O
+?	O
+
+# id = conivel-mistborn-000270
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Will it be the house that has dozens of contracts to divide its attention , or the house that views your contract as its last hope ?
+Will	O
+it	O
+be	O
+the	O
+house	O
+that	O
+has	O
+dozens	O
+of	O
+contracts	O
+to	O
+divide	O
+its	O
+attention	O
+,	O
+or	O
+the	O
+house	O
+that	O
+views	O
+your	O
+contract	O
+as	O
+its	O
+last	O
+hope	O
+?	O
+
+# id = conivel-mistborn-000271
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Canton of Finance will not find a more accommodating partner than a desperate one .
+The	O
+Canton	O
+of	O
+Finance	O
+will	O
+not	O
+find	O
+a	O
+more	O
+accommodating	O
+partner	O
+than	O
+a	O
+desperate	O
+one	O
+.	O
+
+# id = conivel-mistborn-000272
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Let my boats be the ones that bring your acolytes down from the north -- let my soldiers escort them -- and you will not be disappointed . ''
+Let	O
+my	O
+boats	O
+be	O
+the	O
+ones	O
+that	O
+bring	O
+your	O
+acolytes	O
+down	O
+from	O
+the	O
+north	O
+--	O
+let	O
+my	O
+soldiers	O
+escort	O
+them	O
+--	O
+and	O
+you	O
+will	O
+not	O
+be	O
+disappointed	O
+.	O
+''	O
+
+# id = conivel-mistborn-000273
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Good , Vin thought .
+Good	O
+,	O
+Vin	B-CHARACTER
+thought	O
+.	O
+
+# id = conivel-mistborn-000274
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I ... see , ''
+``	O
+I	O
+...	O
+see	O
+,	O
+''	O
+
+# id = conivel-mistborn-000275
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the obligator said , now troubled .
+the	O
+obligator	O
+said	O
+,	O
+now	O
+troubled	O
+.	O
+
+# id = conivel-mistborn-000276
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I would be willing to give you an extended contract , locked in at the price of fifty boxings a head per trip , Your Grace .
+``	O
+I	O
+would	O
+be	O
+willing	O
+to	O
+give	O
+you	O
+an	O
+extended	O
+contract	O
+,	O
+locked	O
+in	O
+at	O
+the	O
+price	O
+of	O
+fifty	O
+boxings	O
+a	O
+head	O
+per	O
+trip	O
+,	O
+Your	O
+Grace	O
+.	O
+
+# id = conivel-mistborn-000277
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Your acolytes would be able to travel our boats at their leisure , and would always have the escorts they need . ''
+Your	O
+acolytes	O
+would	O
+be	O
+able	O
+to	O
+travel	O
+our	O
+boats	O
+at	O
+their	O
+leisure	O
+,	O
+and	O
+would	O
+always	O
+have	O
+the	O
+escorts	O
+they	O
+need	O
+.	O
+''	O
+
+# id = conivel-mistborn-000278
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The obligator raised an eyebrow .
+The	O
+obligator	O
+raised	O
+an	O
+eyebrow	O
+.	O
+
+# id = conivel-mistborn-000279
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That 's half the former fee . ''
+``	O
+That	O
+'s	O
+half	O
+the	O
+former	O
+fee	O
+.	O
+''	O
+
+# id = conivel-mistborn-000280
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I told you , ''
+``	O
+I	O
+told	O
+you	O
+,	O
+''	O
+
+# id = conivel-mistborn-000281
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Camon said .
+Camon	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-mistborn-000282
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We 're desperate .
+``	O
+We	O
+'re	O
+desperate	O
+.	O
+
+# id = conivel-mistborn-000283
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My house needs to keep its boats running .
+My	O
+house	O
+needs	O
+to	O
+keep	O
+its	O
+boats	O
+running	O
+.	O
+
+# id = conivel-mistborn-000284
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Fifty boxings will not make us a profit , but that does n't matter .
+Fifty	O
+boxings	O
+will	O
+not	O
+make	O
+us	O
+a	O
+profit	O
+,	O
+but	O
+that	O
+does	O
+n't	O
+matter	O
+.	O
+
+# id = conivel-mistborn-000285
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Once we have the Ministry contract to bring us stability , we can find other contracts to fill our coffers . ''
+Once	O
+we	O
+have	O
+the	O
+Ministry	O
+contract	O
+to	O
+bring	O
+us	O
+stability	O
+,	O
+we	O
+can	O
+find	O
+other	O
+contracts	O
+to	O
+fill	O
+our	O
+coffers	O
+.	O
+''	O
+
+# id = conivel-mistborn-000286
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laird looked thoughtful .
+Laird	B-CHARACTER
+looked	O
+thoughtful	O
+.	O
+
+# id = conivel-mistborn-000287
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was a fabulous deal -- one that might ordinarily have been suspicious .
+It	O
+was	O
+a	O
+fabulous	O
+deal	O
+--	O
+one	O
+that	O
+might	O
+ordinarily	O
+have	O
+been	O
+suspicious	O
+.	O
+
+# id = conivel-mistborn-000288
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = However , Camon 's presentation created the image of a house on the brink of financial collapse .
+However	O
+,	O
+Camon	B-CHARACTER
+'s	O
+presentation	O
+created	O
+the	O
+image	O
+of	O
+a	O
+house	O
+on	O
+the	O
+brink	O
+of	O
+financial	O
+collapse	O
+.	O
+
+# id = conivel-mistborn-000289
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The other crewleader , Theron , had spent five years building , scamming , and finagling to create this moment .
+The	O
+other	O
+crewleader	O
+,	O
+Theron	B-CHARACTER
+,	O
+had	O
+spent	O
+five	O
+years	O
+building	O
+,	O
+scamming	O
+,	O
+and	O
+finagling	O
+to	O
+create	O
+this	O
+moment	O
+.	O
+
+# id = conivel-mistborn-000290
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Ministry would be remiss not to consider the opportunity .
+The	O
+Ministry	O
+would	O
+be	O
+remiss	O
+not	O
+to	O
+consider	O
+the	O
+opportunity	O
+.	O
+
+# id = conivel-mistborn-000291
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laird was realizing just that .
+Laird	B-CHARACTER
+was	O
+realizing	O
+just	O
+that	O
+.	O
+
+# id = conivel-mistborn-000292
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Steel Ministry was not just the force of bureaucracy and legal authority in the Final Empire -- it was like a noble house unto itself .
+The	O
+Steel	O
+Ministry	O
+was	O
+not	O
+just	O
+the	O
+force	O
+of	O
+bureaucracy	O
+and	O
+legal	O
+authority	O
+in	O
+the	O
+Final	O
+Empire	O
+--	O
+it	O
+was	O
+like	O
+a	O
+noble	O
+house	O
+unto	O
+itself	O
+.	O
+
+# id = conivel-mistborn-000293
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The more wealth it had , the better its own mercantile contracts , the more leverage the various Ministry Cantons had with each other -- and with the noble houses .
+The	O
+more	O
+wealth	O
+it	O
+had	O
+,	O
+the	O
+better	O
+its	O
+own	O
+mercantile	O
+contracts	O
+,	O
+the	O
+more	O
+leverage	O
+the	O
+various	O
+Ministry	O
+Cantons	O
+had	O
+with	O
+each	O
+other	O
+--	O
+and	O
+with	O
+the	O
+noble	O
+houses	O
+.	O
+
+# id = conivel-mistborn-000294
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laird was still obviously hesitant , however .
+Laird	B-CHARACTER
+was	O
+still	O
+obviously	O
+hesitant	O
+,	O
+however	O
+.	O
+
+# id = conivel-mistborn-000295
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin could see the look in his eyes , the suspicion she knew well .
+Vin	B-CHARACTER
+could	O
+see	O
+the	O
+look	O
+in	O
+his	O
+eyes	O
+,	O
+the	O
+suspicion	O
+she	O
+knew	O
+well	O
+.	O
+
+# id = conivel-mistborn-000296
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was not going to take the contract .
+He	O
+was	O
+not	O
+going	O
+to	O
+take	O
+the	O
+contract	O
+.	O
+
+# id = conivel-mistborn-000297
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now , Vin thought .
+Now	O
+,	O
+Vin	B-CHARACTER
+thought	O
+.	O
+
+# id = conivel-mistborn-000298
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's my turn .
+It	O
+'s	O
+my	O
+turn	O
+.	O
+
+# id = conivel-mistborn-000299
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin used her Luck on Laird .
+Vin	B-CHARACTER
+used	O
+her	O
+Luck	O
+on	O
+Laird	B-CHARACTER
+.	O
+
+# id = conivel-mistborn-000300
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She reached out tentatively -- not even really sure what she was doing , or why she could even do it .
+She	O
+reached	O
+out	O
+tentatively	O
+--	O
+not	O
+even	O
+really	O
+sure	O
+what	O
+she	O
+was	O
+doing	O
+,	O
+or	O
+why	O
+she	O
+could	O
+even	O
+do	O
+it	O
+.	O
+
+# id = conivel-mistborn-000301
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Yet her touch was instinctive , trained through years of subtle practice .
+Yet	O
+her	O
+touch	O
+was	O
+instinctive	O
+,	O
+trained	O
+through	O
+years	O
+of	O
+subtle	O
+practice	O
+.	O
+
+# id = conivel-mistborn-000302
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She 'd been ten years old before she 'd realized that other people could n't do what she could .
+She	O
+'d	O
+been	O
+ten	O
+years	O
+old	O
+before	O
+she	O
+'d	O
+realized	O
+that	O
+other	O
+people	O
+could	O
+n't	O
+do	O
+what	O
+she	O
+could	O
+.	O
+
+# id = conivel-mistborn-000303
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She pressed against Laird 's emotions , dampening them .
+She	O
+pressed	O
+against	O
+Laird	B-CHARACTER
+'s	O
+emotions	O
+,	O
+dampening	O
+them	O
+.	O
+
+# id = conivel-mistborn-000304
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He became less suspicious , less afraid .
+He	O
+became	O
+less	O
+suspicious	O
+,	O
+less	O
+afraid	O
+.	O
+
+# id = conivel-mistborn-000305
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Docile .
+Docile	O
+.	O
+
+# id = conivel-mistborn-000306
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His worries melted away , and Vin could see a calm sense of control begin to assert itself in his eyes .
+His	O
+worries	O
+melted	O
+away	O
+,	O
+and	O
+Vin	B-CHARACTER
+could	O
+see	O
+a	O
+calm	O
+sense	O
+of	O
+control	O
+begin	O
+to	O
+assert	O
+itself	O
+in	O
+his	O
+eyes	O
+.	O
+
+# id = conivel-mistborn-000307
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Yet , Laird still seemed slightly uncertain .
+Yet	O
+,	O
+Laird	B-CHARACTER
+still	O
+seemed	O
+slightly	O
+uncertain	O
+.	O
+
+# id = conivel-mistborn-000308
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Vin pushed harder .
+Vin	B-CHARACTER
+pushed	O
+harder	O
+.	O
+
+# id = conivel-mistborn-000309
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He cocked his head , looking thoughtful .
+He	O
+cocked	O
+his	O
+head	O
+,	O
+looking	O
+thoughtful	O
+.	O
+
+# id = conivel-mistborn-000310
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He opened his mouth to speak , but she pushed against him again , desperately using up her last pinch of Luck .
+He	O
+opened	O
+his	O
+mouth	O
+to	O
+speak	O
+,	O
+but	O
+she	O
+pushed	O
+against	O
+him	O
+again	O
+,	O
+desperately	O
+using	O
+up	O
+her	O
+last	O
+pinch	O
+of	O
+Luck	O
+.	O
+
+# id = conivel-mistborn-000311
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He paused again .
+He	O
+paused	O
+again	O
+.	O
+
+# id = conivel-mistborn-000312
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Very well , ''
+``	O
+Very	O
+well	O
+,	O
+''	O
+
+# id = conivel-mistborn-000313
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he finally said .
+he	O
+finally	O
+said	O
+.	O
+
+# id = conivel-mistborn-000314
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I will take this new proposal to the Council .
+``	O
+I	O
+will	O
+take	O
+this	O
+new	O
+proposal	O
+to	O
+the	O
+Council	O
+.	O
+
+# id = conivel-mistborn-000315
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Perhaps an agreement can still be reached . ''
+Perhaps	O
+an	O
+agreement	O
+can	O
+still	O
+be	O
+reached	O
+.	O
+''	O
+
+# id = conivel-mistborn-000316
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If men read these words , let them know that power is a heavy burden .
+If	O
+men	O
+read	O
+these	O
+words	O
+,	O
+let	O
+them	O
+know	O
+that	O
+power	O
+is	O
+a	O
+heavy	O
+burden	O
+.	O
+
+# id = conivel-mistborn-000317
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Seek not to be bound by its chains .
+Seek	O
+not	O
+to	O
+be	O
+bound	O
+by	O
+its	O
+chains	O
+.	O
+
+# id = conivel-mistborn-000318
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Terris prophecies say that I will have the power to save the world .
+The	O
+Terris	O
+prophecies	O
+say	O
+that	O
+I	O
+will	O
+have	O
+the	O
+power	O
+to	O
+save	O
+the	O
+world	O
+.	O
+
+# id = conivel-mistborn-000319
+# source = Conivel corrected OWTO literary NER
+# book = Mistborn
+# source_file = Mistborn.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They hint , however , that I will have the power to destroy it as well .
+They	O
+hint	O
+,	O
+however	O
+,	O
+that	O
+I	O
+will	O
+have	O
+the	O
+power	O
+to	O
+destroy	O
+it	O
+as	O
+well	O
+.	O
+

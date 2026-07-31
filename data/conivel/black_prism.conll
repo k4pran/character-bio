@@ -1,0 +1,7767 @@
+# id = conivel-the-black-prism-000001
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Though the adults shunned it and the children were forbidden to come here , he 'd played on the open field a hundred times -- during the day .
+Though	O
+the	O
+adults	O
+shunned	O
+it	O
+and	O
+the	O
+children	O
+were	O
+forbidden	O
+to	O
+come	O
+here	O
+,	O
+he	O
+'d	O
+played	O
+on	O
+the	O
+open	O
+field	O
+a	O
+hundred	O
+times	O
+--	O
+during	O
+the	O
+day	O
+.	O
+
+# id = conivel-the-black-prism-000002
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tonight , his purpose was grimmer .
+Tonight	O
+,	O
+his	O
+purpose	O
+was	O
+grimmer	O
+.	O
+
+# id = conivel-the-black-prism-000003
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Reaching the top of the hill , Kip stood and hiked up his pants .
+Reaching	O
+the	O
+top	O
+of	O
+the	O
+hill	O
+,	O
+Kip	B-CHARACTER
+stood	O
+and	O
+hiked	O
+up	O
+his	O
+pants	O
+.	O
+
+# id = conivel-the-black-prism-000004
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The river behind him was hissing , or maybe that was the warriors beneath its surface , dead these sixteen years .
+The	O
+river	O
+behind	O
+him	O
+was	O
+hissing	O
+,	O
+or	O
+maybe	O
+that	O
+was	O
+the	O
+warriors	O
+beneath	O
+its	O
+surface	O
+,	O
+dead	O
+these	O
+sixteen	O
+years	O
+.	O
+
+# id = conivel-the-black-prism-000005
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He squared his shoulders , ignoring his imagination .
+He	O
+squared	O
+his	O
+shoulders	O
+,	O
+ignoring	O
+his	O
+imagination	O
+.	O
+
+# id = conivel-the-black-prism-000006
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The mists made him seem suspended , outside of time .
+The	O
+mists	O
+made	O
+him	O
+seem	O
+suspended	O
+,	O
+outside	O
+of	O
+time	O
+.	O
+
+# id = conivel-the-black-prism-000007
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But even if there was no evidence of it , the sun was coming .
+But	O
+even	O
+if	O
+there	O
+was	O
+no	O
+evidence	O
+of	O
+it	O
+,	O
+the	O
+sun	O
+was	O
+coming	O
+.	O
+
+# id = conivel-the-black-prism-000008
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = By the time it did , he had to get to the far side of the battlefield .
+By	O
+the	O
+time	O
+it	O
+did	O
+,	O
+he	O
+had	O
+to	O
+get	O
+to	O
+the	O
+far	O
+side	O
+of	O
+the	O
+battlefield	O
+.	O
+
+# id = conivel-the-black-prism-000009
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Farther than he 'd ever gone searching .
+Farther	O
+than	O
+he	O
+'d	O
+ever	O
+gone	O
+searching	O
+.	O
+
+# id = conivel-the-black-prism-000010
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Even Ramir would n't come out here at night .
+Even	O
+Ramir	B-CHARACTER
+would	O
+n't	O
+come	O
+out	O
+here	O
+at	O
+night	O
+.	O
+
+# id = conivel-the-black-prism-000011
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Everyone knew Sundered Rock was haunted .
+Everyone	O
+knew	O
+Sundered	B-LOCATION
+Rock	I-LOCATION
+was	O
+haunted	O
+.	O
+
+# id = conivel-the-black-prism-000012
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But Ram did n't have to feed his family ; his mother did n't smoke her wages .
+But	O
+Ram	B-CHARACTER
+did	O
+n't	O
+have	O
+to	O
+feed	O
+his	O
+family	O
+;	O
+his	O
+mother	O
+did	O
+n't	O
+smoke	O
+her	O
+wages	O
+.	O
+
+# id = conivel-the-black-prism-000013
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Gripping his little belt knife tightly , Kip started walking .
+Gripping	O
+his	O
+little	O
+belt	O
+knife	O
+tightly	O
+,	O
+Kip	B-CHARACTER
+started	O
+walking	O
+.	O
+
+# id = conivel-the-black-prism-000014
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was n't just the unquiet dead that might pull him down to the evernight .
+It	O
+was	O
+n't	O
+just	O
+the	O
+unquiet	O
+dead	O
+that	O
+might	O
+pull	O
+him	O
+down	O
+to	O
+the	O
+evernight	O
+.	O
+
+# id = conivel-the-black-prism-000015
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A pack of giant javelinas had been seen roaming the night , tusks cruel , hooves sharp .
+A	O
+pack	O
+of	O
+giant	O
+javelinas	O
+had	O
+been	O
+seen	O
+roaming	O
+the	O
+night	O
+,	O
+tusks	O
+cruel	O
+,	O
+hooves	O
+sharp	O
+.	O
+
+# id = conivel-the-black-prism-000016
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were good eating if you had a matchlock , iron nerves , and good aim , but since the Prisms ' War had wiped out all the town 's men , there were n't many people who braved death for a little bacon .
+They	O
+were	O
+good	O
+eating	O
+if	O
+you	O
+had	O
+a	O
+matchlock	O
+,	O
+iron	O
+nerves	O
+,	O
+and	O
+good	O
+aim	O
+,	O
+but	O
+since	O
+the	O
+Prisms	O
+'	O
+War	O
+had	O
+wiped	O
+out	O
+all	O
+the	O
+town	O
+'s	O
+men	O
+,	O
+there	O
+were	O
+n't	O
+many	O
+people	O
+who	O
+braved	O
+death	O
+for	O
+a	O
+little	O
+bacon	O
+.	O
+
+# id = conivel-the-black-prism-000017
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Rekton was already a shell of what it had once been .
+Rekton	B-LOCATION
+was	O
+already	O
+a	O
+shell	O
+of	O
+what	O
+it	O
+had	O
+once	O
+been	O
+.	O
+
+# id = conivel-the-black-prism-000018
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The alcaldesa was n't eager for any of her townspeople to throw their lives away .
+The	O
+alcaldesa	O
+was	O
+n't	O
+eager	O
+for	O
+any	O
+of	O
+her	O
+townspeople	O
+to	O
+throw	O
+their	O
+lives	O
+away	O
+.	O
+
+# id = conivel-the-black-prism-000019
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Besides , Kip did n't have a matchlock .
+Besides	O
+,	O
+Kip	B-CHARACTER
+did	O
+n't	O
+have	O
+a	O
+matchlock	O
+.	O
+
+# id = conivel-the-black-prism-000020
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nor were javelinas the only creatures that roamed the night .
+Nor	O
+were	O
+javelinas	O
+the	O
+only	O
+creatures	O
+that	O
+roamed	O
+the	O
+night	O
+.	O
+
+# id = conivel-the-black-prism-000021
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A mountain lion or a golden bear would also probably enjoy a well-marbled Kip .
+A	O
+mountain	O
+lion	O
+or	O
+a	O
+golden	O
+bear	O
+would	O
+also	O
+probably	O
+enjoy	O
+a	O
+well-marbled	O
+Kip	B-CHARACTER
+.	O
+
+# id = conivel-the-black-prism-000022
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A low howl cut the mist and the darkness hundreds of paces deeper into the battlefield .
+A	O
+low	O
+howl	O
+cut	O
+the	O
+mist	O
+and	O
+the	O
+darkness	O
+hundreds	O
+of	O
+paces	O
+deeper	O
+into	O
+the	O
+battlefield	O
+.	O
+
+# id = conivel-the-black-prism-000023
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip froze .
+Kip	B-CHARACTER
+froze	O
+.	O
+
+# id = conivel-the-black-prism-000024
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Oh , there were wolves too .
+Oh	O
+,	O
+there	O
+were	O
+wolves	O
+too	O
+.	O
+
+# id = conivel-the-black-prism-000025
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How 'd he forget wolves ?
+How	O
+'d	O
+he	O
+forget	O
+wolves	O
+?	O
+
+# id = conivel-the-black-prism-000026
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Another wolf answered , farther out .
+Another	O
+wolf	O
+answered	O
+,	O
+farther	O
+out	O
+.	O
+
+# id = conivel-the-black-prism-000027
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A haunting sound , the very voice of the wilderness .
+A	O
+haunting	O
+sound	O
+,	O
+the	O
+very	O
+voice	O
+of	O
+the	O
+wilderness	O
+.	O
+
+# id = conivel-the-black-prism-000028
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You could n't help but freeze when you heard it .
+You	O
+could	O
+n't	O
+help	O
+but	O
+freeze	O
+when	O
+you	O
+heard	O
+it	O
+.	O
+
+# id = conivel-the-black-prism-000029
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was the kind of beauty that made you shit your pants .
+It	O
+was	O
+the	O
+kind	O
+of	O
+beauty	O
+that	O
+made	O
+you	O
+shit	O
+your	O
+pants	O
+.	O
+
+# id = conivel-the-black-prism-000030
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Wetting his lips , Kip got moving .
+Wetting	O
+his	O
+lips	O
+,	O
+Kip	B-CHARACTER
+got	O
+moving	O
+.	O
+
+# id = conivel-the-black-prism-000031
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had the distinct sensation of being followed .
+He	O
+had	O
+the	O
+distinct	O
+sensation	O
+of	O
+being	O
+followed	O
+.	O
+
+# id = conivel-the-black-prism-000032
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Stalked .
+Stalked	O
+.	O
+
+# id = conivel-the-black-prism-000033
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He looked over his shoulder .
+He	O
+looked	O
+over	O
+his	O
+shoulder	O
+.	O
+
+# id = conivel-the-black-prism-000034
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was nothing there .
+There	O
+was	O
+nothing	O
+there	O
+.	O
+
+# id = conivel-the-black-prism-000035
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Of course .
+Of	O
+course	O
+.	O
+
+# id = conivel-the-black-prism-000036
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His mother always said he had too much imagination .
+His	O
+mother	O
+always	O
+said	O
+he	O
+had	O
+too	O
+much	O
+imagination	O
+.	O
+
+# id = conivel-the-black-prism-000037
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Just walk , Kip .
+Just	O
+walk	O
+,	O
+Kip	B-CHARACTER
+.	O
+
+# id = conivel-the-black-prism-000038
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Places to be .
+Places	O
+to	O
+be	O
+.	O
+
+# id = conivel-the-black-prism-000039
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Animals are more scared of you and all that .
+Animals	O
+are	O
+more	O
+scared	O
+of	O
+you	O
+and	O
+all	O
+that	O
+.	O
+
+# id = conivel-the-black-prism-000040
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Besides , that was one of the tricks about a howl , it always sounded much closer than it really was .
+Besides	O
+,	O
+that	O
+was	O
+one	O
+of	O
+the	O
+tricks	O
+about	O
+a	O
+howl	O
+,	O
+it	O
+always	O
+sounded	O
+much	O
+closer	O
+than	O
+it	O
+really	O
+was	O
+.	O
+
+# id = conivel-the-black-prism-000041
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Those wolves were probably leagues away .
+Those	O
+wolves	O
+were	O
+probably	O
+leagues	O
+away	O
+.	O
+
+# id = conivel-the-black-prism-000042
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Before the Prisms ' War , this had been excellent farmland .
+Before	O
+the	O
+Prisms	O
+'	O
+War	O
+,	O
+this	O
+had	O
+been	O
+excellent	O
+farmland	O
+.	O
+
+# id = conivel-the-black-prism-000043
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Right next to the Umber River , suitable for figs , grapes , pears , dewberries , asparagus -- everything grew here .
+Right	O
+next	O
+to	O
+the	O
+Umber	B-LOCATION
+River	I-LOCATION
+,	O
+suitable	O
+for	O
+figs	O
+,	O
+grapes	O
+,	O
+pears	O
+,	O
+dewberries	O
+,	O
+asparagus	O
+--	O
+everything	O
+grew	O
+here	O
+.	O
+
+# id = conivel-the-black-prism-000044
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And it had been sixteen years since the final battle -- a year before Kip was even born .
+And	O
+it	O
+had	O
+been	O
+sixteen	O
+years	O
+since	O
+the	O
+final	O
+battle	O
+--	O
+a	O
+year	O
+before	O
+Kip	B-CHARACTER
+was	O
+even	O
+born	O
+.	O
+
+# id = conivel-the-black-prism-000045
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But the plain was still torn and scarred .
+But	O
+the	O
+plain	O
+was	O
+still	O
+torn	O
+and	O
+scarred	O
+.	O
+
+# id = conivel-the-black-prism-000046
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A few burnt timbers of old homes and barns poked out of the dirt .
+A	O
+few	O
+burnt	O
+timbers	O
+of	O
+old	O
+homes	O
+and	O
+barns	O
+poked	O
+out	O
+of	O
+the	O
+dirt	O
+.	O
+
+# id = conivel-the-black-prism-000047
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Deep furrows and craters remained from cannon shells .
+Deep	O
+furrows	O
+and	O
+craters	O
+remained	O
+from	O
+cannon	O
+shells	O
+.	O
+
+# id = conivel-the-black-prism-000048
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Filled now with swirling mist , those craters looked like lakes , tunnels , traps .
+Filled	O
+now	O
+with	O
+swirling	O
+mist	O
+,	O
+those	O
+craters	O
+looked	O
+like	O
+lakes	O
+,	O
+tunnels	O
+,	O
+traps	O
+.	O
+
+# id = conivel-the-black-prism-000049
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bottomless .
+Bottomless	O
+.	O
+
+# id = conivel-the-black-prism-000050
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Unfathomable .
+Unfathomable	O
+.	O
+
+# id = conivel-the-black-prism-000051
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Most of the magic used in the battle had dissolved sooner or later in the years of sun exposure , but here and there broken green luxin spears still glittered .
+Most	O
+of	O
+the	O
+magic	O
+used	O
+in	O
+the	O
+battle	O
+had	O
+dissolved	O
+sooner	O
+or	O
+later	O
+in	O
+the	O
+years	O
+of	O
+sun	O
+exposure	O
+,	O
+but	O
+here	O
+and	O
+there	O
+broken	O
+green	O
+luxin	O
+spears	O
+still	O
+glittered	O
+.	O
+
+# id = conivel-the-black-prism-000052
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Shards of solid yellow underfoot would cut through the toughest shoe leather .
+Shards	O
+of	O
+solid	O
+yellow	O
+underfoot	O
+would	O
+cut	O
+through	O
+the	O
+toughest	O
+shoe	O
+leather	O
+.	O
+
+# id = conivel-the-black-prism-000053
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Scavengers had long since taken all the valuable arms , mail , and luxin from the battlefield , but as the seasons passed and rains fell , more mysteries surfaced each year .
+Scavengers	O
+had	O
+long	O
+since	O
+taken	O
+all	O
+the	O
+valuable	O
+arms	O
+,	O
+mail	O
+,	O
+and	O
+luxin	O
+from	O
+the	O
+battlefield	O
+,	O
+but	O
+as	O
+the	O
+seasons	O
+passed	O
+and	O
+rains	O
+fell	O
+,	O
+more	O
+mysteries	O
+surfaced	O
+each	O
+year	O
+.	O
+
+# id = conivel-the-black-prism-000054
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That was what Kip was hoping for -- and what he was seeking was most visible in the first rays of dawn .
+That	O
+was	O
+what	O
+Kip	B-CHARACTER
+was	O
+hoping	O
+for	O
+--	O
+and	O
+what	O
+he	O
+was	O
+seeking	O
+was	O
+most	O
+visible	O
+in	O
+the	O
+first	O
+rays	O
+of	O
+dawn	O
+.	O
+
+# id = conivel-the-black-prism-000055
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The wolves stopped howling .
+The	O
+wolves	O
+stopped	O
+howling	O
+.	O
+
+# id = conivel-the-black-prism-000056
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nothing was worse than hearing that chilling sound , but at least with the sound he knew where they were .
+Nothing	O
+was	O
+worse	O
+than	O
+hearing	O
+that	O
+chilling	O
+sound	O
+,	O
+but	O
+at	O
+least	O
+with	O
+the	O
+sound	O
+he	O
+knew	O
+where	O
+they	O
+were	O
+.	O
+
+# id = conivel-the-black-prism-000057
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now ... Kip swallowed on the hard knot in his throat .
+Now	O
+...	O
+Kip	B-CHARACTER
+swallowed	O
+on	O
+the	O
+hard	O
+knot	O
+in	O
+his	O
+throat	O
+.	O
+
+# id = conivel-the-black-prism-000058
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As he walked in the valley of the shadow of two great unnatural hills -- the remnant of two of the great funeral pyres where tens of thousands had burned -- Kip saw something in the mist .
+As	O
+he	O
+walked	O
+in	O
+the	O
+valley	O
+of	O
+the	O
+shadow	O
+of	O
+two	O
+great	O
+unnatural	O
+hills	O
+--	O
+the	O
+remnant	O
+of	O
+two	O
+of	O
+the	O
+great	O
+funeral	O
+pyres	O
+where	O
+tens	O
+of	O
+thousands	O
+had	O
+burned	O
+--	O
+Kip	B-CHARACTER
+saw	O
+something	O
+in	O
+the	O
+mist	O
+.	O
+
+# id = conivel-the-black-prism-000059
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His heart leapt into his throat .
+His	O
+heart	O
+leapt	O
+into	O
+his	O
+throat	O
+.	O
+
+# id = conivel-the-black-prism-000060
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The curve of a mail cowl .
+The	O
+curve	O
+of	O
+a	O
+mail	O
+cowl	O
+.	O
+
+# id = conivel-the-black-prism-000061
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A glint of eyes searching the darkness .
+A	O
+glint	O
+of	O
+eyes	O
+searching	O
+the	O
+darkness	O
+.	O
+
+# id = conivel-the-black-prism-000062
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then it was swallowed up in the roiling mists .
+Then	O
+it	O
+was	O
+swallowed	O
+up	O
+in	O
+the	O
+roiling	O
+mists	O
+.	O
+
+# id = conivel-the-black-prism-000063
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A ghost .
+A	O
+ghost	O
+.	O
+
+# id = conivel-the-black-prism-000064
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Dear Orholam .
+Dear	O
+Orholam	B-CHARACTER
+.	O
+
+# id = conivel-the-black-prism-000065
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Some spirit keeping watch at its grave .
+Some	O
+spirit	O
+keeping	O
+watch	O
+at	O
+its	O
+grave	O
+.	O
+
+# id = conivel-the-black-prism-000066
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Look on the bright side .
+Look	O
+on	O
+the	O
+bright	O
+side	O
+.	O
+
+# id = conivel-the-black-prism-000067
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Maybe wolves are scared of ghosts .
+Maybe	O
+wolves	O
+are	O
+scared	O
+of	O
+ghosts	O
+.	O
+
+# id = conivel-the-black-prism-000068
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip realized he 'd stopped walking , peering into the darkness .
+Kip	B-CHARACTER
+realized	O
+he	O
+'d	O
+stopped	O
+walking	O
+,	O
+peering	O
+into	O
+the	O
+darkness	O
+.	O
+
+# id = conivel-the-black-prism-000069
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Move , fathead .
+Move	O
+,	O
+fathead	O
+.	O
+
+# id = conivel-the-black-prism-000070
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He moved , keeping low .
+He	O
+moved	O
+,	O
+keeping	O
+low	O
+.	O
+
+# id = conivel-the-black-prism-000071
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He might be big , but he prided himself on being light on his feet .
+He	O
+might	O
+be	O
+big	O
+,	O
+but	O
+he	O
+prided	O
+himself	O
+on	O
+being	O
+light	O
+on	O
+his	O
+feet	O
+.	O
+
+# id = conivel-the-black-prism-000072
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He tore his eyes away from the hill -- still no sign of the ghost or man or whatever it was .
+He	O
+tore	O
+his	O
+eyes	O
+away	O
+from	O
+the	O
+hill	O
+--	O
+still	O
+no	O
+sign	O
+of	O
+the	O
+ghost	O
+or	O
+man	O
+or	O
+whatever	O
+it	O
+was	O
+.	O
+
+# id = conivel-the-black-prism-000073
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had that feeling again that he was being stalked .
+He	O
+had	O
+that	O
+feeling	O
+again	O
+that	O
+he	O
+was	O
+being	O
+stalked	O
+.	O
+
+# id = conivel-the-black-prism-000074
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He looked back .
+He	O
+looked	O
+back	O
+.	O
+
+# id = conivel-the-black-prism-000075
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nothing .
+Nothing	O
+.	O
+
+# id = conivel-the-black-prism-000076
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A quick click , like someone dropping a small stone .
+A	O
+quick	O
+click	O
+,	O
+like	O
+someone	O
+dropping	O
+a	O
+small	O
+stone	O
+.	O
+
+# id = conivel-the-black-prism-000077
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And something at the corner of his eye .
+And	O
+something	O
+at	O
+the	O
+corner	O
+of	O
+his	O
+eye	O
+.	O
+
+# id = conivel-the-black-prism-000078
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip shot a look up the hill .
+Kip	B-CHARACTER
+shot	O
+a	O
+look	O
+up	O
+the	O
+hill	O
+.	O
+
+# id = conivel-the-black-prism-000079
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A click , a spark , the striking of flint against steel .
+A	O
+click	O
+,	O
+a	O
+spark	O
+,	O
+the	O
+striking	O
+of	O
+flint	O
+against	O
+steel	O
+.	O
+
+# id = conivel-the-black-prism-000080
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The mists illuminated for that briefest moment , Kip saw few details .
+The	O
+mists	O
+illuminated	O
+for	O
+that	O
+briefest	O
+moment	O
+,	O
+Kip	B-CHARACTER
+saw	O
+few	O
+details	O
+.	O
+
+# id = conivel-the-black-prism-000081
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not a ghost -- a soldier striking a flint , trying to light a slow-match .
+Not	O
+a	O
+ghost	O
+--	O
+a	O
+soldier	O
+striking	O
+a	O
+flint	O
+,	O
+trying	O
+to	O
+light	O
+a	O
+slow-match	O
+.	O
+
+# id = conivel-the-black-prism-000082
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It caught fire , casting a red glow on the soldier 's face , making his eyes seem to glow .
+It	O
+caught	O
+fire	O
+,	O
+casting	O
+a	O
+red	O
+glow	O
+on	O
+the	O
+soldier	O
+'s	O
+face	O
+,	O
+making	O
+his	O
+eyes	O
+seem	O
+to	O
+glow	O
+.	O
+
+# id = conivel-the-black-prism-000083
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He affixed the slow-match to the match-holder of his matchlock and spun , looking for targets in the darkness .
+He	O
+affixed	O
+the	O
+slow-match	O
+to	O
+the	O
+match-holder	O
+of	O
+his	O
+matchlock	O
+and	O
+spun	O
+,	O
+looking	O
+for	O
+targets	O
+in	O
+the	O
+darkness	O
+.	O
+
+# id = conivel-the-black-prism-000084
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His night vision must have been ruined by staring at the brief flame on his match , now a smoldering red ember , because his eyes passed right over Kip .
+His	O
+night	O
+vision	O
+must	O
+have	O
+been	O
+ruined	O
+by	O
+staring	O
+at	O
+the	O
+brief	O
+flame	O
+on	O
+his	O
+match	O
+,	O
+now	O
+a	O
+smoldering	O
+red	O
+ember	O
+,	O
+because	O
+his	O
+eyes	O
+passed	O
+right	O
+over	O
+Kip	B-CHARACTER
+.	O
+
+# id = conivel-the-black-prism-000085
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The soldier turned again , sharply , paranoid .
+The	O
+soldier	O
+turned	O
+again	O
+,	O
+sharply	O
+,	O
+paranoid	O
+.	O
+
+# id = conivel-the-black-prism-000086
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The hell am I supposed to see out here , anyway ?
+``	O
+The	O
+hell	O
+am	O
+I	O
+supposed	O
+to	O
+see	O
+out	O
+here	O
+,	O
+anyway	O
+?	O
+
+# id = conivel-the-black-prism-000087
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Swivin ' wolves . ''
+Swivin	O
+'	O
+wolves	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000088
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Very , very carefully , Kip started walking away .
+Very	O
+,	O
+very	O
+carefully	O
+,	O
+Kip	B-CHARACTER
+started	O
+walking	O
+away	O
+.	O
+
+# id = conivel-the-black-prism-000089
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had to get deeper into the mist and darkness before the soldier 's night vision recovered , but if he made noise , the man might fire blindly .
+He	O
+had	O
+to	O
+get	O
+deeper	O
+into	O
+the	O
+mist	O
+and	O
+darkness	O
+before	O
+the	O
+soldier	O
+'s	O
+night	O
+vision	O
+recovered	O
+,	O
+but	O
+if	O
+he	O
+made	O
+noise	O
+,	O
+the	O
+man	O
+might	O
+fire	O
+blindly	O
+.	O
+
+# id = conivel-the-black-prism-000090
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip walked on his toes , silently , his back itching , sure that a lead ball was going to tear through him at any moment .
+Kip	B-CHARACTER
+walked	O
+on	O
+his	O
+toes	O
+,	O
+silently	O
+,	O
+his	O
+back	O
+itching	O
+,	O
+sure	O
+that	O
+a	O
+lead	O
+ball	O
+was	O
+going	O
+to	O
+tear	O
+through	O
+him	O
+at	O
+any	O
+moment	O
+.	O
+
+# id = conivel-the-black-prism-000091
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But he made it .
+But	O
+he	O
+made	O
+it	O
+.	O
+
+# id = conivel-the-black-prism-000092
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A hundred paces , more , and no one yelled .
+A	O
+hundred	O
+paces	O
+,	O
+more	O
+,	O
+and	O
+no	O
+one	O
+yelled	O
+.	O
+
+# id = conivel-the-black-prism-000093
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No shot cracked the night .
+No	O
+shot	O
+cracked	O
+the	O
+night	O
+.	O
+
+# id = conivel-the-black-prism-000094
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Farther .
+Farther	O
+.	O
+
+# id = conivel-the-black-prism-000095
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Two hundred paces more , and he saw light off to his left , a campfire .
+Two	O
+hundred	O
+paces	O
+more	O
+,	O
+and	O
+he	O
+saw	O
+light	O
+off	O
+to	O
+his	O
+left	O
+,	O
+a	O
+campfire	O
+.	O
+
+# id = conivel-the-black-prism-000096
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It had burned so low it was barely more than coals now .
+It	O
+had	O
+burned	O
+so	O
+low	O
+it	O
+was	O
+barely	O
+more	O
+than	O
+coals	O
+now	O
+.	O
+
+# id = conivel-the-black-prism-000097
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip tried not to look directly at it to save his vision .
+Kip	B-CHARACTER
+tried	O
+not	O
+to	O
+look	O
+directly	O
+at	O
+it	O
+to	O
+save	O
+his	O
+vision	O
+.	O
+
+# id = conivel-the-black-prism-000098
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was no tent , no bedrolls nearby , just the fire .
+There	O
+was	O
+no	O
+tent	O
+,	O
+no	O
+bedrolls	O
+nearby	O
+,	O
+just	O
+the	O
+fire	O
+.	O
+
+# id = conivel-the-black-prism-000099
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip tried Master Danavis 's trick for seeing in darkness .
+Kip	B-CHARACTER
+tried	O
+Master	B-CHARACTER
+Danavis	I-CHARACTER
+'s	O
+trick	O
+for	O
+seeing	O
+in	O
+darkness	O
+.	O
+
+# id = conivel-the-black-prism-000100
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He let his focus relax and tried to view things from the periphery of his vision .
+He	O
+let	O
+his	O
+focus	O
+relax	O
+and	O
+tried	O
+to	O
+view	O
+things	O
+from	O
+the	O
+periphery	O
+of	O
+his	O
+vision	O
+.	O
+
+# id = conivel-the-black-prism-000101
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nothing but an irregularity , perhaps .
+Nothing	O
+but	O
+an	O
+irregularity	O
+,	O
+perhaps	O
+.	O
+
+# id = conivel-the-black-prism-000102
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He moved closer .
+He	O
+moved	O
+closer	O
+.	O
+
+# id = conivel-the-black-prism-000103
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Two men lay on the cold ground .
+Two	O
+men	O
+lay	O
+on	O
+the	O
+cold	O
+ground	O
+.	O
+
+# id = conivel-the-black-prism-000104
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One was a soldier .
+One	O
+was	O
+a	O
+soldier	O
+.	O
+
+# id = conivel-the-black-prism-000105
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip had seen his mother unconscious plenty of times ; he knew instantly this man was n't passed out .
+Kip	B-CHARACTER
+had	O
+seen	O
+his	O
+mother	O
+unconscious	O
+plenty	O
+of	O
+times	O
+;	O
+he	O
+knew	O
+instantly	O
+this	O
+man	O
+was	O
+n't	O
+passed	O
+out	O
+.	O
+
+# id = conivel-the-black-prism-000106
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was sprawled unnaturally , there were no blankets , and his mouth hung open , slack-jawed , eyes staring unblinking at the night .
+He	O
+was	O
+sprawled	O
+unnaturally	O
+,	O
+there	O
+were	O
+no	O
+blankets	O
+,	O
+and	O
+his	O
+mouth	O
+hung	O
+open	O
+,	O
+slack-jawed	O
+,	O
+eyes	O
+staring	O
+unblinking	O
+at	O
+the	O
+night	O
+.	O
+
+# id = conivel-the-black-prism-000107
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Next to the dead soldier lay another man , bound in chains but alive .
+Next	O
+to	O
+the	O
+dead	O
+soldier	O
+lay	O
+another	O
+man	O
+,	O
+bound	O
+in	O
+chains	O
+but	O
+alive	O
+.	O
+
+# id = conivel-the-black-prism-000108
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He lay on his side , hands manacled behind his back , a black bag over his head and cinched tight around his neck .
+He	O
+lay	O
+on	O
+his	O
+side	O
+,	O
+hands	O
+manacled	O
+behind	O
+his	O
+back	O
+,	O
+a	O
+black	O
+bag	O
+over	O
+his	O
+head	O
+and	O
+cinched	O
+tight	O
+around	O
+his	O
+neck	O
+.	O
+
+# id = conivel-the-black-prism-000109
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The prisoner was alive , trembling .
+The	O
+prisoner	O
+was	O
+alive	O
+,	O
+trembling	O
+.	O
+
+# id = conivel-the-black-prism-000110
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No , weeping .
+No	O
+,	O
+weeping	O
+.	O
+
+# id = conivel-the-black-prism-000111
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip looked around ; there was no one else in sight .
+Kip	B-CHARACTER
+looked	O
+around	O
+;	O
+there	O
+was	O
+no	O
+one	O
+else	O
+in	O
+sight	O
+.	O
+
+# id = conivel-the-black-prism-000112
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Why do n't you just finish it , damn you ? ''
+``	O
+Why	O
+do	O
+n't	O
+you	O
+just	O
+finish	O
+it	O
+,	O
+damn	O
+you	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000113
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the prisoner said .
+the	O
+prisoner	O
+said	O
+.	O
+
+# id = conivel-the-black-prism-000114
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip froze .
+Kip	B-CHARACTER
+froze	O
+.	O
+
+# id = conivel-the-black-prism-000115
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He thought he 'd approached silently .
+He	O
+thought	O
+he	O
+'d	O
+approached	O
+silently	O
+.	O
+
+# id = conivel-the-black-prism-000116
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Coward , ''
+``	O
+Coward	O
+,	O
+''	O
+
+# id = conivel-the-black-prism-000117
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the prisoner said .
+the	O
+prisoner	O
+said	O
+.	O
+
+# id = conivel-the-black-prism-000118
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Just following your orders , I suppose ?
+``	O
+Just	O
+following	O
+your	O
+orders	O
+,	O
+I	O
+suppose	O
+?	O
+
+# id = conivel-the-black-prism-000119
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Orholam will smite you for what you 're about to do to that little town . ''
+Orholam	B-CHARACTER
+will	O
+smite	O
+you	O
+for	O
+what	O
+you	O
+'re	O
+about	O
+to	O
+do	O
+to	O
+that	O
+little	O
+town	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000120
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip had no idea what the man was talking about .
+Kip	B-CHARACTER
+had	O
+no	O
+idea	O
+what	O
+the	O
+man	O
+was	O
+talking	O
+about	O
+.	O
+
+# id = conivel-the-black-prism-000121
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Apparently his silence spoke for him .
+Apparently	O
+his	O
+silence	O
+spoke	O
+for	O
+him	O
+.	O
+
+# id = conivel-the-black-prism-000122
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 're not one of them . ''
+``	O
+You	O
+'re	O
+not	O
+one	O
+of	O
+them	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000123
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A note of hope entered the prisoner 's voice .
+A	O
+note	O
+of	O
+hope	O
+entered	O
+the	O
+prisoner	O
+'s	O
+voice	O
+.	O
+
+# id = conivel-the-black-prism-000124
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Please , help me ! ''
+``	O
+Please	O
+,	O
+help	O
+me	O
+!	O
+''	O
+
+# id = conivel-the-black-prism-000125
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip stepped forward .
+Kip	B-CHARACTER
+stepped	O
+forward	O
+.	O
+
+# id = conivel-the-black-prism-000126
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The man was suffering .
+The	O
+man	O
+was	O
+suffering	O
+.	O
+
+# id = conivel-the-black-prism-000127
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then he stopped .
+Then	O
+he	O
+stopped	O
+.	O
+
+# id = conivel-the-black-prism-000128
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Looked at the dead soldier .
+Looked	O
+at	O
+the	O
+dead	O
+soldier	O
+.	O
+
+# id = conivel-the-black-prism-000129
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The front of the soldier 's shirt was soaked with blood .
+The	O
+front	O
+of	O
+the	O
+soldier	O
+'s	O
+shirt	O
+was	O
+soaked	O
+with	O
+blood	O
+.	O
+
+# id = conivel-the-black-prism-000130
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Had this prisoner killed him ?
+Had	O
+this	O
+prisoner	O
+killed	O
+him	O
+?	O
+
+# id = conivel-the-black-prism-000131
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How ?
+How	O
+?	O
+
+# id = conivel-the-black-prism-000132
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Please , leave me chained if you must .
+``	O
+Please	O
+,	O
+leave	O
+me	O
+chained	O
+if	O
+you	O
+must	O
+.	O
+
+# id = conivel-the-black-prism-000133
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But please , I do n't want to die in darkness . ''
+But	O
+please	O
+,	O
+I	O
+do	O
+n't	O
+want	O
+to	O
+die	O
+in	O
+darkness	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000134
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip stayed back , though it felt cruel .
+Kip	B-CHARACTER
+stayed	O
+back	O
+,	O
+though	O
+it	O
+felt	O
+cruel	O
+.	O
+
+# id = conivel-the-black-prism-000135
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You killed him ? ''
+``	O
+You	O
+killed	O
+him	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000136
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm supposed to be executed at first light .
+``	O
+I	O
+'m	O
+supposed	O
+to	O
+be	O
+executed	O
+at	O
+first	O
+light	O
+.	O
+
+# id = conivel-the-black-prism-000137
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I got away .
+I	O
+got	O
+away	O
+.	O
+
+# id = conivel-the-black-prism-000138
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He chased me down and got the bag over my head before he died .
+He	O
+chased	O
+me	O
+down	O
+and	O
+got	O
+the	O
+bag	O
+over	O
+my	O
+head	O
+before	O
+he	O
+died	O
+.	O
+
+# id = conivel-the-black-prism-000139
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If dawn 's close , his replacement is coming anytime now . ''
+If	O
+dawn	O
+'s	O
+close	O
+,	O
+his	O
+replacement	O
+is	O
+coming	O
+anytime	O
+now	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000140
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip still was n't putting it together .
+Kip	B-CHARACTER
+still	O
+was	O
+n't	O
+putting	O
+it	O
+together	O
+.	O
+
+# id = conivel-the-black-prism-000141
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No one in Rekton trusted the soldiers who came through , and the alcaldesa had told the town 's young people to give any soldiers a wide berth for a while -- apparently the new satrap Garadul had declared himself free of the Chromeria 's control .
+No	O
+one	O
+in	O
+Rekton	B-LOCATION
+trusted	O
+the	O
+soldiers	O
+who	O
+came	O
+through	O
+,	O
+and	O
+the	O
+alcaldesa	O
+had	O
+told	O
+the	O
+town	O
+'s	O
+young	O
+people	O
+to	O
+give	O
+any	O
+soldiers	O
+a	O
+wide	O
+berth	O
+for	O
+a	O
+while	O
+--	O
+apparently	O
+the	O
+new	O
+satrap	O
+Garadul	B-CHARACTER
+had	O
+declared	O
+himself	O
+free	O
+of	O
+the	O
+Chromeria	O
+'s	O
+control	O
+.	O
+
+# id = conivel-the-black-prism-000142
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now he was King Garadul , he said , but he wanted the usual levies from the town 's young people .
+Now	O
+he	O
+was	O
+King	B-CHARACTER
+Garadul	I-CHARACTER
+,	O
+he	O
+said	O
+,	O
+but	O
+he	O
+wanted	O
+the	O
+usual	O
+levies	O
+from	O
+the	O
+town	O
+'s	O
+young	O
+people	O
+.	O
+
+# id = conivel-the-black-prism-000143
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The alcaldesa had told his representative that if he was n't the satrap anymore , he did n't have the right to raise levies .
+The	O
+alcaldesa	O
+had	O
+told	O
+his	O
+representative	O
+that	O
+if	O
+he	O
+was	O
+n't	O
+the	O
+satrap	O
+anymore	O
+,	O
+he	O
+did	O
+n't	O
+have	O
+the	O
+right	O
+to	O
+raise	O
+levies	O
+.	O
+
+# id = conivel-the-black-prism-000144
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = King or satrap , Garadul could n't be happy with that , but Rekton was too small to bother with .
+King	O
+or	O
+satrap	O
+,	O
+Garadul	B-CHARACTER
+could	O
+n't	O
+be	O
+happy	O
+with	O
+that	O
+,	O
+but	O
+Rekton	B-LOCATION
+was	O
+too	O
+small	O
+to	O
+bother	O
+with	O
+.	O
+
+# id = conivel-the-black-prism-000145
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Still , it would be wise to avoid his soldiers until this all blew over .
+Still	O
+,	O
+it	O
+would	O
+be	O
+wise	O
+to	O
+avoid	O
+his	O
+soldiers	O
+until	O
+this	O
+all	O
+blew	O
+over	O
+.	O
+
+# id = conivel-the-black-prism-000146
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = On the other hand , just because Rekton was n't getting along with the satrap right now did n't make this man Kip 's friend .
+On	O
+the	O
+other	O
+hand	O
+,	O
+just	O
+because	O
+Rekton	B-LOCATION
+was	O
+n't	O
+getting	O
+along	O
+with	O
+the	O
+satrap	O
+right	O
+now	O
+did	O
+n't	O
+make	O
+this	O
+man	O
+Kip	B-CHARACTER
+'s	O
+friend	O
+.	O
+
+# id = conivel-the-black-prism-000147
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` So you are a criminal ? ''
+``	O
+So	O
+you	O
+are	O
+a	O
+criminal	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000148
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip asked .
+Kip	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-the-black-prism-000149
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Of six shades to Sun Day , ''
+``	O
+Of	O
+six	O
+shades	O
+to	O
+Sun	O
+Day	O
+,	O
+''	O
+
+# id = conivel-the-black-prism-000150
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the man said .
+the	O
+man	O
+said	O
+.	O
+
+# id = conivel-the-black-prism-000151
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The hope leaked out of his voice .
+The	O
+hope	O
+leaked	O
+out	O
+of	O
+his	O
+voice	O
+.	O
+
+# id = conivel-the-black-prism-000152
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Look , boy -- you are a child , are n't you ?
+``	O
+Look	O
+,	O
+boy	O
+--	O
+you	O
+are	O
+a	O
+child	O
+,	O
+are	O
+n't	O
+you	O
+?	O
+
+# id = conivel-the-black-prism-000153
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You sound like one .
+You	O
+sound	O
+like	O
+one	O
+.	O
+
+# id = conivel-the-black-prism-000154
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'm going to die today .
+I	O
+'m	O
+going	O
+to	O
+die	O
+today	O
+.	O
+
+# id = conivel-the-black-prism-000155
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I ca n't get away .
+I	O
+ca	O
+n't	O
+get	O
+away	O
+.	O
+
+# id = conivel-the-black-prism-000156
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Truth to tell , I do n't want to .
+Truth	O
+to	O
+tell	O
+,	O
+I	O
+do	O
+n't	O
+want	O
+to	O
+.	O
+
+# id = conivel-the-black-prism-000157
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 've run enough .
+I	O
+'ve	O
+run	O
+enough	O
+.	O
+
+# id = conivel-the-black-prism-000158
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This time , I fight . ''
+This	O
+time	O
+,	O
+I	O
+fight	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000159
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do n't understand . ''
+``	O
+I	O
+do	O
+n't	O
+understand	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000160
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You will .
+``	O
+You	O
+will	O
+.	O
+
+# id = conivel-the-black-prism-000161
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Take off my hood . ''
+Take	O
+off	O
+my	O
+hood	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000162
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Though some vague doubt nagged Kip , he untied the half-knot around the man 's neck and pulled off the hood .
+Though	O
+some	O
+vague	O
+doubt	O
+nagged	O
+Kip	B-CHARACTER
+,	O
+he	O
+untied	O
+the	O
+half-knot	O
+around	O
+the	O
+man	O
+'s	O
+neck	O
+and	O
+pulled	O
+off	O
+the	O
+hood	O
+.	O
+
+# id = conivel-the-black-prism-000163
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At first , Kip had no idea what the prisoner was talking about .
+At	O
+first	O
+,	O
+Kip	B-CHARACTER
+had	O
+no	O
+idea	O
+what	O
+the	O
+prisoner	O
+was	O
+talking	O
+about	O
+.	O
+
+# id = conivel-the-black-prism-000164
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The man sat up , arms still bound behind his back .
+The	O
+man	O
+sat	O
+up	O
+,	O
+arms	O
+still	O
+bound	O
+behind	O
+his	O
+back	O
+.	O
+
+# id = conivel-the-black-prism-000165
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was perhaps thirty years old , Tyrean like Kip but with a lighter complexion , his hair wavy rather than kinky , his limbs thin and muscular .
+He	O
+was	O
+perhaps	O
+thirty	O
+years	O
+old	O
+,	O
+Tyrean	O
+like	O
+Kip	B-CHARACTER
+but	O
+with	O
+a	O
+lighter	O
+complexion	O
+,	O
+his	O
+hair	O
+wavy	O
+rather	O
+than	O
+kinky	O
+,	O
+his	O
+limbs	O
+thin	O
+and	O
+muscular	O
+.	O
+
+# id = conivel-the-black-prism-000166
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then Kip saw his eyes .
+Then	O
+Kip	B-CHARACTER
+saw	O
+his	O
+eyes	O
+.	O
+
+# id = conivel-the-black-prism-000167
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Men and women who could harness light and make luxin -- drafters -- always had unusual eyes .
+Men	O
+and	O
+women	O
+who	O
+could	O
+harness	O
+light	O
+and	O
+make	O
+luxin	O
+--	O
+drafters	O
+--	O
+always	O
+had	O
+unusual	O
+eyes	O
+.	O
+
+# id = conivel-the-black-prism-000168
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A little residue of whatever color they drafted ended up in their eyes .
+A	O
+little	O
+residue	O
+of	O
+whatever	O
+color	O
+they	O
+drafted	O
+ended	O
+up	O
+in	O
+their	O
+eyes	O
+.	O
+
+# id = conivel-the-black-prism-000169
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Over the course of their life , it would stain the entire iris red , or blue , or whatever their color was .
+Over	O
+the	O
+course	O
+of	O
+their	O
+life	O
+,	O
+it	O
+would	O
+stain	O
+the	O
+entire	O
+iris	O
+red	O
+,	O
+or	O
+blue	O
+,	O
+or	O
+whatever	O
+their	O
+color	O
+was	O
+.	O
+
+# id = conivel-the-black-prism-000170
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The prisoner was a green drafter -- or had been .
+The	O
+prisoner	O
+was	O
+a	O
+green	O
+drafter	O
+--	O
+or	O
+had	O
+been	O
+.	O
+
+# id = conivel-the-black-prism-000171
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Instead of the green being bound in a halo within the iris , it was shattered like crockery smashed to the floor .
+Instead	O
+of	O
+the	O
+green	O
+being	O
+bound	O
+in	O
+a	O
+halo	O
+within	O
+the	O
+iris	O
+,	O
+it	O
+was	O
+shattered	O
+like	O
+crockery	O
+smashed	O
+to	O
+the	O
+floor	O
+.	O
+
+# id = conivel-the-black-prism-000172
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Little green fragments glowed even in the whites of his eyes .
+Little	O
+green	O
+fragments	O
+glowed	O
+even	O
+in	O
+the	O
+whites	O
+of	O
+his	O
+eyes	O
+.	O
+
+# id = conivel-the-black-prism-000173
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip gasped and shrank back .
+Kip	B-CHARACTER
+gasped	O
+and	O
+shrank	O
+back	O
+.	O
+
+# id = conivel-the-black-prism-000174
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Please ! ''
+``	O
+Please	O
+!	O
+''	O
+
+# id = conivel-the-black-prism-000175
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the man said .
+the	O
+man	O
+said	O
+.	O
+
+# id = conivel-the-black-prism-000176
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Please , the madness is n't on me .
+``	O
+Please	O
+,	O
+the	O
+madness	O
+is	O
+n't	O
+on	O
+me	O
+.	O
+
+# id = conivel-the-black-prism-000177
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I wo n't hurt you . ''
+I	O
+wo	O
+n't	O
+hurt	O
+you	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000178
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 're a color wight . ''
+``	O
+You	O
+'re	O
+a	O
+color	O
+wight	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000179
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And now you know why I ran away from the Chromeria , ''
+``	O
+And	O
+now	O
+you	O
+know	O
+why	O
+I	O
+ran	O
+away	O
+from	O
+the	O
+Chromeria	O
+,	O
+''	O
+
+# id = conivel-the-black-prism-000180
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the man said .
+the	O
+man	O
+said	O
+.	O
+
+# id = conivel-the-black-prism-000181
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Because the Chromeria put down color wights like a farmer put down a beloved , rabid dog .
+Because	O
+the	O
+Chromeria	O
+put	O
+down	O
+color	O
+wights	O
+like	O
+a	O
+farmer	O
+put	O
+down	O
+a	O
+beloved	O
+,	O
+rabid	O
+dog	O
+.	O
+
+# id = conivel-the-black-prism-000182
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip was on the verge of bolting , but the man was n't making any threatening moves .
+Kip	B-CHARACTER
+was	O
+on	O
+the	O
+verge	O
+of	O
+bolting	O
+,	O
+but	O
+the	O
+man	O
+was	O
+n't	O
+making	O
+any	O
+threatening	O
+moves	O
+.	O
+
+# id = conivel-the-black-prism-000183
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And besides , it was still dark .
+And	O
+besides	O
+,	O
+it	O
+was	O
+still	O
+dark	O
+.	O
+
+# id = conivel-the-black-prism-000184
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Even color wights needed light to draft .
+Even	O
+color	O
+wights	O
+needed	O
+light	O
+to	O
+draft	O
+.	O
+
+# id = conivel-the-black-prism-000185
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The mist did seem lighter , though , gray beginning to touch the horizon .
+The	O
+mist	O
+did	O
+seem	O
+lighter	O
+,	O
+though	O
+,	O
+gray	O
+beginning	O
+to	O
+touch	O
+the	O
+horizon	O
+.	O
+
+# id = conivel-the-black-prism-000186
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was crazy to talk to a madman , but maybe it was n't too crazy .
+It	O
+was	O
+crazy	O
+to	O
+talk	O
+to	O
+a	O
+madman	O
+,	O
+but	O
+maybe	O
+it	O
+was	O
+n't	O
+too	O
+crazy	O
+.	O
+
+# id = conivel-the-black-prism-000187
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At least until dawn .
+At	O
+least	O
+until	O
+dawn	O
+.	O
+
+# id = conivel-the-black-prism-000188
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The color wight was looking at Kip oddly .
+The	O
+color	O
+wight	O
+was	O
+looking	O
+at	O
+Kip	B-CHARACTER
+oddly	O
+.	O
+
+# id = conivel-the-black-prism-000189
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Blue eyes . ''
+``	O
+Blue	O
+eyes	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000190
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He laughed .
+He	O
+laughed	O
+.	O
+
+# id = conivel-the-black-prism-000191
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip scowled .
+Kip	B-CHARACTER
+scowled	O
+.	O
+
+# id = conivel-the-black-prism-000192
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He hated his blue eyes .
+He	O
+hated	O
+his	O
+blue	O
+eyes	O
+.	O
+
+# id = conivel-the-black-prism-000193
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was one thing when a foreigner like Master Danavis had blue eyes .
+It	O
+was	O
+one	O
+thing	O
+when	O
+a	O
+foreigner	O
+like	O
+Master	B-CHARACTER
+Danavis	I-CHARACTER
+had	O
+blue	O
+eyes	O
+.	O
+
+# id = conivel-the-black-prism-000194
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They looked fine on him .
+They	O
+looked	O
+fine	O
+on	O
+him	O
+.	O
+
+# id = conivel-the-black-prism-000195
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip looked freakish .
+Kip	B-CHARACTER
+looked	O
+freakish	O
+.	O
+
+# id = conivel-the-black-prism-000196
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What 's your name ? ''
+``	O
+What	O
+'s	O
+your	O
+name	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000197
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the color wight asked .
+the	O
+color	O
+wight	O
+asked	O
+.	O
+
+# id = conivel-the-black-prism-000198
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip swallowed , thinking he should probably run away .
+Kip	B-CHARACTER
+swallowed	O
+,	O
+thinking	O
+he	O
+should	O
+probably	O
+run	O
+away	O
+.	O
+
+# id = conivel-the-black-prism-000199
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Oh , for Orholam 's sake , you think I 'm going to hex you with your name ?
+``	O
+Oh	O
+,	O
+for	O
+Orholam	B-CHARACTER
+'s	O
+sake	O
+,	O
+you	O
+think	O
+I	O
+'m	O
+going	O
+to	O
+hex	O
+you	O
+with	O
+your	O
+name	O
+?	O
+
+# id = conivel-the-black-prism-000200
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How ignorant is this backwater ?
+How	O
+ignorant	O
+is	O
+this	O
+backwater	O
+?	O
+
+# id = conivel-the-black-prism-000201
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That is n't how chromaturgy works -- ''
+That	O
+is	O
+n't	O
+how	O
+chromaturgy	O
+works	O
+--	O
+''	O
+
+# id = conivel-the-black-prism-000202
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Kip . ''
+``	O
+Kip	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-black-prism-000203
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The color wight grinned .
+The	O
+color	O
+wight	O
+grinned	O
+.	O
+
+# id = conivel-the-black-prism-000204
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Kip .
+``	O
+Kip	B-CHARACTER
+.	O
+
+# id = conivel-the-black-prism-000205
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , Kip , have you ever wondered why you were stuck in such a small life ?
+Well	O
+,	O
+Kip	B-CHARACTER
+,	O
+have	O
+you	O
+ever	O
+wondered	O
+why	O
+you	O
+were	O
+stuck	O
+in	O
+such	O
+a	O
+small	O
+life	O
+?	O
+
+# id = conivel-the-black-prism-000206
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Have you ever gotten the feeling , Kip , that you 're special ? ''
+Have	O
+you	O
+ever	O
+gotten	O
+the	O
+feeling	O
+,	O
+Kip	B-CHARACTER
+,	O
+that	O
+you	O
+'re	O
+special	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000207
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip said nothing .
+Kip	B-CHARACTER
+said	O
+nothing	O
+.	O
+
+# id = conivel-the-black-prism-000208
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Yes , and yes .
+Yes	O
+,	O
+and	O
+yes	O
+.	O
+
+# id = conivel-the-black-prism-000209
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do you know why you feel destined for something greater ? ''
+``	O
+Do	O
+you	O
+know	O
+why	O
+you	O
+feel	O
+destined	O
+for	O
+something	O
+greater	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000210
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Why ? ''
+``	O
+Why	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000211
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip asked , quiet , hopeful .
+Kip	B-CHARACTER
+asked	O
+,	O
+quiet	O
+,	O
+hopeful	O
+.	O
+
+# id = conivel-the-black-prism-000212
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Because you 're an arrogant little shit . ''
+``	O
+Because	O
+you	O
+'re	O
+an	O
+arrogant	O
+little	O
+shit	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000213
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The color wight laughed .
+The	O
+color	O
+wight	O
+laughed	O
+.	O
+
+# id = conivel-the-black-prism-000214
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip should n't have been taken off guard .
+Kip	B-CHARACTER
+should	O
+n't	O
+have	O
+been	O
+taken	O
+off	O
+guard	O
+.	O
+
+# id = conivel-the-black-prism-000215
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His mother had said worse .
+His	O
+mother	O
+had	O
+said	O
+worse	O
+.	O
+
+# id = conivel-the-black-prism-000216
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Still , it took him a moment .
+Still	O
+,	O
+it	O
+took	O
+him	O
+a	O
+moment	O
+.	O
+
+# id = conivel-the-black-prism-000217
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A small failure .
+A	O
+small	O
+failure	O
+.	O
+
+# id = conivel-the-black-prism-000218
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Burn in hell , coward , ''
+``	O
+Burn	O
+in	O
+hell	O
+,	O
+coward	O
+,	O
+''	O
+
+# id = conivel-the-black-prism-000219
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said .
+he	O
+said	O
+.	O
+
+# id = conivel-the-black-prism-000220
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 're not even good at running away .
+``	O
+You	O
+'re	O
+not	O
+even	O
+good	O
+at	O
+running	O
+away	O
+.	O
+
+# id = conivel-the-black-prism-000221
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Caught by ironfoot soldiers . ''
+Caught	O
+by	O
+ironfoot	O
+soldiers	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000222
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The color wight laughed louder .
+The	O
+color	O
+wight	O
+laughed	O
+louder	O
+.	O
+
+# id = conivel-the-black-prism-000223
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Oh , they did n't catch me .
+``	O
+Oh	O
+,	O
+they	O
+did	O
+n't	O
+catch	O
+me	O
+.	O
+
+# id = conivel-the-black-prism-000224
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They recruited me . ''
+They	O
+recruited	O
+me	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000225
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Who would recruit madmen to join them ?
+Who	O
+would	O
+recruit	O
+madmen	O
+to	O
+join	O
+them	O
+?	O
+
+# id = conivel-the-black-prism-000226
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They did n't know you were a -- ''
+``	O
+They	O
+did	O
+n't	O
+know	O
+you	O
+were	O
+a	O
+--	O
+''	O
+
+# id = conivel-the-black-prism-000227
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Oh , they knew . ''
+``	O
+Oh	O
+,	O
+they	O
+knew	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000228
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Dread like a weight dropped into Kip 's stomach .
+Dread	O
+like	O
+a	O
+weight	O
+dropped	O
+into	O
+Kip	B-CHARACTER
+'s	O
+stomach	O
+.	O
+
+# id = conivel-the-black-prism-000229
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You said something about my town .
+``	O
+You	O
+said	O
+something	O
+about	O
+my	O
+town	O
+.	O
+
+# id = conivel-the-black-prism-000230
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Before .
+Before	O
+.	O
+
+# id = conivel-the-black-prism-000231
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What are they planning to do ? ''
+What	O
+are	O
+they	O
+planning	O
+to	O
+do	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000232
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You know , Orholam 's got a sense of humor .
+``	O
+You	O
+know	O
+,	O
+Orholam	B-CHARACTER
+'s	O
+got	O
+a	O
+sense	O
+of	O
+humor	O
+.	O
+
+# id = conivel-the-black-prism-000233
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Never realized that till now .
+Never	O
+realized	O
+that	O
+till	O
+now	O
+.	O
+
+# id = conivel-the-black-prism-000234
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Orphan , are n't you ? ''
+Orphan	O
+,	O
+are	O
+n't	O
+you	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000235
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No .
+``	O
+No	O
+.	O
+
+# id = conivel-the-black-prism-000236
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 've got a mother , ''
+I	O
+'ve	O
+got	O
+a	O
+mother	O
+,	O
+''	O
+
+# id = conivel-the-black-prism-000237
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip said .
+Kip	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-black-prism-000238
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He instantly regretted giving the color wight even that much .
+He	O
+instantly	O
+regretted	O
+giving	O
+the	O
+color	O
+wight	O
+even	O
+that	O
+much	O
+.	O
+
+# id = conivel-the-black-prism-000239
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Would you believe me if I told you there 's a prophecy about you ? ''
+``	O
+Would	O
+you	O
+believe	O
+me	O
+if	O
+I	O
+told	O
+you	O
+there	O
+'s	O
+a	O
+prophecy	O
+about	O
+you	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000240
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It was n't funny the first time , ''
+``	O
+It	O
+was	O
+n't	O
+funny	O
+the	O
+first	O
+time	O
+,	O
+''	O
+
+# id = conivel-the-black-prism-000241
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip said .
+Kip	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-black-prism-000242
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What 's going to happen to my town ? ''
+``	O
+What	O
+'s	O
+going	O
+to	O
+happen	O
+to	O
+my	O
+town	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000243
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Dawn was coming , and Kip was n't going to stick around .
+Dawn	O
+was	O
+coming	O
+,	O
+and	O
+Kip	B-CHARACTER
+was	O
+n't	O
+going	O
+to	O
+stick	O
+around	O
+.	O
+
+# id = conivel-the-black-prism-000244
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not only would the guard 's replacement come then , but Kip had no idea what the wight would do once he had light .
+Not	O
+only	O
+would	O
+the	O
+guard	O
+'s	O
+replacement	O
+come	O
+then	O
+,	O
+but	O
+Kip	B-CHARACTER
+had	O
+no	O
+idea	O
+what	O
+the	O
+wight	O
+would	O
+do	O
+once	O
+he	O
+had	O
+light	O
+.	O
+
+# id = conivel-the-black-prism-000245
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You know , ''
+``	O
+You	O
+know	O
+,	O
+''	O
+
+# id = conivel-the-black-prism-000246
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the wight said , `` you 're the reason I 'm here .
+the	O
+wight	O
+said	O
+,	O
+``	O
+you	O
+'re	O
+the	O
+reason	O
+I	O
+'m	O
+here	O
+.	O
+
+# id = conivel-the-black-prism-000247
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not here here .
+Not	O
+here	O
+here	O
+.	O
+
+# id = conivel-the-black-prism-000248
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not like ` Why do I exist ?
+Not	O
+like	O
+`	O
+Why	O
+do	O
+I	O
+exist	O
+?	O
+
+# id = conivel-the-black-prism-000249
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' Not in Tyrea .
+'	O
+Not	O
+in	O
+Tyrea	B-LOCATION
+.	O
+
+# id = conivel-the-black-prism-000250
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In chains , I mean . ''
+In	O
+chains	O
+,	O
+I	O
+mean	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000251
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What ? ''
+``	O
+What	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000252
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip asked .
+Kip	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-the-black-prism-000253
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There 's power in madness , Kip .
+``	O
+There	O
+'s	O
+power	O
+in	O
+madness	O
+,	O
+Kip	B-CHARACTER
+.	O
+
+# id = conivel-the-black-prism-000254
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Of course ... ''
+Of	O
+course	O
+...	O
+''	O
+
+# id = conivel-the-black-prism-000255
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He trailed off , laughed at a private thought .
+He	O
+trailed	O
+off	O
+,	O
+laughed	O
+at	O
+a	O
+private	O
+thought	O
+.	O
+
+# id = conivel-the-black-prism-000256
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Recovered .
+Recovered	O
+.	O
+
+# id = conivel-the-black-prism-000257
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Look , that soldier has a key in his breast pocket .
+``	O
+Look	O
+,	O
+that	O
+soldier	O
+has	O
+a	O
+key	O
+in	O
+his	O
+breast	O
+pocket	O
+.	O
+
+# id = conivel-the-black-prism-000258
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I could n't get it out , not with -- ''
+I	O
+could	O
+n't	O
+get	O
+it	O
+out	O
+,	O
+not	O
+with	O
+--	O
+''	O
+
+# id = conivel-the-black-prism-000259
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He shook his hands , bound and manacled behind his back .
+He	O
+shook	O
+his	O
+hands	O
+,	O
+bound	O
+and	O
+manacled	O
+behind	O
+his	O
+back	O
+.	O
+
+# id = conivel-the-black-prism-000260
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And I would help you why ? ''
+``	O
+And	O
+I	O
+would	O
+help	O
+you	O
+why	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000261
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip asked .
+Kip	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-the-black-prism-000262
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` For a few straight answers before dawn . ''
+``	O
+For	O
+a	O
+few	O
+straight	O
+answers	O
+before	O
+dawn	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000263
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Crazy , and cunning .
+Crazy	O
+,	O
+and	O
+cunning	O
+.	O
+
+# id = conivel-the-black-prism-000264
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Perfect .
+Perfect	O
+.	O
+
+# id = conivel-the-black-prism-000265
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Give me one first , ''
+``	O
+Give	O
+me	O
+one	O
+first	O
+,	O
+''	O
+
+# id = conivel-the-black-prism-000266
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip said .
+Kip	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-black-prism-000267
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Shoot . ''
+``	O
+Shoot	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000268
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What 's the plan for Rekton ? ''
+``	O
+What	O
+'s	O
+the	O
+plan	O
+for	O
+Rekton	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000269
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Fire . ''
+``	O
+Fire	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000270
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What ? ''
+``	O
+What	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000271
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip asked .
+Kip	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-the-black-prism-000272
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Sorry , you said one answer . ''
+``	O
+Sorry	O
+,	O
+you	O
+said	O
+one	O
+answer	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000273
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That was no answer ! ''
+``	O
+That	O
+was	O
+no	O
+answer	O
+!	O
+''	O
+
+# id = conivel-the-black-prism-000274
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They 're going to wipe out your village .
+``	O
+They	O
+'re	O
+going	O
+to	O
+wipe	O
+out	O
+your	O
+village	O
+.	O
+
+# id = conivel-the-black-prism-000275
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Make an example so no one else defies King Garadul .
+Make	O
+an	O
+example	O
+so	O
+no	O
+one	O
+else	O
+defies	O
+King	B-CHARACTER
+Garadul	I-CHARACTER
+.	O
+
+# id = conivel-the-black-prism-000276
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Other villages defied the king too , of course .
+Other	O
+villages	O
+defied	O
+the	O
+king	O
+too	O
+,	O
+of	O
+course	O
+.	O
+
+# id = conivel-the-black-prism-000277
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His rebellion against the Chromeria is n't popular everywhere .
+His	O
+rebellion	O
+against	O
+the	O
+Chromeria	O
+is	O
+n't	O
+popular	O
+everywhere	O
+.	O
+
+# id = conivel-the-black-prism-000278
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For every town burning to take vengeance on the Prism , there 's another that wants nothing to do with war .
+For	O
+every	O
+town	O
+burning	O
+to	O
+take	O
+vengeance	O
+on	O
+the	O
+Prism	O
+,	O
+there	O
+'s	O
+another	O
+that	O
+wants	O
+nothing	O
+to	O
+do	O
+with	O
+war	O
+.	O
+
+# id = conivel-the-black-prism-000279
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Your village was chosen specially .
+Your	O
+village	O
+was	O
+chosen	O
+specially	O
+.	O
+
+# id = conivel-the-black-prism-000280
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Anyway , I had a little spasm of conscience and objected .
+Anyway	O
+,	O
+I	O
+had	O
+a	O
+little	O
+spasm	O
+of	O
+conscience	O
+and	O
+objected	O
+.	O
+
+# id = conivel-the-black-prism-000281
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Words were exchanged .
+Words	O
+were	O
+exchanged	O
+.	O
+
+# id = conivel-the-black-prism-000282
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I punched my superior .
+I	O
+punched	O
+my	O
+superior	O
+.	O
+
+# id = conivel-the-black-prism-000283
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not totally my fault .
+Not	O
+totally	O
+my	O
+fault	O
+.	O
+
+# id = conivel-the-black-prism-000284
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They know us greens do n't do rules and hierarchy .
+They	O
+know	O
+us	O
+greens	O
+do	O
+n't	O
+do	O
+rules	O
+and	O
+hierarchy	O
+.	O
+
+# id = conivel-the-black-prism-000285
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Especially not once we 've broken the halo . ''
+Especially	O
+not	O
+once	O
+we	O
+'ve	O
+broken	O
+the	O
+halo	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000286
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The color wight shrugged .
+The	O
+color	O
+wight	O
+shrugged	O
+.	O
+
+# id = conivel-the-black-prism-000287
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There , straight .
+``	O
+There	O
+,	O
+straight	O
+.	O
+
+# id = conivel-the-black-prism-000288
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I think that deserves the key , do n't you ? ''
+I	O
+think	O
+that	O
+deserves	O
+the	O
+key	O
+,	O
+do	O
+n't	O
+you	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000289
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was too much information to soak up at once -- broken the halo ?
+It	O
+was	O
+too	O
+much	O
+information	O
+to	O
+soak	O
+up	O
+at	O
+once	O
+--	O
+broken	O
+the	O
+halo	O
+?	O
+
+# id = conivel-the-black-prism-000290
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- but it was a straight answer .
+--	O
+but	O
+it	O
+was	O
+a	O
+straight	O
+answer	O
+.	O
+
+# id = conivel-the-black-prism-000291
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip walked over to the dead man .
+Kip	B-CHARACTER
+walked	O
+over	O
+to	O
+the	O
+dead	O
+man	O
+.	O
+
+# id = conivel-the-black-prism-000292
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His skin was pallid in the rising light .
+His	O
+skin	O
+was	O
+pallid	O
+in	O
+the	O
+rising	O
+light	O
+.	O
+
+# id = conivel-the-black-prism-000293
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pull it together , Kip .
+Pull	O
+it	O
+together	O
+,	O
+Kip	B-CHARACTER
+.	O
+
+# id = conivel-the-black-prism-000294
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ask whatever you need to ask .
+Ask	O
+whatever	O
+you	O
+need	O
+to	O
+ask	O
+.	O
+
+# id = conivel-the-black-prism-000295
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip could tell that dawn was coming .
+Kip	B-CHARACTER
+could	O
+tell	O
+that	O
+dawn	O
+was	O
+coming	O
+.	O
+
+# id = conivel-the-black-prism-000296
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Eerie shapes were emerging from the night .
+Eerie	O
+shapes	O
+were	O
+emerging	O
+from	O
+the	O
+night	O
+.	O
+
+# id = conivel-the-black-prism-000297
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The great twin looming masses of Sundered Rock itself were visible mostly as a place where stars were blotted out of the sky .
+The	O
+great	O
+twin	O
+looming	O
+masses	O
+of	O
+Sundered	B-LOCATION
+Rock	I-LOCATION
+itself	O
+were	O
+visible	O
+mostly	O
+as	O
+a	O
+place	O
+where	O
+stars	O
+were	O
+blotted	O
+out	O
+of	O
+the	O
+sky	O
+.	O
+
+# id = conivel-the-black-prism-000298
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What do I need to ask ?
+What	O
+do	O
+I	O
+need	O
+to	O
+ask	O
+?	O
+
+# id = conivel-the-black-prism-000299
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was hesitating , not wanting to touch the dead man .
+He	O
+was	O
+hesitating	O
+,	O
+not	O
+wanting	O
+to	O
+touch	O
+the	O
+dead	O
+man	O
+.	O
+
+# id = conivel-the-black-prism-000300
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He knelt .
+He	O
+knelt	O
+.	O
+
+# id = conivel-the-black-prism-000301
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Why my town ? ''
+``	O
+Why	O
+my	O
+town	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000302
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He poked through the dead man 's pocket , careful not to touch skin .
+He	O
+poked	O
+through	O
+the	O
+dead	O
+man	O
+'s	O
+pocket	O
+,	O
+careful	O
+not	O
+to	O
+touch	O
+skin	O
+.	O
+
+# id = conivel-the-black-prism-000303
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was there , two keys .
+It	O
+was	O
+there	O
+,	O
+two	O
+keys	O
+.	O
+
+# id = conivel-the-black-prism-000304
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They think you have something that belongs to the king .
+``	O
+They	O
+think	O
+you	O
+have	O
+something	O
+that	O
+belongs	O
+to	O
+the	O
+king	O
+.	O
+
+# id = conivel-the-black-prism-000305
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I do n't know what .
+I	O
+do	O
+n't	O
+know	O
+what	O
+.	O
+
+# id = conivel-the-black-prism-000306
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I only picked up that much by eavesdropping . ''
+I	O
+only	O
+picked	O
+up	O
+that	O
+much	O
+by	O
+eavesdropping	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000307
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What would Rekton have that the king wants ? ''
+``	O
+What	O
+would	O
+Rekton	O
+have	O
+that	O
+the	O
+king	O
+wants	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000308
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip asked .
+Kip	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-the-black-prism-000309
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Not Rekton you .
+``	O
+Not	O
+Rekton	O
+you	O
+.	O
+
+# id = conivel-the-black-prism-000310
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You you . ''
+You	O
+you	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000311
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It took Kip a second .
+It	O
+took	O
+Kip	B-CHARACTER
+a	O
+second	O
+.	O
+
+# id = conivel-the-black-prism-000312
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He touched his own chest .
+He	O
+touched	O
+his	O
+own	O
+chest	O
+.	O
+
+# id = conivel-the-black-prism-000313
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Me ?
+``	O
+Me	O
+?	O
+
+# id = conivel-the-black-prism-000314
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Me personally ?
+Me	O
+personally	O
+?	O
+
+# id = conivel-the-black-prism-000315
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I do n't even own anything ! ''
+I	O
+do	O
+n't	O
+even	O
+own	O
+anything	O
+!	O
+''	O
+
+# id = conivel-the-black-prism-000316
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The color wight gave a crazy grin , but Kip thought it was a pretense .
+The	O
+color	O
+wight	O
+gave	O
+a	O
+crazy	O
+grin	O
+,	O
+but	O
+Kip	B-CHARACTER
+thought	O
+it	O
+was	O
+a	O
+pretense	O
+.	O
+
+# id = conivel-the-black-prism-000317
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Tragic mistake , then .
+``	O
+Tragic	O
+mistake	O
+,	O
+then	O
+.	O
+
+# id = conivel-the-black-prism-000318
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Their mistake , your tragedy . ''
+Their	O
+mistake	O
+,	O
+your	O
+tragedy	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000319
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What , you think I 'm lying ?! ''
+``	O
+What	O
+,	O
+you	O
+think	O
+I	O
+'m	O
+lying	O
+?!	O
+''	O
+
+# id = conivel-the-black-prism-000320
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip asked .
+Kip	B-CHARACTER
+asked	O
+.	O
+
+# id = conivel-the-black-prism-000321
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You think I 'd be out here scavenging luxin if I had any other choice ? ''
+``	O
+You	O
+think	O
+I	O
+'d	O
+be	O
+out	O
+here	O
+scavenging	O
+luxin	O
+if	O
+I	O
+had	O
+any	O
+other	O
+choice	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000322
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do n't really care one way or the other .
+``	O
+I	O
+do	O
+n't	O
+really	O
+care	O
+one	O
+way	O
+or	O
+the	O
+other	O
+.	O
+
+# id = conivel-the-black-prism-000323
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You going to bring that key over here , or do I need to ask real nice ? ''
+You	O
+going	O
+to	O
+bring	O
+that	O
+key	O
+over	O
+here	O
+,	O
+or	O
+do	O
+I	O
+need	O
+to	O
+ask	O
+real	O
+nice	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000324
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was a mistake to bring the keys over .
+It	O
+was	O
+a	O
+mistake	O
+to	O
+bring	O
+the	O
+keys	O
+over	O
+.	O
+
+# id = conivel-the-black-prism-000325
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip knew it .
+Kip	B-CHARACTER
+knew	O
+it	O
+.	O
+
+# id = conivel-the-black-prism-000326
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The color wight was n't stable .
+The	O
+color	O
+wight	O
+was	O
+n't	O
+stable	O
+.	O
+
+# id = conivel-the-black-prism-000327
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was dangerous .
+He	O
+was	O
+dangerous	O
+.	O
+
+# id = conivel-the-black-prism-000328
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He 'd admitted as much .
+He	O
+'d	O
+admitted	O
+as	O
+much	O
+.	O
+
+# id = conivel-the-black-prism-000329
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But he had kept his word .
+But	O
+he	O
+had	O
+kept	O
+his	O
+word	O
+.	O
+
+# id = conivel-the-black-prism-000330
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How could Kip do less ?
+How	O
+could	O
+Kip	B-CHARACTER
+do	O
+less	O
+?	O
+
+# id = conivel-the-black-prism-000331
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip unlocked the man 's manacles , and then the padlock on the chains .
+Kip	B-CHARACTER
+unlocked	O
+the	O
+man	O
+'s	O
+manacles	O
+,	O
+and	O
+then	O
+the	O
+padlock	O
+on	O
+the	O
+chains	O
+.	O
+
+# id = conivel-the-black-prism-000332
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He backed away carefully , as one would from a wild animal .
+He	O
+backed	O
+away	O
+carefully	O
+,	O
+as	O
+one	O
+would	O
+from	O
+a	O
+wild	O
+animal	O
+.	O
+
+# id = conivel-the-black-prism-000333
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The color wight pretended not to notice , simply rubbing his arms and stretching back and forth .
+The	O
+color	O
+wight	O
+pretended	O
+not	O
+to	O
+notice	O
+,	O
+simply	O
+rubbing	O
+his	O
+arms	O
+and	O
+stretching	O
+back	O
+and	O
+forth	O
+.	O
+
+# id = conivel-the-black-prism-000334
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He moved over to the guard and poked through his pockets again .
+He	O
+moved	O
+over	O
+to	O
+the	O
+guard	O
+and	O
+poked	O
+through	O
+his	O
+pockets	O
+again	O
+.	O
+
+# id = conivel-the-black-prism-000335
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His hand emerged with a pair of green spectacles with one cracked lens .
+His	O
+hand	O
+emerged	O
+with	O
+a	O
+pair	O
+of	O
+green	O
+spectacles	O
+with	O
+one	O
+cracked	O
+lens	O
+.	O
+
+# id = conivel-the-black-prism-000336
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You could come with me , ''
+``	O
+You	O
+could	O
+come	O
+with	O
+me	O
+,	O
+''	O
+
+# id = conivel-the-black-prism-000337
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip said .
+Kip	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-black-prism-000338
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` If what you said is true -- ''
+``	O
+If	O
+what	O
+you	O
+said	O
+is	O
+true	O
+--	O
+''	O
+
+# id = conivel-the-black-prism-000339
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How close do you think I 'd get to your town before someone came running with a musket ?
+``	O
+How	O
+close	O
+do	O
+you	O
+think	O
+I	O
+'d	O
+get	O
+to	O
+your	O
+town	O
+before	O
+someone	O
+came	O
+running	O
+with	O
+a	O
+musket	O
+?	O
+
+# id = conivel-the-black-prism-000340
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Besides , once the sun comes up ... I 'm ready for it to be done . ''
+Besides	O
+,	O
+once	O
+the	O
+sun	O
+comes	O
+up	O
+...	O
+I	O
+'m	O
+ready	O
+for	O
+it	O
+to	O
+be	O
+done	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000341
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The color wight took a deep breath , staring at the horizon .
+The	O
+color	O
+wight	O
+took	O
+a	O
+deep	O
+breath	O
+,	O
+staring	O
+at	O
+the	O
+horizon	O
+.	O
+
+# id = conivel-the-black-prism-000342
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Tell me , Kip , if you 've done bad things your whole life , but you die doing something good , do you think that makes up for all the bad ? ''
+``	O
+Tell	O
+me	O
+,	O
+Kip	B-CHARACTER
+,	O
+if	O
+you	O
+'ve	O
+done	O
+bad	O
+things	O
+your	O
+whole	O
+life	O
+,	O
+but	O
+you	O
+die	O
+doing	O
+something	O
+good	O
+,	O
+do	O
+you	O
+think	O
+that	O
+makes	O
+up	O
+for	O
+all	O
+the	O
+bad	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000343
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , ''
+``	O
+No	O
+,	O
+''	O
+
+# id = conivel-the-black-prism-000344
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip said , honestly , before he could stop himself .
+Kip	B-CHARACTER
+said	O
+,	O
+honestly	O
+,	O
+before	O
+he	O
+could	O
+stop	O
+himself	O
+.	O
+
+# id = conivel-the-black-prism-000345
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Me neither . ''
+``	O
+Me	O
+neither	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000346
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But it 's better than nothing , ''
+``	O
+But	O
+it	O
+'s	O
+better	O
+than	O
+nothing	O
+,	O
+''	O
+
+# id = conivel-the-black-prism-000347
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip said .
+Kip	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-black-prism-000348
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Orholam is merciful . ''
+``	O
+Orholam	B-CHARACTER
+is	O
+merciful	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000349
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Wonder if you 'll say that after they 're done with your village . ''
+``	O
+Wonder	O
+if	O
+you	O
+'ll	O
+say	O
+that	O
+after	O
+they	O
+'re	O
+done	O
+with	O
+your	O
+village	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000350
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There were other questions Kip wanted to ask , but everything had happened in such a rush that he could n't put his thoughts together .
+There	O
+were	O
+other	O
+questions	O
+Kip	B-CHARACTER
+wanted	O
+to	O
+ask	O
+,	O
+but	O
+everything	O
+had	O
+happened	O
+in	O
+such	O
+a	O
+rush	O
+that	O
+he	O
+could	O
+n't	O
+put	O
+his	O
+thoughts	O
+together	O
+.	O
+
+# id = conivel-the-black-prism-000351
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In the rising light Kip saw what had been hidden in the fog and the darkness .
+In	O
+the	O
+rising	O
+light	O
+Kip	B-CHARACTER
+saw	O
+what	O
+had	O
+been	O
+hidden	O
+in	O
+the	O
+fog	O
+and	O
+the	O
+darkness	O
+.	O
+
+# id = conivel-the-black-prism-000352
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Hundreds of tents were laid out in military precision .
+Hundreds	O
+of	O
+tents	O
+were	O
+laid	O
+out	O
+in	O
+military	O
+precision	O
+.	O
+
+# id = conivel-the-black-prism-000353
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Soldiers .
+Soldiers	O
+.	O
+
+# id = conivel-the-black-prism-000354
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Lots of soldiers .
+Lots	O
+of	O
+soldiers	O
+.	O
+
+# id = conivel-the-black-prism-000355
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And even as Kip stood , not two hundred paces from the nearest tent , the plain began winking .
+And	O
+even	O
+as	O
+Kip	B-CHARACTER
+stood	O
+,	O
+not	O
+two	O
+hundred	O
+paces	O
+from	O
+the	O
+nearest	O
+tent	O
+,	O
+the	O
+plain	O
+began	O
+winking	O
+.	O
+
+# id = conivel-the-black-prism-000356
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Glimmers sparkled as broken luxin gleamed , like stars scattered on the ground , answering their brethren in the sky .
+Glimmers	O
+sparkled	O
+as	O
+broken	O
+luxin	O
+gleamed	O
+,	O
+like	O
+stars	O
+scattered	O
+on	O
+the	O
+ground	O
+,	O
+answering	O
+their	O
+brethren	O
+in	O
+the	O
+sky	O
+.	O
+
+# id = conivel-the-black-prism-000357
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was what Kip had come for .
+It	O
+was	O
+what	O
+Kip	B-CHARACTER
+had	O
+come	O
+for	O
+.	O
+
+# id = conivel-the-black-prism-000358
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Usually when a drafter released luxin , it simply dissolved , no matter what color it was .
+Usually	O
+when	O
+a	O
+drafter	O
+released	O
+luxin	O
+,	O
+it	O
+simply	O
+dissolved	O
+,	O
+no	O
+matter	O
+what	O
+color	O
+it	O
+was	O
+.	O
+
+# id = conivel-the-black-prism-000359
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But in battle , there had been so much chaos , so many drafters , some sealed magic had been buried and protected from the sunlight that would break it down .
+But	O
+in	O
+battle	O
+,	O
+there	O
+had	O
+been	O
+so	O
+much	O
+chaos	O
+,	O
+so	O
+many	O
+drafters	O
+,	O
+some	O
+sealed	O
+magic	O
+had	O
+been	O
+buried	O
+and	O
+protected	O
+from	O
+the	O
+sunlight	O
+that	O
+would	O
+break	O
+it	O
+down	O
+.	O
+
+# id = conivel-the-black-prism-000360
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The recent rain had uncovered more .
+The	O
+recent	O
+rain	O
+had	O
+uncovered	O
+more	O
+.	O
+
+# id = conivel-the-black-prism-000361
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But Kip 's eyes were pulled from the winking luxin by four soldiers and a man with a stark red cloak and red spectacles walking toward them from the camp .
+But	O
+Kip	B-CHARACTER
+'s	O
+eyes	O
+were	O
+pulled	O
+from	O
+the	O
+winking	O
+luxin	O
+by	O
+four	O
+soldiers	O
+and	O
+a	O
+man	O
+with	O
+a	O
+stark	O
+red	O
+cloak	O
+and	O
+red	O
+spectacles	O
+walking	O
+toward	O
+them	O
+from	O
+the	O
+camp	O
+.	O
+
+# id = conivel-the-black-prism-000362
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` My name is Gaspar , by the by .
+``	O
+My	O
+name	O
+is	O
+Gaspar	B-CHARACTER
+,	O
+by	O
+the	O
+by	O
+.	O
+
+# id = conivel-the-black-prism-000363
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Gaspar Elos . ''
+Gaspar	B-CHARACTER
+Elos	I-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-black-prism-000364
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The color wight did n't look at Kip .
+The	O
+color	O
+wight	O
+did	O
+n't	O
+look	O
+at	O
+Kip	B-CHARACTER
+.	O
+
+# id = conivel-the-black-prism-000365
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What ? ''
+``	O
+What	O
+?	O
+''	O
+
+# id = conivel-the-black-prism-000366
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm not just some drafter .
+``	O
+I	O
+'m	O
+not	O
+just	O
+some	O
+drafter	O
+.	O
+
+# id = conivel-the-black-prism-000367
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My father loved me .
+My	O
+father	O
+loved	O
+me	O
+.	O
+
+# id = conivel-the-black-prism-000368
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I had plans .
+I	O
+had	O
+plans	O
+.	O
+
+# id = conivel-the-black-prism-000369
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A girl .
+A	O
+girl	O
+.	O
+
+# id = conivel-the-black-prism-000370
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A life . ''
+A	O
+life	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000371
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do n't -- ''
+``	O
+I	O
+do	O
+n't	O
+--	O
+''	O
+
+# id = conivel-the-black-prism-000372
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You will . ''
+``	O
+You	O
+will	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000373
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The color wight put the green spectacles on ; they fit perfectly , tight to his face , lenses sweeping to either side so that wherever he looked , he would be looking through a green filter .
+The	O
+color	O
+wight	O
+put	O
+the	O
+green	O
+spectacles	O
+on	O
+;	O
+they	O
+fit	O
+perfectly	O
+,	O
+tight	O
+to	O
+his	O
+face	O
+,	O
+lenses	O
+sweeping	O
+to	O
+either	O
+side	O
+so	O
+that	O
+wherever	O
+he	O
+looked	O
+,	O
+he	O
+would	O
+be	O
+looking	O
+through	O
+a	O
+green	O
+filter	O
+.	O
+
+# id = conivel-the-black-prism-000374
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Now get out of here . ''
+``	O
+Now	O
+get	O
+out	O
+of	O
+here	O
+.	O
+''	O
+
+# id = conivel-the-black-prism-000375
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As the sun touched the horizon , Gaspar sighed .
+As	O
+the	O
+sun	O
+touched	O
+the	O
+horizon	O
+,	O
+Gaspar	B-CHARACTER
+sighed	O
+.	O
+
+# id = conivel-the-black-prism-000376
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was as if Kip had ceased to exist .
+It	O
+was	O
+as	O
+if	O
+Kip	B-CHARACTER
+had	O
+ceased	O
+to	O
+exist	O
+.	O
+
+# id = conivel-the-black-prism-000377
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was like watching his mother take that first deep breath of haze .
+It	O
+was	O
+like	O
+watching	O
+his	O
+mother	O
+take	O
+that	O
+first	O
+deep	O
+breath	O
+of	O
+haze	O
+.	O
+
+# id = conivel-the-black-prism-000378
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Between the sparkling spars of darker green , the whites of Gaspar 's eyes swirled like droplets of green blood hitting water , first dispersing , then staining the whole .
+Between	O
+the	O
+sparkling	O
+spars	O
+of	O
+darker	O
+green	O
+,	O
+the	O
+whites	O
+of	O
+Gaspar	B-CHARACTER
+'s	O
+eyes	O
+swirled	O
+like	O
+droplets	O
+of	O
+green	O
+blood	O
+hitting	O
+water	O
+,	O
+first	O
+dispersing	O
+,	O
+then	O
+staining	O
+the	O
+whole	O
+.	O
+
+# id = conivel-the-black-prism-000379
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The emerald green of luxin ballooned through his eyes , thickened until it was solid , and then spread .
+The	O
+emerald	O
+green	O
+of	O
+luxin	O
+ballooned	O
+through	O
+his	O
+eyes	O
+,	O
+thickened	O
+until	O
+it	O
+was	O
+solid	O
+,	O
+and	O
+then	O
+spread	O
+.	O
+
+# id = conivel-the-black-prism-000380
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Through his cheeks , up to his hairline , then down his neck , standing out starkly when it finally filled his lighter fingernails as if they 'd been painted in radiant jade .
+Through	O
+his	O
+cheeks	O
+,	O
+up	O
+to	O
+his	O
+hairline	O
+,	O
+then	O
+down	O
+his	O
+neck	O
+,	O
+standing	O
+out	O
+starkly	O
+when	O
+it	O
+finally	O
+filled	O
+his	O
+lighter	O
+fingernails	O
+as	O
+if	O
+they	O
+'d	O
+been	O
+painted	O
+in	O
+radiant	O
+jade	O
+.	O
+
+# id = conivel-the-black-prism-000381
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Gaspar started laughing .
+Gaspar	B-CHARACTER
+started	O
+laughing	O
+.	O
+
+# id = conivel-the-black-prism-000382
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was a low , unreasoning cackle , unrelenting .
+It	O
+was	O
+a	O
+low	O
+,	O
+unreasoning	O
+cackle	O
+,	O
+unrelenting	O
+.	O
+
+# id = conivel-the-black-prism-000383
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mad .
+Mad	O
+.	O
+
+# id = conivel-the-black-prism-000384
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not a pretense this time .
+Not	O
+a	O
+pretense	O
+this	O
+time	O
+.	O
+
+# id = conivel-the-black-prism-000385
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip ran .
+Kip	B-CHARACTER
+ran	O
+.	O
+
+# id = conivel-the-black-prism-000386
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He reached the funerary hill where the sentry had been , taking care to stay on the far side from the army .
+He	O
+reached	O
+the	O
+funerary	O
+hill	O
+where	O
+the	O
+sentry	O
+had	O
+been	O
+,	O
+taking	O
+care	O
+to	O
+stay	O
+on	O
+the	O
+far	O
+side	O
+from	O
+the	O
+army	O
+.	O
+
+# id = conivel-the-black-prism-000387
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had to get to Master Danavis .
+He	O
+had	O
+to	O
+get	O
+to	O
+Master	B-CHARACTER
+Danavis	I-CHARACTER
+.	O
+
+# id = conivel-the-black-prism-000388
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Master Danavis always knew what to do .
+Master	B-CHARACTER
+Danavis	I-CHARACTER
+always	O
+knew	O
+what	O
+to	O
+do	O
+.	O
+
+# id = conivel-the-black-prism-000389
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was no sentry on the hill now .
+There	O
+was	O
+no	O
+sentry	O
+on	O
+the	O
+hill	O
+now	O
+.	O
+
+# id = conivel-the-black-prism-000390
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip turned around in time to see Gaspar change , transform .
+Kip	B-CHARACTER
+turned	O
+around	O
+in	O
+time	O
+to	O
+see	O
+Gaspar	B-CHARACTER
+change	O
+,	O
+transform	O
+.	O
+
+# id = conivel-the-black-prism-000391
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Green luxin spilled out of his hands onto his body , covering every part of him like a shell , like an enormous suit of armor .
+Green	O
+luxin	O
+spilled	O
+out	O
+of	O
+his	O
+hands	O
+onto	O
+his	O
+body	O
+,	O
+covering	O
+every	O
+part	O
+of	O
+him	O
+like	O
+a	O
+shell	O
+,	O
+like	O
+an	O
+enormous	O
+suit	O
+of	O
+armor	O
+.	O
+
+# id = conivel-the-black-prism-000392
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip could n't see the soldiers or the red drafter approaching Gaspar , but he did see a fireball the size of his head streak toward the color wight , hit his chest , and burst apart , throwing flames everywhere .
+Kip	B-CHARACTER
+could	O
+n't	O
+see	O
+the	O
+soldiers	O
+or	O
+the	O
+red	O
+drafter	O
+approaching	O
+Gaspar	B-CHARACTER
+,	O
+but	O
+he	O
+did	O
+see	O
+a	O
+fireball	O
+the	O
+size	O
+of	O
+his	O
+head	O
+streak	O
+toward	O
+the	O
+color	O
+wight	O
+,	O
+hit	O
+his	O
+chest	O
+,	O
+and	O
+burst	O
+apart	O
+,	O
+throwing	O
+flames	O
+everywhere	O
+.	O
+
+# id = conivel-the-black-prism-000393
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Gaspar rammed through it , flaming red luxin sticking to his green armor .
+Gaspar	B-CHARACTER
+rammed	O
+through	O
+it	O
+,	O
+flaming	O
+red	O
+luxin	O
+sticking	O
+to	O
+his	O
+green	O
+armor	O
+.	O
+
+# id = conivel-the-black-prism-000394
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was magnificent , terrible , powerful .
+He	O
+was	O
+magnificent	O
+,	O
+terrible	O
+,	O
+powerful	O
+.	O
+
+# id = conivel-the-black-prism-000395
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He ran toward the soldiers , screaming defiance , and disappeared from Kip 's view .
+He	O
+ran	O
+toward	O
+the	O
+soldiers	O
+,	O
+screaming	O
+defiance	O
+,	O
+and	O
+disappeared	O
+from	O
+Kip	B-CHARACTER
+'s	O
+view	O
+.	O
+
+# id = conivel-the-black-prism-000396
+# source = Conivel corrected OWTO literary NER
+# book = The Black Prism
+# source_file = BlackPrism.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kip fled , the vermilion sun setting fire to the mists .
+Kip	B-CHARACTER
+fled	O
+,	O
+the	O
+vermilion	O
+sun	O
+setting	O
+fire	O
+to	O
+the	O
+mists	O
+.	O
+

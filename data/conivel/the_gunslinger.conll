@@ -1,0 +1,5216 @@
+# id = conivel-the-gunslinger-000001
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The desert was the apotheosis of all deserts , huge , standing to the sky for what might have been parsecs in all directions .
+The	O
+desert	O
+was	O
+the	O
+apotheosis	O
+of	O
+all	O
+deserts	O
+,	O
+huge	O
+,	O
+standing	O
+to	O
+the	O
+sky	O
+for	O
+what	O
+might	O
+have	O
+been	O
+parsecs	O
+in	O
+all	O
+directions	O
+.	O
+
+# id = conivel-the-gunslinger-000002
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = White ; blinding ; waterless ; without feature save for the faint , cloudy haze of the mountains which sketched themselves on the horizon and the devil-grass which brought sweet dreams , nightmares , death .
+White	O
+;	O
+blinding	O
+;	O
+waterless	O
+;	O
+without	O
+feature	O
+save	O
+for	O
+the	O
+faint	O
+,	O
+cloudy	O
+haze	O
+of	O
+the	O
+mountains	O
+which	O
+sketched	O
+themselves	O
+on	O
+the	O
+horizon	O
+and	O
+the	O
+devil-grass	O
+which	O
+brought	O
+sweet	O
+dreams	O
+,	O
+nightmares	O
+,	O
+death	O
+.	O
+
+# id = conivel-the-gunslinger-000003
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = An occasional tombstone sign pointed the way , for once the drifted track that cut its way through the thick crust of alkali had been a highway and coaches had followed it .
+An	O
+occasional	O
+tombstone	O
+sign	O
+pointed	O
+the	O
+way	O
+,	O
+for	O
+once	O
+the	O
+drifted	O
+track	O
+that	O
+cut	O
+its	O
+way	O
+through	O
+the	O
+thick	O
+crust	O
+of	O
+alkali	O
+had	O
+been	O
+a	O
+highway	O
+and	O
+coaches	O
+had	O
+followed	O
+it	O
+.	O
+
+# id = conivel-the-gunslinger-000004
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The world had moved on since then .
+The	O
+world	O
+had	O
+moved	O
+on	O
+since	O
+then	O
+.	O
+
+# id = conivel-the-gunslinger-000005
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The world had emptied .
+The	O
+world	O
+had	O
+emptied	O
+.	O
+
+# id = conivel-the-gunslinger-000006
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The gunslinger walked stolidly , not hurrying , not loafing .
+The	O
+gunslinger	O
+walked	O
+stolidly	O
+,	O
+not	O
+hurrying	O
+,	O
+not	O
+loafing	O
+.	O
+
+# id = conivel-the-gunslinger-000007
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A hide waterbag was slung around his middle like a bloated sausage .
+A	O
+hide	O
+waterbag	O
+was	O
+slung	O
+around	O
+his	O
+middle	O
+like	O
+a	O
+bloated	O
+sausage	O
+.	O
+
+# id = conivel-the-gunslinger-000008
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was almost full .
+It	O
+was	O
+almost	O
+full	O
+.	O
+
+# id = conivel-the-gunslinger-000009
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had progressed through the khef over many years , and had reached the fifth level .
+He	O
+had	O
+progressed	O
+through	O
+the	O
+khef	O
+over	O
+many	O
+years	O
+,	O
+and	O
+had	O
+reached	O
+the	O
+fifth	O
+level	O
+.	O
+
+# id = conivel-the-gunslinger-000010
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At the seventh or eighth , he would not have been thirsty ; he could have watched own body dehydrate with clinical , detached attention , watering its crevices and dark inner hollows only when his logic told him it must be done .
+At	O
+the	O
+seventh	O
+or	O
+eighth	O
+,	O
+he	O
+would	O
+not	O
+have	O
+been	O
+thirsty	O
+;	O
+he	O
+could	O
+have	O
+watched	O
+own	O
+body	O
+dehydrate	O
+with	O
+clinical	O
+,	O
+detached	O
+attention	O
+,	O
+watering	O
+its	O
+crevices	O
+and	O
+dark	O
+inner	O
+hollows	O
+only	O
+when	O
+his	O
+logic	O
+told	O
+him	O
+it	O
+must	O
+be	O
+done	O
+.	O
+
+# id = conivel-the-gunslinger-000011
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was not seventh or eighth .
+He	O
+was	O
+not	O
+seventh	O
+or	O
+eighth	O
+.	O
+
+# id = conivel-the-gunslinger-000012
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was fifth .
+He	O
+was	O
+fifth	O
+.	O
+
+# id = conivel-the-gunslinger-000013
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So he was thirsty , although he had no particular urge to drink .
+So	O
+he	O
+was	O
+thirsty	O
+,	O
+although	O
+he	O
+had	O
+no	O
+particular	O
+urge	O
+to	O
+drink	O
+.	O
+
+# id = conivel-the-gunslinger-000014
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In a vague way , all this pleased him .
+In	O
+a	O
+vague	O
+way	O
+,	O
+all	O
+this	O
+pleased	O
+him	O
+.	O
+
+# id = conivel-the-gunslinger-000015
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was romantic .
+It	O
+was	O
+romantic	O
+.	O
+
+# id = conivel-the-gunslinger-000016
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Below the waterbag were his guns , finely weighted to his hand .
+Below	O
+the	O
+waterbag	O
+were	O
+his	O
+guns	O
+,	O
+finely	O
+weighted	O
+to	O
+his	O
+hand	O
+.	O
+
+# id = conivel-the-gunslinger-000017
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The two belts crisscrossed above his crotch .
+The	O
+two	O
+belts	O
+crisscrossed	O
+above	O
+his	O
+crotch	O
+.	O
+
+# id = conivel-the-gunslinger-000018
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The holsters were oiled too deeply for even this Philistine sun to crack .
+The	O
+holsters	O
+were	O
+oiled	O
+too	O
+deeply	O
+for	O
+even	O
+this	O
+Philistine	O
+sun	O
+to	O
+crack	O
+.	O
+
+# id = conivel-the-gunslinger-000019
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The stocks of the guns were sandalwood , yellow and finely grained .
+The	O
+stocks	O
+of	O
+the	O
+guns	O
+were	O
+sandalwood	O
+,	O
+yellow	O
+and	O
+finely	O
+grained	O
+.	O
+
+# id = conivel-the-gunslinger-000020
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The holsters were tied down with rawhide cord , and they swung heavily against his hips .
+The	O
+holsters	O
+were	O
+tied	O
+down	O
+with	O
+rawhide	O
+cord	O
+,	O
+and	O
+they	O
+swung	O
+heavily	O
+against	O
+his	O
+hips	O
+.	O
+
+# id = conivel-the-gunslinger-000021
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The brass casings of the cartridges looped into the gun belts twinkled and flashed and heliographed in the sun .
+The	O
+brass	O
+casings	O
+of	O
+the	O
+cartridges	O
+looped	O
+into	O
+the	O
+gun	O
+belts	O
+twinkled	O
+and	O
+flashed	O
+and	O
+heliographed	O
+in	O
+the	O
+sun	O
+.	O
+
+# id = conivel-the-gunslinger-000022
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The leather made subtle creaking noises .
+The	O
+leather	O
+made	O
+subtle	O
+creaking	O
+noises	O
+.	O
+
+# id = conivel-the-gunslinger-000023
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The guns themselves made no noise .
+The	O
+guns	O
+themselves	O
+made	O
+no	O
+noise	O
+.	O
+
+# id = conivel-the-gunslinger-000024
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They had spilled blood .
+They	O
+had	O
+spilled	O
+blood	O
+.	O
+
+# id = conivel-the-gunslinger-000025
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was no need to make noise in the sterility of the desert His clothes were the no-color of rain or dust .
+There	O
+was	O
+no	O
+need	O
+to	O
+make	O
+noise	O
+in	O
+the	O
+sterility	O
+of	O
+the	O
+desert	O
+His	O
+clothes	O
+were	O
+the	O
+no-color	O
+of	O
+rain	O
+or	O
+dust	O
+.	O
+
+# id = conivel-the-gunslinger-000026
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His shirt was open at the throat , with a rawhide thong dangling loosely in hand-punched eyelets .
+His	O
+shirt	O
+was	O
+open	O
+at	O
+the	O
+throat	O
+,	O
+with	O
+a	O
+rawhide	O
+thong	O
+dangling	O
+loosely	O
+in	O
+hand-punched	O
+eyelets	O
+.	O
+
+# id = conivel-the-gunslinger-000027
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His pants were seam-stretched dungarees .
+His	O
+pants	O
+were	O
+seam-stretched	O
+dungarees	O
+.	O
+
+# id = conivel-the-gunslinger-000028
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He breasted a gently rising dune ( although there was no sand here ; the desert was hardpan , and even the harsh winds that blew when dark came raised only an aggravating harsh dust like scouring powder ) and saw the kicked remains of a tiny campfire on the lee side , the side which the sun would quit earliest .
+He	O
+breasted	O
+a	O
+gently	O
+rising	O
+dune	O
+(	O
+although	O
+there	O
+was	O
+no	O
+sand	O
+here	O
+;	O
+the	O
+desert	O
+was	O
+hardpan	O
+,	O
+and	O
+even	O
+the	O
+harsh	O
+winds	O
+that	O
+blew	O
+when	O
+dark	O
+came	O
+raised	O
+only	O
+an	O
+aggravating	O
+harsh	O
+dust	O
+like	O
+scouring	O
+powder	O
+)	O
+and	O
+saw	O
+the	O
+kicked	O
+remains	O
+of	O
+a	O
+tiny	O
+campfire	O
+on	O
+the	O
+lee	O
+side	O
+,	O
+the	O
+side	O
+which	O
+the	O
+sun	O
+would	O
+quit	O
+earliest	O
+.	O
+
+# id = conivel-the-gunslinger-000029
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Small signs like this , once more affirming the man in black 's essential humanity , never failed to please him .
+Small	O
+signs	O
+like	O
+this	O
+,	O
+once	O
+more	O
+affirming	O
+the	O
+man	O
+in	O
+black	O
+'s	O
+essential	O
+humanity	O
+,	O
+never	O
+failed	O
+to	O
+please	O
+him	O
+.	O
+
+# id = conivel-the-gunslinger-000030
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His lips stretched in the pitted , flaked remains of his face .
+His	O
+lips	O
+stretched	O
+in	O
+the	O
+pitted	O
+,	O
+flaked	O
+remains	O
+of	O
+his	O
+face	O
+.	O
+
+# id = conivel-the-gunslinger-000031
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He squatted .
+He	O
+squatted	O
+.	O
+
+# id = conivel-the-gunslinger-000032
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had burned the devil-grass , of course .
+He	O
+had	O
+burned	O
+the	O
+devil-grass	O
+,	O
+of	O
+course	O
+.	O
+
+# id = conivel-the-gunslinger-000033
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was the only thing out here that would burn .
+It	O
+was	O
+the	O
+only	O
+thing	O
+out	O
+here	O
+that	O
+would	O
+burn	O
+.	O
+
+# id = conivel-the-gunslinger-000034
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It burned with a greasy , flat light , and it burned slow .
+It	O
+burned	O
+with	O
+a	O
+greasy	O
+,	O
+flat	O
+light	O
+,	O
+and	O
+it	O
+burned	O
+slow	O
+.	O
+
+# id = conivel-the-gunslinger-000035
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Border dwellers had told him that devils lived even in the flames .
+Border	O
+dwellers	O
+had	O
+told	O
+him	O
+that	O
+devils	O
+lived	O
+even	O
+in	O
+the	O
+flames	O
+.	O
+
+# id = conivel-the-gunslinger-000036
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They burned it but would not look into the light .
+They	O
+burned	O
+it	O
+but	O
+would	O
+not	O
+look	O
+into	O
+the	O
+light	O
+.	O
+
+# id = conivel-the-gunslinger-000037
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They said the devils hypnotized , beckoned , would eventually draw the one who looked into the fires .
+They	O
+said	O
+the	O
+devils	O
+hypnotized	O
+,	O
+beckoned	O
+,	O
+would	O
+eventually	O
+draw	O
+the	O
+one	O
+who	O
+looked	O
+into	O
+the	O
+fires	O
+.	O
+
+# id = conivel-the-gunslinger-000038
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And the next man foolish enough to look into the fire might see you .
+And	O
+the	O
+next	O
+man	O
+foolish	O
+enough	O
+to	O
+look	O
+into	O
+the	O
+fire	O
+might	O
+see	O
+you	O
+.	O
+
+# id = conivel-the-gunslinger-000039
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The burned grass was crisscrossed in the now-familiar ideographic pattern , and crumbled to gray senselessness before the gunslinger 's prodding hand .
+The	O
+burned	O
+grass	O
+was	O
+crisscrossed	O
+in	O
+the	O
+now-familiar	O
+ideographic	O
+pattern	O
+,	O
+and	O
+crumbled	O
+to	O
+gray	O
+senselessness	O
+before	O
+the	O
+gunslinger	O
+'s	O
+prodding	O
+hand	O
+.	O
+
+# id = conivel-the-gunslinger-000040
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was nothing in the remains but a charred scrap of bacon , which he ate thoughtfully .
+There	O
+was	O
+nothing	O
+in	O
+the	O
+remains	O
+but	O
+a	O
+charred	O
+scrap	O
+of	O
+bacon	O
+,	O
+which	O
+he	O
+ate	O
+thoughtfully	O
+.	O
+
+# id = conivel-the-gunslinger-000041
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It had always been this way .
+It	O
+had	O
+always	O
+been	O
+this	O
+way	O
+.	O
+
+# id = conivel-the-gunslinger-000042
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The gunslinger had followed the man in black across the desert for two months now , across the endless , screamingly monotonous purgatorial wastes , and had yet to find spoor other than the hygienic sterile ideographs of the man in black 's campfires .
+The	O
+gunslinger	O
+had	O
+followed	O
+the	O
+man	O
+in	O
+black	O
+across	O
+the	O
+desert	O
+for	O
+two	O
+months	O
+now	O
+,	O
+across	O
+the	O
+endless	O
+,	O
+screamingly	O
+monotonous	O
+purgatorial	O
+wastes	O
+,	O
+and	O
+had	O
+yet	O
+to	O
+find	O
+spoor	O
+other	O
+than	O
+the	O
+hygienic	O
+sterile	O
+ideographs	O
+of	O
+the	O
+man	O
+in	O
+black	O
+'s	O
+campfires	O
+.	O
+
+# id = conivel-the-gunslinger-000043
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had not found a can , a bottle , or a waterbag ( the gunslinger had left four of those behind , like dead snake-skins ) .
+He	O
+had	O
+not	O
+found	O
+a	O
+can	O
+,	O
+a	O
+bottle	O
+,	O
+or	O
+a	O
+waterbag	O
+(	O
+the	O
+gunslinger	O
+had	O
+left	O
+four	O
+of	O
+those	O
+behind	O
+,	O
+like	O
+dead	O
+snake-skins	O
+)	O
+.	O
+
+# id = conivel-the-gunslinger-000044
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Perhaps the campfires are a message , spelled out letter by letter .
+--	O
+Perhaps	O
+the	O
+campfires	O
+are	O
+a	O
+message	O
+,	O
+spelled	O
+out	O
+letter	O
+by	O
+letter	O
+.	O
+
+# id = conivel-the-gunslinger-000045
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Take a powder .
+Take	O
+a	O
+powder	O
+.	O
+
+# id = conivel-the-gunslinger-000046
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Or , the end draweth nigh .
+Or	O
+,	O
+the	O
+end	O
+draweth	O
+nigh	O
+.	O
+
+# id = conivel-the-gunslinger-000047
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Or maybe even , Eat at Joe 's .
+Or	O
+maybe	O
+even	O
+,	O
+Eat	O
+at	O
+Joe	B-LOCATION
+'s	I-LOCATION
+.	O
+
+# id = conivel-the-gunslinger-000048
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It did n't matter .
+It	O
+did	O
+n't	O
+matter	O
+.	O
+
+# id = conivel-the-gunslinger-000049
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had no understanding of the ideograms , if they were ideograms .
+He	O
+had	O
+no	O
+understanding	O
+of	O
+the	O
+ideograms	O
+,	O
+if	O
+they	O
+were	O
+ideograms	O
+.	O
+
+# id = conivel-the-gunslinger-000050
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And the remains were as cold as all the others .
+And	O
+the	O
+remains	O
+were	O
+as	O
+cold	O
+as	O
+all	O
+the	O
+others	O
+.	O
+
+# id = conivel-the-gunslinger-000051
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He knew he was closer , but did not know how he knew .
+He	O
+knew	O
+he	O
+was	O
+closer	O
+,	O
+but	O
+did	O
+not	O
+know	O
+how	O
+he	O
+knew	O
+.	O
+
+# id = conivel-the-gunslinger-000052
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That did n't matter either .
+That	O
+did	O
+n't	O
+matter	O
+either	O
+.	O
+
+# id = conivel-the-gunslinger-000053
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He stood up , brushing his hands .
+He	O
+stood	O
+up	O
+,	O
+brushing	O
+his	O
+hands	O
+.	O
+
+# id = conivel-the-gunslinger-000054
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No other trace ; the wind , razor-sharp , had of course filed away even what scant tracks the hardpan held .
+No	O
+other	O
+trace	O
+;	O
+the	O
+wind	O
+,	O
+razor-sharp	O
+,	O
+had	O
+of	O
+course	O
+filed	O
+away	O
+even	O
+what	O
+scant	O
+tracks	O
+the	O
+hardpan	O
+held	O
+.	O
+
+# id = conivel-the-gunslinger-000055
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had never even been able to find his quarry 's droppings .
+He	O
+had	O
+never	O
+even	O
+been	O
+able	O
+to	O
+find	O
+his	O
+quarry	O
+'s	O
+droppings	O
+.	O
+
+# id = conivel-the-gunslinger-000056
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nothing .
+Nothing	O
+.	O
+
+# id = conivel-the-gunslinger-000057
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Only these cold campfires along the ancient highway and the relentless range-finder in his own head .
+Only	O
+these	O
+cold	O
+campfires	O
+along	O
+the	O
+ancient	O
+highway	O
+and	O
+the	O
+relentless	O
+range-finder	O
+in	O
+his	O
+own	O
+head	O
+.	O
+
+# id = conivel-the-gunslinger-000058
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He sat down and allowed himself a short pull from the waterbag .
+He	O
+sat	O
+down	O
+and	O
+allowed	O
+himself	O
+a	O
+short	O
+pull	O
+from	O
+the	O
+waterbag	O
+.	O
+
+# id = conivel-the-gunslinger-000059
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He scanned the desert , looked up at the sun , which was now sliding down the far quadrant of the sky .
+He	O
+scanned	O
+the	O
+desert	O
+,	O
+looked	O
+up	O
+at	O
+the	O
+sun	O
+,	O
+which	O
+was	O
+now	O
+sliding	O
+down	O
+the	O
+far	O
+quadrant	O
+of	O
+the	O
+sky	O
+.	O
+
+# id = conivel-the-gunslinger-000060
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He got up , removed his gloves from his belt , and began to pull devil-grass for his own fire , which he laid over the ashes the man in black had left .
+He	O
+got	O
+up	O
+,	O
+removed	O
+his	O
+gloves	O
+from	O
+his	O
+belt	O
+,	O
+and	O
+began	O
+to	O
+pull	O
+devil-grass	O
+for	O
+his	O
+own	O
+fire	O
+,	O
+which	O
+he	O
+laid	O
+over	O
+the	O
+ashes	O
+the	O
+man	O
+in	O
+black	O
+had	O
+left	O
+.	O
+
+# id = conivel-the-gunslinger-000061
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He found the irony , like the romance of his thirst , bitterly appealing .
+He	O
+found	O
+the	O
+irony	O
+,	O
+like	O
+the	O
+romance	O
+of	O
+his	O
+thirst	O
+,	O
+bitterly	O
+appealing	O
+.	O
+
+# id = conivel-the-gunslinger-000062
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He did not use the flint and steel until the remains of the day were only the fugitive heat in the ground beneath him and a sardonic orange line on the monochrome western horizon .
+He	O
+did	O
+not	O
+use	O
+the	O
+flint	O
+and	O
+steel	O
+until	O
+the	O
+remains	O
+of	O
+the	O
+day	O
+were	O
+only	O
+the	O
+fugitive	O
+heat	O
+in	O
+the	O
+ground	O
+beneath	O
+him	O
+and	O
+a	O
+sardonic	O
+orange	O
+line	O
+on	O
+the	O
+monochrome	O
+western	O
+horizon	O
+.	O
+
+# id = conivel-the-gunslinger-000063
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He watched the south patiently , toward the mountains , not hoping or expecting to see the thin straight line of smoke from a new campfire , but merely watching because that was a part of it .
+He	O
+watched	O
+the	O
+south	O
+patiently	O
+,	O
+toward	O
+the	O
+mountains	O
+,	O
+not	O
+hoping	O
+or	O
+expecting	O
+to	O
+see	O
+the	O
+thin	O
+straight	O
+line	O
+of	O
+smoke	O
+from	O
+a	O
+new	O
+campfire	O
+,	O
+but	O
+merely	O
+watching	O
+because	O
+that	O
+was	O
+a	O
+part	O
+of	O
+it	O
+.	O
+
+# id = conivel-the-gunslinger-000064
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was nothing .
+There	O
+was	O
+nothing	O
+.	O
+
+# id = conivel-the-gunslinger-000065
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was close , but only relatively so .
+He	O
+was	O
+close	O
+,	O
+but	O
+only	O
+relatively	O
+so	O
+.	O
+
+# id = conivel-the-gunslinger-000066
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not close enough to see smoke at dusk .
+Not	O
+close	O
+enough	O
+to	O
+see	O
+smoke	O
+at	O
+dusk	O
+.	O
+
+# id = conivel-the-gunslinger-000067
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He struck his spark to the dry , shredded grass and lay down upwind , letting the dreamsmoke blow out toward the waste .
+He	O
+struck	O
+his	O
+spark	O
+to	O
+the	O
+dry	O
+,	O
+shredded	O
+grass	O
+and	O
+lay	O
+down	O
+upwind	O
+,	O
+letting	O
+the	O
+dreamsmoke	O
+blow	O
+out	O
+toward	O
+the	O
+waste	O
+.	O
+
+# id = conivel-the-gunslinger-000068
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The wind , except for occasional gyrating dust devils , was constant .
+The	O
+wind	O
+,	O
+except	O
+for	O
+occasional	O
+gyrating	O
+dust	O
+devils	O
+,	O
+was	O
+constant	O
+.	O
+
+# id = conivel-the-gunslinger-000069
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Above , the stars were unwinking , also constant .
+Above	O
+,	O
+the	O
+stars	O
+were	O
+unwinking	O
+,	O
+also	O
+constant	O
+.	O
+
+# id = conivel-the-gunslinger-000070
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Suns and worlds by the million .
+Suns	O
+and	O
+worlds	O
+by	O
+the	O
+million	O
+.	O
+
+# id = conivel-the-gunslinger-000071
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Dizzying constellations , cold fire in every primary hue .
+Dizzying	O
+constellations	O
+,	O
+cold	O
+fire	O
+in	O
+every	O
+primary	O
+hue	O
+.	O
+
+# id = conivel-the-gunslinger-000072
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As he watched , the sky washed from violet to ebony .
+As	O
+he	O
+watched	O
+,	O
+the	O
+sky	O
+washed	O
+from	O
+violet	O
+to	O
+ebony	O
+.	O
+
+# id = conivel-the-gunslinger-000073
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A meteor etched a brief , spectacular arc and winked out .
+A	O
+meteor	O
+etched	O
+a	O
+brief	O
+,	O
+spectacular	O
+arc	O
+and	O
+winked	O
+out	O
+.	O
+
+# id = conivel-the-gunslinger-000074
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The fire threw strange shadows as the devil-grass burned its slow way down into new patterns -- not ideograms but a straightforward crisscross vaguely frightening in its own no-nonsense surety .
+The	O
+fire	O
+threw	O
+strange	O
+shadows	O
+as	O
+the	O
+devil-grass	O
+burned	O
+its	O
+slow	O
+way	O
+down	O
+into	O
+new	O
+patterns	O
+--	O
+not	O
+ideograms	O
+but	O
+a	O
+straightforward	O
+crisscross	O
+vaguely	O
+frightening	O
+in	O
+its	O
+own	O
+no-nonsense	O
+surety	O
+.	O
+
+# id = conivel-the-gunslinger-000075
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had laid his fuel in a pattern that was not artful but only workable .
+He	O
+had	O
+laid	O
+his	O
+fuel	O
+in	O
+a	O
+pattern	O
+that	O
+was	O
+not	O
+artful	O
+but	O
+only	O
+workable	O
+.	O
+
+# id = conivel-the-gunslinger-000076
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It spoke of blacks and whites .
+It	O
+spoke	O
+of	O
+blacks	O
+and	O
+whites	O
+.	O
+
+# id = conivel-the-gunslinger-000077
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It spoke of a man who might straighten bad pictures in strange hotel rooms .
+It	O
+spoke	O
+of	O
+a	O
+man	O
+who	O
+might	O
+straighten	O
+bad	O
+pictures	O
+in	O
+strange	O
+hotel	O
+rooms	O
+.	O
+
+# id = conivel-the-gunslinger-000078
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The fire burned its steady , slow flame , and phantoms danced in its incandescent core .
+The	O
+fire	O
+burned	O
+its	O
+steady	O
+,	O
+slow	O
+flame	O
+,	O
+and	O
+phantoms	O
+danced	O
+in	O
+its	O
+incandescent	O
+core	O
+.	O
+
+# id = conivel-the-gunslinger-000079
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The gunslinger did not see .
+The	O
+gunslinger	O
+did	O
+not	O
+see	O
+.	O
+
+# id = conivel-the-gunslinger-000080
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He slept .
+He	O
+slept	O
+.	O
+
+# id = conivel-the-gunslinger-000081
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The two patterns , art and craft , were welded together .
+The	O
+two	O
+patterns	O
+,	O
+art	O
+and	O
+craft	O
+,	O
+were	O
+welded	O
+together	O
+.	O
+
+# id = conivel-the-gunslinger-000082
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The wind moaned .
+The	O
+wind	O
+moaned	O
+.	O
+
+# id = conivel-the-gunslinger-000083
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Every now and then a perverse downdraft would make the smoke whirl and eddy toward him , and sporadic whiffs of the smoke touched him .
+Every	O
+now	O
+and	O
+then	O
+a	O
+perverse	O
+downdraft	O
+would	O
+make	O
+the	O
+smoke	O
+whirl	O
+and	O
+eddy	O
+toward	O
+him	O
+,	O
+and	O
+sporadic	O
+whiffs	O
+of	O
+the	O
+smoke	O
+touched	O
+him	O
+.	O
+
+# id = conivel-the-gunslinger-000084
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They built dreams in the same way that a small irritant may build a pearl .
+They	O
+built	O
+dreams	O
+in	O
+the	O
+same	O
+way	O
+that	O
+a	O
+small	O
+irritant	O
+may	O
+build	O
+a	O
+pearl	O
+.	O
+
+# id = conivel-the-gunslinger-000085
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = II He had come down off the last of the foothills leading the donkey , whose eyes were already dead and bulging with the heat .
+II	O
+He	O
+had	O
+come	O
+down	O
+off	O
+the	O
+last	O
+of	O
+the	O
+foothills	O
+leading	O
+the	O
+donkey	O
+,	O
+whose	O
+eyes	O
+were	O
+already	O
+dead	O
+and	O
+bulging	O
+with	O
+the	O
+heat	O
+.	O
+
+# id = conivel-the-gunslinger-000086
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had passed the last town three weeks before , and since then there had only been the deserted coach track and an occasional huddle of border dwellers ' sod dwellings .
+He	O
+had	O
+passed	O
+the	O
+last	O
+town	O
+three	O
+weeks	O
+before	O
+,	O
+and	O
+since	O
+then	O
+there	O
+had	O
+only	O
+been	O
+the	O
+deserted	O
+coach	O
+track	O
+and	O
+an	O
+occasional	O
+huddle	O
+of	O
+border	O
+dwellers	O
+'	O
+sod	O
+dwellings	O
+.	O
+
+# id = conivel-the-gunslinger-000087
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The huddles had degenerated into single dwellings , most inhabited by lepers or madmen .
+The	O
+huddles	O
+had	O
+degenerated	O
+into	O
+single	O
+dwellings	O
+,	O
+most	O
+inhabited	O
+by	O
+lepers	O
+or	O
+madmen	O
+.	O
+
+# id = conivel-the-gunslinger-000088
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He found the madmen better company .
+He	O
+found	O
+the	O
+madmen	O
+better	O
+company	O
+.	O
+
+# id = conivel-the-gunslinger-000089
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One had given him a stainless steel Silva compass and bade him give it to Jesus .
+One	O
+had	O
+given	O
+him	O
+a	O
+stainless	O
+steel	O
+Silva	O
+compass	O
+and	O
+bade	O
+him	O
+give	O
+it	O
+to	O
+Jesus	B-CHARACTER
+.	O
+
+# id = conivel-the-gunslinger-000090
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The gunslinger took it gravely .
+The	O
+gunslinger	O
+took	O
+it	O
+gravely	O
+.	O
+
+# id = conivel-the-gunslinger-000091
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If he saw Him , he would turn over the compass .
+If	O
+he	O
+saw	O
+Him	O
+,	O
+he	O
+would	O
+turn	O
+over	O
+the	O
+compass	O
+.	O
+
+# id = conivel-the-gunslinger-000092
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He did not expect to .
+He	O
+did	O
+not	O
+expect	O
+to	O
+.	O
+
+# id = conivel-the-gunslinger-000093
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Five days had passed since the last hut , and he had begun to suspect there would be no more when he topped the last eroded hill and saw the familiar low-backed sod roof .
+Five	O
+days	O
+had	O
+passed	O
+since	O
+the	O
+last	O
+hut	O
+,	O
+and	O
+he	O
+had	O
+begun	O
+to	O
+suspect	O
+there	O
+would	O
+be	O
+no	O
+more	O
+when	O
+he	O
+topped	O
+the	O
+last	O
+eroded	O
+hill	O
+and	O
+saw	O
+the	O
+familiar	O
+low-backed	O
+sod	O
+roof	O
+.	O
+
+# id = conivel-the-gunslinger-000094
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The dweller , a surprisingly young man with a wild shock of strawberry hair that reached almost to his waist , was weeding a scrawny stand of corn with zealous abandon .
+The	O
+dweller	O
+,	O
+a	O
+surprisingly	O
+young	O
+man	O
+with	O
+a	O
+wild	O
+shock	O
+of	O
+strawberry	O
+hair	O
+that	O
+reached	O
+almost	O
+to	O
+his	O
+waist	O
+,	O
+was	O
+weeding	O
+a	O
+scrawny	O
+stand	O
+of	O
+corn	O
+with	O
+zealous	O
+abandon	O
+.	O
+
+# id = conivel-the-gunslinger-000095
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The mule let out a wheezing grunt and the dweller looked up , glaring blue eyes coming target-center on the gunslinger in a moment He raised both hands in curt salute and then bent to the corn again , humping up the row next to his hut with back bent , tossing devil-grass and an occasional stunted corn plant over his shoulder .
+The	O
+mule	O
+let	O
+out	O
+a	O
+wheezing	O
+grunt	O
+and	O
+the	O
+dweller	O
+looked	O
+up	O
+,	O
+glaring	O
+blue	O
+eyes	O
+coming	O
+target-center	O
+on	O
+the	O
+gunslinger	O
+in	O
+a	O
+moment	O
+He	O
+raised	O
+both	O
+hands	O
+in	O
+curt	O
+salute	O
+and	O
+then	O
+bent	O
+to	O
+the	O
+corn	O
+again	O
+,	O
+humping	O
+up	O
+the	O
+row	O
+next	O
+to	O
+his	O
+hut	O
+with	O
+back	O
+bent	O
+,	O
+tossing	O
+devil-grass	O
+and	O
+an	O
+occasional	O
+stunted	O
+corn	O
+plant	O
+over	O
+his	O
+shoulder	O
+.	O
+
+# id = conivel-the-gunslinger-000096
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His hair flopped and flew in the wind that now came directly from the desert , with nothing to break it .
+His	O
+hair	O
+flopped	O
+and	O
+flew	O
+in	O
+the	O
+wind	O
+that	O
+now	O
+came	O
+directly	O
+from	O
+the	O
+desert	O
+,	O
+with	O
+nothing	O
+to	O
+break	O
+it	O
+.	O
+
+# id = conivel-the-gunslinger-000097
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The gunslinger came down the hill slowly , leading the donkey on which his waterskins sloshed .
+The	O
+gunslinger	O
+came	O
+down	O
+the	O
+hill	O
+slowly	O
+,	O
+leading	O
+the	O
+donkey	O
+on	O
+which	O
+his	O
+waterskins	O
+sloshed	O
+.	O
+
+# id = conivel-the-gunslinger-000098
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He paused by the edge of the lifeless-looking cornpatch , drew a drink from one of his skins to start the saliva , and spatinto the arid soil .
+He	O
+paused	O
+by	O
+the	O
+edge	O
+of	O
+the	O
+lifeless-looking	O
+cornpatch	O
+,	O
+drew	O
+a	O
+drink	O
+from	O
+one	O
+of	O
+his	O
+skins	O
+to	O
+start	O
+the	O
+saliva	O
+,	O
+and	O
+spatinto	O
+the	O
+arid	O
+soil	O
+.	O
+
+# id = conivel-the-gunslinger-000099
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Life for your crop . ''
+``	O
+Life	O
+for	O
+your	O
+crop	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000100
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Life for your own , ''
+``	O
+Life	O
+for	O
+your	O
+own	O
+,	O
+''	O
+
+# id = conivel-the-gunslinger-000101
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the dweller answered and stood up .
+the	O
+dweller	O
+answered	O
+and	O
+stood	O
+up	O
+.	O
+
+# id = conivel-the-gunslinger-000102
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His back popped audibly .
+His	O
+back	O
+popped	O
+audibly	O
+.	O
+
+# id = conivel-the-gunslinger-000103
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He surveyed the gunslinger without fear .
+He	O
+surveyed	O
+the	O
+gunslinger	O
+without	O
+fear	O
+.	O
+
+# id = conivel-the-gunslinger-000104
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The little of his face visible between beard and hair seemed unmarked by the rot , and his eyes , while a bit wild , seemed sane .
+The	O
+little	O
+of	O
+his	O
+face	O
+visible	O
+between	O
+beard	O
+and	O
+hair	O
+seemed	O
+unmarked	O
+by	O
+the	O
+rot	O
+,	O
+and	O
+his	O
+eyes	O
+,	O
+while	O
+a	O
+bit	O
+wild	O
+,	O
+seemed	O
+sane	O
+.	O
+
+# id = conivel-the-gunslinger-000105
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do n't have anything but corn and beans , ''
+``	O
+I	O
+do	O
+n't	O
+have	O
+anything	O
+but	O
+corn	O
+and	O
+beans	O
+,	O
+''	O
+
+# id = conivel-the-gunslinger-000106
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said .
+he	O
+said	O
+.	O
+
+# id = conivel-the-gunslinger-000107
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Corn 's free , but you 'll have to kick something in for the beans .
+``	O
+Corn	O
+'s	O
+free	O
+,	O
+but	O
+you	O
+'ll	O
+have	O
+to	O
+kick	O
+something	O
+in	O
+for	O
+the	O
+beans	O
+.	O
+
+# id = conivel-the-gunslinger-000108
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A man brings them out once in a while .
+A	O
+man	O
+brings	O
+them	O
+out	O
+once	O
+in	O
+a	O
+while	O
+.	O
+
+# id = conivel-the-gunslinger-000109
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He do n't stay long . ''
+He	O
+do	O
+n't	O
+stay	O
+long	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000110
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The dweller laughed shortly .
+The	O
+dweller	O
+laughed	O
+shortly	O
+.	O
+
+# id = conivel-the-gunslinger-000111
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Afraid of spirits . ''
+``	O
+Afraid	O
+of	O
+spirits	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000112
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I expect he thinks you 're one . ''
+``	O
+I	O
+expect	O
+he	O
+thinks	O
+you	O
+'re	O
+one	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000113
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I expect he does . ''
+``	O
+I	O
+expect	O
+he	O
+does	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000114
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They looked at each other in silence for a moment .
+They	O
+looked	O
+at	O
+each	O
+other	O
+in	O
+silence	O
+for	O
+a	O
+moment	O
+.	O
+
+# id = conivel-the-gunslinger-000115
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The dweller put out his hand .
+The	O
+dweller	O
+put	O
+out	O
+his	O
+hand	O
+.	O
+
+# id = conivel-the-gunslinger-000116
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Brown is my name . ''
+``	O
+Brown	B-CHARACTER
+is	O
+my	O
+name	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000117
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The gunslinger shook his hand .
+The	O
+gunslinger	O
+shook	O
+his	O
+hand	O
+.	O
+
+# id = conivel-the-gunslinger-000118
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As he did so , a scrawny raven croaked from the low peak of the sod roof .
+As	O
+he	O
+did	O
+so	O
+,	O
+a	O
+scrawny	O
+raven	O
+croaked	O
+from	O
+the	O
+low	O
+peak	O
+of	O
+the	O
+sod	O
+roof	O
+.	O
+
+# id = conivel-the-gunslinger-000119
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The dweller gestured at it briefly : `` That 's Zoltan . ''
+The	O
+dweller	O
+gestured	O
+at	O
+it	O
+briefly	O
+:	O
+``	O
+That	O
+'s	O
+Zoltan	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000120
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At the sound of its name the raven croaked again and flew across to Brown .
+At	O
+the	O
+sound	O
+of	O
+its	O
+name	O
+the	O
+raven	O
+croaked	O
+again	O
+and	O
+flew	O
+across	O
+to	O
+Brown	B-CHARACTER
+.	O
+
+# id = conivel-the-gunslinger-000121
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It landed on the dweller 's head and roosted , talons firmly twined in the wild thatch of hair .
+It	O
+landed	O
+on	O
+the	O
+dweller	O
+'s	O
+head	O
+and	O
+roosted	O
+,	O
+talons	O
+firmly	O
+twined	O
+in	O
+the	O
+wild	O
+thatch	O
+of	O
+hair	O
+.	O
+
+# id = conivel-the-gunslinger-000122
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Screw you , ''
+``	O
+Screw	O
+you	O
+,	O
+''	O
+
+# id = conivel-the-gunslinger-000123
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Zoltan croaked brightly .
+Zoltan	B-CHARACTER
+croaked	O
+brightly	O
+.	O
+
+# id = conivel-the-gunslinger-000124
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Screw you and the horse you rode in on . ''
+``	O
+Screw	O
+you	O
+and	O
+the	O
+horse	O
+you	O
+rode	O
+in	O
+on	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000125
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The gunslinger nodded amiably .
+The	O
+gunslinger	O
+nodded	O
+amiably	O
+.	O
+
+# id = conivel-the-gunslinger-000126
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Beans , beans , the musical fruit , ''
+``	O
+Beans	O
+,	O
+beans	O
+,	O
+the	O
+musical	O
+fruit	O
+,	O
+''	O
+
+# id = conivel-the-gunslinger-000127
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the raven recited , inspired .
+the	O
+raven	O
+recited	O
+,	O
+inspired	O
+.	O
+
+# id = conivel-the-gunslinger-000128
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The more you eat , the more you toot ''
+``	O
+The	O
+more	O
+you	O
+eat	O
+,	O
+the	O
+more	O
+you	O
+toot	O
+''	O
+
+# id = conivel-the-gunslinger-000129
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You teach him that ? ''
+``	O
+You	O
+teach	O
+him	O
+that	O
+?	O
+''	O
+
+# id = conivel-the-gunslinger-000130
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That 's all he wants to learn , I guess , ''
+``	O
+That	O
+'s	O
+all	O
+he	O
+wants	O
+to	O
+learn	O
+,	O
+I	O
+guess	O
+,	O
+''	O
+
+# id = conivel-the-gunslinger-000131
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Brown said .
+Brown	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-gunslinger-000132
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Tried to teach him The Lord 's Prayer once . ''
+``	O
+Tried	O
+to	O
+teach	O
+him	O
+The	O
+Lord	O
+'s	O
+Prayer	O
+once	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000133
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His eyes traveled out beyond the hut for a moment , toward the gritty , featureless hardpan .
+His	O
+eyes	O
+traveled	O
+out	O
+beyond	O
+the	O
+hut	O
+for	O
+a	O
+moment	O
+,	O
+toward	O
+the	O
+gritty	O
+,	O
+featureless	O
+hardpan	O
+.	O
+
+# id = conivel-the-gunslinger-000134
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Guess this ai n't Lord 's Prayer country .
+``	O
+Guess	O
+this	O
+ai	O
+n't	O
+Lord	O
+'s	O
+Prayer	O
+country	O
+.	O
+
+# id = conivel-the-gunslinger-000135
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You 're a gunslinger .
+You	O
+'re	O
+a	O
+gunslinger	O
+.	O
+
+# id = conivel-the-gunslinger-000136
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That right ? ''
+That	O
+right	O
+?	O
+''	O
+
+# id = conivel-the-gunslinger-000137
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes . ''
+``	O
+Yes	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000138
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He hunkered down and brought out his makings .
+He	O
+hunkered	O
+down	O
+and	O
+brought	O
+out	O
+his	O
+makings	O
+.	O
+
+# id = conivel-the-gunslinger-000139
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Zoltan launched himself from Brown 's head and landed , flittering , on the gunslinger 's shoulder .
+Zoltan	B-CHARACTER
+launched	O
+himself	O
+from	O
+Brown	B-CHARACTER
+'s	O
+head	O
+and	O
+landed	O
+,	O
+flittering	O
+,	O
+on	O
+the	O
+gunslinger	O
+'s	O
+shoulder	O
+.	O
+
+# id = conivel-the-gunslinger-000140
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` After the other one , I guess . ''
+``	O
+After	O
+the	O
+other	O
+one	O
+,	O
+I	O
+guess	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000141
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes . ''
+``	O
+Yes	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000142
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The inevitable question formed in his mouth : `` How long since he passed by ? ''
+The	O
+inevitable	O
+question	O
+formed	O
+in	O
+his	O
+mouth	O
+:	O
+``	O
+How	O
+long	O
+since	O
+he	O
+passed	O
+by	O
+?	O
+''	O
+
+# id = conivel-the-gunslinger-000143
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Brown shrugged .
+Brown	B-CHARACTER
+shrugged	O
+.	O
+
+# id = conivel-the-gunslinger-000144
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do n't know .
+``	O
+I	O
+do	O
+n't	O
+know	O
+.	O
+
+# id = conivel-the-gunslinger-000145
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Time 's funny out here .
+Time	O
+'s	O
+funny	O
+out	O
+here	O
+.	O
+
+# id = conivel-the-gunslinger-000146
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = More than two weeks .
+More	O
+than	O
+two	O
+weeks	O
+.	O
+
+# id = conivel-the-gunslinger-000147
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Less than two months .
+Less	O
+than	O
+two	O
+months	O
+.	O
+
+# id = conivel-the-gunslinger-000148
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The bean man 's been twice since he passed .
+The	O
+bean	O
+man	O
+'s	O
+been	O
+twice	O
+since	O
+he	O
+passed	O
+.	O
+
+# id = conivel-the-gunslinger-000149
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'd guess six weeks .
+I	O
+'d	O
+guess	O
+six	O
+weeks	O
+.	O
+
+# id = conivel-the-gunslinger-000150
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That 's probably wrong . ''
+That	O
+'s	O
+probably	O
+wrong	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000151
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The more you eat , the more you toot , ''
+``	O
+The	O
+more	O
+you	O
+eat	O
+,	O
+the	O
+more	O
+you	O
+toot	O
+,	O
+''	O
+
+# id = conivel-the-gunslinger-000152
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Zoltan said .
+Zoltan	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-gunslinger-000153
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Did he stop off ? ''
+``	O
+Did	O
+he	O
+stop	O
+off	O
+?	O
+''	O
+
+# id = conivel-the-gunslinger-000154
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the gunslinger asked .
+the	O
+gunslinger	O
+asked	O
+.	O
+
+# id = conivel-the-gunslinger-000155
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Brown nodded .
+Brown	B-CHARACTER
+nodded	O
+.	O
+
+# id = conivel-the-gunslinger-000156
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He stayed supper , same as you will , I guess .
+``	O
+He	O
+stayed	O
+supper	O
+,	O
+same	O
+as	O
+you	O
+will	O
+,	O
+I	O
+guess	O
+.	O
+
+# id = conivel-the-gunslinger-000157
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We passed the time . ''
+We	O
+passed	O
+the	O
+time	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000158
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The gunslinger stood up and the bird flew back to the roof , squawking .
+The	O
+gunslinger	O
+stood	O
+up	O
+and	O
+the	O
+bird	O
+flew	O
+back	O
+to	O
+the	O
+roof	O
+,	O
+squawking	O
+.	O
+
+# id = conivel-the-gunslinger-000159
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He felt an odd , trembling eagerness .
+He	O
+felt	O
+an	O
+odd	O
+,	O
+trembling	O
+eagerness	O
+.	O
+
+# id = conivel-the-gunslinger-000160
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What did he talk about ? ''
+``	O
+What	O
+did	O
+he	O
+talk	O
+about	O
+?	O
+''	O
+
+# id = conivel-the-gunslinger-000161
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Brown cocked an eyebrow at him .
+Brown	B-CHARACTER
+cocked	O
+an	O
+eyebrow	O
+at	O
+him	O
+.	O
+
+# id = conivel-the-gunslinger-000162
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Not much .
+``	O
+Not	O
+much	O
+.	O
+
+# id = conivel-the-gunslinger-000163
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Did it ever rain and when did I come here and had I buried my wife .
+Did	O
+it	O
+ever	O
+rain	O
+and	O
+when	O
+did	O
+I	O
+come	O
+here	O
+and	O
+had	O
+I	O
+buried	O
+my	O
+wife	O
+.	O
+
+# id = conivel-the-gunslinger-000164
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I did most of the talking , which ai n't usual . ''
+I	O
+did	O
+most	O
+of	O
+the	O
+talking	O
+,	O
+which	O
+ai	O
+n't	O
+usual	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000165
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He paused .
+He	O
+paused	O
+.	O
+
+# id = conivel-the-gunslinger-000166
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = and the only sound was the stark wind .
+and	O
+the	O
+only	O
+sound	O
+was	O
+the	O
+stark	O
+wind	O
+.	O
+
+# id = conivel-the-gunslinger-000167
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He 's a sorcerer , ai n't he ? ''
+``	O
+He	O
+'s	O
+a	O
+sorcerer	O
+,	O
+ai	O
+n't	O
+he	O
+?	O
+''	O
+
+# id = conivel-the-gunslinger-000168
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes . ''
+``	O
+Yes	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000169
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Brown nodded slowly .
+Brown	B-CHARACTER
+nodded	O
+slowly	O
+.	O
+
+# id = conivel-the-gunslinger-000170
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I knew .
+``	O
+I	O
+knew	O
+.	O
+
+# id = conivel-the-gunslinger-000171
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Are you ? ''
+Are	O
+you	O
+?	O
+''	O
+
+# id = conivel-the-gunslinger-000172
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm just a man . ''
+``	O
+I	O
+'m	O
+just	O
+a	O
+man	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000173
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 'll never catch him . ''
+``	O
+You	O
+'ll	O
+never	O
+catch	O
+him	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000174
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'll catch him . ''
+``	O
+I	O
+'ll	O
+catch	O
+him	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000175
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They looked at each other , a sudden depth of feeling between them , the dweller upon his dust-puff-dry ground , the gunslinger on the hardpan that shelved down to the desert .
+They	O
+looked	O
+at	O
+each	O
+other	O
+,	O
+a	O
+sudden	O
+depth	O
+of	O
+feeling	O
+between	O
+them	O
+,	O
+the	O
+dweller	O
+upon	O
+his	O
+dust-puff-dry	O
+ground	O
+,	O
+the	O
+gunslinger	O
+on	O
+the	O
+hardpan	O
+that	O
+shelved	O
+down	O
+to	O
+the	O
+desert	O
+.	O
+
+# id = conivel-the-gunslinger-000176
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He reached for his flint .
+He	O
+reached	O
+for	O
+his	O
+flint	O
+.	O
+
+# id = conivel-the-gunslinger-000177
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Here . ''
+``	O
+Here	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000178
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Brown produced a sulfur-headed match and struck it with a grimed nail .
+Brown	B-CHARACTER
+produced	O
+a	O
+sulfur-headed	O
+match	O
+and	O
+struck	O
+it	O
+with	O
+a	O
+grimed	O
+nail	O
+.	O
+
+# id = conivel-the-gunslinger-000179
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The gunslinger pushed the tip of his smoke into the flame and drew .
+The	O
+gunslinger	O
+pushed	O
+the	O
+tip	O
+of	O
+his	O
+smoke	O
+into	O
+the	O
+flame	O
+and	O
+drew	O
+.	O
+
+# id = conivel-the-gunslinger-000180
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Thanks . ''
+``	O
+Thanks	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000181
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 'll want to fill your skins , ''
+``	O
+You	O
+'ll	O
+want	O
+to	O
+fill	O
+your	O
+skins	O
+,	O
+''	O
+
+# id = conivel-the-gunslinger-000182
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the dweller said , turning away .
+the	O
+dweller	O
+said	O
+,	O
+turning	O
+away	O
+.	O
+
+# id = conivel-the-gunslinger-000183
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Spring 's under the eaves in back .
+``	O
+Spring	O
+'s	O
+under	O
+the	O
+eaves	O
+in	O
+back	O
+.	O
+
+# id = conivel-the-gunslinger-000184
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'll start dinner . ''
+I	O
+'ll	O
+start	O
+dinner	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000185
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The gunslinger stepped gingerly over the rows of corn and went around back .
+The	O
+gunslinger	O
+stepped	O
+gingerly	O
+over	O
+the	O
+rows	O
+of	O
+corn	O
+and	O
+went	O
+around	O
+back	O
+.	O
+
+# id = conivel-the-gunslinger-000186
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The spring was at the bottom of a hand-dug well , lined with stones to keep the powdery earth from caving .
+The	O
+spring	O
+was	O
+at	O
+the	O
+bottom	O
+of	O
+a	O
+hand-dug	O
+well	O
+,	O
+lined	O
+with	O
+stones	O
+to	O
+keep	O
+the	O
+powdery	O
+earth	O
+from	O
+caving	O
+.	O
+
+# id = conivel-the-gunslinger-000187
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As he descended the rickety ladder , the gunslinger reflected that the stones must represent two years ' work easily -- hauling , dragging , laying .
+As	O
+he	O
+descended	O
+the	O
+rickety	O
+ladder	O
+,	O
+the	O
+gunslinger	O
+reflected	O
+that	O
+the	O
+stones	O
+must	O
+represent	O
+two	O
+years	O
+'	O
+work	O
+easily	O
+--	O
+hauling	O
+,	O
+dragging	O
+,	O
+laying	O
+.	O
+
+# id = conivel-the-gunslinger-000188
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The water was clear but slow-moving , and filling the skins was a long chore .
+The	O
+water	O
+was	O
+clear	O
+but	O
+slow-moving	O
+,	O
+and	O
+filling	O
+the	O
+skins	O
+was	O
+a	O
+long	O
+chore	O
+.	O
+
+# id = conivel-the-gunslinger-000189
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = While he was topping the second , Zoltan perched on the lip of the well .
+While	O
+he	O
+was	O
+topping	O
+the	O
+second	O
+,	O
+Zoltan	B-CHARACTER
+perched	O
+on	O
+the	O
+lip	O
+of	O
+the	O
+well	O
+.	O
+
+# id = conivel-the-gunslinger-000190
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Screw you and the horse you rode in on , ''
+``	O
+Screw	O
+you	O
+and	O
+the	O
+horse	O
+you	O
+rode	O
+in	O
+on	O
+,	O
+''	O
+
+# id = conivel-the-gunslinger-000191
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he advised .
+he	O
+advised	O
+.	O
+
+# id = conivel-the-gunslinger-000192
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He looked up , startled .
+He	O
+looked	O
+up	O
+,	O
+startled	O
+.	O
+
+# id = conivel-the-gunslinger-000193
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The shaft was about fifteen feet deep : easy enough for Brown to drop a rock on him , break his head , and steal everything on him .
+The	O
+shaft	O
+was	O
+about	O
+fifteen	O
+feet	O
+deep	O
+:	O
+easy	O
+enough	O
+for	O
+Brown	B-CHARACTER
+to	O
+drop	O
+a	O
+rock	O
+on	O
+him	O
+,	O
+break	O
+his	O
+head	O
+,	O
+and	O
+steal	O
+everything	O
+on	O
+him	O
+.	O
+
+# id = conivel-the-gunslinger-000194
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A crazy or a rotter would n't do it ; Brown was neither .
+A	O
+crazy	O
+or	O
+a	O
+rotter	O
+would	O
+n't	O
+do	O
+it	O
+;	O
+Brown	B-CHARACTER
+was	O
+neither	O
+.	O
+
+# id = conivel-the-gunslinger-000195
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Yet he liked Brown , and so he pushed the thought out of his mind and got the rest of his water .
+Yet	O
+he	O
+liked	O
+Brown	B-CHARACTER
+,	O
+and	O
+so	O
+he	O
+pushed	O
+the	O
+thought	O
+out	O
+of	O
+his	O
+mind	O
+and	O
+got	O
+the	O
+rest	O
+of	O
+his	O
+water	O
+.	O
+
+# id = conivel-the-gunslinger-000196
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What came , came .
+What	O
+came	O
+,	O
+came	O
+.	O
+
+# id = conivel-the-gunslinger-000197
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When he came through the hut 's door and walked down the steps ( the hovel proper was set below ground level , designed to catch and hold the coolness of the nights ) , Brown was poking ears of corn into the embers of a tiny fire with a hardwood spatula .
+When	O
+he	O
+came	O
+through	O
+the	O
+hut	O
+'s	O
+door	O
+and	O
+walked	O
+down	O
+the	O
+steps	O
+(	O
+the	O
+hovel	O
+proper	O
+was	O
+set	O
+below	O
+ground	O
+level	O
+,	O
+designed	O
+to	O
+catch	O
+and	O
+hold	O
+the	O
+coolness	O
+of	O
+the	O
+nights	O
+)	O
+,	O
+Brown	B-CHARACTER
+was	O
+poking	O
+ears	O
+of	O
+corn	O
+into	O
+the	O
+embers	O
+of	O
+a	O
+tiny	O
+fire	O
+with	O
+a	O
+hardwood	O
+spatula	O
+.	O
+
+# id = conivel-the-gunslinger-000198
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Two ragged plates had been set at opposite ends of a dun blanket .
+Two	O
+ragged	O
+plates	O
+had	O
+been	O
+set	O
+at	O
+opposite	O
+ends	O
+of	O
+a	O
+dun	O
+blanket	O
+.	O
+
+# id = conivel-the-gunslinger-000199
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Water for the beans was just beginning to bubble in a pot hung over the fire .
+Water	O
+for	O
+the	O
+beans	O
+was	O
+just	O
+beginning	O
+to	O
+bubble	O
+in	O
+a	O
+pot	O
+hung	O
+over	O
+the	O
+fire	O
+.	O
+
+# id = conivel-the-gunslinger-000200
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'll pay for the water , too . ''
+``	O
+I	O
+'ll	O
+pay	O
+for	O
+the	O
+water	O
+,	O
+too	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000201
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Brown did not look up .
+Brown	B-CHARACTER
+did	O
+not	O
+look	O
+up	O
+.	O
+
+# id = conivel-the-gunslinger-000202
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The water 's a gift from God .
+``	O
+The	O
+water	O
+'s	O
+a	O
+gift	O
+from	O
+God	B-CHARACTER
+.	O
+
+# id = conivel-the-gunslinger-000203
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pappa Doc brings the beans . ''
+Pappa	B-CHARACTER
+Doc	I-CHARACTER
+brings	O
+the	O
+beans	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000204
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The gunslinger grunted a laugh and sat down with his back against one rude wall , folded his arms and closed his eyes .
+The	O
+gunslinger	O
+grunted	O
+a	O
+laugh	O
+and	O
+sat	O
+down	O
+with	O
+his	O
+back	O
+against	O
+one	O
+rude	O
+wall	O
+,	O
+folded	O
+his	O
+arms	O
+and	O
+closed	O
+his	O
+eyes	O
+.	O
+
+# id = conivel-the-gunslinger-000205
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = After a little , the smell of roasting corn came to his nose .
+After	O
+a	O
+little	O
+,	O
+the	O
+smell	O
+of	O
+roasting	O
+corn	O
+came	O
+to	O
+his	O
+nose	O
+.	O
+
+# id = conivel-the-gunslinger-000206
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was a pebbly rattle as Brown dumped a paper of dry beans into the pot An occasional tak-tak-tak as Zoltan walked restlessly on the roof .
+There	O
+was	O
+a	O
+pebbly	O
+rattle	O
+as	O
+Brown	B-CHARACTER
+dumped	O
+a	O
+paper	O
+of	O
+dry	O
+beans	O
+into	O
+the	O
+pot	O
+An	O
+occasional	O
+tak-tak-tak	O
+as	O
+Zoltan	B-CHARACTER
+walked	O
+restlessly	O
+on	O
+the	O
+roof	O
+.	O
+
+# id = conivel-the-gunslinger-000207
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was tired ; he had been going sixteen and sometimes eighteen hours a day between here and the horror that had occurred in Tull , the last village .
+He	O
+was	O
+tired	O
+;	O
+he	O
+had	O
+been	O
+going	O
+sixteen	O
+and	O
+sometimes	O
+eighteen	O
+hours	O
+a	O
+day	O
+between	O
+here	O
+and	O
+the	O
+horror	O
+that	O
+had	O
+occurred	O
+in	O
+Tull	B-LOCATION
+,	O
+the	O
+last	O
+village	O
+.	O
+
+# id = conivel-the-gunslinger-000208
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And he had been afoot for the last twelve days ; the mule was at the end of its endurance .
+And	O
+he	O
+had	O
+been	O
+afoot	O
+for	O
+the	O
+last	O
+twelve	O
+days	O
+;	O
+the	O
+mule	O
+was	O
+at	O
+the	O
+end	O
+of	O
+its	O
+endurance	O
+.	O
+
+# id = conivel-the-gunslinger-000209
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tak-tak-tak .
+Tak-tak-tak	O
+.	O
+
+# id = conivel-the-gunslinger-000210
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Two weeks , Brown had said , or as much as six .
+Two	O
+weeks	O
+,	O
+Brown	B-CHARACTER
+had	O
+said	O
+,	O
+or	O
+as	O
+much	O
+as	O
+six	O
+.	O
+
+# id = conivel-the-gunslinger-000211
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Did n't matter .
+Did	O
+n't	O
+matter	O
+.	O
+
+# id = conivel-the-gunslinger-000212
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There had been calendars in Tull , and they had remembered the man in black because of the old man he had healed on his way through .
+There	O
+had	O
+been	O
+calendars	O
+in	O
+Tull	B-LOCATION
+,	O
+and	O
+they	O
+had	O
+remembered	O
+the	O
+man	O
+in	O
+black	O
+because	O
+of	O
+the	O
+old	O
+man	O
+he	O
+had	O
+healed	O
+on	O
+his	O
+way	O
+through	O
+.	O
+
+# id = conivel-the-gunslinger-000213
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Just an old man dying with the weed .
+Just	O
+an	O
+old	O
+man	O
+dying	O
+with	O
+the	O
+weed	O
+.	O
+
+# id = conivel-the-gunslinger-000214
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = An old man of thirty-five .
+An	O
+old	O
+man	O
+of	O
+thirty-five	O
+.	O
+
+# id = conivel-the-gunslinger-000215
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And if Brown was right , the man in black had lost ground since then .
+And	O
+if	O
+Brown	B-CHARACTER
+was	O
+right	O
+,	O
+the	O
+man	O
+in	O
+black	O
+had	O
+lost	O
+ground	O
+since	O
+then	O
+.	O
+
+# id = conivel-the-gunslinger-000216
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But the desert was next .
+But	O
+the	O
+desert	O
+was	O
+next	O
+.	O
+
+# id = conivel-the-gunslinger-000217
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And the desert would be hell .
+And	O
+the	O
+desert	O
+would	O
+be	O
+hell	O
+.	O
+
+# id = conivel-the-gunslinger-000218
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tak-tak-tak .
+Tak-tak-tak	O
+.	O
+
+# id = conivel-the-gunslinger-000219
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- Lend me your wings , bird .
+--	O
+Lend	O
+me	O
+your	O
+wings	O
+,	O
+bird	O
+.	O
+
+# id = conivel-the-gunslinger-000220
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'll spread them and fly on the thermals .
+I	O
+'ll	O
+spread	O
+them	O
+and	O
+fly	O
+on	O
+the	O
+thermals	O
+.	O
+
+# id = conivel-the-gunslinger-000221
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He slept III Brown woke him up five hours later .
+He	O
+slept	O
+III	O
+Brown	B-CHARACTER
+woke	O
+him	O
+up	O
+five	O
+hours	O
+later	O
+.	O
+
+# id = conivel-the-gunslinger-000222
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was dark .
+It	O
+was	O
+dark	O
+.	O
+
+# id = conivel-the-gunslinger-000223
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The only light was the dull cherry glare of the banked embers .
+The	O
+only	O
+light	O
+was	O
+the	O
+dull	O
+cherry	O
+glare	O
+of	O
+the	O
+banked	O
+embers	O
+.	O
+
+# id = conivel-the-gunslinger-000224
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Your mule has passed on , ''
+``	O
+Your	O
+mule	O
+has	O
+passed	O
+on	O
+,	O
+''	O
+
+# id = conivel-the-gunslinger-000225
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Brown said .
+Brown	B-CHARACTER
+said	O
+.	O
+
+# id = conivel-the-gunslinger-000226
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Dinner 's ready . ''
+``	O
+Dinner	O
+'s	O
+ready	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000227
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How ? ''
+``	O
+How	O
+?	O
+''	O
+
+# id = conivel-the-gunslinger-000228
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Brown shrugged .
+Brown	B-CHARACTER
+shrugged	O
+.	O
+
+# id = conivel-the-gunslinger-000229
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Roasted and boiled , how else ?
+``	O
+Roasted	O
+and	O
+boiled	O
+,	O
+how	O
+else	O
+?	O
+
+# id = conivel-the-gunslinger-000230
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You picky ? ''
+You	O
+picky	O
+?	O
+''	O
+
+# id = conivel-the-gunslinger-000231
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , the mule . ''
+``	O
+No	O
+,	O
+the	O
+mule	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000232
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It just laid over , that 's all .
+``	O
+It	O
+just	O
+laid	O
+over	O
+,	O
+that	O
+'s	O
+all	O
+.	O
+
+# id = conivel-the-gunslinger-000233
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It looked like an old mule . ''
+It	O
+looked	O
+like	O
+an	O
+old	O
+mule	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000234
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And with a touch of apology : `` Zoltan et the eyes . ''
+And	O
+with	O
+a	O
+touch	O
+of	O
+apology	O
+:	O
+``	O
+Zoltan	B-CHARACTER
+et	O
+the	O
+eyes	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000235
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Oh . ''
+``	O
+Oh	O
+.	O
+''	O
+
+# id = conivel-the-gunslinger-000236
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He might have expected it `` All right ''
+He	O
+might	O
+have	O
+expected	O
+it	O
+``	O
+All	O
+right	O
+''	O
+
+# id = conivel-the-gunslinger-000237
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Brown surprised him again when they sat down to the blanket that served as a table by asking a brief blessing : Rain , health , expansion to the spirit `` Do you believe in an afterlife ? ''
+Brown	B-CHARACTER
+surprised	O
+him	O
+again	O
+when	O
+they	O
+sat	O
+down	O
+to	O
+the	O
+blanket	O
+that	O
+served	O
+as	O
+a	O
+table	O
+by	O
+asking	O
+a	O
+brief	O
+blessing	O
+:	O
+Rain	O
+,	O
+health	O
+,	O
+expansion	O
+to	O
+the	O
+spirit	O
+``	O
+Do	O
+you	O
+believe	O
+in	O
+an	O
+afterlife	O
+?	O
+''	O
+
+# id = conivel-the-gunslinger-000238
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The gunslinger asked him as Brown dropped three ears of hot corn onto his plate .
+The	O
+gunslinger	O
+asked	O
+him	O
+as	O
+Brown	B-CHARACTER
+dropped	O
+three	O
+ears	O
+of	O
+hot	O
+corn	O
+onto	O
+his	O
+plate	O
+.	O
+
+# id = conivel-the-gunslinger-000239
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Brown nodded .
+Brown	B-CHARACTER
+nodded	O
+.	O
+
+# id = conivel-the-gunslinger-000240
+# source = Conivel corrected OWTO literary NER
+# book = The Gunslinger
+# source_file = TheGunslinger.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I think this is it . ''
+``	O
+I	O
+think	O
+this	O
+is	O
+it	O
+.	O
+''	O
+

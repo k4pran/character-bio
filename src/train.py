@@ -147,7 +147,10 @@ def load_conll_file(path: Path, label2id: dict) -> List[dict]:
                 flush_example()
                 continue
 
-            if line.startswith("#"):
+            # A literal "#" can be a valid token. Generated project CoNLL
+            # writes token/label rows with a tab, while metadata comments use
+            # "# ", so do not discard "#\t<label>" as a comment.
+            if line.startswith("#") and not line.startswith("#\t"):
                 comment = line[1:].strip()
 
                 if "=" in comment:

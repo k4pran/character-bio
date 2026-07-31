@@ -1,0 +1,7110 @@
+# id = conivel-magician-000001
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The day was unmercifully hot .
+The	O
+day	O
+was	O
+unmercifully	O
+hot	O
+.	O
+
+# id = conivel-magician-000002
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The other slaves went about their work , ignoring the sound as much as possible .
+The	O
+other	O
+slaves	O
+went	O
+about	O
+their	O
+work	O
+,	O
+ignoring	O
+the	O
+sound	O
+as	O
+much	O
+as	O
+possible	O
+.	O
+
+# id = conivel-magician-000003
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Life in the work camp was cheap , and it did no good to dwell on the fate that awaited so many .
+Life	O
+in	O
+the	O
+work	O
+camp	O
+was	O
+cheap	O
+,	O
+and	O
+it	O
+did	O
+no	O
+good	O
+to	O
+dwell	O
+on	O
+the	O
+fate	O
+that	O
+awaited	O
+so	O
+many	O
+.	O
+
+# id = conivel-magician-000004
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The dying man had been bitten by a relli , a snakelike swamp creature .
+The	O
+dying	O
+man	O
+had	O
+been	O
+bitten	O
+by	O
+a	O
+relli	O
+,	O
+a	O
+snakelike	O
+swamp	O
+creature	O
+.	O
+
+# id = conivel-magician-000005
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Its venom was slow-acting and painful ; short of magic , there was no cure .
+Its	O
+venom	O
+was	O
+slow-acting	O
+and	O
+painful	O
+;	O
+short	O
+of	O
+magic	O
+,	O
+there	O
+was	O
+no	O
+cure	O
+.	O
+
+# id = conivel-magician-000006
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Suddenly there was silence .
+Suddenly	O
+there	O
+was	O
+silence	O
+.	O
+
+# id = conivel-magician-000007
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug looked over to see a Tsurani guard wipe off his sword .
+Pug	B-CHARACTER
+looked	O
+over	O
+to	O
+see	O
+a	O
+Tsurani	O
+guard	O
+wipe	O
+off	O
+his	O
+sword	O
+.	O
+
+# id = conivel-magician-000008
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A hand fell on Pug 's shoulder .
+A	O
+hand	O
+fell	O
+on	O
+Pug	B-CHARACTER
+'s	O
+shoulder	O
+.	O
+
+# id = conivel-magician-000009
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laurie 's voice whispered in his ear , `` Looks like our venerable overseer was disturbed by the sound of Toffston 's dying . ''
+Laurie	B-CHARACTER
+'s	O
+voice	O
+whispered	O
+in	O
+his	O
+ear	O
+,	O
+``	O
+Looks	O
+like	O
+our	O
+venerable	O
+overseer	O
+was	O
+disturbed	O
+by	O
+the	O
+sound	O
+of	O
+Toffston	B-CHARACTER
+'s	O
+dying	O
+.	O
+''	O
+
+# id = conivel-magician-000010
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug tied a coil of rope securely around his waist .
+Pug	B-CHARACTER
+tied	O
+a	O
+coil	O
+of	O
+rope	O
+securely	O
+around	O
+his	O
+waist	O
+.	O
+
+# id = conivel-magician-000011
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` At least it ended quickly . ''
+``	O
+At	O
+least	O
+it	O
+ended	O
+quickly	O
+.	O
+''	O
+
+# id = conivel-magician-000012
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He turned to the tall , blond singer from the Kingdom city of Tyr-Sog and said , `` Keep a sharp eye out .
+He	O
+turned	O
+to	O
+the	O
+tall	O
+,	O
+blond	O
+singer	O
+from	O
+the	O
+Kingdom	O
+city	O
+of	O
+Tyr-Sog	B-LOCATION
+and	O
+said	O
+,	O
+``	O
+Keep	O
+a	O
+sharp	O
+eye	O
+out	O
+.	O
+
+# id = conivel-magician-000013
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This one 's old and may be rotten . ''
+This	O
+one	O
+'s	O
+old	O
+and	O
+may	O
+be	O
+rotten	O
+.	O
+''	O
+
+# id = conivel-magician-000014
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Without another word .
+Without	O
+another	O
+word	O
+.	O
+
+# id = conivel-magician-000015
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug scampered up the bole of the ngaggi tree , a firiike swamp tree the Tsurani harvested for wood and resins .
+Pug	B-CHARACTER
+scampered	O
+up	O
+the	O
+bole	O
+of	O
+the	O
+ngaggi	O
+tree	O
+,	O
+a	O
+firiike	O
+swamp	O
+tree	O
+the	O
+Tsurani	O
+harvested	O
+for	O
+wood	O
+and	O
+resins	O
+.	O
+
+# id = conivel-magician-000016
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = With few metals , the Tsurani had become clever in finding many substitutes .
+With	O
+few	O
+metals	O
+,	O
+the	O
+Tsurani	O
+had	O
+become	O
+clever	O
+in	O
+finding	O
+many	O
+substitutes	O
+.	O
+
+# id = conivel-magician-000017
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The wood of this tree could be worked Uke paper , then dried to an incredible hardness , useful in fashioning .
+The	O
+wood	O
+of	O
+this	O
+tree	O
+could	O
+be	O
+worked	O
+Uke	O
+paper	O
+,	O
+then	O
+dried	O
+to	O
+an	O
+incredible	O
+hardness	O
+,	O
+useful	O
+in	O
+fashioning	O
+.	O
+
+# id = conivel-magician-000018
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = a hundred things .
+a	O
+hundred	O
+things	O
+.	O
+
+# id = conivel-magician-000019
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The resins were used to laminate woods and cure hides .
+The	O
+resins	O
+were	O
+used	O
+to	O
+laminate	O
+woods	O
+and	O
+cure	O
+hides	O
+.	O
+
+# id = conivel-magician-000020
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Properly cured hides could produce a suit of leather armor as tough as Midkemian chain mail , and laminated wooden weapons were nearly the match of Midkemian steel .
+Properly	O
+cured	O
+hides	O
+could	O
+produce	O
+a	O
+suit	O
+of	O
+leather	O
+armor	O
+as	O
+tough	O
+as	O
+Midkemian	O
+chain	O
+mail	O
+,	O
+and	O
+laminated	O
+wooden	O
+weapons	O
+were	O
+nearly	O
+the	O
+match	O
+of	O
+Midkemian	O
+steel	O
+.	O
+
+# id = conivel-magician-000021
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Four years in the swamp camp had hardened Pug 's body .
+Four	O
+years	O
+in	O
+the	O
+swamp	O
+camp	O
+had	O
+hardened	O
+Pug	B-CHARACTER
+'s	O
+body	O
+.	O
+
+# id = conivel-magician-000022
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His sinewy muscles strained as he climbed the tree .
+His	O
+sinewy	O
+muscles	O
+strained	O
+as	O
+he	O
+climbed	O
+the	O
+tree	O
+.	O
+
+# id = conivel-magician-000023
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His skin had been tanned deeply by the harsh sun of the Tsurani homeworld .
+His	O
+skin	O
+had	O
+been	O
+tanned	O
+deeply	O
+by	O
+the	O
+harsh	O
+sun	O
+of	O
+the	O
+Tsurani	O
+homeworld	O
+.	O
+
+# id = conivel-magician-000024
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His face was covered by a slave 's beard .
+His	O
+face	O
+was	O
+covered	O
+by	O
+a	O
+slave	O
+'s	O
+beard	O
+.	O
+
+# id = conivel-magician-000025
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug reached the first large branches and looked down at his friend .
+Pug	B-CHARACTER
+reached	O
+the	O
+first	O
+large	O
+branches	O
+and	O
+looked	O
+down	O
+at	O
+his	O
+friend	O
+.	O
+
+# id = conivel-magician-000026
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laurie stood knee-deep in the murky water , absently swatting at the insects that plagued them while they worked .
+Laurie	B-CHARACTER
+stood	O
+knee-deep	O
+in	O
+the	O
+murky	O
+water	O
+,	O
+absently	O
+swatting	O
+at	O
+the	O
+insects	O
+that	O
+plagued	O
+them	O
+while	O
+they	O
+worked	O
+.	O
+
+# id = conivel-magician-000027
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug liked Laurie .
+Pug	B-CHARACTER
+liked	O
+Laurie	B-CHARACTER
+.	O
+
+# id = conivel-magician-000028
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The troubadour had no business being here , but then he had had no business tagging along with a patrol in the hope of seeing Tsurani soldiers , either .
+The	O
+troubadour	O
+had	O
+no	O
+business	O
+being	O
+here	O
+,	O
+but	O
+then	O
+he	O
+had	O
+had	O
+no	O
+business	O
+tagging	O
+along	O
+with	O
+a	O
+patrol	O
+in	O
+the	O
+hope	O
+of	O
+seeing	O
+Tsurani	O
+soldiers	O
+,	O
+either	O
+.	O
+
+# id = conivel-magician-000029
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He said he had wanted material for ballads that would make him famous throughout the Kingdom .
+He	O
+said	O
+he	O
+had	O
+wanted	O
+material	O
+for	O
+ballads	O
+that	O
+would	O
+make	O
+him	O
+famous	O
+throughout	O
+the	O
+Kingdom	B-LOCATION
+.	O
+
+# id = conivel-magician-000030
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had seen more than he had hoped for .
+He	O
+had	O
+seen	O
+more	O
+than	O
+he	O
+had	O
+hoped	O
+for	O
+.	O
+
+# id = conivel-magician-000031
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The patrol had ridden into a major Tsurani offensive and Laurie had been captured .
+The	O
+patrol	O
+had	O
+ridden	O
+into	O
+a	O
+major	O
+Tsurani	O
+offensive	O
+and	O
+Laurie	B-CHARACTER
+had	O
+been	O
+captured	O
+.	O
+
+# id = conivel-magician-000032
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had come to this camp over four months ago , and he and Pug had quickly become friends .
+He	O
+had	O
+come	O
+to	O
+this	O
+camp	O
+over	O
+four	O
+months	O
+ago	O
+,	O
+and	O
+he	O
+and	O
+Pug	B-CHARACTER
+had	O
+quickly	O
+become	O
+friends	O
+.	O
+
+# id = conivel-magician-000033
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug continued his climb , keeping one eye always searching for the dangerous tree dwellers of Kelewan .
+Pug	B-CHARACTER
+continued	O
+his	O
+climb	O
+,	O
+keeping	O
+one	O
+eye	O
+always	O
+searching	O
+for	O
+the	O
+dangerous	O
+tree	O
+dwellers	O
+of	O
+Kelewan	B-LOCATION
+.	O
+
+# id = conivel-magician-000034
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Reaching the most likely place for a topping .
+Reaching	O
+the	O
+most	O
+likely	O
+place	O
+for	O
+a	O
+topping	O
+.	O
+
+# id = conivel-magician-000035
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug froze as he caught a glimpse of movement .
+Pug	B-CHARACTER
+froze	O
+as	O
+he	O
+caught	O
+a	O
+glimpse	O
+of	O
+movement	O
+.	O
+
+# id = conivel-magician-000036
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He relaxed when he saw it was only a needier , a creature whose protection was its resemblance to a clump of ngaggi needles .
+He	O
+relaxed	O
+when	O
+he	O
+saw	O
+it	O
+was	O
+only	O
+a	O
+needier	O
+,	O
+a	O
+creature	O
+whose	O
+protection	O
+was	O
+its	O
+resemblance	O
+to	O
+a	O
+clump	O
+of	O
+ngaggi	O
+needles	O
+.	O
+
+# id = conivel-magician-000037
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It scurried away from the presence of the human and made the short jump to the branch of a neighboring tree .
+It	O
+scurried	O
+away	O
+from	O
+the	O
+presence	O
+of	O
+the	O
+human	O
+and	O
+made	O
+the	O
+short	O
+jump	O
+to	O
+the	O
+branch	O
+of	O
+a	O
+neighboring	O
+tree	O
+.	O
+
+# id = conivel-magician-000038
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug made another survey and started tying his ropes .
+Pug	B-CHARACTER
+made	O
+another	O
+survey	O
+and	O
+started	O
+tying	O
+his	O
+ropes	O
+.	O
+
+# id = conivel-magician-000039
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His job was to cut away the tops of the huge trees , making the fall less dangerous to those below .
+His	O
+job	O
+was	O
+to	O
+cut	O
+away	O
+the	O
+tops	O
+of	O
+the	O
+huge	O
+trees	O
+,	O
+making	O
+the	O
+fall	O
+less	O
+dangerous	O
+to	O
+those	O
+below	O
+.	O
+
+# id = conivel-magician-000040
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug took several cuts at the bark , then felt the edge of his wooden ax bite into the softer pulp beneath .
+Pug	B-CHARACTER
+took	O
+several	O
+cuts	O
+at	O
+the	O
+bark	O
+,	O
+then	O
+felt	O
+the	O
+edge	O
+of	O
+his	O
+wooden	O
+ax	O
+bite	O
+into	O
+the	O
+softer	O
+pulp	O
+beneath	O
+.	O
+
+# id = conivel-magician-000041
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A faint pungent odor greeted his careful sniffing .
+A	O
+faint	O
+pungent	O
+odor	O
+greeted	O
+his	O
+careful	O
+sniffing	O
+.	O
+
+# id = conivel-magician-000042
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Swearing , he called down to Laurie , `` This one 's rotten .
+Swearing	O
+,	O
+he	O
+called	O
+down	O
+to	O
+Laurie	B-CHARACTER
+,	O
+``	O
+This	O
+one	O
+'s	O
+rotten	O
+.	O
+
+# id = conivel-magician-000043
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tell the overseer . ''
+Tell	O
+the	O
+overseer	O
+.	O
+''	O
+
+# id = conivel-magician-000044
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He waited , looking out over the tops of trees .
+He	O
+waited	O
+,	O
+looking	O
+out	O
+over	O
+the	O
+tops	O
+of	O
+trees	O
+.	O
+
+# id = conivel-magician-000045
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All around , strange insects and birdlike creatures flew .
+All	O
+around	O
+,	O
+strange	O
+insects	O
+and	O
+birdlike	O
+creatures	O
+flew	O
+.	O
+
+# id = conivel-magician-000046
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In the four years he had been a slave on this world , he had not grown used to the appearance of these life forms .
+In	O
+the	O
+four	O
+years	O
+he	O
+had	O
+been	O
+a	O
+slave	O
+on	O
+this	O
+world	O
+,	O
+he	O
+had	O
+not	O
+grown	O
+used	O
+to	O
+the	O
+appearance	O
+of	O
+these	O
+life	O
+forms	O
+.	O
+
+# id = conivel-magician-000047
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were not all that different from those on Midkemia , but it was the similarities as much as the differences that kept reminding him this was not his home .
+They	O
+were	O
+not	O
+all	O
+that	O
+different	O
+from	O
+those	O
+on	O
+Midkemia	B-LOCATION
+,	O
+but	O
+it	O
+was	O
+the	O
+similarities	O
+as	O
+much	O
+as	O
+the	O
+differences	O
+that	O
+kept	O
+reminding	O
+him	O
+this	O
+was	O
+not	O
+his	O
+home	O
+.	O
+
+# id = conivel-magician-000048
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bees should be yellow-and-black-striped , not bright red .
+Bees	O
+should	O
+be	O
+yellow-and-black-striped	O
+,	O
+not	O
+bright	O
+red	O
+.	O
+
+# id = conivel-magician-000049
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Eagles should n't have yellow bands on their wings , nor hawks purple .
+Eagles	O
+should	O
+n't	O
+have	O
+yellow	O
+bands	O
+on	O
+their	O
+wings	O
+,	O
+nor	O
+hawks	O
+purple	O
+.	O
+
+# id = conivel-magician-000050
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = These creatures were not bees , eagles , or hawks , but the resemblance was striking .
+These	O
+creatures	O
+were	O
+not	O
+bees	O
+,	O
+eagles	O
+,	O
+or	O
+hawks	O
+,	O
+but	O
+the	O
+resemblance	O
+was	O
+striking	O
+.	O
+
+# id = conivel-magician-000051
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug found it easier to accept the stranger creatures of Kelewan than these .
+Pug	B-CHARACTER
+found	O
+it	O
+easier	O
+to	O
+accept	O
+the	O
+stranger	O
+creatures	O
+of	O
+Kelewan	B-LOCATION
+than	O
+these	O
+.	O
+
+# id = conivel-magician-000052
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The six-legged needra , the domesticated beast of burden that looked like some sort of bovine with two extra stumpy legs , or the cho-ja , the insectoid creature who served the Tsurani and could speak their language : these he had come to find familiar .
+The	O
+six-legged	O
+needra	O
+,	O
+the	O
+domesticated	O
+beast	O
+of	O
+burden	O
+that	O
+looked	O
+like	O
+some	O
+sort	O
+of	O
+bovine	O
+with	O
+two	O
+extra	O
+stumpy	O
+legs	O
+,	O
+or	O
+the	O
+cho-ja	O
+,	O
+the	O
+insectoid	O
+creature	O
+who	O
+served	O
+the	O
+Tsurani	O
+and	O
+could	O
+speak	O
+their	O
+language	O
+:	O
+these	O
+he	O
+had	O
+come	O
+to	O
+find	O
+familiar	O
+.	O
+
+# id = conivel-magician-000053
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But each time he glimpsed a creature from the corner of his eye and turned , expecting it to be Midkemian only to find it was not , then the despair would strike .
+But	O
+each	O
+time	O
+he	O
+glimpsed	O
+a	O
+creature	O
+from	O
+the	O
+corner	O
+of	O
+his	O
+eye	O
+and	O
+turned	O
+,	O
+expecting	O
+it	O
+to	O
+be	O
+Midkemian	O
+only	O
+to	O
+find	O
+it	O
+was	O
+not	O
+,	O
+then	O
+the	O
+despair	O
+would	O
+strike	O
+.	O
+
+# id = conivel-magician-000054
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laurie 's voice brought him from his reverie .
+Laurie	B-CHARACTER
+'s	O
+voice	O
+brought	O
+him	O
+from	O
+his	O
+reverie	O
+.	O
+
+# id = conivel-magician-000055
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The overseer comes . ''
+``	O
+The	O
+overseer	O
+comes	O
+.	O
+''	O
+
+# id = conivel-magician-000056
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug swore .
+Pug	B-CHARACTER
+swore	O
+.	O
+
+# id = conivel-magician-000057
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If the overseer had to get himself dirty by wading in the water , then he would be in a foul mood -- which could mean beatings , or a reduction in the chronically meager food .
+If	O
+the	O
+overseer	O
+had	O
+to	O
+get	O
+himself	O
+dirty	O
+by	O
+wading	O
+in	O
+the	O
+water	O
+,	O
+then	O
+he	O
+would	O
+be	O
+in	O
+a	O
+foul	O
+mood	O
+--	O
+which	O
+could	O
+mean	O
+beatings	O
+,	O
+or	O
+a	O
+reduction	O
+in	O
+the	O
+chronically	O
+meager	O
+food	O
+.	O
+
+# id = conivel-magician-000058
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He would already be angered by the delay in the cutting .
+He	O
+would	O
+already	O
+be	O
+angered	O
+by	O
+the	O
+delay	O
+in	O
+the	O
+cutting	O
+.	O
+
+# id = conivel-magician-000059
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A family of burrowers , beaverlike six - legged creatures , had made themselves at home in the roots of the great trees .
+A	O
+family	O
+of	O
+burrowers	O
+,	O
+beaverlike	O
+six	O
+-	O
+legged	O
+creatures	O
+,	O
+had	O
+made	O
+themselves	O
+at	O
+home	O
+in	O
+the	O
+roots	O
+of	O
+the	O
+great	O
+trees	O
+.	O
+
+# id = conivel-magician-000060
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They would gnaw the tender roots and the trees would sicken and die .
+They	O
+would	O
+gnaw	O
+the	O
+tender	O
+roots	O
+and	O
+the	O
+trees	O
+would	O
+sicken	O
+and	O
+die	O
+.	O
+
+# id = conivel-magician-000061
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The soft , pulpy wood would turn sour , then watery , and after a while the tree would collapse from within .
+The	O
+soft	O
+,	O
+pulpy	O
+wood	O
+would	O
+turn	O
+sour	O
+,	O
+then	O
+watery	O
+,	O
+and	O
+after	O
+a	O
+while	O
+the	O
+tree	O
+would	O
+collapse	O
+from	O
+within	O
+.	O
+
+# id = conivel-magician-000062
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Several burrower tunnels had been poisoned , but the damage had already been done to the trees .
+Several	O
+burrower	O
+tunnels	O
+had	O
+been	O
+poisoned	O
+,	O
+but	O
+the	O
+damage	O
+had	O
+already	O
+been	O
+done	O
+to	O
+the	O
+trees	O
+.	O
+
+# id = conivel-magician-000063
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A rough voice , swearing mightily while its owner splashed through the swamp , announced the arrival of the overseer , Nogamu .
+A	O
+rough	O
+voice	O
+,	O
+swearing	O
+mightily	O
+while	O
+its	O
+owner	O
+splashed	O
+through	O
+the	O
+swamp	O
+,	O
+announced	O
+the	O
+arrival	O
+of	O
+the	O
+overseer	O
+,	O
+Nogamu	B-CHARACTER
+.	O
+
+# id = conivel-magician-000064
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He himself was a slave , but he had attained the highest rank a slave could rise to , and while he could never hope to be free , he had many privileges and could order soldiers or freemen placed under his command .
+He	O
+himself	O
+was	O
+a	O
+slave	O
+,	O
+but	O
+he	O
+had	O
+attained	O
+the	O
+highest	O
+rank	O
+a	O
+slave	O
+could	O
+rise	O
+to	O
+,	O
+and	O
+while	O
+he	O
+could	O
+never	O
+hope	O
+to	O
+be	O
+free	O
+,	O
+he	O
+had	O
+many	O
+privileges	O
+and	O
+could	O
+order	O
+soldiers	O
+or	O
+freemen	O
+placed	O
+under	O
+his	O
+command	O
+.	O
+
+# id = conivel-magician-000065
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A young soldier came walking behind , a look of mild amusement on his face .
+A	O
+young	O
+soldier	O
+came	O
+walking	O
+behind	O
+,	O
+a	O
+look	O
+of	O
+mild	O
+amusement	O
+on	O
+his	O
+face	O
+.	O
+
+# id = conivel-magician-000066
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was clean-shaven in the manner of a Tsurani freeman , and as he looked up at Pug , the slave could get a good look at him .
+He	O
+was	O
+clean-shaven	O
+in	O
+the	O
+manner	O
+of	O
+a	O
+Tsurani	O
+freeman	O
+,	O
+and	O
+as	O
+he	O
+looked	O
+up	O
+at	O
+Pug	B-CHARACTER
+,	O
+the	O
+slave	O
+could	O
+get	O
+a	O
+good	O
+look	O
+at	O
+him	O
+.	O
+
+# id = conivel-magician-000067
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had the high cheekbones and nearly black eyes that so many Tsurani possessed .
+He	O
+had	O
+the	O
+high	O
+cheekbones	O
+and	O
+nearly	O
+black	O
+eyes	O
+that	O
+so	O
+many	O
+Tsurani	O
+possessed	O
+.	O
+
+# id = conivel-magician-000068
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His dark eyes caught sight of Pug , and he seemed to nod slightly .
+His	O
+dark	O
+eyes	O
+caught	O
+sight	O
+of	O
+Pug	B-CHARACTER
+,	O
+and	O
+he	O
+seemed	O
+to	O
+nod	O
+slightly	O
+.	O
+
+# id = conivel-magician-000069
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His blue armor was of a type unknown to Pug , but with the strange Tsurani military organization , that was not surprising .
+His	O
+blue	O
+armor	O
+was	O
+of	O
+a	O
+type	O
+unknown	O
+to	O
+Pug	B-CHARACTER
+,	O
+but	O
+with	O
+the	O
+strange	O
+Tsurani	O
+military	O
+organization	O
+,	O
+that	O
+was	O
+not	O
+surprising	O
+.	O
+
+# id = conivel-magician-000070
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Every family , demesne , area , town , city , and province appeared to have its own army .
+Every	O
+family	O
+,	O
+demesne	O
+,	O
+area	O
+,	O
+town	O
+,	O
+city	O
+,	O
+and	O
+province	O
+appeared	O
+to	O
+have	O
+its	O
+own	O
+army	O
+.	O
+
+# id = conivel-magician-000071
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How they all related one to another within the Empire was beyond Pug 's understanding .
+How	O
+they	O
+all	O
+related	O
+one	O
+to	O
+another	O
+within	O
+the	O
+Empire	O
+was	O
+beyond	O
+Pug	B-CHARACTER
+'s	O
+understanding	O
+.	O
+
+# id = conivel-magician-000072
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The overseer stood at the base of the free , his short robe held above the water .
+The	O
+overseer	O
+stood	O
+at	O
+the	O
+base	O
+of	O
+the	O
+free	O
+,	O
+his	O
+short	O
+robe	O
+held	O
+above	O
+the	O
+water	O
+.	O
+
+# id = conivel-magician-000073
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He growled like the bear he resembled and shouted up at Pug , `` What 's this about another rotten tree ? ''
+He	O
+growled	O
+like	O
+the	O
+bear	O
+he	O
+resembled	O
+and	O
+shouted	O
+up	O
+at	O
+Pug	B-CHARACTER
+,	O
+``	O
+What	O
+'s	O
+this	O
+about	O
+another	O
+rotten	O
+tree	O
+?	O
+''	O
+
+# id = conivel-magician-000074
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug spoke the Tsurani language better than any Midkemian in the camp , for he had been there longer than all but a few old Tsurani slaves .
+Pug	B-CHARACTER
+spoke	O
+the	O
+Tsurani	O
+language	O
+better	O
+than	O
+any	O
+Midkemian	O
+in	O
+the	O
+camp	O
+,	O
+for	O
+he	O
+had	O
+been	O
+there	O
+longer	O
+than	O
+all	O
+but	O
+a	O
+few	O
+old	O
+Tsurani	O
+slaves	O
+.	O
+
+# id = conivel-magician-000075
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He shouted down , `` It smells of rot .
+He	O
+shouted	O
+down	O
+,	O
+``	O
+It	O
+smells	O
+of	O
+rot	O
+.	O
+
+# id = conivel-magician-000076
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We should re-rig another and leave this one alone .
+We	O
+should	O
+re-rig	O
+another	O
+and	O
+leave	O
+this	O
+one	O
+alone	O
+.	O
+
+# id = conivel-magician-000077
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Slave Master . ''
+Slave	O
+Master	O
+.	O
+''	O
+
+# id = conivel-magician-000078
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The overseer shook his fist .
+The	O
+overseer	O
+shook	O
+his	O
+fist	O
+.	O
+
+# id = conivel-magician-000079
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You are all lazy .
+``	O
+You	O
+are	O
+all	O
+lazy	O
+.	O
+
+# id = conivel-magician-000080
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There is nothing wrong with this tree .
+There	O
+is	O
+nothing	O
+wrong	O
+with	O
+this	O
+tree	O
+.	O
+
+# id = conivel-magician-000081
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It is fine .
+It	O
+is	O
+fine	O
+.	O
+
+# id = conivel-magician-000082
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You only want to keep from working .
+You	O
+only	O
+want	O
+to	O
+keep	O
+from	O
+working	O
+.	O
+
+# id = conivel-magician-000083
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now cut it ! ''
+Now	O
+cut	O
+it	O
+!	O
+''	O
+
+# id = conivel-magician-000084
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug sighed .
+Pug	B-CHARACTER
+sighed	O
+.	O
+
+# id = conivel-magician-000085
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was no arguing with the Bear , as all the Midkemian slaves called Nogamu .
+There	O
+was	O
+no	O
+arguing	O
+with	O
+the	O
+Bear	B-CHARACTER
+,	O
+as	O
+all	O
+the	O
+Midkemian	O
+slaves	O
+called	O
+Nogamu	B-CHARACTER
+.	O
+
+# id = conivel-magician-000086
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was obviously upset about something , and the slaves would pay the price .
+He	O
+was	O
+obviously	O
+upset	O
+about	O
+something	O
+,	O
+and	O
+the	O
+slaves	O
+would	O
+pay	O
+the	O
+price	O
+.	O
+
+# id = conivel-magician-000087
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug started hacking through the upper section , and it soon fell to the ground .
+Pug	B-CHARACTER
+started	O
+hacking	O
+through	O
+the	O
+upper	O
+section	O
+,	O
+and	O
+it	O
+soon	O
+fell	O
+to	O
+the	O
+ground	O
+.	O
+
+# id = conivel-magician-000088
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The smell of rot was thick , and Pug removed the ropes quickly .
+The	O
+smell	O
+of	O
+rot	O
+was	O
+thick	O
+,	O
+and	O
+Pug	B-CHARACTER
+removed	O
+the	O
+ropes	O
+quickly	O
+.	O
+
+# id = conivel-magician-000089
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Just as the last length was coiled around his waist , a splitting sound came from directly in front of him .
+Just	O
+as	O
+the	O
+last	O
+length	O
+was	O
+coiled	O
+around	O
+his	O
+waist	O
+,	O
+a	O
+splitting	O
+sound	O
+came	O
+from	O
+directly	O
+in	O
+front	O
+of	O
+him	O
+.	O
+
+# id = conivel-magician-000090
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It falls ! ''
+``	O
+It	O
+falls	O
+!	O
+''	O
+
+# id = conivel-magician-000091
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he shouted down to the slaves standing in the water below .
+he	O
+shouted	O
+down	O
+to	O
+the	O
+slaves	O
+standing	O
+in	O
+the	O
+water	O
+below	O
+.	O
+
+# id = conivel-magician-000092
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Without hesitation they all ran .
+Without	O
+hesitation	O
+they	O
+all	O
+ran	O
+.	O
+
+# id = conivel-magician-000093
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The cry of ` falls ' was never ignored .
+The	O
+cry	O
+of	O
+`	O
+falls	O
+'	O
+was	O
+never	O
+ignored	O
+.	O
+
+# id = conivel-magician-000094
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The bole of the tree was splitting down the middle now that the top had been cut away .
+The	O
+bole	O
+of	O
+the	O
+tree	O
+was	O
+splitting	O
+down	O
+the	O
+middle	O
+now	O
+that	O
+the	O
+top	O
+had	O
+been	O
+cut	O
+away	O
+.	O
+
+# id = conivel-magician-000095
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = While this was not common , if a tree was far enough gone for the pulp to have lost its strength , any flaw in the bark could cause it to split under its own weight .
+While	O
+this	O
+was	O
+not	O
+common	O
+,	O
+if	O
+a	O
+tree	O
+was	O
+far	O
+enough	O
+gone	O
+for	O
+the	O
+pulp	O
+to	O
+have	O
+lost	O
+its	O
+strength	O
+,	O
+any	O
+flaw	O
+in	O
+the	O
+bark	O
+could	O
+cause	O
+it	O
+to	O
+split	O
+under	O
+its	O
+own	O
+weight	O
+.	O
+
+# id = conivel-magician-000096
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The tree 's branches would pull the halves away from each other .
+The	O
+tree	O
+'s	O
+branches	O
+would	O
+pull	O
+the	O
+halves	O
+away	O
+from	O
+each	O
+other	O
+.	O
+
+# id = conivel-magician-000097
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Had Pug been tied to the bole , the ropes would have cut him in half before they snapped .
+Had	O
+Pug	B-CHARACTER
+been	O
+tied	O
+to	O
+the	O
+bole	O
+,	O
+the	O
+ropes	O
+would	O
+have	O
+cut	O
+him	O
+in	O
+half	O
+before	O
+they	O
+snapped	O
+.	O
+
+# id = conivel-magician-000098
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug gauged the direction of the fall , then as the half he stood upon started to move , he launched himself away from it .
+Pug	B-CHARACTER
+gauged	O
+the	O
+direction	O
+of	O
+the	O
+fall	O
+,	O
+then	O
+as	O
+the	O
+half	O
+he	O
+stood	O
+upon	O
+started	O
+to	O
+move	O
+,	O
+he	O
+launched	O
+himself	O
+away	O
+from	O
+it	O
+.	O
+
+# id = conivel-magician-000099
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He hit the water flat , back first , trying to let the two feet of water break his fall as much as possible .
+He	O
+hit	O
+the	O
+water	O
+flat	O
+,	O
+back	O
+first	O
+,	O
+trying	O
+to	O
+let	O
+the	O
+two	O
+feet	O
+of	O
+water	O
+break	O
+his	O
+fall	O
+as	O
+much	O
+as	O
+possible	O
+.	O
+
+# id = conivel-magician-000100
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The blow from the water was immediately followed by the harder impact with the ground .
+The	O
+blow	O
+from	O
+the	O
+water	O
+was	O
+immediately	O
+followed	O
+by	O
+the	O
+harder	O
+impact	O
+with	O
+the	O
+ground	O
+.	O
+
+# id = conivel-magician-000101
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The bottom was mostly mud , so there was little damage done .
+The	O
+bottom	O
+was	O
+mostly	O
+mud	O
+,	O
+so	O
+there	O
+was	O
+little	O
+damage	O
+done	O
+.	O
+
+# id = conivel-magician-000102
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The air in his lungs exploded from his mouth when he struck , and his senses reeled for a moment .
+The	O
+air	O
+in	O
+his	O
+lungs	O
+exploded	O
+from	O
+his	O
+mouth	O
+when	O
+he	O
+struck	O
+,	O
+and	O
+his	O
+senses	O
+reeled	O
+for	O
+a	O
+moment	O
+.	O
+
+# id = conivel-magician-000103
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He retained enough presence of mind to sit up and gasped a deep lungful of air .
+He	O
+retained	O
+enough	O
+presence	O
+of	O
+mind	O
+to	O
+sit	O
+up	O
+and	O
+gasped	O
+a	O
+deep	O
+lungful	O
+of	O
+air	O
+.	O
+
+# id = conivel-magician-000104
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Suddenly a heavy weight hit him across the stomach , knocking the wind from him and pushing his head back underwater .
+Suddenly	O
+a	O
+heavy	O
+weight	O
+hit	O
+him	O
+across	O
+the	O
+stomach	O
+,	O
+knocking	O
+the	O
+wind	O
+from	O
+him	O
+and	O
+pushing	O
+his	O
+head	O
+back	O
+underwater	O
+.	O
+
+# id = conivel-magician-000105
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He struggled to move and found a large branch across his stomach .
+He	O
+struggled	O
+to	O
+move	O
+and	O
+found	O
+a	O
+large	O
+branch	O
+across	O
+his	O
+stomach	O
+.	O
+
+# id = conivel-magician-000106
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He could barely get his face out of the water to get air .
+He	O
+could	O
+barely	O
+get	O
+his	O
+face	O
+out	O
+of	O
+the	O
+water	O
+to	O
+get	O
+air	O
+.	O
+
+# id = conivel-magician-000107
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His lungs burned and he breathed without control .
+His	O
+lungs	O
+burned	O
+and	O
+he	O
+breathed	O
+without	O
+control	O
+.	O
+
+# id = conivel-magician-000108
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Water came pouring down his windpipe , and he started to choke .
+Water	O
+came	O
+pouring	O
+down	O
+his	O
+windpipe	O
+,	O
+and	O
+he	O
+started	O
+to	O
+choke	O
+.	O
+
+# id = conivel-magician-000109
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Coughing and sputtering , he tried to keep calm but felt panic rise within him .
+Coughing	O
+and	O
+sputtering	O
+,	O
+he	O
+tried	O
+to	O
+keep	O
+calm	O
+but	O
+felt	O
+panic	O
+rise	O
+within	O
+him	O
+.	O
+
+# id = conivel-magician-000110
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He frantically pushed at the weight across him but could n't move it .
+He	O
+frantically	O
+pushed	O
+at	O
+the	O
+weight	O
+across	O
+him	O
+but	O
+could	O
+n't	O
+move	O
+it	O
+.	O
+
+# id = conivel-magician-000111
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Abruptly he found his head above water ; Laurie said , `` Spit , Pug !
+Abruptly	O
+he	O
+found	O
+his	O
+head	O
+above	O
+water	O
+;	O
+Laurie	B-CHARACTER
+said	O
+,	O
+``	O
+Spit	O
+,	O
+Pug	B-CHARACTER
+!	O
+
+# id = conivel-magician-000112
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Get the muck out of your lungs , or you 'll get lung fever . ''
+Get	O
+the	O
+muck	O
+out	O
+of	O
+your	O
+lungs	O
+,	O
+or	O
+you	O
+'ll	O
+get	O
+lung	O
+fever	O
+.	O
+''	O
+
+# id = conivel-magician-000113
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug coughed and spit .
+Pug	B-CHARACTER
+coughed	O
+and	O
+spit	O
+.	O
+
+# id = conivel-magician-000114
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = With Laurie holding his head , he coutd catch his breath .
+With	O
+Laurie	B-CHARACTER
+holding	O
+his	O
+head	O
+,	O
+he	O
+coutd	O
+catch	O
+his	O
+breath	O
+.	O
+
+# id = conivel-magician-000115
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laurie shouted , `` Grab this branch .
+Laurie	B-CHARACTER
+shouted	O
+,	O
+``	O
+Grab	O
+this	O
+branch	O
+.	O
+
+# id = conivel-magician-000116
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'll pull him out from under . ''
+I	O
+'ll	O
+pull	O
+him	O
+out	O
+from	O
+under	O
+.	O
+''	O
+
+# id = conivel-magician-000117
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Several slaves splashed over , sweat beading their bodies .
+Several	O
+slaves	O
+splashed	O
+over	O
+,	O
+sweat	O
+beading	O
+their	O
+bodies	O
+.	O
+
+# id = conivel-magician-000118
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They reached underwater and seized the branch .
+They	O
+reached	O
+underwater	O
+and	O
+seized	O
+the	O
+branch	O
+.	O
+
+# id = conivel-magician-000119
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Heaving , they managed to move it slightly , but Laurie could n't drag Pug out .
+Heaving	O
+,	O
+they	O
+managed	O
+to	O
+move	O
+it	O
+slightly	O
+,	O
+but	O
+Laurie	B-CHARACTER
+could	O
+n't	O
+drag	O
+Pug	B-CHARACTER
+out	O
+.	O
+
+# id = conivel-magician-000120
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Bring axes ; we 'll have to cut the branch from the tree . ''
+``	O
+Bring	O
+axes	O
+;	O
+we	O
+'ll	O
+have	O
+to	O
+cut	O
+the	O
+branch	O
+from	O
+the	O
+tree	O
+.	O
+''	O
+
+# id = conivel-magician-000121
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Other slaves were starting to bring axes over when Nogamu shouted , `` No .
+Other	O
+slaves	O
+were	O
+starting	O
+to	O
+bring	O
+axes	O
+over	O
+when	O
+Nogamu	B-CHARACTER
+shouted	O
+,	O
+``	O
+No	O
+.	O
+
+# id = conivel-magician-000122
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Leave him .
+Leave	O
+him	O
+.	O
+
+# id = conivel-magician-000123
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We have no time for this .
+We	O
+have	O
+no	O
+time	O
+for	O
+this	O
+.	O
+
+# id = conivel-magician-000124
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There are trees to cut . ''
+There	O
+are	O
+trees	O
+to	O
+cut	O
+.	O
+''	O
+
+# id = conivel-magician-000125
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laurie nearly screamed at him , `` We ca n't leave him !
+Laurie	B-CHARACTER
+nearly	O
+screamed	O
+at	O
+him	O
+,	O
+``	O
+We	O
+ca	O
+n't	O
+leave	O
+him	O
+!	O
+
+# id = conivel-magician-000126
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He 'll drown ! ''
+He	O
+'ll	O
+drown	O
+!	O
+''	O
+
+# id = conivel-magician-000127
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The overseer crossed over and struck Laurie across the face with a lash .
+The	O
+overseer	O
+crossed	O
+over	O
+and	O
+struck	O
+Laurie	B-CHARACTER
+across	O
+the	O
+face	O
+with	O
+a	O
+lash	O
+.	O
+
+# id = conivel-magician-000128
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It cut deep into the singer 's cheek , but he did n't let go of his friend 's head .
+It	O
+cut	O
+deep	O
+into	O
+the	O
+singer	O
+'s	O
+cheek	O
+,	O
+but	O
+he	O
+did	O
+n't	O
+let	O
+go	O
+of	O
+his	O
+friend	O
+'s	O
+head	O
+.	O
+
+# id = conivel-magician-000129
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Back to work , slave .
+``	O
+Back	O
+to	O
+work	O
+,	O
+slave	O
+.	O
+
+# id = conivel-magician-000130
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You 'll be beaten tonight for speaking to me that way .
+You	O
+'ll	O
+be	O
+beaten	O
+tonight	O
+for	O
+speaking	O
+to	O
+me	O
+that	O
+way	O
+.	O
+
+# id = conivel-magician-000131
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There are others who can top .
+There	O
+are	O
+others	O
+who	O
+can	O
+top	O
+.	O
+
+# id = conivel-magician-000132
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now , let him go ! ''
+Now	O
+,	O
+let	O
+him	O
+go	O
+!	O
+''	O
+
+# id = conivel-magician-000133
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He struck Laurie again .
+He	O
+struck	O
+Laurie	B-CHARACTER
+again	O
+.	O
+
+# id = conivel-magician-000134
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laurie winced , but held Pug 's head above water .
+Laurie	B-CHARACTER
+winced	O
+,	O
+but	O
+held	O
+Pug	B-CHARACTER
+'s	O
+head	O
+above	O
+water	O
+.	O
+
+# id = conivel-magician-000135
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nogamu raised his lash for a third blow , but was halted by a voice from behind .
+Nogamu	B-CHARACTER
+raised	O
+his	O
+lash	O
+for	O
+a	O
+third	O
+blow	O
+,	O
+but	O
+was	O
+halted	O
+by	O
+a	O
+voice	O
+from	O
+behind	O
+.	O
+
+# id = conivel-magician-000136
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Cut the slave from under the branch . ''
+``	O
+Cut	O
+the	O
+slave	O
+from	O
+under	O
+the	O
+branch	O
+.	O
+''	O
+
+# id = conivel-magician-000137
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laurie saw the speaker was the young soldier who had accompanied the slave master .
+Laurie	B-CHARACTER
+saw	O
+the	O
+speaker	O
+was	O
+the	O
+young	O
+soldier	O
+who	O
+had	O
+accompanied	O
+the	O
+slave	O
+master	O
+.	O
+
+# id = conivel-magician-000138
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The overseer whirled about , unaccustomed to having his orders ques - tioned .
+The	O
+overseer	O
+whirled	O
+about	O
+,	O
+unaccustomed	O
+to	O
+having	O
+his	O
+orders	O
+ques	O
+-	O
+tioned	O
+.	O
+
+# id = conivel-magician-000139
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When he saw who had spoken , he bit back the words that were on his lips .
+When	O
+he	O
+saw	O
+who	O
+had	O
+spoken	O
+,	O
+he	O
+bit	O
+back	O
+the	O
+words	O
+that	O
+were	O
+on	O
+his	O
+lips	O
+.	O
+
+# id = conivel-magician-000140
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bowing his head , he said , `` My lord 's will . ''
+Bowing	O
+his	O
+head	O
+,	O
+he	O
+said	O
+,	O
+``	O
+My	O
+lord	O
+'s	O
+will	O
+.	O
+''	O
+
+# id = conivel-magician-000141
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He signaled for the slaves with the axes to cut Pug loose , and in short order Pug was out from under the branch .
+He	O
+signaled	O
+for	O
+the	O
+slaves	O
+with	O
+the	O
+axes	O
+to	O
+cut	O
+Pug	B-CHARACTER
+loose	O
+,	O
+and	O
+in	O
+short	O
+order	O
+Pug	B-CHARACTER
+was	O
+out	O
+from	O
+under	O
+the	O
+branch	O
+.	O
+
+# id = conivel-magician-000142
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laurie carried him over to where the young soldier stood .
+Laurie	B-CHARACTER
+carried	O
+him	O
+over	O
+to	O
+where	O
+the	O
+young	O
+soldier	O
+stood	O
+.	O
+
+# id = conivel-magician-000143
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug coughed the last water from out of his lungs and gasped , `` I thank the master for my life . ''
+Pug	B-CHARACTER
+coughed	O
+the	O
+last	O
+water	O
+from	O
+out	O
+of	O
+his	O
+lungs	O
+and	O
+gasped	O
+,	O
+``	O
+I	O
+thank	O
+the	O
+master	O
+for	O
+my	O
+life	O
+.	O
+''	O
+
+# id = conivel-magician-000144
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The man said nothing , but when the overseer ap - proached , directed his remarks to him .
+The	O
+man	O
+said	O
+nothing	O
+,	O
+but	O
+when	O
+the	O
+overseer	O
+ap	O
+-	O
+proached	O
+,	O
+directed	O
+his	O
+remarks	O
+to	O
+him	O
+.	O
+
+# id = conivel-magician-000145
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The slave was right , and you were not .
+``	O
+The	O
+slave	O
+was	O
+right	O
+,	O
+and	O
+you	O
+were	O
+not	O
+.	O
+
+# id = conivel-magician-000146
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The tree was rotten .
+The	O
+tree	O
+was	O
+rotten	O
+.	O
+
+# id = conivel-magician-000147
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It is not proper for you to punish him for your bad judgment and ill-temper .
+It	O
+is	O
+not	O
+proper	O
+for	O
+you	O
+to	O
+punish	O
+him	O
+for	O
+your	O
+bad	O
+judgment	O
+and	O
+ill-temper	O
+.	O
+
+# id = conivel-magician-000148
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I should have you beaten , but will not spare the time for it .
+I	O
+should	O
+have	O
+you	O
+beaten	O
+,	O
+but	O
+will	O
+not	O
+spare	O
+the	O
+time	O
+for	O
+it	O
+.	O
+
+# id = conivel-magician-000149
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The work goes slowly , and my father is displeased . ''
+The	O
+work	O
+goes	O
+slowly	O
+,	O
+and	O
+my	O
+father	O
+is	O
+displeased	O
+.	O
+''	O
+
+# id = conivel-magician-000150
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nogamu bowed his head .
+Nogamu	B-CHARACTER
+bowed	O
+his	O
+head	O
+.	O
+
+# id = conivel-magician-000151
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I lose much face in my lord 's sight .
+``	O
+I	O
+lose	O
+much	O
+face	O
+in	O
+my	O
+lord	O
+'s	O
+sight	O
+.	O
+
+# id = conivel-magician-000152
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = May I have his permission to kill myself ? ''
+May	O
+I	O
+have	O
+his	O
+permission	O
+to	O
+kill	O
+myself	O
+?	O
+''	O
+
+# id = conivel-magician-000153
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No .
+``	O
+No	O
+.	O
+
+# id = conivel-magician-000154
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It is too much honor .
+It	O
+is	O
+too	O
+much	O
+honor	O
+.	O
+
+# id = conivel-magician-000155
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Return to work . ''
+Return	O
+to	O
+work	O
+.	O
+''	O
+
+# id = conivel-magician-000156
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The overseer 's face grew red in silent shame and rage .
+The	O
+overseer	O
+'s	O
+face	O
+grew	O
+red	O
+in	O
+silent	O
+shame	O
+and	O
+rage	O
+.	O
+
+# id = conivel-magician-000157
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Raising his lash , he pointed at Laurie and Pug .
+Raising	O
+his	O
+lash	O
+,	O
+he	O
+pointed	O
+at	O
+Laurie	B-CHARACTER
+and	O
+Pug	B-CHARACTER
+.	O
+
+# id = conivel-magician-000158
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You two , bac to work . ''
+``	O
+You	O
+two	O
+,	O
+bac	O
+to	O
+work	O
+.	O
+''	O
+
+# id = conivel-magician-000159
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laurie stood , and Pug tried .
+Laurie	B-CHARACTER
+stood	O
+,	O
+and	O
+Pug	B-CHARACTER
+tried	O
+.	O
+
+# id = conivel-magician-000160
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His knees were wobbly from his near-drowning , but he managed to stand after a few attempts .
+His	O
+knees	O
+were	O
+wobbly	O
+from	O
+his	O
+near-drowning	O
+,	O
+but	O
+he	O
+managed	O
+to	O
+stand	O
+after	O
+a	O
+few	O
+attempts	O
+.	O
+
+# id = conivel-magician-000161
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` These two shall be excused work the rest of the day , ''
+``	O
+These	O
+two	O
+shall	O
+be	O
+excused	O
+work	O
+the	O
+rest	O
+of	O
+the	O
+day	O
+,	O
+''	O
+
+# id = conivel-magician-000162
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the young lord said .
+the	O
+young	O
+lord	O
+said	O
+.	O
+
+# id = conivel-magician-000163
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` This one ''
+``	O
+This	O
+one	O
+''	O
+
+# id = conivel-magician-000164
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- he pointed to Pug -- `` is of little use .
+--	O
+he	O
+pointed	O
+to	O
+Pug	B-CHARACTER
+--	O
+``	O
+is	O
+of	O
+little	O
+use	O
+.	O
+
+# id = conivel-magician-000165
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The other must dress those cuts you gave him , or festering will start . ''
+The	O
+other	O
+must	O
+dress	O
+those	O
+cuts	O
+you	O
+gave	O
+him	O
+,	O
+or	O
+festering	O
+will	O
+start	O
+.	O
+''	O
+
+# id = conivel-magician-000166
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He turned to a guard .
+He	O
+turned	O
+to	O
+a	O
+guard	O
+.	O
+
+# id = conivel-magician-000167
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Take them back to camp and see to their needs . ''
+``	O
+Take	O
+them	O
+back	O
+to	O
+camp	O
+and	O
+see	O
+to	O
+their	O
+needs	O
+.	O
+''	O
+
+# id = conivel-magician-000168
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug was grateful , not so much for himself as for Laurie .
+Pug	B-CHARACTER
+was	O
+grateful	O
+,	O
+not	O
+so	O
+much	O
+for	O
+himself	O
+as	O
+for	O
+Laurie	B-CHARACTER
+.	O
+
+# id = conivel-magician-000169
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = With a little rest .
+With	O
+a	O
+little	O
+rest	O
+.	O
+
+# id = conivel-magician-000170
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug could have returned to work , but an open wound in the swamp was a death warrant as ; 1 often as not .
+Pug	B-CHARACTER
+could	O
+have	O
+returned	O
+to	O
+work	O
+,	O
+but	O
+an	O
+open	O
+wound	O
+in	O
+the	O
+swamp	O
+was	O
+a	O
+death	O
+warrant	O
+as	O
+;	O
+1	O
+often	O
+as	O
+not	O
+.	O
+
+# id = conivel-magician-000171
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Infections came quickly in this hot , dirty || place , and there were few ways of dealing with them .
+Infections	O
+came	O
+quickly	O
+in	O
+this	O
+hot	O
+,	O
+dirty	O
+||	O
+place	O
+,	O
+and	O
+there	O
+were	O
+few	O
+ways	O
+of	O
+dealing	O
+with	O
+them	O
+.	O
+
+# id = conivel-magician-000172
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = â€¢ They followed the guard .
+â€¢	O
+They	O
+followed	O
+the	O
+guard	O
+.	O
+
+# id = conivel-magician-000173
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As they left .
+As	O
+they	O
+left	O
+.	O
+
+# id = conivel-magician-000174
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug could see the slave master watching them with naked hatred in his eyes .
+Pug	B-CHARACTER
+could	O
+see	O
+the	O
+slave	O
+master	O
+watching	O
+them	O
+with	O
+naked	O
+hatred	O
+in	O
+his	O
+eyes	O
+.	O
+
+# id = conivel-magician-000175
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was a creaking of floorboards and Pug came instantly awake .
+There	O
+was	O
+a	O
+creaking	O
+of	O
+floorboards	O
+and	O
+Pug	B-CHARACTER
+came	O
+instantly	O
+awake	O
+.	O
+
+# id = conivel-magician-000176
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His slave-bred wariness told him that the sound did n't belong in the hut during the dead of night .
+His	O
+slave-bred	O
+wariness	O
+told	O
+him	O
+that	O
+the	O
+sound	O
+did	O
+n't	O
+belong	O
+in	O
+the	O
+hut	O
+during	O
+the	O
+dead	O
+of	O
+night	O
+.	O
+
+# id = conivel-magician-000177
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Through the gloom , footfalls could be heard coming closer , then they stopped at the foot of his pallet .
+Through	O
+the	O
+gloom	O
+,	O
+footfalls	O
+could	O
+be	O
+heard	O
+coming	O
+closer	O
+,	O
+then	O
+they	O
+stopped	O
+at	O
+the	O
+foot	O
+of	O
+his	O
+pallet	O
+.	O
+
+# id = conivel-magician-000178
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = From the next pallet , he could hear Laurie 's sharp intake of breath , and he knew the minstrel was awake also .
+From	O
+the	O
+next	O
+pallet	O
+,	O
+he	O
+could	O
+hear	O
+Laurie	B-CHARACTER
+'s	O
+sharp	O
+intake	O
+of	O
+breath	O
+,	O
+and	O
+he	O
+knew	O
+the	O
+minstrel	O
+was	O
+awake	O
+also	O
+.	O
+
+# id = conivel-magician-000179
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Probably half the slaves had been awakened by the intruder .
+Probably	O
+half	O
+the	O
+slaves	O
+had	O
+been	O
+awakened	O
+by	O
+the	O
+intruder	O
+.	O
+
+# id = conivel-magician-000180
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The stranger hesitated over something , and Pug waited , tense with uncertainty .
+The	O
+stranger	O
+hesitated	O
+over	O
+something	O
+,	O
+and	O
+Pug	B-CHARACTER
+waited	O
+,	O
+tense	O
+with	O
+uncertainty	O
+.	O
+
+# id = conivel-magician-000181
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was a grunt , and without hesita-B tion .
+There	O
+was	O
+a	O
+grunt	O
+,	O
+and	O
+without	O
+hesita-B	O
+tion	O
+.	O
+
+# id = conivel-magician-000182
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug rolled off his mat .
+Pug	B-CHARACTER
+rolled	O
+off	O
+his	O
+mat	O
+.	O
+
+# id = conivel-magician-000183
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A weight came crashing down , || and Pug could hear a dull thud as a dagger struck where his chest had been only moments before .
+A	O
+weight	O
+came	O
+crashing	O
+down	O
+,	O
+||	O
+and	O
+Pug	B-CHARACTER
+could	O
+hear	O
+a	O
+dull	O
+thud	O
+as	O
+a	O
+dagger	O
+struck	O
+where	O
+his	O
+chest	O
+had	O
+been	O
+only	O
+moments	O
+before	O
+.	O
+
+# id = conivel-magician-000184
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Suddenly the room exploded with activity .
+Suddenly	O
+the	O
+room	O
+exploded	O
+with	O
+activity	O
+.	O
+
+# id = conivel-magician-000185
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Slaves were shouting , and could be heard running for the door .
+Slaves	O
+were	O
+shouting	O
+,	O
+and	O
+could	O
+be	O
+heard	O
+running	O
+for	O
+the	O
+door	O
+.	O
+
+# id = conivel-magician-000186
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug felt hands reach for him in the dark , and a sharp pain exploded across his chest .
+Pug	B-CHARACTER
+felt	O
+hands	O
+reach	O
+for	O
+him	O
+in	O
+the	O
+dark	O
+,	O
+and	O
+a	O
+sharp	O
+pain	O
+exploded	O
+across	O
+his	O
+chest	O
+.	O
+
+# id = conivel-magician-000187
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He reached blindly for his assailant and grappled with him for the blade .
+He	O
+reached	O
+blindly	O
+for	O
+his	O
+assailant	O
+and	O
+grappled	O
+with	O
+him	O
+for	O
+the	O
+blade	O
+.	O
+
+# id = conivel-magician-000188
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Another slash , and his right hand was cut across the palm .
+Another	O
+slash	O
+,	O
+and	O
+his	O
+right	O
+hand	O
+was	O
+cut	O
+across	O
+the	O
+palm	O
+.	O
+
+# id = conivel-magician-000189
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Abruptly the attacker stopped moving , and Pug became aware that a third body was atop the would-be assassin .
+Abruptly	O
+the	O
+attacker	O
+stopped	O
+moving	O
+,	O
+and	O
+Pug	B-CHARACTER
+became	O
+aware	O
+that	O
+a	O
+third	O
+body	O
+was	O
+atop	O
+the	O
+would-be	O
+assassin	O
+.	O
+
+# id = conivel-magician-000190
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Soldiers rushed into the hut , carrying lanterns , and Pug could see Laurie lying across the still body of Nogamu .
+Soldiers	O
+rushed	O
+into	O
+the	O
+hut	O
+,	O
+carrying	O
+lanterns	O
+,	O
+and	O
+Pug	B-CHARACTER
+could	O
+see	O
+Laurie	B-CHARACTER
+lying	O
+across	O
+the	O
+still	O
+body	O
+of	O
+Nogamu	B-CHARACTER
+.	O
+
+# id = conivel-magician-000191
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Bear was still breathing , but from the way the dagger protruded from his ribs , not for long .
+The	O
+Bear	B-CHARACTER
+was	O
+still	O
+breathing	O
+,	O
+but	O
+from	O
+the	O
+way	O
+the	O
+dagger	O
+protruded	O
+from	O
+his	O
+ribs	O
+,	O
+not	O
+for	O
+long	O
+.	O
+
+# id = conivel-magician-000192
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The young soldier who had saved Pug 's and Laurie 's lives entered and the others made way for him .
+The	O
+young	O
+soldier	O
+who	O
+had	O
+saved	O
+Pug	B-CHARACTER
+'s	O
+and	O
+Laurie	B-CHARACTER
+'s	O
+lives	O
+entered	O
+and	O
+the	O
+others	O
+made	O
+way	O
+for	O
+him	O
+.	O
+
+# id = conivel-magician-000193
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He stood over the three combatants and simply asked , `` Is he dead ? ''
+He	O
+stood	O
+over	O
+the	O
+three	O
+combatants	O
+and	O
+simply	O
+asked	O
+,	O
+``	O
+Is	O
+he	O
+dead	O
+?	O
+''	O
+
+# id = conivel-magician-000194
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The overseer 's eyes opened and in a faint whisper he said , `` I live , lord .
+The	O
+overseer	O
+'s	O
+eyes	O
+opened	O
+and	O
+in	O
+a	O
+faint	O
+whisper	O
+he	O
+said	O
+,	O
+``	O
+I	O
+live	O
+,	O
+lord	O
+.	O
+
+# id = conivel-magician-000195
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But I die by the blade . ''
+But	O
+I	O
+die	O
+by	O
+the	O
+blade	O
+.	O
+''	O
+
+# id = conivel-magician-000196
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A weak but defiant smile showed on his sweat-drenched face .
+A	O
+weak	O
+but	O
+defiant	O
+smile	O
+showed	O
+on	O
+his	O
+sweat-drenched	O
+face	O
+.	O
+
+# id = conivel-magician-000197
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The young soldier 's expression betrayed no emotion , but his eyes looked as if ablaze .
+The	O
+young	O
+soldier	O
+'s	O
+expression	O
+betrayed	O
+no	O
+emotion	O
+,	O
+but	O
+his	O
+eyes	O
+looked	O
+as	O
+if	O
+ablaze	O
+.	O
+
+# id = conivel-magician-000198
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I think not , ''
+``	O
+I	O
+think	O
+not	O
+,	O
+''	O
+
+# id = conivel-magician-000199
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said softly .
+he	O
+said	O
+softly	O
+.	O
+
+# id = conivel-magician-000200
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He turned to two of the soldiers in the room .
+He	O
+turned	O
+to	O
+two	O
+of	O
+the	O
+soldiers	O
+in	O
+the	O
+room	O
+.	O
+
+# id = conivel-magician-000201
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Take him outside at once and hang him .
+``	O
+Take	O
+him	O
+outside	O
+at	O
+once	O
+and	O
+hang	O
+him	O
+.	O
+
+# id = conivel-magician-000202
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There will be no honors for his clan to sing .
+There	O
+will	O
+be	O
+no	O
+honors	O
+for	O
+his	O
+clan	O
+to	O
+sing	O
+.	O
+
+# id = conivel-magician-000203
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Leave the body there for the insects .
+Leave	O
+the	O
+body	O
+there	O
+for	O
+the	O
+insects	O
+.	O
+
+# id = conivel-magician-000204
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It shall be a warning that I am not to be disobeyed .
+It	O
+shall	O
+be	O
+a	O
+warning	O
+that	O
+I	O
+am	O
+not	O
+to	O
+be	O
+disobeyed	O
+.	O
+
+# id = conivel-magician-000205
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Go . ''
+Go	O
+.	O
+''	O
+
+# id = conivel-magician-000206
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The dying man 's face paled , and his lips quivered .
+The	O
+dying	O
+man	O
+'s	O
+face	O
+paled	O
+,	O
+and	O
+his	O
+lips	O
+quivered	O
+.	O
+
+# id = conivel-magician-000207
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , master .
+``	O
+No	O
+,	O
+master	O
+.	O
+
+# id = conivel-magician-000208
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I pray , leave me to die by the blade .
+I	O
+pray	O
+,	O
+leave	O
+me	O
+to	O
+die	O
+by	O
+the	O
+blade	O
+.	O
+
+# id = conivel-magician-000209
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A few minutes longer . ''
+A	O
+few	O
+minutes	O
+longer	O
+.	O
+''	O
+
+# id = conivel-magician-000210
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bloody foam appeared at the corner of his mouth .
+Bloody	O
+foam	O
+appeared	O
+at	O
+the	O
+corner	O
+of	O
+his	O
+mouth	O
+.	O
+
+# id = conivel-magician-000211
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Two husky soldiers reached down for Nogamu and , with little thought for his pain , dragged him outside .
+Two	O
+husky	O
+soldiers	O
+reached	O
+down	O
+for	O
+Nogamu	B-CHARACTER
+and	O
+,	O
+with	O
+little	O
+thought	O
+for	O
+his	O
+pain	O
+,	O
+dragged	O
+him	O
+outside	O
+.	O
+
+# id = conivel-magician-000212
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He could be heard wailing the entire way .
+He	O
+could	O
+be	O
+heard	O
+wailing	O
+the	O
+entire	O
+way	O
+.	O
+
+# id = conivel-magician-000213
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The amount of strength left in his voice was amazing , as if his fear of the rope had awakened some deep reserve .
+The	O
+amount	O
+of	O
+strength	O
+left	O
+in	O
+his	O
+voice	O
+was	O
+amazing	O
+,	O
+as	O
+if	O
+his	O
+fear	O
+of	O
+the	O
+rope	O
+had	O
+awakened	O
+some	O
+deep	O
+reserve	O
+.	O
+
+# id = conivel-magician-000214
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They stood in frozen tableau until the sound was cut off in a strangled cry .
+They	O
+stood	O
+in	O
+frozen	O
+tableau	O
+until	O
+the	O
+sound	O
+was	O
+cut	O
+off	O
+in	O
+a	O
+strangled	O
+cry	O
+.	O
+
+# id = conivel-magician-000215
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The young officer then turned to Pug and Laurie .
+The	O
+young	O
+officer	O
+then	O
+turned	O
+to	O
+Pug	B-CHARACTER
+and	O
+Laurie	B-CHARACTER
+.	O
+
+# id = conivel-magician-000216
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug sat , blood running from the long , shallow gash across his chest .
+Pug	B-CHARACTER
+sat	O
+,	O
+blood	O
+running	O
+from	O
+the	O
+long	O
+,	O
+shallow	O
+gash	O
+across	O
+his	O
+chest	O
+.	O
+
+# id = conivel-magician-000217
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He held his injured hand in the other .
+He	O
+held	O
+his	O
+injured	O
+hand	O
+in	O
+the	O
+other	O
+.	O
+
+# id = conivel-magician-000218
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was deeply cut , and his fingers would n't move .
+It	O
+was	O
+deeply	O
+cut	O
+,	O
+and	O
+his	O
+fingers	O
+would	O
+n't	O
+move	O
+.	O
+
+# id = conivel-magician-000219
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Bring your wounded friend , ''
+``	O
+Bring	O
+your	O
+wounded	O
+friend	O
+,	O
+''	O
+
+# id = conivel-magician-000220
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the young soldier commanded Laurie .
+the	O
+young	O
+soldier	O
+commanded	O
+Laurie	B-CHARACTER
+.	O
+
+# id = conivel-magician-000221
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laurie helped Pug to his feet and they followed the officer out of the slave hut .
+Laurie	B-CHARACTER
+helped	O
+Pug	B-CHARACTER
+to	O
+his	O
+feet	O
+and	O
+they	O
+followed	O
+the	O
+officer	O
+out	O
+of	O
+the	O
+slave	O
+hut	O
+.	O
+
+# id = conivel-magician-000222
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He led them across the compound to his own quarters and ordered them to enter .
+He	O
+led	O
+them	O
+across	O
+the	O
+compound	O
+to	O
+his	O
+own	O
+quarters	O
+and	O
+ordered	O
+them	O
+to	O
+enter	O
+.	O
+
+# id = conivel-magician-000223
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Once inside , he instructed a guard to send for the camp physician .
+Once	O
+inside	O
+,	O
+he	O
+instructed	O
+a	O
+guard	O
+to	O
+send	O
+for	O
+the	O
+camp	O
+physician	O
+.	O
+
+# id = conivel-magician-000224
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had them stand in silence until the physician arrived .
+He	O
+had	O
+them	O
+stand	O
+in	O
+silence	O
+until	O
+the	O
+physician	O
+arrived	O
+.	O
+
+# id = conivel-magician-000225
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was an old Tsurani , dressed in the robes of one of their gods , which one the Midkemians could n't tell .
+He	O
+was	O
+an	O
+old	O
+Tsurani	O
+,	O
+dressed	O
+in	O
+the	O
+robes	O
+of	O
+one	O
+of	O
+their	O
+gods	O
+,	O
+which	O
+one	O
+the	O
+Midkemians	O
+could	O
+n't	O
+tell	O
+.	O
+
+# id = conivel-magician-000226
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He inspected Pug 's wounds and judged the chest wound superficial .
+He	O
+inspected	O
+Pug	B-CHARACTER
+'s	O
+wounds	O
+and	O
+judged	O
+the	O
+chest	O
+wound	O
+superficial	O
+.	O
+
+# id = conivel-magician-000227
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The hand , he said , would be another matter .
+The	O
+hand	O
+,	O
+he	O
+said	O
+,	O
+would	O
+be	O
+another	O
+matter	O
+.	O
+
+# id = conivel-magician-000228
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The cut is deep , and the muscles and tendons have been cut .
+``	O
+The	O
+cut	O
+is	O
+deep	O
+,	O
+and	O
+the	O
+muscles	O
+and	O
+tendons	O
+have	O
+been	O
+cut	O
+.	O
+
+# id = conivel-magician-000229
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It will heal , but there will be a loss of movement and little strength for gripping .
+It	O
+will	O
+heal	O
+,	O
+but	O
+there	O
+will	O
+be	O
+a	O
+loss	O
+of	O
+movement	O
+and	O
+little	O
+strength	O
+for	O
+gripping	O
+.	O
+
+# id = conivel-magician-000230
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He most likely will be fit for only light duty . ''
+He	O
+most	O
+likely	O
+will	O
+be	O
+fit	O
+for	O
+only	O
+light	O
+duty	O
+.	O
+''	O
+
+# id = conivel-magician-000231
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The soldier nodded , a peculiar expression on his face : a mixture of disgust and impatience .
+The	O
+soldier	O
+nodded	O
+,	O
+a	O
+peculiar	O
+expression	O
+on	O
+his	O
+face	O
+:	O
+a	O
+mixture	O
+of	O
+disgust	O
+and	O
+impatience	O
+.	O
+
+# id = conivel-magician-000232
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Very well .
+``	O
+Very	O
+well	O
+.	O
+
+# id = conivel-magician-000233
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Dress the wounds , and leave us . ''
+Dress	O
+the	O
+wounds	O
+,	O
+and	O
+leave	O
+us	O
+.	O
+''	O
+
+# id = conivel-magician-000234
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The physician set about cleaning the wounds .
+The	O
+physician	O
+set	O
+about	O
+cleaning	O
+the	O
+wounds	O
+.	O
+
+# id = conivel-magician-000235
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He took a score of stitches in the hand , bandaged it , admonished Pug to keep it clean , and left .
+He	O
+took	O
+a	O
+score	O
+of	O
+stitches	O
+in	O
+the	O
+hand	O
+,	O
+bandaged	O
+it	O
+,	O
+admonished	O
+Pug	B-CHARACTER
+to	O
+keep	O
+it	O
+clean	O
+,	O
+and	O
+left	O
+.	O
+
+# id = conivel-magician-000236
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug ignored the pain , easing his mind with an old mental exercise .
+Pug	B-CHARACTER
+ignored	O
+the	O
+pain	O
+,	O
+easing	O
+his	O
+mind	O
+with	O
+an	O
+old	O
+mental	O
+exercise	O
+.	O
+
+# id = conivel-magician-000237
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = After the physician was gone , the soldier studied the two slaves before him .
+After	O
+the	O
+physician	O
+was	O
+gone	O
+,	O
+the	O
+soldier	O
+studied	O
+the	O
+two	O
+slaves	O
+before	O
+him	O
+.	O
+
+# id = conivel-magician-000238
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` By law , I should have you hung for killing the slave master . ''
+``	O
+By	O
+law	O
+,	O
+I	O
+should	O
+have	O
+you	O
+hung	O
+for	O
+killing	O
+the	O
+slave	O
+master	O
+.	O
+''	O
+
+# id = conivel-magician-000239
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They said nothing .
+They	O
+said	O
+nothing	O
+.	O
+
+# id = conivel-magician-000240
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They would remain silent until commanded to speak .
+They	O
+would	O
+remain	O
+silent	O
+until	O
+commanded	O
+to	O
+speak	O
+.	O
+
+# id = conivel-magician-000241
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But as I hung the slave master , I am free to keep you alive , should it suit my purpose .
+``	O
+But	O
+as	O
+I	O
+hung	O
+the	O
+slave	O
+master	O
+,	O
+I	O
+am	O
+free	O
+to	O
+keep	O
+you	O
+alive	O
+,	O
+should	O
+it	O
+suit	O
+my	O
+purpose	O
+.	O
+
+# id = conivel-magician-000242
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I can simply have you punished for wounding him . ''
+I	O
+can	O
+simply	O
+have	O
+you	O
+punished	O
+for	O
+wounding	O
+him	O
+.	O
+''	O
+
+# id = conivel-magician-000243
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He paused .
+He	O
+paused	O
+.	O
+
+# id = conivel-magician-000244
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Consider yourselves punished . ''
+``	O
+Consider	O
+yourselves	O
+punished	O
+.	O
+''	O
+
+# id = conivel-magician-000245
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = With a wave of his hand he said , `` Leave me , but return here at daybreak .
+With	O
+a	O
+wave	O
+of	O
+his	O
+hand	O
+he	O
+said	O
+,	O
+``	O
+Leave	O
+me	O
+,	O
+but	O
+return	O
+here	O
+at	O
+daybreak	O
+.	O
+
+# id = conivel-magician-000246
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I have to decide what to do with you . ''
+I	O
+have	O
+to	O
+decide	O
+what	O
+to	O
+do	O
+with	O
+you	O
+.	O
+''	O
+
+# id = conivel-magician-000247
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They left , feeling fortunate , for under most circum - stances they would now be hanging next to the former slave master .
+They	O
+left	O
+,	O
+feeling	O
+fortunate	O
+,	O
+for	O
+under	O
+most	O
+circum	O
+-	O
+stances	O
+they	O
+would	O
+now	O
+be	O
+hanging	O
+next	O
+to	O
+the	O
+former	O
+slave	O
+master	O
+.	O
+
+# id = conivel-magician-000248
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = As they crossed the compound , Laurie said , `` I wonder what that was about ? ''
+As	O
+they	O
+crossed	O
+the	O
+compound	O
+,	O
+Laurie	B-CHARACTER
+said	O
+,	O
+``	O
+I	O
+wonder	O
+what	O
+that	O
+was	O
+about	O
+?	O
+''	O
+
+# id = conivel-magician-000249
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug responded , `` I hurt too much to wonder why .
+Pug	B-CHARACTER
+responded	O
+,	O
+``	O
+I	O
+hurt	O
+too	O
+much	O
+to	O
+wonder	O
+why	O
+.	O
+
+# id = conivel-magician-000250
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'm just thankful that we will see tomorrow . ''
+I	O
+'m	O
+just	O
+thankful	O
+that	O
+we	O
+will	O
+see	O
+tomorrow	O
+.	O
+''	O
+
+# id = conivel-magician-000251
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laurie said nothing until they reached the slave hut .
+Laurie	B-CHARACTER
+said	O
+nothing	O
+until	O
+they	O
+reached	O
+the	O
+slave	O
+hut	O
+.	O
+
+# id = conivel-magician-000252
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I think the young lord has something up his sleeve . ''
+``	O
+I	O
+think	O
+the	O
+young	O
+lord	O
+has	O
+something	O
+up	O
+his	O
+sleeve	O
+.	O
+''	O
+
+# id = conivel-magician-000253
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Whatever .
+``	O
+Whatever	O
+.	O
+
+# id = conivel-magician-000254
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I have long since given up trying to understand our masters .
+I	O
+have	O
+long	O
+since	O
+given	O
+up	O
+trying	O
+to	O
+understand	O
+our	O
+masters	O
+.	O
+
+# id = conivel-magician-000255
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That 's why I 've stayed alive so long , Laurie .
+That	O
+'s	O
+why	O
+I	O
+'ve	O
+stayed	O
+alive	O
+so	O
+long	O
+,	O
+Laurie	B-CHARACTER
+.	O
+
+# id = conivel-magician-000256
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I just do what I 'm told to , and I endure . ''
+I	O
+just	O
+do	O
+what	O
+I	O
+'m	O
+told	O
+to	O
+,	O
+and	O
+I	O
+endure	O
+.	O
+''	O
+
+# id = conivel-magician-000257
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug pointed to the tree where the former overseer 's body could be seen in the pale moonlight -- only the small moon was out tonight .
+Pug	B-CHARACTER
+pointed	O
+to	O
+the	O
+tree	O
+where	O
+the	O
+former	O
+overseer	O
+'s	O
+body	O
+could	O
+be	O
+seen	O
+in	O
+the	O
+pale	O
+moonlight	O
+--	O
+only	O
+the	O
+small	O
+moon	O
+was	O
+out	O
+tonight	O
+.	O
+
+# id = conivel-magician-000258
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's much too easy to end up like that . ''
+``	O
+It	O
+'s	O
+much	O
+too	O
+easy	O
+to	O
+end	O
+up	O
+like	O
+that	O
+.	O
+''	O
+
+# id = conivel-magician-000259
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laurie nodded .
+Laurie	B-CHARACTER
+nodded	O
+.	O
+
+# id = conivel-magician-000260
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Perhaps you 're right .
+``	O
+Perhaps	O
+you	O
+'re	O
+right	O
+.	O
+
+# id = conivel-magician-000261
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I still think about escape . ''
+I	O
+still	O
+think	O
+about	O
+escape	O
+.	O
+''	O
+
+# id = conivel-magician-000262
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug laughed , a short , bitter sound .
+Pug	B-CHARACTER
+laughed	O
+,	O
+a	O
+short	O
+,	O
+bitter	O
+sound	O
+.	O
+
+# id = conivel-magician-000263
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Where , singer ?
+``	O
+Where	O
+,	O
+singer	O
+?	O
+
+# id = conivel-magician-000264
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Where could you run ?
+Where	O
+could	O
+you	O
+run	O
+?	O
+
+# id = conivel-magician-000265
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Toward the rift and ten thousand Tsurani ? ''
+Toward	O
+the	O
+rift	O
+and	O
+ten	O
+thousand	O
+Tsurani	O
+?	O
+''	O
+
+# id = conivel-magician-000266
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Laurie said nothing .
+Laurie	B-CHARACTER
+said	O
+nothing	O
+.	O
+
+# id = conivel-magician-000267
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They returned to their pallets and tried to sleep in the humid heat .
+They	O
+returned	O
+to	O
+their	O
+pallets	O
+and	O
+tried	O
+to	O
+sleep	O
+in	O
+the	O
+humid	O
+heat	O
+.	O
+
+# id = conivel-magician-000268
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The young officer sat upon a pile of cushions , Tsurani fashion .
+The	O
+young	O
+officer	O
+sat	O
+upon	O
+a	O
+pile	O
+of	O
+cushions	O
+,	O
+Tsurani	O
+fashion	O
+.	O
+
+# id = conivel-magician-000269
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He sent the guard who had accompanied Pug and Laurie away , then motioned for the two slaves to sit .
+He	O
+sent	O
+the	O
+guard	O
+who	O
+had	O
+accompanied	O
+Pug	B-CHARACTER
+and	O
+Laurie	B-CHARACTER
+away	O
+,	O
+then	O
+motioned	O
+for	O
+the	O
+two	O
+slaves	O
+to	O
+sit	O
+.	O
+
+# id = conivel-magician-000270
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They did so hesitantly , for a slave was not usually permitted to sit in a master 's presence .
+They	O
+did	O
+so	O
+hesitantly	O
+,	O
+for	O
+a	O
+slave	O
+was	O
+not	O
+usually	O
+permitted	O
+to	O
+sit	O
+in	O
+a	O
+master	O
+'s	O
+presence	O
+.	O
+
+# id = conivel-magician-000271
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I am Hokanu , of the Shinzawai .
+``	O
+I	O
+am	O
+Hokanu	B-CHARACTER
+,	O
+of	O
+the	O
+Shinzawai	O
+.	O
+
+# id = conivel-magician-000272
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = My father owns this camp , ''
+My	O
+father	O
+owns	O
+this	O
+camp	O
+,	O
+''	O
+
+# id = conivel-magician-000273
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said without preamble .
+he	O
+said	O
+without	O
+preamble	O
+.	O
+
+# id = conivel-magician-000274
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He is deeply dissatis - fied with the harvest this year .
+``	O
+He	O
+is	O
+deeply	O
+dissatis	O
+-	O
+fied	O
+with	O
+the	O
+harvest	O
+this	O
+year	O
+.	O
+
+# id = conivel-magician-000275
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He has sent me to see what can be done .
+He	O
+has	O
+sent	O
+me	O
+to	O
+see	O
+what	O
+can	O
+be	O
+done	O
+.	O
+
+# id = conivel-magician-000276
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now I have no overseer to manage the work , because a foolish man blamed you for his own stupidity .
+Now	O
+I	O
+have	O
+no	O
+overseer	O
+to	O
+manage	O
+the	O
+work	O
+,	O
+because	O
+a	O
+foolish	O
+man	O
+blamed	O
+you	O
+for	O
+his	O
+own	O
+stupidity	O
+.	O
+
+# id = conivel-magician-000277
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What am I to do ? ''
+What	O
+am	O
+I	O
+to	O
+do	O
+?	O
+''	O
+
+# id = conivel-magician-000278
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They said nothing , for they were not sure if the question was rhetorical .
+They	O
+said	O
+nothing	O
+,	O
+for	O
+they	O
+were	O
+not	O
+sure	O
+if	O
+the	O
+question	O
+was	O
+rhetorical	O
+.	O
+
+# id = conivel-magician-000279
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He asked , `` You have been here , how long ? ''
+He	O
+asked	O
+,	O
+``	O
+You	O
+have	O
+been	O
+here	O
+,	O
+how	O
+long	O
+?	O
+''	O
+
+# id = conivel-magician-000280
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug and Laurie answered in turn .
+Pug	B-CHARACTER
+and	O
+Laurie	B-CHARACTER
+answered	O
+in	O
+turn	O
+.	O
+
+# id = conivel-magician-000281
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He considered the answers , then said , `` You ''
+He	O
+considered	O
+the	O
+answers	O
+,	O
+then	O
+said	O
+,	O
+``	O
+You	O
+''	O
+
+# id = conivel-magician-000282
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- pointing at Laurie -- `` are noth - ing unusual , save you speak our tongue better than most barbarians , all things considered .
+--	O
+pointing	O
+at	O
+Laurie	B-CHARACTER
+--	O
+``	O
+are	O
+noth	O
+-	O
+ing	O
+unusual	O
+,	O
+save	O
+you	O
+speak	O
+our	O
+tongue	O
+better	O
+than	O
+most	O
+barbarians	O
+,	O
+all	O
+things	O
+considered	O
+.	O
+
+# id = conivel-magician-000283
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But you ''
+But	O
+you	O
+''	O
+
+# id = conivel-magician-000284
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- pointing at Pug -- `` have stayed alive longer than most of your stiff - necked countrymen and also speak our language well .
+--	O
+pointing	O
+at	O
+Pug	B-CHARACTER
+--	O
+``	O
+have	O
+stayed	O
+alive	O
+longer	O
+than	O
+most	O
+of	O
+your	O
+stiff	O
+-	O
+necked	O
+countrymen	O
+and	O
+also	O
+speak	O
+our	O
+language	O
+well	O
+.	O
+
+# id = conivel-magician-000285
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You might even pass for a peasant from a remote province . ''
+You	O
+might	O
+even	O
+pass	O
+for	O
+a	O
+peasant	O
+from	O
+a	O
+remote	O
+province	O
+.	O
+''	O
+
+# id = conivel-magician-000286
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They sat still , unsure of what Hokanu was leading up to .
+They	O
+sat	O
+still	O
+,	O
+unsure	O
+of	O
+what	O
+Hokanu	B-CHARACTER
+was	O
+leading	O
+up	O
+to	O
+.	O
+
+# id = conivel-magician-000287
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pug realized with a shock that he was probably older by a year or two than this young lord .
+Pug	B-CHARACTER
+realized	O
+with	O
+a	O
+shock	O
+that	O
+he	O
+was	O
+probably	O
+older	O
+by	O
+a	O
+year	O
+or	O
+two	O
+than	O
+this	O
+young	O
+lord	O
+.	O
+
+# id = conivel-magician-000288
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was young for such power .
+He	O
+was	O
+young	O
+for	O
+such	O
+power	O
+.	O
+
+# id = conivel-magician-000289
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The ways of the Tsurani were very strange .
+The	O
+ways	O
+of	O
+the	O
+Tsurani	O
+were	O
+very	O
+strange	O
+.	O
+
+# id = conivel-magician-000290
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In Crydee he would still be an apprentice , or if noble , continuing his education in statecraft .
+In	O
+Crydee	B-LOCATION
+he	O
+would	O
+still	O
+be	O
+an	O
+apprentice	O
+,	O
+or	O
+if	O
+noble	O
+,	O
+continuing	O
+his	O
+education	O
+in	O
+statecraft	O
+.	O
+
+# id = conivel-magician-000291
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How do you speak so well ? ''
+``	O
+How	O
+do	O
+you	O
+speak	O
+so	O
+well	O
+?	O
+''	O
+
+# id = conivel-magician-000292
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he asked of Pug .
+he	O
+asked	O
+of	O
+Pug	B-CHARACTER
+.	O
+
+# id = conivel-magician-000293
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Master , I was among the first captured and brought here .
+``	O
+Master	O
+,	O
+I	O
+was	O
+among	O
+the	O
+first	O
+captured	O
+and	O
+brought	O
+here	O
+.	O
+
+# id = conivel-magician-000294
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There were only seven of us among so many Tsurani slaves .
+There	O
+were	O
+only	O
+seven	O
+of	O
+us	O
+among	O
+so	O
+many	O
+Tsurani	O
+slaves	O
+.	O
+
+# id = conivel-magician-000295
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We learned to survive .
+We	O
+learned	O
+to	O
+survive	O
+.	O
+
+# id = conivel-magician-000296
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = After some time , I was the only one left .
+After	O
+some	O
+time	O
+,	O
+I	O
+was	O
+the	O
+only	O
+one	O
+left	O
+.	O
+
+# id = conivel-magician-000297
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The others died of the burning fever or festering wounds , or were killed by the guards .
+The	O
+others	O
+died	O
+of	O
+the	O
+burning	O
+fever	O
+or	O
+festering	O
+wounds	O
+,	O
+or	O
+were	O
+killed	O
+by	O
+the	O
+guards	O
+.	O
+
+# id = conivel-magician-000298
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There were none for me to talk with who spoke my own language .
+There	O
+were	O
+none	O
+for	O
+me	O
+to	O
+talk	O
+with	O
+who	O
+spoke	O
+my	O
+own	O
+language	O
+.	O
+
+# id = conivel-magician-000299
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No other countryman came to this camp for over a year . ''
+No	O
+other	O
+countryman	O
+came	O
+to	O
+this	O
+camp	O
+for	O
+over	O
+a	O
+year	O
+.	O
+''	O
+
+# id = conivel-magician-000300
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The officer nodded , then to Laurie said , `` And you ? ''
+The	O
+officer	O
+nodded	O
+,	O
+then	O
+to	O
+Laurie	B-CHARACTER
+said	O
+,	O
+``	O
+And	O
+you	O
+?	O
+''	O
+
+# id = conivel-magician-000301
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Master , I am a singer , a minstrel in my own land .
+``	O
+Master	O
+,	O
+I	O
+am	O
+a	O
+singer	O
+,	O
+a	O
+minstrel	O
+in	O
+my	O
+own	O
+land	O
+.	O
+
+# id = conivel-magician-000302
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It is our custom to travel broadly , and we must learn many tongues .
+It	O
+is	O
+our	O
+custom	O
+to	O
+travel	O
+broadly	O
+,	O
+and	O
+we	O
+must	O
+learn	O
+many	O
+tongues	O
+.	O
+
+# id = conivel-magician-000303
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I have also a good ear for music .
+I	O
+have	O
+also	O
+a	O
+good	O
+ear	O
+for	O
+music	O
+.	O
+
+# id = conivel-magician-000304
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Your language is what is called a tone language on my world ; words with the same sound save for the pitch with which they are spoken have different meanings .
+Your	O
+language	O
+is	O
+what	O
+is	O
+called	O
+a	O
+tone	O
+language	O
+on	O
+my	O
+world	O
+;	O
+words	O
+with	O
+the	O
+same	O
+sound	O
+save	O
+for	O
+the	O
+pitch	O
+with	O
+which	O
+they	O
+are	O
+spoken	O
+have	O
+different	O
+meanings	O
+.	O
+
+# id = conivel-magician-000305
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We have several such tongues to the south of our Kingdom .
+We	O
+have	O
+several	O
+such	O
+tongues	O
+to	O
+the	O
+south	O
+of	O
+our	O
+Kingdom	O
+.	O
+
+# id = conivel-magician-000306
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I leam quickly . ''
+I	O
+leam	O
+quickly	O
+.	O
+''	O
+
+# id = conivel-magician-000307
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A glimmering appeared in the eyes of the soldier .
+A	O
+glimmering	O
+appeared	O
+in	O
+the	O
+eyes	O
+of	O
+the	O
+soldier	O
+.	O
+
+# id = conivel-magician-000308
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It is good to know these things . ''
+``	O
+It	O
+is	O
+good	O
+to	O
+know	O
+these	O
+things	O
+.	O
+''	O
+
+# id = conivel-magician-000309
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He lapsed deep into thought .
+He	O
+lapsed	O
+deep	O
+into	O
+thought	O
+.	O
+
+# id = conivel-magician-000310
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = After a moment he nodded to himself .
+After	O
+a	O
+moment	O
+he	O
+nodded	O
+to	O
+himself	O
+.	O
+
+# id = conivel-magician-000311
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There are many considerations that fashion a man 's fortune , slaves . ''
+``	O
+There	O
+are	O
+many	O
+considerations	O
+that	O
+fashion	O
+a	O
+man	O
+'s	O
+fortune	O
+,	O
+slaves	O
+.	O
+''	O
+
+# id = conivel-magician-000312
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He smiled , looking more like a boy than a man .
+He	O
+smiled	O
+,	O
+looking	O
+more	O
+like	O
+a	O
+boy	O
+than	O
+a	O
+man	O
+.	O
+
+# id = conivel-magician-000313
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` This camp is a shambles .
+``	O
+This	O
+camp	O
+is	O
+a	O
+shambles	O
+.	O
+
+# id = conivel-magician-000314
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I am to prepare a report for my father , the Lord of the Shinzawai .
+I	O
+am	O
+to	O
+prepare	O
+a	O
+report	O
+for	O
+my	O
+father	O
+,	O
+the	O
+Lord	O
+of	O
+the	O
+Shinzawai	O
+.	O
+
+# id = conivel-magician-000315
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I think I know what the problems are . ''
+I	O
+think	O
+I	O
+know	O
+what	O
+the	O
+problems	O
+are	O
+.	O
+''	O
+
+# id = conivel-magician-000316
+# source = Conivel corrected OWTO literary NER
+# book = Magician
+# source_file = Magician.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He pointed at Pug .
+He	O
+pointed	O
+at	O
+Pug	B-CHARACTER
+.	O
+

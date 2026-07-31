@@ -1,0 +1,3548 @@
+# id = conivel-the-colour-of-magic-000001
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = 1 THE COLOR OF MAGIC Fire roared through the bifurcated city of Ankh-Morpork .
+1	O
+THE	O
+COLOR	O
+OF	O
+MAGIC	O
+Fire	O
+roared	O
+through	O
+the	O
+bifurcated	O
+city	O
+of	O
+Ankh-Morpork	B-LOCATION
+.	O
+
+# id = conivel-the-colour-of-magic-000002
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Where it licked the Wizards ' Quarter it burned blue and green and was even laced with strange sparks of the eighth color , octarine ; where its outriders found their way into the vats and oil stores all along Merchant Street it progressed in a series of blazing fountains and explosions ; in the streets of the perfume blenders it burned with a sweetness ; where it touched bundles of rare and dry herbs in the storerooms of the drugmasters it made men go mad and talk to God .
+Where	O
+it	O
+licked	O
+the	O
+Wizards	B-LOCATION
+'	I-LOCATION
+Quarter	I-LOCATION
+it	O
+burned	O
+blue	O
+and	O
+green	O
+and	O
+was	O
+even	O
+laced	O
+with	O
+strange	O
+sparks	O
+of	O
+the	O
+eighth	O
+color	O
+,	O
+octarine	O
+;	O
+where	O
+its	O
+outriders	O
+found	O
+their	O
+way	O
+into	O
+the	O
+vats	O
+and	O
+oil	O
+stores	O
+all	O
+along	O
+Merchant	B-LOCATION
+Street	I-LOCATION
+it	O
+progressed	O
+in	O
+a	O
+series	O
+of	O
+blazing	O
+fountains	O
+and	O
+explosions	O
+;	O
+in	O
+the	O
+streets	O
+of	O
+the	O
+perfume	O
+blenders	O
+it	O
+burned	O
+with	O
+a	O
+sweetness	O
+;	O
+where	O
+it	O
+touched	O
+bundles	O
+of	O
+rare	O
+and	O
+dry	O
+herbs	O
+in	O
+the	O
+storerooms	O
+of	O
+the	O
+drugmasters	O
+it	O
+made	O
+men	O
+go	O
+mad	O
+and	O
+talk	O
+to	O
+God	B-CHARACTER
+.	O
+
+# id = conivel-the-colour-of-magic-000003
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = By now the whole of downtown Morpork was alight , and the richer and worthier citizens of Ankh on the far bank were bravely responding to the situation by feverishly demolishing the bridges .
+By	O
+now	O
+the	O
+whole	O
+of	O
+downtown	O
+Morpork	B-LOCATION
+was	O
+alight	O
+,	O
+and	O
+the	O
+richer	O
+and	O
+worthier	O
+citizens	O
+of	O
+Ankh	B-LOCATION
+on	O
+the	O
+far	O
+bank	O
+were	O
+bravely	O
+responding	O
+to	O
+the	O
+situation	O
+by	O
+feverishly	O
+demolishing	O
+the	O
+bridges	O
+.	O
+
+# id = conivel-the-colour-of-magic-000004
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But already the ships in the Morpork docks -- laden with grain , cotton and timber , and coated with tar -- were blazing merrily and , their moorings burnt to ashes , were breasting the river Ankh on the ebb tide , igniting riverside palaces and bowers as they drifted like drowning fireflies toward the sea .
+But	O
+already	O
+the	O
+ships	O
+in	O
+the	O
+Morpork	B-LOCATION
+docks	O
+--	O
+laden	O
+with	O
+grain	O
+,	O
+cotton	O
+and	O
+timber	O
+,	O
+and	O
+coated	O
+with	O
+tar	O
+--	O
+were	O
+blazing	O
+merrily	O
+and	O
+,	O
+their	O
+moorings	O
+burnt	O
+to	O
+ashes	O
+,	O
+were	O
+breasting	O
+the	O
+river	O
+Ankh	B-LOCATION
+on	O
+the	O
+ebb	O
+tide	O
+,	O
+igniting	O
+riverside	O
+palaces	O
+and	O
+bowers	O
+as	O
+they	O
+drifted	O
+like	O
+drowning	O
+fireflies	O
+toward	O
+the	O
+sea	O
+.	O
+
+# id = conivel-the-colour-of-magic-000005
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In any case , sparks were riding the breeze and touching down far across the river in hidden gardens and remote rickyards .
+In	O
+any	O
+case	O
+,	O
+sparks	O
+were	O
+riding	O
+the	O
+breeze	O
+and	O
+touching	O
+down	O
+far	O
+across	O
+the	O
+river	O
+in	O
+hidden	O
+gardens	O
+and	O
+remote	O
+rickyards	O
+.	O
+
+# id = conivel-the-colour-of-magic-000006
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The smoke from the merry burning rose miles high , in a wind-sculpted black column that could be seen across the whole of the Discworld .
+The	O
+smoke	O
+from	O
+the	O
+merry	O
+burning	O
+rose	O
+miles	O
+high	O
+,	O
+in	O
+a	O
+wind-sculpted	O
+black	O
+column	O
+that	O
+could	O
+be	O
+seen	O
+across	O
+the	O
+whole	O
+of	O
+the	O
+Discworld	B-LOCATION
+.	O
+
+# id = conivel-the-colour-of-magic-000007
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was certainly impressive from the cool , dark hilltop a few leagues away , where two figures were watching with considerable interest .
+It	O
+was	O
+certainly	O
+impressive	O
+from	O
+the	O
+cool	O
+,	O
+dark	O
+hilltop	O
+a	O
+few	O
+leagues	O
+away	O
+,	O
+where	O
+two	O
+figures	O
+were	O
+watching	O
+with	O
+considerable	O
+interest	O
+.	O
+
+# id = conivel-the-colour-of-magic-000008
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The taller of the pair was chewing on a chicken leg and leaning on a sword that was only marginally shorter than the average man .
+The	O
+taller	O
+of	O
+the	O
+pair	O
+was	O
+chewing	O
+on	O
+a	O
+chicken	O
+leg	O
+and	O
+leaning	O
+on	O
+a	O
+sword	O
+that	O
+was	O
+only	O
+marginally	O
+shorter	O
+than	O
+the	O
+average	O
+man	O
+.	O
+
+# id = conivel-the-colour-of-magic-000009
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If it was n't for the air of wary intelligence about him it might have been supposed that he was a barbarian from the Hubland wastes .
+If	O
+it	O
+was	O
+n't	O
+for	O
+the	O
+air	O
+of	O
+wary	O
+intelligence	O
+about	O
+him	O
+it	O
+might	O
+have	O
+been	O
+supposed	O
+that	O
+he	O
+was	O
+a	O
+barbarian	O
+from	O
+the	O
+Hubland	B-LOCATION
+wastes	O
+.	O
+
+# id = conivel-the-colour-of-magic-000010
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His partner was much shorter and wrapped from head to toe in a brown cloak .
+His	O
+partner	O
+was	O
+much	O
+shorter	O
+and	O
+wrapped	O
+from	O
+head	O
+to	O
+toe	O
+in	O
+a	O
+brown	O
+cloak	O
+.	O
+
+# id = conivel-the-colour-of-magic-000011
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Later , when he has occasion to move , it will be seen that he moves lightly , catlike .
+Later	O
+,	O
+when	O
+he	O
+has	O
+occasion	O
+to	O
+move	O
+,	O
+it	O
+will	O
+be	O
+seen	O
+that	O
+he	O
+moves	O
+lightly	O
+,	O
+catlike	O
+.	O
+
+# id = conivel-the-colour-of-magic-000012
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The two had barely exchanged a word in the last twenty minutes except for a short and inconclusive argument as to whether a particularly powerful explosion had been the oil bond store or the workshop of Kerible the Enchanter .
+The	O
+two	O
+had	O
+barely	O
+exchanged	O
+a	O
+word	O
+in	O
+the	O
+last	O
+twenty	O
+minutes	O
+except	O
+for	O
+a	O
+short	O
+and	O
+inconclusive	O
+argument	O
+as	O
+to	O
+whether	O
+a	O
+particularly	O
+powerful	O
+explosion	O
+had	O
+been	O
+the	O
+oil	O
+bond	O
+store	O
+or	O
+the	O
+workshop	O
+of	O
+Kerible	B-CHARACTER
+the	I-CHARACTER
+Enchanter	I-CHARACTER
+.	O
+
+# id = conivel-the-colour-of-magic-000013
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Money hinged on the fact .
+Money	O
+hinged	O
+on	O
+the	O
+fact	O
+.	O
+
+# id = conivel-the-colour-of-magic-000014
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Now the big man finished gnawing at the bone and tossed it into the grass , smiling ruefully .
+Now	O
+the	O
+big	O
+man	O
+finished	O
+gnawing	O
+at	O
+the	O
+bone	O
+and	O
+tossed	O
+it	O
+into	O
+the	O
+grass	O
+,	O
+smiling	O
+ruefully	O
+.	O
+
+# id = conivel-the-colour-of-magic-000015
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There go all those little alleyways , ''
+``	O
+There	O
+go	O
+all	O
+those	O
+little	O
+alleyways	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000016
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said .
+he	O
+said	O
+.	O
+
+# id = conivel-the-colour-of-magic-000017
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I liked them . ''
+``	O
+I	O
+liked	O
+them	O
+.	O
+''	O
+
+# id = conivel-the-colour-of-magic-000018
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` All the treasure houses , ''
+``	O
+All	O
+the	O
+treasure	O
+houses	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000019
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the small man .
+said	O
+the	O
+small	O
+man	O
+.	O
+
+# id = conivel-the-colour-of-magic-000020
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He added thoughtfully , `` Do gems burn ?
+He	O
+added	O
+thoughtfully	O
+,	O
+``	O
+Do	O
+gems	O
+burn	O
+?	O
+
+# id = conivel-the-colour-of-magic-000021
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I wonder .
+I	O
+wonder	O
+.	O
+
+# id = conivel-the-colour-of-magic-000022
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' Tis said they 're kin to coal . ''
+'	O
+Tis	O
+said	O
+they	O
+'re	O
+kin	O
+to	O
+coal	O
+.	O
+''	O
+
+# id = conivel-the-colour-of-magic-000023
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` All the gold , melting and running down the gutters , ''
+``	O
+All	O
+the	O
+gold	O
+,	O
+melting	O
+and	O
+running	O
+down	O
+the	O
+gutters	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000024
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the big one , ignoring him .
+said	O
+the	O
+big	O
+one	O
+,	O
+ignoring	O
+him	O
+.	O
+
+# id = conivel-the-colour-of-magic-000025
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And all the wine , boiling in the barrels . ''
+``	O
+And	O
+all	O
+the	O
+wine	O
+,	O
+boiling	O
+in	O
+the	O
+barrels	O
+.	O
+''	O
+
+# id = conivel-the-colour-of-magic-000026
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There were rats , ''
+``	O
+There	O
+were	O
+rats	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000027
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said his brown companion .
+said	O
+his	O
+brown	O
+companion	O
+.	O
+
+# id = conivel-the-colour-of-magic-000028
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Rats , I 'll grant you . ''
+``	O
+Rats	O
+,	O
+I	O
+'ll	O
+grant	O
+you	O
+.	O
+''	O
+
+# id = conivel-the-colour-of-magic-000029
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It was no place to be in high summer . ''
+``	O
+It	O
+was	O
+no	O
+place	O
+to	O
+be	O
+in	O
+high	O
+summer	O
+.	O
+''	O
+
+# id = conivel-the-colour-of-magic-000030
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That , too .
+``	O
+That	O
+,	O
+too	O
+.	O
+
+# id = conivel-the-colour-of-magic-000031
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One ca n't help feeling , though , a -- well , a momentary -- ''
+One	O
+ca	O
+n't	O
+help	O
+feeling	O
+,	O
+though	O
+,	O
+a	O
+--	O
+well	O
+,	O
+a	O
+momentary	O
+--	O
+''	O
+
+# id = conivel-the-colour-of-magic-000032
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He trailed off , then brightened .
+He	O
+trailed	O
+off	O
+,	O
+then	O
+brightened	O
+.	O
+
+# id = conivel-the-colour-of-magic-000033
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We owed old Fredor at the Crimson Leech eight silver pieces , ''
+``	O
+We	O
+owed	O
+old	O
+Fredor	B-CHARACTER
+at	O
+the	O
+Crimson	B-LOCATION
+Leech	I-LOCATION
+eight	O
+silver	O
+pieces	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000034
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he added .
+he	O
+added	O
+.	O
+
+# id = conivel-the-colour-of-magic-000035
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The little man nodded .
+The	O
+little	O
+man	O
+nodded	O
+.	O
+
+# id = conivel-the-colour-of-magic-000036
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were silent for a while as a whole new series of explosions carved a red line across a hitherto dark section of the greatest city in the world .
+They	O
+were	O
+silent	O
+for	O
+a	O
+while	O
+as	O
+a	O
+whole	O
+new	O
+series	O
+of	O
+explosions	O
+carved	O
+a	O
+red	O
+line	O
+across	O
+a	O
+hitherto	O
+dark	O
+section	O
+of	O
+the	O
+greatest	O
+city	O
+in	O
+the	O
+world	O
+.	O
+
+# id = conivel-the-colour-of-magic-000037
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then the big man stirred .
+Then	O
+the	O
+big	O
+man	O
+stirred	O
+.	O
+
+# id = conivel-the-colour-of-magic-000038
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Weasel ? ''
+``	O
+Weasel	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000039
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Yes ? ''
+``	O
+Yes	O
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000040
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I wonder who started it . ''
+``	O
+I	O
+wonder	O
+who	O
+started	O
+it	O
+.	O
+''	O
+
+# id = conivel-the-colour-of-magic-000041
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The small swordsman known as the Weasel said nothing .
+The	O
+small	O
+swordsman	O
+known	O
+as	O
+the	O
+Weasel	B-CHARACTER
+said	O
+nothing	O
+.	O
+
+# id = conivel-the-colour-of-magic-000042
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was watching the road in the ruddy light .
+He	O
+was	O
+watching	O
+the	O
+road	O
+in	O
+the	O
+ruddy	O
+light	O
+.	O
+
+# id = conivel-the-colour-of-magic-000043
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Few had come that way since the Deosil Gate had been one of the first to collapse in a shower of white-hot embers .
+Few	O
+had	O
+come	O
+that	O
+way	O
+since	O
+the	O
+Deosil	B-LOCATION
+Gate	I-LOCATION
+had	O
+been	O
+one	O
+of	O
+the	O
+first	O
+to	O
+collapse	O
+in	O
+a	O
+shower	O
+of	O
+white-hot	O
+embers	O
+.	O
+
+# id = conivel-the-colour-of-magic-000044
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But two were coming up it now .
+But	O
+two	O
+were	O
+coming	O
+up	O
+it	O
+now	O
+.	O
+
+# id = conivel-the-colour-of-magic-000045
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Weasel 's eyes , always at their sharpest in gloom and half-light , made out the shapes of two mounted men and some sort of low beast behind them .
+The	O
+Weasel	B-CHARACTER
+'s	O
+eyes	O
+,	O
+always	O
+at	O
+their	O
+sharpest	O
+in	O
+gloom	O
+and	O
+half-light	O
+,	O
+made	O
+out	O
+the	O
+shapes	O
+of	O
+two	O
+mounted	O
+men	O
+and	O
+some	O
+sort	O
+of	O
+low	O
+beast	O
+behind	O
+them	O
+.	O
+
+# id = conivel-the-colour-of-magic-000046
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Doubtless a rich merchant escaping with as much treasure as he could lay frantic hands on .
+Doubtless	O
+a	O
+rich	O
+merchant	O
+escaping	O
+with	O
+as	O
+much	O
+treasure	O
+as	O
+he	O
+could	O
+lay	O
+frantic	O
+hands	O
+on	O
+.	O
+
+# id = conivel-the-colour-of-magic-000047
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Weasel said as much to his companion , who sighed .
+The	O
+Weasel	B-CHARACTER
+said	O
+as	O
+much	O
+to	O
+his	O
+companion	O
+,	O
+who	O
+sighed	O
+.	O
+
+# id = conivel-the-colour-of-magic-000048
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The status of footpad ill suits us , ''
+``	O
+The	O
+status	O
+of	O
+footpad	O
+ill	O
+suits	O
+us	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000049
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the barbarian , `` but , as you say , times are hard and there are no soft beds tonight . ''
+said	O
+the	O
+barbarian	O
+,	O
+``	O
+but	O
+,	O
+as	O
+you	O
+say	O
+,	O
+times	O
+are	O
+hard	O
+and	O
+there	O
+are	O
+no	O
+soft	O
+beds	O
+tonight	O
+.	O
+''	O
+
+# id = conivel-the-colour-of-magic-000050
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He shifted his grip on his sword and , as the leading rider drew near , stepped out onto the road with a hand held up and his face set in a grin nicely calculated to reassure yet threaten .
+He	O
+shifted	O
+his	O
+grip	O
+on	O
+his	O
+sword	O
+and	O
+,	O
+as	O
+the	O
+leading	O
+rider	O
+drew	O
+near	O
+,	O
+stepped	O
+out	O
+onto	O
+the	O
+road	O
+with	O
+a	O
+hand	O
+held	O
+up	O
+and	O
+his	O
+face	O
+set	O
+in	O
+a	O
+grin	O
+nicely	O
+calculated	O
+to	O
+reassure	O
+yet	O
+threaten	O
+.	O
+
+# id = conivel-the-colour-of-magic-000051
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Your pardon , sir -- ''
+``	O
+Your	O
+pardon	O
+,	O
+sir	O
+--	O
+''	O
+
+# id = conivel-the-colour-of-magic-000052
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he began .
+he	O
+began	O
+.	O
+
+# id = conivel-the-colour-of-magic-000053
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The rider reined in his horse and drew back his hood .
+The	O
+rider	O
+reined	O
+in	O
+his	O
+horse	O
+and	O
+drew	O
+back	O
+his	O
+hood	O
+.	O
+
+# id = conivel-the-colour-of-magic-000054
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The big man looked into a face blotched with superficial burns and punctuated by tufts of singed beard .
+The	O
+big	O
+man	O
+looked	O
+into	O
+a	O
+face	O
+blotched	O
+with	O
+superficial	O
+burns	O
+and	O
+punctuated	O
+by	O
+tufts	O
+of	O
+singed	O
+beard	O
+.	O
+
+# id = conivel-the-colour-of-magic-000055
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Even the eyebrows had gone .
+Even	O
+the	O
+eyebrows	O
+had	O
+gone	O
+.	O
+
+# id = conivel-the-colour-of-magic-000056
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Bugger off , ''
+``	O
+Bugger	O
+off	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000057
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the face .
+said	O
+the	O
+face	O
+.	O
+
+# id = conivel-the-colour-of-magic-000058
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 're Bravd the Hublander , * are n't you ? ''
+``	O
+You	O
+'re	O
+Bravd	B-CHARACTER
+the	I-CHARACTER
+Hublander	I-CHARACTER
+,	O
+*	O
+are	O
+n't	O
+you	O
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000059
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bravd became aware that he had fumbled the initiative .
+Bravd	B-CHARACTER
+became	O
+aware	O
+that	O
+he	O
+had	O
+fumbled	O
+the	O
+initiative	O
+.	O
+
+# id = conivel-the-colour-of-magic-000060
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Just go away , will you ? ''
+``	O
+Just	O
+go	O
+away	O
+,	O
+will	O
+you	O
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000061
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the rider .
+said	O
+the	O
+rider	O
+.	O
+
+# id = conivel-the-colour-of-magic-000062
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I just have n't got time for you , do you understand ? ''
+``	O
+I	O
+just	O
+have	O
+n't	O
+got	O
+time	O
+for	O
+you	O
+,	O
+do	O
+you	O
+understand	O
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000063
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He looked around and added : `` That goes for your shadow-loving fleabag partner , too , wherever he 's hiding . ''
+He	O
+looked	O
+around	O
+and	O
+added	O
+:	O
+``	O
+That	O
+goes	O
+for	O
+your	O
+shadow-loving	O
+fleabag	O
+partner	O
+,	O
+too	O
+,	O
+wherever	O
+he	O
+'s	O
+hiding	O
+.	O
+''	O
+
+# id = conivel-the-colour-of-magic-000064
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Weasel stepped up to the horse and peered at the disheveled figure .
+The	O
+Weasel	B-CHARACTER
+stepped	O
+up	O
+to	O
+the	O
+horse	O
+and	O
+peered	O
+at	O
+the	O
+disheveled	O
+figure	O
+.	O
+
+# id = conivel-the-colour-of-magic-000065
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Why , it 's Rincewind the wizard , is n't it ? ''
+``	O
+Why	O
+,	O
+it	O
+'s	O
+Rincewind	B-CHARACTER
+the	O
+wizard	O
+,	O
+is	O
+n't	O
+it	O
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000066
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said in tones of delight , meanwhile filing the wizard 's description of him in his memory for leisurely vengeance .
+he	O
+said	O
+in	O
+tones	O
+of	O
+delight	O
+,	O
+meanwhile	O
+filing	O
+the	O
+wizard	O
+'s	O
+description	O
+of	O
+him	O
+in	O
+his	O
+memory	O
+for	O
+leisurely	O
+vengeance	O
+.	O
+
+# id = conivel-the-colour-of-magic-000067
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I thought I recognized the voice . ''
+``	O
+I	O
+thought	O
+I	O
+recognized	O
+the	O
+voice	O
+.	O
+''	O
+
+# id = conivel-the-colour-of-magic-000068
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bravd spat and sheathed his sword .
+Bravd	B-CHARACTER
+spat	O
+and	O
+sheathed	O
+his	O
+sword	O
+.	O
+
+# id = conivel-the-colour-of-magic-000069
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was seldom worth tangling with wizards , they so rarely had any treasure worth speaking of .
+It	O
+was	O
+seldom	O
+worth	O
+tangling	O
+with	O
+wizards	O
+,	O
+they	O
+so	O
+rarely	O
+had	O
+any	O
+treasure	O
+worth	O
+speaking	O
+of	O
+.	O
+
+# id = conivel-the-colour-of-magic-000070
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He talks pretty big for a gutter wizard , ''
+``	O
+He	O
+talks	O
+pretty	O
+big	O
+for	O
+a	O
+gutter	O
+wizard	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000071
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he muttered .
+he	O
+muttered	O
+.	O
+
+# id = conivel-the-colour-of-magic-000072
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You do n't understand at all , ''
+``	O
+You	O
+do	O
+n't	O
+understand	O
+at	O
+all	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000073
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the wizard wearily .
+said	O
+the	O
+wizard	O
+wearily	O
+.	O
+
+# id = conivel-the-colour-of-magic-000074
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'm so scared of you my spine has turned to jelly , it 's just that I 'm suffering from an overdose of terror right now .
+``	O
+I	O
+'m	O
+so	O
+scared	O
+of	O
+you	O
+my	O
+spine	O
+has	O
+turned	O
+to	O
+jelly	O
+,	O
+it	O
+'s	O
+just	O
+that	O
+I	O
+'m	O
+suffering	O
+from	O
+an	O
+overdose	O
+of	O
+terror	O
+right	O
+now	O
+.	O
+
+# id = conivel-the-colour-of-magic-000075
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I mean , when I 've got over that then I 'll have time to be decently frightened of you . ''
+I	O
+mean	O
+,	O
+when	O
+I	O
+'ve	O
+got	O
+over	O
+that	O
+then	O
+I	O
+'ll	O
+have	O
+time	O
+to	O
+be	O
+decently	O
+frightened	O
+of	O
+you	O
+.	O
+''	O
+
+# id = conivel-the-colour-of-magic-000076
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Weasel pointed toward the burning city .
+The	O
+Weasel	B-CHARACTER
+pointed	O
+toward	O
+the	O
+burning	O
+city	O
+.	O
+
+# id = conivel-the-colour-of-magic-000077
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 've been through that ? ''
+``	O
+You	O
+'ve	O
+been	O
+through	O
+that	O
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000078
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he asked .
+he	O
+asked	O
+.	O
+
+# id = conivel-the-colour-of-magic-000079
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The wizard rubbed a red-raw hand across his eyes .
+The	O
+wizard	O
+rubbed	O
+a	O
+red-raw	O
+hand	O
+across	O
+his	O
+eyes	O
+.	O
+
+# id = conivel-the-colour-of-magic-000080
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I was there when it started .
+``	O
+I	O
+was	O
+there	O
+when	O
+it	O
+started	O
+.	O
+
+# id = conivel-the-colour-of-magic-000081
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = See him ?
+See	O
+him	O
+?	O
+
+# id = conivel-the-colour-of-magic-000082
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Back there ? ''
+Back	O
+there	O
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000083
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He pointed back down the road to where his traveling companion was still approaching , having adopted a method of riding that involved falling out of the saddle every few seconds .
+He	O
+pointed	O
+back	O
+down	O
+the	O
+road	O
+to	O
+where	O
+his	O
+traveling	O
+companion	O
+was	O
+still	O
+approaching	O
+,	O
+having	O
+adopted	O
+a	O
+method	O
+of	O
+riding	O
+that	O
+involved	O
+falling	O
+out	O
+of	O
+the	O
+saddle	O
+every	O
+few	O
+seconds	O
+.	O
+
+# id = conivel-the-colour-of-magic-000084
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well ? ''
+``	O
+Well	O
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000085
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Weasel .
+said	O
+Weasel	B-CHARACTER
+.	O
+
+# id = conivel-the-colour-of-magic-000086
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He started it , ''
+``	O
+He	O
+started	O
+it	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000087
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Rincewind simply .
+said	O
+Rincewind	B-CHARACTER
+simply	O
+.	O
+
+# id = conivel-the-colour-of-magic-000088
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bravd and Weasel looked at the figure , now hopping across the road with one foot in a stirrup .
+Bravd	B-CHARACTER
+and	O
+Weasel	B-CHARACTER
+looked	O
+at	O
+the	O
+figure	O
+,	O
+now	O
+hopping	O
+across	O
+the	O
+road	O
+with	O
+one	O
+foot	O
+in	O
+a	O
+stirrup	O
+.	O
+
+# id = conivel-the-colour-of-magic-000089
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Fire-raiser , is he ? ''
+``	O
+Fire-raiser	O
+,	O
+is	O
+he	O
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000090
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Bravd at last .
+said	O
+Bravd	B-CHARACTER
+at	O
+last	O
+.	O
+
+# id = conivel-the-colour-of-magic-000091
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No , ''
+``	O
+No	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000092
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Rincewind .
+said	O
+Rincewind	B-CHARACTER
+.	O
+
+# id = conivel-the-colour-of-magic-000093
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Not precisely .
+``	O
+Not	O
+precisely	O
+.	O
+
+# id = conivel-the-colour-of-magic-000094
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Let 's just say that if complete and utter chaos were lightning , then he 'd be the sort to stand on a hilltop in a thunderstorm wearing wet copper armor and shouting ` All gods are bastards .
+Let	O
+'s	O
+just	O
+say	O
+that	O
+if	O
+complete	O
+and	O
+utter	O
+chaos	O
+were	O
+lightning	O
+,	O
+then	O
+he	O
+'d	O
+be	O
+the	O
+sort	O
+to	O
+stand	O
+on	O
+a	O
+hilltop	O
+in	O
+a	O
+thunderstorm	O
+wearing	O
+wet	O
+copper	O
+armor	O
+and	O
+shouting	O
+`	O
+All	O
+gods	O
+are	O
+bastards	O
+.	O
+
+# id = conivel-the-colour-of-magic-000095
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ' Got any food ? ''
+'	O
+Got	O
+any	O
+food	O
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000096
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` There 's some chicken , ''
+``	O
+There	O
+'s	O
+some	O
+chicken	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000097
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Weasel .
+said	O
+Weasel	B-CHARACTER
+.	O
+
+# id = conivel-the-colour-of-magic-000098
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` In exchange for a story . ''
+``	O
+In	O
+exchange	O
+for	O
+a	O
+story	O
+.	O
+''	O
+
+# id = conivel-the-colour-of-magic-000099
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What 's his name ? ''
+``	O
+What	O
+'s	O
+his	O
+name	O
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000100
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Bravd , who tended to lag behind in conversations .
+said	O
+Bravd	B-CHARACTER
+,	O
+who	O
+tended	O
+to	O
+lag	O
+behind	O
+in	O
+conversations	O
+.	O
+
+# id = conivel-the-colour-of-magic-000101
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Twoflower . ''
+``	O
+Twoflower	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-colour-of-magic-000102
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Twoflower ? ''
+``	O
+Twoflower	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000103
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Bravd .
+said	O
+Bravd	B-CHARACTER
+.	O
+
+# id = conivel-the-colour-of-magic-000104
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What a funny name . ''
+``	O
+What	O
+a	O
+funny	O
+name	O
+.	O
+''	O
+
+# id = conivel-the-colour-of-magic-000105
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You , ''
+``	O
+You	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000106
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Rincewind , dismounting , `` do not know the half of it .
+said	O
+Rincewind	B-CHARACTER
+,	O
+dismounting	O
+,	O
+``	O
+do	O
+not	O
+know	O
+the	O
+half	O
+of	O
+it	O
+.	O
+
+# id = conivel-the-colour-of-magic-000107
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Chicken , you say ? ''
+Chicken	O
+,	O
+you	O
+say	O
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000108
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Deviled , ''
+``	O
+Deviled	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000109
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Weasel .
+said	O
+Weasel	B-CHARACTER
+.	O
+
+# id = conivel-the-colour-of-magic-000110
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The wizard groaned .
+The	O
+wizard	O
+groaned	O
+.	O
+
+# id = conivel-the-colour-of-magic-000111
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That reminds me , ''
+``	O
+That	O
+reminds	O
+me	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000112
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = added the Weasel , snapping his fingers , `` there was a really big explosion about , oh , half an hour ago -- ''
+added	O
+the	O
+Weasel	B-CHARACTER
+,	O
+snapping	O
+his	O
+fingers	O
+,	O
+``	O
+there	O
+was	O
+a	O
+really	O
+big	O
+explosion	O
+about	O
+,	O
+oh	O
+,	O
+half	O
+an	O
+hour	O
+ago	O
+--	O
+''	O
+
+# id = conivel-the-colour-of-magic-000113
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That was the oil bond store going up , ''
+``	O
+That	O
+was	O
+the	O
+oil	O
+bond	O
+store	O
+going	O
+up	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000114
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Rincewind , wincing at the memory of the burning rain .
+said	O
+Rincewind	B-CHARACTER
+,	O
+wincing	O
+at	O
+the	O
+memory	O
+of	O
+the	O
+burning	O
+rain	O
+.	O
+
+# id = conivel-the-colour-of-magic-000115
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Weasel turned and grinned expectantly at his companion , who grunted and handed over a coin from his pouch .
+Weasel	B-CHARACTER
+turned	O
+and	O
+grinned	O
+expectantly	O
+at	O
+his	O
+companion	O
+,	O
+who	O
+grunted	O
+and	O
+handed	O
+over	O
+a	O
+coin	O
+from	O
+his	O
+pouch	O
+.	O
+
+# id = conivel-the-colour-of-magic-000116
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then there was a scream from the roadway , cut off abruptly .
+Then	O
+there	O
+was	O
+a	O
+scream	O
+from	O
+the	O
+roadway	O
+,	O
+cut	O
+off	O
+abruptly	O
+.	O
+
+# id = conivel-the-colour-of-magic-000117
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Rincewind did not look up from his chicken .
+Rincewind	B-CHARACTER
+did	O
+not	O
+look	O
+up	O
+from	O
+his	O
+chicken	O
+.	O
+
+# id = conivel-the-colour-of-magic-000118
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` One of the things he ca n't do , he ca n't ride a horse , ''
+``	O
+One	O
+of	O
+the	O
+things	O
+he	O
+ca	O
+n't	O
+do	O
+,	O
+he	O
+ca	O
+n't	O
+ride	O
+a	O
+horse	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000119
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said .
+he	O
+said	O
+.	O
+
+# id = conivel-the-colour-of-magic-000120
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then he stiffened as if sandbagged by a sudden recollection , gave a small yelp of terror and dashed into the gloom .
+Then	O
+he	O
+stiffened	O
+as	O
+if	O
+sandbagged	O
+by	O
+a	O
+sudden	O
+recollection	O
+,	O
+gave	O
+a	O
+small	O
+yelp	O
+of	O
+terror	O
+and	O
+dashed	O
+into	O
+the	O
+gloom	O
+.	O
+
+# id = conivel-the-colour-of-magic-000121
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When he returned , the being called Twoflower was hanging limply over his shoulder .
+When	O
+he	O
+returned	O
+,	O
+the	O
+being	O
+called	O
+Twoflower	B-CHARACTER
+was	O
+hanging	O
+limply	O
+over	O
+his	O
+shoulder	O
+.	O
+
+# id = conivel-the-colour-of-magic-000122
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was small and skinny , and dressed very oddly in a pair of knee length britches and a shirt in such a violent and vivid conflict of colors that Weasel 's fastidious eye was offended even in the half-light .
+It	O
+was	O
+small	O
+and	O
+skinny	O
+,	O
+and	O
+dressed	O
+very	O
+oddly	O
+in	O
+a	O
+pair	O
+of	O
+knee	O
+length	O
+britches	O
+and	O
+a	O
+shirt	O
+in	O
+such	O
+a	O
+violent	O
+and	O
+vivid	O
+conflict	O
+of	O
+colors	O
+that	O
+Weasel	B-CHARACTER
+'s	O
+fastidious	O
+eye	O
+was	O
+offended	O
+even	O
+in	O
+the	O
+half-light	O
+.	O
+
+# id = conivel-the-colour-of-magic-000123
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No bones broken , by the feel of things , ''
+``	O
+No	O
+bones	O
+broken	O
+,	O
+by	O
+the	O
+feel	O
+of	O
+things	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000124
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Rincewind .
+said	O
+Rincewind	B-CHARACTER
+.	O
+
+# id = conivel-the-colour-of-magic-000125
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was breathing heavily .
+He	O
+was	O
+breathing	O
+heavily	O
+.	O
+
+# id = conivel-the-colour-of-magic-000126
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bravd winked at the Weasel and went to investigate the shape that they assumed was a pack animal .
+Bravd	B-CHARACTER
+winked	O
+at	O
+the	O
+Weasel	B-CHARACTER
+and	O
+went	O
+to	O
+investigate	O
+the	O
+shape	O
+that	O
+they	O
+assumed	O
+was	O
+a	O
+pack	O
+animal	O
+.	O
+
+# id = conivel-the-colour-of-magic-000127
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You 'd be wise to forget it , ''
+``	O
+You	O
+'d	O
+be	O
+wise	O
+to	O
+forget	O
+it	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000128
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the wizard , without looking up from his examination of the unconscious Twoflower .
+said	O
+the	O
+wizard	O
+,	O
+without	O
+looking	O
+up	O
+from	O
+his	O
+examination	O
+of	O
+the	O
+unconscious	O
+Twoflower	B-CHARACTER
+.	O
+
+# id = conivel-the-colour-of-magic-000129
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Believe me .
+``	O
+Believe	O
+me	O
+.	O
+
+# id = conivel-the-colour-of-magic-000130
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A power protects it . ''
+A	O
+power	O
+protects	O
+it	O
+.	O
+''	O
+
+# id = conivel-the-colour-of-magic-000131
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` A spell ? ''
+``	O
+A	O
+spell	O
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000132
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Weasel , squatting down .
+said	O
+Weasel	B-CHARACTER
+,	O
+squatting	O
+down	O
+.	O
+
+# id = conivel-the-colour-of-magic-000133
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No-oo .
+``	O
+No-oo	O
+.	O
+
+# id = conivel-the-colour-of-magic-000134
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But magic of a kind , I think .
+But	O
+magic	O
+of	O
+a	O
+kind	O
+,	O
+I	O
+think	O
+.	O
+
+# id = conivel-the-colour-of-magic-000135
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not the usual sort .
+Not	O
+the	O
+usual	O
+sort	O
+.	O
+
+# id = conivel-the-colour-of-magic-000136
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I mean , it can turn gold into copper while at the same time it is still gold , it makes men rich by destroying their possessions , it allows the weak to walk fearlessly among thieves , it passes through the strongest doors to leach the most protected treasuries .
+I	O
+mean	O
+,	O
+it	O
+can	O
+turn	O
+gold	O
+into	O
+copper	O
+while	O
+at	O
+the	O
+same	O
+time	O
+it	O
+is	O
+still	O
+gold	O
+,	O
+it	O
+makes	O
+men	O
+rich	O
+by	O
+destroying	O
+their	O
+possessions	O
+,	O
+it	O
+allows	O
+the	O
+weak	O
+to	O
+walk	O
+fearlessly	O
+among	O
+thieves	O
+,	O
+it	O
+passes	O
+through	O
+the	O
+strongest	O
+doors	O
+to	O
+leach	O
+the	O
+most	O
+protected	O
+treasuries	O
+.	O
+
+# id = conivel-the-colour-of-magic-000137
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Even now it has me enslaved -- so that I must follow this madman willynilly and protect him from harm .
+Even	O
+now	O
+it	O
+has	O
+me	O
+enslaved	O
+--	O
+so	O
+that	O
+I	O
+must	O
+follow	O
+this	O
+madman	O
+willynilly	O
+and	O
+protect	O
+him	O
+from	O
+harm	O
+.	O
+
+# id = conivel-the-colour-of-magic-000138
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's stronger than you , Bravd .
+It	O
+'s	O
+stronger	O
+than	O
+you	O
+,	O
+Bravd	B-CHARACTER
+.	O
+
+# id = conivel-the-colour-of-magic-000139
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It is , I think , more cunning even than you , Weasel . ''
+It	O
+is	O
+,	O
+I	O
+think	O
+,	O
+more	O
+cunning	O
+even	O
+than	O
+you	O
+,	O
+Weasel	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-the-colour-of-magic-000140
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What is it called then , this mighty magic ? ''
+``	O
+What	O
+is	O
+it	O
+called	O
+then	O
+,	O
+this	O
+mighty	O
+magic	O
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000141
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Rincewind shrugged .
+Rincewind	B-CHARACTER
+shrugged	O
+.	O
+
+# id = conivel-the-colour-of-magic-000142
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` In our tongue it is called reflected-sound-as-of-underground-spirits .
+``	O
+In	O
+our	O
+tongue	O
+it	O
+is	O
+called	O
+reflected-sound-as-of-underground-spirits	O
+.	O
+
+# id = conivel-the-colour-of-magic-000143
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Is there any wine ? ''
+Is	O
+there	O
+any	O
+wine	O
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000144
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You must know that I am not without artifice where magic is concerned , ''
+``	O
+You	O
+must	O
+know	O
+that	O
+I	O
+am	O
+not	O
+without	O
+artifice	O
+where	O
+magic	O
+is	O
+concerned	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000145
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Weasel .
+said	O
+Weasel	B-CHARACTER
+.	O
+
+# id = conivel-the-colour-of-magic-000146
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Only last year did I -- assisted by my friend there -- part the notoriously powerful Archmage of Ymitury from his staff , his belt of moon jewels and his life , in that approximate order .
+``	O
+Only	O
+last	O
+year	O
+did	O
+I	O
+--	O
+assisted	O
+by	O
+my	O
+friend	O
+there	O
+--	O
+part	O
+the	O
+notoriously	O
+powerful	O
+Archmage	B-CHARACTER
+of	I-CHARACTER
+Ymitury	I-CHARACTER
+from	O
+his	O
+staff	O
+,	O
+his	O
+belt	O
+of	O
+moon	O
+jewels	O
+and	O
+his	O
+life	O
+,	O
+in	O
+that	O
+approximate	O
+order	O
+.	O
+
+# id = conivel-the-colour-of-magic-000147
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I do not fear this reflected-sound-of-underground-spirits of which you speak .
+I	O
+do	O
+not	O
+fear	O
+this	O
+reflected-sound-of-underground-spirits	O
+of	O
+which	O
+you	O
+speak	O
+.	O
+
+# id = conivel-the-colour-of-magic-000148
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = However , ''
+However	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000149
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he added , `` you engage my interest .
+he	O
+added	O
+,	O
+``	O
+you	O
+engage	O
+my	O
+interest	O
+.	O
+
+# id = conivel-the-colour-of-magic-000150
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Perhaps you would care to tell me more ? ''
+Perhaps	O
+you	O
+would	O
+care	O
+to	O
+tell	O
+me	O
+more	O
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000151
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bravd looked at the shape on the road .
+Bravd	B-CHARACTER
+looked	O
+at	O
+the	O
+shape	O
+on	O
+the	O
+road	O
+.	O
+
+# id = conivel-the-colour-of-magic-000152
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was closer now , and clearer in the pre-dawn light .
+It	O
+was	O
+closer	O
+now	O
+,	O
+and	O
+clearer	O
+in	O
+the	O
+pre-dawn	O
+light	O
+.	O
+
+# id = conivel-the-colour-of-magic-000153
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It looked for all the world like a -- `` A box on legs ? ''
+It	O
+looked	O
+for	O
+all	O
+the	O
+world	O
+like	O
+a	O
+--	O
+``	O
+A	O
+box	O
+on	O
+legs	O
+?	O
+''	O
+
+# id = conivel-the-colour-of-magic-000154
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said .
+he	O
+said	O
+.	O
+
+# id = conivel-the-colour-of-magic-000155
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I 'll tell you about it , ''
+``	O
+I	O
+'ll	O
+tell	O
+you	O
+about	O
+it	O
+,	O
+''	O
+
+# id = conivel-the-colour-of-magic-000156
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Rincewind .
+said	O
+Rincewind	B-CHARACTER
+.	O
+
+# id = conivel-the-colour-of-magic-000157
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` If there 's any wine , that is . ''
+``	O
+If	O
+there	O
+'s	O
+any	O
+wine	O
+,	O
+that	O
+is	O
+.	O
+''	O
+
+# id = conivel-the-colour-of-magic-000158
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Down in the valley there was a roar and a hiss .
+Down	O
+in	O
+the	O
+valley	O
+there	O
+was	O
+a	O
+roar	O
+and	O
+a	O
+hiss	O
+.	O
+
+# id = conivel-the-colour-of-magic-000159
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Someone more thoughtful than the rest had ordered to be shut the big river gates that were at the point where the Ankh flowed out of the twin city .
+Someone	O
+more	O
+thoughtful	O
+than	O
+the	O
+rest	O
+had	O
+ordered	O
+to	O
+be	O
+shut	O
+the	O
+big	O
+river	O
+gates	O
+that	O
+were	O
+at	O
+the	O
+point	O
+where	O
+the	O
+Ankh	B-LOCATION
+flowed	O
+out	O
+of	O
+the	O
+twin	O
+city	O
+.	O
+
+# id = conivel-the-colour-of-magic-000160
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Denied its usual egress , the river had burst its banks and was pouring down the fire-ravaged streets .
+Denied	O
+its	O
+usual	O
+egress	O
+,	O
+the	O
+river	O
+had	O
+burst	O
+its	O
+banks	O
+and	O
+was	O
+pouring	O
+down	O
+the	O
+fire-ravaged	O
+streets	O
+.	O
+
+# id = conivel-the-colour-of-magic-000161
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Soon the continent of flame became a series of islands , each one growing smaller as the dark tide rose .
+Soon	O
+the	O
+continent	O
+of	O
+flame	O
+became	O
+a	O
+series	O
+of	O
+islands	O
+,	O
+each	O
+one	O
+growing	O
+smaller	O
+as	O
+the	O
+dark	O
+tide	O
+rose	O
+.	O
+
+# id = conivel-the-colour-of-magic-000162
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And up from the city of fumes and smoke rose a broiling cloud of steam , covering the stars .
+And	O
+up	O
+from	O
+the	O
+city	O
+of	O
+fumes	O
+and	O
+smoke	O
+rose	O
+a	O
+broiling	O
+cloud	O
+of	O
+steam	O
+,	O
+covering	O
+the	O
+stars	O
+.	O
+
+# id = conivel-the-colour-of-magic-000163
+# source = Conivel corrected OWTO literary NER
+# book = The Colour of Magic
+# source_file = TheColourOfMagic.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Weasel thought that it looked like some dark fungus or mushroom .
+Weasel	B-CHARACTER
+thought	O
+that	O
+it	O
+looked	O
+like	O
+some	O
+dark	O
+fungus	O
+or	O
+mushroom	O
+.	O
+

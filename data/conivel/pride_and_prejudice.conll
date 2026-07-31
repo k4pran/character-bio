@@ -1,0 +1,7448 @@
+# id = conivel-pride-and-prejudice-000001
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` My dear Mr. Bennet , ''
+``	O
+My	O
+dear	O
+Mr.	B-CHARACTER
+Bennet	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000002
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said his lady to him one day , `` have you heard that Netherfield Park is let at last ? ''
+said	O
+his	O
+lady	O
+to	O
+him	O
+one	O
+day	O
+,	O
+``	O
+have	O
+you	O
+heard	O
+that	O
+Netherfield	B-LOCATION
+Park	I-LOCATION
+is	O
+let	O
+at	O
+last	O
+?	O
+''	O
+
+# id = conivel-pride-and-prejudice-000003
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But it is , ''
+``	O
+But	O
+it	O
+is	O
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000004
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = returned she ; `` for Mrs. Long has just been here , and she told me all about it . ''
+returned	O
+she	O
+;	O
+``	O
+for	O
+Mrs.	B-CHARACTER
+Long	I-CHARACTER
+has	O
+just	O
+been	O
+here	O
+,	O
+and	O
+she	O
+told	O
+me	O
+all	O
+about	O
+it	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000005
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do you not want to know who has taken it ? ''
+``	O
+Do	O
+you	O
+not	O
+want	O
+to	O
+know	O
+who	O
+has	O
+taken	O
+it	O
+?	O
+''	O
+
+# id = conivel-pride-and-prejudice-000006
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried his wife impatiently .
+cried	O
+his	O
+wife	O
+impatiently	O
+.	O
+
+# id = conivel-pride-and-prejudice-000007
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` _ You _ want to tell me , and I have no objection to hearing it . ''
+``	O
+_	O
+You	O
+_	O
+want	O
+to	O
+tell	O
+me	O
+,	O
+and	O
+I	O
+have	O
+no	O
+objection	O
+to	O
+hearing	O
+it	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000008
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This was invitation enough .
+This	O
+was	O
+invitation	O
+enough	O
+.	O
+
+# id = conivel-pride-and-prejudice-000009
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Why , my dear , you must know , Mrs. Long says that Netherfield is taken by a young man of large fortune from the north of England ; that he came down on Monday in a chaise and four to see the place , and was so much delighted with it , that he agreed with Mr. Morris immediately ; that he is to take possession before Michaelmas , and some of his servants are to be in the house by the end of next week . ''
+``	O
+Why	O
+,	O
+my	O
+dear	O
+,	O
+you	O
+must	O
+know	O
+,	O
+Mrs.	B-CHARACTER
+Long	I-CHARACTER
+says	O
+that	O
+Netherfield	B-LOCATION
+is	O
+taken	O
+by	O
+a	O
+young	O
+man	O
+of	O
+large	O
+fortune	O
+from	O
+the	O
+north	O
+of	O
+England	B-LOCATION
+;	O
+that	O
+he	O
+came	O
+down	O
+on	O
+Monday	O
+in	O
+a	O
+chaise	O
+and	O
+four	O
+to	O
+see	O
+the	O
+place	O
+,	O
+and	O
+was	O
+so	O
+much	O
+delighted	O
+with	O
+it	O
+,	O
+that	O
+he	O
+agreed	O
+with	O
+Mr.	B-CHARACTER
+Morris	I-CHARACTER
+immediately	O
+;	O
+that	O
+he	O
+is	O
+to	O
+take	O
+possession	O
+before	O
+Michaelmas	O
+,	O
+and	O
+some	O
+of	O
+his	O
+servants	O
+are	O
+to	O
+be	O
+in	O
+the	O
+house	O
+by	O
+the	O
+end	O
+of	O
+next	O
+week	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000010
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What is his name ? ''
+``	O
+What	O
+is	O
+his	O
+name	O
+?	O
+''	O
+
+# id = conivel-pride-and-prejudice-000011
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Bingley . ''
+``	O
+Bingley	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000012
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Is he married or single ? ''
+``	O
+Is	O
+he	O
+married	O
+or	O
+single	O
+?	O
+''	O
+
+# id = conivel-pride-and-prejudice-000013
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Oh !
+``	O
+Oh	O
+!	O
+
+# id = conivel-pride-and-prejudice-000014
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Single , my dear , to be sure !
+Single	O
+,	O
+my	O
+dear	O
+,	O
+to	O
+be	O
+sure	O
+!	O
+
+# id = conivel-pride-and-prejudice-000015
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A single man of large fortune ; four or five thousand a year .
+A	O
+single	O
+man	O
+of	O
+large	O
+fortune	O
+;	O
+four	O
+or	O
+five	O
+thousand	O
+a	O
+year	O
+.	O
+
+# id = conivel-pride-and-prejudice-000016
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What a fine thing for our girls ! ''
+What	O
+a	O
+fine	O
+thing	O
+for	O
+our	O
+girls	O
+!	O
+''	O
+
+# id = conivel-pride-and-prejudice-000017
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How so ?
+``	O
+How	O
+so	O
+?	O
+
+# id = conivel-pride-and-prejudice-000018
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = How can it affect them ? ''
+How	O
+can	O
+it	O
+affect	O
+them	O
+?	O
+''	O
+
+# id = conivel-pride-and-prejudice-000019
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` My dear Mr. Bennet , ''
+``	O
+My	O
+dear	O
+Mr.	B-CHARACTER
+Bennet	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000020
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = replied his wife , `` how can you be so tiresome !
+replied	O
+his	O
+wife	O
+,	O
+``	O
+how	O
+can	O
+you	O
+be	O
+so	O
+tiresome	O
+!	O
+
+# id = conivel-pride-and-prejudice-000021
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You must know that I am thinking of his marrying one of them . ''
+You	O
+must	O
+know	O
+that	O
+I	O
+am	O
+thinking	O
+of	O
+his	O
+marrying	O
+one	O
+of	O
+them	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000022
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Is that his design in settling here ? ''
+``	O
+Is	O
+that	O
+his	O
+design	O
+in	O
+settling	O
+here	O
+?	O
+''	O
+
+# id = conivel-pride-and-prejudice-000023
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Design !
+``	O
+Design	O
+!	O
+
+# id = conivel-pride-and-prejudice-000024
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nonsense , how can you talk so !
+Nonsense	O
+,	O
+how	O
+can	O
+you	O
+talk	O
+so	O
+!	O
+
+# id = conivel-pride-and-prejudice-000025
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But it is very likely that he _ may _ fall in love with one of them , and therefore you must visit him as soon as he comes . ''
+But	O
+it	O
+is	O
+very	O
+likely	O
+that	O
+he	O
+_	O
+may	O
+_	O
+fall	O
+in	O
+love	O
+with	O
+one	O
+of	O
+them	O
+,	O
+and	O
+therefore	O
+you	O
+must	O
+visit	O
+him	O
+as	O
+soon	O
+as	O
+he	O
+comes	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000026
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I see no occasion for that .
+``	O
+I	O
+see	O
+no	O
+occasion	O
+for	O
+that	O
+.	O
+
+# id = conivel-pride-and-prejudice-000027
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You and the girls may go , or you may send them by themselves , which perhaps will be still better , for as you are as handsome as any of them , Mr. Bingley may like you the best of the party . ''
+You	O
+and	O
+the	O
+girls	O
+may	O
+go	O
+,	O
+or	O
+you	O
+may	O
+send	O
+them	O
+by	O
+themselves	O
+,	O
+which	O
+perhaps	O
+will	O
+be	O
+still	O
+better	O
+,	O
+for	O
+as	O
+you	O
+are	O
+as	O
+handsome	O
+as	O
+any	O
+of	O
+them	O
+,	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+may	O
+like	O
+you	O
+the	O
+best	O
+of	O
+the	O
+party	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000028
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` My dear , you flatter me .
+``	O
+My	O
+dear	O
+,	O
+you	O
+flatter	O
+me	O
+.	O
+
+# id = conivel-pride-and-prejudice-000029
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I certainly _ have _ had my share of beauty , but I do not pretend to be anything extraordinary now .
+I	O
+certainly	O
+_	O
+have	O
+_	O
+had	O
+my	O
+share	O
+of	O
+beauty	O
+,	O
+but	O
+I	O
+do	O
+not	O
+pretend	O
+to	O
+be	O
+anything	O
+extraordinary	O
+now	O
+.	O
+
+# id = conivel-pride-and-prejudice-000030
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When a woman has five grown-up daughters , she ought to give over thinking of her own beauty . ''
+When	O
+a	O
+woman	O
+has	O
+five	O
+grown-up	O
+daughters	O
+,	O
+she	O
+ought	O
+to	O
+give	O
+over	O
+thinking	O
+of	O
+her	O
+own	O
+beauty	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000031
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` In such cases , a woman has not often much beauty to think of . ''
+``	O
+In	O
+such	O
+cases	O
+,	O
+a	O
+woman	O
+has	O
+not	O
+often	O
+much	O
+beauty	O
+to	O
+think	O
+of	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000032
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But , my dear , you must indeed go and see Mr. Bingley when he comes into the neighbourhood . ''
+``	O
+But	O
+,	O
+my	O
+dear	O
+,	O
+you	O
+must	O
+indeed	O
+go	O
+and	O
+see	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+when	O
+he	O
+comes	O
+into	O
+the	O
+neighbourhood	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000033
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It is more than I engage for , I assure you . ''
+``	O
+It	O
+is	O
+more	O
+than	O
+I	O
+engage	O
+for	O
+,	O
+I	O
+assure	O
+you	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000034
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But consider your daughters .
+``	O
+But	O
+consider	O
+your	O
+daughters	O
+.	O
+
+# id = conivel-pride-and-prejudice-000035
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Only think what an establishment it would be for one of them .
+Only	O
+think	O
+what	O
+an	O
+establishment	O
+it	O
+would	O
+be	O
+for	O
+one	O
+of	O
+them	O
+.	O
+
+# id = conivel-pride-and-prejudice-000036
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Indeed you must go , for it will be impossible for _ us _ to visit him if you do not . ''
+Indeed	O
+you	O
+must	O
+go	O
+,	O
+for	O
+it	O
+will	O
+be	O
+impossible	O
+for	O
+_	O
+us	O
+_	O
+to	O
+visit	O
+him	O
+if	O
+you	O
+do	O
+not	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000037
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You are over-scrupulous , surely .
+``	O
+You	O
+are	O
+over-scrupulous	O
+,	O
+surely	O
+.	O
+
+# id = conivel-pride-and-prejudice-000038
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I dare say Mr. Bingley will be very glad to see you ; and I will send a few lines by you to assure him of my hearty consent to his marrying whichever he chooses of the girls ; though I must throw in a good word for my little Lizzy . ''
+I	O
+dare	O
+say	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+will	O
+be	O
+very	O
+glad	O
+to	O
+see	O
+you	O
+;	O
+and	O
+I	O
+will	O
+send	O
+a	O
+few	O
+lines	O
+by	O
+you	O
+to	O
+assure	O
+him	O
+of	O
+my	O
+hearty	O
+consent	O
+to	O
+his	O
+marrying	O
+whichever	O
+he	O
+chooses	O
+of	O
+the	O
+girls	O
+;	O
+though	O
+I	O
+must	O
+throw	O
+in	O
+a	O
+good	O
+word	O
+for	O
+my	O
+little	O
+Lizzy	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000039
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I desire you will do no such thing .
+``	O
+I	O
+desire	O
+you	O
+will	O
+do	O
+no	O
+such	O
+thing	O
+.	O
+
+# id = conivel-pride-and-prejudice-000040
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But you are always giving _ her _ the preference . ''
+But	O
+you	O
+are	O
+always	O
+giving	O
+_	O
+her	O
+_	O
+the	O
+preference	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000041
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They have none of them much to recommend them , ''
+``	O
+They	O
+have	O
+none	O
+of	O
+them	O
+much	O
+to	O
+recommend	O
+them	O
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000042
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = replied he ; `` they are all silly and ignorant like other girls ; but Lizzy has something more of quickness than her sisters . ''
+replied	O
+he	O
+;	O
+``	O
+they	O
+are	O
+all	O
+silly	O
+and	O
+ignorant	O
+like	O
+other	O
+girls	O
+;	O
+but	O
+Lizzy	B-CHARACTER
+has	O
+something	O
+more	O
+of	O
+quickness	O
+than	O
+her	O
+sisters	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000043
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Mr. Bennet , how _ can _ you abuse your own children in such a way ?
+``	O
+Mr.	B-CHARACTER
+Bennet	I-CHARACTER
+,	O
+how	O
+_	O
+can	O
+_	O
+you	O
+abuse	O
+your	O
+own	O
+children	O
+in	O
+such	O
+a	O
+way	O
+?	O
+
+# id = conivel-pride-and-prejudice-000044
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You take delight in vexing me .
+You	O
+take	O
+delight	O
+in	O
+vexing	O
+me	O
+.	O
+
+# id = conivel-pride-and-prejudice-000045
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You have no compassion for my poor nerves . ''
+You	O
+have	O
+no	O
+compassion	O
+for	O
+my	O
+poor	O
+nerves	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000046
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You mistake me , my dear .
+``	O
+You	O
+mistake	O
+me	O
+,	O
+my	O
+dear	O
+.	O
+
+# id = conivel-pride-and-prejudice-000047
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I have a high respect for your nerves .
+I	O
+have	O
+a	O
+high	O
+respect	O
+for	O
+your	O
+nerves	O
+.	O
+
+# id = conivel-pride-and-prejudice-000048
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They are my old friends .
+They	O
+are	O
+my	O
+old	O
+friends	O
+.	O
+
+# id = conivel-pride-and-prejudice-000049
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I have heard you mention them with consideration these last twenty years at least . ''
+I	O
+have	O
+heard	O
+you	O
+mention	O
+them	O
+with	O
+consideration	O
+these	O
+last	O
+twenty	O
+years	O
+at	O
+least	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000050
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ah , you do not know what I suffer . ''
+``	O
+Ah	O
+,	O
+you	O
+do	O
+not	O
+know	O
+what	O
+I	O
+suffer	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000051
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But I hope you will get over it , and live to see many young men of four thousand a year come into the neighbourhood . ''
+``	O
+But	O
+I	O
+hope	O
+you	O
+will	O
+get	O
+over	O
+it	O
+,	O
+and	O
+live	O
+to	O
+see	O
+many	O
+young	O
+men	O
+of	O
+four	O
+thousand	O
+a	O
+year	O
+come	O
+into	O
+the	O
+neighbourhood	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000052
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It will be no use to us , if twenty such should come , since you will not visit them . ''
+``	O
+It	O
+will	O
+be	O
+no	O
+use	O
+to	O
+us	O
+,	O
+if	O
+twenty	O
+such	O
+should	O
+come	O
+,	O
+since	O
+you	O
+will	O
+not	O
+visit	O
+them	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000053
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Depend upon it , my dear , that when there are twenty , I will visit them all . ''
+``	O
+Depend	O
+upon	O
+it	O
+,	O
+my	O
+dear	O
+,	O
+that	O
+when	O
+there	O
+are	O
+twenty	O
+,	O
+I	O
+will	O
+visit	O
+them	O
+all	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000054
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = _ Her _ mind was less difficult to develop .
+_	O
+Her	O
+_	O
+mind	O
+was	O
+less	O
+difficult	O
+to	O
+develop	O
+.	O
+
+# id = conivel-pride-and-prejudice-000055
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She was a woman of mean understanding , little information , and uncertain temper .
+She	O
+was	O
+a	O
+woman	O
+of	O
+mean	O
+understanding	O
+,	O
+little	O
+information	O
+,	O
+and	O
+uncertain	O
+temper	O
+.	O
+
+# id = conivel-pride-and-prejudice-000056
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = When she was discontented , she fancied herself nervous .
+When	O
+she	O
+was	O
+discontented	O
+,	O
+she	O
+fancied	O
+herself	O
+nervous	O
+.	O
+
+# id = conivel-pride-and-prejudice-000057
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The business of her life was to get her daughters married ; its solace was visiting and news .
+The	O
+business	O
+of	O
+her	O
+life	O
+was	O
+to	O
+get	O
+her	O
+daughters	O
+married	O
+;	O
+its	O
+solace	O
+was	O
+visiting	O
+and	O
+news	O
+.	O
+
+# id = conivel-pride-and-prejudice-000058
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had always intended to visit him , though to the last always assuring his wife that he should not go ; and till the evening after the visit was paid she had no knowledge of it .
+He	O
+had	O
+always	O
+intended	O
+to	O
+visit	O
+him	O
+,	O
+though	O
+to	O
+the	O
+last	O
+always	O
+assuring	O
+his	O
+wife	O
+that	O
+he	O
+should	O
+not	O
+go	O
+;	O
+and	O
+till	O
+the	O
+evening	O
+after	O
+the	O
+visit	O
+was	O
+paid	O
+she	O
+had	O
+no	O
+knowledge	O
+of	O
+it	O
+.	O
+
+# id = conivel-pride-and-prejudice-000059
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was then disclosed in the following manner .
+It	O
+was	O
+then	O
+disclosed	O
+in	O
+the	O
+following	O
+manner	O
+.	O
+
+# id = conivel-pride-and-prejudice-000060
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Observing his second daughter employed in trimming a hat , he suddenly addressed her with : `` I hope Mr. Bingley will like it , Lizzy . ''
+Observing	O
+his	O
+second	O
+daughter	O
+employed	O
+in	O
+trimming	O
+a	O
+hat	O
+,	O
+he	O
+suddenly	O
+addressed	O
+her	O
+with	O
+:	O
+``	O
+I	O
+hope	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+will	O
+like	O
+it	O
+,	O
+Lizzy	B-CHARACTER
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000061
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We are not in a way to know _ what _ Mr. Bingley likes , ''
+``	O
+We	O
+are	O
+not	O
+in	O
+a	O
+way	O
+to	O
+know	O
+_	O
+what	O
+_	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+likes	O
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000062
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said her mother resentfully , `` since we are not to visit . ''
+said	O
+her	O
+mother	O
+resentfully	O
+,	O
+``	O
+since	O
+we	O
+are	O
+not	O
+to	O
+visit	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000063
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But you forget , mamma , ''
+``	O
+But	O
+you	O
+forget	O
+,	O
+mamma	O
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000064
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Elizabeth , `` that we shall meet him at the assemblies , and that Mrs. Long promised to introduce him . ''
+said	O
+Elizabeth	B-CHARACTER
+,	O
+``	O
+that	O
+we	O
+shall	O
+meet	O
+him	O
+at	O
+the	O
+assemblies	O
+,	O
+and	O
+that	O
+Mrs.	B-CHARACTER
+Long	I-CHARACTER
+promised	O
+to	O
+introduce	O
+him	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000065
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do not believe Mrs. Long will do any such thing .
+``	O
+I	O
+do	O
+not	O
+believe	O
+Mrs.	B-CHARACTER
+Long	I-CHARACTER
+will	O
+do	O
+any	O
+such	O
+thing	O
+.	O
+
+# id = conivel-pride-and-prejudice-000066
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She has two nieces of her own .
+She	O
+has	O
+two	O
+nieces	O
+of	O
+her	O
+own	O
+.	O
+
+# id = conivel-pride-and-prejudice-000067
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She is a selfish , hypocritical woman , and I have no opinion of her . ''
+She	O
+is	O
+a	O
+selfish	O
+,	O
+hypocritical	O
+woman	O
+,	O
+and	O
+I	O
+have	O
+no	O
+opinion	O
+of	O
+her	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000068
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No more have I , ''
+``	O
+No	O
+more	O
+have	O
+I	O
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000069
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Bennet ; `` and I am glad to find that you do not depend on her serving you . ''
+said	O
+Mr.	B-CHARACTER
+Bennet	I-CHARACTER
+;	O
+``	O
+and	O
+I	O
+am	O
+glad	O
+to	O
+find	O
+that	O
+you	O
+do	O
+not	O
+depend	O
+on	O
+her	O
+serving	O
+you	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000070
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do n't keep coughing so , Kitty , for Heaven 's sake !
+``	O
+Do	O
+n't	O
+keep	O
+coughing	O
+so	O
+,	O
+Kitty	B-CHARACTER
+,	O
+for	O
+Heaven	O
+'s	O
+sake	O
+!	O
+
+# id = conivel-pride-and-prejudice-000071
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Have a little compassion on my nerves .
+Have	O
+a	O
+little	O
+compassion	O
+on	O
+my	O
+nerves	O
+.	O
+
+# id = conivel-pride-and-prejudice-000072
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You tear them to pieces . ''
+You	O
+tear	O
+them	O
+to	O
+pieces	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000073
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Kitty has no discretion in her coughs , ''
+``	O
+Kitty	B-CHARACTER
+has	O
+no	O
+discretion	O
+in	O
+her	O
+coughs	O
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000074
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said her father ; `` she times them ill . ''
+said	O
+her	O
+father	O
+;	O
+``	O
+she	O
+times	O
+them	O
+ill	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000075
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do not cough for my own amusement , ''
+``	O
+I	O
+do	O
+not	O
+cough	O
+for	O
+my	O
+own	O
+amusement	O
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000076
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = replied Kitty fretfully .
+replied	O
+Kitty	B-CHARACTER
+fretfully	O
+.	O
+
+# id = conivel-pride-and-prejudice-000077
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` When is your next ball to be , Lizzy ? ''
+``	O
+When	O
+is	O
+your	O
+next	O
+ball	O
+to	O
+be	O
+,	O
+Lizzy	B-CHARACTER
+?	O
+''	O
+
+# id = conivel-pride-and-prejudice-000078
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` To-morrow fortnight . ''
+``	O
+To-morrow	O
+fortnight	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000079
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Aye , so it is , ''
+``	O
+Aye	O
+,	O
+so	O
+it	O
+is	O
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000080
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried her mother , `` and Mrs. Long does not come back till the day before ; so it will be impossible for her to introduce him , for she will not know him herself . ''
+cried	O
+her	O
+mother	O
+,	O
+``	O
+and	O
+Mrs.	B-CHARACTER
+Long	I-CHARACTER
+does	O
+not	O
+come	O
+back	O
+till	O
+the	O
+day	O
+before	O
+;	O
+so	O
+it	O
+will	O
+be	O
+impossible	O
+for	O
+her	O
+to	O
+introduce	O
+him	O
+,	O
+for	O
+she	O
+will	O
+not	O
+know	O
+him	O
+herself	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000081
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Then , my dear , you may have the advantage of your friend , and introduce Mr. Bingley to _ her _ . ''
+``	O
+Then	O
+,	O
+my	O
+dear	O
+,	O
+you	O
+may	O
+have	O
+the	O
+advantage	O
+of	O
+your	O
+friend	O
+,	O
+and	O
+introduce	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+to	O
+_	O
+her	O
+_	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000082
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Impossible , Mr. Bennet , impossible , when I am not acquainted with him myself ; how can you be so teasing ? ''
+``	O
+Impossible	O
+,	O
+Mr.	B-CHARACTER
+Bennet	I-CHARACTER
+,	O
+impossible	O
+,	O
+when	O
+I	O
+am	O
+not	O
+acquainted	O
+with	O
+him	O
+myself	O
+;	O
+how	O
+can	O
+you	O
+be	O
+so	O
+teasing	O
+?	O
+''	O
+
+# id = conivel-pride-and-prejudice-000083
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I honour your circumspection .
+``	O
+I	O
+honour	O
+your	O
+circumspection	O
+.	O
+
+# id = conivel-pride-and-prejudice-000084
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A fortnight 's acquaintance is certainly very little .
+A	O
+fortnight	O
+'s	O
+acquaintance	O
+is	O
+certainly	O
+very	O
+little	O
+.	O
+
+# id = conivel-pride-and-prejudice-000085
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One can not know what a man really is by the end of a fortnight .
+One	O
+can	O
+not	O
+know	O
+what	O
+a	O
+man	O
+really	O
+is	O
+by	O
+the	O
+end	O
+of	O
+a	O
+fortnight	O
+.	O
+
+# id = conivel-pride-and-prejudice-000086
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But if _ we _ do not venture somebody else will ; and after all , Mrs. Long and her neices must stand their chance ; and , therefore , as she will think it an act of kindness , if you decline the office , I will take it on myself . ''
+But	O
+if	O
+_	O
+we	O
+_	O
+do	O
+not	O
+venture	O
+somebody	O
+else	O
+will	O
+;	O
+and	O
+after	O
+all	O
+,	O
+Mrs.	B-CHARACTER
+Long	I-CHARACTER
+and	O
+her	O
+neices	O
+must	O
+stand	O
+their	O
+chance	O
+;	O
+and	O
+,	O
+therefore	O
+,	O
+as	O
+she	O
+will	O
+think	O
+it	O
+an	O
+act	O
+of	O
+kindness	O
+,	O
+if	O
+you	O
+decline	O
+the	O
+office	O
+,	O
+I	O
+will	O
+take	O
+it	O
+on	O
+myself	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000087
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The girls stared at their father .
+The	O
+girls	O
+stared	O
+at	O
+their	O
+father	O
+.	O
+
+# id = conivel-pride-and-prejudice-000088
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mrs. Bennet said only , `` Nonsense , nonsense ! ''
+Mrs.	B-CHARACTER
+Bennet	I-CHARACTER
+said	O
+only	O
+,	O
+``	O
+Nonsense	O
+,	O
+nonsense	O
+!	O
+''	O
+
+# id = conivel-pride-and-prejudice-000089
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What can be the meaning of that emphatic exclamation ? ''
+``	O
+What	O
+can	O
+be	O
+the	O
+meaning	O
+of	O
+that	O
+emphatic	O
+exclamation	O
+?	O
+''	O
+
+# id = conivel-pride-and-prejudice-000090
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried he .
+cried	O
+he	O
+.	O
+
+# id = conivel-pride-and-prejudice-000091
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Do you consider the forms of introduction , and the stress that is laid on them , as nonsense ?
+``	O
+Do	O
+you	O
+consider	O
+the	O
+forms	O
+of	O
+introduction	O
+,	O
+and	O
+the	O
+stress	O
+that	O
+is	O
+laid	O
+on	O
+them	O
+,	O
+as	O
+nonsense	O
+?	O
+
+# id = conivel-pride-and-prejudice-000092
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I can not quite agree with you _ there _ .
+I	O
+can	O
+not	O
+quite	O
+agree	O
+with	O
+you	O
+_	O
+there	O
+_	O
+.	O
+
+# id = conivel-pride-and-prejudice-000093
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For you are a young lady of deep reflection , I know , and read great books and make extracts . ''
+For	O
+you	O
+are	O
+a	O
+young	O
+lady	O
+of	O
+deep	O
+reflection	O
+,	O
+I	O
+know	O
+,	O
+and	O
+read	O
+great	O
+books	O
+and	O
+make	O
+extracts	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000094
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` While Mary is adjusting her ideas , ''
+``	O
+While	O
+Mary	B-CHARACTER
+is	O
+adjusting	O
+her	O
+ideas	O
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000095
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he continued , `` let us return to Mr. Bingley . ''
+he	O
+continued	O
+,	O
+``	O
+let	O
+us	O
+return	O
+to	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000096
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I am sick of Mr. Bingley , ''
+``	O
+I	O
+am	O
+sick	O
+of	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000097
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried his wife .
+cried	O
+his	O
+wife	O
+.	O
+
+# id = conivel-pride-and-prejudice-000098
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I am sorry to hear _ that _ ; but why did not you tell me that before ?
+``	O
+I	O
+am	O
+sorry	O
+to	O
+hear	O
+_	O
+that	O
+_	O
+;	O
+but	O
+why	O
+did	O
+not	O
+you	O
+tell	O
+me	O
+that	O
+before	O
+?	O
+
+# id = conivel-pride-and-prejudice-000099
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If I had known as much this morning I certainly would not have called on him .
+If	O
+I	O
+had	O
+known	O
+as	O
+much	O
+this	O
+morning	O
+I	O
+certainly	O
+would	O
+not	O
+have	O
+called	O
+on	O
+him	O
+.	O
+
+# id = conivel-pride-and-prejudice-000100
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It is very unlucky ; but as I have actually paid the visit , we can not escape the acquaintance now . ''
+It	O
+is	O
+very	O
+unlucky	O
+;	O
+but	O
+as	O
+I	O
+have	O
+actually	O
+paid	O
+the	O
+visit	O
+,	O
+we	O
+can	O
+not	O
+escape	O
+the	O
+acquaintance	O
+now	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000101
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` How good it was in you , my dear Mr. Bennet !
+``	O
+How	O
+good	O
+it	O
+was	O
+in	O
+you	O
+,	O
+my	O
+dear	O
+Mr.	B-CHARACTER
+Bennet	I-CHARACTER
+!	O
+
+# id = conivel-pride-and-prejudice-000102
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But I knew I should persuade you at last .
+But	O
+I	O
+knew	O
+I	O
+should	O
+persuade	O
+you	O
+at	O
+last	O
+.	O
+
+# id = conivel-pride-and-prejudice-000103
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was sure you loved your girls too well to neglect such an acquaintance .
+I	O
+was	O
+sure	O
+you	O
+loved	O
+your	O
+girls	O
+too	O
+well	O
+to	O
+neglect	O
+such	O
+an	O
+acquaintance	O
+.	O
+
+# id = conivel-pride-and-prejudice-000104
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , how pleased I am !
+Well	O
+,	O
+how	O
+pleased	O
+I	O
+am	O
+!	O
+
+# id = conivel-pride-and-prejudice-000105
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = and it is such a good joke , too , that you should have gone this morning and never said a word about it till now . ''
+and	O
+it	O
+is	O
+such	O
+a	O
+good	O
+joke	O
+,	O
+too	O
+,	O
+that	O
+you	O
+should	O
+have	O
+gone	O
+this	O
+morning	O
+and	O
+never	O
+said	O
+a	O
+word	O
+about	O
+it	O
+till	O
+now	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000106
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Now , Kitty , you may cough as much as you choose , ''
+``	O
+Now	O
+,	O
+Kitty	B-CHARACTER
+,	O
+you	O
+may	O
+cough	O
+as	O
+much	O
+as	O
+you	O
+choose	O
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000107
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Bennet ; and , as he spoke , he left the room , fatigued with the raptures of his wife .
+said	O
+Mr.	B-CHARACTER
+Bennet	I-CHARACTER
+;	O
+and	O
+,	O
+as	O
+he	O
+spoke	O
+,	O
+he	O
+left	O
+the	O
+room	O
+,	O
+fatigued	O
+with	O
+the	O
+raptures	O
+of	O
+his	O
+wife	O
+.	O
+
+# id = conivel-pride-and-prejudice-000108
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What an excellent father you have , girls ! ''
+``	O
+What	O
+an	O
+excellent	O
+father	O
+you	O
+have	O
+,	O
+girls	O
+!	O
+''	O
+
+# id = conivel-pride-and-prejudice-000109
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said she , when the door was shut .
+said	O
+she	O
+,	O
+when	O
+the	O
+door	O
+was	O
+shut	O
+.	O
+
+# id = conivel-pride-and-prejudice-000110
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I do not know how you will ever make him amends for his kindness ; or me , either , for that matter .
+``	O
+I	O
+do	O
+not	O
+know	O
+how	O
+you	O
+will	O
+ever	O
+make	O
+him	O
+amends	O
+for	O
+his	O
+kindness	O
+;	O
+or	O
+me	O
+,	O
+either	O
+,	O
+for	O
+that	O
+matter	O
+.	O
+
+# id = conivel-pride-and-prejudice-000111
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At our time of life it is not so pleasant , I can tell you , to be making new acquaintances every day ; but for your sakes , we would do anything .
+At	O
+our	O
+time	O
+of	O
+life	O
+it	O
+is	O
+not	O
+so	O
+pleasant	O
+,	O
+I	O
+can	O
+tell	O
+you	O
+,	O
+to	O
+be	O
+making	O
+new	O
+acquaintances	O
+every	O
+day	O
+;	O
+but	O
+for	O
+your	O
+sakes	O
+,	O
+we	O
+would	O
+do	O
+anything	O
+.	O
+
+# id = conivel-pride-and-prejudice-000112
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Lydia , my love , though you _ are _ the youngest , I dare say Mr. Bingley will dance with you at the next ball . ''
+Lydia	B-CHARACTER
+,	O
+my	O
+love	O
+,	O
+though	O
+you	O
+_	O
+are	O
+_	O
+the	O
+youngest	O
+,	O
+I	O
+dare	O
+say	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+will	O
+dance	O
+with	O
+you	O
+at	O
+the	O
+next	O
+ball	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000113
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Oh ! ''
+``	O
+Oh	O
+!	O
+''	O
+
+# id = conivel-pride-and-prejudice-000114
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Lydia stoutly , `` I am not afraid ; for though I _ am _ the youngest , I 'm the tallest . ''
+said	O
+Lydia	B-CHARACTER
+stoutly	O
+,	O
+``	O
+I	O
+am	O
+not	O
+afraid	O
+;	O
+for	O
+though	O
+I	O
+_	O
+am	O
+_	O
+the	O
+youngest	O
+,	O
+I	O
+'m	O
+the	O
+tallest	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000115
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The rest of the evening was spent in conjecturing how soon he would return Mr. Bennet 's visit , and determining when they should ask him to dinner .
+The	O
+rest	O
+of	O
+the	O
+evening	O
+was	O
+spent	O
+in	O
+conjecturing	O
+how	O
+soon	O
+he	O
+would	O
+return	O
+Mr.	B-CHARACTER
+Bennet	I-CHARACTER
+'s	O
+visit	O
+,	O
+and	O
+determining	O
+when	O
+they	O
+should	O
+ask	O
+him	O
+to	O
+dinner	O
+.	O
+
+# id = conivel-pride-and-prejudice-000116
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Chapter 3 Not all that Mrs. Bennet , however , with the assistance of her five daughters , could ask on the subject , was sufficient to draw from her husband any satisfactory description of Mr. Bingley .
+Chapter	O
+3	O
+Not	O
+all	O
+that	O
+Mrs.	B-CHARACTER
+Bennet	I-CHARACTER
+,	O
+however	O
+,	O
+with	O
+the	O
+assistance	O
+of	O
+her	O
+five	O
+daughters	O
+,	O
+could	O
+ask	O
+on	O
+the	O
+subject	O
+,	O
+was	O
+sufficient	O
+to	O
+draw	O
+from	O
+her	O
+husband	O
+any	O
+satisfactory	O
+description	O
+of	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+.	O
+
+# id = conivel-pride-and-prejudice-000117
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They attacked him in various ways -- with barefaced questions , ingenious suppositions , and distant surmises ; but he eluded the skill of them all , and they were at last obliged to accept the second-hand intelligence of their neighbour , Lady Lucas .
+They	O
+attacked	O
+him	O
+in	O
+various	O
+ways	O
+--	O
+with	O
+barefaced	O
+questions	O
+,	O
+ingenious	O
+suppositions	O
+,	O
+and	O
+distant	O
+surmises	O
+;	O
+but	O
+he	O
+eluded	O
+the	O
+skill	O
+of	O
+them	O
+all	O
+,	O
+and	O
+they	O
+were	O
+at	O
+last	O
+obliged	O
+to	O
+accept	O
+the	O
+second-hand	O
+intelligence	O
+of	O
+their	O
+neighbour	O
+,	O
+Lady	B-CHARACTER
+Lucas	I-CHARACTER
+.	O
+
+# id = conivel-pride-and-prejudice-000118
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her report was highly favourable .
+Her	O
+report	O
+was	O
+highly	O
+favourable	O
+.	O
+
+# id = conivel-pride-and-prejudice-000119
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Sir William had been delighted with him .
+Sir	B-CHARACTER
+William	I-CHARACTER
+had	O
+been	O
+delighted	O
+with	O
+him	O
+.	O
+
+# id = conivel-pride-and-prejudice-000120
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was quite young , wonderfully handsome , extremely agreeable , and , to crown the whole , he meant to be at the next assembly with a large party .
+He	O
+was	O
+quite	O
+young	O
+,	O
+wonderfully	O
+handsome	O
+,	O
+extremely	O
+agreeable	O
+,	O
+and	O
+,	O
+to	O
+crown	O
+the	O
+whole	O
+,	O
+he	O
+meant	O
+to	O
+be	O
+at	O
+the	O
+next	O
+assembly	O
+with	O
+a	O
+large	O
+party	O
+.	O
+
+# id = conivel-pride-and-prejudice-000121
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nothing could be more delightful !
+Nothing	O
+could	O
+be	O
+more	O
+delightful	O
+!	O
+
+# id = conivel-pride-and-prejudice-000122
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = To be fond of dancing was a certain step towards falling in love ; and very lively hopes of Mr. Bingley 's heart were entertained .
+To	O
+be	O
+fond	O
+of	O
+dancing	O
+was	O
+a	O
+certain	O
+step	O
+towards	O
+falling	O
+in	O
+love	O
+;	O
+and	O
+very	O
+lively	O
+hopes	O
+of	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+'s	O
+heart	O
+were	O
+entertained	O
+.	O
+
+# id = conivel-pride-and-prejudice-000123
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` If I can but see one of my daughters happily settled at Netherfield , ''
+``	O
+If	O
+I	O
+can	O
+but	O
+see	O
+one	O
+of	O
+my	O
+daughters	O
+happily	O
+settled	O
+at	O
+Netherfield	B-LOCATION
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000124
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mrs. Bennet to her husband , `` and all the others equally well married , I shall have nothing to wish for . ''
+said	O
+Mrs.	B-CHARACTER
+Bennet	I-CHARACTER
+to	O
+her	O
+husband	O
+,	O
+``	O
+and	O
+all	O
+the	O
+others	O
+equally	O
+well	O
+married	O
+,	O
+I	O
+shall	O
+have	O
+nothing	O
+to	O
+wish	O
+for	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000125
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In a few days Mr. Bingley returned Mr. Bennet 's visit , and sat about ten minutes with him in his library .
+In	O
+a	O
+few	O
+days	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+returned	O
+Mr.	B-CHARACTER
+Bennet	I-CHARACTER
+'s	O
+visit	O
+,	O
+and	O
+sat	O
+about	O
+ten	O
+minutes	O
+with	O
+him	O
+in	O
+his	O
+library	O
+.	O
+
+# id = conivel-pride-and-prejudice-000126
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had entertained hopes of being admitted to a sight of the young ladies , of whose beauty he had heard much ; but he saw only the father .
+He	O
+had	O
+entertained	O
+hopes	O
+of	O
+being	O
+admitted	O
+to	O
+a	O
+sight	O
+of	O
+the	O
+young	O
+ladies	O
+,	O
+of	O
+whose	O
+beauty	O
+he	O
+had	O
+heard	O
+much	O
+;	O
+but	O
+he	O
+saw	O
+only	O
+the	O
+father	O
+.	O
+
+# id = conivel-pride-and-prejudice-000127
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The ladies were somewhat more fortunate , for they had the advantage of ascertaining from an upper window that he wore a blue coat , and rode a black horse .
+The	O
+ladies	O
+were	O
+somewhat	O
+more	O
+fortunate	O
+,	O
+for	O
+they	O
+had	O
+the	O
+advantage	O
+of	O
+ascertaining	O
+from	O
+an	O
+upper	O
+window	O
+that	O
+he	O
+wore	O
+a	O
+blue	O
+coat	O
+,	O
+and	O
+rode	O
+a	O
+black	O
+horse	O
+.	O
+
+# id = conivel-pride-and-prejudice-000128
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = An invitation to dinner was soon afterwards dispatched ; and already had Mrs. Bennet planned the courses that were to do credit to her housekeeping , when an answer arrived which deferred it all .
+An	O
+invitation	O
+to	O
+dinner	O
+was	O
+soon	O
+afterwards	O
+dispatched	O
+;	O
+and	O
+already	O
+had	O
+Mrs.	B-CHARACTER
+Bennet	I-CHARACTER
+planned	O
+the	O
+courses	O
+that	O
+were	O
+to	O
+do	O
+credit	O
+to	O
+her	O
+housekeeping	O
+,	O
+when	O
+an	O
+answer	O
+arrived	O
+which	O
+deferred	O
+it	O
+all	O
+.	O
+
+# id = conivel-pride-and-prejudice-000129
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Bingley was obliged to be in town the following day , and , consequently , unable to accept the honour of their invitation , etc. .
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+was	O
+obliged	O
+to	O
+be	O
+in	O
+town	O
+the	O
+following	O
+day	O
+,	O
+and	O
+,	O
+consequently	O
+,	O
+unable	O
+to	O
+accept	O
+the	O
+honour	O
+of	O
+their	O
+invitation	O
+,	O
+etc.	O
+.	O
+
+# id = conivel-pride-and-prejudice-000130
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mrs. Bennet was quite disconcerted .
+Mrs.	B-CHARACTER
+Bennet	I-CHARACTER
+was	O
+quite	O
+disconcerted	O
+.	O
+
+# id = conivel-pride-and-prejudice-000131
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She could not imagine what business he could have in town so soon after his arrival in Hertfordshire ; and she began to fear that he might be always flying about from one place to another , and never settled at Netherfield as he ought to be .
+She	O
+could	O
+not	O
+imagine	O
+what	O
+business	O
+he	O
+could	O
+have	O
+in	O
+town	O
+so	O
+soon	O
+after	O
+his	O
+arrival	O
+in	O
+Hertfordshire	B-LOCATION
+;	O
+and	O
+she	O
+began	O
+to	O
+fear	O
+that	O
+he	O
+might	O
+be	O
+always	O
+flying	O
+about	O
+from	O
+one	O
+place	O
+to	O
+another	O
+,	O
+and	O
+never	O
+settled	O
+at	O
+Netherfield	B-LOCATION
+as	O
+he	O
+ought	O
+to	O
+be	O
+.	O
+
+# id = conivel-pride-and-prejudice-000132
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Lady Lucas quieted her fears a little by starting the idea of his being gone to London only to get a large party for the ball ; and a report soon followed that Mr. Bingley was to bring twelve ladies and seven gentlemen with him to the assembly .
+Lady	B-CHARACTER
+Lucas	I-CHARACTER
+quieted	O
+her	O
+fears	O
+a	O
+little	O
+by	O
+starting	O
+the	O
+idea	O
+of	O
+his	O
+being	O
+gone	O
+to	O
+London	B-LOCATION
+only	O
+to	O
+get	O
+a	O
+large	O
+party	O
+for	O
+the	O
+ball	O
+;	O
+and	O
+a	O
+report	O
+soon	O
+followed	O
+that	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+was	O
+to	O
+bring	O
+twelve	O
+ladies	O
+and	O
+seven	O
+gentlemen	O
+with	O
+him	O
+to	O
+the	O
+assembly	O
+.	O
+
+# id = conivel-pride-and-prejudice-000133
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The girls grieved over such a number of ladies , but were comforted the day before the ball by hearing , that instead of twelve he brought only six with him from London -- his five sisters and a cousin .
+The	O
+girls	O
+grieved	O
+over	O
+such	O
+a	O
+number	O
+of	O
+ladies	O
+,	O
+but	O
+were	O
+comforted	O
+the	O
+day	O
+before	O
+the	O
+ball	O
+by	O
+hearing	O
+,	O
+that	O
+instead	O
+of	O
+twelve	O
+he	O
+brought	O
+only	O
+six	O
+with	O
+him	O
+from	O
+London	B-LOCATION
+--	O
+his	O
+five	O
+sisters	O
+and	O
+a	O
+cousin	O
+.	O
+
+# id = conivel-pride-and-prejudice-000134
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And when the party entered the assembly room it consisted of only five altogether -- Mr. Bingley , his two sisters , the husband of the eldest , and another young man .
+And	O
+when	O
+the	O
+party	O
+entered	O
+the	O
+assembly	O
+room	O
+it	O
+consisted	O
+of	O
+only	O
+five	O
+altogether	O
+--	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+,	O
+his	O
+two	O
+sisters	O
+,	O
+the	O
+husband	O
+of	O
+the	O
+eldest	O
+,	O
+and	O
+another	O
+young	O
+man	O
+.	O
+
+# id = conivel-pride-and-prejudice-000135
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Bingley was good-looking and gentlemanlike ; he had a pleasant countenance , and easy , unaffected manners .
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+was	O
+good-looking	O
+and	O
+gentlemanlike	O
+;	O
+he	O
+had	O
+a	O
+pleasant	O
+countenance	O
+,	O
+and	O
+easy	O
+,	O
+unaffected	O
+manners	O
+.	O
+
+# id = conivel-pride-and-prejudice-000136
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His sisters were fine women , with an air of decided fashion .
+His	O
+sisters	O
+were	O
+fine	O
+women	O
+,	O
+with	O
+an	O
+air	O
+of	O
+decided	O
+fashion	O
+.	O
+
+# id = conivel-pride-and-prejudice-000137
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His brother-in-law , Mr. Hurst , merely looked the gentleman ; but his friend Mr. Darcy soon drew the attention of the room by his fine , tall person , handsome features , noble mien , and the report which was in general circulation within five minutes after his entrance , of his having ten thousand a year .
+His	O
+brother-in-law	O
+,	O
+Mr.	B-CHARACTER
+Hurst	I-CHARACTER
+,	O
+merely	O
+looked	O
+the	O
+gentleman	O
+;	O
+but	O
+his	O
+friend	O
+Mr.	B-CHARACTER
+Darcy	I-CHARACTER
+soon	O
+drew	O
+the	O
+attention	O
+of	O
+the	O
+room	O
+by	O
+his	O
+fine	O
+,	O
+tall	O
+person	O
+,	O
+handsome	O
+features	O
+,	O
+noble	O
+mien	O
+,	O
+and	O
+the	O
+report	O
+which	O
+was	O
+in	O
+general	O
+circulation	O
+within	O
+five	O
+minutes	O
+after	O
+his	O
+entrance	O
+,	O
+of	O
+his	O
+having	O
+ten	O
+thousand	O
+a	O
+year	O
+.	O
+
+# id = conivel-pride-and-prejudice-000138
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The gentlemen pronounced him to be a fine figure of a man , the ladies declared he was much handsomer than Mr. Bingley , and he was looked at with great admiration for about half the evening , till his manners gave a disgust which turned the tide of his popularity ; for he was discovered to be proud ; to be above his company , and above being pleased ; and not all his large estate in Derbyshire could then save him from having a most forbidding , disagreeable countenance , and being unworthy to be compared with his friend .
+The	O
+gentlemen	O
+pronounced	O
+him	O
+to	O
+be	O
+a	O
+fine	O
+figure	O
+of	O
+a	O
+man	O
+,	O
+the	O
+ladies	O
+declared	O
+he	O
+was	O
+much	O
+handsomer	O
+than	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+,	O
+and	O
+he	O
+was	O
+looked	O
+at	O
+with	O
+great	O
+admiration	O
+for	O
+about	O
+half	O
+the	O
+evening	O
+,	O
+till	O
+his	O
+manners	O
+gave	O
+a	O
+disgust	O
+which	O
+turned	O
+the	O
+tide	O
+of	O
+his	O
+popularity	O
+;	O
+for	O
+he	O
+was	O
+discovered	O
+to	O
+be	O
+proud	O
+;	O
+to	O
+be	O
+above	O
+his	O
+company	O
+,	O
+and	O
+above	O
+being	O
+pleased	O
+;	O
+and	O
+not	O
+all	O
+his	O
+large	O
+estate	O
+in	O
+Derbyshire	B-LOCATION
+could	O
+then	O
+save	O
+him	O
+from	O
+having	O
+a	O
+most	O
+forbidding	O
+,	O
+disagreeable	O
+countenance	O
+,	O
+and	O
+being	O
+unworthy	O
+to	O
+be	O
+compared	O
+with	O
+his	O
+friend	O
+.	O
+
+# id = conivel-pride-and-prejudice-000139
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Bingley had soon made himself acquainted with all the principal people in the room ; he was lively and unreserved , danced every dance , was angry that the ball closed so early , and talked of giving one himself at Netherfield .
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+had	O
+soon	O
+made	O
+himself	O
+acquainted	O
+with	O
+all	O
+the	O
+principal	O
+people	O
+in	O
+the	O
+room	O
+;	O
+he	O
+was	O
+lively	O
+and	O
+unreserved	O
+,	O
+danced	O
+every	O
+dance	O
+,	O
+was	O
+angry	O
+that	O
+the	O
+ball	O
+closed	O
+so	O
+early	O
+,	O
+and	O
+talked	O
+of	O
+giving	O
+one	O
+himself	O
+at	O
+Netherfield	B-LOCATION
+.	O
+
+# id = conivel-pride-and-prejudice-000140
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Such amiable qualities must speak for themselves .
+Such	O
+amiable	O
+qualities	O
+must	O
+speak	O
+for	O
+themselves	O
+.	O
+
+# id = conivel-pride-and-prejudice-000141
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What a contrast between him and his friend !
+What	O
+a	O
+contrast	O
+between	O
+him	O
+and	O
+his	O
+friend	O
+!	O
+
+# id = conivel-pride-and-prejudice-000142
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Darcy danced only once with Mrs. Hurst and once with Miss Bingley , declined being introduced to any other lady , and spent the rest of the evening in walking about the room , speaking occasionally to one of his own party .
+Mr.	B-CHARACTER
+Darcy	I-CHARACTER
+danced	O
+only	O
+once	O
+with	O
+Mrs.	B-CHARACTER
+Hurst	I-CHARACTER
+and	O
+once	O
+with	O
+Miss	B-CHARACTER
+Bingley	I-CHARACTER
+,	O
+declined	O
+being	O
+introduced	O
+to	O
+any	O
+other	O
+lady	O
+,	O
+and	O
+spent	O
+the	O
+rest	O
+of	O
+the	O
+evening	O
+in	O
+walking	O
+about	O
+the	O
+room	O
+,	O
+speaking	O
+occasionally	O
+to	O
+one	O
+of	O
+his	O
+own	O
+party	O
+.	O
+
+# id = conivel-pride-and-prejudice-000143
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His character was decided .
+His	O
+character	O
+was	O
+decided	O
+.	O
+
+# id = conivel-pride-and-prejudice-000144
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was the proudest , most disagreeable man in the world , and everybody hoped that he would never come there again .
+He	O
+was	O
+the	O
+proudest	O
+,	O
+most	O
+disagreeable	O
+man	O
+in	O
+the	O
+world	O
+,	O
+and	O
+everybody	O
+hoped	O
+that	O
+he	O
+would	O
+never	O
+come	O
+there	O
+again	O
+.	O
+
+# id = conivel-pride-and-prejudice-000145
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Amongst the most violent against him was Mrs. Bennet , whose dislike of his general behaviour was sharpened into particular resentment by his having slighted one of her daughters .
+Amongst	O
+the	O
+most	O
+violent	O
+against	O
+him	O
+was	O
+Mrs.	B-CHARACTER
+Bennet	I-CHARACTER
+,	O
+whose	O
+dislike	O
+of	O
+his	O
+general	O
+behaviour	O
+was	O
+sharpened	O
+into	O
+particular	O
+resentment	O
+by	O
+his	O
+having	O
+slighted	O
+one	O
+of	O
+her	O
+daughters	O
+.	O
+
+# id = conivel-pride-and-prejudice-000146
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Elizabeth Bennet had been obliged , by the scarcity of gentlemen , to sit down for two dances ; and during part of that time , Mr. Darcy had been standing near enough for her to hear a conversation between him and Mr. Bingley , who came from the dance for a few minutes , to press his friend to join it .
+Elizabeth	B-CHARACTER
+Bennet	I-CHARACTER
+had	O
+been	O
+obliged	O
+,	O
+by	O
+the	O
+scarcity	O
+of	O
+gentlemen	O
+,	O
+to	O
+sit	O
+down	O
+for	O
+two	O
+dances	O
+;	O
+and	O
+during	O
+part	O
+of	O
+that	O
+time	O
+,	O
+Mr.	B-CHARACTER
+Darcy	I-CHARACTER
+had	O
+been	O
+standing	O
+near	O
+enough	O
+for	O
+her	O
+to	O
+hear	O
+a	O
+conversation	O
+between	O
+him	O
+and	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+,	O
+who	O
+came	O
+from	O
+the	O
+dance	O
+for	O
+a	O
+few	O
+minutes	O
+,	O
+to	O
+press	O
+his	O
+friend	O
+to	O
+join	O
+it	O
+.	O
+
+# id = conivel-pride-and-prejudice-000147
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Come , Darcy , ''
+``	O
+Come	O
+,	O
+Darcy	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000148
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said he , `` I must have you dance .
+said	O
+he	O
+,	O
+``	O
+I	O
+must	O
+have	O
+you	O
+dance	O
+.	O
+
+# id = conivel-pride-and-prejudice-000149
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I hate to see you standing about by yourself in this stupid manner .
+I	O
+hate	O
+to	O
+see	O
+you	O
+standing	O
+about	O
+by	O
+yourself	O
+in	O
+this	O
+stupid	O
+manner	O
+.	O
+
+# id = conivel-pride-and-prejudice-000150
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You had much better dance . ''
+You	O
+had	O
+much	O
+better	O
+dance	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000151
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I certainly shall not .
+``	O
+I	O
+certainly	O
+shall	O
+not	O
+.	O
+
+# id = conivel-pride-and-prejudice-000152
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You know how I detest it , unless I am particularly acquainted with my partner .
+You	O
+know	O
+how	O
+I	O
+detest	O
+it	O
+,	O
+unless	O
+I	O
+am	O
+particularly	O
+acquainted	O
+with	O
+my	O
+partner	O
+.	O
+
+# id = conivel-pride-and-prejudice-000153
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At such an assembly as this it would be insupportable .
+At	O
+such	O
+an	O
+assembly	O
+as	O
+this	O
+it	O
+would	O
+be	O
+insupportable	O
+.	O
+
+# id = conivel-pride-and-prejudice-000154
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Your sisters are engaged , and there is not another woman in the room whom it would not be a punishment to me to stand up with . ''
+Your	O
+sisters	O
+are	O
+engaged	O
+,	O
+and	O
+there	O
+is	O
+not	O
+another	O
+woman	O
+in	O
+the	O
+room	O
+whom	O
+it	O
+would	O
+not	O
+be	O
+a	O
+punishment	O
+to	O
+me	O
+to	O
+stand	O
+up	O
+with	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000155
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I would not be so fastidious as you are , ''
+``	O
+I	O
+would	O
+not	O
+be	O
+so	O
+fastidious	O
+as	O
+you	O
+are	O
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000156
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried Mr. Bingley , `` for a kingdom !
+cried	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+,	O
+``	O
+for	O
+a	O
+kingdom	O
+!	O
+
+# id = conivel-pride-and-prejudice-000157
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Upon my honour , I never met with so many pleasant girls in my life as I have this evening ; and there are several of them you see uncommonly pretty . ''
+Upon	O
+my	O
+honour	O
+,	O
+I	O
+never	O
+met	O
+with	O
+so	O
+many	O
+pleasant	O
+girls	O
+in	O
+my	O
+life	O
+as	O
+I	O
+have	O
+this	O
+evening	O
+;	O
+and	O
+there	O
+are	O
+several	O
+of	O
+them	O
+you	O
+see	O
+uncommonly	O
+pretty	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000158
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` _ You _ are dancing with the only handsome girl in the room , ''
+``	O
+_	O
+You	O
+_	O
+are	O
+dancing	O
+with	O
+the	O
+only	O
+handsome	O
+girl	O
+in	O
+the	O
+room	O
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000159
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Darcy , looking at the eldest Miss Bennet .
+said	O
+Mr.	B-CHARACTER
+Darcy	I-CHARACTER
+,	O
+looking	O
+at	O
+the	O
+eldest	O
+Miss	B-CHARACTER
+Bennet	I-CHARACTER
+.	O
+
+# id = conivel-pride-and-prejudice-000160
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Oh !
+``	O
+Oh	O
+!	O
+
+# id = conivel-pride-and-prejudice-000161
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She is the most beautiful creature I ever beheld !
+She	O
+is	O
+the	O
+most	O
+beautiful	O
+creature	O
+I	O
+ever	O
+beheld	O
+!	O
+
+# id = conivel-pride-and-prejudice-000162
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But there is one of her sisters sitting down just behind you , who is very pretty , and I dare say very agreeable .
+But	O
+there	O
+is	O
+one	O
+of	O
+her	O
+sisters	O
+sitting	O
+down	O
+just	O
+behind	O
+you	O
+,	O
+who	O
+is	O
+very	O
+pretty	O
+,	O
+and	O
+I	O
+dare	O
+say	O
+very	O
+agreeable	O
+.	O
+
+# id = conivel-pride-and-prejudice-000163
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Do let me ask my partner to introduce you . ''
+Do	O
+let	O
+me	O
+ask	O
+my	O
+partner	O
+to	O
+introduce	O
+you	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000164
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Which do you mean ? ''
+``	O
+Which	O
+do	O
+you	O
+mean	O
+?	O
+''	O
+
+# id = conivel-pride-and-prejudice-000165
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = and turning round he looked for a moment at Elizabeth , till catching her eye , he withdrew his own and coldly said : `` She is tolerable , but not handsome enough to tempt _ me _ ; I am in no humour at present to give consequence to young ladies who are slighted by other men .
+and	O
+turning	O
+round	O
+he	O
+looked	O
+for	O
+a	O
+moment	O
+at	O
+Elizabeth	B-CHARACTER
+,	O
+till	O
+catching	O
+her	O
+eye	O
+,	O
+he	O
+withdrew	O
+his	O
+own	O
+and	O
+coldly	O
+said	O
+:	O
+``	O
+She	O
+is	O
+tolerable	O
+,	O
+but	O
+not	O
+handsome	O
+enough	O
+to	O
+tempt	O
+_	O
+me	O
+_	O
+;	O
+I	O
+am	O
+in	O
+no	O
+humour	O
+at	O
+present	O
+to	O
+give	O
+consequence	O
+to	O
+young	O
+ladies	O
+who	O
+are	O
+slighted	O
+by	O
+other	O
+men	O
+.	O
+
+# id = conivel-pride-and-prejudice-000166
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You had better return to your partner and enjoy her smiles , for you are wasting your time with me . ''
+You	O
+had	O
+better	O
+return	O
+to	O
+your	O
+partner	O
+and	O
+enjoy	O
+her	O
+smiles	O
+,	O
+for	O
+you	O
+are	O
+wasting	O
+your	O
+time	O
+with	O
+me	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000167
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Bingley followed his advice .
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+followed	O
+his	O
+advice	O
+.	O
+
+# id = conivel-pride-and-prejudice-000168
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Darcy walked off ; and Elizabeth remained with no very cordial feelings toward him .
+Mr.	B-CHARACTER
+Darcy	I-CHARACTER
+walked	O
+off	O
+;	O
+and	O
+Elizabeth	B-CHARACTER
+remained	O
+with	O
+no	O
+very	O
+cordial	O
+feelings	O
+toward	O
+him	O
+.	O
+
+# id = conivel-pride-and-prejudice-000169
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She told the story , however , with great spirit among her friends ; for she had a lively , playful disposition , which delighted in anything ridiculous .
+She	O
+told	O
+the	O
+story	O
+,	O
+however	O
+,	O
+with	O
+great	O
+spirit	O
+among	O
+her	O
+friends	O
+;	O
+for	O
+she	O
+had	O
+a	O
+lively	O
+,	O
+playful	O
+disposition	O
+,	O
+which	O
+delighted	O
+in	O
+anything	O
+ridiculous	O
+.	O
+
+# id = conivel-pride-and-prejudice-000170
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The evening altogether passed off pleasantly to the whole family .
+The	O
+evening	O
+altogether	O
+passed	O
+off	O
+pleasantly	O
+to	O
+the	O
+whole	O
+family	O
+.	O
+
+# id = conivel-pride-and-prejudice-000171
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mrs. Bennet had seen her eldest daughter much admired by the Netherfield party .
+Mrs.	B-CHARACTER
+Bennet	I-CHARACTER
+had	O
+seen	O
+her	O
+eldest	O
+daughter	O
+much	O
+admired	O
+by	O
+the	O
+Netherfield	B-LOCATION
+party	O
+.	O
+
+# id = conivel-pride-and-prejudice-000172
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Bingley had danced with her twice , and she had been distinguished by his sisters .
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+had	O
+danced	O
+with	O
+her	O
+twice	O
+,	O
+and	O
+she	O
+had	O
+been	O
+distinguished	O
+by	O
+his	O
+sisters	O
+.	O
+
+# id = conivel-pride-and-prejudice-000173
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jane was as much gratified by this as her mother could be , though in a quieter way .
+Jane	B-CHARACTER
+was	O
+as	O
+much	O
+gratified	O
+by	O
+this	O
+as	O
+her	O
+mother	O
+could	O
+be	O
+,	O
+though	O
+in	O
+a	O
+quieter	O
+way	O
+.	O
+
+# id = conivel-pride-and-prejudice-000174
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Elizabeth felt Jane 's pleasure .
+Elizabeth	B-CHARACTER
+felt	O
+Jane	B-CHARACTER
+'s	O
+pleasure	O
+.	O
+
+# id = conivel-pride-and-prejudice-000175
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mary had heard herself mentioned to Miss Bingley as the most accomplished girl in the neighbourhood ; and Catherine and Lydia had been fortunate enough never to be without partners , which was all that they had yet learnt to care for at a ball .
+Mary	B-CHARACTER
+had	O
+heard	O
+herself	O
+mentioned	O
+to	O
+Miss	B-CHARACTER
+Bingley	I-CHARACTER
+as	O
+the	O
+most	O
+accomplished	O
+girl	O
+in	O
+the	O
+neighbourhood	O
+;	O
+and	O
+Catherine	B-CHARACTER
+and	O
+Lydia	B-CHARACTER
+had	O
+been	O
+fortunate	O
+enough	O
+never	O
+to	O
+be	O
+without	O
+partners	O
+,	O
+which	O
+was	O
+all	O
+that	O
+they	O
+had	O
+yet	O
+learnt	O
+to	O
+care	O
+for	O
+at	O
+a	O
+ball	O
+.	O
+
+# id = conivel-pride-and-prejudice-000176
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They returned , therefore , in good spirits to Longbourn , the village where they lived , and of which they were the principal inhabitants .
+They	O
+returned	O
+,	O
+therefore	O
+,	O
+in	O
+good	O
+spirits	O
+to	O
+Longbourn	B-LOCATION
+,	O
+the	O
+village	O
+where	O
+they	O
+lived	O
+,	O
+and	O
+of	O
+which	O
+they	O
+were	O
+the	O
+principal	O
+inhabitants	O
+.	O
+
+# id = conivel-pride-and-prejudice-000177
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They found Mr. Bennet still up .
+They	O
+found	O
+Mr.	B-CHARACTER
+Bennet	I-CHARACTER
+still	O
+up	O
+.	O
+
+# id = conivel-pride-and-prejudice-000178
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = With a book he was regardless of time ; and on the present occasion he had a good deal of curiosity as to the event of an evening which had raised such splendid expectations .
+With	O
+a	O
+book	O
+he	O
+was	O
+regardless	O
+of	O
+time	O
+;	O
+and	O
+on	O
+the	O
+present	O
+occasion	O
+he	O
+had	O
+a	O
+good	O
+deal	O
+of	O
+curiosity	O
+as	O
+to	O
+the	O
+event	O
+of	O
+an	O
+evening	O
+which	O
+had	O
+raised	O
+such	O
+splendid	O
+expectations	O
+.	O
+
+# id = conivel-pride-and-prejudice-000179
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had rather hoped that his wife 's views on the stranger would be disappointed ; but he soon found out that he had a different story to hear .
+He	O
+had	O
+rather	O
+hoped	O
+that	O
+his	O
+wife	O
+'s	O
+views	O
+on	O
+the	O
+stranger	O
+would	O
+be	O
+disappointed	O
+;	O
+but	O
+he	O
+soon	O
+found	O
+out	O
+that	O
+he	O
+had	O
+a	O
+different	O
+story	O
+to	O
+hear	O
+.	O
+
+# id = conivel-pride-and-prejudice-000180
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Oh !
+``	O
+Oh	O
+!	O
+
+# id = conivel-pride-and-prejudice-000181
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = my dear Mr. Bennet , ''
+my	O
+dear	O
+Mr.	B-CHARACTER
+Bennet	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000182
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = as she entered the room , `` we have had a most delightful evening , a most excellent ball .
+as	O
+she	O
+entered	O
+the	O
+room	O
+,	O
+``	O
+we	O
+have	O
+had	O
+a	O
+most	O
+delightful	O
+evening	O
+,	O
+a	O
+most	O
+excellent	O
+ball	O
+.	O
+
+# id = conivel-pride-and-prejudice-000183
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I wish you had been there .
+I	O
+wish	O
+you	O
+had	O
+been	O
+there	O
+.	O
+
+# id = conivel-pride-and-prejudice-000184
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Jane was so admired , nothing could be like it .
+Jane	B-CHARACTER
+was	O
+so	O
+admired	O
+,	O
+nothing	O
+could	O
+be	O
+like	O
+it	O
+.	O
+
+# id = conivel-pride-and-prejudice-000185
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Everybody said how well she looked ; and Mr. Bingley thought her quite beautiful , and danced with her twice !
+Everybody	O
+said	O
+how	O
+well	O
+she	O
+looked	O
+;	O
+and	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+thought	O
+her	O
+quite	O
+beautiful	O
+,	O
+and	O
+danced	O
+with	O
+her	O
+twice	O
+!	O
+
+# id = conivel-pride-and-prejudice-000186
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Only think of _ that _ , my dear ; he actually danced with her twice !
+Only	O
+think	O
+of	O
+_	O
+that	O
+_	O
+,	O
+my	O
+dear	O
+;	O
+he	O
+actually	O
+danced	O
+with	O
+her	O
+twice	O
+!	O
+
+# id = conivel-pride-and-prejudice-000187
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = and she was the only creature in the room that he asked a second time .
+and	O
+she	O
+was	O
+the	O
+only	O
+creature	O
+in	O
+the	O
+room	O
+that	O
+he	O
+asked	O
+a	O
+second	O
+time	O
+.	O
+
+# id = conivel-pride-and-prejudice-000188
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = First of all , he asked Miss Lucas .
+First	O
+of	O
+all	O
+,	O
+he	O
+asked	O
+Miss	B-CHARACTER
+Lucas	I-CHARACTER
+.	O
+
+# id = conivel-pride-and-prejudice-000189
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I was so vexed to see him stand up with her !
+I	O
+was	O
+so	O
+vexed	O
+to	O
+see	O
+him	O
+stand	O
+up	O
+with	O
+her	O
+!	O
+
+# id = conivel-pride-and-prejudice-000190
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But , however , he did not admire her at all ; indeed , nobody can , you know ; and he seemed quite struck with Jane as she was going down the dance .
+But	O
+,	O
+however	O
+,	O
+he	O
+did	O
+not	O
+admire	O
+her	O
+at	O
+all	O
+;	O
+indeed	O
+,	O
+nobody	O
+can	O
+,	O
+you	O
+know	O
+;	O
+and	O
+he	O
+seemed	O
+quite	O
+struck	O
+with	O
+Jane	B-CHARACTER
+as	O
+she	O
+was	O
+going	O
+down	O
+the	O
+dance	O
+.	O
+
+# id = conivel-pride-and-prejudice-000191
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So he inquired who she was , and got introduced , and asked her for the two next .
+So	O
+he	O
+inquired	O
+who	O
+she	O
+was	O
+,	O
+and	O
+got	O
+introduced	O
+,	O
+and	O
+asked	O
+her	O
+for	O
+the	O
+two	O
+next	O
+.	O
+
+# id = conivel-pride-and-prejudice-000192
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then the two third he danced with Miss King , and the two fourth with Maria Lucas , and the two fifth with Jane again , and the two sixth with Lizzy , and the _ Boulanger _ -- ''
+Then	O
+the	O
+two	O
+third	O
+he	O
+danced	O
+with	O
+Miss	B-CHARACTER
+King	I-CHARACTER
+,	O
+and	O
+the	O
+two	O
+fourth	O
+with	O
+Maria	B-CHARACTER
+Lucas	I-CHARACTER
+,	O
+and	O
+the	O
+two	O
+fifth	O
+with	O
+Jane	B-CHARACTER
+again	O
+,	O
+and	O
+the	O
+two	O
+sixth	O
+with	O
+Lizzy	B-CHARACTER
+,	O
+and	O
+the	O
+_	O
+Boulanger	B-CHARACTER
+_	O
+--	O
+''	O
+
+# id = conivel-pride-and-prejudice-000193
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` If he had had any compassion for _ me _ , ''
+``	O
+If	O
+he	O
+had	O
+had	O
+any	O
+compassion	O
+for	O
+_	O
+me	O
+_	O
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000194
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried her husband impatiently , `` he would not have danced half so much !
+cried	O
+her	O
+husband	O
+impatiently	O
+,	O
+``	O
+he	O
+would	O
+not	O
+have	O
+danced	O
+half	O
+so	O
+much	O
+!	O
+
+# id = conivel-pride-and-prejudice-000195
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For God 's sake , say no more of his partners .
+For	O
+God	O
+'s	O
+sake	O
+,	O
+say	O
+no	O
+more	O
+of	O
+his	O
+partners	O
+.	O
+
+# id = conivel-pride-and-prejudice-000196
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Oh that he had sprained his ankle in the first dance ! ''
+Oh	O
+that	O
+he	O
+had	O
+sprained	O
+his	O
+ankle	O
+in	O
+the	O
+first	O
+dance	O
+!	O
+''	O
+
+# id = conivel-pride-and-prejudice-000197
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Oh !
+``	O
+Oh	O
+!	O
+
+# id = conivel-pride-and-prejudice-000198
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = my dear , I am quite delighted with him .
+my	O
+dear	O
+,	O
+I	O
+am	O
+quite	O
+delighted	O
+with	O
+him	O
+.	O
+
+# id = conivel-pride-and-prejudice-000199
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He is so excessively handsome !
+He	O
+is	O
+so	O
+excessively	O
+handsome	O
+!	O
+
+# id = conivel-pride-and-prejudice-000200
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And his sisters are charming women .
+And	O
+his	O
+sisters	O
+are	O
+charming	O
+women	O
+.	O
+
+# id = conivel-pride-and-prejudice-000201
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I never in my life saw anything more elegant than their dresses .
+I	O
+never	O
+in	O
+my	O
+life	O
+saw	O
+anything	O
+more	O
+elegant	O
+than	O
+their	O
+dresses	O
+.	O
+
+# id = conivel-pride-and-prejudice-000202
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I dare say the lace upon Mrs. Hurst 's gown -- ''
+I	O
+dare	O
+say	O
+the	O
+lace	O
+upon	O
+Mrs.	B-CHARACTER
+Hurst	I-CHARACTER
+'s	O
+gown	O
+--	O
+''	O
+
+# id = conivel-pride-and-prejudice-000203
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Here she was interrupted again .
+Here	O
+she	O
+was	O
+interrupted	O
+again	O
+.	O
+
+# id = conivel-pride-and-prejudice-000204
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Bennet protested against any description of finery .
+Mr.	B-CHARACTER
+Bennet	I-CHARACTER
+protested	O
+against	O
+any	O
+description	O
+of	O
+finery	O
+.	O
+
+# id = conivel-pride-and-prejudice-000205
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = She was therefore obliged to seek another branch of the subject , and related , with much bitterness of spirit and some exaggeration , the shocking rudeness of Mr. Darcy .
+She	O
+was	O
+therefore	O
+obliged	O
+to	O
+seek	O
+another	O
+branch	O
+of	O
+the	O
+subject	O
+,	O
+and	O
+related	O
+,	O
+with	O
+much	O
+bitterness	O
+of	O
+spirit	O
+and	O
+some	O
+exaggeration	O
+,	O
+the	O
+shocking	O
+rudeness	O
+of	O
+Mr.	B-CHARACTER
+Darcy	I-CHARACTER
+.	O
+
+# id = conivel-pride-and-prejudice-000206
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But I can assure you , ''
+``	O
+But	O
+I	O
+can	O
+assure	O
+you	O
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000207
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = she added , `` that Lizzy does not lose much by not suiting _ his _ fancy ; for he is a most disagreeable , horrid man , not at all worth pleasing .
+she	O
+added	O
+,	O
+``	O
+that	O
+Lizzy	B-CHARACTER
+does	O
+not	O
+lose	O
+much	O
+by	O
+not	O
+suiting	O
+_	O
+his	O
+_	O
+fancy	O
+;	O
+for	O
+he	O
+is	O
+a	O
+most	O
+disagreeable	O
+,	O
+horrid	O
+man	O
+,	O
+not	O
+at	O
+all	O
+worth	O
+pleasing	O
+.	O
+
+# id = conivel-pride-and-prejudice-000208
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So high and so conceited that there was no enduring him !
+So	O
+high	O
+and	O
+so	O
+conceited	O
+that	O
+there	O
+was	O
+no	O
+enduring	O
+him	O
+!	O
+
+# id = conivel-pride-and-prejudice-000209
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He walked here , and he walked there , fancying himself so very great !
+He	O
+walked	O
+here	O
+,	O
+and	O
+he	O
+walked	O
+there	O
+,	O
+fancying	O
+himself	O
+so	O
+very	O
+great	O
+!	O
+
+# id = conivel-pride-and-prejudice-000210
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not handsome enough to dance with !
+Not	O
+handsome	O
+enough	O
+to	O
+dance	O
+with	O
+!	O
+
+# id = conivel-pride-and-prejudice-000211
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I wish you had been there , my dear , to have given him one of your set-downs .
+I	O
+wish	O
+you	O
+had	O
+been	O
+there	O
+,	O
+my	O
+dear	O
+,	O
+to	O
+have	O
+given	O
+him	O
+one	O
+of	O
+your	O
+set-downs	O
+.	O
+
+# id = conivel-pride-and-prejudice-000212
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I quite detest the man . ''
+I	O
+quite	O
+detest	O
+the	O
+man	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000213
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Chapter 4 When Jane and Elizabeth were alone , the former , who had been cautious in her praise of Mr. Bingley before , expressed to her sister just how very much she admired him .
+Chapter	O
+4	O
+When	O
+Jane	B-CHARACTER
+and	O
+Elizabeth	B-CHARACTER
+were	O
+alone	O
+,	O
+the	O
+former	O
+,	O
+who	O
+had	O
+been	O
+cautious	O
+in	O
+her	O
+praise	O
+of	O
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+before	O
+,	O
+expressed	O
+to	O
+her	O
+sister	O
+just	O
+how	O
+very	O
+much	O
+she	O
+admired	O
+him	O
+.	O
+
+# id = conivel-pride-and-prejudice-000214
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He is just what a young man ought to be , ''
+``	O
+He	O
+is	O
+just	O
+what	O
+a	O
+young	O
+man	O
+ought	O
+to	O
+be	O
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000215
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said she , `` sensible , good-humoured , lively ; and I never saw such happy manners !
+said	O
+she	O
+,	O
+``	O
+sensible	O
+,	O
+good-humoured	O
+,	O
+lively	O
+;	O
+and	O
+I	O
+never	O
+saw	O
+such	O
+happy	O
+manners	O
+!	O
+
+# id = conivel-pride-and-prejudice-000216
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = -- so much ease , with such perfect good breeding ! ''
+--	O
+so	O
+much	O
+ease	O
+,	O
+with	O
+such	O
+perfect	O
+good	O
+breeding	O
+!	O
+''	O
+
+# id = conivel-pride-and-prejudice-000217
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` He is also handsome , ''
+``	O
+He	O
+is	O
+also	O
+handsome	O
+,	O
+''	O
+
+# id = conivel-pride-and-prejudice-000218
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = replied Elizabeth , `` which a young man ought likewise to be , if he possibly can .
+replied	O
+Elizabeth	B-CHARACTER
+,	O
+``	O
+which	O
+a	O
+young	O
+man	O
+ought	O
+likewise	O
+to	O
+be	O
+,	O
+if	O
+he	O
+possibly	O
+can	O
+.	O
+
+# id = conivel-pride-and-prejudice-000219
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His character is thereby complete . ''
+His	O
+character	O
+is	O
+thereby	O
+complete	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000220
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I was very much flattered by his asking me to dance a second time .
+``	O
+I	O
+was	O
+very	O
+much	O
+flattered	O
+by	O
+his	O
+asking	O
+me	O
+to	O
+dance	O
+a	O
+second	O
+time	O
+.	O
+
+# id = conivel-pride-and-prejudice-000221
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I did not expect such a compliment . ''
+I	O
+did	O
+not	O
+expect	O
+such	O
+a	O
+compliment	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000222
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Did not you ?
+``	O
+Did	O
+not	O
+you	O
+?	O
+
+# id = conivel-pride-and-prejudice-000223
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I did for you .
+I	O
+did	O
+for	O
+you	O
+.	O
+
+# id = conivel-pride-and-prejudice-000224
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But that is one great difference between us .
+But	O
+that	O
+is	O
+one	O
+great	O
+difference	O
+between	O
+us	O
+.	O
+
+# id = conivel-pride-and-prejudice-000225
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Compliments always take _ you _ by surprise , and _ me _ never .
+Compliments	O
+always	O
+take	O
+_	O
+you	O
+_	O
+by	O
+surprise	O
+,	O
+and	O
+_	O
+me	O
+_	O
+never	O
+.	O
+
+# id = conivel-pride-and-prejudice-000226
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = What could be more natural than his asking you again ?
+What	O
+could	O
+be	O
+more	O
+natural	O
+than	O
+his	O
+asking	O
+you	O
+again	O
+?	O
+
+# id = conivel-pride-and-prejudice-000227
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He could not help seeing that you were about five times as pretty as every other woman in the room .
+He	O
+could	O
+not	O
+help	O
+seeing	O
+that	O
+you	O
+were	O
+about	O
+five	O
+times	O
+as	O
+pretty	O
+as	O
+every	O
+other	O
+woman	O
+in	O
+the	O
+room	O
+.	O
+
+# id = conivel-pride-and-prejudice-000228
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No thanks to his gallantry for that .
+No	O
+thanks	O
+to	O
+his	O
+gallantry	O
+for	O
+that	O
+.	O
+
+# id = conivel-pride-and-prejudice-000229
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Well , he certainly is very agreeable , and I give you leave to like him .
+Well	O
+,	O
+he	O
+certainly	O
+is	O
+very	O
+agreeable	O
+,	O
+and	O
+I	O
+give	O
+you	O
+leave	O
+to	O
+like	O
+him	O
+.	O
+
+# id = conivel-pride-and-prejudice-000230
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You have liked many a stupider person . ''
+You	O
+have	O
+liked	O
+many	O
+a	O
+stupider	O
+person	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000231
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Dear Lizzy ! ''
+``	O
+Dear	O
+Lizzy	B-CHARACTER
+!	O
+''	O
+
+# id = conivel-pride-and-prejudice-000232
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Oh !
+``	O
+Oh	O
+!	O
+
+# id = conivel-pride-and-prejudice-000233
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = you are a great deal too apt , you know , to like people in general .
+you	O
+are	O
+a	O
+great	O
+deal	O
+too	O
+apt	O
+,	O
+you	O
+know	O
+,	O
+to	O
+like	O
+people	O
+in	O
+general	O
+.	O
+
+# id = conivel-pride-and-prejudice-000234
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You never see a fault in anybody .
+You	O
+never	O
+see	O
+a	O
+fault	O
+in	O
+anybody	O
+.	O
+
+# id = conivel-pride-and-prejudice-000235
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All the world are good and agreeable in your eyes .
+All	O
+the	O
+world	O
+are	O
+good	O
+and	O
+agreeable	O
+in	O
+your	O
+eyes	O
+.	O
+
+# id = conivel-pride-and-prejudice-000236
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I never heard you speak ill of a human being in your life . ''
+I	O
+never	O
+heard	O
+you	O
+speak	O
+ill	O
+of	O
+a	O
+human	O
+being	O
+in	O
+your	O
+life	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000237
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I would not wish to be hasty in censuring anyone ; but I always speak what I think . ''
+``	O
+I	O
+would	O
+not	O
+wish	O
+to	O
+be	O
+hasty	O
+in	O
+censuring	O
+anyone	O
+;	O
+but	O
+I	O
+always	O
+speak	O
+what	O
+I	O
+think	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000238
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I know you do ; and it is _ that _ which makes the wonder .
+``	O
+I	O
+know	O
+you	O
+do	O
+;	O
+and	O
+it	O
+is	O
+_	O
+that	O
+_	O
+which	O
+makes	O
+the	O
+wonder	O
+.	O
+
+# id = conivel-pride-and-prejudice-000239
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = With _ your _ good sense , to be so honestly blind to the follies and nonsense of others !
+With	O
+_	O
+your	O
+_	O
+good	O
+sense	O
+,	O
+to	O
+be	O
+so	O
+honestly	O
+blind	O
+to	O
+the	O
+follies	O
+and	O
+nonsense	O
+of	O
+others	O
+!	O
+
+# id = conivel-pride-and-prejudice-000240
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Affectation of candour is common enough -- one meets with it everywhere .
+Affectation	O
+of	O
+candour	O
+is	O
+common	O
+enough	O
+--	O
+one	O
+meets	O
+with	O
+it	O
+everywhere	O
+.	O
+
+# id = conivel-pride-and-prejudice-000241
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But to be candid without ostentation or design -- to take the good of everybody 's character and make it still better , and say nothing of the bad -- belongs to you alone .
+But	O
+to	O
+be	O
+candid	O
+without	O
+ostentation	O
+or	O
+design	O
+--	O
+to	O
+take	O
+the	O
+good	O
+of	O
+everybody	O
+'s	O
+character	O
+and	O
+make	O
+it	O
+still	O
+better	O
+,	O
+and	O
+say	O
+nothing	O
+of	O
+the	O
+bad	O
+--	O
+belongs	O
+to	O
+you	O
+alone	O
+.	O
+
+# id = conivel-pride-and-prejudice-000242
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And so you like this man 's sisters , too , do you ?
+And	O
+so	O
+you	O
+like	O
+this	O
+man	O
+'s	O
+sisters	O
+,	O
+too	O
+,	O
+do	O
+you	O
+?	O
+
+# id = conivel-pride-and-prejudice-000243
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Their manners are not equal to his . ''
+Their	O
+manners	O
+are	O
+not	O
+equal	O
+to	O
+his	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000244
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Certainly not -- at first .
+``	O
+Certainly	O
+not	O
+--	O
+at	O
+first	O
+.	O
+
+# id = conivel-pride-and-prejudice-000245
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But they are very pleasing women when you converse with them .
+But	O
+they	O
+are	O
+very	O
+pleasing	O
+women	O
+when	O
+you	O
+converse	O
+with	O
+them	O
+.	O
+
+# id = conivel-pride-and-prejudice-000246
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Miss Bingley is to live with her brother , and keep his house ; and I am much mistaken if we shall not find a very charming neighbour in her . ''
+Miss	B-CHARACTER
+Bingley	I-CHARACTER
+is	O
+to	O
+live	O
+with	O
+her	O
+brother	O
+,	O
+and	O
+keep	O
+his	O
+house	O
+;	O
+and	O
+I	O
+am	O
+much	O
+mistaken	O
+if	O
+we	O
+shall	O
+not	O
+find	O
+a	O
+very	O
+charming	O
+neighbour	O
+in	O
+her	O
+.	O
+''	O
+
+# id = conivel-pride-and-prejudice-000247
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Elizabeth listened in silence , but was not convinced ; their behaviour at the assembly had not been calculated to please in general ; and with more quickness of observation and less pliancy of temper than her sister , and with a judgement too unassailed by any attention to herself , she was very little disposed to approve them .
+Elizabeth	B-CHARACTER
+listened	O
+in	O
+silence	O
+,	O
+but	O
+was	O
+not	O
+convinced	O
+;	O
+their	O
+behaviour	O
+at	O
+the	O
+assembly	O
+had	O
+not	O
+been	O
+calculated	O
+to	O
+please	O
+in	O
+general	O
+;	O
+and	O
+with	O
+more	O
+quickness	O
+of	O
+observation	O
+and	O
+less	O
+pliancy	O
+of	O
+temper	O
+than	O
+her	O
+sister	O
+,	O
+and	O
+with	O
+a	O
+judgement	O
+too	O
+unassailed	O
+by	O
+any	O
+attention	O
+to	O
+herself	O
+,	O
+she	O
+was	O
+very	O
+little	O
+disposed	O
+to	O
+approve	O
+them	O
+.	O
+
+# id = conivel-pride-and-prejudice-000248
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were in fact very fine ladies ; not deficient in good humour when they were pleased , nor in the power of making themselves agreeable when they chose it , but proud and conceited .
+They	O
+were	O
+in	O
+fact	O
+very	O
+fine	O
+ladies	O
+;	O
+not	O
+deficient	O
+in	O
+good	O
+humour	O
+when	O
+they	O
+were	O
+pleased	O
+,	O
+nor	O
+in	O
+the	O
+power	O
+of	O
+making	O
+themselves	O
+agreeable	O
+when	O
+they	O
+chose	O
+it	O
+,	O
+but	O
+proud	O
+and	O
+conceited	O
+.	O
+
+# id = conivel-pride-and-prejudice-000249
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were rather handsome , had been educated in one of the first private seminaries in town , had a fortune of twenty thousand pounds , were in the habit of spending more than they ought , and of associating with people of rank , and were therefore in every respect entitled to think well of themselves , and meanly of others .
+They	O
+were	O
+rather	O
+handsome	O
+,	O
+had	O
+been	O
+educated	O
+in	O
+one	O
+of	O
+the	O
+first	O
+private	O
+seminaries	O
+in	O
+town	O
+,	O
+had	O
+a	O
+fortune	O
+of	O
+twenty	O
+thousand	O
+pounds	O
+,	O
+were	O
+in	O
+the	O
+habit	O
+of	O
+spending	O
+more	O
+than	O
+they	O
+ought	O
+,	O
+and	O
+of	O
+associating	O
+with	O
+people	O
+of	O
+rank	O
+,	O
+and	O
+were	O
+therefore	O
+in	O
+every	O
+respect	O
+entitled	O
+to	O
+think	O
+well	O
+of	O
+themselves	O
+,	O
+and	O
+meanly	O
+of	O
+others	O
+.	O
+
+# id = conivel-pride-and-prejudice-000250
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were of a respectable family in the north of England ; a circumstance more deeply impressed on their memories than that their brother 's fortune and their own had been acquired by trade .
+They	O
+were	O
+of	O
+a	O
+respectable	O
+family	O
+in	O
+the	O
+north	O
+of	O
+England	B-LOCATION
+;	O
+a	O
+circumstance	O
+more	O
+deeply	O
+impressed	O
+on	O
+their	O
+memories	O
+than	O
+that	O
+their	O
+brother	O
+'s	O
+fortune	O
+and	O
+their	O
+own	O
+had	O
+been	O
+acquired	O
+by	O
+trade	O
+.	O
+
+# id = conivel-pride-and-prejudice-000251
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Bingley inherited property to the amount of nearly a hundred thousand pounds from his father , who had intended to purchase an estate , but did not live to do it .
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+inherited	O
+property	O
+to	O
+the	O
+amount	O
+of	O
+nearly	O
+a	O
+hundred	O
+thousand	O
+pounds	O
+from	O
+his	O
+father	O
+,	O
+who	O
+had	O
+intended	O
+to	O
+purchase	O
+an	O
+estate	O
+,	O
+but	O
+did	O
+not	O
+live	O
+to	O
+do	O
+it	O
+.	O
+
+# id = conivel-pride-and-prejudice-000252
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Bingley intended it likewise , and sometimes made choice of his county ; but as he was now provided with a good house and the liberty of a manor , it was doubtful to many of those who best knew the easiness of his temper , whether he might not spend the remainder of his days at Netherfield , and leave the next generation to purchase .
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+intended	O
+it	O
+likewise	O
+,	O
+and	O
+sometimes	O
+made	O
+choice	O
+of	O
+his	O
+county	O
+;	O
+but	O
+as	O
+he	O
+was	O
+now	O
+provided	O
+with	O
+a	O
+good	O
+house	O
+and	O
+the	O
+liberty	O
+of	O
+a	O
+manor	O
+,	O
+it	O
+was	O
+doubtful	O
+to	O
+many	O
+of	O
+those	O
+who	O
+best	O
+knew	O
+the	O
+easiness	O
+of	O
+his	O
+temper	O
+,	O
+whether	O
+he	O
+might	O
+not	O
+spend	O
+the	O
+remainder	O
+of	O
+his	O
+days	O
+at	O
+Netherfield	B-LOCATION
+,	O
+and	O
+leave	O
+the	O
+next	O
+generation	O
+to	O
+purchase	O
+.	O
+
+# id = conivel-pride-and-prejudice-000253
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His sisters were anxious for his having an estate of his own ; but , though he was now only established as a tenant , Miss Bingley was by no means unwilling to preside at his table -- nor was Mrs. Hurst , who had married a man of more fashion than fortune , less disposed to consider his house as her home when it suited her .
+His	O
+sisters	O
+were	O
+anxious	O
+for	O
+his	O
+having	O
+an	O
+estate	O
+of	O
+his	O
+own	O
+;	O
+but	O
+,	O
+though	O
+he	O
+was	O
+now	O
+only	O
+established	O
+as	O
+a	O
+tenant	O
+,	O
+Miss	B-CHARACTER
+Bingley	I-CHARACTER
+was	O
+by	O
+no	O
+means	O
+unwilling	O
+to	O
+preside	O
+at	O
+his	O
+table	O
+--	O
+nor	O
+was	O
+Mrs.	B-CHARACTER
+Hurst	I-CHARACTER
+,	O
+who	O
+had	O
+married	O
+a	O
+man	O
+of	O
+more	O
+fashion	O
+than	O
+fortune	O
+,	O
+less	O
+disposed	O
+to	O
+consider	O
+his	O
+house	O
+as	O
+her	O
+home	O
+when	O
+it	O
+suited	O
+her	O
+.	O
+
+# id = conivel-pride-and-prejudice-000254
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Bingley had not been of age two years , when he was tempted by an accidental recommendation to look at Netherfield House .
+Mr.	B-CHARACTER
+Bingley	I-CHARACTER
+had	O
+not	O
+been	O
+of	O
+age	O
+two	O
+years	O
+,	O
+when	O
+he	O
+was	O
+tempted	O
+by	O
+an	O
+accidental	O
+recommendation	O
+to	O
+look	O
+at	O
+Netherfield	B-LOCATION
+House	I-LOCATION
+.	O
+
+# id = conivel-pride-and-prejudice-000255
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He did look at it , and into it for half-an-hour -- was pleased with the situation and the principal rooms , satisfied with what the owner said in its praise , and took it immediately .
+He	O
+did	O
+look	O
+at	O
+it	O
+,	O
+and	O
+into	O
+it	O
+for	O
+half-an-hour	O
+--	O
+was	O
+pleased	O
+with	O
+the	O
+situation	O
+and	O
+the	O
+principal	O
+rooms	O
+,	O
+satisfied	O
+with	O
+what	O
+the	O
+owner	O
+said	O
+in	O
+its	O
+praise	O
+,	O
+and	O
+took	O
+it	O
+immediately	O
+.	O
+
+# id = conivel-pride-and-prejudice-000256
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Between him and Darcy there was a very steady friendship , in spite of great opposition of character .
+Between	O
+him	O
+and	O
+Darcy	B-CHARACTER
+there	O
+was	O
+a	O
+very	O
+steady	O
+friendship	O
+,	O
+in	O
+spite	O
+of	O
+great	O
+opposition	O
+of	O
+character	O
+.	O
+
+# id = conivel-pride-and-prejudice-000257
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bingley was endeared to Darcy by the easiness , openness , and ductility of his temper , though no disposition could offer a greater contrast to his own , and though with his own he never appeared dissatisfied .
+Bingley	B-CHARACTER
+was	O
+endeared	O
+to	O
+Darcy	B-CHARACTER
+by	O
+the	O
+easiness	O
+,	O
+openness	O
+,	O
+and	O
+ductility	O
+of	O
+his	O
+temper	O
+,	O
+though	O
+no	O
+disposition	O
+could	O
+offer	O
+a	O
+greater	O
+contrast	O
+to	O
+his	O
+own	O
+,	O
+and	O
+though	O
+with	O
+his	O
+own	O
+he	O
+never	O
+appeared	O
+dissatisfied	O
+.	O
+
+# id = conivel-pride-and-prejudice-000258
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = On the strength of Darcy 's regard , Bingley had the firmest reliance , and of his judgement the highest opinion .
+On	O
+the	O
+strength	O
+of	O
+Darcy	B-CHARACTER
+'s	O
+regard	O
+,	O
+Bingley	B-CHARACTER
+had	O
+the	O
+firmest	O
+reliance	O
+,	O
+and	O
+of	O
+his	O
+judgement	O
+the	O
+highest	O
+opinion	O
+.	O
+
+# id = conivel-pride-and-prejudice-000259
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In understanding , Darcy was the superior .
+In	O
+understanding	O
+,	O
+Darcy	B-CHARACTER
+was	O
+the	O
+superior	O
+.	O
+
+# id = conivel-pride-and-prejudice-000260
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bingley was by no means deficient , but Darcy was clever .
+Bingley	B-CHARACTER
+was	O
+by	O
+no	O
+means	O
+deficient	O
+,	O
+but	O
+Darcy	B-CHARACTER
+was	O
+clever	O
+.	O
+
+# id = conivel-pride-and-prejudice-000261
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was at the same time haughty , reserved , and fastidious , and his manners , though well-bred , were not inviting .
+He	O
+was	O
+at	O
+the	O
+same	O
+time	O
+haughty	O
+,	O
+reserved	O
+,	O
+and	O
+fastidious	O
+,	O
+and	O
+his	O
+manners	O
+,	O
+though	O
+well-bred	O
+,	O
+were	O
+not	O
+inviting	O
+.	O
+
+# id = conivel-pride-and-prejudice-000262
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In that respect his friend had greatly the advantage .
+In	O
+that	O
+respect	O
+his	O
+friend	O
+had	O
+greatly	O
+the	O
+advantage	O
+.	O
+
+# id = conivel-pride-and-prejudice-000263
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bingley was sure of being liked wherever he appeared , Darcy was continually giving offense .
+Bingley	B-CHARACTER
+was	O
+sure	O
+of	O
+being	O
+liked	O
+wherever	O
+he	O
+appeared	O
+,	O
+Darcy	B-CHARACTER
+was	O
+continually	O
+giving	O
+offense	O
+.	O
+
+# id = conivel-pride-and-prejudice-000264
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The manner in which they spoke of the Meryton assembly was sufficiently characteristic .
+The	O
+manner	O
+in	O
+which	O
+they	O
+spoke	O
+of	O
+the	O
+Meryton	O
+assembly	O
+was	O
+sufficiently	O
+characteristic	O
+.	O
+
+# id = conivel-pride-and-prejudice-000265
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bingley had never met with more pleasant people or prettier girls in his life ; everybody had been most kind and attentive to him ; there had been no formality , no stiffness ; he had soon felt acquainted with all the room ; and , as to Miss Bennet , he could not conceive an angel more beautiful .
+Bingley	B-CHARACTER
+had	O
+never	O
+met	O
+with	O
+more	O
+pleasant	O
+people	O
+or	O
+prettier	O
+girls	O
+in	O
+his	O
+life	O
+;	O
+everybody	O
+had	O
+been	O
+most	O
+kind	O
+and	O
+attentive	O
+to	O
+him	O
+;	O
+there	O
+had	O
+been	O
+no	O
+formality	O
+,	O
+no	O
+stiffness	O
+;	O
+he	O
+had	O
+soon	O
+felt	O
+acquainted	O
+with	O
+all	O
+the	O
+room	O
+;	O
+and	O
+,	O
+as	O
+to	O
+Miss	B-CHARACTER
+Bennet	I-CHARACTER
+,	O
+he	O
+could	O
+not	O
+conceive	O
+an	O
+angel	O
+more	O
+beautiful	O
+.	O
+
+# id = conivel-pride-and-prejudice-000266
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Darcy , on the contrary , had seen a collection of people in whom there was little beauty and no fashion , for none of whom he had felt the smallest interest , and from none received either attention or pleasure .
+Darcy	B-CHARACTER
+,	O
+on	O
+the	O
+contrary	O
+,	O
+had	O
+seen	O
+a	O
+collection	O
+of	O
+people	O
+in	O
+whom	O
+there	O
+was	O
+little	O
+beauty	O
+and	O
+no	O
+fashion	O
+,	O
+for	O
+none	O
+of	O
+whom	O
+he	O
+had	O
+felt	O
+the	O
+smallest	O
+interest	O
+,	O
+and	O
+from	O
+none	O
+received	O
+either	O
+attention	O
+or	O
+pleasure	O
+.	O
+
+# id = conivel-pride-and-prejudice-000267
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Miss Bennet he acknowledged to be pretty , but she smiled too much .
+Miss	B-CHARACTER
+Bennet	I-CHARACTER
+he	O
+acknowledged	O
+to	O
+be	O
+pretty	O
+,	O
+but	O
+she	O
+smiled	O
+too	O
+much	O
+.	O
+
+# id = conivel-pride-and-prejudice-000268
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mrs. Hurst and her sister allowed it to be so -- but still they admired her and liked her , and pronounced her to be a sweet girl , and one whom they would not object to know more of .
+Mrs.	B-CHARACTER
+Hurst	I-CHARACTER
+and	O
+her	O
+sister	O
+allowed	O
+it	O
+to	O
+be	O
+so	O
+--	O
+but	O
+still	O
+they	O
+admired	O
+her	O
+and	O
+liked	O
+her	O
+,	O
+and	O
+pronounced	O
+her	O
+to	O
+be	O
+a	O
+sweet	O
+girl	O
+,	O
+and	O
+one	O
+whom	O
+they	O
+would	O
+not	O
+object	O
+to	O
+know	O
+more	O
+of	O
+.	O
+
+# id = conivel-pride-and-prejudice-000269
+# source = Conivel corrected OWTO literary NER
+# book = Pride and Prejudice
+# source_file = PrideAndPrejudice.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Miss Bennet was therefore established as a sweet girl , and their brother felt authorized by such commendation to think of her as he chose .
+Miss	B-CHARACTER
+Bennet	I-CHARACTER
+was	O
+therefore	O
+established	O
+as	O
+a	O
+sweet	O
+girl	O
+,	O
+and	O
+their	O
+brother	O
+felt	O
+authorized	O
+by	O
+such	O
+commendation	O
+to	O
+think	O
+of	O
+her	O
+as	O
+he	O
+chose	O
+.	O
+

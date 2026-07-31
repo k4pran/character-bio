@@ -1,0 +1,2277 @@
+# id = conivel-the-blade-itself-000001
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Homer The Survivors The lapping of water in his ears .
+Homer	B-CHARACTER
+The	O
+Survivors	O
+The	O
+lapping	O
+of	O
+water	O
+in	O
+his	O
+ears	O
+.	O
+
+# id = conivel-the-blade-itself-000002
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That was the first thing .
+That	O
+was	O
+the	O
+first	O
+thing	O
+.	O
+
+# id = conivel-the-blade-itself-000003
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The lapping of water , the rustling of trees , the odd click and twitter of a bird .
+The	O
+lapping	O
+of	O
+water	O
+,	O
+the	O
+rustling	O
+of	O
+trees	O
+,	O
+the	O
+odd	O
+click	O
+and	O
+twitter	O
+of	O
+a	O
+bird	O
+.	O
+
+# id = conivel-the-blade-itself-000004
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Logen opened his eyes a crack .
+Logen	B-CHARACTER
+opened	O
+his	O
+eyes	O
+a	O
+crack	O
+.	O
+
+# id = conivel-the-blade-itself-000005
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Light , blurry bright through leaves .
+Light	O
+,	O
+blurry	O
+bright	O
+through	O
+leaves	O
+.	O
+
+# id = conivel-the-blade-itself-000006
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = This was death ?
+This	O
+was	O
+death	O
+?	O
+
+# id = conivel-the-blade-itself-000007
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then why did it hurt so much ?
+Then	O
+why	O
+did	O
+it	O
+hurt	O
+so	O
+much	O
+?	O
+
+# id = conivel-the-blade-itself-000008
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His whole left side was throbbing .
+His	O
+whole	O
+left	O
+side	O
+was	O
+throbbing	O
+.	O
+
+# id = conivel-the-blade-itself-000009
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He tried to take a proper breath , choked , coughed up water , spat out mud .
+He	O
+tried	O
+to	O
+take	O
+a	O
+proper	O
+breath	O
+,	O
+choked	O
+,	O
+coughed	O
+up	O
+water	O
+,	O
+spat	O
+out	O
+mud	O
+.	O
+
+# id = conivel-the-blade-itself-000010
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He groaned , flopped over onto his hands and knees , dragged himself up out of the river , gasping through clenched teeth , rolled onto his back in the moss and slime and rotten sticks at the water 's edge .
+He	O
+groaned	O
+,	O
+flopped	O
+over	O
+onto	O
+his	O
+hands	O
+and	O
+knees	O
+,	O
+dragged	O
+himself	O
+up	O
+out	O
+of	O
+the	O
+river	O
+,	O
+gasping	O
+through	O
+clenched	O
+teeth	O
+,	O
+rolled	O
+onto	O
+his	O
+back	O
+in	O
+the	O
+moss	O
+and	O
+slime	O
+and	O
+rotten	O
+sticks	O
+at	O
+the	O
+water	O
+'s	O
+edge	O
+.	O
+
+# id = conivel-the-blade-itself-000011
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He lay there for a moment , staring up at the grey sky beyond the black branches , breath wheezing in his raw throat .
+He	O
+lay	O
+there	O
+for	O
+a	O
+moment	O
+,	O
+staring	O
+up	O
+at	O
+the	O
+grey	O
+sky	O
+beyond	O
+the	O
+black	O
+branches	O
+,	O
+breath	O
+wheezing	O
+in	O
+his	O
+raw	O
+throat	O
+.	O
+
+# id = conivel-the-blade-itself-000012
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I am still alive , ''
+``	O
+I	O
+am	O
+still	O
+alive	O
+,	O
+''	O
+
+# id = conivel-the-blade-itself-000013
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he croaked to himself .
+he	O
+croaked	O
+to	O
+himself	O
+.	O
+
+# id = conivel-the-blade-itself-000014
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Still alive , in spite of the best efforts of nature , Shanka , men and beasts .
+Still	O
+alive	O
+,	O
+in	O
+spite	O
+of	O
+the	O
+best	O
+efforts	O
+of	O
+nature	O
+,	O
+Shanka	O
+,	O
+men	O
+and	O
+beasts	O
+.	O
+
+# id = conivel-the-blade-itself-000015
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Soaking wet and flat on his back , he started to chuckle .
+Soaking	O
+wet	O
+and	O
+flat	O
+on	O
+his	O
+back	O
+,	O
+he	O
+started	O
+to	O
+chuckle	O
+.	O
+
+# id = conivel-the-blade-itself-000016
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Reedy , gurgling laughter .
+Reedy	O
+,	O
+gurgling	O
+laughter	O
+.	O
+
+# id = conivel-the-blade-itself-000017
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Say one thing for Logen Ninefingers , say he 's a survivor .
+Say	O
+one	O
+thing	O
+for	O
+Logen	B-CHARACTER
+Ninefingers	I-CHARACTER
+,	O
+say	O
+he	O
+'s	O
+a	O
+survivor	O
+.	O
+
+# id = conivel-the-blade-itself-000018
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A cold wind blew across the rotting river bank , and Logen 's laughter slowly died .
+A	O
+cold	O
+wind	O
+blew	O
+across	O
+the	O
+rotting	O
+river	O
+bank	O
+,	O
+and	O
+Logen	B-CHARACTER
+'s	O
+laughter	O
+slowly	O
+died	O
+.	O
+
+# id = conivel-the-blade-itself-000019
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Alive he might be , but staying alive , that was another question .
+Alive	O
+he	O
+might	O
+be	O
+,	O
+but	O
+staying	O
+alive	O
+,	O
+that	O
+was	O
+another	O
+question	O
+.	O
+
+# id = conivel-the-blade-itself-000020
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He sat up , wincing at the pain .
+He	O
+sat	O
+up	O
+,	O
+wincing	O
+at	O
+the	O
+pain	O
+.	O
+
+# id = conivel-the-blade-itself-000021
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He tottered to his feet , leaning against the nearest tree trunk .
+He	O
+tottered	O
+to	O
+his	O
+feet	O
+,	O
+leaning	O
+against	O
+the	O
+nearest	O
+tree	O
+trunk	O
+.	O
+
+# id = conivel-the-blade-itself-000022
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He scraped the dirt out of his nose , his eyes , his ears .
+He	O
+scraped	O
+the	O
+dirt	O
+out	O
+of	O
+his	O
+nose	O
+,	O
+his	O
+eyes	O
+,	O
+his	O
+ears	O
+.	O
+
+# id = conivel-the-blade-itself-000023
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He pulled up his wet shirt to take a look at the damage .
+He	O
+pulled	O
+up	O
+his	O
+wet	O
+shirt	O
+to	O
+take	O
+a	O
+look	O
+at	O
+the	O
+damage	O
+.	O
+
+# id = conivel-the-blade-itself-000024
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His side was covered in bruises from the fall .
+His	O
+side	O
+was	O
+covered	O
+in	O
+bruises	O
+from	O
+the	O
+fall	O
+.	O
+
+# id = conivel-the-blade-itself-000025
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Blue and purple stains all up his ribs .
+Blue	O
+and	O
+purple	O
+stains	O
+all	O
+up	O
+his	O
+ribs	O
+.	O
+
+# id = conivel-the-blade-itself-000026
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tender to the touch , and no mistake , but it did n't feel like anything was broken .
+Tender	O
+to	O
+the	O
+touch	O
+,	O
+and	O
+no	O
+mistake	O
+,	O
+but	O
+it	O
+did	O
+n't	O
+feel	O
+like	O
+anything	O
+was	O
+broken	O
+.	O
+
+# id = conivel-the-blade-itself-000027
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His leg was a mess .
+His	O
+leg	O
+was	O
+a	O
+mess	O
+.	O
+
+# id = conivel-the-blade-itself-000028
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Torn and bloody from the Shanka 's teeth .
+Torn	O
+and	O
+bloody	O
+from	O
+the	O
+Shanka	O
+'s	O
+teeth	O
+.	O
+
+# id = conivel-the-blade-itself-000029
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It hurt bad , but his foot still moved well enough , and that was the main thing .
+It	O
+hurt	O
+bad	O
+,	O
+but	O
+his	O
+foot	O
+still	O
+moved	O
+well	O
+enough	O
+,	O
+and	O
+that	O
+was	O
+the	O
+main	O
+thing	O
+.	O
+
+# id = conivel-the-blade-itself-000030
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He 'd need his foot , if he was going to get out of this .
+He	O
+'d	O
+need	O
+his	O
+foot	O
+,	O
+if	O
+he	O
+was	O
+going	O
+to	O
+get	O
+out	O
+of	O
+this	O
+.	O
+
+# id = conivel-the-blade-itself-000031
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He still had his knife in the sheath at his belt , and he was mightily glad to see it .
+He	O
+still	O
+had	O
+his	O
+knife	O
+in	O
+the	O
+sheath	O
+at	O
+his	O
+belt	O
+,	O
+and	O
+he	O
+was	O
+mightily	O
+glad	O
+to	O
+see	O
+it	O
+.	O
+
+# id = conivel-the-blade-itself-000032
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You could never have too many knives in Logen 's experience , and this was a good one , but the outlook was still bleak .
+You	O
+could	O
+never	O
+have	O
+too	O
+many	O
+knives	O
+in	O
+Logen	B-CHARACTER
+'s	O
+experience	O
+,	O
+and	O
+this	O
+was	O
+a	O
+good	O
+one	O
+,	O
+but	O
+the	O
+outlook	O
+was	O
+still	O
+bleak	O
+.	O
+
+# id = conivel-the-blade-itself-000033
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was on his own , in woods crawling with Flatheads .
+He	O
+was	O
+on	O
+his	O
+own	O
+,	O
+in	O
+woods	O
+crawling	O
+with	O
+Flatheads	O
+.	O
+
+# id = conivel-the-blade-itself-000034
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had no idea where he was , but he could follow the river .
+He	O
+had	O
+no	O
+idea	O
+where	O
+he	O
+was	O
+,	O
+but	O
+he	O
+could	O
+follow	O
+the	O
+river	O
+.	O
+
+# id = conivel-the-blade-itself-000035
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The rivers all flowed north , from the mountains to the cold sea .
+The	O
+rivers	O
+all	O
+flowed	O
+north	O
+,	O
+from	O
+the	O
+mountains	O
+to	O
+the	O
+cold	O
+sea	O
+.	O
+
+# id = conivel-the-blade-itself-000036
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Follow the river southwards , against the current .
+Follow	O
+the	O
+river	O
+southwards	O
+,	O
+against	O
+the	O
+current	O
+.	O
+
+# id = conivel-the-blade-itself-000037
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Follow the river and climb up , into the High Places where the Shanka could n't find him .
+Follow	O
+the	O
+river	O
+and	O
+climb	O
+up	O
+,	O
+into	O
+the	O
+High	B-LOCATION
+Places	I-LOCATION
+where	O
+the	O
+Shanka	O
+could	O
+n't	O
+find	O
+him	O
+.	O
+
+# id = conivel-the-blade-itself-000038
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That was his only chance .
+That	O
+was	O
+his	O
+only	O
+chance	O
+.	O
+
+# id = conivel-the-blade-itself-000039
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It would be cold up there , this time of year .
+It	O
+would	O
+be	O
+cold	O
+up	O
+there	O
+,	O
+this	O
+time	O
+of	O
+year	O
+.	O
+
+# id = conivel-the-blade-itself-000040
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Deadly cold .
+Deadly	O
+cold	O
+.	O
+
+# id = conivel-the-blade-itself-000041
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He looked down at his bare feet .
+He	O
+looked	O
+down	O
+at	O
+his	O
+bare	O
+feet	O
+.	O
+
+# id = conivel-the-blade-itself-000042
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was just his luck that the Shanka had come while he had his boots off , trimming his blisters .
+It	O
+was	O
+just	O
+his	O
+luck	O
+that	O
+the	O
+Shanka	O
+had	O
+come	O
+while	O
+he	O
+had	O
+his	O
+boots	O
+off	O
+,	O
+trimming	O
+his	O
+blisters	O
+.	O
+
+# id = conivel-the-blade-itself-000043
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No coat either -- he 'd been sitting near the fire .
+No	O
+coat	O
+either	O
+--	O
+he	O
+'d	O
+been	O
+sitting	O
+near	O
+the	O
+fire	O
+.	O
+
+# id = conivel-the-blade-itself-000044
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Like this , he would n't last a day in the mountains .
+Like	O
+this	O
+,	O
+he	O
+would	O
+n't	O
+last	O
+a	O
+day	O
+in	O
+the	O
+mountains	O
+.	O
+
+# id = conivel-the-blade-itself-000045
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His hands and feet would turn black in the night , and he 'd die bit by bit before he even reached the passes .
+His	O
+hands	O
+and	O
+feet	O
+would	O
+turn	O
+black	O
+in	O
+the	O
+night	O
+,	O
+and	O
+he	O
+'d	O
+die	O
+bit	O
+by	O
+bit	O
+before	O
+he	O
+even	O
+reached	O
+the	O
+passes	O
+.	O
+
+# id = conivel-the-blade-itself-000046
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If he did n't starve first .
+If	O
+he	O
+did	O
+n't	O
+starve	O
+first	O
+.	O
+
+# id = conivel-the-blade-itself-000047
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Shit , ''
+``	O
+Shit	O
+,	O
+''	O
+
+# id = conivel-the-blade-itself-000048
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he muttered .
+he	O
+muttered	O
+.	O
+
+# id = conivel-the-blade-itself-000049
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had to go back to the camp .
+He	O
+had	O
+to	O
+go	O
+back	O
+to	O
+the	O
+camp	O
+.	O
+
+# id = conivel-the-blade-itself-000050
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had to hope the Flatheads had moved on , hope they 'd left something behind .
+He	O
+had	O
+to	O
+hope	O
+the	O
+Flatheads	O
+had	O
+moved	O
+on	O
+,	O
+hope	O
+they	O
+'d	O
+left	O
+something	O
+behind	O
+.	O
+
+# id = conivel-the-blade-itself-000051
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Something he could use to survive .
+Something	O
+he	O
+could	O
+use	O
+to	O
+survive	O
+.	O
+
+# id = conivel-the-blade-itself-000052
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That was an awful lot of hoping , but he had no choice .
+That	O
+was	O
+an	O
+awful	O
+lot	O
+of	O
+hoping	O
+,	O
+but	O
+he	O
+had	O
+no	O
+choice	O
+.	O
+
+# id = conivel-the-blade-itself-000053
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He never had any choices .
+He	O
+never	O
+had	O
+any	O
+choices	O
+.	O
+
+# id = conivel-the-blade-itself-000054
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It had started to rain by the time Logen found the place .
+It	O
+had	O
+started	O
+to	O
+rain	O
+by	O
+the	O
+time	O
+Logen	B-CHARACTER
+found	O
+the	O
+place	O
+.	O
+
+# id = conivel-the-blade-itself-000055
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Spitting drops that plastered his hair to his skull , kept his clothes wet through .
+Spitting	O
+drops	O
+that	O
+plastered	O
+his	O
+hair	O
+to	O
+his	O
+skull	O
+,	O
+kept	O
+his	O
+clothes	O
+wet	O
+through	O
+.	O
+
+# id = conivel-the-blade-itself-000056
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He pressed himself against a mossy trunk and peered out towards the camp , heart pounding , fingers of his right hand curled painful tight around the slippery grip of his knife .
+He	O
+pressed	O
+himself	O
+against	O
+a	O
+mossy	O
+trunk	O
+and	O
+peered	O
+out	O
+towards	O
+the	O
+camp	O
+,	O
+heart	O
+pounding	O
+,	O
+fingers	O
+of	O
+his	O
+right	O
+hand	O
+curled	O
+painful	O
+tight	O
+around	O
+the	O
+slippery	O
+grip	O
+of	O
+his	O
+knife	O
+.	O
+
+# id = conivel-the-blade-itself-000057
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He saw the blackened circle where the fire had been , half-burned sticks and ash trampled round it .
+He	O
+saw	O
+the	O
+blackened	O
+circle	O
+where	O
+the	O
+fire	O
+had	O
+been	O
+,	O
+half-burned	O
+sticks	O
+and	O
+ash	O
+trampled	O
+round	O
+it	O
+.	O
+
+# id = conivel-the-blade-itself-000058
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He saw the big log Threetrees and Dow had been sitting on when the Flatheads came .
+He	O
+saw	O
+the	O
+big	O
+log	O
+Threetrees	B-CHARACTER
+and	O
+Dow	B-CHARACTER
+had	O
+been	O
+sitting	O
+on	O
+when	O
+the	O
+Flatheads	O
+came	O
+.	O
+
+# id = conivel-the-blade-itself-000059
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He saw odd bits of torn and broken gear scattered across the clearing .
+He	O
+saw	O
+odd	O
+bits	O
+of	O
+torn	O
+and	O
+broken	O
+gear	O
+scattered	O
+across	O
+the	O
+clearing	O
+.	O
+
+# id = conivel-the-blade-itself-000060
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He counted three dead Shanka crumpled on the ground , one with an arrow poking out of its chest .
+He	O
+counted	O
+three	O
+dead	O
+Shanka	O
+crumpled	O
+on	O
+the	O
+ground	O
+,	O
+one	O
+with	O
+an	O
+arrow	O
+poking	O
+out	O
+of	O
+its	O
+chest	O
+.	O
+
+# id = conivel-the-blade-itself-000061
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Three dead ones , but no sign of any alive .
+Three	O
+dead	O
+ones	O
+,	O
+but	O
+no	O
+sign	O
+of	O
+any	O
+alive	O
+.	O
+
+# id = conivel-the-blade-itself-000062
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That was lucky .
+That	O
+was	O
+lucky	O
+.	O
+
+# id = conivel-the-blade-itself-000063
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Just lucky enough to survive , as always .
+Just	O
+lucky	O
+enough	O
+to	O
+survive	O
+,	O
+as	O
+always	O
+.	O
+
+# id = conivel-the-blade-itself-000064
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Still , they might be back at any moment .
+Still	O
+,	O
+they	O
+might	O
+be	O
+back	O
+at	O
+any	O
+moment	O
+.	O
+
+# id = conivel-the-blade-itself-000065
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had to be quick .
+He	O
+had	O
+to	O
+be	O
+quick	O
+.	O
+
+# id = conivel-the-blade-itself-000066
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Logen scuttled out from the trees , casting about on the ground .
+Logen	B-CHARACTER
+scuttled	O
+out	O
+from	O
+the	O
+trees	O
+,	O
+casting	O
+about	O
+on	O
+the	O
+ground	O
+.	O
+
+# id = conivel-the-blade-itself-000067
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His boots were still there where he 'd left them .
+His	O
+boots	O
+were	O
+still	O
+there	O
+where	O
+he	O
+'d	O
+left	O
+them	O
+.	O
+
+# id = conivel-the-blade-itself-000068
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He snatched them up and dragged them on to his freezing feet , hopping around , almost slipping in his haste .
+He	O
+snatched	O
+them	O
+up	O
+and	O
+dragged	O
+them	O
+on	O
+to	O
+his	O
+freezing	O
+feet	O
+,	O
+hopping	O
+around	O
+,	O
+almost	O
+slipping	O
+in	O
+his	O
+haste	O
+.	O
+
+# id = conivel-the-blade-itself-000069
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His coat was there too , wedged under the log , battered and scarred from ten years of weather and war , torn and stitched back together , missing half a sleeve .
+His	O
+coat	O
+was	O
+there	O
+too	O
+,	O
+wedged	O
+under	O
+the	O
+log	O
+,	O
+battered	O
+and	O
+scarred	O
+from	O
+ten	O
+years	O
+of	O
+weather	O
+and	O
+war	O
+,	O
+torn	O
+and	O
+stitched	O
+back	O
+together	O
+,	O
+missing	O
+half	O
+a	O
+sleeve	O
+.	O
+
+# id = conivel-the-blade-itself-000070
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His pack was lying shapeless in the brush nearby , its contents strewn out down the slope .
+His	O
+pack	O
+was	O
+lying	O
+shapeless	O
+in	O
+the	O
+brush	O
+nearby	O
+,	O
+its	O
+contents	O
+strewn	O
+out	O
+down	O
+the	O
+slope	O
+.	O
+
+# id = conivel-the-blade-itself-000071
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He crouched , breathless , throwing it all back inside .
+He	O
+crouched	O
+,	O
+breathless	O
+,	O
+throwing	O
+it	O
+all	O
+back	O
+inside	O
+.	O
+
+# id = conivel-the-blade-itself-000072
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A length of rope , his old clay pipe , some strips of dried meat , needle and twine , a dented flask with some liquor still sloshing inside .
+A	O
+length	O
+of	O
+rope	O
+,	O
+his	O
+old	O
+clay	O
+pipe	O
+,	O
+some	O
+strips	O
+of	O
+dried	O
+meat	O
+,	O
+needle	O
+and	O
+twine	O
+,	O
+a	O
+dented	O
+flask	O
+with	O
+some	O
+liquor	O
+still	O
+sloshing	O
+inside	O
+.	O
+
+# id = conivel-the-blade-itself-000073
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All good .
+All	O
+good	O
+.	O
+
+# id = conivel-the-blade-itself-000074
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All useful .
+All	O
+useful	O
+.	O
+
+# id = conivel-the-blade-itself-000075
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There was a tattered blanket snagged on a branch , wet and half caked in grime .
+There	O
+was	O
+a	O
+tattered	O
+blanket	O
+snagged	O
+on	O
+a	O
+branch	O
+,	O
+wet	O
+and	O
+half	O
+caked	O
+in	O
+grime	O
+.	O
+
+# id = conivel-the-blade-itself-000076
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Logen pulled it up , and grinned .
+Logen	B-CHARACTER
+pulled	O
+it	O
+up	O
+,	O
+and	O
+grinned	O
+.	O
+
+# id = conivel-the-blade-itself-000077
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His old , battered cook pot was underneath .
+His	O
+old	O
+,	O
+battered	O
+cook	O
+pot	O
+was	O
+underneath	O
+.	O
+
+# id = conivel-the-blade-itself-000078
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Lying on its side , kicked off the fire in the fight maybe .
+Lying	O
+on	O
+its	O
+side	O
+,	O
+kicked	O
+off	O
+the	O
+fire	O
+in	O
+the	O
+fight	O
+maybe	O
+.	O
+
+# id = conivel-the-blade-itself-000079
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He grabbed hold of it with both hands .
+He	O
+grabbed	O
+hold	O
+of	O
+it	O
+with	O
+both	O
+hands	O
+.	O
+
+# id = conivel-the-blade-itself-000080
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It felt safe , familiar , dented and blackened from years of hard use .
+It	O
+felt	O
+safe	O
+,	O
+familiar	O
+,	O
+dented	O
+and	O
+blackened	O
+from	O
+years	O
+of	O
+hard	O
+use	O
+.	O
+
+# id = conivel-the-blade-itself-000081
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He 'd had that pot a long time .
+He	O
+'d	O
+had	O
+that	O
+pot	O
+a	O
+long	O
+time	O
+.	O
+
+# id = conivel-the-blade-itself-000082
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It had followed him all through the wars , across the North and back again .
+It	O
+had	O
+followed	O
+him	O
+all	O
+through	O
+the	O
+wars	O
+,	O
+across	O
+the	O
+North	B-LOCATION
+and	O
+back	O
+again	O
+.	O
+
+# id = conivel-the-blade-itself-000083
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They had all cooked in it together , out on the trail , all eaten out of it .
+They	O
+had	O
+all	O
+cooked	O
+in	O
+it	O
+together	O
+,	O
+out	O
+on	O
+the	O
+trail	O
+,	O
+all	O
+eaten	O
+out	O
+of	O
+it	O
+.	O
+
+# id = conivel-the-blade-itself-000084
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Forley , Grim , the Dogman , all of them .
+Forley	B-CHARACTER
+,	O
+Grim	B-CHARACTER
+,	O
+the	O
+Dogman	B-CHARACTER
+,	O
+all	O
+of	O
+them	O
+.	O
+
+# id = conivel-the-blade-itself-000085
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Logen looked over the campsite again .
+Logen	B-CHARACTER
+looked	O
+over	O
+the	O
+campsite	O
+again	O
+.	O
+
+# id = conivel-the-blade-itself-000086
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Three dead Shanka , but none of his people .
+Three	O
+dead	O
+Shanka	O
+,	O
+but	O
+none	O
+of	O
+his	O
+people	O
+.	O
+
+# id = conivel-the-blade-itself-000087
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Maybe they were still out there .
+Maybe	O
+they	O
+were	O
+still	O
+out	O
+there	O
+.	O
+
+# id = conivel-the-blade-itself-000088
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Maybe if he took a risk , tried to look -- `` No . ''
+Maybe	O
+if	O
+he	O
+took	O
+a	O
+risk	O
+,	O
+tried	O
+to	O
+look	O
+--	O
+``	O
+No	O
+.	O
+''	O
+
+# id = conivel-the-blade-itself-000089
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He said it quietly , under his breath .
+He	O
+said	O
+it	O
+quietly	O
+,	O
+under	O
+his	O
+breath	O
+.	O
+
+# id = conivel-the-blade-itself-000090
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He knew better than that .
+He	O
+knew	O
+better	O
+than	O
+that	O
+.	O
+
+# id = conivel-the-blade-itself-000091
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = There had been a lot of Flatheads .
+There	O
+had	O
+been	O
+a	O
+lot	O
+of	O
+Flatheads	O
+.	O
+
+# id = conivel-the-blade-itself-000092
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = An awful lot .
+An	O
+awful	O
+lot	O
+.	O
+
+# id = conivel-the-blade-itself-000093
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had no idea how long he 'd lain on the river bank .
+He	O
+had	O
+no	O
+idea	O
+how	O
+long	O
+he	O
+'d	O
+lain	O
+on	O
+the	O
+river	O
+bank	O
+.	O
+
+# id = conivel-the-blade-itself-000094
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Even if a couple of the boys had got away , the Shanka would be hunting them , hunting them down in the forests .
+Even	O
+if	O
+a	O
+couple	O
+of	O
+the	O
+boys	O
+had	O
+got	O
+away	O
+,	O
+the	O
+Shanka	O
+would	O
+be	O
+hunting	O
+them	O
+,	O
+hunting	O
+them	O
+down	O
+in	O
+the	O
+forests	O
+.	O
+
+# id = conivel-the-blade-itself-000095
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were nothing but corpses now , for sure , scattered across the high valleys .
+They	O
+were	O
+nothing	O
+but	O
+corpses	O
+now	O
+,	O
+for	O
+sure	O
+,	O
+scattered	O
+across	O
+the	O
+high	O
+valleys	O
+.	O
+
+# id = conivel-the-blade-itself-000096
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All Logen could do was make for the mountains , and try to save his own sorry life .
+All	O
+Logen	B-CHARACTER
+could	O
+do	O
+was	O
+make	O
+for	O
+the	O
+mountains	O
+,	O
+and	O
+try	O
+to	O
+save	O
+his	O
+own	O
+sorry	O
+life	O
+.	O
+
+# id = conivel-the-blade-itself-000097
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You have to be realistic .
+You	O
+have	O
+to	O
+be	O
+realistic	O
+.	O
+
+# id = conivel-the-blade-itself-000098
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Have to be , however much it hurts .
+Have	O
+to	O
+be	O
+,	O
+however	O
+much	O
+it	O
+hurts	O
+.	O
+
+# id = conivel-the-blade-itself-000099
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` It 's just you and me now , ''
+``	O
+It	O
+'s	O
+just	O
+you	O
+and	O
+me	O
+now	O
+,	O
+''	O
+
+# id = conivel-the-blade-itself-000100
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Logen as he stuffed the pot into his pack and threw it over his shoulder .
+said	O
+Logen	B-CHARACTER
+as	O
+he	O
+stuffed	O
+the	O
+pot	O
+into	O
+his	O
+pack	O
+and	O
+threw	O
+it	O
+over	O
+his	O
+shoulder	O
+.	O
+
+# id = conivel-the-blade-itself-000101
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He started to limp off , as fast as he could .
+He	O
+started	O
+to	O
+limp	O
+off	O
+,	O
+as	O
+fast	O
+as	O
+he	O
+could	O
+.	O
+
+# id = conivel-the-blade-itself-000102
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Uphill , towards the river , towards the mountains .
+Uphill	O
+,	O
+towards	O
+the	O
+river	O
+,	O
+towards	O
+the	O
+mountains	O
+.	O
+
+# id = conivel-the-blade-itself-000103
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Just the two of them .
+Just	O
+the	O
+two	O
+of	O
+them	O
+.	O
+
+# id = conivel-the-blade-itself-000104
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Him and the pot .
+Him	O
+and	O
+the	O
+pot	O
+.	O
+
+# id = conivel-the-blade-itself-000105
+# source = Conivel corrected OWTO literary NER
+# book = The Blade Itself
+# source_file = TheBladeItself.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were the only survivors .
+They	O
+were	O
+the	O
+only	O
+survivors	O
+.	O
+

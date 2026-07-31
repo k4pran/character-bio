@@ -1,0 +1,8079 @@
+# id = conivel-brave-new-world-000001
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Over the main en - trance the words , CENTRAL LONDON HATCHERY AND CONDITIONING CENTRE , and , in a shield , the World State 's motto , COMMUNITY , IDEN - TITY , STABILITY .
+Over	O
+the	O
+main	O
+en	O
+-	O
+trance	O
+the	O
+words	O
+,	O
+CENTRAL	B-LOCATION
+LONDON	I-LOCATION
+HATCHERY	I-LOCATION
+AND	I-LOCATION
+CONDITIONING	I-LOCATION
+CENTRE	I-LOCATION
+,	O
+and	O
+,	O
+in	O
+a	O
+shield	O
+,	O
+the	O
+World	O
+State	O
+'s	O
+motto	O
+,	O
+COMMUNITY	O
+,	O
+IDEN	O
+-	O
+TITY	O
+,	O
+STABILITY	O
+.	O
+
+# id = conivel-brave-new-world-000002
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The enormous room on the ground floor faced towards the north .
+The	O
+enormous	O
+room	O
+on	O
+the	O
+ground	O
+floor	O
+faced	O
+towards	O
+the	O
+north	O
+.	O
+
+# id = conivel-brave-new-world-000003
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Cold for all the summer beyond the panes , for all the tropical heat of the room itself , a harsh thin light glared through the windows , hungrily seeking some draped lay figure , some pallid shape of academic goose - flesh , but finding only the glass and nickel and bleakly shining porce - lain of a laboratory .
+Cold	O
+for	O
+all	O
+the	O
+summer	O
+beyond	O
+the	O
+panes	O
+,	O
+for	O
+all	O
+the	O
+tropical	O
+heat	O
+of	O
+the	O
+room	O
+itself	O
+,	O
+a	O
+harsh	O
+thin	O
+light	O
+glared	O
+through	O
+the	O
+windows	O
+,	O
+hungrily	O
+seeking	O
+some	O
+draped	O
+lay	O
+figure	O
+,	O
+some	O
+pallid	O
+shape	O
+of	O
+academic	O
+goose	O
+-	O
+flesh	O
+,	O
+but	O
+finding	O
+only	O
+the	O
+glass	O
+and	O
+nickel	O
+and	O
+bleakly	O
+shining	O
+porce	O
+-	O
+lain	O
+of	O
+a	O
+laboratory	O
+.	O
+
+# id = conivel-brave-new-world-000004
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Wintriness responded to wintriness .
+Wintriness	O
+responded	O
+to	O
+wintriness	O
+.	O
+
+# id = conivel-brave-new-world-000005
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The overalls of the workers were white , their hands gloved with a pale corpse - coloured rubber .
+The	O
+overalls	O
+of	O
+the	O
+workers	O
+were	O
+white	O
+,	O
+their	O
+hands	O
+gloved	O
+with	O
+a	O
+pale	O
+corpse	O
+-	O
+coloured	O
+rubber	O
+.	O
+
+# id = conivel-brave-new-world-000006
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The light was frozen , dead , a ghost .
+The	O
+light	O
+was	O
+frozen	O
+,	O
+dead	O
+,	O
+a	O
+ghost	O
+.	O
+
+# id = conivel-brave-new-world-000007
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Only from the yellow barrels of the microscopes did it borrow a certain rich and living substance , lying along the polished tubes like butter , streak after luscious streak in long recession down the work tables .
+Only	O
+from	O
+the	O
+yellow	O
+barrels	O
+of	O
+the	O
+microscopes	O
+did	O
+it	O
+borrow	O
+a	O
+certain	O
+rich	O
+and	O
+living	O
+substance	O
+,	O
+lying	O
+along	O
+the	O
+polished	O
+tubes	O
+like	O
+butter	O
+,	O
+streak	O
+after	O
+luscious	O
+streak	O
+in	O
+long	O
+recession	O
+down	O
+the	O
+work	O
+tables	O
+.	O
+
+# id = conivel-brave-new-world-000008
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And this , ''
+``	O
+And	O
+this	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000009
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the Director opening the door , `` is the Fertilizing Room . ''
+said	O
+the	O
+Director	B-CHARACTER
+opening	O
+the	O
+door	O
+,	O
+``	O
+is	O
+the	O
+Fertilizing	B-LOCATION
+Room	I-LOCATION
+.	O
+''	O
+
+# id = conivel-brave-new-world-000010
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Bent over their instruments , three hundred Fertilizers were plunged , as the Director of Hatcheries and Conditioning entered the room , in the scarcely breathing silence , the absent-minded , soliloquizing hum or whistle , of absorbed concentration .
+Bent	O
+over	O
+their	O
+instruments	O
+,	O
+three	O
+hundred	O
+Fertilizers	O
+were	O
+plunged	O
+,	O
+as	O
+the	O
+Director	B-CHARACTER
+of	O
+Hatcheries	O
+and	O
+Conditioning	O
+entered	O
+the	O
+room	O
+,	O
+in	O
+the	O
+scarcely	O
+breathing	O
+silence	O
+,	O
+the	O
+absent-minded	O
+,	O
+soliloquizing	O
+hum	O
+or	O
+whistle	O
+,	O
+of	O
+absorbed	O
+concentration	O
+.	O
+
+# id = conivel-brave-new-world-000011
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A troop of newly arrived students , very young , pink and callow , followed nervously , rather abjectly , at the Director 's heels .
+A	O
+troop	O
+of	O
+newly	O
+arrived	O
+students	O
+,	O
+very	O
+young	O
+,	O
+pink	O
+and	O
+callow	O
+,	O
+followed	O
+nervously	O
+,	O
+rather	O
+abjectly	O
+,	O
+at	O
+the	O
+Director	B-CHARACTER
+'s	O
+heels	O
+.	O
+
+# id = conivel-brave-new-world-000012
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Each of them carried a notebook , in which , whenever the great man spoke , he desperately scribbled .
+Each	O
+of	O
+them	O
+carried	O
+a	O
+notebook	O
+,	O
+in	O
+which	O
+,	O
+whenever	O
+the	O
+great	O
+man	O
+spoke	O
+,	O
+he	O
+desperately	O
+scribbled	O
+.	O
+
+# id = conivel-brave-new-world-000013
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Straight from the horse 's mouth .
+Straight	O
+from	O
+the	O
+horse	O
+'s	O
+mouth	O
+.	O
+
+# id = conivel-brave-new-world-000014
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was a rare privilege .
+It	O
+was	O
+a	O
+rare	O
+privilege	O
+.	O
+
+# id = conivel-brave-new-world-000015
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The D. H. C. for Central London always made a point of personally conducting his new students round the various departments .
+The	O
+D.	B-CHARACTER
+H.	I-CHARACTER
+C.	I-CHARACTER
+for	O
+Central	O
+London	O
+always	O
+made	O
+a	O
+point	O
+of	O
+personally	O
+conducting	O
+his	O
+new	O
+students	O
+round	O
+the	O
+various	O
+departments	O
+.	O
+
+# id = conivel-brave-new-world-000016
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Just to give you a general idea , ''
+``	O
+Just	O
+to	O
+give	O
+you	O
+a	O
+general	O
+idea	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000017
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he would explain to them .
+he	O
+would	O
+explain	O
+to	O
+them	O
+.	O
+
+# id = conivel-brave-new-world-000018
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For of course some sort of general idea they must have , if they were to do their work intelligently-though as little of one , if they were to be good and happy members of society , as possible .
+For	O
+of	O
+course	O
+some	O
+sort	O
+of	O
+general	O
+idea	O
+they	O
+must	O
+have	O
+,	O
+if	O
+they	O
+were	O
+to	O
+do	O
+their	O
+work	O
+intelligently-though	O
+as	O
+little	O
+of	O
+one	O
+,	O
+if	O
+they	O
+were	O
+to	O
+be	O
+good	O
+and	O
+happy	O
+members	O
+of	O
+society	O
+,	O
+as	O
+possible	O
+.	O
+
+# id = conivel-brave-new-world-000019
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For particulars , as every one knows , make for virtue and happiness ; generalities are intellectu - ally necessary evils .
+For	O
+particulars	O
+,	O
+as	O
+every	O
+one	O
+knows	O
+,	O
+make	O
+for	O
+virtue	O
+and	O
+happiness	O
+;	O
+generalities	O
+are	O
+intellectu	O
+-	O
+ally	O
+necessary	O
+evils	O
+.	O
+
+# id = conivel-brave-new-world-000020
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Not philosophers but fret-sawyers and stamp col - lectors compose the backbone of society .
+Not	O
+philosophers	O
+but	O
+fret-sawyers	O
+and	O
+stamp	O
+col	O
+-	O
+lectors	O
+compose	O
+the	O
+backbone	O
+of	O
+society	O
+.	O
+
+# id = conivel-brave-new-world-000021
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` To-morrow , ''
+``	O
+To-morrow	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000022
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he would add , smiling at them with a slightly menacing geniality , `` you 'll be settling down to serious work .
+he	O
+would	O
+add	O
+,	O
+smiling	O
+at	O
+them	O
+with	O
+a	O
+slightly	O
+menacing	O
+geniality	O
+,	O
+``	O
+you	O
+'ll	O
+be	O
+settling	O
+down	O
+to	O
+serious	O
+work	O
+.	O
+
+# id = conivel-brave-new-world-000023
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You wo n't have time for generalities .
+You	O
+wo	O
+n't	O
+have	O
+time	O
+for	O
+generalities	O
+.	O
+
+# id = conivel-brave-new-world-000024
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Meanwhile ... ''
+Meanwhile	O
+...	O
+''	O
+
+# id = conivel-brave-new-world-000025
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Meanwhile , it was a privilege .
+Meanwhile	O
+,	O
+it	O
+was	O
+a	O
+privilege	O
+.	O
+
+# id = conivel-brave-new-world-000026
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Straight from the horse 's mouth into the notebook .
+Straight	O
+from	O
+the	O
+horse	O
+'s	O
+mouth	O
+into	O
+the	O
+notebook	O
+.	O
+
+# id = conivel-brave-new-world-000027
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The boys scribbled like mad .
+The	O
+boys	O
+scribbled	O
+like	O
+mad	O
+.	O
+
+# id = conivel-brave-new-world-000028
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Tall and rather thin but upright , the Director advanced into the room .
+Tall	O
+and	O
+rather	O
+thin	O
+but	O
+upright	O
+,	O
+the	O
+Director	B-CHARACTER
+advanced	O
+into	O
+the	O
+room	O
+.	O
+
+# id = conivel-brave-new-world-000029
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He had a long chin and big rather prominent teeth , just covered , when he was not talking , by his full , floridly curved lips .
+He	O
+had	O
+a	O
+long	O
+chin	O
+and	O
+big	O
+rather	O
+prominent	O
+teeth	O
+,	O
+just	O
+covered	O
+,	O
+when	O
+he	O
+was	O
+not	O
+talking	O
+,	O
+by	O
+his	O
+full	O
+,	O
+floridly	O
+curved	O
+lips	O
+.	O
+
+# id = conivel-brave-new-world-000030
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Old , young ?
+Old	O
+,	O
+young	O
+?	O
+
+# id = conivel-brave-new-world-000031
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Thirty ?
+Thirty	O
+?	O
+
+# id = conivel-brave-new-world-000032
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Fifty ?
+Fifty	O
+?	O
+
+# id = conivel-brave-new-world-000033
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Fifty-five ?
+Fifty-five	O
+?	O
+
+# id = conivel-brave-new-world-000034
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It was hard to say .
+It	O
+was	O
+hard	O
+to	O
+say	O
+.	O
+
+# id = conivel-brave-new-world-000035
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And anyhow the question did n't arise ; in this year of stability , A. F. 632 , it did n't occur to you to ask it .
+And	O
+anyhow	O
+the	O
+question	O
+did	O
+n't	O
+arise	O
+;	O
+in	O
+this	O
+year	O
+of	O
+stability	O
+,	O
+A.	O
+F.	O
+632	O
+,	O
+it	O
+did	O
+n't	O
+occur	O
+to	O
+you	O
+to	O
+ask	O
+it	O
+.	O
+
+# id = conivel-brave-new-world-000036
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` I shall begin at the beginning , ''
+``	O
+I	O
+shall	O
+begin	O
+at	O
+the	O
+beginning	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000037
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the D.H.C. and the more zealous students recorded his intention in their notebooks : Begin at the begin - ning .
+said	O
+the	O
+D.H.C.	B-CHARACTER
+and	O
+the	O
+more	O
+zealous	O
+students	O
+recorded	O
+his	O
+intention	O
+in	O
+their	O
+notebooks	O
+:	O
+Begin	O
+at	O
+the	O
+begin	O
+-	O
+ning	O
+.	O
+
+# id = conivel-brave-new-world-000038
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` These , ''
+``	O
+These	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000039
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he waved his hand , `` are the incubators . ''
+he	O
+waved	O
+his	O
+hand	O
+,	O
+``	O
+are	O
+the	O
+incubators	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000040
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And opening an insulated door he showed them racks upon racks of numbered test - tubes .
+And	O
+opening	O
+an	O
+insulated	O
+door	O
+he	O
+showed	O
+them	O
+racks	O
+upon	O
+racks	O
+of	O
+numbered	O
+test	O
+-	O
+tubes	O
+.	O
+
+# id = conivel-brave-new-world-000041
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The week 's supply of ova .
+``	O
+The	O
+week	O
+'s	O
+supply	O
+of	O
+ova	O
+.	O
+
+# id = conivel-brave-new-world-000042
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Kept , ''
+Kept	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000043
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he explained , `` at blood heat ; whereas the male gametes , ''
+he	O
+explained	O
+,	O
+``	O
+at	O
+blood	O
+heat	O
+;	O
+whereas	O
+the	O
+male	O
+gametes	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000044
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = and here he opened another door , `` they have to be kept at thirty-five instead of thirty-seven .
+and	O
+here	O
+he	O
+opened	O
+another	O
+door	O
+,	O
+``	O
+they	O
+have	O
+to	O
+be	O
+kept	O
+at	O
+thirty-five	O
+instead	O
+of	O
+thirty-seven	O
+.	O
+
+# id = conivel-brave-new-world-000045
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Full blood heat sterilizes . ''
+Full	O
+blood	O
+heat	O
+sterilizes	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000046
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Rams wrapped in theremogene beget no lambs .
+Rams	O
+wrapped	O
+in	O
+theremogene	O
+beget	O
+no	O
+lambs	O
+.	O
+
+# id = conivel-brave-new-world-000047
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Still leaning against the incubators he gave them , while the pencils scurried illegibly across the pages , a brief description of the modern fertilizing process ; spoke first , of course , of its surgical introduc - tion - `` the operation undergone voluntarily for the good of Society , not to mention the fact that it carries a bonus amounting to six months ' salary ''
+Still	O
+leaning	O
+against	O
+the	O
+incubators	O
+he	O
+gave	O
+them	O
+,	O
+while	O
+the	O
+pencils	O
+scurried	O
+illegibly	O
+across	O
+the	O
+pages	O
+,	O
+a	O
+brief	O
+description	O
+of	O
+the	O
+modern	O
+fertilizing	O
+process	O
+;	O
+spoke	O
+first	O
+,	O
+of	O
+course	O
+,	O
+of	O
+its	O
+surgical	O
+introduc	O
+-	O
+tion	O
+-	O
+``	O
+the	O
+operation	O
+undergone	O
+voluntarily	O
+for	O
+the	O
+good	O
+of	O
+Society	O
+,	O
+not	O
+to	O
+mention	O
+the	O
+fact	O
+that	O
+it	O
+carries	O
+a	O
+bonus	O
+amounting	O
+to	O
+six	O
+months	O
+'	O
+salary	O
+''	O
+
+# id = conivel-brave-new-world-000048
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = ; continued with some account of the technique for preserving the excised ovary alive and actively developing ; passed on to a consid - eration of optimum temperature , salinity , viscosity ; referred to the liq - uor in which the detached and ripened eggs were kept ; and , leading his charges to the work tables , actually showed them how this liquor was drawn off from the test-tubes ; how it was let out drop by drop onto the specially warmed slides of the microscopes ; how the eggs which it contained were inspected for abnormalities , counted and transferred to a porous receptacle ; how ( and he now took them to watch the operation ) this receptacle was immersed in a warm bouillon containing free-swimming spermatozoa-at a minimum concentration of one hundred thousand per cubic centimetre , he insisted ; and how , after ten minutes , the container was lifted out of the liquor and its contents re-examined ; how , if any of the eggs remained unfertilized , it was again immersed , and , if necessary , yet again ; how the fertilized ova went back to the incubators ; where the Alphas and Betas re - mained until definitely bottled ; while the Gammas , Deltas and Epsilons were brought out again , after only thirty-six hours , to undergo Bo - kanovsky 's Process .
+;	O
+continued	O
+with	O
+some	O
+account	O
+of	O
+the	O
+technique	O
+for	O
+preserving	O
+the	O
+excised	O
+ovary	O
+alive	O
+and	O
+actively	O
+developing	O
+;	O
+passed	O
+on	O
+to	O
+a	O
+consid	O
+-	O
+eration	O
+of	O
+optimum	O
+temperature	O
+,	O
+salinity	O
+,	O
+viscosity	O
+;	O
+referred	O
+to	O
+the	O
+liq	O
+-	O
+uor	O
+in	O
+which	O
+the	O
+detached	O
+and	O
+ripened	O
+eggs	O
+were	O
+kept	O
+;	O
+and	O
+,	O
+leading	O
+his	O
+charges	O
+to	O
+the	O
+work	O
+tables	O
+,	O
+actually	O
+showed	O
+them	O
+how	O
+this	O
+liquor	O
+was	O
+drawn	O
+off	O
+from	O
+the	O
+test-tubes	O
+;	O
+how	O
+it	O
+was	O
+let	O
+out	O
+drop	O
+by	O
+drop	O
+onto	O
+the	O
+specially	O
+warmed	O
+slides	O
+of	O
+the	O
+microscopes	O
+;	O
+how	O
+the	O
+eggs	O
+which	O
+it	O
+contained	O
+were	O
+inspected	O
+for	O
+abnormalities	O
+,	O
+counted	O
+and	O
+transferred	O
+to	O
+a	O
+porous	O
+receptacle	O
+;	O
+how	O
+(	O
+and	O
+he	O
+now	O
+took	O
+them	O
+to	O
+watch	O
+the	O
+operation	O
+)	O
+this	O
+receptacle	O
+was	O
+immersed	O
+in	O
+a	O
+warm	O
+bouillon	O
+containing	O
+free-swimming	O
+spermatozoa-at	O
+a	O
+minimum	O
+concentration	O
+of	O
+one	O
+hundred	O
+thousand	O
+per	O
+cubic	O
+centimetre	O
+,	O
+he	O
+insisted	O
+;	O
+and	O
+how	O
+,	O
+after	O
+ten	O
+minutes	O
+,	O
+the	O
+container	O
+was	O
+lifted	O
+out	O
+of	O
+the	O
+liquor	O
+and	O
+its	O
+contents	O
+re-examined	O
+;	O
+how	O
+,	O
+if	O
+any	O
+of	O
+the	O
+eggs	O
+remained	O
+unfertilized	O
+,	O
+it	O
+was	O
+again	O
+immersed	O
+,	O
+and	O
+,	O
+if	O
+necessary	O
+,	O
+yet	O
+again	O
+;	O
+how	O
+the	O
+fertilized	O
+ova	O
+went	O
+back	O
+to	O
+the	O
+incubators	O
+;	O
+where	O
+the	O
+Alphas	O
+and	O
+Betas	O
+re	O
+-	O
+mained	O
+until	O
+definitely	O
+bottled	O
+;	O
+while	O
+the	O
+Gammas	O
+,	O
+Deltas	O
+and	O
+Epsilons	O
+were	O
+brought	O
+out	O
+again	O
+,	O
+after	O
+only	O
+thirty-six	O
+hours	O
+,	O
+to	O
+undergo	O
+Bo	B-CHARACTER
+-	I-CHARACTER
+kanovsky	I-CHARACTER
+'s	O
+Process	O
+.	O
+
+# id = conivel-brave-new-world-000049
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Bokanovsky 's Process , ''
+``	O
+Bokanovsky	B-CHARACTER
+'s	O
+Process	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000050
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = repeated the Director , and the students un - derlined the words in their little notebooks .
+repeated	O
+the	O
+Director	B-CHARACTER
+,	O
+and	O
+the	O
+students	O
+un	O
+-	O
+derlined	O
+the	O
+words	O
+in	O
+their	O
+little	O
+notebooks	O
+.	O
+
+# id = conivel-brave-new-world-000051
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One egg , one embryo , one adult-normality .
+One	O
+egg	O
+,	O
+one	O
+embryo	O
+,	O
+one	O
+adult-normality	O
+.	O
+
+# id = conivel-brave-new-world-000052
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But a bokanovskified egg will bud , will proliferate , will divide .
+But	O
+a	O
+bokanovskified	O
+egg	O
+will	O
+bud	O
+,	O
+will	O
+proliferate	O
+,	O
+will	O
+divide	O
+.	O
+
+# id = conivel-brave-new-world-000053
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = From eight to ninety-six buds , and every bud will grow into a perfectly formed embryo , and every embryo into a full-sized adult .
+From	O
+eight	O
+to	O
+ninety-six	O
+buds	O
+,	O
+and	O
+every	O
+bud	O
+will	O
+grow	O
+into	O
+a	O
+perfectly	O
+formed	O
+embryo	O
+,	O
+and	O
+every	O
+embryo	O
+into	O
+a	O
+full-sized	O
+adult	O
+.	O
+
+# id = conivel-brave-new-world-000054
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Making ninety-six human beings grow where only one grew before .
+Making	O
+ninety-six	O
+human	O
+beings	O
+grow	O
+where	O
+only	O
+one	O
+grew	O
+before	O
+.	O
+
+# id = conivel-brave-new-world-000055
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Progress .
+Progress	O
+.	O
+
+# id = conivel-brave-new-world-000056
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Essentially , ''
+``	O
+Essentially	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000057
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the D.H.C. concluded , `` bokanovskification consists of a series of arrests of development .
+the	O
+D.H.C.	B-CHARACTER
+concluded	O
+,	O
+``	O
+bokanovskification	O
+consists	O
+of	O
+a	O
+series	O
+of	O
+arrests	O
+of	O
+development	O
+.	O
+
+# id = conivel-brave-new-world-000058
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We check the normal growth and , paradoxically enough , the egg responds by budding . ''
+We	O
+check	O
+the	O
+normal	O
+growth	O
+and	O
+,	O
+paradoxically	O
+enough	O
+,	O
+the	O
+egg	O
+responds	O
+by	O
+budding	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000059
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Responds by budding .
+Responds	O
+by	O
+budding	O
+.	O
+
+# id = conivel-brave-new-world-000060
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The pencils were busy .
+The	O
+pencils	O
+were	O
+busy	O
+.	O
+
+# id = conivel-brave-new-world-000061
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He pointed .
+He	O
+pointed	O
+.	O
+
+# id = conivel-brave-new-world-000062
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = On a very slowly moving band a rack-full of test-tubes was entering a large metal box , another , rack-full was emerging .
+On	O
+a	O
+very	O
+slowly	O
+moving	O
+band	O
+a	O
+rack-full	O
+of	O
+test-tubes	O
+was	O
+entering	O
+a	O
+large	O
+metal	O
+box	O
+,	O
+another	O
+,	O
+rack-full	O
+was	O
+emerging	O
+.	O
+
+# id = conivel-brave-new-world-000063
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Machinery faintly purred .
+Machinery	O
+faintly	O
+purred	O
+.	O
+
+# id = conivel-brave-new-world-000064
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It took eight minutes for the tubes to go through , he told them .
+It	O
+took	O
+eight	O
+minutes	O
+for	O
+the	O
+tubes	O
+to	O
+go	O
+through	O
+,	O
+he	O
+told	O
+them	O
+.	O
+
+# id = conivel-brave-new-world-000065
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Eight minutes of hard X-rays being about as much as an egg can stand .
+Eight	O
+minutes	O
+of	O
+hard	O
+X-rays	O
+being	O
+about	O
+as	O
+much	O
+as	O
+an	O
+egg	O
+can	O
+stand	O
+.	O
+
+# id = conivel-brave-new-world-000066
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A few died ; of the rest , the least susceptible divided into two ; most put out four buds ; some eight ; all were returned to the incubators , where the buds began to develop ; then , after two days , were suddenly chilled , chilled and checked .
+A	O
+few	O
+died	O
+;	O
+of	O
+the	O
+rest	O
+,	O
+the	O
+least	O
+susceptible	O
+divided	O
+into	O
+two	O
+;	O
+most	O
+put	O
+out	O
+four	O
+buds	O
+;	O
+some	O
+eight	O
+;	O
+all	O
+were	O
+returned	O
+to	O
+the	O
+incubators	O
+,	O
+where	O
+the	O
+buds	O
+began	O
+to	O
+develop	O
+;	O
+then	O
+,	O
+after	O
+two	O
+days	O
+,	O
+were	O
+suddenly	O
+chilled	O
+,	O
+chilled	O
+and	O
+checked	O
+.	O
+
+# id = conivel-brave-new-world-000067
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Two , four , eight , the buds in their turn budded ; and having budded were dosed almost to death with alcohol ; consequently burgeoned again and having budded-bud out of bud out of bud-were thereafter-further arrest being generally fatal-left to develop in peace .
+Two	O
+,	O
+four	O
+,	O
+eight	O
+,	O
+the	O
+buds	O
+in	O
+their	O
+turn	O
+budded	O
+;	O
+and	O
+having	O
+budded	O
+were	O
+dosed	O
+almost	O
+to	O
+death	O
+with	O
+alcohol	O
+;	O
+consequently	O
+burgeoned	O
+again	O
+and	O
+having	O
+budded-bud	O
+out	O
+of	O
+bud	O
+out	O
+of	O
+bud-were	O
+thereafter-further	O
+arrest	O
+being	O
+generally	O
+fatal-left	O
+to	O
+develop	O
+in	O
+peace	O
+.	O
+
+# id = conivel-brave-new-world-000068
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = By which time the original egg was in a fair way to becoming anything from eight to ninety-six embryos - a prodigious improvement , you will agree , on nature .
+By	O
+which	O
+time	O
+the	O
+original	O
+egg	O
+was	O
+in	O
+a	O
+fair	O
+way	O
+to	O
+becoming	O
+anything	O
+from	O
+eight	O
+to	O
+ninety-six	O
+embryos	O
+-	O
+a	O
+prodigious	O
+improvement	O
+,	O
+you	O
+will	O
+agree	O
+,	O
+on	O
+nature	O
+.	O
+
+# id = conivel-brave-new-world-000069
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Identical twins-but not in piddling twos and threes as in the old viviparous days , when an egg would sometimes accidentally divide ; actually by dozens , by scores at a time .
+Identical	O
+twins-but	O
+not	O
+in	O
+piddling	O
+twos	O
+and	O
+threes	O
+as	O
+in	O
+the	O
+old	O
+viviparous	O
+days	O
+,	O
+when	O
+an	O
+egg	O
+would	O
+sometimes	O
+accidentally	O
+divide	O
+;	O
+actually	O
+by	O
+dozens	O
+,	O
+by	O
+scores	O
+at	O
+a	O
+time	O
+.	O
+
+# id = conivel-brave-new-world-000070
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Scores , ''
+``	O
+Scores	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000071
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the Director repeated and flung out his arms , as though he were distributing largesse .
+the	O
+Director	B-CHARACTER
+repeated	O
+and	O
+flung	O
+out	O
+his	O
+arms	O
+,	O
+as	O
+though	O
+he	O
+were	O
+distributing	O
+largesse	O
+.	O
+
+# id = conivel-brave-new-world-000072
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Scores . ''
+``	O
+Scores	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000073
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But one of the students was fool enough to ask where the advantage lay .
+But	O
+one	O
+of	O
+the	O
+students	O
+was	O
+fool	O
+enough	O
+to	O
+ask	O
+where	O
+the	O
+advantage	O
+lay	O
+.	O
+
+# id = conivel-brave-new-world-000074
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` My good boy ! ''
+``	O
+My	O
+good	O
+boy	O
+!	O
+''	O
+
+# id = conivel-brave-new-world-000075
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Director wheeled sharply round on him .
+The	O
+Director	B-CHARACTER
+wheeled	O
+sharply	O
+round	O
+on	O
+him	O
+.	O
+
+# id = conivel-brave-new-world-000076
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ca n't you see ?
+``	O
+Ca	O
+n't	O
+you	O
+see	O
+?	O
+
+# id = conivel-brave-new-world-000077
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ca n't you see ? ''
+Ca	O
+n't	O
+you	O
+see	O
+?	O
+''	O
+
+# id = conivel-brave-new-world-000078
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He raised a hand ; his expression was solemn .
+He	O
+raised	O
+a	O
+hand	O
+;	O
+his	O
+expression	O
+was	O
+solemn	O
+.	O
+
+# id = conivel-brave-new-world-000079
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Bokanovsky 's Process is one of the major instruments of social stabil - ity ! ''
+``	O
+Bokanovsky	B-CHARACTER
+'s	O
+Process	O
+is	O
+one	O
+of	O
+the	O
+major	O
+instruments	O
+of	O
+social	O
+stabil	O
+-	O
+ity	O
+!	O
+''	O
+
+# id = conivel-brave-new-world-000080
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Major instruments of social stability .
+Major	O
+instruments	O
+of	O
+social	O
+stability	O
+.	O
+
+# id = conivel-brave-new-world-000081
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Standard men and women ; in uniform batches .
+Standard	O
+men	O
+and	O
+women	O
+;	O
+in	O
+uniform	O
+batches	O
+.	O
+
+# id = conivel-brave-new-world-000082
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The whole of a small factory staffed with the products of a single bokanovskified egg .
+The	O
+whole	O
+of	O
+a	O
+small	O
+factory	O
+staffed	O
+with	O
+the	O
+products	O
+of	O
+a	O
+single	O
+bokanovskified	O
+egg	O
+.	O
+
+# id = conivel-brave-new-world-000083
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ninety-six identical twins working ninety-six identical machines ! ''
+``	O
+Ninety-six	O
+identical	O
+twins	O
+working	O
+ninety-six	O
+identical	O
+machines	O
+!	O
+''	O
+
+# id = conivel-brave-new-world-000084
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The voice was almost tremulous with enthusiasm .
+The	O
+voice	O
+was	O
+almost	O
+tremulous	O
+with	O
+enthusiasm	O
+.	O
+
+# id = conivel-brave-new-world-000085
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You really know where you are .
+``	O
+You	O
+really	O
+know	O
+where	O
+you	O
+are	O
+.	O
+
+# id = conivel-brave-new-world-000086
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For the first time in history . ''
+For	O
+the	O
+first	O
+time	O
+in	O
+history	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000087
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He quoted the planetary motto .
+He	O
+quoted	O
+the	O
+planetary	O
+motto	O
+.	O
+
+# id = conivel-brave-new-world-000088
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Community , Identity , Stability . ''
+``	O
+Community	O
+,	O
+Identity	O
+,	O
+Stability	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000089
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Grand words .
+Grand	O
+words	O
+.	O
+
+# id = conivel-brave-new-world-000090
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` If we could bo - kanovskify indefinitely the whole problem would be solved . ''
+``	O
+If	O
+we	O
+could	O
+bo	O
+-	O
+kanovskify	O
+indefinitely	O
+the	O
+whole	O
+problem	O
+would	O
+be	O
+solved	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000091
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Solved by standard Gammas , unvarying Deltas , uniform Epsilons .
+Solved	O
+by	O
+standard	O
+Gammas	O
+,	O
+unvarying	O
+Deltas	O
+,	O
+uniform	O
+Epsilons	O
+.	O
+
+# id = conivel-brave-new-world-000092
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mil - lions of identical twins .
+Mil	O
+-	O
+lions	O
+of	O
+identical	O
+twins	O
+.	O
+
+# id = conivel-brave-new-world-000093
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The principle of mass production at last applied to biology .
+The	O
+principle	O
+of	O
+mass	O
+production	O
+at	O
+last	O
+applied	O
+to	O
+biology	O
+.	O
+
+# id = conivel-brave-new-world-000094
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But , alas , ''
+``	O
+But	O
+,	O
+alas	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000095
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the Director shook his head , `` we ca n't bokanovskify indefi - nitely . ''
+the	O
+Director	B-CHARACTER
+shook	O
+his	O
+head	O
+,	O
+``	O
+we	O
+ca	O
+n't	O
+bokanovskify	O
+indefi	O
+-	O
+nitely	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000096
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Ninety-six seemed to be the limit ; seventy-two a good average .
+Ninety-six	O
+seemed	O
+to	O
+be	O
+the	O
+limit	O
+;	O
+seventy-two	O
+a	O
+good	O
+average	O
+.	O
+
+# id = conivel-brave-new-world-000097
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = From the same ovary and with gametes of the same male to manufacture as many batches of identical twins as possible-that was the best ( sadly a second best ) that they could do .
+From	O
+the	O
+same	O
+ovary	O
+and	O
+with	O
+gametes	O
+of	O
+the	O
+same	O
+male	O
+to	O
+manufacture	O
+as	O
+many	O
+batches	O
+of	O
+identical	O
+twins	O
+as	O
+possible-that	O
+was	O
+the	O
+best	O
+(	O
+sadly	O
+a	O
+second	O
+best	O
+)	O
+that	O
+they	O
+could	O
+do	O
+.	O
+
+# id = conivel-brave-new-world-000098
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And even that was difficult .
+And	O
+even	O
+that	O
+was	O
+difficult	O
+.	O
+
+# id = conivel-brave-new-world-000099
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` For in nature it takes thirty years for two hundred eggs to reach ma - turity .
+``	O
+For	O
+in	O
+nature	O
+it	O
+takes	O
+thirty	O
+years	O
+for	O
+two	O
+hundred	O
+eggs	O
+to	O
+reach	O
+ma	O
+-	O
+turity	O
+.	O
+
+# id = conivel-brave-new-world-000100
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But our business is to stabilize the population at this moment , here and now .
+But	O
+our	O
+business	O
+is	O
+to	O
+stabilize	O
+the	O
+population	O
+at	O
+this	O
+moment	O
+,	O
+here	O
+and	O
+now	O
+.	O
+
+# id = conivel-brave-new-world-000101
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Dribbling out twins over a quarter of a century-what would be the use of that ? ''
+Dribbling	O
+out	O
+twins	O
+over	O
+a	O
+quarter	O
+of	O
+a	O
+century-what	O
+would	O
+be	O
+the	O
+use	O
+of	O
+that	O
+?	O
+''	O
+
+# id = conivel-brave-new-world-000102
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Obviously , no use at all .
+Obviously	O
+,	O
+no	O
+use	O
+at	O
+all	O
+.	O
+
+# id = conivel-brave-new-world-000103
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But Podsnap 's Technique had immensely ac - celerated the process of ripening .
+But	O
+Podsnap	B-CHARACTER
+'s	O
+Technique	O
+had	O
+immensely	O
+ac	O
+-	O
+celerated	O
+the	O
+process	O
+of	O
+ripening	O
+.	O
+
+# id = conivel-brave-new-world-000104
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They could make sure of at least a hundred and fifty mature eggs within two years .
+They	O
+could	O
+make	O
+sure	O
+of	O
+at	O
+least	O
+a	O
+hundred	O
+and	O
+fifty	O
+mature	O
+eggs	O
+within	O
+two	O
+years	O
+.	O
+
+# id = conivel-brave-new-world-000105
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Fertilize and bo - kanovskify-in other words , multiply by seventy-two-and you get an average of nearly eleven thousand brothers and sisters in a hundred and fifty batches of identical twins , all within two years of the same age .
+Fertilize	O
+and	O
+bo	O
+-	O
+kanovskify-in	O
+other	O
+words	O
+,	O
+multiply	O
+by	O
+seventy-two-and	O
+you	O
+get	O
+an	O
+average	O
+of	O
+nearly	O
+eleven	O
+thousand	O
+brothers	O
+and	O
+sisters	O
+in	O
+a	O
+hundred	O
+and	O
+fifty	O
+batches	O
+of	O
+identical	O
+twins	O
+,	O
+all	O
+within	O
+two	O
+years	O
+of	O
+the	O
+same	O
+age	O
+.	O
+
+# id = conivel-brave-new-world-000106
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And in exceptional cases we can make one ovary yield us over fifteen thousand adult individuals . ''
+``	O
+And	O
+in	O
+exceptional	O
+cases	O
+we	O
+can	O
+make	O
+one	O
+ovary	O
+yield	O
+us	O
+over	O
+fifteen	O
+thousand	O
+adult	O
+individuals	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000107
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Beckoning to a fair-haired , ruddy young man who happened to be passing at the moment .
+Beckoning	O
+to	O
+a	O
+fair-haired	O
+,	O
+ruddy	O
+young	O
+man	O
+who	O
+happened	O
+to	O
+be	O
+passing	O
+at	O
+the	O
+moment	O
+.	O
+
+# id = conivel-brave-new-world-000108
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Mr. Foster , ''
+``	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-brave-new-world-000109
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he called .
+he	O
+called	O
+.	O
+
+# id = conivel-brave-new-world-000110
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The ruddy young man approached .
+The	O
+ruddy	O
+young	O
+man	O
+approached	O
+.	O
+
+# id = conivel-brave-new-world-000111
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Can you tell us the record for a single ovary , Mr. Foster ? ''
+``	O
+Can	O
+you	O
+tell	O
+us	O
+the	O
+record	O
+for	O
+a	O
+single	O
+ovary	O
+,	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+?	O
+''	O
+
+# id = conivel-brave-new-world-000112
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Sixteen thousand and twelve in this Centre , ''
+``	O
+Sixteen	O
+thousand	O
+and	O
+twelve	O
+in	O
+this	O
+Centre	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000113
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Foster replied with - out hesitation .
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+replied	O
+with	O
+-	O
+out	O
+hesitation	O
+.	O
+
+# id = conivel-brave-new-world-000114
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He spoke very quickly , had a vivacious blue eye , and took an evident pleasure in quoting figures .
+He	O
+spoke	O
+very	O
+quickly	O
+,	O
+had	O
+a	O
+vivacious	O
+blue	O
+eye	O
+,	O
+and	O
+took	O
+an	O
+evident	O
+pleasure	O
+in	O
+quoting	O
+figures	O
+.	O
+
+# id = conivel-brave-new-world-000115
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Sixteen thousand and twelve ; in one hundred and eighty-nine batches of identicals .
+``	O
+Sixteen	O
+thousand	O
+and	O
+twelve	O
+;	O
+in	O
+one	O
+hundred	O
+and	O
+eighty-nine	O
+batches	O
+of	O
+identicals	O
+.	O
+
+# id = conivel-brave-new-world-000116
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But of course they 've done much better , ''
+But	O
+of	O
+course	O
+they	O
+'ve	O
+done	O
+much	O
+better	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000117
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he rattled on , `` in some of the tropi - cal Centres .
+he	O
+rattled	O
+on	O
+,	O
+``	O
+in	O
+some	O
+of	O
+the	O
+tropi	O
+-	O
+cal	O
+Centres	O
+.	O
+
+# id = conivel-brave-new-world-000118
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Singapore has often produced over sixteen thousand five hundred ; and Mombasa has actually touched the seventeen thousand mark .
+Singapore	B-LOCATION
+has	O
+often	O
+produced	O
+over	O
+sixteen	O
+thousand	O
+five	O
+hundred	O
+;	O
+and	O
+Mombasa	B-LOCATION
+has	O
+actually	O
+touched	O
+the	O
+seventeen	O
+thousand	O
+mark	O
+.	O
+
+# id = conivel-brave-new-world-000119
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But then they have unfair advantages .
+But	O
+then	O
+they	O
+have	O
+unfair	O
+advantages	O
+.	O
+
+# id = conivel-brave-new-world-000120
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You should see the way a negro ovary responds to pituitary !
+You	O
+should	O
+see	O
+the	O
+way	O
+a	O
+negro	O
+ovary	O
+responds	O
+to	O
+pituitary	O
+!	O
+
+# id = conivel-brave-new-world-000121
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It 's quite astonishing , when you 're used to working with European material .
+It	O
+'s	O
+quite	O
+astonishing	O
+,	O
+when	O
+you	O
+'re	O
+used	O
+to	O
+working	O
+with	O
+European	O
+material	O
+.	O
+
+# id = conivel-brave-new-world-000122
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Still , ''
+Still	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000123
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he added , with a laugh ( but the light of combat was in his eyes and the lift of his chin was challenging ) , `` still , we mean to beat them if we can .
+he	O
+added	O
+,	O
+with	O
+a	O
+laugh	O
+(	O
+but	O
+the	O
+light	O
+of	O
+combat	O
+was	O
+in	O
+his	O
+eyes	O
+and	O
+the	O
+lift	O
+of	O
+his	O
+chin	O
+was	O
+challenging	O
+)	O
+,	O
+``	O
+still	O
+,	O
+we	O
+mean	O
+to	O
+beat	O
+them	O
+if	O
+we	O
+can	O
+.	O
+
+# id = conivel-brave-new-world-000124
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = I 'm working on a wonderful Delta-Minus ovary at this moment .
+I	O
+'m	O
+working	O
+on	O
+a	O
+wonderful	O
+Delta-Minus	O
+ovary	O
+at	O
+this	O
+moment	O
+.	O
+
+# id = conivel-brave-new-world-000125
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Only just eighteen months old .
+Only	O
+just	O
+eighteen	O
+months	O
+old	O
+.	O
+
+# id = conivel-brave-new-world-000126
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Over twelve thousand seven hundred children already , ei - ther decanted or in embryo .
+Over	O
+twelve	O
+thousand	O
+seven	O
+hundred	O
+children	O
+already	O
+,	O
+ei	O
+-	O
+ther	O
+decanted	O
+or	O
+in	O
+embryo	O
+.	O
+
+# id = conivel-brave-new-world-000127
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And still going strong .
+And	O
+still	O
+going	O
+strong	O
+.	O
+
+# id = conivel-brave-new-world-000128
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We 'll beat them yet . ''
+We	O
+'ll	O
+beat	O
+them	O
+yet	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000129
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That 's the spirit I like ! ''
+``	O
+That	O
+'s	O
+the	O
+spirit	O
+I	O
+like	O
+!	O
+''	O
+
+# id = conivel-brave-new-world-000130
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = cried the Director , and clapped Mr. Foster on the shoulder .
+cried	O
+the	O
+Director	B-CHARACTER
+,	O
+and	O
+clapped	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+on	O
+the	O
+shoulder	O
+.	O
+
+# id = conivel-brave-new-world-000131
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Come along with us , and give these boys the benefit of your expert knowledge . ''
+``	O
+Come	O
+along	O
+with	O
+us	O
+,	O
+and	O
+give	O
+these	O
+boys	O
+the	O
+benefit	O
+of	O
+your	O
+expert	O
+knowledge	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000132
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Foster smiled modestly .
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+smiled	O
+modestly	O
+.	O
+
+# id = conivel-brave-new-world-000133
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` With pleasure . ''
+``	O
+With	O
+pleasure	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000134
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They went .
+They	O
+went	O
+.	O
+
+# id = conivel-brave-new-world-000135
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In the Bottling Room all was harmonious bustle and ordered activity .
+In	O
+the	O
+Bottling	B-LOCATION
+Room	I-LOCATION
+all	O
+was	O
+harmonious	O
+bustle	O
+and	O
+ordered	O
+activity	O
+.	O
+
+# id = conivel-brave-new-world-000136
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Flaps of fresh sow 's peritoneum ready cut to the proper size came shooting up in little lifts from the Organ Store in the sub-basement .
+Flaps	O
+of	O
+fresh	O
+sow	O
+'s	O
+peritoneum	O
+ready	O
+cut	O
+to	O
+the	O
+proper	O
+size	O
+came	O
+shooting	O
+up	O
+in	O
+little	O
+lifts	O
+from	O
+the	O
+Organ	B-LOCATION
+Store	I-LOCATION
+in	O
+the	O
+sub-basement	O
+.	O
+
+# id = conivel-brave-new-world-000137
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Whizz and then , click !
+Whizz	O
+and	O
+then	O
+,	O
+click	O
+!	O
+
+# id = conivel-brave-new-world-000138
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = the lift-hatches hew open ; the bottle-liner had only to reach out a hand , take the flap , insert , smooth-down , and be - fore the lined bottle had had time to travel out of reach along the end - less band , whizz , click !
+the	O
+lift-hatches	O
+hew	O
+open	O
+;	O
+the	O
+bottle-liner	O
+had	O
+only	O
+to	O
+reach	O
+out	O
+a	O
+hand	O
+,	O
+take	O
+the	O
+flap	O
+,	O
+insert	O
+,	O
+smooth-down	O
+,	O
+and	O
+be	O
+-	O
+fore	O
+the	O
+lined	O
+bottle	O
+had	O
+had	O
+time	O
+to	O
+travel	O
+out	O
+of	O
+reach	O
+along	O
+the	O
+end	O
+-	O
+less	O
+band	O
+,	O
+whizz	O
+,	O
+click	O
+!	O
+
+# id = conivel-brave-new-world-000139
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = another flap of peritoneum had shot up from the depths , ready to be slipped into yet another bottle , the next of that slow interminable procession on the band .
+another	O
+flap	O
+of	O
+peritoneum	O
+had	O
+shot	O
+up	O
+from	O
+the	O
+depths	O
+,	O
+ready	O
+to	O
+be	O
+slipped	O
+into	O
+yet	O
+another	O
+bottle	O
+,	O
+the	O
+next	O
+of	O
+that	O
+slow	O
+interminable	O
+procession	O
+on	O
+the	O
+band	O
+.	O
+
+# id = conivel-brave-new-world-000140
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Next to the Liners stood the Matriculators .
+Next	O
+to	O
+the	O
+Liners	O
+stood	O
+the	O
+Matriculators	O
+.	O
+
+# id = conivel-brave-new-world-000141
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The procession advanced ; one by one the eggs were transferred from their test-tubes to the larger containers ; deftly the peritoneal lining was slit , the morula dropped into place , the saline solution poured in ... and already the bottle had passed , and it was the turn of the labellers .
+The	O
+procession	O
+advanced	O
+;	O
+one	O
+by	O
+one	O
+the	O
+eggs	O
+were	O
+transferred	O
+from	O
+their	O
+test-tubes	O
+to	O
+the	O
+larger	O
+containers	O
+;	O
+deftly	O
+the	O
+peritoneal	O
+lining	O
+was	O
+slit	O
+,	O
+the	O
+morula	O
+dropped	O
+into	O
+place	O
+,	O
+the	O
+saline	O
+solution	O
+poured	O
+in	O
+...	O
+and	O
+already	O
+the	O
+bottle	O
+had	O
+passed	O
+,	O
+and	O
+it	O
+was	O
+the	O
+turn	O
+of	O
+the	O
+labellers	O
+.	O
+
+# id = conivel-brave-new-world-000142
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Heredity , date of fertilization , membership of Bokanovsky Group-details were trans - ferred from test-tube to bottle .
+Heredity	O
+,	O
+date	O
+of	O
+fertilization	O
+,	O
+membership	O
+of	O
+Bokanovsky	B-CHARACTER
+Group-details	O
+were	O
+trans	O
+-	O
+ferred	O
+from	O
+test-tube	O
+to	O
+bottle	O
+.	O
+
+# id = conivel-brave-new-world-000143
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = No longer anonymous , but named , identified , the procession marched slowly on ; on through an opening in the wall , slowly on into the Social Predestination Room .
+No	O
+longer	O
+anonymous	O
+,	O
+but	O
+named	O
+,	O
+identified	O
+,	O
+the	O
+procession	O
+marched	O
+slowly	O
+on	O
+;	O
+on	O
+through	O
+an	O
+opening	O
+in	O
+the	O
+wall	O
+,	O
+slowly	O
+on	O
+into	O
+the	O
+Social	B-LOCATION
+Predestination	I-LOCATION
+Room	I-LOCATION
+.	O
+
+# id = conivel-brave-new-world-000144
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Eighty-eight cubic metres of card-index , ''
+``	O
+Eighty-eight	O
+cubic	O
+metres	O
+of	O
+card-index	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000145
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Foster with relish , as they entered .
+said	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+with	O
+relish	O
+,	O
+as	O
+they	O
+entered	O
+.	O
+
+# id = conivel-brave-new-world-000146
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Containing all the relevant information , ''
+``	O
+Containing	O
+all	O
+the	O
+relevant	O
+information	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000147
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = added the Director .
+added	O
+the	O
+Director	B-CHARACTER
+.	O
+
+# id = conivel-brave-new-world-000148
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Brought up to date every morning . ''
+``	O
+Brought	O
+up	O
+to	O
+date	O
+every	O
+morning	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000149
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And co-ordinated every afternoon . ''
+``	O
+And	O
+co-ordinated	O
+every	O
+afternoon	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000150
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` On the basis of which they make their calculations . ''
+``	O
+On	O
+the	O
+basis	O
+of	O
+which	O
+they	O
+make	O
+their	O
+calculations	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000151
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` So many individuals , of such and such quality , ''
+``	O
+So	O
+many	O
+individuals	O
+,	O
+of	O
+such	O
+and	O
+such	O
+quality	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000152
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Foster .
+said	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+.	O
+
+# id = conivel-brave-new-world-000153
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Distributed in such and such quantities . ''
+``	O
+Distributed	O
+in	O
+such	O
+and	O
+such	O
+quantities	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000154
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The optimum Decanting Rate at any given moment . ''
+``	O
+The	O
+optimum	O
+Decanting	O
+Rate	O
+at	O
+any	O
+given	O
+moment	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000155
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Unforeseen wastages promptly made good . ''
+``	O
+Unforeseen	O
+wastages	O
+promptly	O
+made	O
+good	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000156
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Promptly , ''
+``	O
+Promptly	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000157
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = repeated Mr. Foster .
+repeated	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+.	O
+
+# id = conivel-brave-new-world-000158
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` If you knew the amount of overtime I had to put in after the last Japanese earthquake ! ''
+``	O
+If	O
+you	O
+knew	O
+the	O
+amount	O
+of	O
+overtime	O
+I	O
+had	O
+to	O
+put	O
+in	O
+after	O
+the	O
+last	O
+Japanese	O
+earthquake	O
+!	O
+''	O
+
+# id = conivel-brave-new-world-000159
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He laughed good - humouredly and shook his head .
+He	O
+laughed	O
+good	O
+-	O
+humouredly	O
+and	O
+shook	O
+his	O
+head	O
+.	O
+
+# id = conivel-brave-new-world-000160
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The Predestinators send in their figures to the Fertilizers . ''
+``	O
+The	O
+Predestinators	O
+send	O
+in	O
+their	O
+figures	O
+to	O
+the	O
+Fertilizers	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000161
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Who give them the embryos they ask for . ''
+``	O
+Who	O
+give	O
+them	O
+the	O
+embryos	O
+they	O
+ask	O
+for	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000162
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And the bottles come in here to be predestined in detail . ''
+``	O
+And	O
+the	O
+bottles	O
+come	O
+in	O
+here	O
+to	O
+be	O
+predestined	O
+in	O
+detail	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000163
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` After which they are sent down to the Embryo Store . ''
+``	O
+After	O
+which	O
+they	O
+are	O
+sent	O
+down	O
+to	O
+the	O
+Embryo	B-LOCATION
+Store	I-LOCATION
+.	O
+''	O
+
+# id = conivel-brave-new-world-000164
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Where we now proceed ourselves . ''
+``	O
+Where	O
+we	O
+now	O
+proceed	O
+ourselves	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000165
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And opening a door Mr. Foster led the way down a staircase into the basement .
+And	O
+opening	O
+a	O
+door	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+led	O
+the	O
+way	O
+down	O
+a	O
+staircase	O
+into	O
+the	O
+basement	O
+.	O
+
+# id = conivel-brave-new-world-000166
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The temperature was still tropical .
+The	O
+temperature	O
+was	O
+still	O
+tropical	O
+.	O
+
+# id = conivel-brave-new-world-000167
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They descended into a thickening twilight .
+They	O
+descended	O
+into	O
+a	O
+thickening	O
+twilight	O
+.	O
+
+# id = conivel-brave-new-world-000168
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Two doors and a passage with a double turn insured the cellar against any possible infiltration of the day .
+Two	O
+doors	O
+and	O
+a	O
+passage	O
+with	O
+a	O
+double	O
+turn	O
+insured	O
+the	O
+cellar	O
+against	O
+any	O
+possible	O
+infiltration	O
+of	O
+the	O
+day	O
+.	O
+
+# id = conivel-brave-new-world-000169
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` 'Em bryos are like photograph film , ''
+``	O
+'Em	O
+bryos	O
+are	O
+like	O
+photograph	O
+film	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000170
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Foster waggishly , as he pushed open the second door .
+said	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+waggishly	O
+,	O
+as	O
+he	O
+pushed	O
+open	O
+the	O
+second	O
+door	O
+.	O
+
+# id = conivel-brave-new-world-000171
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They can only stand red light . ''
+``	O
+They	O
+can	O
+only	O
+stand	O
+red	O
+light	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000172
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And in effect the sultry darkness into which the students now followed him was visible and crimson , like the darkness of closed eyes on a summer 's afternoon .
+And	O
+in	O
+effect	O
+the	O
+sultry	O
+darkness	O
+into	O
+which	O
+the	O
+students	O
+now	O
+followed	O
+him	O
+was	O
+visible	O
+and	O
+crimson	O
+,	O
+like	O
+the	O
+darkness	O
+of	O
+closed	O
+eyes	O
+on	O
+a	O
+summer	O
+'s	O
+afternoon	O
+.	O
+
+# id = conivel-brave-new-world-000173
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The bulging flanks of row on receding row and tier above tier of bottles glinted with innumerable rubies , and among the rubies moved the dim red spectres of men and women with purple eyes and all the symptoms of lupus .
+The	O
+bulging	O
+flanks	O
+of	O
+row	O
+on	O
+receding	O
+row	O
+and	O
+tier	O
+above	O
+tier	O
+of	O
+bottles	O
+glinted	O
+with	O
+innumerable	O
+rubies	O
+,	O
+and	O
+among	O
+the	O
+rubies	O
+moved	O
+the	O
+dim	O
+red	O
+spectres	O
+of	O
+men	O
+and	O
+women	O
+with	O
+purple	O
+eyes	O
+and	O
+all	O
+the	O
+symptoms	O
+of	O
+lupus	O
+.	O
+
+# id = conivel-brave-new-world-000174
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The hum and rattle of machinery faintly stirred the air .
+The	O
+hum	O
+and	O
+rattle	O
+of	O
+machinery	O
+faintly	O
+stirred	O
+the	O
+air	O
+.	O
+
+# id = conivel-brave-new-world-000175
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Give them a few figures , Mr. Foster , ''
+``	O
+Give	O
+them	O
+a	O
+few	O
+figures	O
+,	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+,	O
+''	O
+
+# id = conivel-brave-new-world-000176
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the Director , who was tired of talking .
+said	O
+the	O
+Director	B-CHARACTER
+,	O
+who	O
+was	O
+tired	O
+of	O
+talking	O
+.	O
+
+# id = conivel-brave-new-world-000177
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Foster was only too happy to give them a few figures .
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+was	O
+only	O
+too	O
+happy	O
+to	O
+give	O
+them	O
+a	O
+few	O
+figures	O
+.	O
+
+# id = conivel-brave-new-world-000178
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Two hundred and twenty metres long , two hundred wide , ten high .
+Two	O
+hundred	O
+and	O
+twenty	O
+metres	O
+long	O
+,	O
+two	O
+hundred	O
+wide	O
+,	O
+ten	O
+high	O
+.	O
+
+# id = conivel-brave-new-world-000179
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He pointed upwards .
+He	O
+pointed	O
+upwards	O
+.	O
+
+# id = conivel-brave-new-world-000180
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Like chickens drinking , the students lifted their eyes towards the distant ceiling .
+Like	O
+chickens	O
+drinking	O
+,	O
+the	O
+students	O
+lifted	O
+their	O
+eyes	O
+towards	O
+the	O
+distant	O
+ceiling	O
+.	O
+
+# id = conivel-brave-new-world-000181
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Three tiers of racks : ground floor level , first gallery , second gallery .
+Three	O
+tiers	O
+of	O
+racks	O
+:	O
+ground	O
+floor	O
+level	O
+,	O
+first	O
+gallery	O
+,	O
+second	O
+gallery	O
+.	O
+
+# id = conivel-brave-new-world-000182
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The spidery steel-work of gallery above gallery faded away in all direc - tions into the dark .
+The	O
+spidery	O
+steel-work	O
+of	O
+gallery	O
+above	O
+gallery	O
+faded	O
+away	O
+in	O
+all	O
+direc	O
+-	O
+tions	O
+into	O
+the	O
+dark	O
+.	O
+
+# id = conivel-brave-new-world-000183
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Near them three red ghosts were busily unloading demijohns from a moving staircase .
+Near	O
+them	O
+three	O
+red	O
+ghosts	O
+were	O
+busily	O
+unloading	O
+demijohns	O
+from	O
+a	O
+moving	O
+staircase	O
+.	O
+
+# id = conivel-brave-new-world-000184
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The escalator from the Social Predestination Room .
+The	O
+escalator	O
+from	O
+the	O
+Social	B-LOCATION
+Predestination	I-LOCATION
+Room	I-LOCATION
+.	O
+
+# id = conivel-brave-new-world-000185
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Each bottle could be placed on one of fifteen racks , each rack , though you could n't see it , was a conveyor traveling at the rate of thirty-three and a third centimetres an hour .
+Each	O
+bottle	O
+could	O
+be	O
+placed	O
+on	O
+one	O
+of	O
+fifteen	O
+racks	O
+,	O
+each	O
+rack	O
+,	O
+though	O
+you	O
+could	O
+n't	O
+see	O
+it	O
+,	O
+was	O
+a	O
+conveyor	O
+traveling	O
+at	O
+the	O
+rate	O
+of	O
+thirty-three	O
+and	O
+a	O
+third	O
+centimetres	O
+an	O
+hour	O
+.	O
+
+# id = conivel-brave-new-world-000186
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Two hundred and sixty-seven days at eight metres a day .
+Two	O
+hundred	O
+and	O
+sixty-seven	O
+days	O
+at	O
+eight	O
+metres	O
+a	O
+day	O
+.	O
+
+# id = conivel-brave-new-world-000187
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Two thousand one hundred and thirty-six metres in all .
+Two	O
+thousand	O
+one	O
+hundred	O
+and	O
+thirty-six	O
+metres	O
+in	O
+all	O
+.	O
+
+# id = conivel-brave-new-world-000188
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One circuit of the cellar at ground level , one on the first gallery , half on the second , and on the two hundred and sixty-seventh morn - ing , daylight in the Decanting Room .
+One	O
+circuit	O
+of	O
+the	O
+cellar	O
+at	O
+ground	O
+level	O
+,	O
+one	O
+on	O
+the	O
+first	O
+gallery	O
+,	O
+half	O
+on	O
+the	O
+second	O
+,	O
+and	O
+on	O
+the	O
+two	O
+hundred	O
+and	O
+sixty-seventh	O
+morn	O
+-	O
+ing	O
+,	O
+daylight	O
+in	O
+the	O
+Decanting	B-LOCATION
+Room	I-LOCATION
+.	O
+
+# id = conivel-brave-new-world-000189
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Independent existence-so called .
+Independent	O
+existence-so	O
+called	O
+.	O
+
+# id = conivel-brave-new-world-000190
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But in the interval , ''
+``	O
+But	O
+in	O
+the	O
+interval	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000191
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Foster concluded , `` we 've managed to do a lot to them .
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+concluded	O
+,	O
+``	O
+we	O
+'ve	O
+managed	O
+to	O
+do	O
+a	O
+lot	O
+to	O
+them	O
+.	O
+
+# id = conivel-brave-new-world-000192
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Oh , a very great deal . ''
+Oh	O
+,	O
+a	O
+very	O
+great	O
+deal	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000193
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = His laugh was knowing and trium - phant .
+His	O
+laugh	O
+was	O
+knowing	O
+and	O
+trium	O
+-	O
+phant	O
+.	O
+
+# id = conivel-brave-new-world-000194
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` That 's the spirit I like , ''
+``	O
+That	O
+'s	O
+the	O
+spirit	O
+I	O
+like	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000195
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the Director once more .
+said	O
+the	O
+Director	B-CHARACTER
+once	O
+more	O
+.	O
+
+# id = conivel-brave-new-world-000196
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Let 's walk around .
+``	O
+Let	O
+'s	O
+walk	O
+around	O
+.	O
+
+# id = conivel-brave-new-world-000197
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = You tell them everything , Mr. Foster . ''
+You	O
+tell	O
+them	O
+everything	O
+,	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+.	O
+''	O
+
+# id = conivel-brave-new-world-000198
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Foster duly told them .
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+duly	O
+told	O
+them	O
+.	O
+
+# id = conivel-brave-new-world-000199
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Told them of the growing embryo on its bed of peritoneum .
+Told	O
+them	O
+of	O
+the	O
+growing	O
+embryo	O
+on	O
+its	O
+bed	O
+of	O
+peritoneum	O
+.	O
+
+# id = conivel-brave-new-world-000200
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Made them taste the rich blood surrogate on which it fed .
+Made	O
+them	O
+taste	O
+the	O
+rich	O
+blood	O
+surrogate	O
+on	O
+which	O
+it	O
+fed	O
+.	O
+
+# id = conivel-brave-new-world-000201
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Explained why it had to be stimulated with placentin and thyroxin .
+Explained	O
+why	O
+it	O
+had	O
+to	O
+be	O
+stimulated	O
+with	O
+placentin	O
+and	O
+thyroxin	O
+.	O
+
+# id = conivel-brave-new-world-000202
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Told them of the corpus lu - teum extract .
+Told	O
+them	O
+of	O
+the	O
+corpus	O
+lu	O
+-	O
+teum	O
+extract	O
+.	O
+
+# id = conivel-brave-new-world-000203
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Showed them the jets through which at every twelfth metre from zero to 2040 it was automatically injected .
+Showed	O
+them	O
+the	O
+jets	O
+through	O
+which	O
+at	O
+every	O
+twelfth	O
+metre	O
+from	O
+zero	O
+to	O
+2040	O
+it	O
+was	O
+automatically	O
+injected	O
+.	O
+
+# id = conivel-brave-new-world-000204
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Spoke of those gradually increasing doses of pituitary administered during the final ninety-six metres of their course .
+Spoke	O
+of	O
+those	O
+gradually	O
+increasing	O
+doses	O
+of	O
+pituitary	O
+administered	O
+during	O
+the	O
+final	O
+ninety-six	O
+metres	O
+of	O
+their	O
+course	O
+.	O
+
+# id = conivel-brave-new-world-000205
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Described the artificial maternal cir - culation installed in every bottle at Metre 112 ; showed them the reser - voir of blood-surrogate , the centrifugal pump that kept the liquid mov - ing over the placenta and drove it through the synthetic lung and waste product filter .
+Described	O
+the	O
+artificial	O
+maternal	O
+cir	O
+-	O
+culation	O
+installed	O
+in	O
+every	O
+bottle	O
+at	O
+Metre	B-LOCATION
+112	I-LOCATION
+;	O
+showed	O
+them	O
+the	O
+reser	O
+-	O
+voir	O
+of	O
+blood-surrogate	O
+,	O
+the	O
+centrifugal	O
+pump	O
+that	O
+kept	O
+the	O
+liquid	O
+mov	O
+-	O
+ing	O
+over	O
+the	O
+placenta	O
+and	O
+drove	O
+it	O
+through	O
+the	O
+synthetic	O
+lung	O
+and	O
+waste	O
+product	O
+filter	O
+.	O
+
+# id = conivel-brave-new-world-000206
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Referred to the embryo 's troublesome tendency to anaemia , to the massive doses of hog 's stomach extract and foetal foal 's liver with which , in consequence , it had to be supplied .
+Referred	O
+to	O
+the	O
+embryo	O
+'s	O
+troublesome	O
+tendency	O
+to	O
+anaemia	O
+,	O
+to	O
+the	O
+massive	O
+doses	O
+of	O
+hog	O
+'s	O
+stomach	O
+extract	O
+and	O
+foetal	O
+foal	O
+'s	O
+liver	O
+with	O
+which	O
+,	O
+in	O
+consequence	O
+,	O
+it	O
+had	O
+to	O
+be	O
+supplied	O
+.	O
+
+# id = conivel-brave-new-world-000207
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Showed them the simple mechanism by means of which , during the last two metres out of every eight , all the embryos were simultane - ously shaken into familiarity with movement .
+Showed	O
+them	O
+the	O
+simple	O
+mechanism	O
+by	O
+means	O
+of	O
+which	O
+,	O
+during	O
+the	O
+last	O
+two	O
+metres	O
+out	O
+of	O
+every	O
+eight	O
+,	O
+all	O
+the	O
+embryos	O
+were	O
+simultane	O
+-	O
+ously	O
+shaken	O
+into	O
+familiarity	O
+with	O
+movement	O
+.	O
+
+# id = conivel-brave-new-world-000208
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Hinted at the gravity of the so-called ` trauma of decanting , ' and enumerated the precautions taken to minimize , by a suitable training of the bottled embryo , that dangerous shock .
+Hinted	O
+at	O
+the	O
+gravity	O
+of	O
+the	O
+so-called	O
+`	O
+trauma	O
+of	O
+decanting	O
+,	O
+'	O
+and	O
+enumerated	O
+the	O
+precautions	O
+taken	O
+to	O
+minimize	O
+,	O
+by	O
+a	O
+suitable	O
+training	O
+of	O
+the	O
+bottled	O
+embryo	O
+,	O
+that	O
+dangerous	O
+shock	O
+.	O
+
+# id = conivel-brave-new-world-000209
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Told them of the test for sex carried out in the neighborhood of Metre 200 .
+Told	O
+them	O
+of	O
+the	O
+test	O
+for	O
+sex	O
+carried	O
+out	O
+in	O
+the	O
+neighborhood	O
+of	O
+Metre	B-LOCATION
+200	I-LOCATION
+.	O
+
+# id = conivel-brave-new-world-000210
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Explained the system of labelling-a T for the males , a circle for the females and for those who were destined to become freemartins a question mark , black on a white ground .
+Explained	O
+the	O
+system	O
+of	O
+labelling-a	O
+T	O
+for	O
+the	O
+males	O
+,	O
+a	O
+circle	O
+for	O
+the	O
+females	O
+and	O
+for	O
+those	O
+who	O
+were	O
+destined	O
+to	O
+become	O
+freemartins	O
+a	O
+question	O
+mark	O
+,	O
+black	O
+on	O
+a	O
+white	O
+ground	O
+.	O
+
+# id = conivel-brave-new-world-000211
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` For of course , ''
+``	O
+For	O
+of	O
+course	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000212
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Foster , `` in the vast majority of cases , fertility is merely a nuisance .
+said	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+,	O
+``	O
+in	O
+the	O
+vast	O
+majority	O
+of	O
+cases	O
+,	O
+fertility	O
+is	O
+merely	O
+a	O
+nuisance	O
+.	O
+
+# id = conivel-brave-new-world-000213
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One fertile ovary in twelve hundred-that would really be quite sufficient for our purposes .
+One	O
+fertile	O
+ovary	O
+in	O
+twelve	O
+hundred-that	O
+would	O
+really	O
+be	O
+quite	O
+sufficient	O
+for	O
+our	O
+purposes	O
+.	O
+
+# id = conivel-brave-new-world-000214
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But we want to have a good choice .
+But	O
+we	O
+want	O
+to	O
+have	O
+a	O
+good	O
+choice	O
+.	O
+
+# id = conivel-brave-new-world-000215
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And of course one must always have an enormous margin of safety .
+And	O
+of	O
+course	O
+one	O
+must	O
+always	O
+have	O
+an	O
+enormous	O
+margin	O
+of	O
+safety	O
+.	O
+
+# id = conivel-brave-new-world-000216
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So we allow as many as thirty per cent of the female embryos to develop normally .
+So	O
+we	O
+allow	O
+as	O
+many	O
+as	O
+thirty	O
+per	O
+cent	O
+of	O
+the	O
+female	O
+embryos	O
+to	O
+develop	O
+normally	O
+.	O
+
+# id = conivel-brave-new-world-000217
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The others get a dose of male sex-hormone every twenty-four metres for the rest of the course .
+The	O
+others	O
+get	O
+a	O
+dose	O
+of	O
+male	O
+sex-hormone	O
+every	O
+twenty-four	O
+metres	O
+for	O
+the	O
+rest	O
+of	O
+the	O
+course	O
+.	O
+
+# id = conivel-brave-new-world-000218
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Result : they 're decanted as freemartins-structurally quite normal ( except , ''
+Result	O
+:	O
+they	O
+'re	O
+decanted	O
+as	O
+freemartins-structurally	O
+quite	O
+normal	O
+(	O
+except	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000219
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he had to admit , `` that they do have the slightest tendency to grow beards ) , but sterile .
+he	O
+had	O
+to	O
+admit	O
+,	O
+``	O
+that	O
+they	O
+do	O
+have	O
+the	O
+slightest	O
+tendency	O
+to	O
+grow	O
+beards	O
+)	O
+,	O
+but	O
+sterile	O
+.	O
+
+# id = conivel-brave-new-world-000220
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Guaranteed sterile .
+Guaranteed	O
+sterile	O
+.	O
+
+# id = conivel-brave-new-world-000221
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Which brings us at last , ''
+Which	O
+brings	O
+us	O
+at	O
+last	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000222
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = continued Mr. Foster , `` out of the realm of mere slavish imitation of nature into the much more in - teresting world of human invention . ''
+continued	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+,	O
+``	O
+out	O
+of	O
+the	O
+realm	O
+of	O
+mere	O
+slavish	O
+imitation	O
+of	O
+nature	O
+into	O
+the	O
+much	O
+more	O
+in	O
+-	O
+teresting	O
+world	O
+of	O
+human	O
+invention	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000223
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He rubbed his hands .
+He	O
+rubbed	O
+his	O
+hands	O
+.	O
+
+# id = conivel-brave-new-world-000224
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = For of course , they did n't content themselves with merely hatching out embryos : any cow could do that .
+For	O
+of	O
+course	O
+,	O
+they	O
+did	O
+n't	O
+content	O
+themselves	O
+with	O
+merely	O
+hatching	O
+out	O
+embryos	O
+:	O
+any	O
+cow	O
+could	O
+do	O
+that	O
+.	O
+
+# id = conivel-brave-new-world-000225
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We also predestine and condition .
+``	O
+We	O
+also	O
+predestine	O
+and	O
+condition	O
+.	O
+
+# id = conivel-brave-new-world-000226
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We decant our babies as socialized human beings , as Alphas or Epsilons , as future sewage workers or fu - ture ... ''
+We	O
+decant	O
+our	O
+babies	O
+as	O
+socialized	O
+human	O
+beings	O
+,	O
+as	O
+Alphas	O
+or	O
+Epsilons	O
+,	O
+as	O
+future	O
+sewage	O
+workers	O
+or	O
+fu	O
+-	O
+ture	O
+...	O
+''	O
+
+# id = conivel-brave-new-world-000227
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was going to say `` future World controllers , ''
+He	O
+was	O
+going	O
+to	O
+say	O
+``	O
+future	O
+World	O
+controllers	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000228
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = but correcting himself , said `` future Directors of Hatcheries , ''
+but	O
+correcting	O
+himself	O
+,	O
+said	O
+``	O
+future	O
+Directors	O
+of	O
+Hatcheries	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000229
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = instead .
+instead	O
+.	O
+
+# id = conivel-brave-new-world-000230
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The D.H.C. acknowledged the compliment with a smile .
+The	O
+D.H.C.	B-CHARACTER
+acknowledged	O
+the	O
+compliment	O
+with	O
+a	O
+smile	O
+.	O
+
+# id = conivel-brave-new-world-000231
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were passing Metre 320 on Rack 11 .
+They	O
+were	O
+passing	O
+Metre	B-LOCATION
+320	I-LOCATION
+on	O
+Rack	B-LOCATION
+11	I-LOCATION
+.	O
+
+# id = conivel-brave-new-world-000232
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A young Beta-Minus me - chanic was busy with screw-driver and spanner on the blood-surrogate pump of a passing bottle .
+A	O
+young	O
+Beta-Minus	O
+me	O
+-	O
+chanic	O
+was	O
+busy	O
+with	O
+screw-driver	O
+and	O
+spanner	O
+on	O
+the	O
+blood-surrogate	O
+pump	O
+of	O
+a	O
+passing	O
+bottle	O
+.	O
+
+# id = conivel-brave-new-world-000233
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The hum of the electric motor deepened by fractions of a tone as he turned the nuts .
+The	O
+hum	O
+of	O
+the	O
+electric	O
+motor	O
+deepened	O
+by	O
+fractions	O
+of	O
+a	O
+tone	O
+as	O
+he	O
+turned	O
+the	O
+nuts	O
+.	O
+
+# id = conivel-brave-new-world-000234
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Down , down ... A final twist , a glance at the revolution counter , and he was done .
+Down	O
+,	O
+down	O
+...	O
+A	O
+final	O
+twist	O
+,	O
+a	O
+glance	O
+at	O
+the	O
+revolution	O
+counter	O
+,	O
+and	O
+he	O
+was	O
+done	O
+.	O
+
+# id = conivel-brave-new-world-000235
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He moved two paces down the line and began the same process on the next pump .
+He	O
+moved	O
+two	O
+paces	O
+down	O
+the	O
+line	O
+and	O
+began	O
+the	O
+same	O
+process	O
+on	O
+the	O
+next	O
+pump	O
+.	O
+
+# id = conivel-brave-new-world-000236
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Reducing the number of revolutions per minute , ''
+``	O
+Reducing	O
+the	O
+number	O
+of	O
+revolutions	O
+per	O
+minute	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000237
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Foster explained .
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+explained	O
+.	O
+
+# id = conivel-brave-new-world-000238
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The surrogate goes round slower ; therefore passes through the lung at longer intervals ; therefore gives the embryo less oxygen .
+``	O
+The	O
+surrogate	O
+goes	O
+round	O
+slower	O
+;	O
+therefore	O
+passes	O
+through	O
+the	O
+lung	O
+at	O
+longer	O
+intervals	O
+;	O
+therefore	O
+gives	O
+the	O
+embryo	O
+less	O
+oxygen	O
+.	O
+
+# id = conivel-brave-new-world-000239
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Nothing like oxygen-shortage for keeping an embryo below par . ''
+Nothing	O
+like	O
+oxygen-shortage	O
+for	O
+keeping	O
+an	O
+embryo	O
+below	O
+par	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000240
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Again he rubbed his hands .
+Again	O
+he	O
+rubbed	O
+his	O
+hands	O
+.	O
+
+# id = conivel-brave-new-world-000241
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But why do you want to keep the embryo below par ? ''
+``	O
+But	O
+why	O
+do	O
+you	O
+want	O
+to	O
+keep	O
+the	O
+embryo	O
+below	O
+par	O
+?	O
+''	O
+
+# id = conivel-brave-new-world-000242
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = asked an in - genuous student .
+asked	O
+an	O
+in	O
+-	O
+genuous	O
+student	O
+.	O
+
+# id = conivel-brave-new-world-000243
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ass ! ''
+``	O
+Ass	O
+!	O
+''	O
+
+# id = conivel-brave-new-world-000244
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the Director , breaking a long silence .
+said	O
+the	O
+Director	B-CHARACTER
+,	O
+breaking	O
+a	O
+long	O
+silence	O
+.	O
+
+# id = conivel-brave-new-world-000245
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Has n't it occurred to you that an Epsilon embryo must have an Epsilon environment as well as an Epsilon heredity ? ''
+``	O
+Has	O
+n't	O
+it	O
+occurred	O
+to	O
+you	O
+that	O
+an	O
+Epsilon	O
+embryo	O
+must	O
+have	O
+an	O
+Epsilon	O
+environment	O
+as	O
+well	O
+as	O
+an	O
+Epsilon	O
+heredity	O
+?	O
+''	O
+
+# id = conivel-brave-new-world-000246
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = It evidently had n't occurred to him .
+It	O
+evidently	O
+had	O
+n't	O
+occurred	O
+to	O
+him	O
+.	O
+
+# id = conivel-brave-new-world-000247
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He was covered with confusion .
+He	O
+was	O
+covered	O
+with	O
+confusion	O
+.	O
+
+# id = conivel-brave-new-world-000248
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The lower the caste , ''
+``	O
+The	O
+lower	O
+the	O
+caste	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000249
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Foster , `` the shorter the oxygen . ''
+said	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+,	O
+``	O
+the	O
+shorter	O
+the	O
+oxygen	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000250
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The first organ affected was the brain .
+The	O
+first	O
+organ	O
+affected	O
+was	O
+the	O
+brain	O
+.	O
+
+# id = conivel-brave-new-world-000251
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = After that the skeleton .
+After	O
+that	O
+the	O
+skeleton	O
+.	O
+
+# id = conivel-brave-new-world-000252
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At seventy per cent of normal oxygen you got dwarfs .
+At	O
+seventy	O
+per	O
+cent	O
+of	O
+normal	O
+oxygen	O
+you	O
+got	O
+dwarfs	O
+.	O
+
+# id = conivel-brave-new-world-000253
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = At less than seventy eye - less monsters .
+At	O
+less	O
+than	O
+seventy	O
+eye	O
+-	O
+less	O
+monsters	O
+.	O
+
+# id = conivel-brave-new-world-000254
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Who are no use at all , ''
+``	O
+Who	O
+are	O
+no	O
+use	O
+at	O
+all	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000255
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = concluded Mr. Foster .
+concluded	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+.	O
+
+# id = conivel-brave-new-world-000256
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Whereas ( his voice became confidential and eager ) , if they could dis - cover a technique for shortening the period of maturation what a tri - umph , what a benefaction to Society !
+Whereas	O
+(	O
+his	O
+voice	O
+became	O
+confidential	O
+and	O
+eager	O
+)	O
+,	O
+if	O
+they	O
+could	O
+dis	O
+-	O
+cover	O
+a	O
+technique	O
+for	O
+shortening	O
+the	O
+period	O
+of	O
+maturation	O
+what	O
+a	O
+tri	O
+-	O
+umph	O
+,	O
+what	O
+a	O
+benefaction	O
+to	O
+Society	O
+!	O
+
+# id = conivel-brave-new-world-000257
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Consider the horse . ''
+``	O
+Consider	O
+the	O
+horse	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000258
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They considered it .
+They	O
+considered	O
+it	O
+.	O
+
+# id = conivel-brave-new-world-000259
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mature at six ; the elephant at ten .
+Mature	O
+at	O
+six	O
+;	O
+the	O
+elephant	O
+at	O
+ten	O
+.	O
+
+# id = conivel-brave-new-world-000260
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = While at thirteen a man is not yet sexually mature ; and is only full-grown at twenty .
+While	O
+at	O
+thirteen	O
+a	O
+man	O
+is	O
+not	O
+yet	O
+sexually	O
+mature	O
+;	O
+and	O
+is	O
+only	O
+full-grown	O
+at	O
+twenty	O
+.	O
+
+# id = conivel-brave-new-world-000261
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Hence , of course , that fruit of delayed development , the human intelligence .
+Hence	O
+,	O
+of	O
+course	O
+,	O
+that	O
+fruit	O
+of	O
+delayed	O
+development	O
+,	O
+the	O
+human	O
+intelligence	O
+.	O
+
+# id = conivel-brave-new-world-000262
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` But in Epsilons , ''
+``	O
+But	O
+in	O
+Epsilons	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000263
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Foster very justly , `` we do n't need human in - telligence . ''
+said	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+very	O
+justly	O
+,	O
+``	O
+we	O
+do	O
+n't	O
+need	O
+human	O
+in	O
+-	O
+telligence	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000264
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Did n't need and did n't get it .
+Did	O
+n't	O
+need	O
+and	O
+did	O
+n't	O
+get	O
+it	O
+.	O
+
+# id = conivel-brave-new-world-000265
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But though the Epsilon mind was mature at ten , the Epsilon body was not fit to work till eighteen .
+But	O
+though	O
+the	O
+Epsilon	O
+mind	O
+was	O
+mature	O
+at	O
+ten	O
+,	O
+the	O
+Epsilon	O
+body	O
+was	O
+not	O
+fit	O
+to	O
+work	O
+till	O
+eighteen	O
+.	O
+
+# id = conivel-brave-new-world-000266
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Long years of superfluous and wasted immaturity .
+Long	O
+years	O
+of	O
+superfluous	O
+and	O
+wasted	O
+immaturity	O
+.	O
+
+# id = conivel-brave-new-world-000267
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = If the physical development could be speeded up till it was as quick , say , as a cow 's , what an enormous saving to the Community !
+If	O
+the	O
+physical	O
+development	O
+could	O
+be	O
+speeded	O
+up	O
+till	O
+it	O
+was	O
+as	O
+quick	O
+,	O
+say	O
+,	O
+as	O
+a	O
+cow	O
+'s	O
+,	O
+what	O
+an	O
+enormous	O
+saving	O
+to	O
+the	O
+Community	O
+!	O
+
+# id = conivel-brave-new-world-000268
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Enormous ! ''
+``	O
+Enormous	O
+!	O
+''	O
+
+# id = conivel-brave-new-world-000269
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = murmured the students .
+murmured	O
+the	O
+students	O
+.	O
+
+# id = conivel-brave-new-world-000270
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Foster 's enthusiasm was in - fectious .
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+'s	O
+enthusiasm	O
+was	O
+in	O
+-	O
+fectious	O
+.	O
+
+# id = conivel-brave-new-world-000271
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = He became rather technical ; spoke of the abnormal endocrine co - ordination which made men grow so slowly ; postulated a germinal mu - tation to account for it .
+He	O
+became	O
+rather	O
+technical	O
+;	O
+spoke	O
+of	O
+the	O
+abnormal	O
+endocrine	O
+co	O
+-	O
+ordination	O
+which	O
+made	O
+men	O
+grow	O
+so	O
+slowly	O
+;	O
+postulated	O
+a	O
+germinal	O
+mu	O
+-	O
+tation	O
+to	O
+account	O
+for	O
+it	O
+.	O
+
+# id = conivel-brave-new-world-000272
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Could the effects of this germinal mutation be undone ?
+Could	O
+the	O
+effects	O
+of	O
+this	O
+germinal	O
+mutation	O
+be	O
+undone	O
+?	O
+
+# id = conivel-brave-new-world-000273
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Could the individual Epsilon embryo be made a revert , by a suitable technique , to the normality of dogs and cows ?
+Could	O
+the	O
+individual	O
+Epsilon	O
+embryo	O
+be	O
+made	O
+a	O
+revert	O
+,	O
+by	O
+a	O
+suitable	O
+technique	O
+,	O
+to	O
+the	O
+normality	O
+of	O
+dogs	O
+and	O
+cows	O
+?	O
+
+# id = conivel-brave-new-world-000274
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = That was the problem .
+That	O
+was	O
+the	O
+problem	O
+.	O
+
+# id = conivel-brave-new-world-000275
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And it was all but solved .
+And	O
+it	O
+was	O
+all	O
+but	O
+solved	O
+.	O
+
+# id = conivel-brave-new-world-000276
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Pilkington , at Mombasa , had produced individuals who were sexually mature at four and full-grown at six and a half .
+Pilkington	B-CHARACTER
+,	O
+at	O
+Mombasa	B-LOCATION
+,	O
+had	O
+produced	O
+individuals	O
+who	O
+were	O
+sexually	O
+mature	O
+at	O
+four	O
+and	O
+full-grown	O
+at	O
+six	O
+and	O
+a	O
+half	O
+.	O
+
+# id = conivel-brave-new-world-000277
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A scientific triumph .
+A	O
+scientific	O
+triumph	O
+.	O
+
+# id = conivel-brave-new-world-000278
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But socially useless .
+But	O
+socially	O
+useless	O
+.	O
+
+# id = conivel-brave-new-world-000279
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Six-year-old men and women were too stupid to do even Epsilon work .
+Six-year-old	O
+men	O
+and	O
+women	O
+were	O
+too	O
+stupid	O
+to	O
+do	O
+even	O
+Epsilon	O
+work	O
+.	O
+
+# id = conivel-brave-new-world-000280
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = And the process was an all-or-nothing one ; ei - ther you failed to modify at all , or else you modified the whole way .
+And	O
+the	O
+process	O
+was	O
+an	O
+all-or-nothing	O
+one	O
+;	O
+ei	O
+-	O
+ther	O
+you	O
+failed	O
+to	O
+modify	O
+at	O
+all	O
+,	O
+or	O
+else	O
+you	O
+modified	O
+the	O
+whole	O
+way	O
+.	O
+
+# id = conivel-brave-new-world-000281
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were still trying to find the ideal compromise between adults of twenty and adults of six .
+They	O
+were	O
+still	O
+trying	O
+to	O
+find	O
+the	O
+ideal	O
+compromise	O
+between	O
+adults	O
+of	O
+twenty	O
+and	O
+adults	O
+of	O
+six	O
+.	O
+
+# id = conivel-brave-new-world-000282
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = So far without success .
+So	O
+far	O
+without	O
+success	O
+.	O
+
+# id = conivel-brave-new-world-000283
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Foster sighed and shook his head .
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+sighed	O
+and	O
+shook	O
+his	O
+head	O
+.	O
+
+# id = conivel-brave-new-world-000284
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Their wanderings through the crimson twilight had brought them to the neighborhood of Metre 170 on Rack 9 .
+Their	O
+wanderings	O
+through	O
+the	O
+crimson	O
+twilight	O
+had	O
+brought	O
+them	O
+to	O
+the	O
+neighborhood	O
+of	O
+Metre	B-LOCATION
+170	I-LOCATION
+on	O
+Rack	B-LOCATION
+9	I-LOCATION
+.	O
+
+# id = conivel-brave-new-world-000285
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = From this point onwards Rack 9 was enclosed and the bottle performed the remainder of their journey in a kind of tunnel , interrupted here and there by openings two or three metres wide .
+From	O
+this	O
+point	O
+onwards	O
+Rack	B-LOCATION
+9	I-LOCATION
+was	O
+enclosed	O
+and	O
+the	O
+bottle	O
+performed	O
+the	O
+remainder	O
+of	O
+their	O
+journey	O
+in	O
+a	O
+kind	O
+of	O
+tunnel	O
+,	O
+interrupted	O
+here	O
+and	O
+there	O
+by	O
+openings	O
+two	O
+or	O
+three	O
+metres	O
+wide	O
+.	O
+
+# id = conivel-brave-new-world-000286
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Heat conditioning , ''
+``	O
+Heat	O
+conditioning	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000287
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Foster .
+said	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+.	O
+
+# id = conivel-brave-new-world-000288
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Hot tunnels alternated with cool tunnels .
+Hot	O
+tunnels	O
+alternated	O
+with	O
+cool	O
+tunnels	O
+.	O
+
+# id = conivel-brave-new-world-000289
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Coolness was wedded to dis - comfort in the form of hard X-rays .
+Coolness	O
+was	O
+wedded	O
+to	O
+dis	O
+-	O
+comfort	O
+in	O
+the	O
+form	O
+of	O
+hard	O
+X-rays	O
+.	O
+
+# id = conivel-brave-new-world-000290
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = By the time they were decanted the embryos had a horror of cold .
+By	O
+the	O
+time	O
+they	O
+were	O
+decanted	O
+the	O
+embryos	O
+had	O
+a	O
+horror	O
+of	O
+cold	O
+.	O
+
+# id = conivel-brave-new-world-000291
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They were predestined to emigrate to the tropics , to be miner and acetate silk spinners and steel workers .
+They	O
+were	O
+predestined	O
+to	O
+emigrate	O
+to	O
+the	O
+tropics	O
+,	O
+to	O
+be	O
+miner	O
+and	O
+acetate	O
+silk	O
+spinners	O
+and	O
+steel	O
+workers	O
+.	O
+
+# id = conivel-brave-new-world-000292
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Later on their minds would be made to endorse the judgment of their bodies .
+Later	O
+on	O
+their	O
+minds	O
+would	O
+be	O
+made	O
+to	O
+endorse	O
+the	O
+judgment	O
+of	O
+their	O
+bodies	O
+.	O
+
+# id = conivel-brave-new-world-000293
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` We condition them to thrive on heat , ''
+``	O
+We	O
+condition	O
+them	O
+to	O
+thrive	O
+on	O
+heat	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000294
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = concluded Mr. Foster .
+concluded	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+.	O
+
+# id = conivel-brave-new-world-000295
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Our colleagues upstairs will teach them to love it . ''
+``	O
+Our	O
+colleagues	O
+upstairs	O
+will	O
+teach	O
+them	O
+to	O
+love	O
+it	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000296
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And that , ''
+``	O
+And	O
+that	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000297
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = put in the Director sententiously , `` that is the secret of hap - piness and virtue-liking what you 've got to do .
+put	O
+in	O
+the	O
+Director	B-CHARACTER
+sententiously	O
+,	O
+``	O
+that	O
+is	O
+the	O
+secret	O
+of	O
+hap	O
+-	O
+piness	O
+and	O
+virtue-liking	O
+what	O
+you	O
+'ve	O
+got	O
+to	O
+do	O
+.	O
+
+# id = conivel-brave-new-world-000298
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = All conditioning aims at that : making people like their unescapable social destiny . ''
+All	O
+conditioning	O
+aims	O
+at	O
+that	O
+:	O
+making	O
+people	O
+like	O
+their	O
+unescapable	O
+social	O
+destiny	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000299
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = In a gap between two tunnels , a nurse was delicately probing with a long fine syringe into the gelatinous contents of a passing bottle .
+In	O
+a	O
+gap	O
+between	O
+two	O
+tunnels	O
+,	O
+a	O
+nurse	O
+was	O
+delicately	O
+probing	O
+with	O
+a	O
+long	O
+fine	O
+syringe	O
+into	O
+the	O
+gelatinous	O
+contents	O
+of	O
+a	O
+passing	O
+bottle	O
+.	O
+
+# id = conivel-brave-new-world-000300
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The students and their guides stood watching her for a few moments in si - lence .
+The	O
+students	O
+and	O
+their	O
+guides	O
+stood	O
+watching	O
+her	O
+for	O
+a	O
+few	O
+moments	O
+in	O
+si	O
+-	O
+lence	O
+.	O
+
+# id = conivel-brave-new-world-000301
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Well , Lenina , ''
+``	O
+Well	O
+,	O
+Lenina	B-CHARACTER
+,	O
+''	O
+
+# id = conivel-brave-new-world-000302
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said Mr. Foster , when at last she withdrew the syringe and straightened herself up .
+said	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+,	O
+when	O
+at	O
+last	O
+she	O
+withdrew	O
+the	O
+syringe	O
+and	O
+straightened	O
+herself	O
+up	O
+.	O
+
+# id = conivel-brave-new-world-000303
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The girl turned with a start .
+The	O
+girl	O
+turned	O
+with	O
+a	O
+start	O
+.	O
+
+# id = conivel-brave-new-world-000304
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = One could see that , for all the lupus and the purple eyes , she was uncommonly pretty .
+One	O
+could	O
+see	O
+that	O
+,	O
+for	O
+all	O
+the	O
+lupus	O
+and	O
+the	O
+purple	O
+eyes	O
+,	O
+she	O
+was	O
+uncommonly	O
+pretty	O
+.	O
+
+# id = conivel-brave-new-world-000305
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Henry ! ''
+``	O
+Henry	B-CHARACTER
+!	O
+''	O
+
+# id = conivel-brave-new-world-000306
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Her smile flashed redly at him-a row of coral teeth .
+Her	O
+smile	O
+flashed	O
+redly	O
+at	O
+him-a	O
+row	O
+of	O
+coral	O
+teeth	O
+.	O
+
+# id = conivel-brave-new-world-000307
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Charming , charming , ''
+``	O
+Charming	O
+,	O
+charming	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000308
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = murmured the Director and , giving her two or three little pats , received in exchange a rather deferential smile for himself .
+murmured	O
+the	O
+Director	B-CHARACTER
+and	O
+,	O
+giving	O
+her	O
+two	O
+or	O
+three	O
+little	O
+pats	O
+,	O
+received	O
+in	O
+exchange	O
+a	O
+rather	O
+deferential	O
+smile	O
+for	O
+himself	O
+.	O
+
+# id = conivel-brave-new-world-000309
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` What are you giving them ? ''
+``	O
+What	O
+are	O
+you	O
+giving	O
+them	O
+?	O
+''	O
+
+# id = conivel-brave-new-world-000310
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = asked Mr. Foster , making his tone very professional .
+asked	O
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+,	O
+making	O
+his	O
+tone	O
+very	O
+professional	O
+.	O
+
+# id = conivel-brave-new-world-000311
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Oh , the usual typhoid and sleeping sickness . ''
+``	O
+Oh	O
+,	O
+the	O
+usual	O
+typhoid	O
+and	O
+sleeping	O
+sickness	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000312
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Tropical workers start being inoculated at Metre 150 , ''
+``	O
+Tropical	O
+workers	O
+start	O
+being	O
+inoculated	O
+at	O
+Metre	B-LOCATION
+150	I-LOCATION
+,	O
+''	O
+
+# id = conivel-brave-new-world-000313
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Foster ex - plained to the students .
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+ex	O
+-	O
+plained	O
+to	O
+the	O
+students	O
+.	O
+
+# id = conivel-brave-new-world-000314
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` The embryos still have gills .
+``	O
+The	O
+embryos	O
+still	O
+have	O
+gills	O
+.	O
+
+# id = conivel-brave-new-world-000315
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We immunize the fish against the future man 's diseases . ''
+We	O
+immunize	O
+the	O
+fish	O
+against	O
+the	O
+future	O
+man	O
+'s	O
+diseases	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000316
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Then , turning back to Lenina , `` Ten to five on the roof this afternoon , ''
+Then	O
+,	O
+turning	O
+back	O
+to	O
+Lenina	B-CHARACTER
+,	O
+``	O
+Ten	O
+to	O
+five	O
+on	O
+the	O
+roof	O
+this	O
+afternoon	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000317
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said , `` as usual . ''
+he	O
+said	O
+,	O
+``	O
+as	O
+usual	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000318
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Charming , ''
+``	O
+Charming	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000319
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = said the Director once more , and , with a final pat , moved away after the others .
+said	O
+the	O
+Director	B-CHARACTER
+once	O
+more	O
+,	O
+and	O
+,	O
+with	O
+a	O
+final	O
+pat	O
+,	O
+moved	O
+away	O
+after	O
+the	O
+others	O
+.	O
+
+# id = conivel-brave-new-world-000320
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = On Rack 10 rows of next generation 's chemical workers were being trained in the toleration of lead , caustic soda , tar , chlorine .
+On	O
+Rack	B-LOCATION
+10	I-LOCATION
+rows	O
+of	O
+next	O
+generation	O
+'s	O
+chemical	O
+workers	O
+were	O
+being	O
+trained	O
+in	O
+the	O
+toleration	O
+of	O
+lead	O
+,	O
+caustic	O
+soda	O
+,	O
+tar	O
+,	O
+chlorine	O
+.	O
+
+# id = conivel-brave-new-world-000321
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The first of a batch of two hundred and fifty embryonic rocket-plane engineers was just passing the eleven hundred metre mark on Rack 3 .
+The	O
+first	O
+of	O
+a	O
+batch	O
+of	O
+two	O
+hundred	O
+and	O
+fifty	O
+embryonic	O
+rocket-plane	O
+engineers	O
+was	O
+just	O
+passing	O
+the	O
+eleven	O
+hundred	O
+metre	O
+mark	O
+on	O
+Rack	B-LOCATION
+3	I-LOCATION
+.	O
+
+# id = conivel-brave-new-world-000322
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = A special mechanism kept their containers in constant rotation .
+A	O
+special	O
+mechanism	O
+kept	O
+their	O
+containers	O
+in	O
+constant	O
+rotation	O
+.	O
+
+# id = conivel-brave-new-world-000323
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` To improve their sense of balance , ''
+``	O
+To	O
+improve	O
+their	O
+sense	O
+of	O
+balance	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000324
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Foster explained .
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+explained	O
+.	O
+
+# id = conivel-brave-new-world-000325
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Doing repairs on the outside of a rocket in mid-air is a ticklish job .
+``	O
+Doing	O
+repairs	O
+on	O
+the	O
+outside	O
+of	O
+a	O
+rocket	O
+in	O
+mid-air	O
+is	O
+a	O
+ticklish	O
+job	O
+.	O
+
+# id = conivel-brave-new-world-000326
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We slacken off the circu - lation when they 're right way up , so that they 're half starved , and double the flow of surrogate when they 're upside down .
+We	O
+slacken	O
+off	O
+the	O
+circu	O
+-	O
+lation	O
+when	O
+they	O
+'re	O
+right	O
+way	O
+up	O
+,	O
+so	O
+that	O
+they	O
+'re	O
+half	O
+starved	O
+,	O
+and	O
+double	O
+the	O
+flow	O
+of	O
+surrogate	O
+when	O
+they	O
+'re	O
+upside	O
+down	O
+.	O
+
+# id = conivel-brave-new-world-000327
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = They learn to associate topsy-turvydom with well-being ; in fact , they 're only truly happy when they 're standing on their heads . ''
+They	O
+learn	O
+to	O
+associate	O
+topsy-turvydom	O
+with	O
+well-being	O
+;	O
+in	O
+fact	O
+,	O
+they	O
+'re	O
+only	O
+truly	O
+happy	O
+when	O
+they	O
+'re	O
+standing	O
+on	O
+their	O
+heads	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000328
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` And now , ''
+``	O
+And	O
+now	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000329
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Foster went on , `` I 'd like to show you some very inter - esting conditioning for Alpha Plus Intellectuals .
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+went	O
+on	O
+,	O
+``	O
+I	O
+'d	O
+like	O
+to	O
+show	O
+you	O
+some	O
+very	O
+inter	O
+-	O
+esting	O
+conditioning	O
+for	O
+Alpha	O
+Plus	O
+Intellectuals	O
+.	O
+
+# id = conivel-brave-new-world-000330
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We have a big batch of them on Rack 5 .
+We	O
+have	O
+a	O
+big	O
+batch	O
+of	O
+them	O
+on	O
+Rack	B-LOCATION
+5	I-LOCATION
+.	O
+
+# id = conivel-brave-new-world-000331
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = First Gallery level , ''
+First	O
+Gallery	O
+level	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000332
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he called to two boys who had started to go down to the ground floor .
+he	O
+called	O
+to	O
+two	O
+boys	O
+who	O
+had	O
+started	O
+to	O
+go	O
+down	O
+to	O
+the	O
+ground	O
+floor	O
+.	O
+
+# id = conivel-brave-new-world-000333
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` They 're round about Metre 900 , ''
+``	O
+They	O
+'re	O
+round	O
+about	O
+Metre	B-LOCATION
+900	I-LOCATION
+,	O
+''	O
+
+# id = conivel-brave-new-world-000334
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he explained .
+he	O
+explained	O
+.	O
+
+# id = conivel-brave-new-world-000335
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` You ca n't really do any useful intellectual conditioning till the foetuses have lost their tails .
+``	O
+You	O
+ca	O
+n't	O
+really	O
+do	O
+any	O
+useful	O
+intellectual	O
+conditioning	O
+till	O
+the	O
+foetuses	O
+have	O
+lost	O
+their	O
+tails	O
+.	O
+
+# id = conivel-brave-new-world-000336
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Follow me . ''
+Follow	O
+me	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000337
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = But the Director had looked at his watch .
+But	O
+the	O
+Director	B-CHARACTER
+had	O
+looked	O
+at	O
+his	O
+watch	O
+.	O
+
+# id = conivel-brave-new-world-000338
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Ten to three , ''
+``	O
+Ten	O
+to	O
+three	O
+,	O
+''	O
+
+# id = conivel-brave-new-world-000339
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he said .
+he	O
+said	O
+.	O
+
+# id = conivel-brave-new-world-000340
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` No time for the intellectual embryos , I 'm afraid .
+``	O
+No	O
+time	O
+for	O
+the	O
+intellectual	O
+embryos	O
+,	O
+I	O
+'m	O
+afraid	O
+.	O
+
+# id = conivel-brave-new-world-000341
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = We must go up to the Nurseries before the children have finished their afternoon sleep . ''
+We	O
+must	O
+go	O
+up	O
+to	O
+the	O
+Nurseries	B-LOCATION
+before	O
+the	O
+children	O
+have	O
+finished	O
+their	O
+afternoon	O
+sleep	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000342
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = Mr. Foster was disappointed .
+Mr.	B-CHARACTER
+Foster	I-CHARACTER
+was	O
+disappointed	O
+.	O
+
+# id = conivel-brave-new-world-000343
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` At least one glance at the Decanting Room , ''
+``	O
+At	O
+least	O
+one	O
+glance	O
+at	O
+the	O
+Decanting	B-LOCATION
+Room	I-LOCATION
+,	O
+''	O
+
+# id = conivel-brave-new-world-000344
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = he pleaded .
+he	O
+pleaded	O
+.	O
+
+# id = conivel-brave-new-world-000345
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Very well then . ''
+``	O
+Very	O
+well	O
+then	O
+.	O
+''	O
+
+# id = conivel-brave-new-world-000346
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = The Director smiled indulgently .
+The	O
+Director	B-CHARACTER
+smiled	O
+indulgently	O
+.	O
+
+# id = conivel-brave-new-world-000347
+# source = Conivel corrected OWTO literary NER
+# book = Brave New World
+# source_file = BraveNewWorld.conll
+# source_revision = e8f4ea5112a9a60872f0a726079f8c0f94490b11
+# license = Apache-2.0
+# source_url = https://github.com/CompNet/conivel/tree/e8f4ea5112a9a60872f0a726079f8c0f94490b11/conivel/datas/dekker/dataset
+# text = `` Just one glance .
+``	O
+Just	O
+one	O
+glance	O
+.	O
+
