@@ -1,0 +1,90 @@
+name: Publish model to Firebase
+
+"on":
+  workflow_dispatch:
+    inputs:
+      source_run_id:
+        description: GitHub Actions run ID containing the model artifact
+        required: true
+        type: string
+      artifact_name:
+        description: Name of the model artifact from that run
+        required: true
+        default: character-ner-onnx
+        type: string
+  workflow_call:
+    inputs:
+      source_run_id:
+        description: GitHub Actions run ID containing the model artifact
+        required: true
+        type: string
+      artifact_name:
+        description: Name of the model artifact from that run
+        required: true
+        type: string
+      model_name:
+        description: Stable model name used in Firebase Storage
+        required: true
+        type: string
+    secrets:
+      FIREBASE_SERVICE_ACCOUNT_JSON:
+        description: Complete Firebase publisher service-account JSON
+        required: true
+      model_name:
+        description: Stable model name used in Firebase Storage
+        required: true
+        default: character-ner-onnx
+        type: string
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      FIREBASE_STORAGE_BUCKET: ${{ vars.FIREBASE_STORAGE_BUCKET }}
+
+    steps:
+      - name: Check out publisher
+        uses: actions/checkout@v4
+
+      - name: Download model artifact
+        uses: actions/download-artifact@v5
+        with:
+          name: ${{ inputs.artifact_name }}
+          path: model-to-publish
+          github-token: ${{ github.token }}
+          run-id: ${{ inputs.source_run_id }}
+
+      # Required repository secret: FIREBASE_SERVICE_ACCOUNT_JSON
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v3
+        with:
+          credentials_json: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements-publish.txt
+
+      - name: Install publishing dependencies
+        run: python -m pip install -r requirements-publish.txt
+
+      - name: Verify required configuration
+        run: |
+          if [ -z "$FIREBASE_STORAGE_BUCKET" ]; then
+            echo "::error::Set the FIREBASE_STORAGE_BUCKET repository variable."
+            exit 1
+          fi
+
+      - name: Publish changed model files
+        env:
+          MODEL_NAME: ${{ inputs.model_name }}
+        run: |
+          python src/publish_model.py \
+            --model-dir model-to-publish \
+            --model-name "$MODEL_NAME"

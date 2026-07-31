@@ -1,0 +1,18 @@
+models/
+exported/
+
+__pycache__/
+*.py[cod]
+
+.venv/
+.venv-rocm/
+.env
+
+.idea/
+
+data/.cache/
+.cache/
+
+# Firebase / Google credentials generated or downloaded locally.
+firebase-service-account*.json
+gha-creds-*.json
